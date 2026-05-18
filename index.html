@@ -1,0 +1,123 @@
+<!DOCTYPE html>
+<html lang="ko">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>글로벌 반도체 에코시스템 & 트렌드 모니터링</title>
+    <!-- 검색 엔진 로봇의 인덱싱을 차단하는 메타 태그 (외부 노출 방지) -->
+    <meta name="robots" content="noindex, nofollow">
+    <style>
+        body { font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif; background-color: #f4f6f9; margin: 0; padding: 20px; }
+        .container { max-width: 1200px; margin: 0 auto; display: none; } /* 인증 전에는 숨김 */
+        h1 { text-align: center; color: #1e293b; }
+        .updated-time { text-align: right; color: #64748b; font-size: 0.9rem; margin-bottom: 20px; }
+        
+        /* 지형도 그리드 레이아웃 */
+        .ecosystem-map { display: grid; grid-template-columns: repeat(2, 1fr); gap: 20px; margin-bottom: 40px; }
+        .region-card { background: white; padding: 20px; border-radius: 8px; box-shadow: 0 4px 6px rgba(0,0,0,0.05); }
+        .region-card h2 { margin-top: 0; border-bottom: 2px solid #3b82f6; padding-bottom: 10px; color: #1d4ed8; }
+        
+        /* 회사 버튼 스타일 */
+        .company-list { display: flex; flex-wrap: wrap; gap: 10px; margin-top: 15px; }
+        .company-btn { background: #eff6ff; color: #1e40af; border: 1px solid #bfdbfe; padding: 8px 16px; border-radius: 20px; cursor: pointer; font-weight: bold; text-decoration: none; transition: all 0.2s; }
+        .company-btn:hover { background: #3b82f6; color: white; }
+
+        /* 간단한 암호 모달창 스타일 */
+        #auth-overlay { position: fixed; top:0; left:0; width:100%; height:100%; background:#1e293b; display:flex; justify-content:center; align-items:center; z-index:999; }
+        .auth-box { background:white; padding:30px; border-radius:8px; text-align:center; box-shadow:0 10px 25px rgba(0,0,0,0.3); }
+        .auth-box input { padding:10px; width:200px; margin-bottom:15px; border:1px solid #cbd5e1; border-radius:4px; font-size:1rem; text-align:center; }
+        .auth-box button { padding:10px 20px; background:#3b82f6; color:white; border:none; border-radius:4px; cursor:pointer; font-size:1rem; }
+    </style>
+</head>
+<body>
+
+    <!-- 비밀번호 입력 창 -->
+    <div id="auth-overlay">
+        <div class="auth-box">
+            <h3>보안 접근</h3>
+            <p>팀 비밀번호를 입력하세요.</p>
+            <input type="password" id="team-password" placeholder="Password" onkeydown="if(event.key==='Enter') verifyPassword()"><br>
+            <button onclick="verifyPassword()">접속하기</button>
+        </div>
+    </div>
+
+    <!-- 실제 메인 콘텐츠 (인증 성공 시 표시) -->
+    <div class="container" id="main-content">
+        <h1>글로벌 반도체 에코시스템 지형도</h1>
+        <div class="updated-time">최근 업데이트: 2026-05-19 07:50 (30분 간격 자동 갱신)</div>
+
+        <div class="ecosystem-map">
+            <!-- 한국 영역 -->
+            <div class="region-card">
+                <h2>Korea (DSP / Fabless)</h2>
+                <div class="company-list">
+                    <a href="#co-lx" class="company-btn">LX 세미콘</a>
+                    <a href="#co-rebellions" class="company-btn">리벨리온</a>
+                    <a href="#co-semifive" class="company-btn">세미파이브</a>
+                </div>
+            </div>
+
+            <!-- 미국 영역 -->
+            <div class="region-card">
+                <h2>USA (Big Tech / Fabless)</h2>
+                <div class="company-list">
+                    <a href="#co-nvidia" class="company-btn">NVIDIA</a>
+                    <a href="#co-qualcomm" class="company-btn">Qualcomm</a>
+                    <a href="#co-amd" class="company-btn">AMD</a>
+                </div>
+            </div>
+
+            <!-- 대만/일본 영역 -->
+            <div class="region-card">
+                <h2>Taiwan & Japan (Foundry / DSP)</h2>
+                <div class="company-list">
+                    <a href="#co-tsmc" class="company-btn">TSMC</a>
+                    <a href="#co-unichips" class="company-btn">Unichips</a>
+                    <a href="#co-rapidus" class="company-btn">Rapidus</a>
+                </div>
+            </div>
+
+            <!-- 유럽 영역 -->
+            <div class="region-card">
+                <h2>Europe (IP / Architecture)</h2>
+                <div class="company-list">
+                    <a href="#co-arm" class="company-btn">Arm</a>
+                    <a href="#co-asml" class="company-btn">ASML</a>
+                    <a href="#co-stmicro" class="company-btn">STMicroelectronics</a>
+                </div>
+            </div>
+        </div>
+
+        <hr>
+        <h2>기업별 실시간 모니터링 기사 (Gemma3 요약)</h2>
+        <p style="color: #64748b;">※ 위 지형도에서 회사 버튼을 클릭하면 해당 섹션으로 바로 이동합니다.</p>
+        
+        <!-- 추후 파이썬 자동화 스크립트가 기사 데이터를 이 아래에 채워 넣게 됩니다 -->
+        <div id="news-section">
+            <div id="co-nvidia" style="padding: 15px; background: white; margin-bottom: 15px; border-radius: 6px;">
+                <h3>NVIDIA</h3>
+                <p><strong>기사 제목:</strong> NVIDIA Next-Gen Blackwell Architecture Production On Track</p>
+                <p><strong>AI 요약 (Gemma3):</strong> 엔비디아의 차세대 블랙웰 아키텍처 칩 생산이 예정대로 진행 중이며, 데이터센터 수요 폭증으로 인해 하반기 공급망 확충에 집중하고 있음. 특히 파운드리 파트너사와의 협력이 심화됨.</p>
+                <a href="#" target="_blank" style="color: #3b82f6;">원문 보기</a>
+            </div>
+        </div>
+    </div>
+
+    <script>
+        // 수정 가능한 매개변수: 팀원들과 공유할 사이트 비밀번호
+        const CONFIG_PASSWORD = "semi-team-pass"; 
+
+        function verifyPassword() {
+            const userInput = document.getElementById("team-password").value;
+            if (userInput === CONFIG_PASSWORD) {
+                // 비밀번호가 일치하면 암호창을 숨기고 메인 화면을 보여줌
+                document.getElementById("auth-overlay").style.display = "none";
+                document.getElementById("main-content").style.display = "block";
+            } else {
+                alert("비밀번호가 올바르지 않습니다.");
+                document.getElementById("team-password").value = "";
+            }
+        }
+    </script>
+</body>
+</html>
