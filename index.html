@@ -11,71 +11,51 @@
         h1 { text-align: center; color: #1e293b; font-size: 2.2rem; }
         .updated-time { text-align: right; color: #64748b; font-size: 0.9rem; margin-bottom: 30px; }
         
-        /* 🗺️ 세계지도 배경 영역 */
+        /* 🗺️ 상단: 세계지도 데코레이션 영역 */
         .map-wrapper {
             position: relative;
             width: 100%;
-            max-width: 900px;
-            height: 450px;
-            margin: 0 auto 50px auto;
-            /* 위키미디어의 무료 세계지도 이미지 사용 */
+            max-width: 800px; /* 지도를 살짝 작게 조절하여 안정감 부여 */
+            height: 400px;
+            margin: 0 auto 30px auto;
             background-image: url('https://upload.wikimedia.org/wikipedia/commons/e/ec/World_map_blank_without_borders.svg');
             background-size: contain;
             background-position: center;
             background-repeat: no-repeat;
+            opacity: 0.85; /* 데코레이션 느낌을 위해 살짝 투명도 적용 */
         }
 
-        /* 📍 지도 위에 올라갈 핀(마커) 기본 디자인 */
         .pin {
             position: absolute;
-            width: 24px;
-            height: 24px;
-            background-color: #ef4444; /* 눈에 띄는 빨간색 */
+            width: 20px;
+            height: 20px;
+            background-color: #ef4444;
             border: 3px solid white;
             border-radius: 50%;
-            cursor: pointer;
             box-shadow: 0 4px 8px rgba(0,0,0,0.3);
-            transition: transform 0.2s;
         }
         
-        /* 마우스 올렸을 때 핀 커지게 하기 */
-        .pin:hover { transform: scale(1.3); z-index: 100; }
+        /* 💡 여기에 용규님이 직접 찾으신 정확한 좌표(%)를 넣어주세요! */
+        .pin-korea { top: 28%; left: 81.5%; }  
+        .pin-taiwan { top: 35%; left: 80.5%; } 
+        .pin-usa { top: 28%; left: 15%; }      
+        .pin-europe { top: 20%; left: 48%; }   
 
-         /* 국가별 핀의 정확한 위치 (위도/경도에 맞게 수정) */
-        .pin-korea { top: 28%; left: 81.5%; }  /* 대한민국 (서울 주변) */
-        .pin-taiwan { top: 35%; left: 80.5%; } /* 대만 (신주 주변) */
-        .pin-usa { top: 28%; left: 15%; }      /* 미국 서부 (실리콘밸리 주변) */
-        .pin-europe { top: 20%; left: 48%; }   /* 유럽 (네덜란드/영국 주변) */
-
-        /* 💬 마우스를 올리면 나타나는 말풍선(팝업) 디자인 */
-        .pin-popup {
-            display: none; /* 평소에는 숨김 */
-            position: absolute;
-            top: 35px;
-            left: -100px;
-            background: white;
-            width: 240px;
-            padding: 15px;
-            border-radius: 8px;
-            box-shadow: 0 10px 25px rgba(0,0,0,0.2);
-            border-top: 4px solid #1d4ed8;
-            cursor: default;
-        }
-
-        /* 핀에 마우스를 올리면 말풍선 나타나게 하는 마법의 CSS */
-        .pin:hover .pin-popup, .pin-popup:hover { display: block; }
-        .pin-popup h2 { margin: 0 0 10px 0; font-size: 1.1rem; color: #1d4ed8; border-bottom: 1px solid #e2e8f0; padding-bottom: 8px; }
-
-        /* 회사 버튼 스타일 */
-        .company-list { display: flex; flex-wrap: wrap; gap: 8px; }
-        .company-btn { background: #eff6ff; color: #1e40af; border: 1px solid #bfdbfe; padding: 6px 12px; border-radius: 15px; font-size: 0.85rem; text-decoration: none; font-weight: bold; transition: all 0.2s; }
+        /* 🗂️ 중단: 카테고리 카드 영역 (기존 코드 복구) */
+        .ecosystem-map { display: grid; grid-template-columns: repeat(2, 1fr); gap: 20px; margin-bottom: 40px; }
+        .region-card { background: white; padding: 20px; border-radius: 8px; box-shadow: 0 4px 6px rgba(0,0,0,0.05); }
+        .region-card h2 { margin-top: 0; border-bottom: 2px solid #3b82f6; padding-bottom: 10px; color: #1d4ed8; font-size: 1.2rem; }
+        
+        .company-list { display: flex; flex-wrap: wrap; gap: 10px; margin-top: 15px; }
+        .company-btn { background: #eff6ff; color: #1e40af; border: 1px solid #bfdbfe; padding: 8px 16px; border-radius: 20px; cursor: pointer; font-weight: bold; text-decoration: none; transition: all 0.2s; font-size: 0.9rem; }
         .company-btn:hover { background: #3b82f6; color: white; }
 
-        /* 기사 목록 디자인 */
+        /* 📰 하단: 기사 목록 영역 */
         .news-section { background: white; padding: 30px; border-radius: 12px; box-shadow: 0 4px 6px rgba(0,0,0,0.05); }
+        .news-section > h2 { margin-top: 0; border-bottom: 2px solid #e2e8f0; padding-bottom: 10px; color: #1e293b; }
         .news-card { padding: 15px; border: 1px solid #e2e8f0; border-radius: 8px; margin-bottom: 15px; }
 
-        /* 암호 모달창 (기존과 동일) */
+        /* 🔒 암호 모달창 */
         #auth-overlay { position: fixed; top:0; left:0; width:100%; height:100%; background:#1e293b; display:flex; justify-content:center; align-items:center; z-index:999; }
         .auth-box { background:white; padding:30px; border-radius:8px; text-align:center; box-shadow:0 10px 25px rgba(0,0,0,0.3); }
         .auth-box input { padding:10px; width:200px; margin-bottom:15px; border:1px solid #cbd5e1; border-radius:4px; font-size:1rem; text-align:center; }
@@ -98,66 +78,65 @@
         <div class="updated-time">최근 업데이트: 2026-05-19 07:50 (30분 간격 자동 갱신)</div>
 
         <div class="map-wrapper">
-            
-            <div class="pin pin-korea">
-                <div class="pin-popup">
-                    <h2>Korea (DSP/Fabless)</h2>
-                    <div class="company-list">
-                        <a href="#co-lx" class="company-btn">LX 세미콘</a>
-                        <a href="#co-rebellions" class="company-btn">리벨리온</a>
-                        <a href="#co-semifive" class="company-btn">세미파이브</a>
-                    </div>
+            <div class="pin pin-korea"></div>
+            <div class="pin pin-usa"></div>
+            <div class="pin pin-taiwan"></div>
+            <div class="pin pin-europe"></div>
+        </div>
+
+        <div class="ecosystem-map">
+            <div class="region-card">
+                <h2>Korea (DSP / Fabless)</h2>
+                <div class="company-list">
+                    <a href="#co-lx" class="company-btn">LX 세미콘</a>
+                    <a href="#co-rebellions" class="company-btn">리벨리온</a>
+                    <a href="#co-semifive" class="company-btn">세미파이브</a>
                 </div>
             </div>
 
-            <div class="pin pin-usa">
-                <div class="pin-popup">
-                    <h2>USA (Big Tech/Fabless)</h2>
-                    <div class="company-list">
-                        <a href="#co-nvidia" class="company-btn">NVIDIA</a>
-                        <a href="#co-qualcomm" class="company-btn">Qualcomm</a>
-                        <a href="#co-amd" class="company-btn">AMD</a>
-                    </div>
+            <div class="region-card">
+                <h2>USA (Big Tech / Fabless)</h2>
+                <div class="company-list">
+                    <a href="#co-nvidia" class="company-btn">NVIDIA</a>
+                    <a href="#co-qualcomm" class="company-btn">Qualcomm</a>
+                    <a href="#co-amd" class="company-btn">AMD</a>
                 </div>
             </div>
 
-            <div class="pin pin-taiwan">
-                <div class="pin-popup">
-                    <h2>Taiwan & Japan</h2>
-                    <div class="company-list">
-                        <a href="#co-tsmc" class="company-btn">TSMC</a>
-                        <a href="#co-unichips" class="company-btn">Unichips</a>
-                        <a href="#co-rapidus" class="company-btn">Rapidus</a>
-                    </div>
+            <div class="region-card">
+                <h2>Taiwan & Japan (Foundry / DSP)</h2>
+                <div class="company-list">
+                    <a href="#co-tsmc" class="company-btn">TSMC</a>
+                    <a href="#co-unichips" class="company-btn">Unichips</a>
+                    <a href="#co-rapidus" class="company-btn">Rapidus</a>
                 </div>
             </div>
 
-            <div class="pin pin-europe">
-                <div class="pin-popup">
-                    <h2>Europe (IP/Architecture)</h2>
-                    <div class="company-list">
-                        <a href="#co-arm" class="company-btn">Arm</a>
-                        <a href="#co-asml" class="company-btn">ASML</a>
-                        <a href="#co-stmicro" class="company-btn">STMicro</a>
-                    </div>
+            <div class="region-card">
+                <h2>Europe (IP / Architecture)</h2>
+                <div class="company-list">
+                    <a href="#co-arm" class="company-btn">Arm</a>
+                    <a href="#co-asml" class="company-btn">ASML</a>
+                    <a href="#co-stmicro" class="company-btn">STMicroelectronics</a>
                 </div>
             </div>
         </div>
 
         <div class="news-section">
-            <h2 style="margin-top:0; border-bottom: 2px solid #e2e8f0; padding-bottom:10px;">기업별 실시간 모니터링 기사</h2>
+            <h2>기업별 실시간 모니터링 기사</h2>
+            <p style="color: #64748b; margin-top:-5px; margin-bottom:20px; font-size:0.9rem;">※ 위 카테고리에서 회사 버튼을 클릭하면 해당 기사로 바로 이동합니다.</p>
             
             <div id="co-nvidia" class="news-card">
                 <h3 style="color: #1e293b; margin-top:0;">NVIDIA</h3>
                 <p><strong>기사 제목:</strong> NVIDIA Next-Gen Blackwell Architecture Production On Track</p>
                 <p><strong>AI 요약 (Gemma3):</strong> 엔비디아의 차세대 블랙웰 아키텍처 칩 생산이 예정대로 진행 중이며, 데이터센터 수요 폭증으로 인해 하반기 공급망 확충에 집중하고 있음. 특히 파운드리 파트너사와의 협력이 심화됨.</p>
-                <a href="#" target="_blank" style="color: #3b82f6;">원문 보기</a>
+                <a href="#" target="_blank" style="color: #3b82f6; text-decoration: none; font-weight: bold;">원문 보기</a>
             </div>
         </div>
     </div>
 
     <script>
-        const CONFIG_PASSWORD = "alphachips"; 
+        const CONFIG_PASSWORD = "1"; 
         function verifyPassword() {
             const userInput = document.getElementById("team-password").value;
             if (userInput === CONFIG_PASSWORD) {
@@ -168,18 +147,6 @@
                 document.getElementById("team-password").value = "";
             }
         }
-        // 👇 여기서부터 복사해서 추가하세요 (좌표 찾기용 임시 코드) 👇
-        document.querySelector('.map-wrapper').addEventListener('click', function(e) {
-            const rect = this.getBoundingClientRect();
-            const x = e.clientX - rect.left;
-            const y = e.clientY - rect.top;
-            const leftPercent = (x / rect.width * 100).toFixed(1);
-            const topPercent = (y / rect.height * 100).toFixed(1);
-            
-            // 화면에 알림창으로 정확한 좌표 띄우기
-            alert(`클릭한 곳의 좌표입니다!\ntop: ${topPercent}%; left: ${leftPercent}%;`);
-        });
-        // 👆 여기까지 추가 👆
     </script>
 </body>
 </html>
