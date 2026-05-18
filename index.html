@@ -15,33 +15,45 @@
         .map-wrapper {
             position: relative;
             width: 100%;
-            max-width: 800px; /* 지도를 살짝 작게 조절하여 안정감 부여 */
+            max-width: 800px; 
             height: 400px;
             margin: 0 auto 30px auto;
             background-image: url('https://upload.wikimedia.org/wikipedia/commons/e/ec/World_map_blank_without_borders.svg');
             background-size: contain;
             background-position: center;
             background-repeat: no-repeat;
-            opacity: 0.85; /* 데코레이션 느낌을 위해 살짝 투명도 적용 */
+            opacity: 0.85; 
         }
 
+        /* 📍 작고 앙증맞아진 핀 디자인 */
         .pin {
             position: absolute;
-            width: 20px;
-            height: 20px;
+            width: 10px; /* 기존 20px에서 절반으로 축소! */
+            height: 10px;
             background-color: #ef4444;
-            border: 3px solid white;
+            border: 2px solid white; /* 테두리도 얇게 조정 */
             border-radius: 50%;
-            box-shadow: 0 4px 8px rgba(0,0,0,0.3);
+            box-shadow: 0 2px 4px rgba(0,0,0,0.4);
+            cursor: pointer;
+            transition: all 0.2s;
         }
         
-        /* 💡 여기에 용규님이 직접 찾으신 정확한 좌표(%)를 넣어주세요! */
-        .pin-korea { top: 28%; left: 81.5%; }  
-        .pin-taiwan { top: 35%; left: 80.5%; } 
-        .pin-usa { top: 28%; left: 15%; }      
-        .pin-europe { top: 20%; left: 48%; }   
+        /* 마우스 올리면 살짝 커지면서 파란색으로 강조 */
+        .pin:hover { transform: scale(1.8); background-color: #3b82f6; z-index: 10; }
 
-        /* 🗂️ 중단: 카테고리 카드 영역 (기존 코드 복구) */
+        /* 🏢 회사 본사 위치에 맞춘 세밀한 좌표 설정 */
+        .pin-seoul { top: 28%; left: 81.5%; }       /* 한국: LX, 리벨리온, 세미파이브 */
+        .pin-hokkaido { top: 25%; left: 84%; }      /* 일본: Rapidus (홋카이도) */
+        .pin-hsinchu { top: 35%; left: 80.5%; }     /* 대만: TSMC, Unichips (신주 과학단지) */
+        
+        .pin-sv { top: 28%; left: 15%; }            /* 미국: NVIDIA, AMD (실리콘밸리) */
+        .pin-sandiego { top: 31%; left: 16%; }      /* 미국: Qualcomm (샌디에이고) */
+        
+        .pin-cambridge { top: 18%; left: 47%; }     /* 영국: Arm */
+        .pin-veldhoven { top: 19%; left: 48.5%; }   /* 네덜란드: ASML */
+        .pin-geneva { top: 21%; left: 49%; }        /* 스위스: STMicroelectronics */
+
+        /* 🗂️ 중단: 카테고리 카드 영역 */
         .ecosystem-map { display: grid; grid-template-columns: repeat(2, 1fr); gap: 20px; margin-bottom: 40px; }
         .region-card { background: white; padding: 20px; border-radius: 8px; box-shadow: 0 4px 6px rgba(0,0,0,0.05); }
         .region-card h2 { margin-top: 0; border-bottom: 2px solid #3b82f6; padding-bottom: 10px; color: #1d4ed8; font-size: 1.2rem; }
@@ -78,10 +90,14 @@
         <div class="updated-time">최근 업데이트: 2026-05-19 07:50 (30분 간격 자동 갱신)</div>
 
         <div class="map-wrapper">
-            <div class="pin pin-korea"></div>
-            <div class="pin pin-usa"></div>
-            <div class="pin pin-taiwan"></div>
-            <div class="pin pin-europe"></div>
+            <div class="pin pin-seoul" title="한국 (LX세미콘, 리벨리온, 세미파이브)"></div>
+            <div class="pin pin-hokkaido" title="일본 (Rapidus)"></div>
+            <div class="pin pin-hsinchu" title="대만 (TSMC, Unichips)"></div>
+            <div class="pin pin-sv" title="미국 실리콘밸리 (NVIDIA, AMD)"></div>
+            <div class="pin pin-sandiego" title="미국 샌디에이고 (Qualcomm)"></div>
+            <div class="pin pin-cambridge" title="영국 (Arm)"></div>
+            <div class="pin pin-veldhoven" title="네덜란드 (ASML)"></div>
+            <div class="pin pin-geneva" title="스위스/프랑스 (STMicroelectronics)"></div>
         </div>
 
         <div class="ecosystem-map">
@@ -129,7 +145,7 @@
             <div id="co-nvidia" class="news-card">
                 <h3 style="color: #1e293b; margin-top:0;">NVIDIA</h3>
                 <p><strong>기사 제목:</strong> NVIDIA Next-Gen Blackwell Architecture Production On Track</p>
-                <p><strong>AI 요약 (Gemma3):</strong> 엔비디아의 차세대 블랙웰 아키텍처 칩 생산이 예정대로 진행 중이며, 데이터센터 수요 폭증으로 인해 하반기 공급망 확충에 집중하고 있음. 특히 파운드리 파트너사와의 협력이 심화됨.</p>
+                <p><strong>AI 요약:</strong> 엔비디아의 차세대 블랙웰 아키텍처 칩 생산이 예정대로 진행 중이며, 데이터센터 수요 폭증으로 인해 하반기 공급망 확충에 집중하고 있음. 특히 파운드리 파트너사와의 협력이 심화됨.</p>
                 <a href="#" target="_blank" style="color: #3b82f6; text-decoration: none; font-weight: bold;">원문 보기</a>
             </div>
         </div>
