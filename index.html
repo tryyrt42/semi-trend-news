@@ -3,156 +3,163 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>글로벌 반도체 에코시스템 & 트렌드 모니터링</title>
+    <title>글로벌 반도체 에코시스템 & 차세대 기술 트렌드</title>
     <meta name="robots" content="noindex, nofollow">
     <style>
         body { font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif; background-color: #f8fafc; margin: 0; padding: 20px; }
-        .container { max-width: 1200px; margin: 0 auto; display: none; }
-        h1 { text-align: center; color: #1e293b; font-size: 2.2rem; }
-        .updated-time { text-align: right; color: #64748b; font-size: 0.9rem; margin-bottom: 30px; }
+        .container { max-width: 1400px; margin: 0 auto; display: none; }
+        h1 { text-align: center; color: #1e293b; font-size: 2.2rem; border-bottom: 3px solid #3b82f6; padding-bottom: 15px; margin-bottom: 10px; }
+        .updated-time { text-align: center; color: #64748b; font-size: 0.95rem; margin-bottom: 40px; }
         
-        /* 🗺️ 상단: 세계지도 데코레이션 영역 */
-        .map-wrapper {
-            position: relative;
-            width: 100%;
-            max-width: 800px; 
-            height: 400px;
-            margin: 0 auto 30px auto;
-            background-image: url('https://upload.wikimedia.org/wikipedia/commons/e/ec/World_map_blank_without_borders.svg');
-            background-size: contain;
-            background-position: center;
-            background-repeat: no-repeat;
-            opacity: 0.85; 
-        }
+        /* 🗂️ 카테고리 그리드 레이아웃 (3열 배치) */
+        .category-grid { display: grid; grid-template-columns: repeat(3, 1fr); gap: 20px; margin-bottom: 40px; }
+        
+        /* 각 카테고리 카드 디자인 */
+        .category-card { background: white; padding: 25px; border-radius: 10px; box-shadow: 0 4px 10px rgba(0,0,0,0.05); border-top: 5px solid #3b82f6; }
+        /* 카테고리별 포인트 컬러 다르게 설정 */
+        .card-foundry { border-top-color: #f59e0b; }
+        .card-fabless { border-top-color: #3b82f6; }
+        .card-dsp { border-top-color: #10b981; }
+        .card-ip { border-top-color: #8b5cf6; }
+        .card-memory { border-top-color: #ec4899; }
+        .card-equip { border-top-color: #64748b; }
 
-        /* 📍 작고 앙증맞아진 핀 디자인 */
-        .pin {
-            position: absolute;
-            width: 10px; /* 기존 20px에서 절반으로 축소! */
-            height: 10px;
-            background-color: #ef4444;
-            border: 2px solid white; /* 테두리도 얇게 조정 */
-            border-radius: 50%;
-            box-shadow: 0 2px 4px rgba(0,0,0,0.4);
-            cursor: pointer;
-            transition: all 0.2s;
-        }
+        .category-card h2 { margin-top: 0; padding-bottom: 12px; color: #1e293b; font-size: 1.3rem; border-bottom: 1px solid #e2e8f0; display: flex; align-items: center; justify-content: space-between; }
         
-        /* 마우스 올리면 살짝 커지면서 파란색으로 강조 */
-        .pin:hover { transform: scale(1.8); background-color: #3b82f6; z-index: 10; }
-
-        /* 🏢 회사 본사 위치에 맞춘 세밀한 좌표 설정 */
-        .pin-seoul { top: 28%; left: 81.5%; }       /* 한국: LX, 리벨리온, 세미파이브 */
-        .pin-hokkaido { top: 25%; left: 84%; }      /* 일본: Rapidus (홋카이도) */
-        .pin-hsinchu { top: 35%; left: 80.5%; }     /* 대만: TSMC, Unichips (신주 과학단지) */
+        .company-list { display: flex; flex-wrap: wrap; gap: 8px; margin-top: 15px; }
+        .company-btn { background: #f1f5f9; color: #334155; border: 1px solid #cbd5e1; padding: 7px 14px; border-radius: 20px; cursor: pointer; font-weight: 600; text-decoration: none; transition: all 0.2s; font-size: 0.9rem; }
         
-        .pin-sv { top: 28%; left: 15%; }            /* 미국: NVIDIA, AMD (실리콘밸리) */
-        .pin-sandiego { top: 31%; left: 16%; }      /* 미국: Qualcomm (샌디에이고) */
-        
-        .pin-cambridge { top: 18%; left: 47%; }     /* 영국: Arm */
-        .pin-veldhoven { top: 19%; left: 48.5%; }   /* 네덜란드: ASML */
-        .pin-geneva { top: 21%; left: 49%; }        /* 스위스: STMicroelectronics */
-
-        /* 🗂️ 중단: 카테고리 카드 영역 */
-        .ecosystem-map { display: grid; grid-template-columns: repeat(2, 1fr); gap: 20px; margin-bottom: 40px; }
-        .region-card { background: white; padding: 20px; border-radius: 8px; box-shadow: 0 4px 6px rgba(0,0,0,0.05); }
-        .region-card h2 { margin-top: 0; border-bottom: 2px solid #3b82f6; padding-bottom: 10px; color: #1d4ed8; font-size: 1.2rem; }
-        
-        .company-list { display: flex; flex-wrap: wrap; gap: 10px; margin-top: 15px; }
-        .company-btn { background: #eff6ff; color: #1e40af; border: 1px solid #bfdbfe; padding: 8px 16px; border-radius: 20px; cursor: pointer; font-weight: bold; text-decoration: none; transition: all 0.2s; font-size: 0.9rem; }
-        .company-btn:hover { background: #3b82f6; color: white; }
+        /* 버튼 마우스 오버 색상 (카테고리별 맞춤) */
+        .card-foundry .company-btn:hover { background: #f59e0b; color: white; border-color: #f59e0b; }
+        .card-fabless .company-btn:hover { background: #3b82f6; color: white; border-color: #3b82f6; }
+        .card-dsp .company-btn:hover { background: #10b981; color: white; border-color: #10b981; }
+        .card-ip .company-btn:hover { background: #8b5cf6; color: white; border-color: #8b5cf6; }
+        .card-memory .company-btn:hover { background: #ec4899; color: white; border-color: #ec4899; }
+        .card-equip .company-btn:hover { background: #64748b; color: white; border-color: #64748b; }
 
         /* 📰 하단: 기사 목록 영역 */
         .news-section { background: white; padding: 30px; border-radius: 12px; box-shadow: 0 4px 6px rgba(0,0,0,0.05); }
         .news-section > h2 { margin-top: 0; border-bottom: 2px solid #e2e8f0; padding-bottom: 10px; color: #1e293b; }
-        .news-card { padding: 15px; border: 1px solid #e2e8f0; border-radius: 8px; margin-bottom: 15px; }
+        .news-card { padding: 20px; border: 1px solid #e2e8f0; border-radius: 8px; margin-bottom: 15px; border-left: 4px solid #3b82f6; }
 
         /* 🔒 암호 모달창 */
-        #auth-overlay { position: fixed; top:0; left:0; width:100%; height:100%; background:#1e293b; display:flex; justify-content:center; align-items:center; z-index:999; }
-        .auth-box { background:white; padding:30px; border-radius:8px; text-align:center; box-shadow:0 10px 25px rgba(0,0,0,0.3); }
-        .auth-box input { padding:10px; width:200px; margin-bottom:15px; border:1px solid #cbd5e1; border-radius:4px; font-size:1rem; text-align:center; }
-        .auth-box button { padding:10px 20px; background:#3b82f6; color:white; border:none; border-radius:4px; cursor:pointer; font-size:1rem; }
+        #auth-overlay { position: fixed; top:0; left:0; width:100%; height:100%; background:#0f172a; display:flex; justify-content:center; align-items:center; z-index:999; }
+        .auth-box { background:white; padding:40px; border-radius:12px; text-align:center; box-shadow:0 10px 25px rgba(0,0,0,0.5); }
+        .auth-box input { padding:12px; width:220px; margin-bottom:20px; border:2px solid #cbd5e1; border-radius:6px; font-size:1.1rem; text-align:center; }
+        .auth-box button { padding:12px 24px; background:#3b82f6; color:white; border:none; border-radius:6px; cursor:pointer; font-size:1.1rem; font-weight:bold; }
+        
+        /* 작은 화면(모바일/태블릿) 대응 */
+        @media (max-width: 1024px) { .category-grid { grid-template-columns: repeat(2, 1fr); } }
+        @media (max-width: 768px) { .category-grid { grid-template-columns: 1fr; } }
     </style>
 </head>
 <body>
 
     <div id="auth-overlay">
         <div class="auth-box">
-            <h3>보안 접근</h3>
-            <p>팀 비밀번호를 입력하세요.</p>
+            <h2 style="margin-top:0; color:#1e293b;">팀 대시보드 접근</h2>
+            <p style="color:#64748b;">공유받은 비밀번호를 입력하세요.</p>
             <input type="password" id="team-password" placeholder="Password" onkeydown="if(event.key==='Enter') verifyPassword()"><br>
             <button onclick="verifyPassword()">접속하기</button>
         </div>
     </div>
 
     <div class="container" id="main-content">
-        <h1>글로벌 반도체 에코시스템 지형도</h1>
+        <h1>글로벌 반도체 에코시스템 및 기술 트렌드 모니터링</h1>
         <div class="updated-time">최근 업데이트: 2026-05-19 07:50 (30분 간격 자동 갱신)</div>
 
-        <div class="map-wrapper">
-            <div class="pin pin-seoul" title="한국 (LX세미콘, 리벨리온, 세미파이브)"></div>
-            <div class="pin pin-hokkaido" title="일본 (Rapidus)"></div>
-            <div class="pin pin-hsinchu" title="대만 (TSMC, Unichips)"></div>
-            <div class="pin pin-sv" title="미국 실리콘밸리 (NVIDIA, AMD)"></div>
-            <div class="pin pin-sandiego" title="미국 샌디에이고 (Qualcomm)"></div>
-            <div class="pin pin-cambridge" title="영국 (Arm)"></div>
-            <div class="pin pin-veldhoven" title="네덜란드 (ASML)"></div>
-            <div class="pin pin-geneva" title="스위스/프랑스 (STMicroelectronics)"></div>
-        </div>
-
-        <div class="ecosystem-map">
-            <div class="region-card">
-                <h2>Korea (DSP / Fabless)</h2>
-                <div class="company-list">
-                    <a href="#co-lx" class="company-btn">LX 세미콘</a>
-                    <a href="#co-rebellions" class="company-btn">리벨리온</a>
-                    <a href="#co-semifive" class="company-btn">세미파이브</a>
-                </div>
-            </div>
-
-            <div class="region-card">
-                <h2>USA (Big Tech / Fabless)</h2>
-                <div class="company-list">
-                    <a href="#co-nvidia" class="company-btn">NVIDIA</a>
-                    <a href="#co-qualcomm" class="company-btn">Qualcomm</a>
-                    <a href="#co-amd" class="company-btn">AMD</a>
-                </div>
-            </div>
-
-            <div class="region-card">
-                <h2>Taiwan & Japan (Foundry / DSP)</h2>
+        <div class="category-grid">
+            
+            <div class="category-card card-foundry">
+                <h2>🏭 Foundry <span>(위탁 생산)</span></h2>
                 <div class="company-list">
                     <a href="#co-tsmc" class="company-btn">TSMC</a>
-                    <a href="#co-unichips" class="company-btn">Unichips</a>
+                    <a href="#co-samsung-f" class="company-btn">Samsung Foundry</a>
+                    <a href="#co-intel" class="company-btn">Intel Foundry</a>
+                    <a href="#co-globalfoundries" class="company-btn">GlobalFoundries</a>
+                    <a href="#co-smic" class="company-btn">SMIC</a>
                     <a href="#co-rapidus" class="company-btn">Rapidus</a>
                 </div>
             </div>
 
-            <div class="region-card">
-                <h2>Europe (IP / Architecture)</h2>
+            <div class="category-card card-fabless">
+                <h2>💻 Fabless / Big Tech <span>(설계)</span></h2>
                 <div class="company-list">
-                    <a href="#co-arm" class="company-btn">Arm</a>
-                    <a href="#co-asml" class="company-btn">ASML</a>
-                    <a href="#co-stmicro" class="company-btn">STMicroelectronics</a>
+                    <a href="#co-nvidia" class="company-btn">NVIDIA</a>
+                    <a href="#co-amd" class="company-btn">AMD</a>
+                    <a href="#co-qualcomm" class="company-btn">Qualcomm</a>
+                    <a href="#co-broadcom" class="company-btn">Broadcom</a>
+                    <a href="#co-mediatek" class="company-btn">MediaTek</a>
+                    <a href="#co-apple" class="company-btn">Apple</a>
+                    <a href="#co-google" class="company-btn">Google (TPU)</a>
                 </div>
             </div>
+
+            <div class="category-card card-dsp">
+                <h2>📐 DSP / Design House <span>(디자인솔루션)</span></h2>
+                <div class="company-list">
+                    <a href="#co-alchip" class="company-btn">Alchip</a>
+                    <a href="#co-faraday" class="company-btn">Faraday</a>
+                    <a href="#co-unichips" class="company-btn">Unichips</a>
+                    <a href="#co-lx" class="company-btn">LX Semicon</a>
+                    <a href="#co-adtech" class="company-btn">ADTechnology</a>
+                    <a href="#co-semifive" class="company-btn">Semifive</a>
+                    <a href="#co-rebellions" class="company-btn">Rebellions</a>
+                </div>
+            </div>
+
+            <div class="category-card card-ip">
+                <h2>🧠 IP / EDA <span>(설계 자산/소프트웨어)</span></h2>
+                <div class="company-list">
+                    <a href="#co-arm" class="company-btn">Arm</a>
+                    <a href="#co-synopsys" class="company-btn">Synopsys</a>
+                    <a href="#co-cadence" class="company-btn">Cadence</a>
+                    <a href="#co-sifive" class="company-btn">SiFive</a>
+                    <a href="#co-imagination" class="company-btn">Imagination</a>
+                </div>
+            </div>
+
+            <div class="category-card card-memory">
+                <h2>💾 Memory <span>(메모리 반도체)</span></h2>
+                <div class="company-list">
+                    <a href="#co-samsung" class="company-btn">Samsung Elec.</a>
+                    <a href="#co-skhynix" class="company-btn">SK Hynix</a>
+                    <a href="#co-micron" class="company-btn">Micron</a>
+                    <a href="#co-kioxia" class="company-btn">Kioxia</a>
+                    <a href="#co-westerndigital" class="company-btn">Western Digital</a>
+                </div>
+            </div>
+
+            <div class="category-card card-equip">
+                <h2>⚙️ Equipment & Materials <span>(장비/소재)</span></h2>
+                <div class="company-list">
+                    <a href="#co-asml" class="company-btn">ASML</a>
+                    <a href="#co-amat" class="company-btn">Applied Materials</a>
+                    <a href="#co-lam" class="company-btn">Lam Research</a>
+                    <a href="#co-tel" class="company-btn">Tokyo Electron</a>
+                    <a href="#co-kla" class="company-btn">KLA</a>
+                </div>
+            </div>
+
         </div>
 
         <div class="news-section">
             <h2>기업별 실시간 모니터링 기사</h2>
-            <p style="color: #64748b; margin-top:-5px; margin-bottom:20px; font-size:0.9rem;">※ 위 카테고리에서 회사 버튼을 클릭하면 해당 기사로 바로 이동합니다.</p>
+            <p style="color: #64748b; margin-top:-5px; margin-bottom:20px; font-size:0.95rem;">※ 위 카테고리에서 회사 버튼을 클릭하면 해당 기사로 바로 이동합니다.</p>
             
             <div id="co-nvidia" class="news-card">
-                <h3 style="color: #1e293b; margin-top:0;">NVIDIA</h3>
-                <p><strong>기사 제목:</strong> NVIDIA Next-Gen Blackwell Architecture Production On Track</p>
-                <p><strong>AI 요약:</strong> 엔비디아의 차세대 블랙웰 아키텍처 칩 생산이 예정대로 진행 중이며, 데이터센터 수요 폭증으로 인해 하반기 공급망 확충에 집중하고 있음. 특히 파운드리 파트너사와의 협력이 심화됨.</p>
-                <a href="#" target="_blank" style="color: #3b82f6; text-decoration: none; font-weight: bold;">원문 보기</a>
+                <h3 style="color: #1e293b; margin-top:0; font-size: 1.2rem;">NVIDIA</h3>
+                <p><strong>📰 기사 제목:</strong> NVIDIA Next-Gen Blackwell Architecture Production On Track</p>
+                <p><strong>✨ AI 요약:</strong> 엔비디아의 차세대 블랙웰 아키텍처 칩 생산이 예정대로 진행 중이며, 데이터센터 수요 폭증으로 인해 하반기 공급망 확충에 집중하고 있음. 특히 파운드리 파트너사와의 협력이 심화됨.</p>
+                <a href="#" target="_blank" style="color: #3b82f6; text-decoration: none; font-weight: bold;">[ 원문 기사 보기 ]</a>
             </div>
         </div>
     </div>
 
     <script>
-        const CONFIG_PASSWORD = "1"; 
+        // 팀 암호 설정
+        const CONFIG_PASSWORD = "semi-team-pass"; 
+        
         function verifyPassword() {
             const userInput = document.getElementById("team-password").value;
             if (userInput === CONFIG_PASSWORD) {
