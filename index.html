@@ -168,6 +168,18 @@
                 document.getElementById("team-password").value = "";
             }
         }
+        // 👇 여기서부터 복사해서 추가하세요 (좌표 찾기용 임시 코드) 👇
+        document.querySelector('.map-wrapper').addEventListener('click', function(e) {
+            const rect = this.getBoundingClientRect();
+            const x = e.clientX - rect.left;
+            const y = e.clientY - rect.top;
+            const leftPercent = (x / rect.width * 100).toFixed(1);
+            const topPercent = (y / rect.height * 100).toFixed(1);
+            
+            // 화면에 알림창으로 정확한 좌표 띄우기
+            alert(`클릭한 곳의 좌표입니다!\ntop: ${topPercent}%; left: ${leftPercent}%;`);
+        });
+        // 👆 여기까지 추가 👆
     </script>
 </body>
 </html>
