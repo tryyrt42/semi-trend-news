@@ -32,8 +32,8 @@ TARGET_SITES = [
 ]
 
 def fetch_news(company_name):
-    # [1순위] 국내 구글 뉴스 검색
-    url_kr = "https://news.google.com/rss/search?q=" + str(company_name) + "+반도체&hl=ko&gl=KR&ceid=KR:ko"
+    # 💡 [1순위] 국내 구글 뉴스 (최근 1개월 제한: +when:1m 추가)
+    url_kr = "https://news.google.com/rss/search?q=" + str(company_name) + "+반도체+when:1m&hl=ko&gl=KR&ceid=KR:ko"
     url_kr = url_kr.replace(" ", "%20") 
     
     feed_kr = feedparser.parse(url_kr)
@@ -42,11 +42,11 @@ def fetch_news(company_name):
         return {
             "title": str(getattr(entry, 'title', '제목 없음')), 
             "link": str(getattr(entry, 'link', '#')),
-            "published": str(getattr(entry, 'published', '날짜 정보 없음')) # 💡 기사 발행일 추가
+            "published": str(getattr(entry, 'published', '날짜 정보 없음'))
         }
 
-    # [2순위] 해외 구글 뉴스 검색
-    url_en = "https://news.google.com/rss/search?q=" + str(company_name) + "+semiconductor&hl=en-US&gl=US&ceid=US:en"
+    # 💡 [2순위] 해외 구글 뉴스 (최근 1개월 제한: +when:1m 추가)
+    url_en = "https://news.google.com/rss/search?q=" + str(company_name) + "+semiconductor+when:1m&hl=en-US&gl=US&ceid=US:en"
     url_en = url_en.replace(" ", "%20")
     
     feed_en = feedparser.parse(url_en)
@@ -55,7 +55,7 @@ def fetch_news(company_name):
         return {
             "title": str(getattr(entry, 'title', '제목 없음')), 
             "link": str(getattr(entry, 'link', '#')),
-            "published": str(getattr(entry, 'published', '날짜 정보 없음')) # 💡 기사 발행일 추가
+            "published": str(getattr(entry, 'published', '날짜 정보 없음'))
         }
 
     return None
@@ -123,7 +123,7 @@ if __name__ == "__main__":
             card_html = (
                 '<div id="co-' + str(comp['id']) + '" class="news-card">\n'
                 '    <h3 style="color: #1e293b; margin-top:0; font-size: 1.1rem;">' + str(comp['name']) + '</h3>\n'
-                '    <p style="font-size: 0.8rem; color: #64748b; margin-top: -8px; margin-bottom: 12px;">🕒 발행일: ' + str(news_info['published']) + '</p>\n' # 💡 날짜가 출력되는 부분!
+                '    <p style="font-size: 0.8rem; color: #64748b; margin-top: -8px; margin-bottom: 12px;">🕒 발행일: ' + str(news_info['published']) + '</p>\n'
                 '    <p><strong>📰 기사 제목:</strong> ' + str(news_info['title']) + '</p>\n'
                 '    <p><strong>✨ AI 요약:</strong> ' + str(ai_summary) + '</p>\n'
                 '    <div style="margin-top: 12px; display: flex; gap: 10px; flex-wrap: wrap;">\n'
