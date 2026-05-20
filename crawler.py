@@ -6,7 +6,7 @@ import time
 from datetime import datetime
 
 # 🔑 깃허브 보안 설정에서 불러올 Gemini API 키
-GEMINI_API_KEY = os.environ.get("GEMINI_API_KEY", "YOUR_API_KEY")
+GEMINI_API_KEY = os.environ.get("GEMINI_API_KEY")
 
 # 🎯 1순위 타겟 전문 매체 리스트 (White List)
 TARGET_SITES = [
