@@ -43,12 +43,12 @@
         .btn-DSP:hover { background: #10b981; color: white; border-color: #10b981; }
         .btn-Fabless:hover { background: #3b82f6; color: white; border-color: #3b82f6; }
         .btn-Foundry:hover { background: #f59e0b; color: white; border-color: #f59e0b; }
-        .highlight-company { background: #1e293b !important; color: #fbbf24 !important; border-color: #1e293b !important; }
 
         .news-section { background: white; padding: 20px; border-radius: 12px; box-shadow: 0 4px 15px rgba(0,0,0,0.03); margin-top: 20px; }
         .filter-controls { display: flex; justify-content: space-between; align-items: center; border-bottom: 2px solid #e2e8f0; padding-bottom: 10px; margin-bottom: 15px; }
         .filter-controls h2 { margin: 0; color: #1e293b; font-size: 1.3rem; border: none; padding: 0; }
         
+        /* 🌟 전체 기사 보기 버튼 */
         .show-all-btn { 
             background: #3b82f6; color: white; border: none; padding: 8px 16px; 
             border-radius: 6px; font-weight: bold; cursor: pointer; font-size: 0.9rem; transition: 0.2s;
@@ -73,6 +73,7 @@
             .country-card.open .company-list { display: flex; }
         }
 
+        /* 🔒 비밀번호 창 */
         #auth-overlay { position: fixed; top:0; left:0; width:100%; height:100%; background:#0f172a; display:flex; justify-content:center; align-items:center; z-index:999; }
         .auth-box { background:white; padding:30px; border-radius:12px; text-align:center; box-shadow:0 10px 25px rgba(0,0,0,0.5); width: 85%; max-width: 320px; }
         .auth-box input { padding:10px; width:80%; margin-bottom:20px; border:2px solid #cbd5e1; border-radius:6px; font-size:1rem; text-align:center; }
@@ -92,7 +93,7 @@
 
     <div class="container" id="main-content">
         <h1>글로벌 반도체 모니터링 시스템</h1>
-        <div class="updated-time">최근 업데이트: 2026-05-20 16:53 (기업별 순차적 기사 누적 중)</div>
+        <div class="updated-time">최근 업데이트: 시스템 초기화 완료 (크롤러 대기중)</div>
 
         <div class="toggle-btn-container">
             <button id="toggleListBtn" class="toggle-btn" onclick="toggleEcosystem()">▲ 기업 리스트 전체 접기</button>
@@ -103,43 +104,18 @@
         </div>
 
         <div class="news-section">
-    <h2>기업별 실시간 모니터링 기사</h2>
-    <p style="color: #64748b; margin-top:-5px; margin-bottom:20px; font-size:0.85rem;">※ 위 회사 버튼을 클릭하면 관련 기사 위치로 이동합니다.</p>
-<div id="co-tsmc" class="news-card">
-    <h3 style="color: #1e293b; margin-top:0; font-size: 1.1rem;">TSMC</h3>
-    <p style="font-size: 0.8rem; color: #64748b; margin-top: -8px; margin-bottom: 12px;">🕒 발행일: Wed, 06 May 2026 07:00:00 GMT</p>
-    <p><strong>📰 기사 제목:</strong> [사설] TSMC, 23조 반도체 투자 재개…삼성전자는 ‘파업 리스크’ - 서울경제</p>
-    <p><strong>✨ AI 요약:</strong> ⚠️ AI 응답 오류 (사유: You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits. To monitor your current usage, head to: https://ai.dev/rate-limit. 
-* Quota exceeded for metric: generativelanguage.googleapis.com/generate_content_free_tier_requests, limit: 20, model: gemini-2.5-flash
-Please retry in 40.842120735s.)</p>
-    <div style="margin-top: 12px;">
-        <a href="https://news.google.com/rss/articles/CBMiUkFVX3lxTE13YnZ5OHVGeG1ZM2hNLTc0LW9ndExUYnVpbWZWTFVod3ZCN0VreTlmVnFTNldWTWFvX2ZTRmwzMTl5Yl9qdkFjZE1ZMUVHcFRhZ3fSAVNBVV95cUxPaEJVUHVhdXZGWHJ5TnE0VVhYWW1HcXhuajctcE1HN2ZKWWpLak5UOXBYdEdGcjdpcGZLLTQ5OG0yZDhvb2MwUnZnYjFQWHpaMzExNA?oc=5" target="_blank" style="color: #3b82f6; text-decoration: none; font-weight: bold;">[ 📄 원문 기사 보기 ]</a>
+            <div class="filter-controls">
+                <h2>기업별 실시간 모니터링 기사</h2>
+                <button onclick="filterNews('all')" class="show-all-btn">🌐 전체 기사 다시 보기</button>
+            </div>
+            
+            <p id="filter-status-msg" style="color: #10b981; font-weight: bold; display: none; margin-top:-5px; margin-bottom:15px; font-size: 0.95rem;"></p>
+            <p style="color: #64748b; margin-top:-5px; margin-bottom:20px; font-size:0.85rem;">※ 위 회사 버튼을 클릭하면 리스트가 자동으로 접히며 해당 기업의 기사만 나타납니다.</p>
+            
+            </div>
     </div>
-</div>
-<div id="co-samsungfoundry" class="news-card">
-    <h3 style="color: #1e293b; margin-top:0; font-size: 1.1rem;">Samsung Foundry</h3>
-    <p style="font-size: 0.8rem; color: #64748b; margin-top: -8px; margin-bottom: 12px;">🕒 발행일: Sun, 03 May 2026 07:00:00 GMT</p>
-    <p><strong>📰 기사 제목:</strong> 삼성 파운드리 4나노 내년까지 '풀부킹'…하반기 흑자전환 시동 - 지디넷코리아</p>
-    <p><strong>✨ AI 요약:</strong> ⚠️ AI 응답 오류 (사유: You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits. To monitor your current usage, head to: https://ai.dev/rate-limit. 
-* Quota exceeded for metric: generativelanguage.googleapis.com/generate_content_free_tier_requests, limit: 20, model: gemini-2.5-flash
-Please retry in 35.570987129s.)</p>
-    <div style="margin-top: 12px;">
-        <a href="https://news.google.com/rss/articles/CBMiVkFVX3lxTE1ET2NDT005alNQa0JBN0U5ZTZkZDJlVUpOT2VueHFSMzJveHpRZkRpc3BnUmNWYXlhNXNBazVSTVBBMkhMOUllN0Y0LXkwQ3BOZWgtVXRn?oc=5" target="_blank" style="color: #3b82f6; text-decoration: none; font-weight: bold;">[ 📄 원문 기사 보기 ]</a>
-    </div>
-</div>
-<div id="co-silicon" class="news-card">
-    <h3 style="color: #1e293b; margin-top:0; font-size: 1.1rem; margin-bottom: 15px;">Silicon Labs</h3>
-    <div class="article-item" style="margin-bottom: 15px; padding-bottom: 15px; border-bottom: 1px dashed #cbd5e1;">
-        <p style="font-size: 0.8rem; color: #64748b; margin-top: 0; margin-bottom: 8px;">🕒 발행일: Tue, 12 Feb 2019 08:00:00 GMT</p>
-        <p style="margin-top: 0; margin-bottom: 8px;"><strong>📰 기사 제목:</strong> 실내 내비게이션 오차 1m로 줄일 수 있다 - KIPOST</p>
-        <p style="margin-top: 0; margin-bottom: 8px;"><strong>✨ AI 요약:</strong> ⚠️ 최신 트렌드 수집 대기 중</p>
-        <a href="https://news.google.com/rss/articles/CBMiaEFVX3lxTE02dDBPQWFsUnl2MFdqVWxBMnRoZ1BkWUdsZndLQUwzbXFpbko3MWVzbno5ajJZY29FSzlJVDFXclppZTBPcmozSUFfa0M1RXVOR1BPNVlINmlSTGMzelRoNWlTSHpBaVpX0gFsQVVfeXFMUENhMTNySmN4VUZSQW9DOFB0ZVlFLXRscE1uaGdrblhIS0FUZWxQVzhMbksxNzkxLTZFMEttdkZiSWNmSGZ2eUc0bnFWR2U3VElYQVRZNXRfTUJQN2MyNDg5OGFxSm1SbjJVSUN3?oc=5" target="_blank" style="color: #3b82f6; text-decoration: none; font-weight: bold; font-size: 0.9rem;">[ 📄 원문 기사 보기 ]</a>
-    </div>
-</div>
-</div>
-</div>
 
-<script>
+    <script>
         const CONFIG_PASSWORD = "1"; 
 
         const ecosystemData = [
@@ -213,9 +189,9 @@ Please retry in 35.570987129s.)</p>
                     `;
 
                     region.companies.forEach(company => {
-                        const highlightClass = company.includes("알파칩스") ? "highlight-company" : `btn-${cat.category}`;
                         const safeId = company.split(' ')[0].toLowerCase().replace(/[^a-z0-9가-힣]/g, '');
-                        htmlContent += `<button onclick="filterNews('${safeId}', '${company}')" class="company-btn ${highlightClass}">${company}</button>`;
+                        // 🌟 여기서 버튼을 누르면 filterNews 함수가 발동합니다!
+                        htmlContent += `<button onclick="filterNews('${safeId}', '${company}')" class="company-btn btn-${cat.category}">${company}</button>`;
                     });
 
                     htmlContent += `
@@ -238,12 +214,12 @@ Please retry in 35.570987129s.)</p>
                 btn.style.background = '#1e293b';
             } else {
                 wrapper.style.display = 'none';
-                btn.innerText = '▼ 기업 리스트 펼치기 (기사 검색)';
+                btn.innerText = '▼ 기업 리스트 다시 펼치기';
                 btn.style.background = '#3b82f6';
             }
         }
 
-        // 🌟 수정된 핵심 로직: 자동 접기 & 자동 펼치기
+        // 🌟 클릭 시 접히고 + 필터링되고 + 전체보기 시 돌아오는 마법의 로직
         function filterNews(companyId, companyName) {
             const allCards = document.querySelectorAll('.news-card');
             const statusMsg = document.getElementById('filter-status-msg');
@@ -252,15 +228,14 @@ Please retry in 35.570987129s.)</p>
             let visibleCount = 0;
 
             if (companyId === 'all') {
-                // 💡 전체 보기 클릭 시: 1. 모든 기사 표시, 2. 리스트 다시 펼치기
                 allCards.forEach(card => card.style.display = 'block');
                 statusMsg.style.display = 'none';
                 
+                // 다시 목록 펼치기
                 wrapper.style.display = 'block';
                 toggleBtn.innerText = '▲ 기업 리스트 전체 접기';
                 toggleBtn.style.background = '#1e293b';
             } else {
-                // 💡 개별 기업 클릭 시: 1. 해당 기사만 필터링, 2. 리스트 자동 숨기기
                 allCards.forEach(card => {
                     const cardText = card.innerText.toLowerCase();
                     const shortName = companyName.split(' ')[0].toLowerCase();
@@ -274,20 +249,19 @@ Please retry in 35.570987129s.)</p>
 
                 statusMsg.style.display = 'block';
                 if (visibleCount > 0) {
-                    statusMsg.innerText = `✅ [ ${companyName} ] 관련 기사 ${visibleCount}건 필터링 됨`;
+                    statusMsg.innerText = `✅ [ ${companyName} ] 관련 기사가 필터링 되었습니다.`;
                     statusMsg.style.color = '#10b981';
                 } else {
                     statusMsg.innerText = `⚠️ [ ${companyName} ] 관련 최신 기사가 아직 수집되지 않았습니다.`;
                     statusMsg.style.color = '#ef4444';
                 }
 
-                // 자동으로 상단 기업 리스트 닫아주기!
+                // 🌟 여기서 자동으로 상단 기업 리스트를 닫아줍니다!
                 wrapper.style.display = 'none';
                 toggleBtn.innerText = '▼ 기업 리스트 다시 펼치기';
                 toggleBtn.style.background = '#3b82f6';
             }
 
-            // 스크롤을 뉴스 섹션으로 부드럽게 이동
             document.querySelector('.news-section').scrollIntoView({ behavior: 'smooth' });
         }
 
