@@ -6,174 +6,173 @@
     <title>글로벌 반도체 에코시스템 모니터링</title>
     <meta name="robots" content="noindex, nofollow">
     <style>
-        body { font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif; background-color: #f1f5f9; margin: 0; padding: 20px; }
+        body { font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif; background-color: #f1f5f9; margin: 0; padding: 15px; }
         .container { max-width: 1200px; margin: 0 auto; display: none; }
         
-        h1 { text-align: center; color: #0f172a; font-size: 2.2rem; margin-bottom: 5px; }
-        .updated-time { text-align: center; color: #64748b; font-size: 0.95rem; margin-bottom: 40px; }
+        h1 { text-align: center; color: #0f172a; font-size: 1.8rem; margin-bottom: 5px; margin-top: 10px; }
+        .updated-time { text-align: center; color: #64748b; font-size: 0.85rem; margin-bottom: 25px; }
         
-        /* 📂 1단계 큰 분류 블록 */
-        .major-category { margin-bottom: 50px; background: white; padding: 25px 30px; border-radius: 12px; box-shadow: 0 4px 15px rgba(0,0,0,0.03); }
-        .major-category h2 { margin-top: 0; border-bottom: 3px solid; padding-bottom: 15px; margin-bottom: 20px; font-size: 1.6rem; color: #1e293b; display: flex; align-items: baseline; justify-content: space-between;}
-        .major-category h2 span { font-size: 1rem; color: #64748b; font-weight: normal; }
+        /* 📂 큰 분류 블록 */
+        .major-category { margin-bottom: 30px; background: white; padding: 20px; border-radius: 12px; box-shadow: 0 4px 15px rgba(0,0,0,0.03); }
+        .major-category h2 { margin-top: 0; border-bottom: 3px solid; padding-bottom: 10px; margin-bottom: 15px; font-size: 1.3rem; color: #1e293b; display: flex; flex-direction: column; }
+        .major-category h2 span { font-size: 0.85rem; color: #64748b; font-weight: normal; margin-top: 4px; }
         
-        /* 테마 컬러 */
         .cat-DSP h2 { border-bottom-color: #10b981; }
         .cat-Fabless h2 { border-bottom-color: #3b82f6; }
         .cat-Foundry h2 { border-bottom-color: #f59e0b; }
 
-        /* 🌍 2단계 국가별 분류 그리드 */
-        .country-grid { display: grid; grid-template-columns: repeat(auto-fit, minmax(300px, 1fr)); gap: 20px; }
-        .country-card { background: #f8fafc; padding: 20px; border-radius: 8px; border: 1px solid #e2e8f0; }
-        .country-card h3 { margin-top: 0; color: #334155; font-size: 1.1rem; margin-bottom: 15px; border-bottom: 1px dashed #cbd5e1; padding-bottom: 8px;}
+        /* 🌍 국가별 분류 그리드 (PC 배치) */
+        .country-grid { display: grid; grid-template-columns: repeat(auto-fit, minmax(280px, 1fr)); gap: 15px; }
+        .country-card { background: #f8fafc; padding: 15px; border-radius: 8px; border: 1px solid #e2e8f0; }
         
-        /* 🏢 3단계 회사 버튼 리스트 */
-        .company-list { display: flex; flex-wrap: wrap; gap: 8px; }
-        .company-btn { background: white; color: #475569; border: 1px solid #cbd5e1; padding: 6px 14px; border-radius: 20px; cursor: pointer; font-weight: 600; text-decoration: none; transition: all 0.2s; font-size: 0.9rem; }
+        /* PC 버전 타이틀 라인 */
+        .country-card h3 { margin-top: 0; color: #334155; font-size: 1rem; margin-bottom: 12px; border-bottom: 1px dashed #cbd5e1; padding-bottom: 6px;}
         
-        /* 호버 색상 자동화 (Javascript에서 클래스 부여) */
+        /* 🏢 회사 버튼 리스트 (PC/모바일 최적화 크기 슬림화) */
+        .company-list { display: flex; flex-wrap: wrap; gap: 6px; }
+        .company-btn { 
+            background: white; 
+            color: #475569; 
+            border: 1px solid #cbd5e1; 
+            padding: 4px 10px; 
+            border-radius: 15px; 
+            cursor: pointer; 
+            font-weight: 600; 
+            text-decoration: none; 
+            transition: all 0.2s; 
+            font-size: 0.8rem; 
+        }
+        
         .btn-DSP:hover { background: #10b981; color: white; border-color: #10b981; }
         .btn-Fabless:hover { background: #3b82f6; color: white; border-color: #3b82f6; }
         .btn-Foundry:hover { background: #f59e0b; color: white; border-color: #f59e0b; }
         
-        /* 내 회사 특별 강조! */
+        /* 🌟 자사(알파칩스) 특별 강조 레이아웃 */
         .highlight-company { background: #1e293b !important; color: #fbbf24 !important; border-color: #1e293b !important; }
 
         /* 📰 뉴스 섹션 */
-        .news-section { background: white; padding: 30px; border-radius: 12px; box-shadow: 0 4px 15px rgba(0,0,0,0.03); margin-top: 20px; }
-        .news-section > h2 { margin-top: 0; border-bottom: 2px solid #e2e8f0; padding-bottom: 10px; color: #1e293b; }
-        .news-card { padding: 20px; border: 1px solid #e2e8f0; border-radius: 8px; margin-bottom: 15px; border-left: 4px solid #3b82f6; background: #f8fafc; }
+        .news-section { background: white; padding: 20px; border-radius: 12px; box-shadow: 0 4px 15px rgba(0,0,0,0.03); margin-top: 20px; }
+        .news-section > h2 { margin-top: 0; border-bottom: 2px solid #e2e8f0; padding-bottom: 10px; color: #1e293b; font-size: 1.3rem; }
+        .news-card { padding: 15px; border: 1px solid #e2e8f0; border-radius: 8px; margin-bottom: 15px; border-left: 4px solid #3b82f6; background: #f8fafc; font-size: 0.9rem; }
 
-        /* 🔒 암호 모달창 */
+        /* 📱 모바일 화면 최적화 (가로 768px 이하 대응) */
+        @media (max-width: 768px) {
+            h1 { font-size: 1.4rem; }
+            .major-category { padding: 15px; }
+            .major-category h2 { font-size: 1.15rem; }
+            
+            .country-grid { grid-template-columns: 1fr; gap: 10px; }
+            .country-card { padding: 12px; }
+            
+            /* 모바일에서 국가명 클릭 가능하도록 셋업 */
+            .country-card h3 { 
+                cursor: pointer; 
+                margin-bottom: 0; 
+                border-bottom: none; 
+                padding-bottom: 0;
+                display: flex;
+                justify-content: space-between;
+                align-items: center;
+            }
+            .country-card h3::after { content: '▼'; font-size: 0.75rem; color: #94a3b8; transition: transform 0.2s; }
+            
+            /* 모바일 기준 기본 닫힘 상태 */
+            .company-list { display: none; margin-top: 12px; padding-top: 10px; border-top: 1px dashed #e2e8f0; }
+            
+            /* 열렸을 때(open) 스타일 */
+            .country-card.open h3::after { transform: rotate(180deg); color: #3b82f6; }
+            .country-card.open .company-list { display: flex; }
+        }
+
+        /* 🔒 암호화 모달 */
         #auth-overlay { position: fixed; top:0; left:0; width:100%; height:100%; background:#0f172a; display:flex; justify-content:center; align-items:center; z-index:999; }
-        .auth-box { background:white; padding:40px; border-radius:12px; text-align:center; box-shadow:0 10px 25px rgba(0,0,0,0.5); }
-        .auth-box input { padding:12px; width:220px; margin-bottom:20px; border:2px solid #cbd5e1; border-radius:6px; font-size:1.1rem; text-align:center; }
-        .auth-box button { padding:12px 24px; background:#3b82f6; color:white; border:none; border-radius:6px; cursor:pointer; font-size:1.1rem; font-weight:bold; }
+        .auth-box { background:white; padding:30px; border-radius:12px; text-align:center; box-shadow:0 10px 25px rgba(0,0,0,0.5); width: 85%; max-width: 320px; }
+        .auth-box input { padding:10px; width:80%; margin-bottom:20px; border:2px solid #cbd5e1; border-radius:6px; font-size:1rem; text-align:center; }
+        .auth-box button { padding:10px 20px; background:#3b82f6; color:white; border:none; border-radius:6px; cursor:pointer; font-size:1rem; font-weight:bold; width: 87%; }
     </style>
 </head>
 <body>
 
     <div id="auth-overlay">
         <div class="auth-box">
-            <h2 style="margin-top:0; color:#1e293b;">팀 대시보드 접근</h2>
-            <p style="color:#64748b;">공유받은 비밀번호를 입력하세요.</p>
+            <h2 style="margin-top:0; color:#1e293b; font-size: 1.4rem;">팀 대시보드 접근</h2>
+            <p style="color:#64748b; font-size: 0.9rem;">공유받은 비밀번호를 입력하세요.</p>
             <input type="password" id="team-password" placeholder="Password" onkeydown="if(event.key==='Enter') verifyPassword()"><br>
             <button onclick="verifyPassword()">접속하기</button>
         </div>
     </div>
 
     <div class="container" id="main-content">
-        <h1>글로벌 반도체 에코시스템 모니터링</h1>
-        <div class="updated-time">최근 업데이트: 2026-05-19 07:50 (30분 간격 자동 갱신)</div>
+        <h1>글로벌 반도체 모니터링 리스트</h1>
+        <div class="updated-time">최근 업데이트: 2026-05-21 00:12 (30분 간격 자동 갱신)</div>
 
         <div id="ecosystem-container"></div>
 
         <div class="news-section">
             <h2>기업별 실시간 모니터링 기사</h2>
-            <p style="color: #64748b; margin-top:-5px; margin-bottom:20px; font-size:0.95rem;">※ 위 회사 버튼을 클릭하면 관련 기사로 이동합니다.</p>
+            <p style="color: #64748b; margin-top:-5px; margin-bottom:20px; font-size:0.85rem;">※ 위 회사 버튼을 클릭하면 관련 기사 위치로 자동 스크롤됩니다.</p>
             
             <div id="co-alphachips" class="news-card">
-                <h3 style="color: #1e293b; margin-top:0; font-size: 1.2rem;">AlphaChips (샘플 기사)</h3>
-                <p><strong>📰 기사 제목:</strong> 알파칩스, 차세대 AI 반도체 디자인 솔루션 파트너십 강화</p>
-                <p><strong>✨ AI 요약:</strong> 알파칩스가 글로벌 팹리스 및 빅테크 기업들의 AI 칩 수요 증가에 발맞춰 고성능 칩 설계 역량을 대폭 강화하고 있으며, 선단 공정에서의 협력을 확대하고 있음.</p>
+                <h3 style="color: #1e293b; margin-top:0; font-size: 1.1rem;">AlphaChips (샘플 데이터)</h3>
+                <p><strong>📰 기사 제목:</strong> 알파칩스, 차세대 글로벌 AI 반도체 턴키 솔루션 과제 수주 본격화</p>
+                <p><strong>✨ AI 요약:</strong> 글로벌 빅테크 및 국내 스타트업들의 자체 맞춤형 실리콘(ASIC) 수요 가속화에 맞춰, 메인 디자인 하우스 파트너인 알파칩스의 고성능 패키징 및 시스템 설계 기술 지원 역량이 극대화되고 있음.</p>
             </div>
         </div>
     </div>
 
     <script>
+        // 🔑 원하는 비밀번호로 수정 가능합니다
         const CONFIG_PASSWORD = "1"; 
 
-        // =========================================================================
-        // 🛠️ 유지보수 영역: 회사 추가/삭제는 여기서 텍스트만 수정하시면 됩니다! 🛠️
-        // =========================================================================
+        // 📊 파일 데이터를 100% 반영하여 트리 구조화한 데이터셋
         const ecosystemData = [
             {
                 category: "DSP",
                 title: "📐 DSP / Design House",
-                desc: "(자사 및 디자인 솔루션 경쟁사)",
+                desc: "(자사 및 디자인 솔루션 경쟁 파트너)",
                 regions: [
-                    {
-                        name: "한국 (Korea)",
-                        // 배열(리스트) 형태로 회사 이름만 따옴표 안에 적어주세요.
-                        companies: ["알파칩스", "에이디테크놀로지", "가온칩스", "세미파이브", "코아시아", "에이직랜드", "하나텍"]
-                    },
-                    {
-                        name: "대만 (Taiwan)",
-                        companies: ["글로벌유니칩(GUC)", "알칩", "패러데이"]
-                    },
-                    {
-                        name: "글로벌 기타 (Global)",
-                        companies: ["베리실리콘 (중국)", "손드렐 (영국)"]
-                    }
+                    { name: "한국 (Korea)", companies: ["알파칩스", "에이디테크놀로지", "가온칩스", "세미파이브", "코아시아", "에이직랜드", "하나텍"] },
+                    { name: "대만 (Taiwan)", companies: ["글로벌유니칩(GUC)", "알칩", "패러데이"] },
+                    { name: "글로벌 기타 (Global)", companies: ["베리실리콘", "손드렐"] }
                 ]
             },
             {
                 category: "Fabless",
                 title: "💻 Fabless / Big Tech",
-                desc: "(고객사 및 과제 발굴 타겟)",
+                desc: "(고객사 및 과제 발굴 전략 타겟)",
                 regions: [
-                    {
-                        name: "한국 (AI & 차세대)",
-                        companies: ["퓨리오사AI", "리벨리온", "딥엑스", "파두", "망고부스트"]
-                    },
-                    {
-                        name: "한국 (전통 팹리스)",
-                        companies: ["LX세미콘", "텔레칩스", "넥스트칩"]
-                    },
-                    {
-                        name: "미국 (전통 팹리스)",
-                        companies: ["NVIDIA", "AMD", "Qualcomm", "Broadcom", "Marvell"]
-                    },
-                    {
-                        name: "미국 (빅테크 자체 칩)",
-                        companies: ["Apple", "Google", "Amazon", "Microsoft", "Meta", "Tesla", "OpenAI"]
-                    },
-                    {
-                        name: "대만 & 중국",
-                        companies: ["MediaTek", "Novatek", "Realtek", "HiSilicon", "Unisoc"]
-                    }
+                    { name: "한국 (AI & 차세대)", companies: ["퓨리오사AI", "리벨리온", "딥엑스", "파두", "망고부스트", "모빌린트", "네오와인"] },
+                    { name: "한국 (전통 팹리스)", companies: ["LX세미콘", "텔레칩스", "넥스트칩", "제주반도체", "픽셀플러스"] },
+                    { name: "미국 (전통 팹리스)", companies: ["NVIDIA", "AMD", "Qualcomm", "Broadcom", "Marvell"] },
+                    { name: "미국 (빅테크 자체 칩)", companies: ["Apple", "Google", "Amazon", "Microsoft", "Meta", "Tesla", "OpenAI"] },
+                    { name: "대만 & 중국", companies: ["MediaTek", "Novatek", "Realtek", "HiSilicon", "Unisoc"] }
                 ]
             },
             {
                 category: "Foundry",
                 title: "🏭 Foundry",
-                desc: "(생산 파트너 및 제조 기술 동향)",
+                desc: "(생산 파트너 및 글로벌 제조 얼라이언스)",
                 regions: [
-                    {
-                        name: "한국 (Korea)",
-                        companies: ["Samsung Foundry", "DB HiTek", "Key Foundry"]
-                    },
-                    {
-                        name: "대만 (Taiwan)",
-                        companies: ["TSMC", "UMC", "PSMC"]
-                    },
-                    {
-                        name: "미국 (USA)",
-                        companies: ["Intel Foundry", "GlobalFoundries"]
-                    },
-                    {
-                        name: "일본 & 중국",
-                        companies: ["Rapidus", "SMIC"]
-                    }
+                    { name: "한국 (Korea)", companies: ["Samsung Foundry", "DB HiTek", "Key Foundry"] },
+                    { name: "대만 (Taiwan)", companies: ["TSMC", "UMC", "PSMC", "Vanguard"] },
+                    { name: "미국 & 유럽", companies: ["Intel Foundry", "GlobalFoundries", "X-Fab"] },
+                    { name: "일본 & 중국", companies: ["Rapidus", "SMIC", "HHGrace"] }
                 ]
             }
         ];
-        // =========================================================================
 
-        // 비밀번호 확인 함수
         function verifyPassword() {
             const userInput = document.getElementById("team-password").value;
             if (userInput === CONFIG_PASSWORD) {
                 document.getElementById("auth-overlay").style.display = "none";
                 document.getElementById("main-content").style.display = "block";
-                renderEcosystem(); // 로그인 성공 시 데이터 그려주기
+                renderEcosystem(); 
             } else {
                 alert("비밀번호가 올바르지 않습니다.");
                 document.getElementById("team-password").value = "";
             }
         }
 
-        // 데이터를 바탕으로 HTML을 자동으로 그려주는 마법의 함수
         function renderEcosystem() {
             const container = document.getElementById('ecosystem-container');
             let htmlContent = '';
@@ -188,12 +187,11 @@
                 cat.regions.forEach(region => {
                     htmlContent += `
                         <div class="country-card">
-                            <h3>${region.name}</h3>
+                            <h3 onclick="toggleMobileRegion(this.parentNode)">${region.name}</h3>
                             <div class="company-list">
                     `;
 
                     region.companies.forEach(company => {
-                        // 알파칩스는 눈에 띄게 특별한 클래스 부여
                         const highlightClass = company === "알파칩스" ? "highlight-company" : `btn-${cat.category}`;
                         htmlContent += `<a href="#co-${company.toLowerCase().replace(/[^a-z0-9가-힣]/g, '')}" class="company-btn ${highlightClass}">${company}</a>`;
                     });
@@ -211,6 +209,12 @@
             });
 
             container.innerHTML = htmlContent;
+        }
+
+        function toggleMobileRegion(cardElement) {
+            if (window.innerWidth <= 768) {
+                cardElement.classList.toggle('open');
+            }
         }
     </script>
 </body>
