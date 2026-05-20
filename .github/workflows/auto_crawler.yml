@@ -2,7 +2,7 @@ name: 🚀 Auto Semiconductor News Crawler
 
 on:
   schedule:
-    - cron: '0 */6 * * *'  # 2시간마다 정각에 실행
+    - cron: '0 */1 * * *'  # 2시간마다 정각에 실행
   workflow_dispatch:       # 수동 실행 버튼
 
 jobs:
