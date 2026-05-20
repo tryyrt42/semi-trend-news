@@ -31,11 +31,13 @@ COMPANIES = [
 ]
 
 def fetch_news(company_name):
+    # 💡 검색어 사이에 있는 빈칸을 안전한 기호(%20)로 변환합니다.
     site_query = " OR ".join(["site:" + s for s in TARGET_SITES])
+    
     url_primary = "https://news.google.com/rss/search?q=" + str(company_name) + "+semiconductor+(" + site_query + ")&hl=en-US&gl=US&ceid=US:en"
+    url_primary = url_primary.replace(" ", "%20") # 빈칸 강제 변환 방어막
     
     feed = feedparser.parse(url_primary)
-    # 💡 데이터가 비어있을 경우를 대비한 안전망 (getattr)
     if getattr(feed, 'entries', None) and len(feed.entries) > 0:
         print(f"✅ [{company_name}] 1순위 전문 매체 기사 발견!")
         return {
@@ -45,6 +47,7 @@ def fetch_news(company_name):
 
     print(f"⚠️ [{company_name}] 1순위 매체 기사 없음. 2순위 검색 진행.")
     url_secondary = "https://news.google.com/rss/search?q=" + str(company_name) + "+semiconductor&hl=en-US&gl=US&ceid=US:en"
+    url_secondary = url_secondary.replace(" ", "%20") # 빈칸 강제 변환 방어막
     
     feed_sec = feedparser.parse(url_secondary)
     if getattr(feed_sec, 'entries', None) and len(feed_sec.entries) > 0:
@@ -118,7 +121,6 @@ if __name__ == "__main__":
         if news_info:
             ai_summary = summarize_news(news_info['title'])
             
-            # 💡 어떤 불량 데이터가 들어와도 str() 방어막으로 문자화시켜 에러를 100% 차단합니다!
             card_html = (
                 '<div id="co-' + str(comp['id']) + '" class="news-card">\n'
                 '    <h3 style="color: #1e293b; margin-top:0; font-size: 1.1rem;">' + str(comp['name']) + '</h3>\n'
