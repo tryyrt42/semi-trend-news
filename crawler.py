@@ -3,7 +3,7 @@ import requests
 import os
 import re
 import time
-from datetime import datetime
+from datetime import datetime, timedelta
 
 GEMINI_API_KEY = os.environ.get("GEMINI_API_KEY", "YOUR_API_KEY")
 
@@ -192,7 +192,7 @@ def update_timestamp():
         content = f.read()
 
     # 💡 용규님 피드백 반영: 기사 추가 여부 상관없이 1시간마다 타임스탬프 무조건 강제 갱신!
-    current_time = datetime.now().strftime("%Y-%m-%d %H:%M")
+    current_time = (datetime.utcnow() + timedelta(hours=9)).strftime("%Y-%m-%d %H:%M")
     content = re.sub(
         r'<div class="updated-time">.*?</div>',
         '<div class="updated-time">최근 업데이트: ' + str(current_time) + ' (1시간 간격 순차적 기사 누적 중)</div>',
