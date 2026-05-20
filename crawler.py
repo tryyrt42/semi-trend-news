@@ -26,7 +26,6 @@ COMPANIES = [
 ]
 
 def fetch_news(company_name):
-    # 💡 오직 국내 구글 뉴스만 검색 (최근 1개월 제한: +when:1m)
     url_kr = "https://news.google.com/rss/search?q=" + str(company_name) + "+반도체+when:1m&hl=ko&gl=KR&ceid=KR:ko"
     url_kr = url_kr.replace(" ", "%20") 
     
@@ -100,7 +99,6 @@ if __name__ == "__main__":
         if news_info:
             ai_summary = summarize_news(news_info['title'])
             
-            # 💡 번역 및 아카이브 버튼 제거, 원문 보기 버튼만 유지
             card_html = (
                 '<div id="co-' + str(comp['id']) + '" class="news-card">\n'
                 '    <h3 style="color: #1e293b; margin-top:0; font-size: 1.1rem;">' + str(comp['name']) + '</h3>\n'
@@ -113,7 +111,9 @@ if __name__ == "__main__":
                 '</div>\n'
             )
             generated_cards += str(card_html)
-        time.sleep(1)
+            
+        # 💡 핵심 수정: 구글 AI가 숨 돌릴 수 있도록 1초 -> 5초로 휴식 시간을 늘렸습니다!
+        time.sleep(5)
             
     if generated_cards:
         update_html(generated_cards)
