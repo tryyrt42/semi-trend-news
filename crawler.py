@@ -3,14 +3,10 @@ import requests
 import os
 import re
 import time
+import urllib.parse
 from datetime import datetime
 
 GEMINI_API_KEY = os.environ.get("GEMINI_API_KEY", "YOUR_API_KEY")
-
-TARGET_SITES = [
-    "eetimes.com", "digitimes.com", "reuters.com", 
-    "bloomberg.com", "tomshardware.com", "wsj.com"
-]
 
 COMPANIES = [
     {"id": "alphachips", "name": "AlphaChips"},
@@ -30,33 +26,38 @@ COMPANIES = [
     {"id": "guc", "name": "Global Unichip"}
 ]
 
+TARGET_SITES = [
+    "eetimes.com", "digitimes.com", "reuters.com", 
+    "bloomberg.com", "tomshardware.com", "wsj.com"
+]
+
 def fetch_news(company_name):
-    # 💡 검색어 사이에 있는 빈칸을 안전한 기호(%20)로 변환합니다.
-    site_query = " OR ".join(["site:" + s for s in TARGET_SITES])
+    # [1순위] 국내 구글 뉴스 검색
+    url_kr = "https://news.google.com/rss/search?q=" + str(company_name) + "+반도체&hl=ko&gl=KR&ceid=KR:ko"
+    url_kr = url_kr.replace(" ", "%20") 
     
-    url_primary = "https://news.google.com/rss/search?q=" + str(company_name) + "+semiconductor+(" + site_query + ")&hl=en-US&gl=US&ceid=US:en"
-    url_primary = url_primary.replace(" ", "%20") # 빈칸 강제 변환 방어막
-    
-    feed = feedparser.parse(url_primary)
-    if getattr(feed, 'entries', None) and len(feed.entries) > 0:
-        print(f"✅ [{company_name}] 1순위 전문 매체 기사 발견!")
+    feed_kr = feedparser.parse(url_kr)
+    if getattr(feed_kr, 'entries', None) and len(feed_kr.entries) > 0:
+        entry = feed_kr.entries[0]
         return {
-            "title": str(getattr(feed.entries[0], 'title', '제목 없음')), 
-            "link": str(getattr(feed.entries[0], 'link', '#'))
+            "title": str(getattr(entry, 'title', '제목 없음')), 
+            "link": str(getattr(entry, 'link', '#')),
+            "published": str(getattr(entry, 'published', '날짜 정보 없음')) # 💡 기사 발행일 추가
         }
 
-    print(f"⚠️ [{company_name}] 1순위 매체 기사 없음. 2순위 검색 진행.")
-    url_secondary = "https://news.google.com/rss/search?q=" + str(company_name) + "+semiconductor&hl=en-US&gl=US&ceid=US:en"
-    url_secondary = url_secondary.replace(" ", "%20") # 빈칸 강제 변환 방어막
+    # [2순위] 해외 구글 뉴스 검색
+    url_en = "https://news.google.com/rss/search?q=" + str(company_name) + "+semiconductor&hl=en-US&gl=US&ceid=US:en"
+    url_en = url_en.replace(" ", "%20")
     
-    feed_sec = feedparser.parse(url_secondary)
-    if getattr(feed_sec, 'entries', None) and len(feed_sec.entries) > 0:
+    feed_en = feedparser.parse(url_en)
+    if getattr(feed_en, 'entries', None) and len(feed_en.entries) > 0:
+        entry = feed_en.entries[0]
         return {
-            "title": str(getattr(feed_sec.entries[0], 'title', '제목 없음')), 
-            "link": str(getattr(feed_sec.entries[0], 'link', '#'))
+            "title": str(getattr(entry, 'title', '제목 없음')), 
+            "link": str(getattr(entry, 'link', '#')),
+            "published": str(getattr(entry, 'published', '날짜 정보 없음')) # 💡 기사 발행일 추가
         }
 
-    print(f"❌ [{company_name}] 최근 기사를 찾을 수 없습니다.")
     return None
 
 def summarize_news(title):
@@ -65,30 +66,30 @@ def summarize_news(title):
 
     url = "https://generativelanguage.googleapis.com/v1beta/models/gemini-2.5-flash:generateContent?key=" + str(GEMINI_API_KEY)
     headers = {'Content-Type': 'application/json'}
-    
-    prompt = "너는 글로벌 반도체 시장 분석가야. 다음 영문 반도체 뉴스의 제목을 보고, 어떤 내용인지 핵심을 파악해서 한국어로 명확하게 3줄 이내로 요약해 줘.\n\n뉴스 제목: " + str(title)
-    
+    prompt = "너는 글로벌 반도체 시장 분석가야. 다음 반도체 뉴스의 제목을 보고, 어떤 내용인지 핵심을 파악해서 한국어로 명확하게 3줄 이내로 요약해 줘.\n\n뉴스 제목: " + str(title)
     payload = {"contents": [{"parts": [{"text": prompt}]}]}
     
     try:
         response = requests.post(url, headers=headers, json=payload)
         res_json = response.json()
-        summary = res_json['candidates'][0]['content']['parts'][0]['text']
-        return str(summary).strip()
+        if 'candidates' in res_json:
+            summary = res_json['candidates'][0]['content']['parts'][0]['text']
+            return str(summary).strip()
+        else:
+            error_msg = res_json.get('error', {}).get('message', '알 수 없는 오류')
+            return "⚠️ AI 응답 오류 (사유: " + str(error_msg) + ")"
     except Exception as e:
-        return "요약 중 오류 발생: " + str(e)
+        return "⚠️ 요약 중 시스템 오류 발생: " + str(e)
 
 def update_html(news_html_content):
     html_file = "index.html"
     if not os.path.exists(html_file):
-        print(f"Error: {html_file} 파일을 찾을 수 없습니다.")
         return
 
     with open(html_file, "r", encoding="utf-8") as f:
         content = f.read()
 
     current_time = datetime.now().strftime("%Y-%m-%d %H:%M")
-    
     content = re.sub(
         r'<div class="updated-time">.*?</div>',
         '<div class="updated-time">최근 업데이트: ' + str(current_time) + ' (2시간 간격 자동 갱신)</div>',
@@ -96,7 +97,6 @@ def update_html(news_html_content):
     )
 
     pattern = re.compile(r'<div class="news-section">.*?</div>\s*</div>\s*<script>', re.DOTALL)
-    
     new_section_html = (
         '<div class="news-section">\n'
         '    <h2>기업별 실시간 모니터링 기사</h2>\n'
@@ -104,33 +104,36 @@ def update_html(news_html_content):
         + str(news_html_content) +
         '</div>\n</div>\n\n<script>'
     )
-    
     content = pattern.sub(new_section_html, content)
 
     with open(html_file, "w", encoding="utf-8") as f:
         f.write(content)
-    print("✨ index.html 업데이트 완료!")
+    print("✨ 업데이트 완료!")
 
 if __name__ == "__main__":
-    print("🚀 반도체 뉴스 수집 및 AI 요약 파이프라인 가동...")
     generated_cards = ""
-    
     for comp in COMPANIES:
         news_info = fetch_news(comp['name'])
-        
         if news_info:
             ai_summary = summarize_news(news_info['title'])
+            
+            translate_link = "https://translate.google.com/translate?sl=auto&tl=ko&u=" + urllib.parse.quote(str(news_info['link']))
+            archive_link = "https://archive.is/?run=1&url=" + urllib.parse.quote(str(news_info['link']))
             
             card_html = (
                 '<div id="co-' + str(comp['id']) + '" class="news-card">\n'
                 '    <h3 style="color: #1e293b; margin-top:0; font-size: 1.1rem;">' + str(comp['name']) + '</h3>\n'
+                '    <p style="font-size: 0.8rem; color: #64748b; margin-top: -8px; margin-bottom: 12px;">🕒 발행일: ' + str(news_info['published']) + '</p>\n' # 💡 날짜가 출력되는 부분!
                 '    <p><strong>📰 기사 제목:</strong> ' + str(news_info['title']) + '</p>\n'
                 '    <p><strong>✨ AI 요약:</strong> ' + str(ai_summary) + '</p>\n'
-                '    <a href="' + str(news_info['link']) + '" target="_blank" style="color: #3b82f6; text-decoration: none; font-weight: bold;">[ 원문 기사 보기 ]</a>\n'
+                '    <div style="margin-top: 12px; display: flex; gap: 10px; flex-wrap: wrap;">\n'
+                '        <a href="' + str(news_info['link']) + '" target="_blank" style="color: #3b82f6; text-decoration: none; font-weight: bold;">[ 📄 원문 보기 ]</a>\n'
+                '        <a href="' + translate_link + '" target="_blank" style="color: #10b981; text-decoration: none; font-weight: bold;">[ 🌐 번역 보기 ]</a>\n'
+                '        <a href="' + archive_link + '" target="_blank" style="color: #ef4444; text-decoration: none; font-weight: bold;">[ 🔓 유료기사 우회 ]</a>\n'
+                '    </div>\n'
                 '</div>\n'
             )
             generated_cards += str(card_html)
-            
         time.sleep(1)
             
     if generated_cards:
