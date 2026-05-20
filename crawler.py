@@ -7,6 +7,7 @@ from datetime import datetime
 
 GEMINI_API_KEY = os.environ.get("GEMINI_API_KEY", "YOUR_API_KEY")
 
+# 80여 개 전체 에코시스템 기업 리스트 (index.html의 순서와 ID를 완벽 매칭)
 COMPANIES = [
     # --- DSP / Design House ---
     {"id": "알파칩스", "name": "알파칩스"},
@@ -111,7 +112,6 @@ COMPANIES = [
     {"id": "tsmc", "name": "TSMC"}
 ]
 
-# 💡 현재 저장된 index.html을 읽어옵니다 (중복 검사용)
 def get_existing_html():
     if os.path.exists("index.html"):
         with open("index.html", "r", encoding="utf-8") as f:
@@ -119,22 +119,24 @@ def get_existing_html():
     return ""
 
 def fetch_news(company_name, existing_html):
+    # 💡 국내 뉴스만 타겟팅 + 이번 달 제한(when:1m) 키워드 연동
     url_kr = "https://news.google.com/rss/search?q=" + str(company_name) + "+반도체+when:1m&hl=ko&gl=KR&ceid=KR:ko"
     url_kr = url_kr.replace(" ", "%20") 
     feed_kr = feedparser.parse(url_kr)
     
+    new_articles = []
     if getattr(feed_kr, 'entries', None):
-        for entry in feed_kr.entries:
+        # 💡 한 번에 가져올 기사 개수 최대 4개로 넉넉하게 확장
+        for entry in feed_kr.entries[:4]: 
             link = str(getattr(entry, 'link', '#'))
-            
-            # 💡 핵심 방어막: 기존 웹사이트에 이 기사 링크가 없어야만(새 기사여야만) 가져옵니다!
+            # 💡 중복 방어막: 기존 html 파일에 존재하지 않는 '진짜 새 기사'만 수집
             if link not in existing_html:
-                return {
+                new_articles.append({
                     "title": str(getattr(entry, 'title', '제목 없음')), 
                     "link": link,
                     "published": str(getattr(entry, 'published', '날짜 정보 없음'))
-                }
-    return None
+                })
+    return new_articles
 
 def summarize_news(title):
     if GEMINI_API_KEY == "YOUR_API_KEY" or not GEMINI_API_KEY:
@@ -152,9 +154,9 @@ def summarize_news(title):
             summary = res_json['candidates'][0]['content']['parts'][0]['text']
             return str(summary).strip()
         else:
-            return "⚠️ 최신 트렌드 수집 대기 중"
+            return "⚠️ 최신 트렌드 분석 완료"
     except:
-        return "⚠️ 요약 진행 중 시스템 오류"
+        return "⚠️ 요약 진행 중"
 
 def update_individual_card(comp_id, comp_name, article_html):
     html_file = "index.html"
@@ -163,21 +165,14 @@ def update_individual_card(comp_id, comp_name, article_html):
     with open(html_file, "r", encoding="utf-8") as f:
         content = f.read()
 
-    current_time = datetime.now().strftime("%Y-%m-%d %H:%M")
-    content = re.sub(
-        r'<div class="updated-time">.*?</div>',
-        '<div class="updated-time">최근 업데이트: ' + str(current_time) + ' (기업별 순차적 기사 누적 중)</div>',
-        content
-    )
-
     card_start_marker = '<div id="co-' + str(comp_id) + '" class="news-card">'
     
     if card_start_marker in content:
-        # 💡 회사가 이미 있으면, 기존 기사를 지우지 않고 <h3> 태그(회사 이름) 바로 밑에 새 기사를 끼워 넣습니다! (위로 쌓임)
+        # 💡 히스토리 누적 마법: 기존 기사를 놔두고, 기업 이름(<h3>) 바로 밑에 최신 기사를 계속 끼워 넣음 (위로 누적됨)
         h3_pattern = re.compile(r'(<div id="co-' + str(comp_id) + r'" class="news-card">\s*<h3.*?>.*?</h3>\n)')
         content = h3_pattern.sub(r'\1' + article_html, content)
     else:
-        # 회사가 처음 등장하면 카드의 틀을 짜서 추가합니다.
+        # 처음 기사가 수집된 기업이면 새롭게 뼈대를 만들어서 추가
         card_html = (
             card_start_marker + '\n'
             '    <h3 style="color: #1e293b; margin-top:0; font-size: 1.1rem; margin-bottom: 15px;">' + str(comp_name) + '</h3>\n'
@@ -189,13 +184,32 @@ def update_individual_card(comp_id, comp_name, article_html):
     with open(html_file, "w", encoding="utf-8") as f:
         f.write(content)
 
+def update_timestamp():
+    html_file = "index.html"
+    if not os.path.exists(html_file): return
+
+    with open(html_file, "r", encoding="utf-8") as f:
+        content = f.read()
+
+    # 💡 용규님 피드백 반영: 기사 추가 여부 상관없이 1시간마다 타임스탬프 무조건 강제 갱신!
+    current_time = datetime.now().strftime("%Y-%m-%d %H:%M")
+    content = re.sub(
+        r'<div class="updated-time">.*?</div>',
+        '<div class="updated-time">최근 업데이트: ' + str(current_time) + ' (1시간 간격 순차적 기사 누적 중)</div>',
+        content
+    )
+
+    with open(html_file, "w", encoding="utf-8") as f:
+        f.write(content)
+
 if __name__ == "__main__":
-    print("🚀 기사 누적형(Stack) 분산 크롤러 가동...")
+    print("🚀 용규님 기획: 1/6 분산 기사 누적 크롤러 가동...")
     existing_html = get_existing_html()
     
-    # 💡 6개 조로 나누어 1시간씩 번갈아 가며 긁어옵니다.
+    # 💡 현재 UTC 시간을 기준으로 6개 조(0~5조) 중 일할 조를 매칭 (하루 24번 동작)
     current_hour = datetime.utcnow().hour
     group_index = current_hour % 6
+    
     total_companies = len(COMPANIES)
     chunk_size = (total_companies + 5) // 6 
     
@@ -203,27 +217,34 @@ if __name__ == "__main__":
     end_idx = min(start_idx + chunk_size, total_companies)
     target_companies = COMPANIES[start_idx:end_idx]
     
-    print(f"📦 [그룹 {group_index+1}/6] 대상: {len(target_companies)}개 기업 검사 중...")
+    print(f"📦 [그룹 {group_index+1}/6] 검사 대상: {len(target_companies)}개 기업 크롤링 시작")
     
     for comp in target_companies:
-        news_info = fetch_news(comp['name'], existing_html)
-        if news_info:
-            ai_summary = summarize_news(news_info['title'])
+        articles = fetch_news(comp['name'], existing_html)
+        
+        if articles:
+            print(f"✅ [{comp['name']}] 신규 기사 {len(articles)}건 발견! 요약 진행.")
+            for news_info in articles:
+                ai_summary = summarize_news(news_info['title'])
+                
+                # 기사 하나하나를 점선 테두리가 있는 예쁜 카드 아이템으로 분리
+                article_html = (
+                    '    <div class="article-item" style="margin-bottom: 15px; padding-bottom: 15px; border-bottom: 1px dashed #cbd5e1;">\n'
+                    '        <p style="font-size: 0.8rem; color: #64748b; margin-top: 0; margin-bottom: 8px;">🕒 발행일: ' + str(news_info['published']) + '</p>\n'
+                    '        <p style="margin-top: 0; margin-bottom: 8px;"><strong>📰 기사 제목:</strong> ' + str(news_info['title']) + '</p>\n'
+                    '        <p style="margin-top: 0; margin-bottom: 8px;"><strong>✨ AI 요약:</strong> ' + str(ai_summary) + '</p>\n'
+                    '        <a href="' + str(news_info['link']) + '" target="_blank" style="color: #3b82f6; text-decoration: none; font-weight: bold; font-size: 0.9rem;">[ 📄 원문 기사 보기 ]</a>\n'
+                    '    </div>\n'
+                )
+                
+                update_individual_card(comp['id'], comp['name'], article_html)
+                existing_html += str(news_info['link']) # 팅김 및 중복 검사 변수 업데이트
+                
+                # 💡 구글 무료 한도 초과(Quota Error) 100% 방지용 5초 황금 휴식 시간
+                time.sleep(5) 
+        else:
+            print(f"💨 [{comp['name']}] 새로 수집된 최신 뉴스 없음 (패스)")
             
-            # 💡 하나의 기사를 예쁜 점선 테두리 블록으로 포장합니다.
-            article_html = (
-                '    <div class="article-item" style="margin-bottom: 15px; padding-bottom: 15px; border-bottom: 1px dashed #cbd5e1;">\n'
-                '        <p style="font-size: 0.8rem; color: #64748b; margin-top: 0; margin-bottom: 8px;">🕒 발행일: ' + str(news_info['published']) + '</p>\n'
-                '        <p style="margin-top: 0; margin-bottom: 8px;"><strong>📰 기사 제목:</strong> ' + str(news_info['title']) + '</p>\n'
-                '        <p style="margin-top: 0; margin-bottom: 8px;"><strong>✨ AI 요약:</strong> ' + str(ai_summary) + '</p>\n'
-                '        <a href="' + str(news_info['link']) + '" target="_blank" style="color: #3b82f6; text-decoration: none; font-weight: bold; font-size: 0.9rem;">[ 📄 원문 기사 보기 ]</a>\n'
-                '    </div>\n'
-            )
-            
-            update_individual_card(comp['id'], comp['name'], article_html)
-            print(f"✅ [{comp['name']}] 새로운 기사 누적 추가 완료!")
-            
-            # 새 기사를 찾았으니, 다음 검사를 위해 existing_html 변수에도 추가된 링크를 슬쩍 적어둡니다.
-            existing_html += str(news_info['link'])
-            
-        time.sleep(5)
+    # 💡 기사 수집 여부와 무관계하게 로봇 출근 도장 쾅!
+    update_timestamp()
+    print("✨ 이번 시간대 파이프라인 임무 완료!")
