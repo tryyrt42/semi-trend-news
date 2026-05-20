@@ -3,7 +3,6 @@ import requests
 import os
 import re
 import time
-import urllib.parse
 from datetime import datetime
 
 GEMINI_API_KEY = os.environ.get("GEMINI_API_KEY", "YOUR_API_KEY")
@@ -26,38 +25,22 @@ COMPANIES = [
     {"id": "guc", "name": "Global Unichip"}
 ]
 
-TARGET_SITES = [
-    "eetimes.com", "digitimes.com", "reuters.com", 
-    "bloomberg.com", "tomshardware.com", "wsj.com"
-]
-
 def fetch_news(company_name):
-    # 💡 [1순위] 국내 구글 뉴스 (최근 1개월 제한: +when:1m 추가)
+    # 💡 오직 국내 구글 뉴스만 검색 (최근 1개월 제한: +when:1m)
     url_kr = "https://news.google.com/rss/search?q=" + str(company_name) + "+반도체+when:1m&hl=ko&gl=KR&ceid=KR:ko"
     url_kr = url_kr.replace(" ", "%20") 
     
     feed_kr = feedparser.parse(url_kr)
     if getattr(feed_kr, 'entries', None) and len(feed_kr.entries) > 0:
         entry = feed_kr.entries[0]
+        print(f"✅ [{company_name}] 최근 1개월 국내 기사 발견!")
         return {
             "title": str(getattr(entry, 'title', '제목 없음')), 
             "link": str(getattr(entry, 'link', '#')),
             "published": str(getattr(entry, 'published', '날짜 정보 없음'))
         }
 
-    # 💡 [2순위] 해외 구글 뉴스 (최근 1개월 제한: +when:1m 추가)
-    url_en = "https://news.google.com/rss/search?q=" + str(company_name) + "+semiconductor+when:1m&hl=en-US&gl=US&ceid=US:en"
-    url_en = url_en.replace(" ", "%20")
-    
-    feed_en = feedparser.parse(url_en)
-    if getattr(feed_en, 'entries', None) and len(feed_en.entries) > 0:
-        entry = feed_en.entries[0]
-        return {
-            "title": str(getattr(entry, 'title', '제목 없음')), 
-            "link": str(getattr(entry, 'link', '#')),
-            "published": str(getattr(entry, 'published', '날짜 정보 없음'))
-        }
-
+    print(f"❌ [{company_name}] 최근 1개월 내 국내 기사를 찾을 수 없습니다.")
     return None
 
 def summarize_news(title):
@@ -66,7 +49,7 @@ def summarize_news(title):
 
     url = "https://generativelanguage.googleapis.com/v1beta/models/gemini-2.5-flash:generateContent?key=" + str(GEMINI_API_KEY)
     headers = {'Content-Type': 'application/json'}
-    prompt = "너는 글로벌 반도체 시장 분석가야. 다음 반도체 뉴스의 제목을 보고, 어떤 내용인지 핵심을 파악해서 한국어로 명확하게 3줄 이내로 요약해 줘.\n\n뉴스 제목: " + str(title)
+    prompt = "너는 반도체 시장 분석가야. 다음 반도체 뉴스의 제목을 보고, 어떤 내용인지 핵심을 파악해서 명확하게 3줄 이내로 요약해 줘.\n\n뉴스 제목: " + str(title)
     payload = {"contents": [{"parts": [{"text": prompt}]}]}
     
     try:
@@ -117,19 +100,15 @@ if __name__ == "__main__":
         if news_info:
             ai_summary = summarize_news(news_info['title'])
             
-            translate_link = "https://translate.google.com/translate?sl=auto&tl=ko&u=" + urllib.parse.quote(str(news_info['link']))
-            archive_link = "https://archive.is/?run=1&url=" + urllib.parse.quote(str(news_info['link']))
-            
+            # 💡 번역 및 아카이브 버튼 제거, 원문 보기 버튼만 유지
             card_html = (
                 '<div id="co-' + str(comp['id']) + '" class="news-card">\n'
                 '    <h3 style="color: #1e293b; margin-top:0; font-size: 1.1rem;">' + str(comp['name']) + '</h3>\n'
                 '    <p style="font-size: 0.8rem; color: #64748b; margin-top: -8px; margin-bottom: 12px;">🕒 발행일: ' + str(news_info['published']) + '</p>\n'
                 '    <p><strong>📰 기사 제목:</strong> ' + str(news_info['title']) + '</p>\n'
                 '    <p><strong>✨ AI 요약:</strong> ' + str(ai_summary) + '</p>\n'
-                '    <div style="margin-top: 12px; display: flex; gap: 10px; flex-wrap: wrap;">\n'
-                '        <a href="' + str(news_info['link']) + '" target="_blank" style="color: #3b82f6; text-decoration: none; font-weight: bold;">[ 📄 원문 보기 ]</a>\n'
-                '        <a href="' + translate_link + '" target="_blank" style="color: #10b981; text-decoration: none; font-weight: bold;">[ 🌐 번역 보기 ]</a>\n'
-                '        <a href="' + archive_link + '" target="_blank" style="color: #ef4444; text-decoration: none; font-weight: bold;">[ 🔓 유료기사 우회 ]</a>\n'
+                '    <div style="margin-top: 12px;">\n'
+                '        <a href="' + str(news_info['link']) + '" target="_blank" style="color: #3b82f6; text-decoration: none; font-weight: bold;">[ 📄 원문 기사 보기 ]</a>\n'
                 '    </div>\n'
                 '</div>\n'
             )
