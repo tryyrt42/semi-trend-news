@@ -59,17 +59,14 @@ COMPANIES = [
 ]
 
 def fetch_news(company_name, existing_html):
-    # 💡 키워드 확장: 기업명은 쌍따옴표로 정확히, 뒤에는 (반도체 OR 칩 OR 프로세서)
     url_kr = "https://news.google.com/rss/search?q=\"" + str(company_name) + "\"+(반도체+OR+칩+OR+프로세서)+when:1m&hl=ko&gl=KR&ceid=KR:ko"
     url_kr = url_kr.replace(" ", "%20")
     feed_kr = feedparser.parse(url_kr)
     
     new_articles = []
     if getattr(feed_kr, 'entries', None):
-        # 💡 각 기업당 최신 기사를 최대 5개까지 넉넉하게 긁어옵니다.
         for entry in feed_kr.entries[:5]: 
             link = str(getattr(entry, 'link', '#'))
-            # 웹페이지에 아직 없는 완전 새로운 링크일 때만 수집망에 담습니다.
             if link not in existing_html:
                 new_articles.append({
                     "title": str(getattr(entry, 'title', '제목 없음')), 
@@ -105,19 +102,23 @@ def update_individual_card(comp_id, comp_name, article_html):
     card_marker = f'<div id="co-{comp_id}" class="news-card">'
     
     if card_marker in content:
-        # 기존 기업 카드가 있으면 <h3> 태그(기업 이름) 바로 밑에 최신 기사를 삽입 (위로 쌓임)
-        h3_pattern = re.compile(r'(<div id="co-' + comp_id + r'".*?</h3>\n)')
-        content = h3_pattern.sub(r'\1' + article_html, content)
+        # 💡 개선: 공백이나 줄바꿈에 구애받지 않고 안전하게 <h3> 태그 아래를 찾아 삽입합니다.
+        h3_pattern = re.compile(rf'(<div id="co-{comp_id}" class="news-card">\s*<h3[^>]*>.*?</h3>)', re.IGNORECASE | re.DOTALL)
+        content = h3_pattern.sub(r'\1\n' + article_html, content, count=1)
     else:
-        # 처음 발견된 기업이면 카드의 뼈대부터 새로 만듦
         new_card = (
             f'{card_marker}\n'
             f'    <h3 style="color: #1e293b; margin-top:0; font-size: 1.1rem; margin-bottom: 15px;">{comp_name}</h3>\n'
             f'{article_html}'
             f'</div>\n'
         )
-        content = content.replace('</div>\n</div>\n\n<script>', new_card + '</div>\n</div>\n\n<script>')
-        
+        # 💡 개선: 이전처럼 하드코딩된 문자열을 찾지 않고, </div> 태그 두 개와 <script> 사이를 정규식으로 유연하게 찾습니다.
+        insert_pattern = re.compile(r'(</div>\s*</div>\s*<script>)', re.IGNORECASE)
+        if insert_pattern.search(content):
+            content = insert_pattern.sub(new_card + r'\n\1', content, count=1)
+        else:
+            content += new_card # 최악의 경우에도 데이터가 유실되지 않도록 맨 끝에라도 붙임
+            
     with open(html_file, "w", encoding="utf-8") as f: 
         f.write(content)
 
@@ -145,15 +146,11 @@ if __name__ == "__main__":
                 )
                 
                 update_individual_card(comp['id'], comp['name'], article_html)
-                existing_html += news['link'] # 방금 추가한 링크를 변수에도 기록하여 중복 방지
-                
-                # 💡 Pro 핵심 1: 기사를 발견하고 요약까지 처리했을 때만! 구글 AI 쿼터 보호를 위해 5초 휴식
+                existing_html += news['link']
                 time.sleep(5) 
         else:
-            # 💡 Pro 핵심 2: 기사가 없으면 1초도 안 쉬고 즉시 다음 기업으로 스킵
             print(f"💨 [{comp['name']}] 새로 수집된 기사 없음 (Skip)")
             
-    # 💡 Pro 핵심 3: 한국 시간(KST)으로 정확하게 타임스탬프 기록
     now_kst = (datetime.utcnow() + timedelta(hours=9)).strftime("%Y-%m-%d %H:%M")
     
     if os.path.exists(html_file):
