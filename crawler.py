@@ -5,16 +5,13 @@ import re
 import time
 from datetime import datetime
 
-# 🔑 깃허브 보안 설정에서 불러올 Gemini API 키
-GEMINI_API_KEY = os.environ.get("GEMINI_API_KEY")
+GEMINI_API_KEY = os.environ.get("GEMINI_API_KEY", "YOUR_API_KEY")
 
-# 🎯 1순위 타겟 전문 매체 리스트 (White List)
 TARGET_SITES = [
     "eetimes.com", "digitimes.com", "reuters.com", 
     "bloomberg.com", "tomshardware.com", "wsj.com"
 ]
 
-# 🏢 모니터링 기업 리스트 (HTML과 매칭되도록 ID 설정)
 COMPANIES = [
     {"id": "alphachips", "name": "AlphaChips"},
     {"id": "nvidia", "name": "NVIDIA"},
@@ -31,13 +28,9 @@ COMPANIES = [
     {"id": "semifive", "name": "Semifive"},
     {"id": "asicland", "name": "ASICLAND"},
     {"id": "guc", "name": "Global Unichip"}
-    # 필요에 따라 CSV의 영문명을 여기에 계속 추가하시면 됩니다.
 ]
 
 def fetch_news(company_name):
-    """1순위 전문 매체를 먼저 검색하고, 없으면 2순위 구글 뉴스 전체를 검색합니다."""
-    
-    # [Step 1] 1순위: 지정된 전문 매체에서 검색
     site_query = " OR ".join([f"site:{s}" for s in TARGET_SITES])
     url_primary = f"https://news.google.com/rss/search?q={company_name}+semiconductor+({site_query})&hl=en-US&gl=US&ceid=US:en"
     
@@ -46,7 +39,6 @@ def fetch_news(company_name):
         print(f"✅ [{company_name}] 1순위 전문 매체 기사 발견!")
         return {"title": feed.entries[0].title, "link": feed.entries[0].link}
 
-    # [Step 2] 2순위: 구글 뉴스 전체로 확장하여 검색
     print(f"⚠️ [{company_name}] 1순위 매체 기사 없음. 2순위 검색 진행.")
     url_secondary = f"https://news.google.com/rss/search?q={company_name}+semiconductor&hl=en-US&gl=US&ceid=US:en"
     
@@ -58,7 +50,6 @@ def fetch_news(company_name):
     return None
 
 def summarize_news(title):
-    """구글 Gemini API를 호출하여 영문 기사 제목을 한국어로 3줄 요약합니다."""
     if GEMINI_API_KEY == "YOUR_API_KEY" or not GEMINI_API_KEY:
         return "Gemini API 키가 설정되지 않아 AI 요약을 수행할 수 없습니다."
 
@@ -82,7 +73,6 @@ def summarize_news(title):
         return f"요약 중 오류 발생: {e}"
 
 def update_html(news_html_content):
-    """완성된 뉴스 카드(HTML)를 index.html 파일에 덮어씁니다."""
     html_file = "index.html"
     if not os.path.exists(html_file):
         print(f"Error: {html_file} 파일을 찾을 수 없습니다.")
@@ -91,7 +81,6 @@ def update_html(news_html_content):
     with open(html_file, "r", encoding="utf-8") as f:
         content = f.read()
 
-    # 업데이트 시간 갱신 (2시간 간격으로 텍스트 변경)
     current_time = datetime.now().strftime("%Y-%m-%d %H:%M")
     content = re.sub(
         r'<div class="updated-time">.*?</div>',
@@ -99,9 +88,16 @@ def update_html(news_html_content):
         content
     )
 
-    # index.html 내의 뉴스 섹션을 새 뉴스로 교체
     pattern = re.compile(r'<div class="news-section">.*?</div>\s*</div>\s*<script>', re.DOTALL)
-    new_section_html = f'<div class="news-section">\n            <h2>기업별 실시간 모니터링 기사</h2>\n            <p style="color: #64748b; margin-top:-5px; margin-bottom:20px; font-size:0.85rem;">※ 위 회사 버튼을 클릭하면 관련 기사 위치로 이동합니다.</p>\n{news_html_content}        </div>\n    </div>\n\n    <script>'
+    
+    # 💡 에러 방지용: 작은따옴표(') 대신 큰따옴표 3개(""")를 사용하여 다중 줄바꿈에 완벽히 대응했습니다.
+    new_section_html = f"""<div class="news-section">
+            <h2>기업별 실시간 모니터링 기사</h2>
+            <p style="color: #64748b; margin-top:-5px; margin-bottom:20px; font-size:0.85rem;">※ 위 회사 버튼을 클릭하면 관련 기사 위치로 이동합니다.</p>
+{news_html_content}        </div>
+    </div>
+
+    <script>"""
     
     content = pattern.sub(new_section_html, content)
 
@@ -119,7 +115,6 @@ if __name__ == "__main__":
         if news_info:
             ai_summary = summarize_news(news_info['title'])
             
-            # HTML 형식으로 뉴스 카드 생성
             card_html = f"""            <div id="co-{comp['id']}" class="news-card">
                 <h3 style="color: #1e293b; margin-top:0; font-size: 1.1rem;">{comp['name']}</h3>
                 <p><strong>📰 기사 제목:</strong> {news_info['title']}</p>
@@ -128,7 +123,6 @@ if __name__ == "__main__":
             </div>\n"""
             generated_cards += card_html
             
-        # API 과부하 방지를 위해 1초 대기
         time.sleep(1)
             
     if generated_cards:
