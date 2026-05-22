@@ -7,26 +7,41 @@
     <style>
         body { font-family: 'Pretendard', -apple-system, sans-serif; background-color: #f8fafc; color: #0f172a; margin: 0; padding: 20px; }
         
-        /* 🔒 잠금 화면 스타일 */
+        /* 🔒 잠금 화면 */
         #login-screen { position: fixed; top: 0; left: 0; width: 100%; height: 100%; background: #f8fafc; display: flex; flex-direction: column; justify-content: center; align-items: center; z-index: 9999; }
         .login-box { background: white; padding: 40px; border-radius: 12px; box-shadow: 0 10px 15px -3px rgb(0 0 0 / 0.1); text-align: center; }
         .login-box input { padding: 12px; margin-top: 15px; border: 1px solid #cbd5e1; border-radius: 6px; width: 200px; font-size: 1rem; text-align: center; }
         .login-box button { padding: 12px 24px; margin-top: 15px; background: #3b82f6; color: white; border: none; border-radius: 6px; font-weight: bold; cursor: pointer; transition: 0.2s; }
         .login-box button:hover { background: #2563eb; }
 
-        /* 대시보드 본문 */
-        #dashboard-screen { display: none; }
+        /* 대시보드 헤더 */
+        #dashboard-screen { display: none; max-width: 900px; margin: 0 auto; }
         .header { text-align: center; margin-bottom: 25px; }
         .updated-time { font-size: 0.9rem; color: #64748b; margin-bottom: 20px; text-align: center; }
         
-        /* 기업 필터 버튼 영역 */
-        .filter-container { display: flex; flex-wrap: wrap; gap: 8px; justify-content: center; margin-bottom: 30px; background: white; padding: 15px; border-radius: 12px; box-shadow: 0 4px 6px -1px rgb(0 0 0 / 0.1); }
-        .filter-btn { padding: 8px 14px; border: 1px solid #cbd5e1; background: white; border-radius: 20px; font-size: 0.85rem; cursor: pointer; transition: all 0.2s; color: #475569; white-space: nowrap; }
-        .filter-btn:hover { background: #f1f5f9; }
-        .filter-btn.active { background: #3b82f6; color: white; border-color: #3b82f6; font-weight: bold; }
+        /* 🗂️ 아코디언(접기/펼치기) 생태계 분류 UI */
+        .category-section { background: white; border-radius: 12px; box-shadow: 0 4px 6px -1px rgb(0 0 0 / 0.1); margin-bottom: 20px; overflow: hidden; }
+        .category-summary { background: #1e293b; color: white; padding: 15px 20px; font-size: 1.1rem; font-weight: bold; cursor: pointer; list-style: none; display: flex; justify-content: space-between; align-items: center; }
+        .category-summary::-webkit-details-marker { display: none; }
+        .category-summary::after { content: '▼'; font-size: 0.8rem; transition: transform 0.3s; }
+        details[open] .category-summary::after { transform: rotate(180deg); }
+        
+        .subcategory-group { padding: 15px 20px; border-top: 1px solid #e2e8f0; }
+        .subcategory-title { font-size: 0.95rem; color: #475569; margin: 0 0 10px 0; border-left: 3px solid #3b82f6; padding-left: 8px; }
+        
+        /* 기업 버튼 그리드 */
+        .btn-grid { display: flex; flex-wrap: wrap; gap: 8px; margin-bottom: 15px; }
+        .filter-btn { padding: 8px 14px; border: 1px solid #cbd5e1; background: white; border-radius: 20px; font-size: 0.85rem; cursor: pointer; transition: all 0.2s; color: #475569; }
+        .filter-btn:hover { background: #f1f5f9; border-color: #94a3b8; }
+        .filter-btn.active { background: #3b82f6; color: white; border-color: #3b82f6; font-weight: bold; box-shadow: 0 2px 4px rgb(59 130 246 / 0.4); }
+
+        /* 전체보기 특별 버튼 */
+        .all-btn-container { text-align: center; margin-bottom: 20px; }
+        .all-btn { background: #3b82f6; color: white; padding: 12px 30px; border-radius: 30px; font-size: 1rem; font-weight: bold; border: none; cursor: pointer; box-shadow: 0 4px 6px rgb(59 130 246 / 0.3); transition: 0.2s; }
+        .all-btn:hover { background: #2563eb; }
         
         /* 뉴스 타임라인 영역 */
-        #global-news-feed { max-width: 800px; margin: 0 auto; background: white; padding: 20px; border-radius: 12px; box-shadow: 0 4px 6px -1px rgb(0 0 0 / 0.1); min-height: 200px; }
+        #global-news-feed { background: white; padding: 20px; border-radius: 12px; box-shadow: 0 4px 6px -1px rgb(0 0 0 / 0.1); min-height: 200px; scroll-margin-top: 20px; }
         .article-item { border-left: 4px solid #3b82f6; padding-left: 15px; margin-bottom: 25px; }
         .company-badge { display: inline-block; background: #1e293b; color: white; padding: 4px 10px; border-radius: 6px; font-size: 0.8rem; font-weight: bold; margin-bottom: 8px; }
         .news-date { font-size: 0.8rem; color: #64748b; margin: 0 0 8px 0; }
@@ -34,15 +49,13 @@
         .news-summary { margin: 0 0 10px 0; font-size: 0.95rem; line-height: 1.6; color: #334155; }
         .news-link { color: #3b82f6; text-decoration: none; font-size: 0.85rem; font-weight: bold; }
         
-        /* 검색 결과 없음 메시지 */
         .no-news-msg { text-align: center; color: #64748b; font-size: 1rem; padding: 40px 0; display: none; }
 
         @media (max-width: 768px) {
             body { padding: 10px; }
-            .filter-container { padding: 10px; gap: 6px; }
+            .category-summary { padding: 12px 15px; font-size: 1rem; }
             .filter-btn { font-size: 0.75rem; padding: 6px 10px; }
             #global-news-feed { padding: 15px; }
-            .news-title { font-size: 1rem; }
         }
     </style>
 </head>
@@ -60,115 +73,139 @@
 
     <div id="dashboard-screen">
         <div class="header">
-            <h1 style="margin-bottom: 5px;">🌐 글로벌 반도체 최신 동향</h1>
-            <div class="updated-time">최근 업데이트: 2026-05-22 11:55 (시간순 타임라인 반영 완료)</div>
+            <h1 style="margin-bottom: 5px;">🌐 글로벌 반도체 생태계 동향</h1>
+            <div class="updated-time">최근 업데이트: 파이썬 로봇 수집 대기 중...</div>
         </div>
 
-        <div class="filter-container" id="filter-buttons">
-            <button class="filter-btn active" onclick="filterNews('all')">전체 타임라인 보기</button>
+        <div class="all-btn-container">
+            <button class="all-btn active" onclick="filterNews('all', this)">전체 타임라인 펼쳐보기</button>
         </div>
+
+        <details class="category-section" id="cat-dsp" open>
+            <summary class="category-summary">🏢 DSP / Design House (디자인하우스)</summary>
+            <div class="subcategory-group">
+                <h4 class="subcategory-title">🇰🇷 대한민국</h4>
+                <div class="btn-grid">
+                    <button class="filter-btn" onclick="filterNews('알파칩스', this)">알파칩스</button>
+                    <button class="filter-btn" onclick="filterNews('에이디테크놀로지', this)">에이디테크놀로지</button>
+                    <button class="filter-btn" onclick="filterNews('가온칩스', this)">가온칩스</button>
+                    <button class="filter-btn" onclick="filterNews('세미파이브', this)">세미파이브</button>
+                    <button class="filter-btn" onclick="filterNews('코아시아', this)">코아시아</button>
+                    <button class="filter-btn" onclick="filterNews('에이직랜드', this)">에이직랜드</button>
+                    <button class="filter-btn" onclick="filterNews('하나텍', this)">하나텍</button>
+                    <button class="filter-btn" onclick="filterNews('에이씨피씨', this)">에이씨피씨</button>
+                </div>
+                <h4 class="subcategory-title">🌐 글로벌 (대만/미국/유럽 등)</h4>
+                <div class="btn-grid">
+                    <button class="filter-btn" onclick="filterNews('글로벌유니칩 (GUC)', this)">글로벌유니칩 (GUC)</button>
+                    <button class="filter-btn" onclick="filterNews('알칩 (Alchip)', this)">알칩 (Alchip)</button>
+                    <button class="filter-btn" onclick="filterNews('패러데이', this)">패러데이</button>
+                    <button class="filter-btn" onclick="filterNews('M31 Technology', this)">M31 Technology</button>
+                    <button class="filter-btn" onclick="filterNews('CreoChip', this)">CreoChip</button>
+                    <button class="filter-btn" onclick="filterNews('Open-Silicon', this)">Open-Silicon</button>
+                    <button class="filter-btn" onclick="filterNews('베리실리콘 (VeriSilicon)', this)">베리실리콘 (VeriSilicon)</button>
+                    <button class="filter-btn" onclick="filterNews('Innosilicon', this)">Innosilicon</button>
+                    <button class="filter-btn" onclick="filterNews('손드렐 (Sondrel)', this)">손드렐 (Sondrel)</button>
+                    <button class="filter-btn" onclick="filterNews('EnSilica', this)">EnSilica</button>
+                    <button class="filter-btn" onclick="filterNews('eInfochips', this)">eInfochips</button>
+                </div>
+            </div>
+        </details>
+
+        <details class="category-section" id="cat-fabless" open>
+            <summary class="category-summary">💡 Fabless (팹리스)</summary>
+            <div class="subcategory-group">
+                <h4 class="subcategory-title">🇰🇷 대한민국 (AI / NPU)</h4>
+                <div class="btn-grid">
+                    <button class="filter-btn" onclick="filterNews('퓨리오사AI', this)">퓨리오사AI</button>
+                    <button class="filter-btn" onclick="filterNews('리벨리온', this)">리벨리온</button>
+                    <button class="filter-btn" onclick="filterNews('딥엑스', this)">딥엑스</button>
+                    <button class="filter-btn" onclick="filterNews('파두', this)">파두</button>
+                    <button class="filter-btn" onclick="filterNews('망고부스트', this)">망고부스트</button>
+                    <button class="filter-btn" onclick="filterNews('사피온', this)">사피온</button>
+                    <button class="filter-btn" onclick="filterNews('모빌린트', this)">모빌린트</button>
+                    <button class="filter-btn" onclick="filterNews('오픈엣지테크', this)">오픈엣지테크</button>
+                </div>
+                <h4 class="subcategory-title">🇰🇷 대한민국 (기타 팹리스)</h4>
+                <div class="btn-grid">
+                    <button class="filter-btn" onclick="filterNews('씨유박스', this)">씨유박스</button>
+                    <button class="filter-btn" onclick="filterNews('에이직원', this)">에이직원</button>
+                    <button class="filter-btn" onclick="filterNews('LX세미콘', this)">LX세미콘</button>
+                    <button class="filter-btn" onclick="filterNews('제주반도체', this)">제주반도체</button>
+                    <button class="filter-btn" onclick="filterNews('텔레칩스', this)">텔레칩스</button>
+                    <button class="filter-btn" onclick="filterNews('넥스트칩', this)">넥스트칩</button>
+                    <button class="filter-btn" onclick="filterNews('어보브반도체', this)">어보브반도체</button>
+                    <button class="filter-btn" onclick="filterNews('동운아나텍', this)">동운아나텍</button>
+                    </div>
+                <h4 class="subcategory-title">🇺🇸 미국 (빅테크 & 글로벌 팹리스)</h4>
+                <div class="btn-grid">
+                    <button class="filter-btn" onclick="filterNews('NVIDIA', this)">NVIDIA</button>
+                    <button class="filter-btn" onclick="filterNews('AMD', this)">AMD</button>
+                    <button class="filter-btn" onclick="filterNews('Qualcomm', this)">Qualcomm</button>
+                    <button class="filter-btn" onclick="filterNews('Broadcom', this)">Broadcom</button>
+                    <button class="filter-btn" onclick="filterNews('Marvell', this)">Marvell</button>
+                    <button class="filter-btn" onclick="filterNews('Intel', this)">Intel</button>
+                    <button class="filter-btn" onclick="filterNews('Apple', this)">Apple</button>
+                    <button class="filter-btn" onclick="filterNews('Google', this)">Google</button>
+                    <button class="filter-btn" onclick="filterNews('Amazon', this)">Amazon</button>
+                    <button class="filter-btn" onclick="filterNews('Microsoft', this)">Microsoft</button>
+                    <button class="filter-btn" onclick="filterNews('Meta', this)">Meta</button>
+                    <button class="filter-btn" onclick="filterNews('Tesla', this)">Tesla</button>
+                    <button class="filter-btn" onclick="filterNews('OpenAI', this)">OpenAI</button>
+                </div>
+                <h4 class="subcategory-title">🇹🇼 대만 / 🇪🇺 유럽</h4>
+                <div class="btn-grid">
+                    <button class="filter-btn" onclick="filterNews('MediaTek', this)">MediaTek (대만)</button>
+                    <button class="filter-btn" onclick="filterNews('Realtek', this)">Realtek (대만)</button>
+                    <button class="filter-btn" onclick="filterNews('NXP', this)">NXP (유럽)</button>
+                    <button class="filter-btn" onclick="filterNews('STMicroelectronics', this)">ST (유럽)</button>
+                    <button class="filter-btn" onclick="filterNews('Infineon', this)">Infineon (유럽)</button>
+                </div>
+            </div>
+        </details>
+
+        <details class="category-section" id="cat-foundry" open>
+            <summary class="category-summary">🏭 Foundry (파운드리)</summary>
+            <div class="subcategory-group">
+                <div class="btn-grid">
+                    <button class="filter-btn" onclick="filterNews('Samsung Foundry', this)">Samsung Foundry 🇰🇷</button>
+                    <button class="filter-btn" onclick="filterNews('TSMC', this)">TSMC 🇹🇼</button>
+                </div>
+            </div>
+        </details>
 
         <div id="global-news-feed">
-        <div class="article-item" data-id="tsmc" data-timestamp="1778050800">
-            <span class="company-badge">TSMC</span>
-            <p class="news-date">🕒 Wed, 06 May 2026 07:00:00 GMT</p>
-            <h4 class="news-title">📰 [사설] TSMC, 23조 반도체 투자 재개…삼성전자는 ‘파업 리스크’ - 서울경제</h4>
-            <p class="news-summary">✨ TSMC는 23조 원 규모의 반도체 투자를 재개하며 공격적으로 시장 경쟁력 강화를 꾀하고 있습니다.
-반면 삼성전자는 파업 리스크에 직면하여 생산 및 투자에 대한 불확실성이 커진 상황입니다.
-이는 글로벌 반도체 주도권 경쟁에서 삼성전자가 불리한 위치에 놓일 수 있다는 우려를 제기합니다.</p>
-            <a href="https://news.google.com/rss/articles/CBMiUkFVX3lxTE13YnZ5OHVGeG1ZM2hNLTc0LW9ndExUYnVpbWZWTFVod3ZCN0VreTlmVnFTNldWTWFvX2ZTRmwzMTl5Yl9qdkFjZE1ZMUVHcFRhZ3fSAVNBVV95cUxPaEJVUHVhdXZGWHJ5TnE0VVhYWW1HcXhuajctcE1HN2ZKWWpLak5UOXBYdEdGcjdpcGZLLTQ5OG0yZDhvb2MwUnZnYjFQWHpaMzExNA?oc=5" target="_blank" class="news-link">[ 📄 원문 기사 보기 ]</a>
-        </div>
-
-        <div class="article-item" data-id="에이직랜드" data-timestamp="1778821304">
-            <span class="company-badge">에이직랜드</span>
-            <p class="news-date">🕒 Fri, 15 May 2026 05:01:44 GMT</p>
-            <h4 class="news-title">📰 에이직랜드, 1분기 영업손실 29억…매출은 전년 대비 3배 급증 - 아이뉴스24</h4>
-            <p class="news-summary">✨ 에이직랜드는 1분기에 매출이 전년 대비 3배 급증하는 괄목할 만한 외형 성장을 달성했습니다. 하지만 이와 동시에 29억 원의 영업손실을 기록하며 수익성 악화가 두드러졌습니다. 이는 공격적인 투자나 신규 프로젝트 초기에 발생하는 비용에 기인한 것으로 보이며, 향후 매출 성장 지속성과 함께 수익성 개선이 핵심 과제로 떠오르고 있습니다.</p>
-            <a href="https://news.google.com/rss/articles/CBMiTEFVX3lxTFB0VlpzSENOT0V6U2JWamhUeFltbUV4NjROZ2ZjSVgwb2VfVTl1b053RHpsaEkzUVRVaHVac1JwOFVkb3VrZnhIZTBSZHo?oc=5" target="_blank" class="news-link">[ 📄 원문 기사 보기 ]</a>
-        </div>
-
-        <div class="article-item" data-id="에이직랜드" data-timestamp="1778821320">
-            <span class="company-badge">에이직랜드</span>
-            <p class="news-date">🕒 Fri, 15 May 2026 05:02:00 GMT</p>
-            <h4 class="news-title">📰 에이직랜드, 1분기 영업손실 29억…매출은 전년 대비 3배 급증 - 네이트</h4>
-            <p class="news-summary">✨ 에이직랜드는 1분기 매출이 전년 대비 3배 급증하며 가파른 외형 성장을 달성했습니다.
-그러나 이와 동시에 29억 원의 영업손실을 기록하며 수익성 측면에서는 부진했습니다.
-이는 고성장을 위한 투자 확대 또는 비용 증가에 따른 것으로 분석되며, 성장과 수익성 간의 균형 확보가 향후 과제로 보입니다.</p>
-            <a href="https://news.google.com/rss/articles/CBMieEFVX3lxTE1yZHk1cXZoWkhPTEp0WWdINERXR1lkVm9GQzFhd0hwc01XUVJiUHFFaXByMEdRRU4yUUE5Mm5TNXB4Z0xFUUdmbnBqZWN4WmNNQndLaXI0WTlQX2ZQYVpKdnFPTGlPVndiNTBTdzBYUlB0SEhaVkVXYQ?oc=5" target="_blank" class="news-link">[ 📄 원문 기사 보기 ]</a>
-        </div>
-
-        <div class="article-item" data-id="에이디테크놀로지" data-timestamp="1777878000">
-            <span class="company-badge">에이디테크놀로지</span>
-            <p class="news-date">🕒 Mon, 04 May 2026 07:00:00 GMT</p>
-            <h4 class="news-title">📰 에이디테크놀로지, 美 기업과 AI DC향 4나노 턴키 계약 체결 - 지디넷코리아</h4>
-            <p class="news-summary">✨ 에이디테크놀로지가 미국 기업과 AI 데이터센터향 4나노 턴키 계약을 체결하며 최첨단 AI 반도체 시장 진출을 가속화했습니다.
-
-이는 고성능 AI 칩 수요 증가와 함께 ADT의 선단 공정 설계 및 개발 역량이 입증된 중요한 성과입니다.
-
-턴키 계약을 통해 ADT는 차세대 AI 칩 개발의 핵심 파트너로서 시장 내 입지를 확고히 할 것으로 분석됩니다.</p>
-            <a href="https://news.google.com/rss/articles/CBMiVkFVX3lxTE01TkJEUFdwWEtZN25Uekp5RmRYS0V2bldCdHZsTVhNOFFscG1QdVB1Z2xVMy01OFh0dmNnWDNqSmQ5TlVwMW03QXpCbDZrZ3o2MUlYcjZB?oc=5" target="_blank" class="news-link">[ 📄 원문 기사 보기 ]</a>
-        </div>
-
             <div id="no-news" class="no-news-msg">해당 기업의 30일 이내 최신 기사가 아직 수집되지 않았습니다.</div>
         </div>
     </div>
 
     <script>
-        // 💡 80개 기업 마스터 리스트 (항상 노출됨)
-        const ALL_COMPANIES = [
-            "알파칩스", "에이디테크놀로지", "가온칩스", "세미파이브", "코아시아", "에이직랜드", "하나텍", "에이씨피씨", "칩스앤미디어", "글로벌유니칩 (GUC)", "알칩 (Alchip)", "패러데이", "M31 Technology", "CreoChip", "Open-Silicon", "베리실리콘 (VeriSilicon)", "Innosilicon", "손드렐 (Sondrel)", "EnSilica", "eInfochips", 
-            "퓨리오사AI", "리벨리온", "딥엑스", "파두", "망고부스트", "사피온", "모빌린트", "오픈엣지테크", "씨유박스", "에이직원", "GCT Semiconductor", "에이스테크놀로지", "알에프에이치아이씨", "와이솔", "이노칩테크놀로지", "픽셀플러스", "실리콘옵틱스", "에스엘파워일렉트로닉스", "아이즈비전", "보스반도체", "동운아나텍", "실리콘마이터스", "에이디반도체", "MagnaChip반도체", "LX세미콘", "실리콘웍스", "아나패스", "라온텍", "칩원텍", "제주반도체", "텔레칩스", "넥스트칩", "에이비오브", "코아로직", "엠씨넥스", "세코닉스", "넥슨반도체", 
-            "NVIDIA", "AMD", "Qualcomm", "Broadcom", "Marvell", "Lattice", "Cirrus Logic", "Microchip", "MPS", "Skyworks", "Qorvo", "Wolfspeed", "Silicon Labs", "MaxLinear", "Apple", "Google", "Amazon", "Microsoft", "Meta", "Tesla", "OpenAI", "Intel", "MediaTek", "Novatek", "Realtek", "Himax", "Parade Tech", "ITE Tech", "Elan Microelectronics", "Airoha", "Silicon Motion", "NXP", "STMicroelectronics", "Infineon", "Nordic", "u-blox", "Melexis", 
-            "Samsung Foundry", "TSMC"
-        ];
-
-        // 🔒 비밀번호 확인 함수 (1234를 원하시는 번호로 변경하세요)
+        // 🔒 비밀번호 확인 (1234 변경 가능)
         function checkPassword() {
             const inputPw = document.getElementById("pw-input").value;
-            if (inputPw === "1234") {
+            if (inputPw === "1111") {
                 document.getElementById("login-screen").style.display = "none";
                 document.getElementById("dashboard-screen").style.display = "block";
-                initDashboard();
+                
+                // 로그인 직후 기사들 타임스탬프 기반 최신순 정렬
+                const feed = document.getElementById("global-news-feed");
+                const articles = Array.from(feed.querySelectorAll(".article-item"));
+                articles.sort((a, b) => parseInt(b.getAttribute("data-timestamp")) - parseInt(a.getAttribute("data-timestamp")));
+                articles.forEach(article => feed.appendChild(article));
             } else {
                 alert("비밀번호가 일치하지 않습니다.");
             }
         }
 
-        // 📊 대시보드 초기화
-        function initDashboard() {
-            generateFilterButtons();
-            
-            const feed = document.getElementById("global-news-feed");
-            const articles = Array.from(feed.querySelectorAll(".article-item"));
-            
-            // 타임스탬프 기준 최신순 자동 정렬
-            articles.sort((a, b) => {
-                return parseInt(b.getAttribute("data-timestamp")) - parseInt(a.getAttribute("data-timestamp"));
-            });
-            
-            articles.forEach(article => feed.appendChild(article));
-        }
+        // 💡 용규님이 원하셨던 완벽한 UX 흐름 제어 스크립트!
+        function filterNews(companyName, btnElement) {
+            // 1. 모든 버튼 색상 초기화 후 누른 버튼만 색상 활성화
+            document.querySelectorAll('.filter-btn, .all-btn').forEach(btn => btn.classList.remove('active'));
+            if(btnElement) btnElement.classList.add('active');
 
-        // 💡 80개 기업 버튼 무조건 고정 생성
-        function generateFilterButtons() {
-            const btnContainer = document.getElementById('filter-buttons');
-            ALL_COMPANIES.forEach(comp => {
-                const btn = document.createElement('button');
-                btn.className = 'filter-btn';
-                btn.innerText = comp;
-                btn.onclick = (e) => filterNews(comp);
-                btnContainer.appendChild(btn);
-            });
-        }
-
-        // 특정 회사 버튼 눌렀을 때 필터링
-        function filterNews(companyName) {
-            document.querySelectorAll('.filter-btn').forEach(btn => btn.classList.remove('active'));
-            event.target.classList.add('active');
-
+            // 2. 기사 필터링
             const articles = document.querySelectorAll('.article-item');
             let visibleCount = 0;
-
             articles.forEach(article => {
                 if (companyName === 'all' || article.getAttribute('data-id') === companyName) {
                     article.style.display = 'block';
@@ -178,13 +215,23 @@
                 }
             });
 
-            // 선택한 회사의 기사가 없을 경우 안내 메시지 표시
-            const noNewsMsg = document.getElementById('no-news');
-            if (visibleCount === 0 && companyName !== 'all') {
-                noNewsMsg.style.display = 'block';
+            // 3. 기사 유무 메시지
+            document.getElementById('no-news').style.display = (visibleCount === 0 && companyName !== 'all') ? 'block' : 'none';
+
+            // 4. ✨ 핵심 UX: 전체보기 vs 개별 업체 클릭 시의 아코디언/스크롤 제어
+            const detailsList = document.querySelectorAll('details.category-section');
+            const feedSection = document.getElementById('global-news-feed');
+
+            if (companyName === 'all') {
+                // '전체 타임라인' 누르면 -> 모든 목록이 쫙 펼쳐지면서 기사 쪽으로 내려감
+                detailsList.forEach(detail => detail.open = true);
             } else {
-                noNewsMsg.style.display = 'none';
+                // 특정 '업체'를 누르면 -> 목록이 싹 다 접히면서 기사 쪽으로 스무스하게 내려감
+                detailsList.forEach(detail => detail.open = false);
             }
+            
+            // 공통: 기사 피드 구역으로 스무스하게 스크롤!
+            feedSection.scrollIntoView({ behavior: 'smooth' });
         }
     </script>
 </body>
