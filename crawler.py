@@ -151,7 +151,7 @@ def insert_into_global_feed(article_html):
     with open(html_file, "w", encoding="utf-8") as f: f.write(content)
 
 if __name__ == "__main__":
-    print("🚀 [Pro V5] 주식 차단 & 일타쌍피 요약 크롤링 시작...")
+    print("🚀 [Pro V5.1] 과부하 방지 속도 조절 패치 가동 시작...")
     
     html_file = "index.html"
     existing_html = open(html_file, "r", encoding="utf-8").read() if os.path.exists(html_file) else ""
@@ -164,45 +164,41 @@ if __name__ == "__main__":
             collected_titles = [] 
             
             for news in articles:
-                # 💡 한 번의 API 호출로 필터링과 요약을 동시에 받아옵니다!
                 status, summary = analyze_and_summarize(comp['name'], news['title'], collected_titles)
                 
                 if status == "REJECT_STOCK":
                     print(f"   📉 [주식/찌라시 차단] {news['title']}")
                     existing_html += news['link']
-                    time.sleep(2) # 구글 API 과부하 방지용 꿀휴식
-                    continue
                 elif status == "IRRELEVANT":
                     print(f"   🗑️ [반도체 무관 차단] {news['title']}")
                     existing_html += news['link'] 
-                    time.sleep(2)
-                    continue
                 elif status == "DUPLICATE":
                     print(f"   🚫 [도배 기사 차단] {news['title']}")
                     existing_html += news['link']
-                    time.sleep(2)
-                    continue
                 elif status == "ERROR":
-                    print(f"   ⚠️ [API 에러/과부하 스킵] {news['title']}")
-                    time.sleep(5) # 에러 시엔 좀 길게 쉽니다. (기사는 나중에 다시 시도하게 둠)
+                    print(f"   ⚠️ [API 과부하 발생! 15초 긴급 휴식] {news['title']}")
+                    time.sleep(15) # 💡 구글이 뻗으면 15초 동안 길게 숨을 고릅니다.
                     continue
                 
-                print(f"   ✅ [검열 통과/요약 완료] {news['title']}")
-                collected_titles.append(news['title']) 
+                if status == "PASS":
+                    print(f"   ✅ [검열 통과/요약 완료] {news['title']}")
+                    collected_titles.append(news['title']) 
+                    
+                    article_html = (
+                        f'        <div class="article-item" data-id="{comp["name"]}" data-timestamp="{news["timestamp"]}">\n'
+                        f'            <span class="company-badge">{comp["name"]}</span>\n'
+                        f'            <p class="news-date">🕒 {news["published"]}</p>\n'
+                        f'            <h4 class="news-title">📰 {news["title"]}</h4>\n'
+                        f'            <p class="news-summary">✨ {summary}</p>\n'
+                        f'            <a href="{news["link"]}" target="_blank" class="news-link">[ 📄 원문 기사 보기 ]</a>\n'
+                        f'        </div>\n'
+                    )
+                    
+                    insert_into_global_feed(article_html)
+                    existing_html += news['link']
                 
-                article_html = (
-                    f'        <div class="article-item" data-id="{comp["name"]}" data-timestamp="{news["timestamp"]}">\n'
-                    f'            <span class="company-badge">{comp["name"]}</span>\n'
-                    f'            <p class="news-date">🕒 {news["published"]}</p>\n'
-                    f'            <h4 class="news-title">📰 {news["title"]}</h4>\n'
-                    f'            <p class="news-summary">✨ {summary}</p>\n'
-                    f'            <a href="{news["link"]}" target="_blank" class="news-link">[ 📄 원문 기사 보기 ]</a>\n'
-                    f'        </div>\n'
-                )
-                
-                insert_into_global_feed(article_html)
-                existing_html += news['link']
-                time.sleep(4) # 정상 등록 후에도 과부하 방지 휴식
+                # 💡 [핵심 패치] 어떤 결과가 나오든 무조건 5초를 푹 쉽니다. (안전 속도 강제 유지)
+                time.sleep(5) 
         else:
             print(f"💨 [{comp['name']}] 수집할 새 기사 없음 (Skip)")
             
