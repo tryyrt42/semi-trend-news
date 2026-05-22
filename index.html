@@ -3,668 +3,89 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>글로벌 반도체 에코시스템 모니터링</title>
-    <meta name="robots" content="noindex, nofollow">
+    <title>글로벌 반도체 트렌드 대시보드 (Pro)</title>
     <style>
-        body { font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif; background-color: #f1f5f9; margin: 0; padding: 15px; }
-        .container { max-width: 1300px; margin: 0 auto; display: none; }
+        body { font-family: 'Pretendard', sans-serif; background-color: #f8fafc; color: #0f172a; margin: 0; padding: 20px; }
+        .header { text-align: center; margin-bottom: 20px; }
+        .updated-time { font-size: 0.9rem; color: #64748b; margin-bottom: 20px; text-align: center; }
         
-        h1 { text-align: center; color: #0f172a; font-size: 1.8rem; margin-bottom: 5px; margin-top: 10px; }
-        .updated-time { text-align: center; color: #64748b; font-size: 0.85rem; margin-bottom: 20px; }
+        /* 기업 필터 버튼 영역 */
+        .filter-container { display: flex; flex-wrap: wrap; gap: 8px; justify-content: center; margin-bottom: 30px; background: white; padding: 15px; border-radius: 12px; box-shadow: 0 4px 6px -1px rgb(0 0 0 / 0.1); }
+        .filter-btn { padding: 8px 14px; border: 1px solid #cbd5e1; background: white; border-radius: 20px; font-size: 0.85rem; cursor: pointer; transition: all 0.2s; color: #475569; }
+        .filter-btn:hover { background: #f1f5f9; }
+        .filter-btn.active { background: #3b82f6; color: white; border-color: #3b82f6; font-weight: bold; }
         
-        /* 🌟 리스트 접기/펼치기 버튼 */
-        .toggle-btn-container { text-align: center; margin-bottom: 25px; }
-        .toggle-btn { 
-            background: #1e293b; color: white; border: none; padding: 10px 24px; 
-            border-radius: 30px; font-weight: bold; cursor: pointer; font-size: 0.95rem;
-            box-shadow: 0 4px 6px rgba(0,0,0,0.1); transition: all 0.2s;
-        }
-        .toggle-btn:hover { transform: translateY(-2px); box-shadow: 0 6px 10px rgba(0,0,0,0.15); }
-
-        .major-category { margin-bottom: 30px; background: white; padding: 20px; border-radius: 12px; box-shadow: 0 4px 15px rgba(0,0,0,0.03); }
-        .major-category h2 { margin-top: 0; border-bottom: 3px solid; padding-bottom: 10px; margin-bottom: 15px; font-size: 1.3rem; color: #1e293b; display: flex; flex-direction: column; }
-        .major-category h2 span { font-size: 0.85rem; color: #64748b; font-weight: normal; margin-top: 4px; }
-        
-        .cat-DSP h2 { border-bottom-color: #10b981; }
-        .cat-Fabless h2 { border-bottom-color: #3b82f6; }
-        .cat-Foundry h2 { border-bottom-color: #f59e0b; }
-
-        .country-grid { display: grid; grid-template-columns: repeat(auto-fit, minmax(280px, 1fr)); gap: 15px; }
-        .country-card { background: #f8fafc; padding: 15px; border-radius: 8px; border: 1px solid #e2e8f0; }
-        .country-card h3 { margin-top: 0; color: #334155; font-size: 0.95rem; margin-bottom: 12px; border-bottom: 1px dashed #cbd5e1; padding-bottom: 6px;}
-        
-        .company-list { display: flex; flex-wrap: wrap; gap: 6px; }
-        .company-btn { 
-            background: white; color: #475569; border: 1px solid #cbd5e1; 
-            padding: 5px 12px; border-radius: 15px; cursor: pointer; 
-            font-weight: 600; text-decoration: none; transition: all 0.2s; font-size: 0.8rem; 
-        }
-        
-        .btn-DSP:hover { background: #10b981; color: white; border-color: #10b981; }
-        .btn-Fabless:hover { background: #3b82f6; color: white; border-color: #3b82f6; }
-        .btn-Foundry:hover { background: #f59e0b; color: white; border-color: #f59e0b; }
-
-        .news-section { background: white; padding: 20px; border-radius: 12px; box-shadow: 0 4px 15px rgba(0,0,0,0.03); margin-top: 20px; }
-        .filter-controls { display: flex; justify-content: space-between; align-items: center; border-bottom: 2px solid #e2e8f0; padding-bottom: 10px; margin-bottom: 15px; }
-        .filter-controls h2 { margin: 0; color: #1e293b; font-size: 1.3rem; border: none; padding: 0; }
-        
-        /* 🌟 전체 기사 보기 버튼 */
-        .show-all-btn { 
-            background: #3b82f6; color: white; border: none; padding: 8px 16px; 
-            border-radius: 6px; font-weight: bold; cursor: pointer; font-size: 0.9rem; transition: 0.2s;
-        }
-        .show-all-btn:hover { background: #2563eb; }
-
-        .news-card { padding: 15px; border: 1px solid #e2e8f0; border-radius: 8px; margin-bottom: 15px; border-left: 4px solid #3b82f6; background: #f8fafc; font-size: 0.9rem; }
-
-        @media (max-width: 768px) {
-            h1 { font-size: 1.4rem; }
-            .filter-controls { flex-direction: column; gap: 10px; align-items: flex-start; }
-            .show-all-btn { width: 100%; }
-            .major-category { padding: 15px; }
-            .country-grid { grid-template-columns: 1fr; gap: 10px; }
-            .country-card h3 { 
-                cursor: pointer; margin-bottom: 0; border-bottom: none; 
-                padding-bottom: 0; display: flex; justify-content: space-between; align-items: center;
-            }
-            .country-card h3::after { content: '▼'; font-size: 0.75rem; color: #94a3b8; transition: transform 0.2s; }
-            .company-list { display: none; margin-top: 12px; padding-top: 10px; border-top: 1px dashed #e2e8f0; }
-            .country-card.open h3::after { transform: rotate(180deg); color: #3b82f6; }
-            .country-card.open .company-list { display: flex; }
-        }
-
-        /* 🔒 비밀번호 창 */
-        #auth-overlay { position: fixed; top:0; left:0; width:100%; height:100%; background:#0f172a; display:flex; justify-content:center; align-items:center; z-index:999; }
-        .auth-box { background:white; padding:30px; border-radius:12px; text-align:center; box-shadow:0 10px 25px rgba(0,0,0,0.5); width: 85%; max-width: 320px; }
-        .auth-box input { padding:10px; width:80%; margin-bottom:20px; border:2px solid #cbd5e1; border-radius:6px; font-size:1rem; text-align:center; }
-        .auth-box button { padding:10px 20px; background:#3b82f6; color:white; border:none; border-radius:6px; cursor:pointer; font-size:1rem; font-weight:bold; width: 87%; }
+        /* 뉴스 타임라인 영역 */
+        #global-news-feed { max-width: 800px; margin: 0 auto; background: white; padding: 20px; border-radius: 12px; box-shadow: 0 4px 6px -1px rgb(0 0 0 / 0.1); }
+        .article-item { border-left: 4px solid #3b82f6; padding-left: 15px; margin-bottom: 25px; transition: opacity 0.3s ease; }
+        .company-badge { display: inline-block; background: #1e293b; color: white; padding: 3px 8px; border-radius: 4px; font-size: 0.75rem; font-weight: bold; margin-bottom: 8px; }
+        .news-date { font-size: 0.8rem; color: #64748b; margin: 0 0 8px 0; }
+        .news-title { margin: 0 0 8px 0; font-size: 1.1rem; color: #0f172a; }
+        .news-summary { margin: 0 0 10px 0; font-size: 0.95rem; line-height: 1.5; color: #334155; }
+        .news-link { color: #3b82f6; text-decoration: none; font-size: 0.85rem; font-weight: bold; }
     </style>
 </head>
 <body>
 
-    <div id="auth-overlay">
-        <div class="auth-box">
-            <h2 style="margin-top:0; color:#1e293b; font-size: 1.4rem;">팀 대시보드 접근</h2>
-            <p style="color:#64748b; font-size: 0.9rem;">공유받은 비밀번호를 입력하세요.</p>
-            <input type="password" id="team-password" placeholder="Password" onkeydown="if(event.key==='Enter') verifyPassword()"><br>
-            <button onclick="verifyPassword()">접속하기</button>
+    <div class="header">
+        <h1>🌐 글로벌 반도체 최신 동향</h1>
+        <div class="updated-time">최근 업데이트: 데이터 수집 대기 중...</div>
+    </div>
+
+    <div class="filter-container" id="filter-buttons">
+        <button class="filter-btn active" onclick="filterNews('all')">전체 타임라인 보기</button>
+    </div>
+
+    <div id="global-news-feed">
         </div>
-    </div>
-
-    <div class="container" id="main-content">
-        <h1>글로벌 반도체 모니터링 시스템</h1>
-        <div class="updated-time">최근 업데이트: 2026-05-22 09:02 (KST 기준 자동 갱신 완료)</div>
-
-        <div class="toggle-btn-container">
-            <button id="toggleListBtn" class="toggle-btn" onclick="toggleEcosystem()">▲ 기업 리스트 전체 접기</button>
-        </div>
-
-        <div id="ecosystem-wrapper">
-            <div id="ecosystem-container"></div>
-        </div>
-
-        <div class="news-section">
-            <div class="filter-controls">
-                <h2>기업별 실시간 모니터링 기사</h2>
-                <button onclick="filterNews('all')" class="show-all-btn">🌐 전체 기사 다시 보기</button>
-            </div>
-            
-            <p id="filter-status-msg" style="color: #10b981; font-weight: bold; display: none; margin-top:-5px; margin-bottom:15px; font-size: 0.95rem;"></p>
-            <p style="color: #64748b; margin-top:-5px; margin-bottom:20px; font-size:0.85rem;">※ 위 회사 버튼을 클릭하면 리스트가 자동으로 접히며 해당 기업의 기사만 나타납니다.</p>
-            
-            <div id="co-에이디테크놀로지" class="news-card">
-    <h3 style="color: #1e293b; margin-top:0; font-size: 1.1rem; margin-bottom: 15px;">에이디테크놀로지</h3>
-    <div class="article-item" style="margin-bottom: 15px; padding-bottom: 15px; border-bottom: 1px dashed #cbd5e1;">
-        <p style="font-size: 0.8rem; color: #64748b; margin-top: 0; margin-bottom: 8px;">🕒 발행일: Wed, 08 Apr 2026 07:00:00 GMT</p>
-        <p style="margin-top: 0; margin-bottom: 8px;"><strong>📰 기사 제목:</strong> 에이디테크놀로지 박준규 대표 "올해 매출 80% 성장" - v.daum.net</p>
-        <p style="margin-top: 0; margin-bottom: 8px;"><strong>✨ AI 요약:</strong> 에이디테크놀로지 박준규 대표는 AI, 고성능컴퓨팅(HPC) 등 첨단 분야 수요에 힘입어 올해 매출 80% 성장을 전망했습니다.
-
-이는 ASIC 디자인 서비스 시장의 강력한 성장세를 시사하며, 파운드리 생태계 내 핵심 파트너로서 동사의 선전은 전반적인 반도체 업황 회복의 긍정적 지표입니다.
-
-고부가가치 시장을 중심으로 반도체 산업의 견조한 회복세가 이어질 것으로 분석됩니다.</p>
-        <a href="https://news.google.com/rss/articles/CBMiT0FVX3lxTFBqRXpqXzUyNGFfcklRd1Z1QVJlNFFHV2JsMF9fTTk2RmJ1aXNsUk9RcG9ndURQNWRHbmpETS1DY0ExazNJZWlsUnJEX3prRjQ?oc=5" target="_blank" style="color: #3b82f6; text-decoration: none; font-weight: bold; font-size: 0.9rem;">[ 📄 원문 기사 보기 ]</a>
-    </div>
-
-    <div class="article-item" style="margin-bottom: 15px; padding-bottom: 15px; border-bottom: 1px dashed #cbd5e1;">
-        <p style="font-size: 0.8rem; color: #64748b; margin-top: 0; margin-bottom: 8px;">🕒 발행일: Tue, 10 Oct 2023 07:00:00 GMT</p>
-        <p style="margin-top: 0; margin-bottom: 8px;"><strong>📰 기사 제목:</strong> 에이디테크놀로지, 3나노 설계 수주…삼성 파운드리서 양산 - 한국경제</p>
-        <p style="margin-top: 0; margin-bottom: 8px;"><strong>✨ AI 요약:</strong> ⚠️ AI 응답 대기 중</p>
-        <a href="https://news.google.com/rss/articles/CBMiWkFVX3lxTFBqVHVFczN2NTQ0NDA3LWx4TENwUU1Dd1FKQVZYWHhCLThTcHA3RlUwaXVXWDFPRlNma2Y5R3N2cXR0MkRELWNvQkZRekJyTXBfNG5oUFR1VWlxUdIBVEFVX3lxTE52MHJEZzQtWm96NXhzWW1paG0yS2U2X0tqZUlFWTZUeFoyalAweUp1VUg2MDBncV95WGxwNF9jbmhDdXVReV9kbmI0cGxKVFBWMm9icw?oc=5" target="_blank" style="color: #3b82f6; text-decoration: none; font-weight: bold; font-size: 0.9rem;">[ 📄 원문 기사 보기 ]</a>
-    </div>
-
-    <div class="article-item" style="margin-bottom: 15px; padding-bottom: 15px; border-bottom: 1px dashed #cbd5e1;">
-        <p style="font-size: 0.8rem; color: #64748b; margin-top: 0; margin-bottom: 8px;">🕒 발행일: Fri, 01 Nov 2024 07:00:00 GMT</p>
-        <p style="margin-top: 0; margin-bottom: 8px;"><strong>📰 기사 제목:</strong> 에이디테크놀로지, ‘Arm 테크 심포지아 2024’ 참가 - 디일렉</p>
-        <p style="margin-top: 0; margin-bottom: 8px;"><strong>✨ AI 요약:</strong> ⚠️ AI 응답 대기 중</p>
-        <a href="https://news.google.com/rss/articles/CBMiZkFVX3lxTFBRem00OFhIT0pIVWRKUF8xc2pvQlRpaDdGS0RkV0pialFfUU1lUklmLW9GcklUN3FiM0luZmhIQUVVcm8xNTRkdU1CV1ZYdzEtc1BCc0ZnQVUwQzU0NXhqTWJwTlBmQQ?oc=5" target="_blank" style="color: #3b82f6; text-decoration: none; font-weight: bold; font-size: 0.9rem;">[ 📄 원문 기사 보기 ]</a>
-    </div>
-
-    <div class="article-item" style="margin-bottom: 15px; padding-bottom: 15px; border-bottom: 1px dashed #cbd5e1;">
-        <p style="font-size: 0.8rem; color: #64748b; margin-top: 0; margin-bottom: 8px;">🕒 발행일: Wed, 08 Apr 2026 07:00:00 GMT</p>
-        <p style="margin-top: 0; margin-bottom: 8px;"><strong>📰 기사 제목:</strong> 에이디테크놀로지 "AI·HPC 비중 급증… 올 매출 80% 늘 것" - v.daum.net</p>
-        <p style="margin-top: 0; margin-bottom: 8px;"><strong>✨ AI 요약:</strong> ⚠️ AI 응답 대기 중</p>
-        <a href="https://news.google.com/rss/articles/CBMiT0FVX3lxTE9TNHVKU28xYTNVVGtsZkUweFFxMmlWMFlWMm5felcwLUV6UkpVRW9EdlVyOFYyQUhXbURpYzlJa21Fd3Ita2xteFZiV3UxSEE?oc=5" target="_blank" style="color: #3b82f6; text-decoration: none; font-weight: bold; font-size: 0.9rem;">[ 📄 원문 기사 보기 ]</a>
-    </div>
-
-    <div class="article-item" style="margin-bottom: 15px; padding-bottom: 15px; border-bottom: 1px dashed #cbd5e1;">
-        <p style="font-size: 0.8rem; color: #64748b; margin-top: 0; margin-bottom: 8px;">🕒 발행일: Mon, 04 May 2026 07:00:00 GMT</p>
-        <p style="margin-top: 0; margin-bottom: 8px;"><strong>📰 기사 제목:</strong> 에이디테크놀로지, 美 기업과 AI DC향 4나노 턴키 계약 체결 - 지디넷코리아</p>
-        <p style="margin-top: 0; margin-bottom: 8px;"><strong>✨ AI 요약:</strong> 에이디테크놀로지가 美 기업과 AI 데이터센터 향 4나노 턴키 계약을 체결했습니다.
-
-이는 ADT의 최첨단 공정(4nm) 디자인 기술력과 고성장 AI 반도체 시장 진입을 확고히 하는 성과입니다.
-
-글로벌 파운드리 생태계에서 ADT의 경쟁력 강화 및 사업 확장을 알리는 신호로 평가됩니다.</p>
-        <a href="https://news.google.com/rss/articles/CBMiVkFVX3lxTE01TkJEUFdwWEtZN25Uekp5RmRYS0V2bldCdHZsTVhNOFFscG1QdVB1Z2xVMy01OFh0dmNnWDNqSmQ5TlVwMW03QXpCbDZrZ3o2MUlYcjZB?oc=5" target="_blank" style="color: #3b82f6; text-decoration: none; font-weight: bold; font-size: 0.9rem;">[ 📄 원문 기사 보기 ]</a>
-    </div>
-
-    <div class="article-item" style="margin-bottom: 15px; padding-bottom: 15px; border-bottom: 1px dashed #cbd5e1;">
-        <p style="font-size: 0.8rem; color: #64748b; margin-top: 0; margin-bottom: 8px;">🕒 발행일: Mon, 23 Feb 2026 08:00:00 GMT</p>
-        <p style="margin-top: 0; margin-bottom: 8px;"><strong>📰 기사 제목:</strong> 에이디테크놀로지, 독일 프라운호퍼IIS와 4나노 공정 활용 ‘주문형 반도체’ 개발 계약 체결 - 조선비즈 - Chosunbiz</p>
-        <p style="margin-top: 0; margin-bottom: 8px;"><strong>✨ AI 요약:</strong> ⚠️ AI 응답 대기 중</p>
-        <a href="https://news.google.com/rss/articles/CBMiggFBVV95cUxObE11dXFldEc2aFBUNUFBbVpTQ1dIR21WN3dWQ282SjRHblJDSkJpQ0pLRzlyS2ZqVC1rN3BkbExzNFY5QTUwWFFJZjY2R25BMmtUeWhVVXcyQXBNbnE5MjF2ZnM1VTk1TzRZWi1DRkdqNGhXMnRLajQyd2FZT00ycGNB0gGWAUFVX3lxTE1HckdldkxTZHBDNjc4RTVlUGF0SFNFWENwZlFEeUxYclNpMEpQaGRNVGJrWlczS3c3bTVWb2FFbjRaVGV6T1hodFR5WHB0dGtNZnNhMkhTREsteTVtNDBzSW5wemw1UmJVdkkybDJZRXNkdG1GSjlDZ1ptWWY0LXpnY2s5WFh5XzB5Ty1jeWtKN1FaZGFPUQ?oc=5" target="_blank" style="color: #3b82f6; text-decoration: none; font-weight: bold; font-size: 0.9rem;">[ 📄 원문 기사 보기 ]</a>
-    </div>
-</div>
-
-<div id="co-가온칩스" class="news-card">
-    <h3 style="color: #1e293b; margin-top:0; font-size: 1.1rem; margin-bottom: 15px;">가온칩스</h3>
-    <div class="article-item" style="margin-bottom: 15px; padding-bottom: 15px; border-bottom: 1px dashed #cbd5e1;">
-        <p style="font-size: 0.8rem; color: #64748b; margin-top: 0; margin-bottom: 8px;">🕒 발행일: Mon, 02 May 2022 07:00:00 GMT</p>
-        <p style="margin-top: 0; margin-bottom: 8px;"><strong>📰 기사 제목:</strong> 시스템반도체 디자인 업체 가온칩스, 이달 코스닥 상장 - 연합뉴스</p>
-        <p style="margin-top: 0; margin-bottom: 8px;"><strong>✨ AI 요약:</strong> 시스템반도체 디자인 전문업체 가온칩스가 이달 코스닥에 상장합니다.
-이는 성장하는 비메모리 시스템반도체 분야에서 디자인 역량의 중요성과 시장의 기대를 반영합니다.
-상장을 통해 자금 확보 및 사업 확장에 박차를 가할 것으로 예상됩니다.</p>
-        <a href="https://news.google.com/rss/articles/CBMiW0FVX3lxTE5JVTB6WWYtZ3VqVlNWR1lBZ2JiNEV3c1JrZTE4d0JUaWJEaXFTYTAtNDJ3Tm1RUlZtd0hnM19faFNhcnVXWFczb0NUVENuM1ZON1RSQTRfSzNDclHSAWBBVV95cUxNMndzQ3ZPM252YjJpZTJEM2FMWVd2d2tydlFwUjZQUnBNUWphTTdTX0I4a0JoeGNvZTY4TGpNQTdRZEVMSm5FdHNXNmk4ZS1GakplaVdIZVg3b3hLak43ZWo?oc=5" target="_blank" style="color: #3b82f6; text-decoration: none; font-weight: bold; font-size: 0.9rem;">[ 📄 원문 기사 보기 ]</a>
-    </div>
-
-    <div class="article-item" style="margin-bottom: 15px; padding-bottom: 15px; border-bottom: 1px dashed #cbd5e1;">
-        <p style="font-size: 0.8rem; color: #64748b; margin-top: 0; margin-bottom: 8px;">🕒 발행일: Fri, 16 Feb 2024 08:00:00 GMT</p>
-        <p style="margin-top: 0; margin-bottom: 8px;"><strong>📰 기사 제목:</strong> 삼성 반도체, 日 최대 AI 기업 PFN 2나노 칩 생산…"5년 내 TSMC 잡는다" [biz-플러스] - 서울경제</p>
-        <p style="margin-top: 0; margin-bottom: 8px;"><strong>✨ AI 요약:</strong> 삼성 파운드리가 일본 최대 AI 기업 PFN의 최첨단 2나노 AI 칩 생산을 수주했습니다.
-이는 삼성의 고성능 AI 칩 파운드리 기술력을 입증하며, 첨단 공정 시장 내 입지 강화에 기여할 것입니다.
-이번 수주를 발판 삼아 5년 내 TSMC를 추격하고 파운드리 시장 1위를 달성하겠다는 강력한 의지를 표명했습니다.</p>
-        <a href="https://news.google.com/rss/articles/CBMiUkFVX3lxTE1vYmdLM3BXZDhUY1pUSXB6Tlk1cVdFZ1lGaVdyQkdoQ1c2M3pabjMyV0pucnRBdk55RkU3bHRKN2ljbzk4OHJMWFdhMEZzQjJHbmfSAVNBVV95cUxQRHkydFdaLUhYdm91OGwxQ21RRUhPdFVoZmdZNGNHU0JtZjFLdFpoNkpIZ1RkRUFiWWZ0SENyb0h0OUdnTVM0QnJxN3FMaklOZ2tIWQ?oc=5" target="_blank" style="color: #3b82f6; text-decoration: none; font-weight: bold; font-size: 0.9rem;">[ 📄 원문 기사 보기 ]</a>
-    </div>
-
-    <div class="article-item" style="margin-bottom: 15px; padding-bottom: 15px; border-bottom: 1px dashed #cbd5e1;">
-        <p style="font-size: 0.8rem; color: #64748b; margin-top: 0; margin-bottom: 8px;">🕒 발행일: Tue, 09 Jul 2024 07:00:00 GMT</p>
-        <p style="margin-top: 0; margin-bottom: 8px;"><strong>📰 기사 제목:</strong> 삼성전자의 반격…'2나노 AI가속기' 日서 첫 수주 - 한국경제</p>
-        <p style="margin-top: 0; margin-bottom: 8px;"><strong>✨ AI 요약:</strong> ⚠️ AI 응답 대기 중</p>
-        <a href="https://news.google.com/rss/articles/CBMiWkFVX3lxTE92QWZhVmdfUXNnakZaT0ZXNlhXMG1fQXVBeHpudFlZMzJ4enQyemVySjY2SmFVTm14X2ltZ0RHY1Q2RmhBVVZ2cVJzZ1hTU3E2cHdfQ0UxcXMxUdIBVEFVX3lxTE5IaTBPOTFEOVlhWk10SEt0UnB3WlA1NkIzdFF1RUQxTVpJX2xoaEJXNXMxY1VkS1JvLTlzdzdoZXdIZVQxSVNNaDJ2WXlPWndkVTBwSQ?oc=5" target="_blank" style="color: #3b82f6; text-decoration: none; font-weight: bold; font-size: 0.9rem;">[ 📄 원문 기사 보기 ]</a>
-    </div>
-
-    <div class="article-item" style="margin-bottom: 15px; padding-bottom: 15px; border-bottom: 1px dashed #cbd5e1;">
-        <p style="font-size: 0.8rem; color: #64748b; margin-top: 0; margin-bottom: 8px;">🕒 발행일: Tue, 22 Oct 2024 07:00:00 GMT</p>
-        <p style="margin-top: 0; margin-bottom: 8px;"><strong>📰 기사 제목:</strong> 가온칩스, '제 17회 반도체의 날'서 동탑산업훈장 수훈 영예 - 지디넷코리아</p>
-        <p style="margin-top: 0; margin-bottom: 8px;"><strong>✨ AI 요약:</strong> ⚠️ AI 응답 대기 중</p>
-        <a href="https://news.google.com/rss/articles/CBMiVkFVX3lxTE4xOXVHbE9ESktJRU5lX1VVMG9ycDlxWG13U3VIZFBSNjZYM3k0dXZTeWFBSEc3R2ZFcTB0Q3FHQVpXZURHQ3RPYk40Yk4wdkx0enpBa0VB?oc=5" target="_blank" style="color: #3b82f6; text-decoration: none; font-weight: bold; font-size: 0.9rem;">[ 📄 원문 기사 보기 ]</a>
-    </div>
-
-    <div class="article-item" style="margin-bottom: 15px; padding-bottom: 15px; border-bottom: 1px dashed #cbd5e1;">
-        <p style="font-size: 0.8rem; color: #64748b; margin-top: 0; margin-bottom: 8px;">🕒 발행일: Mon, 24 Mar 2025 07:00:00 GMT</p>
-        <p style="margin-top: 0; margin-bottom: 8px;"><strong>📰 기사 제목:</strong> 가온칩스, 케이던스와 반도체 설계자산 협력 계약 체결… "첨단 반도체 개발 역량 강화" - 조선비즈 - Chosunbiz</p>
-        <p style="margin-top: 0; margin-bottom: 8px;"><strong>✨ AI 요약:</strong> ⚠️ AI 응답 대기 중</p>
-        <a href="https://news.google.com/rss/articles/CBMiggFBVV95cUxNd2lVbndvcjF1RmVINjBXQV9Ea3ZvTzJxU0Nvc3NzUmstRGFOMklPRzd2Qmtjb2p0R3Rhd3lEX3R0X3ZTM0pmSDN0eEpUTmhDb0syWno1cjI4NFF1Ylp3Q1VucC1adVFTUmM4S05PVzE5M3BEbTRtX0tDUGhGOTA0WFpB0gGWAUFVX3lxTFB0bjNyaHgwbThQNlJoeHBIbVhYQzdlS2lJekVxQng4RzJnWTVmdFRFakVMLTJlYWFHdzd3QlRmUElVNUotN0hmc0JJcnVIbktRWklxb19qYnNGczJSbFc5UmRJaDFZTVBpN0xvOGJnZWxfX2N1cUxhN2VzbDlXcWp2c2t5d1UxMHlQMGdBbnFjM1g5b1E2UQ?oc=5" target="_blank" style="color: #3b82f6; text-decoration: none; font-weight: bold; font-size: 0.9rem;">[ 📄 원문 기사 보기 ]</a>
-    </div>
-
-    <div class="article-item" style="margin-bottom: 15px; padding-bottom: 15px; border-bottom: 1px dashed #cbd5e1;">
-        <p style="font-size: 0.8rem; color: #64748b; margin-top: 0; margin-bottom: 8px;">🕒 발행일: Wed, 31 Dec 2025 08:00:00 GMT</p>
-        <p style="margin-top: 0; margin-bottom: 8px;"><strong>📰 기사 제목:</strong> [ANDA 포커스] 가온칩스, 中 법인 설립 추진…"2나노·AI 반도체 성장 동력" - 뉴스핌</p>
-        <p style="margin-top: 0; margin-bottom: 8px;"><strong>✨ AI 요약:</strong> ⚠️ AI 응답 대기 중</p>
-        <a href="https://news.google.com/rss/articles/CBMiXEFVX3lxTE1Ka2QyM1kyaUVwZXZsOXFicXNrWFhfVklHNzVpbXNEN0hybXVFOTA0aUJlWmRkRFlmb0ZfbGpiUjA0ZWRwSkYtVjhPTmk5Z1FjelZ5WHJTbDVsbzM0?oc=5" target="_blank" style="color: #3b82f6; text-decoration: none; font-weight: bold; font-size: 0.9rem;">[ 📄 원문 기사 보기 ]</a>
-    </div>
-</div>
-
-<div id="co-세미파이브" class="news-card">
-    <h3 style="color: #1e293b; margin-top:0; font-size: 1.1rem; margin-bottom: 15px;">세미파이브</h3>
-    <div class="article-item" style="margin-bottom: 15px; padding-bottom: 15px; border-bottom: 1px dashed #cbd5e1;">
-        <p style="font-size: 0.8rem; color: #64748b; margin-top: 0; margin-bottom: 8px;">🕒 발행일: Wed, 10 Jan 2024 08:00:00 GMT</p>
-        <p style="margin-top: 0; margin-bottom: 8px;"><strong>📰 기사 제목:</strong> 세미파이브, 토종 AI 반도체 기업 하이퍼엑셀과 4나노 반도체 개발 - 서울경제</p>
-        <p style="margin-top: 0; margin-bottom: 8px;"><strong>✨ AI 요약:</strong> 세미파이브가 토종 AI 반도체 기업 하이퍼엑셀과 협력하여
-첨단 4나노 공정 기반의 AI 반도체 개발에 착수한다.
-이는 국내 AI 반도체 기술 경쟁력 강화 및 생태계 확장에 중요한 이정표가 될 것이다.</p>
-        <a href="https://news.google.com/rss/articles/CBMiUkFVX3lxTE1MSkhfUW9xd1BmQ1lNTDA3UUpCcjZPd2l3ZWozem93WnR0Zm9zWVpMOHg1QkFHVmNQRFFYb0I5M2xNd0VuczRycWNNSkpwMEdMT3fSAVNBVV95cUxNOFFFc2RydExCTmM0bXFFT0pNelllYUhnb2NLTWIxbHN3eEQ5Uk5Xcng5ZkdpUVhkN2pnNjczTF96em93OUZuSzl3U2FNYVN2YTYxZw?oc=5" target="_blank" style="color: #3b82f6; text-decoration: none; font-weight: bold; font-size: 0.9rem;">[ 📄 원문 기사 보기 ]</a>
-    </div>
-
-    <div class="article-item" style="margin-bottom: 15px; padding-bottom: 15px; border-bottom: 1px dashed #cbd5e1;">
-        <p style="font-size: 0.8rem; color: #64748b; margin-top: 0; margin-bottom: 8px;">🕒 발행일: Tue, 04 Oct 2022 07:00:00 GMT</p>
-        <p style="margin-top: 0; margin-bottom: 8px;"><strong>📰 기사 제목:</strong> [단독] 삼성전자·세미파이브, '5나노 기반' HPC용 칩 설계 지원 - 더구루</p>
-        <p style="margin-top: 0; margin-bottom: 8px;"><strong>✨ AI 요약:</strong> ⚠️ AI 응답 대기 중</p>
-        <a href="https://news.google.com/rss/articles/CBMiYkFVX3lxTE1WMWtqOE94ZjZfV0hiaFN2SEtRRlNVQ25rMXlycllEdHJkMmwzUHZrNjc4OEdfZTdTbW9YUzY1Ylg1UGpJWHNkYllVQkU2c2NoWVNPaVljMjd3VTR6dzB5endR?oc=5" target="_blank" style="color: #3b82f6; text-decoration: none; font-weight: bold; font-size: 0.9rem;">[ 📄 원문 기사 보기 ]</a>
-    </div>
-
-    <div class="article-item" style="margin-bottom: 15px; padding-bottom: 15px; border-bottom: 1px dashed #cbd5e1;">
-        <p style="font-size: 0.8rem; color: #64748b; margin-top: 0; margin-bottom: 8px;">🕒 발행일: Thu, 28 Mar 2024 07:00:00 GMT</p>
-        <p style="margin-top: 0; margin-bottom: 8px;"><strong>📰 기사 제목:</strong> 세미파이브, 모빌린트와 AI 칩 '에리스' 양산…삼성 파운드리에서 생산 - 서울경제</p>
-        <p style="margin-top: 0; margin-bottom: 8px;"><strong>✨ AI 요약:</strong> ⚠️ AI 응답 대기 중</p>
-        <a href="https://news.google.com/rss/articles/CBMiU0FVX3lxTE40bEw3Sy05VHBMMkRCc0RoMXI3dFJXYnVMcW56M29hYkowUFFKOGFNVEpqcGJuSldaMHN0aFhidExuNDVxcWl2S21ocm84aGd4NjBV0gFTQVVfeXFMTjRsTDdLLTlUcEwyREJzRGgxcjd0UldidUxxbnozb2FiSjBQUUo4YU1USmpwYm5KV1owc3RoWGJ0TG40NXFxaXZLbWhybzhoZ3g2MFU?oc=5" target="_blank" style="color: #3b82f6; text-decoration: none; font-weight: bold; font-size: 0.9rem;">[ 📄 원문 기사 보기 ]</a>
-    </div>
-
-    <div class="article-item" style="margin-bottom: 15px; padding-bottom: 15px; border-bottom: 1px dashed #cbd5e1;">
-        <p style="font-size: 0.8rem; color: #64748b; margin-top: 0; margin-bottom: 8px;">🕒 발행일: Mon, 11 Mar 2024 07:00:00 GMT</p>
-        <p style="margin-top: 0; margin-bottom: 8px;"><strong>📰 기사 제목:</strong> 오픈엣지, 세미파이브와 AI·HPC 반도체 협력 강화 - 지디넷코리아</p>
-        <p style="margin-top: 0; margin-bottom: 8px;"><strong>✨ AI 요약:</strong> ⚠️ AI 응답 대기 중</p>
-        <a href="https://news.google.com/rss/articles/CBMiVkFVX3lxTE9zZlFsSlVXbGNOWVEwWEZ6eGxUM25TOHEzQS1zblRteEhNWFYzYTNmNzF4ZWFqWFQxOTJ0NkFNWlh5VWpLaTJLUmd1bEdUbFA5V21faEp3?oc=5" target="_blank" style="color: #3b82f6; text-decoration: none; font-weight: bold; font-size: 0.9rem;">[ 📄 원문 기사 보기 ]</a>
-    </div>
-
-    <div class="article-item" style="margin-bottom: 15px; padding-bottom: 15px; border-bottom: 1px dashed #cbd5e1;">
-        <p style="font-size: 0.8rem; color: #64748b; margin-top: 0; margin-bottom: 8px;">🕒 발행일: Thu, 16 Apr 2026 07:00:00 GMT</p>
-        <p style="margin-top: 0; margin-bottom: 8px;"><strong>📰 기사 제목:</strong> 세미파이브, 자회사 통해 TSMC 2나노급 전력 반도체 IP 공개 - v.daum.net</p>
-        <p style="margin-top: 0; margin-bottom: 8px;"><strong>✨ AI 요약:</strong> ⚠️ AI 응답 대기 중</p>
-        <a href="https://news.google.com/rss/articles/CBMiRkFVX3lxTE9RNm0tQ1hLT1dNeDljMUhpWlhiUG1JUXR6NFVyWnZOSzQtcGlrMkdnYjhBWHA4N0ZYMUNNSm1NTUFQQUJxS3c?oc=5" target="_blank" style="color: #3b82f6; text-decoration: none; font-weight: bold; font-size: 0.9rem;">[ 📄 원문 기사 보기 ]</a>
-    </div>
-
-    <div class="article-item" style="margin-bottom: 15px; padding-bottom: 15px; border-bottom: 1px dashed #cbd5e1;">
-        <p style="font-size: 0.8rem; color: #64748b; margin-top: 0; margin-bottom: 8px;">🕒 발행일: Fri, 20 Feb 2026 08:00:00 GMT</p>
-        <p style="margin-top: 0; margin-bottom: 8px;"><strong>📰 기사 제목:</strong> 세미파이브, 나이오븀 완전동형암호 가속기 개발 - 디일렉</p>
-        <p style="margin-top: 0; margin-bottom: 8px;"><strong>✨ AI 요약:</strong> ⚠️ AI 응답 대기 중</p>
-        <a href="https://news.google.com/rss/articles/CBMiZkFVX3lxTE9ONmdSZDdmZ2dON3Yxd3FRTzFrWHliakdlSGg1RUFfN1Y4Zl9nNEhGOWhyRXRzWmNKR3poTmpHcHRHNFJQMEFkVWJtYzlsUGFFTmk5aU1xRUtZSXdkdVRyb1JWbEtuUQ?oc=5" target="_blank" style="color: #3b82f6; text-decoration: none; font-weight: bold; font-size: 0.9rem;">[ 📄 원문 기사 보기 ]</a>
-    </div>
-</div>
-
-<div id="co-에이직랜드" class="news-card">
-    <h3 style="color: #1e293b; margin-top:0; font-size: 1.1rem; margin-bottom: 15px;">에이직랜드</h3>
-    <div class="article-item" style="margin-bottom: 15px; padding-bottom: 15px; border-bottom: 1px dashed #cbd5e1;">
-        <p style="font-size: 0.8rem; color: #64748b; margin-top: 0; margin-bottom: 8px;">🕒 발행일: Fri, 12 Dec 2025 08:00:00 GMT</p>
-        <p style="margin-top: 0; margin-bottom: 8px;"><strong>📰 기사 제목:</strong> TSMC, 日 2공장 4nm 전환 검토…현지 고급 칩 생산 신호탄 - 지디넷코리아</p>
-        <p style="margin-top: 0; margin-bottom: 8px;"><strong>✨ AI 요약:</strong> ⚠️ AI 응답 대기 중</p>
-        <a href="https://news.google.com/rss/articles/CBMiVkFVX3lxTFBLQ0VlN2xZWjNLaXhCcW1QRi1lbExyLWJ4Sm96UFNiRnlkNU9sU3BJQUVsb3pTeTVjRl9zUkdSaEYzMG4zNkRlNXFGemRrTnNwTHJSM0pB?oc=5" target="_blank" style="color: #3b82f6; text-decoration: none; font-weight: bold; font-size: 0.9rem;">[ 📄 원문 기사 보기 ]</a>
-    </div>
-
-    <div class="article-item" style="margin-bottom: 15px; padding-bottom: 15px; border-bottom: 1px dashed #cbd5e1;">
-        <p style="font-size: 0.8rem; color: #64748b; margin-top: 0; margin-bottom: 8px;">🕒 발행일: Fri, 15 May 2026 05:01:44 GMT</p>
-        <p style="margin-top: 0; margin-bottom: 8px;"><strong>📰 기사 제목:</strong> 에이직랜드, 1분기 영업손실 29억…매출은 전년 대비 3배 급증 - 아이뉴스24</p>
-        <p style="margin-top: 0; margin-bottom: 8px;"><strong>✨ AI 요약:</strong> ⚠️ AI 응답 대기 중</p>
-        <a href="https://news.google.com/rss/articles/CBMiTEFVX3lxTFB0VlpzSENOT0V6U2JWamhUeFltbUV4NjROZ2ZjSVgwb2VfVTl1b053RHpsaEkzUVRVaHVac1JwOFVkb3VrZnhIZTBSZHo?oc=5" target="_blank" style="color: #3b82f6; text-decoration: none; font-weight: bold; font-size: 0.9rem;">[ 📄 원문 기사 보기 ]</a>
-    </div>
-
-    <div class="article-item" style="margin-bottom: 15px; padding-bottom: 15px; border-bottom: 1px dashed #cbd5e1;">
-        <p style="font-size: 0.8rem; color: #64748b; margin-top: 0; margin-bottom: 8px;">🕒 발행일: Fri, 15 May 2026 05:02:00 GMT</p>
-        <p style="margin-top: 0; margin-bottom: 8px;"><strong>📰 기사 제목:</strong> 에이직랜드, 1분기 영업손실 29억…매출은 전년 대비 3배 급증 - 네이트</p>
-        <p style="margin-top: 0; margin-bottom: 8px;"><strong>✨ AI 요약:</strong> ⚠️ AI 응답 대기 중</p>
-        <a href="https://news.google.com/rss/articles/CBMieEFVX3lxTE1yZHk1cXZoWkhPTEp0WWdINERXR1lkVm9GQzFhd0hwc01XUVJiUHFFaXByMEdRRU4yUUE5Mm5TNXB4Z0xFUUdmbnBqZWN4WmNNQndLaXI0WTlQX2ZQYVpKdnFPTGlPVndiNTBTdzBYUlB0SEhaVkVXYQ?oc=5" target="_blank" style="color: #3b82f6; text-decoration: none; font-weight: bold; font-size: 0.9rem;">[ 📄 원문 기사 보기 ]</a>
-    </div>
-</div>
-
-<div id="co-베리실리콘" class="news-card">
-    <h3 style="color: #1e293b; margin-top:0; font-size: 1.1rem; margin-bottom: 15px;">베리실리콘 (VeriSilicon)</h3>
-    <div class="article-item" style="margin-bottom: 15px; padding-bottom: 15px; border-bottom: 1px dashed #cbd5e1;">
-        <p style="font-size: 0.8rem; color: #64748b; margin-top: 0; margin-bottom: 8px;">🕒 발행일: Tue, 01 Apr 2025 07:00:00 GMT</p>
-        <p style="margin-top: 0; margin-bottom: 8px;"><strong>📰 기사 제목:</strong> AI 기반 자동 이미지 신호 처리 시스템...자율주행 및 AIoT 활용도 높아 - 지티티코리아</p>
-        <p style="margin-top: 0; margin-bottom: 8px;"><strong>✨ AI 요약:</strong> ⚠️ AI 응답 대기 중</p>
-        <a href="https://news.google.com/rss/articles/CBMiakFVX3lxTE5IVF81V1pER0NhMTAyTU5yQjQzQndWZHpmYWZFZGxMZG9QVFVKcEk2V0M3VWxBYzZ4dmtBTy1la0VNVGd4WHVUV19fZm9ZSk5acEwyTG1kenAzT3JtcVpDa281di11SGEzMHc?oc=5" target="_blank" style="color: #3b82f6; text-decoration: none; font-weight: bold; font-size: 0.9rem;">[ 📄 원문 기사 보기 ]</a>
-    </div>
-
-    <div class="article-item" style="margin-bottom: 15px; padding-bottom: 15px; border-bottom: 1px dashed #cbd5e1;">
-        <p style="font-size: 0.8rem; color: #64748b; margin-top: 0; margin-bottom: 8px;">🕒 발행일: Thu, 16 May 2024 07:00:00 GMT</p>
-        <p style="margin-top: 0; margin-bottom: 8px;"><strong>📰 기사 제목:</strong> 베리실리콘의 2.5D GPU IP, 액션스 테크놀로지에 채택 - 지티티코리아</p>
-        <p style="margin-top: 0; margin-bottom: 8px;"><strong>✨ AI 요약:</strong> ⚠️ AI 응답 대기 중</p>
-        <a href="https://news.google.com/rss/articles/CBMiakFVX3lxTFA0N2NsT3o1YTRHMHlwLVNDS3B3QmNwTzBnQUFlTHhoNks0SlVPUV9CQUpQb3JhcmVfYktYYVhieUdOQmFGdG56MUVRcFlYUGJRTjg4a2dkUkpuZzBfS1hUUVdtTTdPODBvNUE?oc=5" target="_blank" style="color: #3b82f6; text-decoration: none; font-weight: bold; font-size: 0.9rem;">[ 📄 원문 기사 보기 ]</a>
-    </div>
-
-    <div class="article-item" style="margin-bottom: 15px; padding-bottom: 15px; border-bottom: 1px dashed #cbd5e1;">
-        <p style="font-size: 0.8rem; color: #64748b; margin-top: 0; margin-bottom: 8px;">🕒 발행일: Thu, 09 Jan 2025 08:00:00 GMT</p>
-        <p style="margin-top: 0; margin-bottom: 8px;"><strong>📰 기사 제목:</strong> 퀄리타스반도체, 베리실리콘과 공급 계약 체결 - 디일렉</p>
-        <p style="margin-top: 0; margin-bottom: 8px;"><strong>✨ AI 요약:</strong> ⚠️ AI 응답 대기 중</p>
-        <a href="https://news.google.com/rss/articles/CBMiZkFVX3lxTE1JQ3ViN1NDcXY1V1B4cHZRVUVnODdSOXhtRHdDaFhqR3FyTGY4LUtyX2huOHA0VVFmLWg4eVpIWHhQRmhUV3FUTFE1cHdYNDFwaEpiNGhSWmcyYnRZQkdjdUNhWW42Zw?oc=5" target="_blank" style="color: #3b82f6; text-decoration: none; font-weight: bold; font-size: 0.9rem;">[ 📄 원문 기사 보기 ]</a>
-    </div>
-</div>
-
-<div id="co-퓨리오사ai" class="news-card">
-    <h3 style="color: #1e293b; margin-top:0; font-size: 1.1rem; margin-bottom: 15px;">퓨리오사AI</h3>
-    <div class="article-item" style="margin-bottom: 15px; padding-bottom: 15px; border-bottom: 1px dashed #cbd5e1;">
-        <p style="font-size: 0.8rem; color: #64748b; margin-top: 0; margin-bottom: 8px;">🕒 발행일: Mon, 21 Apr 2025 07:00:00 GMT</p>
-        <p style="margin-top: 0; margin-bottom: 8px;"><strong>📰 기사 제목:</strong> [특징주] 오픈엣지, 퓨리오사AI·SK하이닉스와 AI NPU 개발 국책과제 공동주관 부각 '강세' - 파이낸스스코프</p>
-        <p style="margin-top: 0; margin-bottom: 8px;"><strong>✨ AI 요약:</strong> ⚠️ AI 응답 대기 중</p>
-        <a href="https://news.google.com/rss/articles/CBMiakFVX3lxTE92RW81VVkwOW9tVUs3dnFnNHBaUlVrcmpZYWdYLU5GN3ZqYXBfS25oSERiakdGelRTaWRpSjVFeEFqbFJMRHJvb0FoUklWMEZMMkphSG5tLXpHZS1ZXy1mZ1BsOXNRYlgyRGc?oc=5" target="_blank" style="color: #3b82f6; text-decoration: none; font-weight: bold; font-size: 0.9rem;">[ 📄 원문 기사 보기 ]</a>
-    </div>
-
-    <div class="article-item" style="margin-bottom: 15px; padding-bottom: 15px; border-bottom: 1px dashed #cbd5e1;">
-        <p style="font-size: 0.8rem; color: #64748b; margin-top: 0; margin-bottom: 8px;">🕒 발행일: Sun, 06 Oct 2024 07:00:00 GMT</p>
-        <p style="margin-top: 0; margin-bottom: 8px;"><strong>📰 기사 제목:</strong> 백준호 퓨리오사AI 대표 “2세대 AI 칩 레니게이드, 매출 1억달러 목표” - 조선비즈 - Chosunbiz</p>
-        <p style="margin-top: 0; margin-bottom: 8px;"><strong>✨ AI 요약:</strong> ⚠️ AI 응답 대기 중</p>
-        <a href="https://news.google.com/rss/articles/CBMiggFBVV95cUxOTVdYbHlVN2dPdE94Ti1sMDdOdlRSR2VJS3QtbDBHdlVHQUMzaGhwZHJndUFKYjhrMFJGSFBMV1ZvdlBjZjc5dDVGbURxUXBTZ1dhTHRFQ0FBc0dJRFVWVFNjN3BrUmVtb0lxYnEtWG9palFubzEzVk1qVWhtVGExQXN30gGWAUFVX3lxTE1iM19qeG1ydWViUEpBTWRBSnVqTGVCbjRPUDZobkRaX1haWWpJRDJNTlFtdE43M182MnlpREFTTnFpMVFvVjJlLTZ5eXVVQkhfMnRvTmNGVGJYUUQwR0xxV1BmM1FjVGR4M3lNMURTRWJUM3daNUJ1QWlsM2ZNYkp5X1BoWnZKbktSNENQTE1SWXYyMTI1UQ?oc=5" target="_blank" style="color: #3b82f6; text-decoration: none; font-weight: bold; font-size: 0.9rem;">[ 📄 원문 기사 보기 ]</a>
-    </div>
-
-    <div class="article-item" style="margin-bottom: 15px; padding-bottom: 15px; border-bottom: 1px dashed #cbd5e1;">
-        <p style="font-size: 0.8rem; color: #64748b; margin-top: 0; margin-bottom: 8px;">🕒 발행일: Wed, 05 Apr 2023 07:00:00 GMT</p>
-        <p style="margin-top: 0; margin-bottom: 8px;"><strong>📰 기사 제목:</strong> 세미파이브, 퓨리오사AI 반도체 양산 - 지디넷코리아</p>
-        <p style="margin-top: 0; margin-bottom: 8px;"><strong>✨ AI 요약:</strong> ⚠️ AI 응답 대기 중</p>
-        <a href="https://news.google.com/rss/articles/CBMiVkFVX3lxTE50a1pQalZ1NEZWTDZjakJUVGpTNEZza3NzRGV4YmxnWXRocDdqeWpSOGVfR1JaVHNveXZPQmI0WWFSU3FfSHhWUDBibWtTVkhrbFkxZmZR?oc=5" target="_blank" style="color: #3b82f6; text-decoration: none; font-weight: bold; font-size: 0.9rem;">[ 📄 원문 기사 보기 ]</a>
-    </div>
-
-    <div class="article-item" style="margin-bottom: 15px; padding-bottom: 15px; border-bottom: 1px dashed #cbd5e1;">
-        <p style="font-size: 0.8rem; color: #64748b; margin-top: 0; margin-bottom: 8px;">🕒 발행일: Fri, 11 Jul 2025 07:00:00 GMT</p>
-        <p style="margin-top: 0; margin-bottom: 8px;"><strong>📰 기사 제목:</strong> 이수페타시스, 리벨리온·퓨리오사AI와 토종 AI 인프라 시장 공략 시동 - thecommoditiesnews.com</p>
-        <p style="margin-top: 0; margin-bottom: 8px;"><strong>✨ AI 요약:</strong> ⚠️ AI 응답 대기 중</p>
-        <a href="https://news.google.com/rss/articles/CBMidEFVX3lxTE1NdS1TSzZ3QW1ENV9MZTRqT2YzajVjdDh6TGU2QXJOWmdWeXJSSUo2VlVuQWFoZEl1Q1F5dFJRdzNNcHhpMUJEQklWbkRJcl80emFvLVo0SE9HU1piVlpTczhtLXIzUkZKbXhUbk10VEZOc3Ny?oc=5" target="_blank" style="color: #3b82f6; text-decoration: none; font-weight: bold; font-size: 0.9rem;">[ 📄 원문 기사 보기 ]</a>
-    </div>
-
-    <div class="article-item" style="margin-bottom: 15px; padding-bottom: 15px; border-bottom: 1px dashed #cbd5e1;">
-        <p style="font-size: 0.8rem; color: #64748b; margin-top: 0; margin-bottom: 8px;">🕒 발행일: Fri, 22 Aug 2025 07:00:00 GMT</p>
-        <p style="margin-top: 0; margin-bottom: 8px;"><strong>📰 기사 제목:</strong> “신제품 출시·영토 확장”…국내 AI 반도체, 상용화 박차 - 이투데이</p>
-        <p style="margin-top: 0; margin-bottom: 8px;"><strong>✨ AI 요약:</strong> ⚠️ AI 응답 대기 중</p>
-        <a href="https://news.google.com/rss/articles/CBMiVEFVX3lxTE9STGpiN2VIQThvZm1ObDVwZDFCYWN4bmRxbTFNTW11LVp5UzlkZGJIa2c3R2E5Y2J5enFTdjFZZ1hQYXJ5Ukh2cHZyUmQ4NTNjU05UUA?oc=5" target="_blank" style="color: #3b82f6; text-decoration: none; font-weight: bold; font-size: 0.9rem;">[ 📄 원문 기사 보기 ]</a>
-    </div>
-</div>
-
-<div id="co-리벨리온" class="news-card">
-    <h3 style="color: #1e293b; margin-top:0; font-size: 1.1rem; margin-bottom: 15px;">리벨리온</h3>
-    <div class="article-item" style="margin-bottom: 15px; padding-bottom: 15px; border-bottom: 1px dashed #cbd5e1;">
-        <p style="font-size: 0.8rem; color: #64748b; margin-top: 0; margin-bottom: 8px;">🕒 발행일: Wed, 27 Aug 2025 07:00:00 GMT</p>
-        <p style="margin-top: 0; margin-bottom: 8px;"><strong>📰 기사 제목:</strong> 리벨리온, 칩렛 기반 차세대 AI 반도체 '리벨쿼드' 최초 공개 - 지디넷코리아</p>
-        <p style="margin-top: 0; margin-bottom: 8px;"><strong>✨ AI 요약:</strong> ⚠️ AI 응답 대기 중</p>
-        <a href="https://news.google.com/rss/articles/CBMiVkFVX3lxTFB3d3hyQXVwc2FnT0RSSV9FRHJlOTNTWnJBNzdHTndQNjZUVzNjU0ZoMUxWT3REdGRvQ0ZsR1p3b1RjMUxEQjQ1alVKZTZOSU13TjN2N29B?oc=5" target="_blank" style="color: #3b82f6; text-decoration: none; font-weight: bold; font-size: 0.9rem;">[ 📄 원문 기사 보기 ]</a>
-    </div>
-</div>
-
-<div id="co-딥엑스" class="news-card">
-    <h3 style="color: #1e293b; margin-top:0; font-size: 1.1rem; margin-bottom: 15px;">딥엑스</h3>
-    <div class="article-item" style="margin-bottom: 15px; padding-bottom: 15px; border-bottom: 1px dashed #cbd5e1;">
-        <p style="font-size: 0.8rem; color: #64748b; margin-top: 0; margin-bottom: 8px;">🕒 발행일: Mon, 30 Mar 2026 07:00:00 GMT</p>
-        <p style="margin-top: 0; margin-bottom: 8px;"><strong>📰 기사 제목:</strong> 딥엑스, AI칩 양산 7개월만에 8개국서 주문 27건 - 동아비즈니스리뷰 | DBR</p>
-        <p style="margin-top: 0; margin-bottom: 8px;"><strong>✨ AI 요약:</strong> ⚠️ AI 응답 대기 중</p>
-        <a href="https://news.google.com/rss/articles/CBMiXkFVX3lxTE5EVFBPbzZJMmJXbkpXeHcxWHVZLVNrLTI4NVVfa0hKcjhKQzdoTW1iVTV0cUY0V255ajJXRkE4dFhPTmNhNjZlbFJ3bXRtUkZBTjJobFRpWGxMa0xhTkE?oc=5" target="_blank" style="color: #3b82f6; text-decoration: none; font-weight: bold; font-size: 0.9rem;">[ 📄 원문 기사 보기 ]</a>
-    </div>
-
-    <div class="article-item" style="margin-bottom: 15px; padding-bottom: 15px; border-bottom: 1px dashed #cbd5e1;">
-        <p style="font-size: 0.8rem; color: #64748b; margin-top: 0; margin-bottom: 8px;">🕒 발행일: Wed, 13 Aug 2025 07:00:00 GMT</p>
-        <p style="margin-top: 0; margin-bottom: 8px;"><strong>📰 기사 제목:</strong> 딥엑스, 삼성 파운드리와 2나노 공정 계약 체결 - 이투데이</p>
-        <p style="margin-top: 0; margin-bottom: 8px;"><strong>✨ AI 요약:</strong> ⚠️ AI 응답 대기 중</p>
-        <a href="https://news.google.com/rss/articles/CBMiVEFVX3lxTE5ncjZwdnBlWnU2d2F3VFB2dm9qMzQtZk90TXJmVHJfUkxyRkZRVEZpbUZlaHhDUWw1dkp6SUktUVB2ZEJFM24xbFU5R1RjTGhTQjhlRg?oc=5" target="_blank" style="color: #3b82f6; text-decoration: none; font-weight: bold; font-size: 0.9rem;">[ 📄 원문 기사 보기 ]</a>
-    </div>
-
-    <div class="article-item" style="margin-bottom: 15px; padding-bottom: 15px; border-bottom: 1px dashed #cbd5e1;">
-        <p style="font-size: 0.8rem; color: #64748b; margin-top: 0; margin-bottom: 8px;">🕒 발행일: Wed, 13 Aug 2025 07:00:00 GMT</p>
-        <p style="margin-top: 0; margin-bottom: 8px;"><strong>📰 기사 제목:</strong> 딥엑스, 삼성전자와 2나노 공정 계약 체결… “차세대 AI 반도체 개발” - 조선비즈 - Chosunbiz</p>
-        <p style="margin-top: 0; margin-bottom: 8px;"><strong>✨ AI 요약:</strong> ⚠️ AI 응답 대기 중</p>
-        <a href="https://news.google.com/rss/articles/CBMiggFBVV95cUxPaDlUbmNmbkZBdkpjTzZySU9EdVhjWE0tNnYyczVwWFpMN3g5U3gzWXRQMWVnMldhaGJZaUlvNnpuUE05akJNYjFjRHEtSFQ1VUVralphYnlDWWNOQVFnbTlmSk45WHpIRjgtQkd4a2VZMWdZMENLT3ZtbFQteGdHc0l30gGWAUFVX3lxTE83VkNEaDRHaDk1SXpZVkgwRHh2d005TnQtZFYybFhhZ3lQeHRRTUZLUVY4cGJWNDMzcFpoUzBLazRMUS1VZHpITEZLUWJncFpMZ0V1TDBEMG1xWnRRT3pTdFBldFNKbXY0cnVhd29XeUVHaGZudDMtaVJreURhRzYxMldzYnlqWXJNMGhxOFBzR280emQtdw?oc=5" target="_blank" style="color: #3b82f6; text-decoration: none; font-weight: bold; font-size: 0.9rem;">[ 📄 원문 기사 보기 ]</a>
-    </div>
-
-    <div class="article-item" style="margin-bottom: 15px; padding-bottom: 15px; border-bottom: 1px dashed #cbd5e1;">
-        <p style="font-size: 0.8rem; color: #64748b; margin-top: 0; margin-bottom: 8px;">🕒 발행일: Tue, 14 Apr 2026 07:00:00 GMT</p>
-        <p style="margin-top: 0; margin-bottom: 8px;"><strong>📰 기사 제목:</strong> 딥엑스, 현대차·바이두 고객 확보…차세대 AI칩 내년 양산 - 네이트</p>
-        <p style="margin-top: 0; margin-bottom: 8px;"><strong>✨ AI 요약:</strong> ⚠️ AI 응답 대기 중</p>
-        <a href="https://news.google.com/rss/articles/CBMiU0FVX3lxTE44WDVJdFpwZTcxUHV1b3RUV1pWekxiSFMwTDJQc0QyVmJFeXh3RFdUWThKa0pMc2xiQXljZ202WVhkbUtRal8tLXpuRENaV1BRZU9R?oc=5" target="_blank" style="color: #3b82f6; text-decoration: none; font-weight: bold; font-size: 0.9rem;">[ 📄 원문 기사 보기 ]</a>
-    </div>
-
-    <div class="article-item" style="margin-bottom: 15px; padding-bottom: 15px; border-bottom: 1px dashed #cbd5e1;">
-        <p style="font-size: 0.8rem; color: #64748b; margin-top: 0; margin-bottom: 8px;">🕒 발행일: Tue, 14 Apr 2026 07:00:00 GMT</p>
-        <p style="margin-top: 0; margin-bottom: 8px;"><strong>📰 기사 제목:</strong> 딥엑스, 레고형 AI 풀스택 공개…"韓 피지컬 AI 수출국 만들 것" - 지디넷코리아</p>
-        <p style="margin-top: 0; margin-bottom: 8px;"><strong>✨ AI 요약:</strong> ⚠️ AI 응답 대기 중</p>
-        <a href="https://news.google.com/rss/articles/CBMiVkFVX3lxTE1MUXNSNXJOYm5Qb2pNOEVSZzhMemozeExhbW1YbVN5ek1OQjFHa2k1SjMxcE84b0tja3B5bHBJVFcyaUl6VG8tUnlyRGtsOXh0S1lGRG5R?oc=5" target="_blank" style="color: #3b82f6; text-decoration: none; font-weight: bold; font-size: 0.9rem;">[ 📄 원문 기사 보기 ]</a>
-    </div>
-</div>
-
-<div id="co-모빌린트" class="news-card">
-    <h3 style="color: #1e293b; margin-top:0; font-size: 1.1rem; margin-bottom: 15px;">모빌린트</h3>
-    <div class="article-item" style="margin-bottom: 15px; padding-bottom: 15px; border-bottom: 1px dashed #cbd5e1;">
-        <p style="font-size: 0.8rem; color: #64748b; margin-top: 0; margin-bottom: 8px;">🕒 발행일: Thu, 28 Mar 2024 07:00:00 GMT</p>
-        <p style="margin-top: 0; margin-bottom: 8px;"><strong>📰 기사 제목:</strong> 세미파이브 "모빌린트 AI 칩 '에리스' 삼성 파운드리서 양산" - 네이트</p>
-        <p style="margin-top: 0; margin-bottom: 8px;"><strong>✨ AI 요약:</strong> 세미파이브는 모빌린트의 AI 칩 '에리스'가 삼성 파운드리에서 양산될 예정이라고 발표했습니다. 이는 AI 반도체 시장의 지속적인 성장을 보여주며, 삼성 파운드리가 AI 칩 생산 분야에서 경쟁력을 강화하고 있음을 시사합니다. 세미파이브는 디자인 솔루션 파트너로서 복잡한 AI 칩 개발 및 양산 과정을 성공적으로 지원한 것으로 평가됩니다.</p>
-        <a href="https://news.google.com/rss/articles/CBMiYEFVX3lxTFBFN21KbEdfSExDblE1RXBCaU1BS3EyRmZmMWI3VldxU3JoalNwMDRHWFE2LVp3UG13ZmdWWXQ3WDBnTHAyaUVEVTlFNE5WdUhSUDBSeHctUnhlaDJZVVhGeA?oc=5" target="_blank" style="color: #3b82f6; text-decoration: none; font-weight: bold; font-size: 0.9rem;">[ 📄 원문 기사 보기 ]</a>
-    </div>
-
-    <div class="article-item" style="margin-bottom: 15px; padding-bottom: 15px; border-bottom: 1px dashed #cbd5e1;">
-        <p style="font-size: 0.8rem; color: #64748b; margin-top: 0; margin-bottom: 8px;">🕒 발행일: Tue, 18 Apr 2023 07:00:00 GMT</p>
-        <p style="margin-top: 0; margin-bottom: 8px;"><strong>📰 기사 제목:</strong> 과학기술정보통신부 장관상 - 모빌린트 CCTV·로보틱스 등 활용 AI 반도체 '에리스' 등 - 모바일한경</p>
-        <p style="margin-top: 0; margin-bottom: 8px;"><strong>✨ AI 요약:</strong> AI 반도체 기업 모빌린트가 CCTV, 로보틱스 등 엣지 AI 분야에 활용되는 자사 AI 반도체 '에리스'로 과학기술정보통신부 장관상을 수상했습니다.
-
-이는 특정 AI 애플리케이션 시장을 위한 국산 AI 칩의 기술력과 혁신성을 공식적으로 인정받은 사례입니다.
-
-이번 수상은 국내 AI 반도체 생태계의 경쟁력 강화 및 전문화된 시장 선점 가능성을 시사하는 긍정적인 신호로 풀이됩니다.</p>
-        <a href="https://news.google.com/rss/articles/CBMihwFBVV95cUxONk8wMURTeGJnMEh5ZVVzaHI3OVIyYW9ObXhqZDEzVDUwcGR4OUxVWVBjMU5DaVhYVFBJZmNFamUydGhGOGVKd25XWF9BS0hTbUV5Q1dvbDJ3VmhOMXZ3cUg2b0Y4QmkycVJtRl9IWjZrYm9pRXRRa0p0TWFjcUIxRGNGOFNoRUk?oc=5" target="_blank" style="color: #3b82f6; text-decoration: none; font-weight: bold; font-size: 0.9rem;">[ 📄 원문 기사 보기 ]</a>
-    </div>
-
-    <div class="article-item" style="margin-bottom: 15px; padding-bottom: 15px; border-bottom: 1px dashed #cbd5e1;">
-        <p style="font-size: 0.8rem; color: #64748b; margin-top: 0; margin-bottom: 8px;">🕒 발행일: Tue, 18 Apr 2023 07:00:00 GMT</p>
-        <p style="margin-top: 0; margin-bottom: 8px;"><strong>📰 기사 제목:</strong> 과학기술정보통신부 장관상 - 모빌린트 CCTV·로보틱스 등 활용 AI 반도체 '에리스' 등 - 한국경제</p>
-        <p style="margin-top: 0; margin-bottom: 8px;"><strong>✨ AI 요약:</strong> ⚠️ AI 응답 대기 중</p>
-        <a href="https://news.google.com/rss/articles/CBMiWkFVX3lxTE1GTk1XNDBHNVd1NjlxNUNuSXYwNGZfUXlhcVJnY3RyalNMVnZQSjduSGNlaXNQckZDd3p1VGFtRjNPUHJtQTJtcnhxOXdsazBKMURsWWVRSnlfUdIBVEFVX3lxTE9yWktQM0lqSmtfQXhRUERCS1BaeFNPUHRKb2ZBQ1lkdzdZLUtWT2t3ZWc2NDh4V3VCNmJaelp5NHNtTWc4cllQOUE4MU9rU0hPOFFtZA?oc=5" target="_blank" style="color: #3b82f6; text-decoration: none; font-weight: bold; font-size: 0.9rem;">[ 📄 원문 기사 보기 ]</a>
-    </div>
-</div>
-
-<div id="co-보스반도체" class="news-card">
-    <h3 style="color: #1e293b; margin-top:0; font-size: 1.1rem; margin-bottom: 15px;">보스반도체</h3>
-    <div class="article-item" style="margin-bottom: 15px; padding-bottom: 15px; border-bottom: 1px dashed #cbd5e1;">
-        <p style="font-size: 0.8rem; color: #64748b; margin-top: 0; margin-bottom: 8px;">🕒 발행일: Wed, 20 Sep 2023 07:00:00 GMT</p>
-        <p style="margin-top: 0; margin-bottom: 8px;"><strong>📰 기사 제목:</strong> 에이디테크놀로지, 보스반도체와 5나노 車반도체 개발 - 한국경제</p>
-        <p style="margin-top: 0; margin-bottom: 8px;"><strong>✨ AI 요약:</strong> ⚠️ AI 응답 대기 중</p>
-        <a href="https://news.google.com/rss/articles/CBMiWkFVX3lxTE9KcnFTajR6X2ctZWVSWEhiX2liWk1ibnVCSW1DM2dBV2wwOEt6djJUWEVTb0I5QUpGVkNhTGQ2RnJuRnoxUk5DQ3h4VWl6ZHppQU12RWJkNlc2Z9IBVEFVX3lxTE4yaHZuTDduZjlod3VfZ2dQVlgwX2lIODEydEdrZXRxcHZxbW14ek42dExJOV9OaGxIU0lINk9YMUlRdkZEdEprM2piV1FTeFdsci1JZw?oc=5" target="_blank" style="color: #3b82f6; text-decoration: none; font-weight: bold; font-size: 0.9rem;">[ 📄 원문 기사 보기 ]</a>
-    </div>
-</div>
-
-<div id="co-라온텍" class="news-card">
-    <h3 style="color: #1e293b; margin-top:0; font-size: 1.1rem; margin-bottom: 15px;">라온텍</h3>
-    <div class="article-item" style="margin-bottom: 15px; padding-bottom: 15px; border-bottom: 1px dashed #cbd5e1;">
-        <p style="font-size: 0.8rem; color: #64748b; margin-top: 0; margin-bottom: 8px;">🕒 발행일: Thu, 16 Mar 2023 07:00:00 GMT</p>
-        <p style="margin-top: 0; margin-bottom: 8px;"><strong>📰 기사 제목:</strong> 정부, 시스템반도체 생태계 강화·세제 지원 확대 - 지디넷코리아</p>
-        <p style="margin-top: 0; margin-bottom: 8px;"><strong>✨ AI 요약:</strong> ⚠️ AI 응답 대기 중</p>
-        <a href="https://news.google.com/rss/articles/CBMiVkFVX3lxTE1oR2ZVdVUwRGpWWVJuV0NETlhhSG9LYUdzbWxPZWZmM2pjWC0tb2V4ekYzbGNuQk5hdW1iV1EzUllUY3Z4TFNJbFRBeTNjbVNSYWxjdzdR?oc=5" target="_blank" style="color: #3b82f6; text-decoration: none; font-weight: bold; font-size: 0.9rem;">[ 📄 원문 기사 보기 ]</a>
-    </div>
-</div>
-
-<div id="co-텔레칩스" class="news-card">
-    <h3 style="color: #1e293b; margin-top:0; font-size: 1.1rem; margin-bottom: 15px;">텔레칩스</h3>
-    <div class="article-item" style="margin-bottom: 15px; padding-bottom: 15px; border-bottom: 1px dashed #cbd5e1;">
-        <p style="font-size: 0.8rem; color: #64748b; margin-top: 0; margin-bottom: 8px;">🕒 발행일: Mon, 18 Nov 2024 08:00:00 GMT</p>
-        <p style="margin-top: 0; margin-bottom: 8px;"><strong>📰 기사 제목:</strong> 이장규 텔레칩스 대표 “폭스바겐에 차량용 AP 신제품 공급… 퀄컴·미디어텍과 경쟁” - 조선비즈 - Chosunbiz</p>
-        <p style="margin-top: 0; margin-bottom: 8px;"><strong>✨ AI 요약:</strong> ⚠️ AI 응답 대기 중</p>
-        <a href="https://news.google.com/rss/articles/CBMiggFBVV95cUxPbVRXNHNoYWZoU19halF4SXR1Um1kUW5TUGhlNE5RUFFGVTZFNVpTSTZqMVpOaFFNcWYzUGJ5aVlPTW90UGJKNGFDWjFzRlRYNmVLNUU5T3pOaGlGbXdyQldaYllFU1BONzFUUHhtdGN3YUdJMXRyejFNOFVRZ2dJTVRR0gGWAUFVX3lxTE51bjZiZG1zMHlYa2xsRmpkaGJiMHo1dnktLXllTTBwOHl6TDBkZ2EwMzF4RE9ZQV9qSS1raENsLUxmTUxKbEcwaEljNG8yTTN0dDUzM3M0cFYzNFB2ZTNvbUtCN216NVAxYzUtdUZlREVVbkNGNzhpREt5MWszc1JTWEJ4b2NXdVd1eDVCS3U5bDRCWW4xUQ?oc=5" target="_blank" style="color: #3b82f6; text-decoration: none; font-weight: bold; font-size: 0.9rem;">[ 📄 원문 기사 보기 ]</a>
-    </div>
-</div>
-
-<div id="co-넥스트칩" class="news-card">
-    <h3 style="color: #1e293b; margin-top:0; font-size: 1.1rem; margin-bottom: 15px;">넥스트칩</h3>
-    <div class="article-item" style="margin-bottom: 15px; padding-bottom: 15px; border-bottom: 1px dashed #cbd5e1;">
-        <p style="font-size: 0.8rem; color: #64748b; margin-top: 0; margin-bottom: 8px;">🕒 발행일: Wed, 17 Jul 2024 07:00:00 GMT</p>
-        <p style="margin-top: 0; margin-bottom: 8px;"><strong>📰 기사 제목:</strong> '자율車의 눈' ADAS 칩 선도하는 넥스트칩 - 한국경제</p>
-        <p style="margin-top: 0; margin-bottom: 8px;"><strong>✨ AI 요약:</strong> ⚠️ AI 응답 대기 중</p>
-        <a href="https://news.google.com/rss/articles/CBMiWkFVX3lxTFBHZ01yV2pXQXlBUU9GWlpBR1Y5UVJnLU9zREhvTjkwUTJTNGxCakZ0UkItc3V3SmZjTmE5eXlrT2pVbk5qY0NlZ1otTWZkLUdQME9CcVItdnhUQdIBVEFVX3lxTFBpQmRfVmlkTGhyR000OHhfb20wUmZSOWtza2pNeTZ3WWh3TUh6VUVUT3JKcWtrbkFKTW9CX0gxRUlGRExzOThyUzVsOGItS2YzVUYwMA?oc=5" target="_blank" style="color: #3b82f6; text-decoration: none; font-weight: bold; font-size: 0.9rem;">[ 📄 원문 기사 보기 ]</a>
-    </div>
-
-    <div class="article-item" style="margin-bottom: 15px; padding-bottom: 15px; border-bottom: 1px dashed #cbd5e1;">
-        <p style="font-size: 0.8rem; color: #64748b; margin-top: 0; margin-bottom: 8px;">🕒 발행일: Wed, 17 Jul 2024 07:00:00 GMT</p>
-        <p style="margin-top: 0; margin-bottom: 8px;"><strong>📰 기사 제목:</strong> '역주행' 사고 후 부각된 'ADAS'…K팹리스 넥스트칩이 선도한다 [최형창의 中企 인사이드] - 한국경제</p>
-        <p style="margin-top: 0; margin-bottom: 8px;"><strong>✨ AI 요약:</strong> ⚠️ AI 응답 대기 중</p>
-        <a href="https://news.google.com/rss/articles/CBMiWkFVX3lxTE5fclE5ZjZVRDRjWG94Vzh5c2RBdDNidk1MeUxWNk5JZ05XQ3Fudk14MExTZGpvSFFXSmc5bjBhNHhjR19CY25PeXpaNnBXX1lMX2xsME1mc0lWQdIBVEFVX3lxTFB3M1lMWUhEbm0zb1ZDMmktLUlMWGlzRXdyUEZMNGszZEVScUJoaGNEcVF6eVBJYmJuUmpfVk1aT3dZWVB5ZWJPQmt4NUQ3cDBHb2lWXw?oc=5" target="_blank" style="color: #3b82f6; text-decoration: none; font-weight: bold; font-size: 0.9rem;">[ 📄 원문 기사 보기 ]</a>
-    </div>
-</div>
-
-<div id="co-tsmc" class="news-card">
-    <h3 style="color: #1e293b; margin-top:0; font-size: 1.1rem; margin-bottom: 15px;">TSMC</h3>
-    <div class="article-item" style="margin-bottom: 15px; padding-bottom: 15px; border-bottom: 1px dashed #cbd5e1;">
-        <p style="font-size: 0.8rem; color: #64748b; margin-top: 0; margin-bottom: 8px;">🕒 발행일: Mon, 26 Apr 2021 07:00:00 GMT</p>
-        <p style="margin-top: 0; margin-bottom: 8px;"><strong>📰 기사 제목:</strong> TSMC "작게 많이" 삼성 "그럼 더 작게"… 10억분의 1m짜리 전쟁 - 조선일보</p>
-        <p style="margin-top: 0; margin-bottom: 8px;"><strong>✨ AI 요약:</strong> ⚠️ AI 응답 대기 중</p>
-        <a href="https://news.google.com/rss/articles/CBMigwFBVV95cUxQak53Y3UwcVBfMnBOU001V3dHb0VMak1wUjNQTEZyVE9IN1puUTdxZjNtQmhvSWpLamlRcU1NcnY2Qm1xNDNRekxvVHJkcGUxQVREZk5PZmpNVFJxQUx6V3EtdHd1OTZVQ2trQW1oWVFHZWZfaXdoMkFzeFRWVnNoNkFvZw?oc=5" target="_blank" style="color: #3b82f6; text-decoration: none; font-weight: bold; font-size: 0.9rem;">[ 📄 원문 기사 보기 ]</a>
-    </div>
-
-    <div class="article-item" style="margin-bottom: 15px; padding-bottom: 15px; border-bottom: 1px dashed #cbd5e1;">
-        <p style="font-size: 0.8rem; color: #64748b; margin-top: 0; margin-bottom: 8px;">🕒 발행일: Wed, 10 Mar 2021 08:00:00 GMT</p>
-        <p style="margin-top: 0; margin-bottom: 8px;"><strong>📰 기사 제목:</strong> TSMC, 삼성전자… 10억분의 1m 전쟁 “왜 파운드리인가” - 더스쿠프</p>
-        <p style="margin-top: 0; margin-bottom: 8px;"><strong>✨ AI 요약:</strong> ⚠️ AI 응답 대기 중</p>
-        <a href="https://news.google.com/rss/articles/CBMibEFVX3lxTE5DX0l1MVBLVU9TWDlMT3RXaHRBSkVDN292M1FzX29qdW9ZZmQ1V0lDaGpyZUs1U00yOFRLYl9BSTBXU0RtWEgwUVZzVDdiam56RlBoQnhSd2xpUVpvMTBmaFd1MlpNQXdTVTJVVg?oc=5" target="_blank" style="color: #3b82f6; text-decoration: none; font-weight: bold; font-size: 0.9rem;">[ 📄 원문 기사 보기 ]</a>
-    </div>
-
-    <div class="article-item" style="margin-bottom: 15px; padding-bottom: 15px; border-bottom: 1px dashed #cbd5e1;">
-        <p style="font-size: 0.8rem; color: #64748b; margin-top: 0; margin-bottom: 8px;">🕒 발행일: Sat, 14 Mar 2026 07:00:00 GMT</p>
-        <p style="margin-top: 0; margin-bottom: 8px;"><strong>📰 기사 제목:</strong> 대만 8% vs 한국 1%…AI 호황에도 경제성장률 엇갈린 이유는 - 조선비즈 - Chosunbiz</p>
-        <p style="margin-top: 0; margin-bottom: 8px;"><strong>✨ AI 요약:</strong> ⚠️ AI 응답 대기 중</p>
-        <a href="https://news.google.com/rss/articles/CBMikAFBVV95cUxQcGsyTVZzWUEyOGZPaVlNbEpXWTJqRkg0OW8tM0I2bDlpc0wyZlMySnFqQ0pObW5QdXZPNGJWVzFxOEJERjkyYWowanhZU3BtRGVvQ0JKRTI1ZDMtcE1xTzE3dXNhcEdxYUtoYXhmdHllNkJtZ3p5TGNZSUJJZWhwVWhrN1A1a01CWTU2UGM2clXSAaQBQVVfeXFMTVZ0NmFzVmNKQWh4UmRZd3lqUG84N2Z6czVNN1pfeHNfWmxkNkRidWpPY09xT0tkZUNTd2xvMWFFUGJweHB5U1loTWdNQ1NtV3FpYy1zTTBpWWNURDJSUWFnSGUzVFdmaWRJdHdYaHFyY3lOLWdia1NaVDhsVC1lNWZrWlBKRDdyMkhRcG03RUZLYmhGcTQxcHVUNl9JODB5YjdORTA?oc=5" target="_blank" style="color: #3b82f6; text-decoration: none; font-weight: bold; font-size: 0.9rem;">[ 📄 원문 기사 보기 ]</a>
-    </div>
-
-    <div class="article-item" style="margin-bottom: 15px; padding-bottom: 15px; border-bottom: 1px dashed #cbd5e1;">
-        <p style="font-size: 0.8rem; color: #64748b; margin-top: 0; margin-bottom: 8px;">🕒 발행일: Thu, 09 Apr 2026 07:00:00 GMT</p>
-        <p style="margin-top: 0; margin-bottom: 8px;"><strong>📰 기사 제목:</strong> 삼성 파운드리 수율 ‘또’ 말썽...다 잡은 퀄컴 TSMC로 놓치나 - 부산일보</p>
-        <p style="margin-top: 0; margin-bottom: 8px;"><strong>✨ AI 요약:</strong> ⚠️ AI 응답 대기 중</p>
-        <a href="https://news.google.com/rss/articles/CBMieEFVX3lxTFAyVnc0bXM3cVo5cUhnNTdWNUFYVUtnUmM5ajdZRGxJT3RmaVFJSVJqdnc1YXFyUDgwZWc0cXZVZ05adHc4cXJlUjZjLTg5dHZlZld1QnpxWjR1TjV3cndBUW1hOWNUOFdmNmlpTjVLdHp1em1hYzU2Nw?oc=5" target="_blank" style="color: #3b82f6; text-decoration: none; font-weight: bold; font-size: 0.9rem;">[ 📄 원문 기사 보기 ]</a>
-    </div>
-
-    <div class="article-item" style="margin-bottom: 15px; padding-bottom: 15px; border-bottom: 1px dashed #cbd5e1;">
-        <p style="font-size: 0.8rem; color: #64748b; margin-top: 0; margin-bottom: 8px;">🕒 발행일: Wed, 06 May 2026 07:00:00 GMT</p>
-        <p style="margin-top: 0; margin-bottom: 8px;"><strong>📰 기사 제목:</strong> [사설] TSMC, 23조 반도체 투자 재개…삼성전자는 ‘파업 리스크’ - 서울경제</p>
-        <p style="margin-top: 0; margin-bottom: 8px;"><strong>✨ AI 요약:</strong> ⚠️ AI 응답 대기 중</p>
-        <a href="https://news.google.com/rss/articles/CBMiUkFVX3lxTE13YnZ5OHVGeG1ZM2hNLTc0LW9ndExUYnVpbWZWTFVod3ZCN0VreTlmVnFTNldWTWFvX2ZTRmwzMTl5Yl9qdkFjZE1ZMUVHcFRhZ3fSAVNBVV95cUxPaEJVUHVhdXZGWHJ5TnE0VVhYWW1HcXhuajctcE1HN2ZKWWpLak5UOXBYdEdGcjdpcGZLLTQ5OG0yZDhvb2MwUnZnYjFQWHpaMzExNA?oc=5" target="_blank" style="color: #3b82f6; text-decoration: none; font-weight: bold; font-size: 0.9rem;">[ 📄 원문 기사 보기 ]</a>
-    </div>
-</div>
-
-</div>
-    </div>
 
     <script>
-        const CONFIG_PASSWORD = "1"; 
-
-        const ecosystemData = [
-            {
-                category: "DSP",
-                title: "📐 DSP / Design House",
-                desc: "(자사 및 디자인 솔루션 파트너/경쟁사)",
-                regions: [
-                    { name: "한국 (Korea)", companies: ["알파칩스", "에이디테크놀로지", "가온칩스", "세미파이브", "코아시아", "에이직랜드", "하나텍", "에이씨피씨", "칩스앤미디어"] },
-                    { name: "대만 (Taiwan)", companies: ["글로벌유니칩 (GUC)", "알칩 (Alchip)", "패러데이", "M31 Technology", "CreoChip", "Open-Silicon"] },
-                    { name: "중국 (China)", companies: ["베리실리콘 (VeriSilicon)", "Innosilicon"] },
-                    { name: "영국 및 미국 (UK/USA)", companies: ["손드렐 (Sondrel)", "EnSilica", "eInfochips"] }
-                ]
-            },
-            {
-                category: "Fabless",
-                title: "💻 Fabless / Big Tech",
-                desc: "(고객사 및 과제 발굴 타겟)",
-                regions: [
-                    { name: "한국 — AI·차세대", companies: ["퓨리오사AI", "리벨리온", "딥엑스", "파두", "망고부스트", "사피온", "모빌린트", "오픈엣지테크", "씨유박스", "에이직원"] },
-                    { name: "한국 — 통신·RF", companies: ["GCT Semiconductor", "에이스테크놀로지", "알에프에이치아이씨", "와이솔", "이노칩테크놀로지"] },
-                    { name: "한국 — 이미지·센서", companies: ["픽셀플러스", "실리콘옵틱스", "에스엘파워일렉트로닉스", "아이즈비전"] },
-                    { name: "한국 — 오디오·전력·아날로그", companies: ["보스반도체", "동운아나텍", "실리콘마이터스", "에이디반도체", "MagnaChip반도체"] },
-                    { name: "한국 — 디스플레이·스토리지", companies: ["LX세미콘", "실리콘웍스", "아나패스", "라온텍", "칩원텍", "제주반도체"] },
-                    { name: "한국 — 차량용·MCU·기타", companies: ["텔레칩스", "넥스트칩", "에이비오브", "코아로직", "엠씨넥스", "세코닉스", "넥슨반도체"] },
-                    { name: "미국 — 전통 팹리스", companies: ["NVIDIA", "AMD", "Qualcomm", "Broadcom", "Marvell", "Lattice", "Cirrus Logic", "Microchip", "MPS", "Skyworks", "Qorvo", "Wolfspeed", "Silicon Labs", "MaxLinear"] },
-                    { name: "미국 — 빅테크 자체 칩", companies: ["Apple", "Google", "Amazon", "Microsoft", "Meta", "Tesla", "OpenAI", "Intel"] },
-                    { name: "대만 (Taiwan)", companies: ["MediaTek", "Novatek", "Realtek", "Himax", "Parade Tech", "ITE Tech", "Elan Microelectronics", "Airoha", "Silicon Motion"] },
-                    { name: "유럽 (Europe)", companies: ["NXP", "STMicroelectronics", "Infineon", "Nordic", "u-blox", "Melexis"] }
-                ]
-            },
-            {
-                category: "Foundry",
-                title: "🏭 Foundry",
-                desc: "(생산 파트너 및 글로벌 핵심 제조사)",
-                regions: [
-                    { name: "한국 (Korea)", companies: ["Samsung Foundry"] },
-                    { name: "대만 (Taiwan)", companies: ["TSMC"] }
-                ]
-            }
-        ];
-
-        function verifyPassword() {
-            const userInput = document.getElementById("team-password").value;
-            if (userInput === CONFIG_PASSWORD) {
-                document.getElementById("auth-overlay").style.display = "none";
-                document.getElementById("main-content").style.display = "block";
-                renderEcosystem(); 
-            } else {
-                alert("비밀번호가 올바르지 않습니다.");
-                document.getElementById("team-password").value = "";
-            }
-        }
-
-        function renderEcosystem() {
-            const container = document.getElementById('ecosystem-container');
-            let htmlContent = '';
-
-            ecosystemData.forEach(cat => {
-                htmlContent += `
-                    <div class="major-category cat-${cat.category}">
-                        <h2>${cat.title} <span>${cat.desc}</span></h2>
-                        <div class="country-grid">
-                `;
-
-                cat.regions.forEach(region => {
-                    htmlContent += `
-                        <div class="country-card">
-                            <h3 onclick="toggleMobileRegion(this.parentNode)">${region.name}</h3>
-                            <div class="company-list">
-                    `;
-
-                    region.companies.forEach(company => {
-                        const safeId = company.split(' ')[0].toLowerCase().replace(/[^a-z0-9가-힣]/g, '');
-                        // 🌟 여기서 버튼을 누르면 filterNews 함수가 발동합니다!
-                        htmlContent += `<button onclick="filterNews('${safeId}', '${company}')" class="company-btn btn-${cat.category}">${company}</button>`;
-                    });
-
-                    htmlContent += `
-                            </div>
-                        </div>
-                    `;
-                });
-                htmlContent += `</div></div>`;
+        // 화면 로딩 시 기사들을 시간순(최신순)으로 완벽하게 자동 정렬하는 마법의 스크립트
+        document.addEventListener("DOMContentLoaded", () => {
+            const feed = document.getElementById("global-news-feed");
+            const articles = Array.from(feed.querySelectorAll(".article-item"));
+            
+            // data-timestamp 값을 기준으로 내림차순(최신 기사가 위로) 정렬
+            articles.sort((a, b) => {
+                return parseInt(b.getAttribute("data-timestamp")) - parseInt(a.getAttribute("data-timestamp"));
             });
+            
+            // 정렬된 순서대로 다시 화면에 붙여넣기
+            articles.forEach(article => feed.appendChild(article));
+            generateFilterButtons();
+        });
 
-            container.innerHTML = htmlContent;
-        }
+        // 사용자가 회사 버튼을 눌렀을 때 해당 회사 기사만 보여주는 필터 함수
+        function filterNews(companyId) {
+            // 버튼 색상 변경
+            document.querySelectorAll('.filter-btn').forEach(btn => btn.classList.remove('active'));
+            event.target.classList.add('active');
 
-        function toggleEcosystem() {
-            const wrapper = document.getElementById('ecosystem-wrapper');
-            const btn = document.getElementById('toggleListBtn');
-            if (wrapper.style.display === 'none') {
-                wrapper.style.display = 'block';
-                btn.innerText = '▲ 기업 리스트 전체 접기';
-                btn.style.background = '#1e293b';
-            } else {
-                wrapper.style.display = 'none';
-                btn.innerText = '▼ 기업 리스트 다시 펼치기';
-                btn.style.background = '#3b82f6';
-            }
-        }
-
-        // 🌟 클릭 시 접히고 + 필터링되고 + 전체보기 시 돌아오는 마법의 로직
-        function filterNews(companyId, companyName) {
-            const allCards = document.querySelectorAll('.news-card');
-            const statusMsg = document.getElementById('filter-status-msg');
-            const wrapper = document.getElementById('ecosystem-wrapper');
-            const toggleBtn = document.getElementById('toggleListBtn');
-            let visibleCount = 0;
-
-            if (companyId === 'all') {
-                allCards.forEach(card => card.style.display = 'block');
-                statusMsg.style.display = 'none';
-                
-                // 다시 목록 펼치기
-                wrapper.style.display = 'block';
-                toggleBtn.innerText = '▲ 기업 리스트 전체 접기';
-                toggleBtn.style.background = '#1e293b';
-            } else {
-                allCards.forEach(card => {
-                    const cardText = card.innerText.toLowerCase();
-                    const shortName = companyName.split(' ')[0].toLowerCase();
-                    if (card.id === 'co-' + companyId || cardText.includes(shortName)) {
-                        card.style.display = 'block';
-                        visibleCount++;
-                    } else {
-                        card.style.display = 'none';
-                    }
-                });
-
-                statusMsg.style.display = 'block';
-                if (visibleCount > 0) {
-                    statusMsg.innerText = `✅ [ ${companyName} ] 관련 기사가 필터링 되었습니다.`;
-                    statusMsg.style.color = '#10b981';
+            // 기사 숨기기/보이기
+            const articles = document.querySelectorAll('.article-item');
+            articles.forEach(article => {
+                if (companyId === 'all' || article.getAttribute('data-id') === companyId) {
+                    article.style.display = 'block';
                 } else {
-                    statusMsg.innerText = `⚠️ [ ${companyName} ] 관련 최신 기사가 아직 수집되지 않았습니다.`;
-                    statusMsg.style.color = '#ef4444';
+                    article.style.display = 'none';
                 }
-
-                // 🌟 여기서 자동으로 상단 기업 리스트를 닫아줍니다!
-                wrapper.style.display = 'none';
-                toggleBtn.innerText = '▼ 기업 리스트 다시 펼치기';
-                toggleBtn.style.background = '#3b82f6';
-            }
-
-            document.querySelector('.news-section').scrollIntoView({ behavior: 'smooth' });
+            });
         }
 
-        function toggleMobileRegion(cardElement) {
-            if (window.innerWidth <= 768) {
-                cardElement.classList.toggle('open');
-            }
+        // 존재하는 기사들을 분석해서 상단 필터 버튼을 자동으로 만들어주는 함수
+        function generateFilterButtons() {
+            const articles = document.querySelectorAll('.article-item');
+            const companies = new Set();
+            articles.forEach(a => companies.add(a.getAttribute('data-id')));
+            
+            const btnContainer = document.getElementById('filter-buttons');
+            companies.forEach(comp => {
+                const btn = document.createElement('button');
+                btn.className = 'filter-btn';
+                btn.innerText = comp;
+                btn.onclick = (e) => filterNews(comp);
+                btnContainer.appendChild(btn);
+            });
         }
     </script>
 </body>
