@@ -61,7 +61,6 @@ COMPANIES = [
 ]
 
 def fetch_news(company_name, existing_html):
-    # 💡 무제한 검색: 멍청한 쌍따옴표 빼고 넓은 그물망 투척!
     search_query = f"{company_name} when:30d"
     encoded_query = urllib.parse.quote(search_query)
     
@@ -81,11 +80,8 @@ def fetch_news(company_name, existing_html):
                 if pub_tuple:
                     pub_timestamp = email.utils.mktime_tz(pub_tuple)
                     pub_date = datetime.fromtimestamp(pub_timestamp, timezone.utc)
+                    if pub_date < cutoff_date: continue 
                     
-                    if pub_date < cutoff_date:
-                        continue 
-                    
-                    # 💡 날짜 예쁘게 변환 (한국 시간 KST)
                     kst_date = pub_date + timedelta(hours=9)
                     pub_str = kst_date.strftime("%Y-%m-%d %H:%M")
             except:
@@ -100,50 +96,50 @@ def fetch_news(company_name, existing_html):
                 })
     return new_articles
 
-def ai_super_filter(company_name, new_title, existing_titles):
+def analyze_and_summarize(company_name, new_title, existing_titles):
+    """💡 일타쌍피 함수: 1번의 질문으로 주식 차단, 중복 차단, 요약까지 한방에 끝냅니다!"""
     if not GEMINI_API_KEY or GEMINI_API_KEY == "YOUR_API_KEY":
-        return "PASS" 
+        return "ERROR", "API 키가 없습니다."
     
     prompt = f"""당신은 깐깐한 반도체 산업 분석가입니다.
-검색 대상 기업: {company_name}
-새로 들어온 기사 제목: '{new_title}'
-최근 수집 완료된 기사 제목들: {existing_titles}
+기업: {company_name}
+새 기사 제목: '{new_title}'
+최근 수집된 기사들: {existing_titles}
 
-이 기사에 대해 다음 두 가지를 엄격하게 판별하세요:
-1. 관련성: 이 기사가 반도체, 칩 설계, 파운드리, AI 하드웨어, 데이터센터 등 '반도체 생태계'와 명확히 관련이 있습니까? (기업 주가, 스마트폰/자동차 같은 소비재 출시, 가십 등은 무조건 관련 없음으로 간주).
-2. 중복성: 이 기사가 '수집 완료된 기사 제목들' 중 하나와 완전히 동일한 사건을 다루는 복붙/도배성 기사입니까?
+다음 3단계로 엄격하게 검열하고, 통과 시에만 요약하세요.
 
-출력 규칙 (반드시 아래 영단어 중 하나만 출력):
-- 반도체 생태계와 관련이 없다면: REJECT_IRRELEVANT
-- 반도체와 관련은 있지만, 기존 기사와 겹치는 도배성 기사라면: REJECT_DUPLICATE
-- 반도체 관련 기사가 맞고, 완전히 새롭고 중요한 소식이라면: PASS
+[1단계: 주식/단순투자 뉴스 완벽 차단]
+제목에 '주가', '목표가', '특징주', '매수/매도', '상한가', '시총', '수혜주', '실적 발표(숫자만 있는 것)' 등 단순 투자 지표나 주식 시장 동향이면 무조건 'REJECT_STOCK'을 출력하고 종료하세요.
+
+[2단계: 관련성 및 중복 검사]
+- 반도체 칩 설계, 파운드리, AI 인프라 등 핵심 기술 생태계와 무관한 가십/소비재 기사면 'REJECT_IRRELEVANT' 출력 후 종료.
+- '최근 수집된 기사들'과 똑같은 사건을 다루는 중복 도배 기사면 'REJECT_DUPLICATE' 출력 후 종료.
+
+[3단계: 요약 (위 1, 2단계를 모두 통과한 진짜 뉴스만!)]
+오직 이 경우에만, 기사 내용을 유추하여 핵심만 3줄 이내로 요약하세요. 
+반드시 요약문 맨 앞에 'PASS|' 를 붙여서 출력하세요. (예: PASS|1. TSMC가... 2. ... 3. ...)
 """
     url = f"https://generativelanguage.googleapis.com/v1beta/models/gemini-2.5-flash:generateContent?key={GEMINI_API_KEY}"
     payload = {"contents": [{"parts": [{"text": prompt}]}]}
     headers = {'Content-Type': 'application/json'}
     try:
         res = requests.post(url, json=payload, headers=headers).json()
-        answer = res['candidates'][0]['content']['parts'][0]['text'].strip().upper()
+        if 'candidates' not in res:
+            return "ERROR", "구글 AI 과부하 대기 중..."
+            
+        answer = res['candidates'][0]['content']['parts'][0]['text'].strip()
         
-        if "REJECT_IRRELEVANT" in answer: return "IRRELEVANT"
-        if "REJECT_DUPLICATE" in answer: return "DUPLICATE"
-        return "PASS"
-    except:
-        return "PASS" 
-
-def summarize_news(title):
-    if not GEMINI_API_KEY or GEMINI_API_KEY == "YOUR_API_KEY": 
-        return "AI 설정 확인 필요"
-    url = f"https://generativelanguage.googleapis.com/v1beta/models/gemini-2.5-flash:generateContent?key={GEMINI_API_KEY}"
-    payload = {"contents": [{"parts": [{"text": f"반도체 분석가로서 다음 뉴스를 핵심만 3줄 이내로 요약해 줘. 제목: {title}"}]}]}
-    headers = {'Content-Type': 'application/json'}
-    try:
-        res = requests.post(url, json=payload, headers=headers).json()
-        if 'candidates' in res:
-            return res['candidates'][0]['content']['parts'][0]['text'].strip()
-        return "요약 대기 중"
-    except: 
-        return "시스템 오류"
+        if "REJECT_STOCK" in answer.upper(): return "REJECT_STOCK", ""
+        if "REJECT_IRRELEVANT" in answer.upper(): return "IRRELEVANT", ""
+        if "REJECT_DUPLICATE" in answer.upper(): return "DUPLICATE", ""
+        
+        if "PASS|" in answer:
+            summary = answer.split("PASS|")[1].strip()
+            return "PASS", summary
+        else:
+            return "PASS", answer.replace("PASS", "").strip()
+    except Exception as e:
+        return "ERROR", f"요약 실패 (시스템 오류)"
 
 def insert_into_global_feed(article_html):
     html_file = "index.html"
@@ -155,7 +151,7 @@ def insert_into_global_feed(article_html):
     with open(html_file, "w", encoding="utf-8") as f: f.write(content)
 
 if __name__ == "__main__":
-    print("🚀 [Pro V4] 초대형 그물망 & AI 정밀 필터 가동 시작...")
+    print("🚀 [Pro V5] 주식 차단 & 일타쌍피 요약 크롤링 시작...")
     
     html_file = "index.html"
     existing_html = open(html_file, "r", encoding="utf-8").read() if os.path.exists(html_file) else ""
@@ -168,22 +164,30 @@ if __name__ == "__main__":
             collected_titles = [] 
             
             for news in articles:
-                # 💡 AI 초강력 검열 진행
-                filter_status = ai_super_filter(comp['name'], news['title'], collected_titles)
+                # 💡 한 번의 API 호출로 필터링과 요약을 동시에 받아옵니다!
+                status, summary = analyze_and_summarize(comp['name'], news['title'], collected_titles)
                 
-                if filter_status == "IRRELEVANT":
-                    print(f"   🗑️ [잡음 삭제] 반도체 무관: {news['title']}")
-                    existing_html += news['link'] 
-                    time.sleep(1)
-                    continue
-                elif filter_status == "DUPLICATE":
-                    print(f"   🚫 [중복 차단] 도배 기사: {news['title']}")
+                if status == "REJECT_STOCK":
+                    print(f"   📉 [주식/찌라시 차단] {news['title']}")
                     existing_html += news['link']
-                    time.sleep(1)
+                    time.sleep(2) # 구글 API 과부하 방지용 꿀휴식
+                    continue
+                elif status == "IRRELEVANT":
+                    print(f"   🗑️ [반도체 무관 차단] {news['title']}")
+                    existing_html += news['link'] 
+                    time.sleep(2)
+                    continue
+                elif status == "DUPLICATE":
+                    print(f"   🚫 [도배 기사 차단] {news['title']}")
+                    existing_html += news['link']
+                    time.sleep(2)
+                    continue
+                elif status == "ERROR":
+                    print(f"   ⚠️ [API 에러/과부하 스킵] {news['title']}")
+                    time.sleep(5) # 에러 시엔 좀 길게 쉽니다. (기사는 나중에 다시 시도하게 둠)
                     continue
                 
-                print(f"   ✅ [요약 진행] {news['title']}")
-                summary = summarize_news(news['title'])
+                print(f"   ✅ [검열 통과/요약 완료] {news['title']}")
                 collected_titles.append(news['title']) 
                 
                 article_html = (
@@ -198,16 +202,15 @@ if __name__ == "__main__":
                 
                 insert_into_global_feed(article_html)
                 existing_html += news['link']
-                time.sleep(5) 
+                time.sleep(4) # 정상 등록 후에도 과부하 방지 휴식
         else:
             print(f"💨 [{comp['name']}] 수집할 새 기사 없음 (Skip)")
             
-    # 💡 마지막 업데이트 시간을 KST(한국 시간)로 기록
     now_kst = (datetime.now(timezone.utc) + timedelta(hours=9)).strftime("%Y-%m-%d %H:%M")
     with open(html_file, "r", encoding="utf-8") as f: content = f.read()
     updated_content = re.sub(
         r'<div class="updated-time">.*?</div>', 
-        f'<div class="updated-time">최근 업데이트: {now_kst} (시간순 타임라인 반영 완료)</div>', 
+        f'<div class="updated-time">최근 업데이트: {now_kst} (KST 기준 업데이트 완료)</div>', 
         content
     )
     with open(html_file, "w", encoding="utf-8") as f: f.write(updated_content)
