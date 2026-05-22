@@ -64,12 +64,12 @@ def fetch_news(company_name, existing_html):
     url_kr = url_kr.replace(" ", "%20")
     feed_kr = feedparser.parse(url_kr)
     
-    # 💡 완벽한 '오늘 기준 30일' 컷오프 날짜 계산 (초 단위)
     cutoff_date = datetime.now(timezone.utc) - timedelta(days=30)
-    
     new_articles = []
+    
     if getattr(feed_kr, 'entries', None):
-        for entry in feed_kr.entries[:5]: 
+        # 💡 최대 10개까지 가져와서 AI에게 검사를 맡깁니다.
+        for entry in feed_kr.entries[:10]: 
             link = str(getattr(entry, 'link', '#'))
             pub_str = str(getattr(entry, 'published', ''))
             
@@ -82,10 +82,9 @@ def fetch_news(company_name, existing_html):
                     if pub_date < cutoff_date:
                         continue 
                     
-                    # 💡 추가된 마법의 코드: GMT 날짜를 한국 시간(+9)으로 바꾸고 예쁘게 깎아줍니다.
+                    # 💡 YYYY-MM-DD HH:MM 포맷으로 깔끔하게 정리 (한국 시간)
                     kst_date = pub_date + timedelta(hours=9)
                     pub_str = kst_date.strftime("%Y-%m-%d %H:%M")
-                    
             except:
                 pub_timestamp = 0
                 
@@ -93,20 +92,47 @@ def fetch_news(company_name, existing_html):
                 new_articles.append({
                     "title": str(getattr(entry, 'title', '제목 없음')), 
                     "link": link,
-                    "published": pub_str,  # 이제 예쁘게 다듬어진 날짜가 들어갑니다!
+                    "published": pub_str,
                     "timestamp": int(pub_timestamp)
                 })
     return new_articles
 
+def is_duplicate_news(new_title, existing_titles):
+    """💡 AI를 활용해 기존 기사들과 의미가 완전히 같은지(도배성인지) 판별하는 함수"""
+    if not existing_titles:
+        return False
+    if not GEMINI_API_KEY or GEMINI_API_KEY == "YOUR_API_KEY":
+        return False
+    
+    prompt = f"""다음은 오늘 수집된 반도체 기사 제목들입니다:
+{existing_titles}
+
+새로운 기사 제목: '{new_title}'
+
+새로운 기사가 위 수집된 기사들 중 하나와 '완전히 동일한 핵심 사건(보도자료 복붙, 똑같은 실적발표 등)'을 다루고 있습니까? 
+맞다면 'YES', 다른 사건이거나 새로운 정보가 있다면 'NO'라고만 대답하세요."""
+    
+    url = f"https://generativelanguage.googleapis.com/v1beta/models/gemini-2.5-flash:generateContent?key={GEMINI_API_KEY}"
+    payload = {"contents": [{"parts": [{"text": prompt}]}]}
+    headers = {'Content-Type': 'application/json'}
+    try:
+        res = requests.post(url, json=payload, headers=headers).json()
+        answer = res['candidates'][0]['content']['parts'][0]['text'].strip().upper()
+        return "YES" in answer
+    except:
+        return False
+
 def summarize_news(title):
     if not GEMINI_API_KEY or GEMINI_API_KEY == "YOUR_API_KEY": 
-        return "AI 설정 없음"
+        return "AI 설정 확인 필요"
     url = f"https://generativelanguage.googleapis.com/v1beta/models/gemini-2.5-flash:generateContent?key={GEMINI_API_KEY}"
     payload = {"contents": [{"parts": [{"text": f"반도체 분석가로서 다음 뉴스를 핵심만 3줄 이내로 요약해 줘. 제목: {title}"}]}]}
     headers = {'Content-Type': 'application/json'}
     try:
         res = requests.post(url, json=payload, headers=headers).json()
-        return res['candidates'][0]['content']['parts'][0]['text'].strip() if 'candidates' in res else "대기 중"
+        if 'candidates' in res:
+            return res['candidates'][0]['content']['parts'][0]['text'].strip()
+        return "요약 대기 중"
     except: 
         return "시스템 오류"
 
@@ -117,7 +143,6 @@ def insert_into_global_feed(article_html):
     with open(html_file, "r", encoding="utf-8") as f: 
         content = f.read()
         
-    # 💡 글로벌 피드 박스(<div id="global-news-feed">) 바로 아래에 새 기사를 끼워 넣습니다.
     insert_pattern = re.compile(r'(<div id="global-news-feed">)', re.IGNORECASE)
     if insert_pattern.search(content):
         content = insert_pattern.sub(r'\1\n' + article_html, content, count=1)
@@ -126,7 +151,7 @@ def insert_into_global_feed(article_html):
         f.write(content)
 
 if __name__ == "__main__":
-    print("🚀 [PRO MODE V2: 타임라인 & 30일 철통 방어] 크롤링 시작...")
+    print("🚀 [Pro V3] AI 중복 필터 장착 크롤링 시작...")
     
     html_file = "index.html"
     existing_html = open(html_file, "r", encoding="utf-8").read() if os.path.exists(html_file) else ""
@@ -135,13 +160,23 @@ if __name__ == "__main__":
         articles = fetch_news(comp['name'], existing_html)
         
         if articles:
-            print(f"📦 [{comp['name']}] 최신 한달치 기사 {len(articles)}개 발굴!")
+            print(f"📦 [{comp['name']}] 검토 대기 기사 {len(articles)}개 발견!")
+            collected_titles = [] # 💡 이번 턴에 수집한 기사 제목들을 기억하는 메모장
+            
             for news in articles:
-                summary = summarize_news(news['title'])
+                # 💡 핵심: AI에게 기사 제목들을 보여주고 중복인지 묻습니다!
+                if is_duplicate_news(news['title'], collected_titles):
+                    print(f"   🚫 [중복 차단] {news['title']}")
+                    existing_html += news['link'] # 다음 턴에서도 무시하기 위해 링크만 기록
+                    time.sleep(2) # 짧은 휴식
+                    continue
                 
-                # 💡 회사별 분류가 아닌 '시간 데이터(timestamp)'와 '회사 태그(data-id)'를 품은 타임라인 블록 생성
+                print(f"   ✅ [요약 진행] {news['title']}")
+                summary = summarize_news(news['title'])
+                collected_titles.append(news['title']) # 수집된 기사 제목을 메모장에 추가
+                
                 article_html = (
-                    f'        <div class="article-item" data-id="{comp["id"]}" data-timestamp="{news["timestamp"]}">\n'
+                    f'        <div class="article-item" data-id="{comp["name"]}" data-timestamp="{news["timestamp"]}">\n'
                     f'            <span class="company-badge">{comp["name"]}</span>\n'
                     f'            <p class="news-date">🕒 {news["published"]}</p>\n'
                     f'            <h4 class="news-title">📰 {news["title"]}</h4>\n'
@@ -154,7 +189,7 @@ if __name__ == "__main__":
                 existing_html += news['link']
                 time.sleep(5) 
         else:
-            print(f"💨 [{comp['name']}] 30일 이내 새 기사 없음 (Skip)")
+            print(f"💨 [{comp['name']}] 새로 수집할 기사 없음 (Skip)")
             
     now_kst = (datetime.utcnow() + timedelta(hours=9)).strftime("%Y-%m-%d %H:%M")
     
@@ -163,7 +198,7 @@ if __name__ == "__main__":
         
     updated_content = re.sub(
         r'<div class="updated-time">.*?</div>', 
-        f'<div class="updated-time">최근 업데이트: {now_kst} (시간순 타임라인 반영 완료)</div>', 
+        f'<div class="updated-time">최근 업데이트: {now_kst} (KST 기준 업데이트 완료)</div>', 
         content
     )
     
