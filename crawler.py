@@ -59,7 +59,6 @@ COMPANIES = [
     {"id": "samsung", "name": "Samsung Foundry"}, {"id": "tsmc", "name": "TSMC"}
 ]
 
-# ... (위쪽 import 모듈들과 COMPANIES 리스트 부분은 그대로 유지하세요) ...
 
 def fetch_news(company_name, existing_html):
     # 💡 [검색어 봉인 해제] 반도체, 칩 이런 거 다 빼고 '오직 기업명'으로만 싹쓸이 검색!
