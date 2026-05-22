@@ -3,7 +3,8 @@ import requests
 import os
 import re
 import time
-from datetime import datetime, timedelta
+from datetime import datetime, timedelta, timezone
+import email.utils
 
 GEMINI_API_KEY = os.environ.get("GEMINI_API_KEY", "YOUR_API_KEY")
 
@@ -63,67 +64,66 @@ def fetch_news(company_name, existing_html):
     url_kr = url_kr.replace(" ", "%20")
     feed_kr = feedparser.parse(url_kr)
     
+    # 💡 완벽한 '오늘 기준 30일' 컷오프 날짜 계산 (초 단위)
+    cutoff_date = datetime.now(timezone.utc) - timedelta(days=30)
+    
     new_articles = []
     if getattr(feed_kr, 'entries', None):
         for entry in feed_kr.entries[:5]: 
             link = str(getattr(entry, 'link', '#'))
+            pub_str = str(getattr(entry, 'published', ''))
+            
+            # 💡 구글의 발행일을 파이썬이 이해할 수 있는 날짜 데이터로 변환
+            try:
+                pub_tuple = email.utils.parsedate_tz(pub_str)
+                if pub_tuple:
+                    pub_timestamp = email.utils.mktime_tz(pub_tuple)
+                    pub_date = datetime.fromtimestamp(pub_timestamp, timezone.utc)
+                    
+                    # 🔥 여기서 30일이 지난 아주 오래된 기사들은 가차 없이 버립니다!
+                    if pub_date < cutoff_date:
+                        continue 
+            except:
+                pub_timestamp = 0 # 날짜 파싱 실패 시 최하단으로 내림
+                
             if link not in existing_html:
                 new_articles.append({
                     "title": str(getattr(entry, 'title', '제목 없음')), 
                     "link": link,
-                    "published": str(getattr(entry, 'published', '날짜 정보 없음'))
+                    "published": pub_str,
+                    "timestamp": int(pub_timestamp) # JS 정렬용 유닉스 타임
                 })
     return new_articles
 
 def summarize_news(title):
     if not GEMINI_API_KEY or GEMINI_API_KEY == "YOUR_API_KEY": 
-        return "Gemini API 키가 설정되지 않았습니다."
-    
+        return "AI 설정 없음"
     url = f"https://generativelanguage.googleapis.com/v1beta/models/gemini-2.5-flash:generateContent?key={GEMINI_API_KEY}"
-    payload = {"contents": [{"parts": [{"text": f"반도체 시장 분석가로서 다음 뉴스를 핵심만 3줄 이내로 요약해 줘. 제목: {title}"}]}]}
+    payload = {"contents": [{"parts": [{"text": f"반도체 분석가로서 다음 뉴스를 핵심만 3줄 이내로 요약해 줘. 제목: {title}"}]}]}
     headers = {'Content-Type': 'application/json'}
-    
     try:
         res = requests.post(url, json=payload, headers=headers).json()
-        if 'candidates' in res:
-            return res['candidates'][0]['content']['parts'][0]['text'].strip()
-        else:
-            return "⚠️ AI 응답 대기 중"
+        return res['candidates'][0]['content']['parts'][0]['text'].strip() if 'candidates' in res else "대기 중"
     except: 
-        return "⚠️ 요약 진행 중 시스템 오류"
+        return "시스템 오류"
 
-def update_individual_card(comp_id, comp_name, article_html):
+def insert_into_global_feed(article_html):
     html_file = "index.html"
     if not os.path.exists(html_file): return
     
     with open(html_file, "r", encoding="utf-8") as f: 
         content = f.read()
         
-    card_marker = f'<div id="co-{comp_id}" class="news-card">'
-    
-    if card_marker in content:
-        # 💡 개선: 공백이나 줄바꿈에 구애받지 않고 안전하게 <h3> 태그 아래를 찾아 삽입합니다.
-        h3_pattern = re.compile(rf'(<div id="co-{comp_id}" class="news-card">\s*<h3[^>]*>.*?</h3>)', re.IGNORECASE | re.DOTALL)
-        content = h3_pattern.sub(r'\1\n' + article_html, content, count=1)
-    else:
-        new_card = (
-            f'{card_marker}\n'
-            f'    <h3 style="color: #1e293b; margin-top:0; font-size: 1.1rem; margin-bottom: 15px;">{comp_name}</h3>\n'
-            f'{article_html}'
-            f'</div>\n'
-        )
-        # 💡 개선: 이전처럼 하드코딩된 문자열을 찾지 않고, </div> 태그 두 개와 <script> 사이를 정규식으로 유연하게 찾습니다.
-        insert_pattern = re.compile(r'(</div>\s*</div>\s*<script>)', re.IGNORECASE)
-        if insert_pattern.search(content):
-            content = insert_pattern.sub(new_card + r'\n\1', content, count=1)
-        else:
-            content += new_card # 최악의 경우에도 데이터가 유실되지 않도록 맨 끝에라도 붙임
+    # 💡 글로벌 피드 박스(<div id="global-news-feed">) 바로 아래에 새 기사를 끼워 넣습니다.
+    insert_pattern = re.compile(r'(<div id="global-news-feed">)', re.IGNORECASE)
+    if insert_pattern.search(content):
+        content = insert_pattern.sub(r'\1\n' + article_html, content, count=1)
             
     with open(html_file, "w", encoding="utf-8") as f: 
         f.write(content)
 
 if __name__ == "__main__":
-    print("🚀 [PRO MODE] 글로벌 반도체 크롤러 풀가동 시작...")
+    print("🚀 [PRO MODE V2: 타임라인 & 30일 철통 방어] 크롤링 시작...")
     
     html_file = "index.html"
     existing_html = open(html_file, "r", encoding="utf-8").read() if os.path.exists(html_file) else ""
@@ -132,38 +132,39 @@ if __name__ == "__main__":
         articles = fetch_news(comp['name'], existing_html)
         
         if articles:
-            print(f"📦 [{comp['name']}] 신규 기사 {len(articles)}개 발견!")
+            print(f"📦 [{comp['name']}] 최신 한달치 기사 {len(articles)}개 발굴!")
             for news in articles:
                 summary = summarize_news(news['title'])
                 
+                # 💡 회사별 분류가 아닌 '시간 데이터(timestamp)'와 '회사 태그(data-id)'를 품은 타임라인 블록 생성
                 article_html = (
-                    f'    <div class="article-item" style="margin-bottom: 15px; padding-bottom: 15px; border-bottom: 1px dashed #cbd5e1;">\n'
-                    f'        <p style="font-size: 0.8rem; color: #64748b; margin-top: 0; margin-bottom: 8px;">🕒 발행일: {news["published"]}</p>\n'
-                    f'        <p style="margin-top: 0; margin-bottom: 8px;"><strong>📰 기사 제목:</strong> {news["title"]}</p>\n'
-                    f'        <p style="margin-top: 0; margin-bottom: 8px;"><strong>✨ AI 요약:</strong> {summary}</p>\n'
-                    f'        <a href="{news["link"]}" target="_blank" style="color: #3b82f6; text-decoration: none; font-weight: bold; font-size: 0.9rem;">[ 📄 원문 기사 보기 ]</a>\n'
-                    f'    </div>\n'
+                    f'        <div class="article-item" data-id="{comp["id"]}" data-timestamp="{news["timestamp"]}">\n'
+                    f'            <span class="company-badge">{comp["name"]}</span>\n'
+                    f'            <p class="news-date">🕒 {news["published"]}</p>\n'
+                    f'            <h4 class="news-title">📰 {news["title"]}</h4>\n'
+                    f'            <p class="news-summary">✨ {summary}</p>\n'
+                    f'            <a href="{news["link"]}" target="_blank" class="news-link">[ 📄 원문 기사 보기 ]</a>\n'
+                    f'        </div>\n'
                 )
                 
-                update_individual_card(comp['id'], comp['name'], article_html)
+                insert_into_global_feed(article_html)
                 existing_html += news['link']
                 time.sleep(5) 
         else:
-            print(f"💨 [{comp['name']}] 새로 수집된 기사 없음 (Skip)")
+            print(f"💨 [{comp['name']}] 30일 이내 새 기사 없음 (Skip)")
             
     now_kst = (datetime.utcnow() + timedelta(hours=9)).strftime("%Y-%m-%d %H:%M")
     
-    if os.path.exists(html_file):
-        with open(html_file, "r", encoding="utf-8") as f:
-            content = f.read()
-            
-        updated_content = re.sub(
-            r'<div class="updated-time">.*?</div>', 
-            f'<div class="updated-time">최근 업데이트: {now_kst} (KST 기준 자동 갱신 완료)</div>', 
-            content
-        )
+    with open(html_file, "r", encoding="utf-8") as f:
+        content = f.read()
         
-        with open(html_file, "w", encoding="utf-8") as f:
-            f.write(updated_content)
-            
-    print("✨ 전체 크롤링 및 웹페이지 업데이트가 완벽하게 종료되었습니다!")
+    updated_content = re.sub(
+        r'<div class="updated-time">.*?</div>', 
+        f'<div class="updated-time">최근 업데이트: {now_kst} (시간순 타임라인 반영 완료)</div>', 
+        content
+    )
+    
+    with open(html_file, "w", encoding="utf-8") as f:
+        f.write(updated_content)
+        
+    print("✨ 글로벌 타임라인 대시보드 업데이트 완료!")
