@@ -73,25 +73,28 @@ def fetch_news(company_name, existing_html):
             link = str(getattr(entry, 'link', '#'))
             pub_str = str(getattr(entry, 'published', ''))
             
-            # 💡 구글의 발행일을 파이썬이 이해할 수 있는 날짜 데이터로 변환
             try:
                 pub_tuple = email.utils.parsedate_tz(pub_str)
                 if pub_tuple:
                     pub_timestamp = email.utils.mktime_tz(pub_tuple)
                     pub_date = datetime.fromtimestamp(pub_timestamp, timezone.utc)
                     
-                    # 🔥 여기서 30일이 지난 아주 오래된 기사들은 가차 없이 버립니다!
                     if pub_date < cutoff_date:
                         continue 
+                    
+                    # 💡 추가된 마법의 코드: GMT 날짜를 한국 시간(+9)으로 바꾸고 예쁘게 깎아줍니다.
+                    kst_date = pub_date + timedelta(hours=9)
+                    pub_str = kst_date.strftime("%Y-%m-%d %H:%M")
+                    
             except:
-                pub_timestamp = 0 # 날짜 파싱 실패 시 최하단으로 내림
+                pub_timestamp = 0
                 
             if link not in existing_html:
                 new_articles.append({
                     "title": str(getattr(entry, 'title', '제목 없음')), 
                     "link": link,
-                    "published": pub_str,
-                    "timestamp": int(pub_timestamp) # JS 정렬용 유닉스 타임
+                    "published": pub_str,  # 이제 예쁘게 다듬어진 날짜가 들어갑니다!
+                    "timestamp": int(pub_timestamp)
                 })
     return new_articles
 
