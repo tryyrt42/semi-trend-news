@@ -59,17 +59,22 @@ COMPANIES = [
     {"id": "samsung", "name": "Samsung Foundry"}, {"id": "tsmc", "name": "TSMC"}
 ]
 
+# ... (위쪽 import 모듈들과 COMPANIES 리스트 부분은 그대로 유지하세요) ...
+
 def fetch_news(company_name, existing_html):
-    url_kr = "https://news.google.com/rss/search?q=\"" + str(company_name) + "\"+(반도체+OR+칩+OR+프로세서)+when:1m&hl=ko&gl=KR&ceid=KR:ko"
-    url_kr = url_kr.replace(" ", "%20")
+    # 💡 [검색어 봉인 해제] 반도체, 칩 이런 거 다 빼고 '오직 기업명'으로만 싹쓸이 검색!
+    search_query = f"{company_name} when:30d"
+    encoded_query = urllib.parse.quote(search_query)
+    
+    url_kr = f"https://news.google.com/rss/search?q={encoded_query}&hl=ko&gl=KR&ceid=KR:ko"
     feed_kr = feedparser.parse(url_kr)
     
     cutoff_date = datetime.now(timezone.utc) - timedelta(days=30)
     new_articles = []
     
     if getattr(feed_kr, 'entries', None):
-        # 💡 최대 10개까지 가져와서 AI에게 검사를 맡깁니다.
-        for entry in feed_kr.entries[:10]: 
+        # 💡 무식하게 다 긁어오므로 가져오는 양을 15개로 넉넉하게 늘림
+        for entry in feed_kr.entries[:15]: 
             link = str(getattr(entry, 'link', '#'))
             pub_str = str(getattr(entry, 'published', ''))
             
@@ -82,7 +87,6 @@ def fetch_news(company_name, existing_html):
                     if pub_date < cutoff_date:
                         continue 
                     
-                    # 💡 YYYY-MM-DD HH:MM 포맷으로 깔끔하게 정리 (한국 시간)
                     kst_date = pub_date + timedelta(hours=9)
                     pub_str = kst_date.strftime("%Y-%m-%d %H:%M")
             except:
@@ -97,20 +101,25 @@ def fetch_news(company_name, existing_html):
                 })
     return new_articles
 
-def is_duplicate_news(new_title, existing_titles):
-    """💡 AI를 활용해 기존 기사들과 의미가 완전히 같은지(도배성인지) 판별하는 함수"""
-    if not existing_titles:
-        return False
+def ai_super_filter(company_name, new_title, existing_titles):
+    """💡 [초강화] 반도체 관련성 검사와 도배성 중복 검사를 동시에 수행하는 철통 필터"""
     if not GEMINI_API_KEY or GEMINI_API_KEY == "YOUR_API_KEY":
-        return False
+        return "PASS" # 키가 없으면 일단 통과시킴
     
-    prompt = f"""다음은 오늘 수집된 반도체 기사 제목들입니다:
-{existing_titles}
+    prompt = f"""당신은 깐깐한 반도체 산업 분석가입니다.
+검색 대상 기업: {company_name}
+새로 들어온 기사 제목: '{new_title}'
+최근 수집 완료된 기사 제목들: {existing_titles}
 
-새로운 기사 제목: '{new_title}'
+이 기사에 대해 다음 두 가지를 엄격하게 판별하세요:
+1. 관련성: 이 기사가 반도체(Semiconductor), 칩 설계, 파운드리, AI 하드웨어, 데이터센터 인프라 등 '반도체 생태계'와 명확히 관련이 있습니까? (단순한 기업 주가 등락, 스마트폰/자동차 같은 일반 소비재 출시, 관계없는 가십 등은 무조건 관련 없음으로 간주하세요).
+2. 중복성: 이 기사가 '수집 완료된 기사 제목들' 중 하나와 완전히 동일한 사건을 다루는 복붙/도배성 기사입니까?
 
-새로운 기사가 위 수집된 기사들 중 하나와 '완전히 동일한 핵심 사건(보도자료 복붙, 똑같은 실적발표 등)'을 다루고 있습니까? 
-맞다면 'YES', 다른 사건이거나 새로운 정보가 있다면 'NO'라고만 대답하세요."""
+출력 규칙 (반드시 아래 3가지 영단어 중 하나만 출력하세요):
+- 반도체 생태계와 관련이 없다면: REJECT_IRRELEVANT
+- 반도체와 관련은 있지만, 기존 기사와 겹치는 도배성 기사라면: REJECT_DUPLICATE
+- 반도체 관련 기사가 맞고, 완전히 새롭고 중요한 소식이라면: PASS
+"""
     
     url = f"https://generativelanguage.googleapis.com/v1beta/models/gemini-2.5-flash:generateContent?key={GEMINI_API_KEY}"
     payload = {"contents": [{"parts": [{"text": prompt}]}]}
@@ -118,9 +127,12 @@ def is_duplicate_news(new_title, existing_titles):
     try:
         res = requests.post(url, json=payload, headers=headers).json()
         answer = res['candidates'][0]['content']['parts'][0]['text'].strip().upper()
-        return "YES" in answer
+        
+        if "REJECT_IRRELEVANT" in answer: return "IRRELEVANT"
+        if "REJECT_DUPLICATE" in answer: return "DUPLICATE"
+        return "PASS"
     except:
-        return False
+        return "PASS" # 에러 시 안전하게 통과
 
 def summarize_news(title):
     if not GEMINI_API_KEY or GEMINI_API_KEY == "YOUR_API_KEY": 
@@ -139,19 +151,14 @@ def summarize_news(title):
 def insert_into_global_feed(article_html):
     html_file = "index.html"
     if not os.path.exists(html_file): return
-    
-    with open(html_file, "r", encoding="utf-8") as f: 
-        content = f.read()
-        
+    with open(html_file, "r", encoding="utf-8") as f: content = f.read()
     insert_pattern = re.compile(r'(<div id="global-news-feed">)', re.IGNORECASE)
     if insert_pattern.search(content):
         content = insert_pattern.sub(r'\1\n' + article_html, content, count=1)
-            
-    with open(html_file, "w", encoding="utf-8") as f: 
-        f.write(content)
+    with open(html_file, "w", encoding="utf-8") as f: f.write(content)
 
 if __name__ == "__main__":
-    print("🚀 [Pro V3] AI 중복 필터 장착 크롤링 시작...")
+    print("🚀 [Pro V4] 키워드 제한 해제 & AI 초강력 검열 크롤링 시작...")
     
     html_file = "index.html"
     existing_html = open(html_file, "r", encoding="utf-8").read() if os.path.exists(html_file) else ""
@@ -160,20 +167,27 @@ if __name__ == "__main__":
         articles = fetch_news(comp['name'], existing_html)
         
         if articles:
-            print(f"📦 [{comp['name']}] 검토 대기 기사 {len(articles)}개 발견!")
-            collected_titles = [] # 💡 이번 턴에 수집한 기사 제목들을 기억하는 메모장
+            print(f"📦 [{comp['name']}] 무제한 검색 기사 {len(articles)}개 포착! (AI 검열 중...)")
+            collected_titles = [] 
             
             for news in articles:
-                # 💡 핵심: AI에게 기사 제목들을 보여주고 중복인지 묻습니다!
-                if is_duplicate_news(news['title'], collected_titles):
-                    print(f"   🚫 [중복 차단] {news['title']}")
-                    existing_html += news['link'] # 다음 턴에서도 무시하기 위해 링크만 기록
-                    time.sleep(2) # 짧은 휴식
+                # 💡 초강력 AI 필터가 잡스러운 기사와 중복을 동시에 걸러냅니다.
+                filter_status = ai_super_filter(comp['name'], news['title'], collected_titles)
+                
+                if filter_status == "IRRELEVANT":
+                    print(f"   🗑️ [잡음 삭제] 반도체 무관 기사: {news['title']}")
+                    existing_html += news['link'] 
+                    time.sleep(1)
+                    continue
+                elif filter_status == "DUPLICATE":
+                    print(f"   🚫 [중복 차단] 도배성 기사: {news['title']}")
+                    existing_html += news['link']
+                    time.sleep(1)
                     continue
                 
-                print(f"   ✅ [요약 진행] {news['title']}")
+                print(f"   ✅ [검열 통과/요약 진행] {news['title']}")
                 summary = summarize_news(news['title'])
-                collected_titles.append(news['title']) # 수집된 기사 제목을 메모장에 추가
+                collected_titles.append(news['title']) 
                 
                 article_html = (
                     f'        <div class="article-item" data-id="{comp["name"]}" data-timestamp="{news["timestamp"]}">\n'
@@ -189,20 +203,15 @@ if __name__ == "__main__":
                 existing_html += news['link']
                 time.sleep(5) 
         else:
-            print(f"💨 [{comp['name']}] 새로 수집할 기사 없음 (Skip)")
+            print(f"💨 [{comp['name']}] 수집할 새 기사 없음 (Skip)")
             
     now_kst = (datetime.utcnow() + timedelta(hours=9)).strftime("%Y-%m-%d %H:%M")
-    
-    with open(html_file, "r", encoding="utf-8") as f:
-        content = f.read()
-        
+    with open(html_file, "r", encoding="utf-8") as f: content = f.read()
     updated_content = re.sub(
         r'<div class="updated-time">.*?</div>', 
         f'<div class="updated-time">최근 업데이트: {now_kst} (KST 기준 업데이트 완료)</div>', 
         content
     )
-    
-    with open(html_file, "w", encoding="utf-8") as f:
-        f.write(updated_content)
+    with open(html_file, "w", encoding="utf-8") as f: f.write(updated_content)
         
-    print("✨ 글로벌 타임라인 대시보드 업데이트 완료!")
+    print("✨ 초대형 투망 & AI 정밀 필터링 완료!")
