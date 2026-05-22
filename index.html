@@ -5,129 +5,146 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>글로벌 반도체 트렌드 대시보드 (Pro)</title>
     <style>
-        body { font-family: 'Pretendard', sans-serif; background-color: #f8fafc; color: #0f172a; margin: 0; padding: 20px; }
-        .header { text-align: center; margin-bottom: 20px; }
+        body { font-family: 'Pretendard', -apple-system, sans-serif; background-color: #f8fafc; color: #0f172a; margin: 0; padding: 20px; }
+        
+        /* 🔒 잠금 화면 스타일 */
+        #login-screen { position: fixed; top: 0; left: 0; width: 100%; height: 100%; background: #f8fafc; display: flex; flex-direction: column; justify-content: center; align-items: center; z-index: 9999; }
+        .login-box { background: white; padding: 40px; border-radius: 12px; box-shadow: 0 10px 15px -3px rgb(0 0 0 / 0.1); text-align: center; }
+        .login-box input { padding: 12px; margin-top: 15px; border: 1px solid #cbd5e1; border-radius: 6px; width: 200px; font-size: 1rem; text-align: center; }
+        .login-box button { padding: 12px 24px; margin-top: 15px; background: #3b82f6; color: white; border: none; border-radius: 6px; font-weight: bold; cursor: pointer; transition: 0.2s; }
+        .login-box button:hover { background: #2563eb; }
+
+        /* 대시보드 본문 */
+        #dashboard-screen { display: none; }
+        .header { text-align: center; margin-bottom: 25px; }
         .updated-time { font-size: 0.9rem; color: #64748b; margin-bottom: 20px; text-align: center; }
         
         /* 기업 필터 버튼 영역 */
         .filter-container { display: flex; flex-wrap: wrap; gap: 8px; justify-content: center; margin-bottom: 30px; background: white; padding: 15px; border-radius: 12px; box-shadow: 0 4px 6px -1px rgb(0 0 0 / 0.1); }
-        .filter-btn { padding: 8px 14px; border: 1px solid #cbd5e1; background: white; border-radius: 20px; font-size: 0.85rem; cursor: pointer; transition: all 0.2s; color: #475569; }
+        .filter-btn { padding: 8px 14px; border: 1px solid #cbd5e1; background: white; border-radius: 20px; font-size: 0.85rem; cursor: pointer; transition: all 0.2s; color: #475569; white-space: nowrap; }
         .filter-btn:hover { background: #f1f5f9; }
         .filter-btn.active { background: #3b82f6; color: white; border-color: #3b82f6; font-weight: bold; }
         
         /* 뉴스 타임라인 영역 */
-        #global-news-feed { max-width: 800px; margin: 0 auto; background: white; padding: 20px; border-radius: 12px; box-shadow: 0 4px 6px -1px rgb(0 0 0 / 0.1); }
-        .article-item { border-left: 4px solid #3b82f6; padding-left: 15px; margin-bottom: 25px; transition: opacity 0.3s ease; }
-        .company-badge { display: inline-block; background: #1e293b; color: white; padding: 3px 8px; border-radius: 4px; font-size: 0.75rem; font-weight: bold; margin-bottom: 8px; }
+        #global-news-feed { max-width: 800px; margin: 0 auto; background: white; padding: 20px; border-radius: 12px; box-shadow: 0 4px 6px -1px rgb(0 0 0 / 0.1); min-height: 200px; }
+        .article-item { border-left: 4px solid #3b82f6; padding-left: 15px; margin-bottom: 25px; }
+        .company-badge { display: inline-block; background: #1e293b; color: white; padding: 4px 10px; border-radius: 6px; font-size: 0.8rem; font-weight: bold; margin-bottom: 8px; }
         .news-date { font-size: 0.8rem; color: #64748b; margin: 0 0 8px 0; }
-        .news-title { margin: 0 0 8px 0; font-size: 1.1rem; color: #0f172a; }
-        .news-summary { margin: 0 0 10px 0; font-size: 0.95rem; line-height: 1.5; color: #334155; }
+        .news-title { margin: 0 0 8px 0; font-size: 1.1rem; color: #0f172a; line-height: 1.4; }
+        .news-summary { margin: 0 0 10px 0; font-size: 0.95rem; line-height: 1.6; color: #334155; }
         .news-link { color: #3b82f6; text-decoration: none; font-size: 0.85rem; font-weight: bold; }
+        
+        /* 검색 결과 없음 메시지 */
+        .no-news-msg { text-align: center; color: #64748b; font-size: 1rem; padding: 40px 0; display: none; }
+
+        @media (max-width: 768px) {
+            body { padding: 10px; }
+            .filter-container { padding: 10px; gap: 6px; }
+            .filter-btn { font-size: 0.75rem; padding: 6px 10px; }
+            #global-news-feed { padding: 15px; }
+            .news-title { font-size: 1rem; }
+        }
     </style>
 </head>
 <body>
 
-    <div class="header">
-        <h1>🌐 글로벌 반도체 최신 동향</h1>
-        <div class="updated-time">최근 업데이트: 2026-05-22 11:45 (시간순 타임라인 반영 완료)</div>
+    <div id="login-screen">
+        <div class="login-box">
+            <h2 style="margin-top: 0; color: #1e293b;">🔒 관리자 인증</h2>
+            <p style="color: #64748b; font-size: 0.9rem; margin-bottom: 20px;">비밀번호를 입력해야 접속할 수 있습니다.</p>
+            <input type="password" id="pw-input" placeholder="비밀번호 입력" onkeypress="if(event.keyCode==13) checkPassword()">
+            <br>
+            <button onclick="checkPassword()">대시보드 입장</button>
+        </div>
     </div>
 
-    <div class="filter-container" id="filter-buttons">
-        <button class="filter-btn active" onclick="filterNews('all')">전체 타임라인 보기</button>
+    <div id="dashboard-screen">
+        <div class="header">
+            <h1 style="margin-bottom: 5px;">🌐 글로벌 반도체 최신 동향</h1>
+            <div class="updated-time">최근 업데이트: 파이썬 로봇 수집 대기 중...</div>
+        </div>
+
+        <div class="filter-container" id="filter-buttons">
+            <button class="filter-btn active" onclick="filterNews('all')">전체 타임라인 보기</button>
+        </div>
+
+        <div id="global-news-feed">
+            <div id="no-news" class="no-news-msg">해당 기업의 30일 이내 최신 기사가 아직 수집되지 않았습니다.</div>
+        </div>
     </div>
-
-    <div id="global-news-feed">
-        <div class="article-item" data-id="tsmc" data-timestamp="1778050800">
-            <span class="company-badge">TSMC</span>
-            <p class="news-date">🕒 Wed, 06 May 2026 07:00:00 GMT</p>
-            <h4 class="news-title">📰 [사설] TSMC, 23조 반도체 투자 재개…삼성전자는 ‘파업 리스크’ - 서울경제</h4>
-            <p class="news-summary">✨ TSMC가 23조 원 규모의 반도체 투자를 재개하며 공격적인 시장 확대를 꾀하고 있습니다.
-반면 삼성전자는 파업 리스크에 직면, 내부 불안정성으로 사업 추진에 제동이 걸릴 우려가 있습니다.
-이는 글로벌 반도체 경쟁 심화 속 양사의 상이한 대처 및 경쟁력 격차를 시사합니다.</p>
-            <a href="https://news.google.com/rss/articles/CBMiUkFVX3lxTE13YnZ5OHVGeG1ZM2hNLTc0LW9ndExUYnVpbWZWTFVod3ZCN0VreTlmVnFTNldWTWFvX2ZTRmwzMTl5Yl9qdkFjZE1ZMUVHcFRhZ3fSAVNBVV95cUxPaEJVUHVhdXZGWHJ5TnE0VVhYWW1HcXhuajctcE1HN2ZKWWpLak5UOXBYdEdGcjdpcGZLLTQ5OG0yZDhvb2MwUnZnYjFQWHpaMzExNA?oc=5" target="_blank" class="news-link">[ 📄 원문 기사 보기 ]</a>
-        </div>
-
-        <div class="article-item" data-id="에이직랜드" data-timestamp="1778821304">
-            <span class="company-badge">에이직랜드</span>
-            <p class="news-date">🕒 Fri, 15 May 2026 05:01:44 GMT</p>
-            <h4 class="news-title">📰 에이직랜드, 1분기 영업손실 29억…매출은 전년 대비 3배 급증 - 아이뉴스24</h4>
-            <p class="news-summary">✨ 에이직랜드는 1분기 매출이 전년 대비 3배 급증하며 ASIC 디자인 솔루션에 대한 강력한 시장 수요를 입증했습니다. 다만, 대규모 프로젝트의 초기 개발 비용 및 NRE(Non-Recurring Engineering) 투자 증가로 29억 원의 영업손실을 기록했습니다. 이는 성장세 유지를 위한 선제적 투자가 수익성에 일시적으로 부담을 준 것으로 분석됩니다.</p>
-            <a href="https://news.google.com/rss/articles/CBMiTEFVX3lxTFB0VlpzSENOT0V6U2JWamhUeFltbUV4NjROZ2ZjSVgwb2VfVTl1b053RHpsaEkzUVRVaHVac1JwOFVkb3VrZnhIZTBSZHo?oc=5" target="_blank" class="news-link">[ 📄 원문 기사 보기 ]</a>
-        </div>
-
-        <div class="article-item" data-id="에이직랜드" data-timestamp="1778821320">
-            <span class="company-badge">에이직랜드</span>
-            <p class="news-date">🕒 Fri, 15 May 2026 05:02:00 GMT</p>
-            <h4 class="news-title">📰 에이직랜드, 1분기 영업손실 29억…매출은 전년 대비 3배 급증 - 네이트</h4>
-            <p class="news-summary">✨ 에이직랜드는 1분기 매출이 전년 대비 3배 급증하며 커스텀 칩(ASIC) 설계 서비스 시장의 강한 성장세를 입증했습니다.
-
-그러나 동시에 29억 원의 영업손실을 기록하여 매출 확대에도 불구하고 수익성 확보가 시급한 과제로 부상했습니다.
-
-이는 성장과 수익성 간의 균형점 마련이 향후 기업 가치 평가의 핵심 요소임을 시사합니다.</p>
-            <a href="https://news.google.com/rss/articles/CBMieEFVX3lxTE1yZHk1cXZoWkhPTEp0WWdINERXR1lkVm9GQzFhd0hwc01XUVJiUHFFaXByMEdRRU4yUUE5Mm5TNXB4Z0xFUUdmbnBqZWN4WmNNQndLaXI0WTlQX2ZQYVpKdnFPTGlPVndiNTBTdzBYUlB0SEhaVkVXYQ?oc=5" target="_blank" class="news-link">[ 📄 원문 기사 보기 ]</a>
-        </div>
-
-        <div class="article-item" data-id="에이디테크놀로지" data-timestamp="1777878000">
-            <span class="company-badge">에이디테크놀로지</span>
-            <p class="news-date">🕒 Mon, 04 May 2026 07:00:00 GMT</p>
-            <h4 class="news-title">📰 에이디테크놀로지, 美 기업과 AI DC향 4나노 턴키 계약 체결 - 지디넷코리아</h4>
-            <p class="news-summary">✨ 에이디테크놀로지가 미국 기업과 AI 데이터센터용 4나노(nm) 첨단 반도체 턴키 계약을 체결했습니다.
-
-이는 ADT가 고성능 AI 반도체 설계 및 양산 역량을 4나노 최선단 공정까지 확대했음을 의미합니다.
-
-이번 계약은 고성장 AI 시장에서의 ADT의 기술력과 사업 확장 잠재력을 보여주는 긍정적인 신호로 해석됩니다.</p>
-            <a href="https://news.google.com/rss/articles/CBMiVkFVX3lxTE01TkJEUFdwWEtZN25Uekp5RmRYS0V2bldCdHZsTVhNOFFscG1QdVB1Z2xVMy01OFh0dmNnWDNqSmQ5TlVwMW03QXpCbDZrZ3o2MUlYcjZB?oc=5" target="_blank" class="news-link">[ 📄 원문 기사 보기 ]</a>
-        </div>
-
-        </div>
 
     <script>
-        // 화면 로딩 시 기사들을 시간순(최신순)으로 완벽하게 자동 정렬하는 마법의 스크립트
-        document.addEventListener("DOMContentLoaded", () => {
+        // 💡 80개 기업 마스터 리스트 (항상 노출됨)
+        const ALL_COMPANIES = [
+            "알파칩스", "에이디테크놀로지", "가온칩스", "세미파이브", "코아시아", "에이직랜드", "하나텍", "에이씨피씨", "칩스앤미디어", "글로벌유니칩 (GUC)", "알칩 (Alchip)", "패러데이", "M31 Technology", "CreoChip", "Open-Silicon", "베리실리콘 (VeriSilicon)", "Innosilicon", "손드렐 (Sondrel)", "EnSilica", "eInfochips", 
+            "퓨리오사AI", "리벨리온", "딥엑스", "파두", "망고부스트", "사피온", "모빌린트", "오픈엣지테크", "씨유박스", "에이직원", "GCT Semiconductor", "에이스테크놀로지", "알에프에이치아이씨", "와이솔", "이노칩테크놀로지", "픽셀플러스", "실리콘옵틱스", "에스엘파워일렉트로닉스", "아이즈비전", "보스반도체", "동운아나텍", "실리콘마이터스", "에이디반도체", "MagnaChip반도체", "LX세미콘", "실리콘웍스", "아나패스", "라온텍", "칩원텍", "제주반도체", "텔레칩스", "넥스트칩", "에이비오브", "코아로직", "엠씨넥스", "세코닉스", "넥슨반도체", 
+            "NVIDIA", "AMD", "Qualcomm", "Broadcom", "Marvell", "Lattice", "Cirrus Logic", "Microchip", "MPS", "Skyworks", "Qorvo", "Wolfspeed", "Silicon Labs", "MaxLinear", "Apple", "Google", "Amazon", "Microsoft", "Meta", "Tesla", "OpenAI", "Intel", "MediaTek", "Novatek", "Realtek", "Himax", "Parade Tech", "ITE Tech", "Elan Microelectronics", "Airoha", "Silicon Motion", "NXP", "STMicroelectronics", "Infineon", "Nordic", "u-blox", "Melexis", 
+            "Samsung Foundry", "TSMC"
+        ];
+
+        // 🔒 비밀번호 확인 함수 (1234를 원하시는 번호로 변경하세요)
+        function checkPassword() {
+            const inputPw = document.getElementById("pw-input").value;
+            if (inputPw === "1234") {
+                document.getElementById("login-screen").style.display = "none";
+                document.getElementById("dashboard-screen").style.display = "block";
+                initDashboard();
+            } else {
+                alert("비밀번호가 일치하지 않습니다.");
+            }
+        }
+
+        // 📊 대시보드 초기화
+        function initDashboard() {
+            generateFilterButtons();
+            
             const feed = document.getElementById("global-news-feed");
             const articles = Array.from(feed.querySelectorAll(".article-item"));
             
-            // data-timestamp 값을 기준으로 내림차순(최신 기사가 위로) 정렬
+            // 타임스탬프 기준 최신순 자동 정렬
             articles.sort((a, b) => {
                 return parseInt(b.getAttribute("data-timestamp")) - parseInt(a.getAttribute("data-timestamp"));
             });
             
-            // 정렬된 순서대로 다시 화면에 붙여넣기
             articles.forEach(article => feed.appendChild(article));
-            generateFilterButtons();
-        });
-
-        // 사용자가 회사 버튼을 눌렀을 때 해당 회사 기사만 보여주는 필터 함수
-        function filterNews(companyId) {
-            // 버튼 색상 변경
-            document.querySelectorAll('.filter-btn').forEach(btn => btn.classList.remove('active'));
-            event.target.classList.add('active');
-
-            // 기사 숨기기/보이기
-            const articles = document.querySelectorAll('.article-item');
-            articles.forEach(article => {
-                if (companyId === 'all' || article.getAttribute('data-id') === companyId) {
-                    article.style.display = 'block';
-                } else {
-                    article.style.display = 'none';
-                }
-            });
         }
 
-        // 존재하는 기사들을 분석해서 상단 필터 버튼을 자동으로 만들어주는 함수
+        // 💡 80개 기업 버튼 무조건 고정 생성
         function generateFilterButtons() {
-            const articles = document.querySelectorAll('.article-item');
-            const companies = new Set();
-            articles.forEach(a => companies.add(a.getAttribute('data-id')));
-            
             const btnContainer = document.getElementById('filter-buttons');
-            companies.forEach(comp => {
+            ALL_COMPANIES.forEach(comp => {
                 const btn = document.createElement('button');
                 btn.className = 'filter-btn';
                 btn.innerText = comp;
                 btn.onclick = (e) => filterNews(comp);
                 btnContainer.appendChild(btn);
             });
+        }
+
+        // 특정 회사 버튼 눌렀을 때 필터링
+        function filterNews(companyName) {
+            document.querySelectorAll('.filter-btn').forEach(btn => btn.classList.remove('active'));
+            event.target.classList.add('active');
+
+            const articles = document.querySelectorAll('.article-item');
+            let visibleCount = 0;
+
+            articles.forEach(article => {
+                if (companyName === 'all' || article.getAttribute('data-id') === companyName) {
+                    article.style.display = 'block';
+                    visibleCount++;
+                } else {
+                    article.style.display = 'none';
+                }
+            });
+
+            // 선택한 회사의 기사가 없을 경우 안내 메시지 표시
+            const noNewsMsg = document.getElementById('no-news');
+            if (visibleCount === 0 && companyName !== 'all') {
+                noNewsMsg.style.display = 'block';
+            } else {
+                noNewsMsg.style.display = 'none';
+            }
         }
     </script>
 </body>
