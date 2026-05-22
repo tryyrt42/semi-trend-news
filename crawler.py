@@ -71,7 +71,7 @@ def fetch_news(company_name, existing_html):
     new_articles = []
     
     if getattr(feed_kr, 'entries', None):
-        for entry in feed_kr.entries[:15]: 
+        for entry in feed_kr.entries[:5]: 
             link = str(getattr(entry, 'link', '#'))
             pub_str = str(getattr(entry, 'published', ''))
             
