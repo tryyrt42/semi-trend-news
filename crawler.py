@@ -34,9 +34,21 @@ RSS_TIMEOUT = 20
 
 # 파이썬 1차 문지기: 주식 찌라시 키워드 차단 (Gemini 호출 전 컷)
 JUNK_KEYWORDS = [
+    # 시세/주가
     "주가", "목표가", "특징주", "매수", "매도", "상한가", "하한가",
-    "시총", "수혜주", "급등", "급락", "증권사", "투자의견",
-    "어닝쇼크", "어닝서프라이즈", "PER", "PBR", "공매도", "신저가", "신고가"
+    "시총", "수혜주", "급등", "급락", "신저가", "신고가",
+    # 실적/지표
+    "어닝쇼크", "어닝서프라이즈", "PER", "PBR", "공매도",
+    # 투자분석/리포트성 (이번에 추가된 핵심)
+    "투자분석", "투자 분석", "투자의견", "투자전략", "투자 전략",
+    "추천종목", "관심종목", "차트분석", "차트 분석",
+    "증권사", "증시", "주식"
+]
+
+# 발행처 단위 차단 (자동생성 종목분석 봇 등)
+JUNK_SOURCES = [
+    "주달",          # 코스닥 종목별 자동 투자분석
+    "주식의신",
 ]
 
 # 빅테크는 회사명만 검색하면 반도체 외 뉴스가 폭증 → 검색어에 "반도체" 추가
@@ -161,9 +173,27 @@ def fetch_news(company_name, seen_urls):
         if not title or not link or link in seen_urls:
             continue
 
-        # 파이썬 1차 문지기
+        # 발행처 추출 (Google News RSS 는 <source> 태그 또는 제목 뒤 " - 발행처" 형태)
+        source = ""
+        src_obj = getattr(entry, "source", None)
+        if src_obj is not None:
+            try:
+                source = (src_obj.get("title") if isinstance(src_obj, dict)
+                          else str(getattr(src_obj, "title", ""))) or ""
+            except Exception:
+                source = ""
+        if not source:
+            m = re.search(r"\s-\s([^-]+)$", title)
+            if m:
+                source = m.group(1).strip()
+
+        # 파이썬 1차 문지기 (a) 제목 키워드
         if any(k in title for k in JUNK_KEYWORDS):
-            seen_urls.add(link)  # 다시 안 보게 표시
+            seen_urls.add(link)
+            continue
+        # (b) 발행처 블랙리스트
+        if source and any(js in source for js in JUNK_SOURCES):
+            seen_urls.add(link)
             continue
 
         pub_str = str(getattr(entry, "published", ""))
@@ -217,9 +247,16 @@ def analyze_articles_batch(company_name, articles, rate_limiter):
 각 기사를 아래 기준으로 판정하고 **순수 JSON 배열로만** 응답하세요 (앞뒤 설명 금지, 코드블록 금지):
 
 판정:
-- "IRRELEVANT": 반도체/팹리스/파운드리/디자인하우스/AI칩 생태계와 무관한 일반 가십·연예·소비재·주가차트 기사
+- "IRRELEVANT": 아래 중 하나라도 해당하면 무조건 IRRELEVANT
+   (a) 투자분석/투자의견/종목분석/차트분석/추천종목 등 **투자자·주주 대상** 기사
+   (b) "○○ 투자분석 YYYY.MM.DD", "○○ 주가 전망", "관심종목 ○선" 같은 자동생성/리포트성 제목
+   (c) 주가·시세·실적 숫자만 다루는 기사 (사업/기술 내용 없음)
+   (d) 반도체/팹리스/파운드리/디자인하우스/AI칩 생태계와 무관한 일반 가십·연예·소비재
+   (e) 제목이 너무 짧고 모호해서 반도체 사업/기술 관련성 판단이 안 되는 경우
 - "DUPLICATE": 같은 목록 안에서 같은 사건을 반복 보도 — 가장 먼저 등장한 1건만 PASS, 나머지는 DUPLICATE
-- "PASS": 위 둘 다 아닌 정상적인 반도체 산업/기술/사업 기사
+- "PASS": 위 둘 다 아니고, 명백한 반도체 **사업/기술/제품/계약/투자유치/공장/인사/IPO** 관련 기사
+
+핵심 원칙: **애매하면 IRRELEVANT**. 투자분석/리포트류는 어떤 경우에도 PASS 금지.
 
 응답 포맷:
 [
@@ -412,6 +449,17 @@ def main():
     articles_db = load_json(ARTICLES_JSON, [])
     seen_urls = set(load_json(SEEN_URLS_JSON, []))
     rate_limiter = RateLimiter(RPM_LIMIT)
+
+    # 기존 articles.json 에서도 새로 추가된 JUNK 기준으로 재청소
+    # (예전에 통과됐던 투자분석 기사 등 회수)
+    before_clean = len(articles_db)
+    articles_db = [
+        a for a in articles_db
+        if not any(k in a.get("title", "") for k in JUNK_KEYWORDS)
+    ]
+    junk_removed = before_clean - len(articles_db)
+    if junk_removed > 0:
+        print(f"🧹 기존 DB 청소: 새 필터 기준으로 {junk_removed}건 제거\n")
 
     quota_dead = False
     new_count = 0
