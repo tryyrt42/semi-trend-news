@@ -120,7 +120,7 @@ def analyze_and_summarize(company_name, new_title, existing_titles):
 반드시 요약문 맨 앞에 'PASS|' 를 붙여서 출력하세요. (예: PASS|1. TSMC가... 2. ... 3. ...)
 """
     # 💡 팩트체크 완료: 현재 가장 안정적이고 빠른 공식 모델로 수정했습니다.
-    url = f"https://generativelanguage.googleapis.com/v1beta/models/gemini-1.5-flash:generateContent?key={GEMINI_API_KEY}"
+    url = f"https://generativelanguage.googleapis.com/v1beta/models/gemini-3.5-flash:generateContent?key={GEMINI_API_KEY}"
     payload = {"contents": [{"parts": [{"text": prompt}]}]}
     headers = {'Content-Type': 'application/json'}
     
