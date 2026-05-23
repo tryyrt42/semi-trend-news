@@ -94,7 +94,7 @@ def fetch_news(company_name, existing_html):
 
 def analyze_and_summarize(company_name, new_title, existing_titles):
     if not GEMINI_API_KEY or GEMINI_API_KEY == "YOUR_API_KEY":
-        return "ERROR", "API 키가 등록되지 않았습니다."
+        return "ERROR", "API 키 누락"
     
     prompt = f"""당신은 깐깐한 반도체 산업 분석가입니다.
 기업: {company_name}
@@ -108,50 +108,39 @@ def analyze_and_summarize(company_name, new_title, existing_titles):
 
 [2단계: 관련성 및 중복 검사]
 - 반도체 칩 설계, 파운드리, AI 인프라 등 핵심 기술 생태계와 무관한 가십/소비재 기사면 'REJECT_IRRELEVANT' 출력 후 종료.
-- '최근 수집된 기사들'과 똑같은 사건을 다루는 중복 도배 기사면 'REJECT_DUPLICATE' 출력 후 종료.
+- 똑같은 사건을 다루는 중복 도배 기사면 'REJECT_DUPLICATE' 출력 후 종료.
 
-[3단계: 요약 (위 1, 2단계를 모두 통과한 진짜 뉴스만!)]
-오직 이 경우에만, 기사 내용을 유추하여 핵심만 3줄 이내로 요약하세요. 
-반드시 요약문 맨 앞에 'PASS|' 를 붙여서 출력하세요.
+[3단계: 요약]
+오직 이 경우에만 핵심만 3줄 이내로 요약하세요. 반드시 요약문 맨 앞에 'PASS|' 를 붙이세요.
 """
-    url = f"https://generativelanguage.googleapis.com/v1beta/models/gemini-3.5-flash:generateContent?key={GEMINI_API_KEY}"
+    # 💡 팩트체크: 하루 1500번 한도를 주는 제일 든든한 1.5 Flash 모델로 영구 고정!
+    url = f"https://generativelanguage.googleapis.com/v1beta/models/gemini-1.5-flash:generateContent?key={GEMINI_API_KEY}"
     payload = {"contents": [{"parts": [{"text": prompt}]}]}
     headers = {'Content-Type': 'application/json'}
     
-    # 💡 [핵심 패치] 구글이 에러를 뱉어도 포기하지 않고 최대 3번까지 버티는 무적 로직!
-    max_retries = 3
-    for attempt in range(max_retries):
-        try:
-            res = requests.post(url, json=payload, headers=headers).json()
+    try:
+        res = requests.post(url, json=payload, headers=headers).json()
+        
+        if 'candidates' not in res:
+            error_msg = res.get('error', {}).get('message', '')
+            # 💡 [초강력 패치] 한도 초과(Quota) 에러가 뜨면 미련 없이 "QUOTA_DEAD" 신호를 보냅니다.
+            if "Quota" in error_msg or "exceeded" in error_msg:
+                return "QUOTA_DEAD", "API 일일 한도 완전 소진"
+            return "ERROR", f"구글 API 거절: {error_msg}"
             
-            if 'candidates' not in res:
-                error_msg = res.get('error', {}).get('message', '알 수 없는 구글 통신 에러')
-                
-                # 만약 한도 초과(Quota) 에러면? 에러 내뿜지 않고 65초 자고 일어나서 다시 찌릅니다!
-                if "Quota" in error_msg or "exceeded" in error_msg:
-                    print(f"   ⏳ [구글 1분 속도 제한] 화가 난 구글을 피해 65초 푹 쉬고 다시 찌릅니다... (재시도 {attempt+1}/{max_retries})")
-                    time.sleep(65)
-                    continue # 다음번 시도로 다시 루프!
-                
-                # 속도 문제가 아닌 진짜 에러면 그대로 종료
-                return "ERROR", f"구글 API 거절: {error_msg}"
-                
-            answer = res['candidates'][0]['content']['parts'][0]['text'].strip()
+        answer = res['candidates'][0]['content']['parts'][0]['text'].strip()
+        
+        if "REJECT_STOCK" in answer.upper(): return "REJECT_STOCK", ""
+        if "REJECT_IRRELEVANT" in answer.upper(): return "IRRELEVANT", ""
+        if "REJECT_DUPLICATE" in answer.upper(): return "DUPLICATE", ""
+        
+        if "PASS|" in answer:
+            return "PASS", answer.split("PASS|")[1].strip()
+        else:
+            return "PASS", answer.replace("PASS", "").strip()
             
-            if "REJECT_STOCK" in answer.upper(): return "REJECT_STOCK", ""
-            if "REJECT_IRRELEVANT" in answer.upper(): return "IRRELEVANT", ""
-            if "REJECT_DUPLICATE" in answer.upper(): return "DUPLICATE", ""
-            
-            if "PASS|" in answer:
-                summary = answer.split("PASS|")[1].strip()
-                return "PASS", summary
-            else:
-                return "PASS", answer.replace("PASS", "").strip()
-                
-        except Exception as e:
-            return "ERROR", f"시스템 오류: {str(e)}"
-            
-    return "ERROR", "재시도 3회 초과 (구글이 계속 거절함)"
+    except Exception as e:
+        return "ERROR", f"시스템 오류: {str(e)}"
 
 def insert_into_global_feed(article_html):
     html_file = "index.html"
@@ -163,12 +152,16 @@ def insert_into_global_feed(article_html):
     with open(html_file, "w", encoding="utf-8") as f: f.write(content)
 
 if __name__ == "__main__":
-    print("🚀 [Pro V5.5] 무적의 좀비 모드 (65초 강제 휴식 & 자동 재시도) 가동 시작...")
+    print("🚀 [Pro V5.6] 1.5 Flash 원복 및 깃허브 시간 절약(강제 퇴근) 패치 가동 시작...")
     
     html_file = "index.html"
     existing_html = open(html_file, "r", encoding="utf-8").read() if os.path.exists(html_file) else ""
     
+    quota_dead = False # 💡 한도 사망 여부를 감지하는 스위치
+    
     for comp in COMPANIES:
+        if quota_dead: break # 💡 스위치가 켜지면 기업 루프를 완전히 박살내고 종료합니다!
+        
         articles = fetch_news(comp['name'], existing_html)
         
         if articles:
@@ -178,22 +171,25 @@ if __name__ == "__main__":
             for news in articles:
                 status, summary = analyze_and_summarize(comp['name'], news['title'], collected_titles)
                 
-                if status == "REJECT_STOCK":
-                    print(f"   📉 [주식/찌라시 차단] {news['title']}")
+                # 🚨 한도 사망 신호를 받으면?
+                if status == "QUOTA_DEAD":
+                    print(f"\n🚨 [긴급 정지] 오늘 치 구글 API 한도가 0원입니다! 깃허브 시간 낭비를 막기 위해 로봇을 즉시 강제 퇴근시킵니다.")
+                    quota_dead = True
+                    break # 기사 루프 탈출
+                
+                elif status == "REJECT_STOCK":
+                    print(f"   📉 [주식 차단] {news['title']}")
                     existing_html += news['link']
                 elif status == "IRRELEVANT":
-                    print(f"   🗑️ [반도체 무관 차단] {news['title']}")
+                    print(f"   🗑️ [무관 차단] {news['title']}")
                     existing_html += news['link'] 
                 elif status == "DUPLICATE":
-                    print(f"   🚫 [도배 기사 차단] {news['title']}")
+                    print(f"   🚫 [도배 차단] {news['title']}")
                     existing_html += news['link']
                 elif status == "ERROR":
-                    print(f"   ⚠️ [최종 에러] 원인: {summary} / 기사: {news['title']}")
-                    time.sleep(3) 
-                    continue
-                
-                if status == "PASS":
-                    print(f"   ✅ [검열 통과/요약 완료] {news['title']}")
+                    print(f"   ⚠️ [에러 발생] 원인: {summary} / 기사: {news['title']}")
+                elif status == "PASS":
+                    print(f"   ✅ [요약 완료] {news['title']}")
                     collected_titles.append(news['title']) 
                     
                     article_html = (
@@ -205,12 +201,11 @@ if __name__ == "__main__":
                         f'            <a href="{news["link"]}" target="_blank" class="news-link">[ 📄 원문 기사 보기 ]</a>\n'
                         f'        </div>\n'
                     )
-                    
                     insert_into_global_feed(article_html)
                     existing_html += news['link']
                 
-                # 기본적으로 기사 하나 검사할 때마다 3초씩만 쉽니다. (65초 쉴 땐 알아서 쉼)
-                time.sleep(3) 
+                time.sleep(4) # 1분 15회 제한(RPM)만 피하기 위한 깔끔한 4초 휴식
+                
         else:
             print(f"💨 [{comp['name']}] 수집할 새 기사 없음 (Skip)")
             
@@ -223,4 +218,4 @@ if __name__ == "__main__":
     )
     with open(html_file, "w", encoding="utf-8") as f: f.write(updated_content)
         
-    print("✨ 글로벌 타임라인 대시보드 업데이트 완료!")
+    print("✨ 글로벌 타임라인 대시보드 업데이트 완료 (또는 한도 초과로 조기 퇴근)!")
