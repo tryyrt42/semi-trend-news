@@ -60,6 +60,9 @@ COMPANIES = [
     {"id": "samsung", "name": "Samsung Foundry"}, {"id": "tsmc", "name": "TSMC"}
 ]
 
+# 💡 [핵심 기술 1] 파이썬 1차 문지기: 구글 API를 호출하기도 전에 주식 찌라시를 1초 만에 분쇄합니다!
+JUNK_KEYWORDS = ["주가", "목표가", "특징주", "매수", "매도", "상한가", "하한가", "시총", "수혜주", "실적 발표", "급등", "급락", "증권사", "투자의견", "어닝쇼크", "어닝서프라이즈"]
+
 def fetch_news(company_name, existing_html):
     search_query = f"{company_name} when:30d"
     encoded_query = urllib.parse.quote(search_query)
@@ -70,8 +73,16 @@ def fetch_news(company_name, existing_html):
     
     if getattr(feed_kr, 'entries', None):
         for entry in feed_kr.entries[:5]: 
+            title = str(getattr(entry, 'title', '제목 없음'))
             link = str(getattr(entry, 'link', '#'))
             pub_str = str(getattr(entry, 'published', ''))
+            
+            # 💡 [파이썬 1차 문지기 가동] 제목에 찌라시 단어가 있으면 애초에 수집(API 검사)조차 안 합니다.
+            is_junk = any(keyword in title for keyword in JUNK_KEYWORDS)
+            if is_junk:
+                print(f"   ✂️ [파이썬 자체 컷트] 주식 단어 발견, AI 검사 생략: {title}")
+                continue
+                
             try:
                 pub_tuple = email.utils.parsedate_tz(pub_str)
                 if pub_tuple:
@@ -85,7 +96,7 @@ def fetch_news(company_name, existing_html):
                 
             if link not in existing_html:
                 new_articles.append({
-                    "title": str(getattr(entry, 'title', '제목 없음')), 
+                    "title": title, 
                     "link": link,
                     "published": pub_str,
                     "timestamp": int(pub_timestamp)
@@ -101,45 +112,46 @@ def analyze_and_summarize(company_name, new_title, existing_titles):
 새 기사 제목: '{new_title}'
 최근 수집된 기사들: {existing_titles}
 
-다음 3단계로 엄격하게 검열하고, 통과 시에만 요약하세요.
-
-[1단계: 주식/단순투자 뉴스 완벽 차단]
-제목에 '주가', '목표가', '특징주', '매수/매도', '상한가', '시총', '수혜주', '실적 발표' 등 단순 투자 지표나 주식 시장 동향이면 무조건 'REJECT_STOCK'을 출력하고 종료하세요.
-
-[2단계: 관련성 및 중복 검사]
-- 반도체 칩 설계, 파운드리, AI 인프라 등 핵심 기술 생태계와 무관한 가십/소비재 기사면 'REJECT_IRRELEVANT' 출력 후 종료.
-- 똑같은 사건을 다루는 중복 도배 기사면 'REJECT_DUPLICATE' 출력 후 종료.
-
-[3단계: 요약]
-오직 이 경우에만 핵심만 3줄 이내로 요약하세요. 반드시 요약문 맨 앞에 'PASS|' 를 붙이세요.
+[검열 지시사항]
+1. 반도체 기술 생태계와 무관한 일반 소비재/가십 기사면 'REJECT_IRRELEVANT' 출력.
+2. 똑같은 사건을 다루는 중복 도배 기사면 'REJECT_DUPLICATE' 출력.
+3. 통과 시, 기사 핵심을 유추하여 3줄 이내로 요약. (반드시 요약문 맨 앞에 'PASS|' 를 붙이세요)
 """
-    # 💡 팩트체크: 절대 에러(Not found) 안 나는 구글의 가장 기본 뼈대 모델 'gemini-pro'로 대못 박음!
-    url = f"https://generativelanguage.googleapis.com/v1beta/models/gemini-pro:generateContent?key={GEMINI_API_KEY}"
+    # 💡 [핵심 기술 2] 공식 & 최강 가성비 모델 탑재: 하루 1500번 넉넉하게 돌리는 표준 엔진
+    url = f"https://generativelanguage.googleapis.com/v1beta/models/gemini-1.5-flash:generateContent?key={GEMINI_API_KEY}"
     payload = {"contents": [{"parts": [{"text": prompt}]}]}
     headers = {'Content-Type': 'application/json'}
     
-    try:
-        res = requests.post(url, json=payload, headers=headers).json()
-        
-        if 'candidates' not in res:
-            error_msg = res.get('error', {}).get('message', '')
-            if "Quota" in error_msg or "exceeded" in error_msg:
-                return "QUOTA_DEAD", "API 일일 한도 완전 소진"
-            return "ERROR", f"구글 API 거절: {error_msg}"
+    # 💡 [핵심 기술 3] 스마트 서킷 브레이커: 과부하엔 쉬고, 한도 사망 시엔 즉각 보고합니다.
+    for attempt in range(2):
+        try:
+            res = requests.post(url, json=payload, headers=headers).json()
             
-        answer = res['candidates'][0]['content']['parts'][0]['text'].strip()
-        
-        if "REJECT_STOCK" in answer.upper(): return "REJECT_STOCK", ""
-        if "REJECT_IRRELEVANT" in answer.upper(): return "IRRELEVANT", ""
-        if "REJECT_DUPLICATE" in answer.upper(): return "DUPLICATE", ""
-        
-        if "PASS|" in answer:
-            return "PASS", answer.split("PASS|")[1].strip()
-        else:
-            return "PASS", answer.replace("PASS", "").strip()
+            if 'candidates' not in res:
+                error_msg = res.get('error', {}).get('message', '')
+                if "Quota" in error_msg or "exceeded" in error_msg:
+                    if attempt == 0:
+                        print("   ⏳ [1분 속도 제한 감지] 60초간 숨을 고르고 다시 시도합니다...")
+                        time.sleep(60)
+                        continue
+                    else:
+                        return "QUOTA_DEAD", "API 일일 무료 한도(1,500회) 완전 소진"
+                return "ERROR", f"구글 API 거절: {error_msg}"
+                
+            answer = res['candidates'][0]['content']['parts'][0]['text'].strip()
             
-    except Exception as e:
-        return "ERROR", f"시스템 오류: {str(e)}"
+            if "REJECT_IRRELEVANT" in answer.upper(): return "IRRELEVANT", ""
+            if "REJECT_DUPLICATE" in answer.upper(): return "DUPLICATE", ""
+            
+            if "PASS|" in answer:
+                return "PASS", answer.split("PASS|")[1].strip()
+            else:
+                return "PASS", answer.replace("PASS", "").strip()
+                
+        except Exception as e:
+            return "ERROR", f"시스템 오류: {str(e)}"
+    
+    return "ERROR", "통신 실패"
 
 def insert_into_global_feed(article_html):
     html_file = "index.html"
@@ -151,7 +163,7 @@ def insert_into_global_feed(article_html):
     with open(html_file, "w", encoding="utf-8") as f: f.write(content)
 
 if __name__ == "__main__":
-    print("🚀 [Pro V5.7] 튼튼한 기본 모델(gemini-pro) 고정 패치 가동 시작...")
+    print("🚀 [Pro V7.0 THE MASTERPIECE] 하이브리드 필터링 & 스마트 방어 아키텍처 가동...")
     
     html_file = "index.html"
     existing_html = open(html_file, "r", encoding="utf-8").read() if os.path.exists(html_file) else ""
@@ -164,20 +176,17 @@ if __name__ == "__main__":
         articles = fetch_news(comp['name'], existing_html)
         
         if articles:
-            print(f"📦 [{comp['name']}] 무제한 검색 기사 {len(articles)}개 포착! (AI 검열 중...)")
+            print(f"📦 [{comp['name']}] AI가 검사할 알짜 기사 {len(articles)}개 포착! (요약 시작)")
             collected_titles = [] 
             
             for news in articles:
                 status, summary = analyze_and_summarize(comp['name'], news['title'], collected_titles)
                 
                 if status == "QUOTA_DEAD":
-                    print(f"\n🚨 [긴급 정지] 오늘 치 구글 API 한도가 0원입니다! 깃허브 시간 낭비를 막기 위해 즉시 퇴근합니다.")
+                    print(f"\n🚨 [긴급 정지] 오늘 치 구글 무료 한도가 바닥났습니다! 내일 다시 오거나 API 키를 교체하세요. (강제 퇴근)")
                     quota_dead = True
                     break
                 
-                elif status == "REJECT_STOCK":
-                    print(f"   📉 [주식 차단] {news['title']}")
-                    existing_html += news['link']
                 elif status == "IRRELEVANT":
                     print(f"   🗑️ [무관 차단] {news['title']}")
                     existing_html += news['link'] 
@@ -202,10 +211,11 @@ if __name__ == "__main__":
                     insert_into_global_feed(article_html)
                     existing_html += news['link']
                 
-                time.sleep(4) 
+                # 안전빵 3초 휴식 (1분 15회 속도 제한 회피)
+                time.sleep(3) 
                 
         else:
-            print(f"💨 [{comp['name']}] 수집할 새 기사 없음 (Skip)")
+            print(f"💨 [{comp['name']}] 새로 수집할 기사 없음 (Skip)")
             
     now_kst = (datetime.now(timezone.utc) + timedelta(hours=9)).strftime("%Y-%m-%d %H:%M")
     with open(html_file, "r", encoding="utf-8") as f: content = f.read()
