@@ -113,8 +113,8 @@ def analyze_and_summarize(company_name, new_title, existing_titles):
 [3단계: 요약]
 오직 이 경우에만 핵심만 3줄 이내로 요약하세요. 반드시 요약문 맨 앞에 'PASS|' 를 붙이세요.
 """
-    # 💡 팩트체크: 하루 1500번 한도를 주는 제일 든든한 1.5 Flash 모델로 영구 고정!
-    url = f"https://generativelanguage.googleapis.com/v1beta/models/gemini-1.5-flash:generateContent?key={GEMINI_API_KEY}"
+    # 💡 팩트체크: 절대 에러(Not found) 안 나는 구글의 가장 기본 뼈대 모델 'gemini-pro'로 대못 박음!
+    url = f"https://generativelanguage.googleapis.com/v1beta/models/gemini-pro:generateContent?key={GEMINI_API_KEY}"
     payload = {"contents": [{"parts": [{"text": prompt}]}]}
     headers = {'Content-Type': 'application/json'}
     
@@ -123,7 +123,6 @@ def analyze_and_summarize(company_name, new_title, existing_titles):
         
         if 'candidates' not in res:
             error_msg = res.get('error', {}).get('message', '')
-            # 💡 [초강력 패치] 한도 초과(Quota) 에러가 뜨면 미련 없이 "QUOTA_DEAD" 신호를 보냅니다.
             if "Quota" in error_msg or "exceeded" in error_msg:
                 return "QUOTA_DEAD", "API 일일 한도 완전 소진"
             return "ERROR", f"구글 API 거절: {error_msg}"
@@ -152,15 +151,15 @@ def insert_into_global_feed(article_html):
     with open(html_file, "w", encoding="utf-8") as f: f.write(content)
 
 if __name__ == "__main__":
-    print("🚀 [Pro V5.6] 1.5 Flash 원복 및 깃허브 시간 절약(강제 퇴근) 패치 가동 시작...")
+    print("🚀 [Pro V5.7] 튼튼한 기본 모델(gemini-pro) 고정 패치 가동 시작...")
     
     html_file = "index.html"
     existing_html = open(html_file, "r", encoding="utf-8").read() if os.path.exists(html_file) else ""
     
-    quota_dead = False # 💡 한도 사망 여부를 감지하는 스위치
+    quota_dead = False
     
     for comp in COMPANIES:
-        if quota_dead: break # 💡 스위치가 켜지면 기업 루프를 완전히 박살내고 종료합니다!
+        if quota_dead: break 
         
         articles = fetch_news(comp['name'], existing_html)
         
@@ -171,11 +170,10 @@ if __name__ == "__main__":
             for news in articles:
                 status, summary = analyze_and_summarize(comp['name'], news['title'], collected_titles)
                 
-                # 🚨 한도 사망 신호를 받으면?
                 if status == "QUOTA_DEAD":
-                    print(f"\n🚨 [긴급 정지] 오늘 치 구글 API 한도가 0원입니다! 깃허브 시간 낭비를 막기 위해 로봇을 즉시 강제 퇴근시킵니다.")
+                    print(f"\n🚨 [긴급 정지] 오늘 치 구글 API 한도가 0원입니다! 깃허브 시간 낭비를 막기 위해 즉시 퇴근합니다.")
                     quota_dead = True
-                    break # 기사 루프 탈출
+                    break
                 
                 elif status == "REJECT_STOCK":
                     print(f"   📉 [주식 차단] {news['title']}")
@@ -204,7 +202,7 @@ if __name__ == "__main__":
                     insert_into_global_feed(article_html)
                     existing_html += news['link']
                 
-                time.sleep(4) # 1분 15회 제한(RPM)만 피하기 위한 깔끔한 4초 휴식
+                time.sleep(4) 
                 
         else:
             print(f"💨 [{comp['name']}] 수집할 새 기사 없음 (Skip)")
