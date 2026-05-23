@@ -119,7 +119,7 @@ def analyze_and_summarize(company_name, new_title, existing_titles):
 오직 이 경우에만, 기사 내용을 유추하여 핵심만 3줄 이내로 요약하세요. 
 반드시 요약문 맨 앞에 'PASS|' 를 붙여서 출력하세요. (예: PASS|1. TSMC가... 2. ... 3. ...)
 """
-    url = f"https://generativelanguage.googleapis.com/v1beta/models/gemini-2.5-flash:generateContent?key={GEMINI_API_KEY}"
+    url = f"https://generativelanguage.googleapis.com/v1beta/models/gemini-3.5-flash:generateContent?key={GEMINI_API_KEY}"
     payload = {"contents": [{"parts": [{"text": prompt}]}]}
     headers = {'Content-Type': 'application/json'}
     try:
