@@ -1,13 +1,48 @@
+"""
+반도체 산업 뉴스 크롤러 (V8.0)
+- Gemini 2.5 Flash-Lite (또는 Flash) 배치 처리
+- articles.json / seen_urls.json 로 상태 분리
+- index.html 은 매 실행 후 재생성
+"""
 import feedparser
 import requests
 import os
 import re
+import json
 import time
+import html as htmllib
 from datetime import datetime, timedelta, timezone
 import email.utils
 import urllib.parse
 
-GEMINI_API_KEY = os.environ.get("GEMINI_API_KEY", "YOUR_API_KEY")
+# ============================================================
+# 설정
+# ============================================================
+GEMINI_API_KEY = os.environ.get("GEMINI_API_KEY", "").strip()
+# Flash-Lite 가 무료 RPD 가장 큼 (≈1000+). 품질이 더 필요하면 gemini-2.5-flash 로.
+GEMINI_MODEL = os.environ.get("GEMINI_MODEL", "gemini-2.5-flash-lite").strip()
+
+HTML_FILE = "index.html"
+ARTICLES_JSON = "articles.json"
+SEEN_URLS_JSON = "seen_urls.json"
+
+MAX_ARTICLES_PER_COMPANY = 5     # 기업당 RSS 에서 최대 몇 개 후보
+DAYS_TO_KEEP = 30                 # 며칠 치 기사 보관
+RPM_LIMIT = 12                    # 분당 호출 안전 한도 (15 RPM 모델 기준 마진)
+REQUEST_TIMEOUT = 30
+RSS_TIMEOUT = 20
+
+# 파이썬 1차 문지기: 주식 찌라시 키워드 차단 (Gemini 호출 전 컷)
+JUNK_KEYWORDS = [
+    "주가", "목표가", "특징주", "매수", "매도", "상한가", "하한가",
+    "시총", "수혜주", "급등", "급락", "증권사", "투자의견",
+    "어닝쇼크", "어닝서프라이즈", "PER", "PBR", "공매도", "신저가", "신고가"
+]
+
+# 빅테크는 회사명만 검색하면 반도체 외 뉴스가 폭증 → 검색어에 "반도체" 추가
+BIGTECH_NEEDS_FILTER = {
+    "Apple", "Google", "Amazon", "Microsoft", "Meta", "Tesla", "OpenAI"
+}
 
 COMPANIES = [
     {"id": "알파칩스", "name": "알파칩스"}, {"id": "에이디테크놀로지", "name": "에이디테크놀로지"},
@@ -60,170 +95,413 @@ COMPANIES = [
     {"id": "samsung", "name": "Samsung Foundry"}, {"id": "tsmc", "name": "TSMC"}
 ]
 
-# 💡 [핵심 기술 1] 파이썬 1차 문지기: 구글 API를 호출하기도 전에 주식 찌라시를 1초 만에 분쇄합니다!
-JUNK_KEYWORDS = ["주가", "목표가", "특징주", "매수", "매도", "상한가", "하한가", "시총", "수혜주", "실적 발표", "급등", "급락", "증권사", "투자의견", "어닝쇼크", "어닝서프라이즈"]
 
-def fetch_news(company_name, existing_html):
-    search_query = f"{company_name} when:30d"
-    encoded_query = urllib.parse.quote(search_query)
-    url_kr = f"https://news.google.com/rss/search?q={encoded_query}&hl=ko&gl=KR&ceid=KR:ko"
-    feed_kr = feedparser.parse(url_kr)
-    cutoff_date = datetime.now(timezone.utc) - timedelta(days=30)
-    new_articles = []
-    
-    if getattr(feed_kr, 'entries', None):
-        for entry in feed_kr.entries[:5]: 
-            title = str(getattr(entry, 'title', '제목 없음'))
-            link = str(getattr(entry, 'link', '#'))
-            pub_str = str(getattr(entry, 'published', ''))
-            
-            # 💡 [파이썬 1차 문지기 가동] 제목에 찌라시 단어가 있으면 애초에 수집(API 검사)조차 안 합니다.
-            is_junk = any(keyword in title for keyword in JUNK_KEYWORDS)
-            if is_junk:
-                print(f"   ✂️ [파이썬 자체 컷트] 주식 단어 발견, AI 검사 생략: {title}")
-                continue
-                
-            try:
-                pub_tuple = email.utils.parsedate_tz(pub_str)
-                if pub_tuple:
-                    pub_timestamp = email.utils.mktime_tz(pub_tuple)
-                    pub_date = datetime.fromtimestamp(pub_timestamp, timezone.utc)
-                    if pub_date < cutoff_date: continue 
-                    kst_date = pub_date + timedelta(hours=9)
-                    pub_str = kst_date.strftime("%Y-%m-%d %H:%M")
-            except:
-                pub_timestamp = 0
-                
-            if link not in existing_html:
-                new_articles.append({
-                    "title": title, 
-                    "link": link,
-                    "published": pub_str,
-                    "timestamp": int(pub_timestamp)
-                })
-    return new_articles
+# ============================================================
+# 유틸
+# ============================================================
+def load_json(path, default):
+    if not os.path.exists(path):
+        return default
+    try:
+        with open(path, "r", encoding="utf-8") as f:
+            return json.load(f)
+    except Exception as e:
+        print(f"⚠️ {path} 로드 실패: {e} → 기본값 사용")
+        return default
 
-def analyze_and_summarize(company_name, new_title, existing_titles):
-    if not GEMINI_API_KEY or GEMINI_API_KEY == "YOUR_API_KEY":
-        return "ERROR", "API 키 누락"
-    
-    prompt = f"""당신은 깐깐한 반도체 산업 분석가입니다.
-기업: {company_name}
-새 기사 제목: '{new_title}'
-최근 수집된 기사들: {existing_titles}
+def save_json(path, data):
+    with open(path, "w", encoding="utf-8") as f:
+        json.dump(data, f, ensure_ascii=False, indent=2)
 
-[검열 지시사항]
-1. 반도체 기술 생태계와 무관한 일반 소비재/가십 기사면 'REJECT_IRRELEVANT' 출력.
-2. 똑같은 사건을 다루는 중복 도배 기사면 'REJECT_DUPLICATE' 출력.
-3. 통과 시, 기사 핵심을 유추하여 3줄 이내로 요약. (반드시 요약문 맨 앞에 'PASS|' 를 붙이세요)
-"""
-    # 💡 [핵심 기술 2] 공식 & 최강 가성비 모델 탑재: 하루 1500번 넉넉하게 돌리는 표준 엔진
-    url = f"https://generativelanguage.googleapis.com/v1beta/models/gemini-1.5-flash:generateContent?key={GEMINI_API_KEY}"
-    payload = {"contents": [{"parts": [{"text": prompt}]}]}
-    headers = {'Content-Type': 'application/json'}
-    
-    # 💡 [핵심 기술 3] 스마트 서킷 브레이커: 과부하엔 쉬고, 한도 사망 시엔 즉각 보고합니다.
-    for attempt in range(2):
+
+class RateLimiter:
+    """슬라이딩 윈도우 방식 RPM 제어."""
+    def __init__(self, rpm_limit):
+        self.rpm_limit = rpm_limit
+        self.timestamps = []
+
+    def wait_if_needed(self):
+        now = time.time()
+        self.timestamps = [t for t in self.timestamps if now - t < 60]
+        if len(self.timestamps) >= self.rpm_limit:
+            sleep_time = 60 - (now - self.timestamps[0]) + 1
+            if sleep_time > 0:
+                print(f"   ⏸️  RPM 한도 근접, {sleep_time:.1f}초 대기")
+                time.sleep(sleep_time)
+                now = time.time()
+                self.timestamps = [t for t in self.timestamps if now - t < 60]
+        self.timestamps.append(time.time())
+
+
+# ============================================================
+# RSS 수집
+# ============================================================
+def build_search_query(company_name):
+    base = f"{company_name} 반도체" if company_name in BIGTECH_NEEDS_FILTER else company_name
+    return f"{base} when:30d"
+
+def fetch_news(company_name, seen_urls):
+    query = build_search_query(company_name)
+    url = f"https://news.google.com/rss/search?q={urllib.parse.quote(query)}&hl=ko&gl=KR&ceid=KR:ko"
+
+    try:
+        feed = feedparser.parse(url)
+    except Exception as e:
+        print(f"   ⚠️ RSS 실패: {e}")
+        return []
+
+    if not getattr(feed, "entries", None):
+        return []
+
+    cutoff = datetime.now(timezone.utc) - timedelta(days=DAYS_TO_KEEP)
+    out = []
+    for entry in feed.entries[:MAX_ARTICLES_PER_COMPANY]:
+        title = str(getattr(entry, "title", "")).strip()
+        link = str(getattr(entry, "link", "")).strip()
+        if not title or not link or link in seen_urls:
+            continue
+
+        # 파이썬 1차 문지기
+        if any(k in title for k in JUNK_KEYWORDS):
+            seen_urls.add(link)  # 다시 안 보게 표시
+            continue
+
+        pub_str = str(getattr(entry, "published", ""))
+        pub_ts = 0
         try:
-            res = requests.post(url, json=payload, headers=headers).json()
-            
-            if 'candidates' not in res:
-                error_msg = res.get('error', {}).get('message', '')
-                if "Quota" in error_msg or "exceeded" in error_msg:
-                    if attempt == 0:
-                        print("   ⏳ [1분 속도 제한 감지] 60초간 숨을 고르고 다시 시도합니다...")
-                        time.sleep(60)
-                        continue
-                    else:
-                        return "QUOTA_DEAD", "API 일일 무료 한도(1,500회) 완전 소진"
-                return "ERROR", f"구글 API 거절: {error_msg}"
-                
-            answer = res['candidates'][0]['content']['parts'][0]['text'].strip()
-            
-            if "REJECT_IRRELEVANT" in answer.upper(): return "IRRELEVANT", ""
-            if "REJECT_DUPLICATE" in answer.upper(): return "DUPLICATE", ""
-            
-            if "PASS|" in answer:
-                return "PASS", answer.split("PASS|")[1].strip()
-            else:
-                return "PASS", answer.replace("PASS", "").strip()
-                
-        except Exception as e:
-            return "ERROR", f"시스템 오류: {str(e)}"
-    
-    return "ERROR", "통신 실패"
+            t = email.utils.parsedate_tz(pub_str)
+            if t:
+                pub_ts = int(email.utils.mktime_tz(t))
+                pub_dt = datetime.fromtimestamp(pub_ts, timezone.utc)
+                if pub_dt < cutoff:
+                    seen_urls.add(link)
+                    continue
+                kst = pub_dt + timedelta(hours=9)
+                pub_str = kst.strftime("%Y-%m-%d %H:%M")
+        except Exception:
+            pass
 
-def insert_into_global_feed(article_html):
-    html_file = "index.html"
-    if not os.path.exists(html_file): return
-    with open(html_file, "r", encoding="utf-8") as f: content = f.read()
-    insert_pattern = re.compile(r'(<div id="global-news-feed">)', re.IGNORECASE)
-    if insert_pattern.search(content):
-        content = insert_pattern.sub(r'\1\n' + article_html, content, count=1)
-    with open(html_file, "w", encoding="utf-8") as f: f.write(content)
+        out.append({
+            "title": title,
+            "link": link,
+            "published": pub_str,
+            "timestamp": pub_ts
+        })
+    return out
+
+
+# ============================================================
+# Gemini 배치 분석
+# ============================================================
+def analyze_articles_batch(company_name, articles, rate_limiter):
+    """
+    반환:
+      list[dict]  — 각 기사에 대한 {"verdict": "PASS"/"IRRELEVANT"/"DUPLICATE", "summary": str}
+      "QUOTA_DEAD" — 일일 한도 소진
+      None        — 일시적 오류, 이번 회차 스킵
+    """
+    if not articles:
+        return []
+
+    items_str = json.dumps(
+        [{"id": i, "title": a["title"]} for i, a in enumerate(articles)],
+        ensure_ascii=False
+    )
+
+    prompt = f"""당신은 깐깐한 반도체 산업 분석가입니다.
+대상 기업: {company_name}
+
+다음 기사 후보 목록을 분석하세요:
+{items_str}
+
+각 기사를 아래 기준으로 판정하고 **순수 JSON 배열로만** 응답하세요 (앞뒤 설명 금지, 코드블록 금지):
+
+판정:
+- "IRRELEVANT": 반도체/팹리스/파운드리/디자인하우스/AI칩 생태계와 무관한 일반 가십·연예·소비재·주가차트 기사
+- "DUPLICATE": 같은 목록 안에서 같은 사건을 반복 보도 — 가장 먼저 등장한 1건만 PASS, 나머지는 DUPLICATE
+- "PASS": 위 둘 다 아닌 정상적인 반도체 산업/기술/사업 기사
+
+응답 포맷:
+[
+  {{"id": 0, "verdict": "PASS", "summary": "3줄 이내 핵심 요약"}},
+  {{"id": 1, "verdict": "IRRELEVANT", "summary": ""}}
+]
+PASS 인 항목만 summary 채우고, 나머지는 빈 문자열.
+"""
+
+    url = (f"https://generativelanguage.googleapis.com/v1beta/models/"
+           f"{GEMINI_MODEL}:generateContent?key={GEMINI_API_KEY}")
+    payload = {
+        "contents": [{"parts": [{"text": prompt}]}],
+        "generationConfig": {
+            "temperature": 0.2,
+            "responseMimeType": "application/json"
+        }
+    }
+
+    for attempt in range(3):
+        rate_limiter.wait_if_needed()
+        try:
+            r = requests.post(url, json=payload, timeout=REQUEST_TIMEOUT)
+            res = r.json()
+        except requests.exceptions.RequestException as e:
+            print(f"   ⚠️ 네트워크 오류({attempt+1}/3): {e}")
+            time.sleep(5 * (attempt + 1))
+            continue
+        except Exception as e:
+            print(f"   ⚠️ 응답 파싱 실패: {e}")
+            return None
+
+        # 에러 처리
+        if "error" in res:
+            msg = res["error"].get("message", "")
+            code = res["error"].get("code", 0)
+            low = msg.lower()
+            if code == 429 or "quota" in low or "exceed" in low or "resource_exhausted" in low:
+                if attempt < 2:
+                    wait = 30 * (attempt + 1)
+                    print(f"   ⏳ 한도 감지({attempt+1}/3), {wait}초 대기")
+                    time.sleep(wait)
+                    continue
+                return "QUOTA_DEAD"
+            print(f"   ⚠️ API 오류: {msg[:200]}")
+            return None
+
+        cands = res.get("candidates") or []
+        if not cands:
+            # safety / blocked 등
+            reason = res.get("promptFeedback", {}).get("blockReason", "unknown")
+            print(f"   ⚠️ candidates 비어있음 (reason={reason})")
+            return None
+
+        # 응답 텍스트 추출
+        try:
+            parts = cands[0]["content"]["parts"]
+            text = "".join(p.get("text", "") for p in parts).strip()
+        except (KeyError, IndexError, TypeError):
+            print(f"   ⚠️ 응답 구조 비정상")
+            return None
+
+        # JSON 파싱 (코드블록 펜스 제거)
+        text = re.sub(r"^```(?:json)?\s*", "", text)
+        text = re.sub(r"\s*```$", "", text)
+        try:
+            parsed = json.loads(text)
+        except json.JSONDecodeError:
+            m = re.search(r"\[.*\]", text, re.DOTALL)
+            if not m:
+                print(f"   ⚠️ JSON 추출 실패: {text[:200]}")
+                return None
+            try:
+                parsed = json.loads(m.group(0))
+            except json.JSONDecodeError:
+                print(f"   ⚠️ JSON 파싱 실패: {text[:200]}")
+                return None
+
+        if not isinstance(parsed, list):
+            return None
+
+        # 결과 정렬
+        results = [None] * len(articles)
+        for item in parsed:
+            if not isinstance(item, dict):
+                continue
+            idx = item.get("id")
+            if isinstance(idx, int) and 0 <= idx < len(articles):
+                results[idx] = {
+                    "verdict": str(item.get("verdict", "")).upper().strip(),
+                    "summary": str(item.get("summary", "")).strip()
+                }
+        for i in range(len(results)):
+            if results[i] is None:
+                results[i] = {"verdict": "IRRELEVANT", "summary": ""}
+        return results
+
+    return None
+
+
+# ============================================================
+# HTML 재생성
+# ============================================================
+def replace_feed_contents(html_str, new_inner):
+    """<div id="global-news-feed"> ... </div> 내부를 통째로 교체."""
+    marker = '<div id="global-news-feed">'
+    start = html_str.find(marker)
+    if start == -1:
+        return html_str
+
+    content_start = start + len(marker)
+    depth = 1
+    i = content_start
+    n = len(html_str)
+    while i < n and depth > 0:
+        nxt_open = html_str.find("<div", i)
+        nxt_close = html_str.find("</div>", i)
+        if nxt_close == -1:
+            return html_str  # 깨진 HTML
+        if nxt_open != -1 and nxt_open < nxt_close:
+            depth += 1
+            i = nxt_open + 4
+        else:
+            depth -= 1
+            if depth == 0:
+                return html_str[:content_start] + "\n" + new_inner + "        " + html_str[nxt_close:]
+            i = nxt_close + 6
+    return html_str
+
+
+def update_timestamp(html_str):
+    now_kst = (datetime.now(timezone.utc) + timedelta(hours=9)).strftime("%Y-%m-%d %H:%M")
+    return re.sub(
+        r'<div class="updated-time">.*?</div>',
+        f'<div class="updated-time">최근 업데이트: {now_kst} (KST)</div>',
+        html_str
+    )
+
+
+def render_feed_html(articles_db):
+    sorted_articles = sorted(articles_db, key=lambda x: x.get("timestamp", 0), reverse=True)
+    if not sorted_articles:
+        return ('            <div id="no-news" class="no-news-msg">'
+                '아직 수집된 기사가 없습니다. 로봇 가동을 기다려주세요.</div>\n')
+    parts = []
+    for a in sorted_articles:
+        parts.append(
+            f'        <div class="article-item" '
+            f'data-id="{htmllib.escape(a["company"])}" '
+            f'data-timestamp="{a["timestamp"]}">\n'
+            f'            <span class="company-badge">{htmllib.escape(a["company"])}</span>\n'
+            f'            <p class="news-date">🕒 {htmllib.escape(a["published"])}</p>\n'
+            f'            <h4 class="news-title">📰 {htmllib.escape(a["title"])}</h4>\n'
+            f'            <p class="news-summary">✨ {htmllib.escape(a["summary"])}</p>\n'
+            f'            <a href="{htmllib.escape(a["link"], quote=True)}" '
+            f'target="_blank" rel="noopener" class="news-link">[ 📄 원문 기사 보기 ]</a>\n'
+            f'        </div>\n'
+        )
+    # 빈 경우용 마커도 추가 (필터에서 결과 0개일 때 메시지용)
+    parts.append('        <div id="no-news" class="no-news-msg" style="display:none;">'
+                 '선택한 기업에 해당하는 기사가 없습니다.</div>\n')
+    return "".join(parts)
+
+
+def rebuild_html(articles_db):
+    if not os.path.exists(HTML_FILE):
+        print(f"⚠️ {HTML_FILE} 없음 — HTML 갱신 스킵")
+        return
+    with open(HTML_FILE, "r", encoding="utf-8") as f:
+        content = f.read()
+    content = replace_feed_contents(content, render_feed_html(articles_db))
+    content = update_timestamp(content)
+    with open(HTML_FILE, "w", encoding="utf-8") as f:
+        f.write(content)
+
+
+# ============================================================
+# 메인
+# ============================================================
+def main():
+    if not GEMINI_API_KEY:
+        print("❌ GEMINI_API_KEY 환경변수가 설정되지 않았습니다.")
+        return 1
+
+    print(f"🚀 크롤러 시작")
+    print(f"   모델: {GEMINI_MODEL}")
+    print(f"   기업: {len(COMPANIES)}개")
+    print(f"   RPM 한도: {RPM_LIMIT}\n")
+
+    articles_db = load_json(ARTICLES_JSON, [])
+    seen_urls = set(load_json(SEEN_URLS_JSON, []))
+    rate_limiter = RateLimiter(RPM_LIMIT)
+
+    quota_dead = False
+    new_count = 0
+    api_calls = 0
+    start_ts = time.time()
+
+    for ci, comp in enumerate(COMPANIES, 1):
+        if quota_dead:
+            print(f"   ⏭️  나머지 {len(COMPANIES) - ci + 1}개 기업은 다음 실행으로 미룸")
+            break
+
+        name = comp["name"]
+        print(f"[{ci}/{len(COMPANIES)}] {name}")
+
+        # 1) RSS
+        candidates = fetch_news(name, seen_urls)
+        if not candidates:
+            print(f"   💨 신규 후보 없음")
+            continue
+        print(f"   📦 신규 후보 {len(candidates)}개 → Gemini 배치 분석")
+
+        # 2) Gemini 배치 호출
+        results = analyze_articles_batch(name, candidates, rate_limiter)
+        api_calls += 1
+
+        if results == "QUOTA_DEAD":
+            print(f"\n🚨 일일 한도 소진 감지 — 조기 종료 (수집한 부분까지 저장)")
+            quota_dead = True
+            break
+
+        if results is None:
+            print(f"   ⚠️ 이번 실행에서는 스킵 (다음 실행 시 재시도)")
+            continue
+
+        # 3) 결과 반영
+        for art, res in zip(candidates, results):
+            seen_urls.add(art["link"])
+            verdict = res["verdict"]
+            if verdict == "PASS" and res["summary"]:
+                print(f"   ✅ PASS  | {art['title'][:50]}")
+                articles_db.append({
+                    "company": name,
+                    "title": art["title"],
+                    "link": art["link"],
+                    "published": art["published"],
+                    "timestamp": art["timestamp"],
+                    "summary": res["summary"]
+                })
+                new_count += 1
+            elif verdict == "DUPLICATE":
+                print(f"   🚫 DUP   | {art['title'][:50]}")
+            else:
+                print(f"   🗑️  IRR   | {art['title'][:50]}")
+
+    # ============================================================
+    # 정리 — 오래된 기사 제거 + 링크 기준 중복 제거
+    # ============================================================
+    cutoff_ts = int((datetime.now(timezone.utc) - timedelta(days=DAYS_TO_KEEP)).timestamp())
+    before = len(articles_db)
+    seen_links = set()
+    cleaned = []
+    for a in sorted(articles_db, key=lambda x: x.get("timestamp", 0), reverse=True):
+        if a.get("timestamp", 0) < cutoff_ts:
+            continue
+        if a["link"] in seen_links:
+            continue
+        seen_links.add(a["link"])
+        cleaned.append(a)
+    articles_db = cleaned
+    pruned = before - len(articles_db)
+
+    # seen_urls 크기 관리 (10000건 넘으면 최근 7000건만 유지 — 단순 컷)
+    if len(seen_urls) > 10000:
+        seen_urls = set(list(seen_urls)[-7000:])
+
+    save_json(ARTICLES_JSON, articles_db)
+    save_json(SEEN_URLS_JSON, sorted(seen_urls))
+    rebuild_html(articles_db)
+
+    elapsed = time.time() - start_ts
+    print(f"\n{'='*60}")
+    print(f"✨ 완료 ({elapsed:.1f}초)")
+    print(f"   신규 추가: {new_count}건")
+    print(f"   API 호출:  {api_calls}회 (Gemini 배치)")
+    print(f"   현재 보관: {len(articles_db)}건")
+    print(f"   정리 제거: {pruned}건")
+    print(f"   조기 종료: {'예' if quota_dead else '아니오'}")
+    print(f"{'='*60}")
+    return 0
+
 
 if __name__ == "__main__":
-    print("🚀 [Pro V7.0 THE MASTERPIECE] 하이브리드 필터링 & 스마트 방어 아키텍처 가동...")
-    
-    html_file = "index.html"
-    existing_html = open(html_file, "r", encoding="utf-8").read() if os.path.exists(html_file) else ""
-    
-    quota_dead = False
-    
-    for comp in COMPANIES:
-        if quota_dead: break 
-        
-        articles = fetch_news(comp['name'], existing_html)
-        
-        if articles:
-            print(f"📦 [{comp['name']}] AI가 검사할 알짜 기사 {len(articles)}개 포착! (요약 시작)")
-            collected_titles = [] 
-            
-            for news in articles:
-                status, summary = analyze_and_summarize(comp['name'], news['title'], collected_titles)
-                
-                if status == "QUOTA_DEAD":
-                    print(f"\n🚨 [긴급 정지] 오늘 치 구글 무료 한도가 바닥났습니다! 내일 다시 오거나 API 키를 교체하세요. (강제 퇴근)")
-                    quota_dead = True
-                    break
-                
-                elif status == "IRRELEVANT":
-                    print(f"   🗑️ [무관 차단] {news['title']}")
-                    existing_html += news['link'] 
-                elif status == "DUPLICATE":
-                    print(f"   🚫 [도배 차단] {news['title']}")
-                    existing_html += news['link']
-                elif status == "ERROR":
-                    print(f"   ⚠️ [에러 발생] 원인: {summary} / 기사: {news['title']}")
-                elif status == "PASS":
-                    print(f"   ✅ [요약 완료] {news['title']}")
-                    collected_titles.append(news['title']) 
-                    
-                    article_html = (
-                        f'        <div class="article-item" data-id="{comp["name"]}" data-timestamp="{news["timestamp"]}">\n'
-                        f'            <span class="company-badge">{comp["name"]}</span>\n'
-                        f'            <p class="news-date">🕒 {news["published"]}</p>\n'
-                        f'            <h4 class="news-title">📰 {news["title"]}</h4>\n'
-                        f'            <p class="news-summary">✨ {summary}</p>\n'
-                        f'            <a href="{news["link"]}" target="_blank" class="news-link">[ 📄 원문 기사 보기 ]</a>\n'
-                        f'        </div>\n'
-                    )
-                    insert_into_global_feed(article_html)
-                    existing_html += news['link']
-                
-                # 안전빵 3초 휴식 (1분 15회 속도 제한 회피)
-                time.sleep(3) 
-                
-        else:
-            print(f"💨 [{comp['name']}] 새로 수집할 기사 없음 (Skip)")
-            
-    now_kst = (datetime.now(timezone.utc) + timedelta(hours=9)).strftime("%Y-%m-%d %H:%M")
-    with open(html_file, "r", encoding="utf-8") as f: content = f.read()
-    updated_content = re.sub(
-        r'<div class="updated-time">.*?</div>', 
-        f'<div class="updated-time">최근 업데이트: {now_kst} (KST 기준 업데이트 완료)</div>', 
-        content
-    )
-    with open(html_file, "w", encoding="utf-8") as f: f.write(updated_content)
-        
-    print("✨ 글로벌 타임라인 대시보드 업데이트 완료 (또는 한도 초과로 조기 퇴근)!")
+    exit(main())
