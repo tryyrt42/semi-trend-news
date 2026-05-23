@@ -99,7 +99,7 @@ def fetch_news(company_name, existing_html):
 def analyze_and_summarize(company_name, new_title, existing_titles):
     """💡 일타쌍피 함수: 1번의 질문으로 주식 차단, 중복 차단, 요약까지 한방에 끝냅니다!"""
     if not GEMINI_API_KEY or GEMINI_API_KEY == "YOUR_API_KEY":
-        return "ERROR", "API 키가 없습니다."
+        return "ERROR", "API 키가 등록되지 않았습니다. 깃허브 Secrets를 확인하세요."
     
     prompt = f"""당신은 깐깐한 반도체 산업 분석가입니다.
 기업: {company_name}
@@ -119,13 +119,18 @@ def analyze_and_summarize(company_name, new_title, existing_titles):
 오직 이 경우에만, 기사 내용을 유추하여 핵심만 3줄 이내로 요약하세요. 
 반드시 요약문 맨 앞에 'PASS|' 를 붙여서 출력하세요. (예: PASS|1. TSMC가... 2. ... 3. ...)
 """
-    url = f"https://generativelanguage.googleapis.com/v1beta/models/gemini-3.5-flash:generateContent?key={GEMINI_API_KEY}"
+    # 💡 팩트체크 완료: 현재 가장 안정적이고 빠른 공식 모델로 수정했습니다.
+    url = f"https://generativelanguage.googleapis.com/v1beta/models/gemini-1.5-flash:generateContent?key={GEMINI_API_KEY}"
     payload = {"contents": [{"parts": [{"text": prompt}]}]}
     headers = {'Content-Type': 'application/json'}
+    
     try:
         res = requests.post(url, json=payload, headers=headers).json()
+        
+        # 💡 [핵심 패치] 뭉뚱그려 과부하라고 퉁치지 않고, 구글 서버의 '진짜 에러 메시지'를 뽑아옵니다.
         if 'candidates' not in res:
-            return "ERROR", "구글 AI 과부하 대기 중..."
+            error_msg = res.get('error', {}).get('message', '알 수 없는 구글 통신 에러')
+            return "ERROR", f"구글 API 거절: {error_msg}"
             
         answer = res['candidates'][0]['content']['parts'][0]['text'].strip()
         
@@ -139,7 +144,7 @@ def analyze_and_summarize(company_name, new_title, existing_titles):
         else:
             return "PASS", answer.replace("PASS", "").strip()
     except Exception as e:
-        return "ERROR", f"요약 실패 (시스템 오류)"
+        return "ERROR", f"시스템 오류: {str(e)}"
 
 def insert_into_global_feed(article_html):
     html_file = "index.html"
@@ -151,7 +156,7 @@ def insert_into_global_feed(article_html):
     with open(html_file, "w", encoding="utf-8") as f: f.write(content)
 
 if __name__ == "__main__":
-    print("🚀 [Pro V5.1] 과부하 방지 속도 조절 패치 가동 시작...")
+    print("🚀 [Pro V5.2] 에러 가면 벗기기 & 1.5 Flash 안정화 패치 가동 시작...")
     
     html_file = "index.html"
     existing_html = open(html_file, "r", encoding="utf-8").read() if os.path.exists(html_file) else ""
@@ -176,8 +181,9 @@ if __name__ == "__main__":
                     print(f"   🚫 [도배 기사 차단] {news['title']}")
                     existing_html += news['link']
                 elif status == "ERROR":
-                    print(f"   ⚠️ [API 과부하 발생! 15초 긴급 휴식] {news['title']}")
-                    time.sleep(15) # 💡 구글이 뻗으면 15초 동안 길게 숨을 고릅니다.
+                    # 💡 [핵심 패치] 거짓말 안 하고 '진짜 원인'을 화면에 출력합니다.
+                    print(f"   ⚠️ [에러 발생] 원인: {summary} / 기사: {news['title']}")
+                    time.sleep(5) 
                     continue
                 
                 if status == "PASS":
@@ -197,7 +203,7 @@ if __name__ == "__main__":
                     insert_into_global_feed(article_html)
                     existing_html += news['link']
                 
-                # 💡 [핵심 패치] 어떤 결과가 나오든 무조건 5초를 푹 쉽니다. (안전 속도 강제 유지)
+                # 어떤 결과가 나오든 무조건 5초를 푹 쉽니다. (안전 속도 강제 유지)
                 time.sleep(5) 
         else:
             print(f"💨 [{comp['name']}] 수집할 새 기사 없음 (Skip)")
