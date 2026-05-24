@@ -25,6 +25,7 @@ GEMINI_MODEL = os.environ.get("GEMINI_MODEL", "gemini-2.5-flash-lite").strip()
 HTML_FILE = "index.html"
 ARTICLES_JSON = "articles.json"
 SEEN_URLS_JSON = "seen_urls.json"
+STATE_JSON = "crawler_state.json"   # 이어 시작용 — 마지막 처리 위치 저장
 
 MAX_ARTICLES_PER_COMPANY = 8      # 일반 기업: 기업당 RSS 상위 N개 검토
 MAX_ARTICLES_FOR_HOT = 20         # 핫 티커: 시세 기사가 도배해서 더 많이 봐야 함
@@ -409,6 +410,8 @@ PASS 가 아닌 항목은 summary 빈 문자열로.
             if code == 429 or "quota" in low or "exceed" in low or "resource_exhausted" in low:
                 if attempt < 2:
                     wait = 30 * (attempt + 1)
+                    if attempt == 0:
+                        print(f"   📝 API 응답: {msg[:200]}")  # 첫 회만 진단용 출력
                     print(f"   ⏳ 한도 감지({attempt+1}/3), {wait}초 대기")
                     time.sleep(wait)
                     continue
@@ -588,13 +591,24 @@ def main():
     api_calls = 0
     start_ts = time.time()
 
-    for ci, comp in enumerate(COMPANIES, 1):
-        if quota_dead:
-            print(f"   ⏭️  나머지 {len(COMPANIES) - ci + 1}개 기업은 다음 실행으로 미룸")
-            break
+    # 이어 시작: 마지막에 멈춘 위치부터 다시 시작 (한도 소진으로 뒤쪽 기업이 영영 안 잡히는 문제 해결)
+    state = load_json(STATE_JSON, {"start_index": 0})
+    start_idx = state.get("start_index", 0)
+    if not isinstance(start_idx, int) or start_idx < 0:
+        start_idx = 0
+    start_idx = start_idx % len(COMPANIES)
 
+    if start_idx > 0:
+        companies_order = COMPANIES[start_idx:] + COMPANIES[:start_idx]
+        print(f"📍 이어 시작: {start_idx+1}번 ({COMPANIES[start_idx]['name']}) 부터\n")
+    else:
+        companies_order = COMPANIES
+        print(f"📍 처음부터 시작 (1번 ~ {len(COMPANIES)}번)\n")
+
+    for ci, comp in enumerate(companies_order, 1):
+        actual_idx = (start_idx + ci - 1) % len(COMPANIES)
         name = comp["name"]
-        print(f"[{ci}/{len(COMPANIES)}] {name}")
+        print(f"[{ci}/{len(companies_order)}] {name}")
 
         # 1) RSS
         candidates = fetch_news(name, seen_urls)
@@ -609,6 +623,8 @@ def main():
 
         if results == "QUOTA_DEAD":
             print(f"\n🚨 일일 한도 소진 감지 — 조기 종료 (수집한 부분까지 저장)")
+            print(f"   📍 다음 실행은 {actual_idx+1}번 ({name}) 부터 이어집니다")
+            save_json(STATE_JSON, {"start_index": actual_idx})
             quota_dead = True
             break
 
@@ -659,6 +675,9 @@ def main():
 
     save_json(ARTICLES_JSON, articles_db)
     save_json(SEEN_URLS_JSON, sorted(seen_urls))
+    # 정상 완료(118개 다 돌았으면) state 리셋하여 다음 실행은 1번부터
+    if not quota_dead:
+        save_json(STATE_JSON, {"start_index": 0})
     rebuild_html(articles_db)
 
     elapsed = time.time() - start_ts
