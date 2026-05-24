@@ -26,11 +26,22 @@ HTML_FILE = "index.html"
 ARTICLES_JSON = "articles.json"
 SEEN_URLS_JSON = "seen_urls.json"
 
-MAX_ARTICLES_PER_COMPANY = 5     # 기업당 RSS 에서 최대 몇 개 후보
+MAX_ARTICLES_PER_COMPANY = 8      # 일반 기업: 기업당 RSS 상위 N개 검토
+MAX_ARTICLES_FOR_HOT = 20         # 핫 티커: 시세 기사가 도배해서 더 많이 봐야 함
 DAYS_TO_KEEP = 30                 # 며칠 치 기사 보관
 RPM_LIMIT = 12                    # 분당 호출 안전 한도 (15 RPM 모델 기준 마진)
 REQUEST_TIMEOUT = 30
 RSS_TIMEOUT = 20
+
+# 핫 티커: 한국어 뉴스 빈도가 매우 높아 시세 기사가 상위를 점령하는 빅네임
+HOT_COMPANIES = {
+    "NVIDIA", "AMD", "Intel", "Qualcomm", "Broadcom", "Marvell",
+    "Apple", "Google", "Amazon", "Microsoft", "Meta", "Tesla", "OpenAI",
+    "TSMC", "Samsung Foundry", "MediaTek",
+    "Texas Instruments", "Analog Devices",
+    "Tenstorrent", "Cerebras", "Groq",  # AI 스타트업 핫
+    "리벨리온", "퓨리오사AI", "파두", "딥엑스",  # 국내 AI 스타트업 핫
+}
 
 # 파이썬 1차 문지기: 주식 찌라시 키워드 차단 (Gemini 호출 전 컷)
 JUNK_KEYWORDS = [
@@ -257,9 +268,11 @@ def fetch_news(company_name, seen_urls):
     if not getattr(feed, "entries", None):
         return []
 
+    # 핫 티커는 더 많이 가져오기 (시세 기사 도배에 묻히는 진짜 뉴스 회수)
+    limit = MAX_ARTICLES_FOR_HOT if company_name in HOT_COMPANIES else MAX_ARTICLES_PER_COMPANY
     cutoff = datetime.now(timezone.utc) - timedelta(days=DAYS_TO_KEEP)
     out = []
-    for entry in feed.entries[:MAX_ARTICLES_PER_COMPANY]:
+    for entry in feed.entries[:limit]:
         title = str(getattr(entry, "title", "")).strip()
         link = str(getattr(entry, "link", "")).strip()
         if not title or not link or link in seen_urls:
