@@ -502,11 +502,18 @@ def replace_feed_contents(html_str, new_inner):
     return html_str
 
 
-def update_timestamp(html_str):
+def update_timestamp(html_str, new_count=0, quota_dead=False, total_count=0):
+    """타임스탬프를 정직하게 표시. 신규 0건이면 '시도만 함' 명시."""
     now_kst = (datetime.now(timezone.utc) + timedelta(hours=9)).strftime("%Y-%m-%d %H:%M")
+    if quota_dead and new_count == 0:
+        status = f"⚠️ {now_kst} (KST) · 한도 소진으로 신규 0건 · 보관 {total_count}건"
+    elif new_count == 0:
+        status = f"{now_kst} (KST) · 신규 0건 · 보관 {total_count}건"
+    else:
+        status = f"{now_kst} (KST) · 신규 {new_count}건 추가 · 보관 {total_count}건"
     return re.sub(
         r'<div class="updated-time">.*?</div>',
-        f'<div class="updated-time">최근 업데이트: {now_kst} (KST)</div>',
+        f'<div class="updated-time">최근 업데이트: {status}</div>',
         html_str
     )
 
@@ -536,14 +543,14 @@ def render_feed_html(articles_db):
     return "".join(parts)
 
 
-def rebuild_html(articles_db):
+def rebuild_html(articles_db, new_count=0, quota_dead=False):
     if not os.path.exists(HTML_FILE):
         print(f"⚠️ {HTML_FILE} 없음 — HTML 갱신 스킵")
         return
     with open(HTML_FILE, "r", encoding="utf-8") as f:
         content = f.read()
     content = replace_feed_contents(content, render_feed_html(articles_db))
-    content = update_timestamp(content)
+    content = update_timestamp(content, new_count=new_count, quota_dead=quota_dead, total_count=len(articles_db))
     with open(HTML_FILE, "w", encoding="utf-8") as f:
         f.write(content)
 
@@ -678,7 +685,7 @@ def main():
     # 정상 완료(118개 다 돌았으면) state 리셋하여 다음 실행은 1번부터
     if not quota_dead:
         save_json(STATE_JSON, {"start_index": 0})
-    rebuild_html(articles_db)
+    rebuild_html(articles_db, new_count=new_count, quota_dead=quota_dead)
 
     elapsed = time.time() - start_ts
     print(f"\n{'='*60}")
