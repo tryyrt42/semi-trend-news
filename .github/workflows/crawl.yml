@@ -1,9 +1,9 @@
 name: Semiconductor News Crawler
 
 on:
-  # 6시간마다 자동 실행 (UTC 기준 — 한국시간 09시/15시/21시/03시)
+  # 2시간마다 자동 실행 (when:1d 검색이라 자주 돌려도 API 부담 없음)
   schedule:
-    - cron: '0 */6 * * *'
+    - cron: '0 */2 * * *'
   # 수동 실행 버튼
   workflow_dispatch:
 
