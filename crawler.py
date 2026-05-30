@@ -26,11 +26,11 @@ HTML_FILE = "index.html"
 ARTICLES_JSON = "articles.json"
 SEEN_URLS_JSON = "seen_urls.json"
 STATE_JSON = "crawler_state.json"   # 이어 시작용 — 마지막 처리 위치 저장
+DAILY_STATS_JSON = "daily_stats.json" # 오늘 누적 API 호출 수 추적
 
-MAX_ARTICLES_PER_COMPANY = 5      # 당일 기사만 검색하면 5개면 충분
-MAX_ARTICLES_FOR_HOT = 10         # 핫 티커도 당일이면 10개로 충분
-DAYS_TO_KEEP = 30                 # DB 보관 기간 (표시용, 검색과 무관)
-SEARCH_DAYS = 2                   # RSS 검색 범위: 당일 기사만 (한도 절약 핵심)
+MAX_ARTICLES_PER_COMPANY = 8      # 일반 기업: 기업당 RSS 상위 N개 검토
+MAX_ARTICLES_FOR_HOT = 20         # 핫 티커: 시세 기사가 도배해서 더 많이 봐야 함
+DAYS_TO_KEEP = 30                 # 며칠 치 기사 보관
 RPM_LIMIT = 12                    # 분당 호출 안전 한도 (15 RPM 모델 기준 마진)
 REQUEST_TIMEOUT = 30
 RSS_TIMEOUT = 20
@@ -231,6 +231,21 @@ def save_json(path, data):
         json.dump(data, f, ensure_ascii=False, indent=2)
 
 
+def get_pacific_date():
+    """Google API 한도 리셋 기준 — 태평양 자정 (KST 오후 4시)"""
+    return (datetime.now(timezone.utc) - timedelta(hours=7)).strftime("%Y-%m-%d")
+
+def load_daily_stats():
+    stats = load_json(DAILY_STATS_JSON, {"date": "", "calls": 0})
+    today = get_pacific_date()
+    if stats.get("date") != today:
+        stats = {"date": today, "calls": 0}
+    return stats
+
+def save_daily_stats(stats):
+    save_json(DAILY_STATS_JSON, stats)
+
+
 class RateLimiter:
     """슬라이딩 윈도우 방식 RPM 제어."""
     def __init__(self, rpm_limit):
@@ -255,7 +270,7 @@ class RateLimiter:
 # ============================================================
 def build_search_query(company_name):
     base = f"{company_name} 반도체" if company_name in BIGTECH_NEEDS_FILTER else company_name
-    return f"{base} when:{SEARCH_DAYS}d"
+    return f"{base} when:30d"
 
 def fetch_news(company_name, seen_urls):
     query = build_search_query(company_name)
@@ -270,9 +285,9 @@ def fetch_news(company_name, seen_urls):
     if not getattr(feed, "entries", None):
         return []
 
-    # 검색은 당일치만 (SEARCH_DAYS), +1은 시간대 차이 버퍼
+    # 핫 티커는 더 많이 가져오기 (시세 기사 도배에 묻히는 진짜 뉴스 회수)
     limit = MAX_ARTICLES_FOR_HOT if company_name in HOT_COMPANIES else MAX_ARTICLES_PER_COMPANY
-    cutoff = datetime.now(timezone.utc) - timedelta(days=SEARCH_DAYS + 1)
+    cutoff = datetime.now(timezone.utc) - timedelta(days=DAYS_TO_KEEP)
     out = []
     for entry in feed.entries[:limit]:
         title = str(getattr(entry, "title", "")).strip()
@@ -572,6 +587,20 @@ def main():
     articles_db = load_json(ARTICLES_JSON, [])
     seen_urls = set(load_json(SEEN_URLS_JSON, []))
     rate_limiter = RateLimiter(RPM_LIMIT)
+    daily_stats = load_daily_stats()
+
+    # 오늘 누적 RPD 현황 출력
+    rpd_used = daily_stats["calls"]
+    rpd_pct = rpd_used / 10  # 1000 기준 %
+    if rpd_used == 0:
+        rpd_status = "✅ 여유"
+    elif rpd_pct < 50:
+        rpd_status = "✅ 여유"
+    elif rpd_pct < 80:
+        rpd_status = "⚠️ 주의"
+    else:
+        rpd_status = "🚨 위험"
+    print(f"📊 오늘 RPD: {rpd_used} / ~1,000회 ({rpd_pct:.0f}%) {rpd_status}\n")
 
     # 기존 articles.json 에서도 새로 추가된 JUNK 기준으로 재청소
     # (예전에 통과됐던 투자분석 기사 등 회수)
@@ -628,6 +657,7 @@ def main():
         # 2) Gemini 배치 호출
         results = analyze_articles_batch(name, candidates, rate_limiter)
         api_calls += 1
+        daily_stats["calls"] += 1
 
         if results == "QUOTA_DEAD":
             print(f"\n🚨 일일 한도 소진 감지 — 조기 종료 (수집한 부분까지 저장)")
@@ -683,6 +713,7 @@ def main():
 
     save_json(ARTICLES_JSON, articles_db)
     save_json(SEEN_URLS_JSON, sorted(seen_urls))
+    save_daily_stats(daily_stats)
     # 정상 완료(118개 다 돌았으면) state 리셋하여 다음 실행은 1번부터
     if not quota_dead:
         save_json(STATE_JSON, {"start_index": 0})
@@ -692,7 +723,7 @@ def main():
     print(f"\n{'='*60}")
     print(f"✨ 완료 ({elapsed:.1f}초)")
     print(f"   신규 추가: {new_count}건")
-    print(f"   API 호출:  {api_calls}회 (Gemini 배치)")
+    print(f"   API 호출:  {api_calls}회 (이번 실행) / 오늘 누적 {daily_stats['calls']}회 / ~1,000회 한도")
     print(f"   현재 보관: {len(articles_db)}건")
     print(f"   정리 제거: {pruned}건")
     print(f"   조기 종료: {'예' if quota_dead else '아니오'}")
