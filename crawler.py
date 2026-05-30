@@ -143,6 +143,7 @@ COMPANIES = [
     {"id": "세코닉스", "name": "세코닉스"},
     {"id": "넥슨반도체", "name": "넥슨반도체"},
     {"id": "자람테크놀로지", "name": "자람테크놀로지"},
+    {"id": "노바칩스", "name": "노바칩스"},
     # 🇹🇼 대만
     {"id": "mediatek", "name": "MediaTek"},
     {"id": "novatek", "name": "Novatek"},
@@ -210,6 +211,10 @@ COMPANIES = [
     {"id": "tsmc", "name": "TSMC"},
     {"id": "globalfoundries", "name": "GlobalFoundries"},
     {"id": "umc", "name": "UMC"},
+    # ============ EDA ============       # <--- 여기서부터
+    {"id": "synopsys", "name": "Synopsys"},
+    {"id": "cadence", "name": "Cadence"},
+    {"id": "siemens", "name": "Siemens"}, # <--- 여기까지 추가하세요
 ]
 
 
