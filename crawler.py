@@ -20,7 +20,7 @@ import urllib.parse
 # ============================================================
 GEMINI_API_KEY = os.environ.get("GEMINI_API_KEY", "").strip()
 # Flash-Lite 가 무료 RPD 가장 큼 (≈1000+). 품질이 더 필요하면 gemini-2.5-flash 로.
-GEMINI_MODEL = os.environ.get("GEMINI_MODEL", "gemini-2.5-flash-lite").strip()
+GEMINI_MODEL = os.environ.get("GEMINI_MODEL", "gemini-3.1-flash-lite").strip()
 
 HTML_FILE = "index.html"
 ARTICLES_JSON = "articles.json"
