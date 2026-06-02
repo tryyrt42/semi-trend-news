@@ -488,7 +488,7 @@ def fetch_news(company_name, seen_urls):
 # ============================================================
 # Gemini 배치 분석
 # ============================================================
-def analyze_articles_batch(company_name, articles, rate_limiter):
+def analyze_articles_batch(company_name, articles, rate_limiter, search_terms=None):
     """
     반환:
       list[dict]  — 각 기사에 대한 {"verdict": "PASS"/"IRRELEVANT"/"DUPLICATE", "summary": str}
@@ -498,6 +498,11 @@ def analyze_articles_batch(company_name, articles, rate_limiter):
     if not articles:
         return []
 
+    # 검색에 쓴 이름들(회사명+별칭) — 제목 매칭 검증용
+    if not search_terms:
+        search_terms = [company_name]
+    names_str = ", ".join(f'"{t}"' for t in search_terms)
+
     items_str = json.dumps(
         [{"id": i, "title": a["title"]} for i, a in enumerate(articles)],
         ensure_ascii=False
@@ -505,6 +510,7 @@ def analyze_articles_batch(company_name, articles, rate_limiter):
 
     prompt = f"""당신은 깐깐한 반도체 산업 분석가입니다.
 대상 기업: {company_name}
+이 기업의 표기 명칭(별칭 포함): {names_str}
 
 다음 기사 후보 목록을 분석하세요:
 {items_str}
@@ -513,15 +519,18 @@ def analyze_articles_batch(company_name, articles, rate_limiter):
 
 판정:
 - "IRRELEVANT": 아래 중 하나라도 해당하면 무조건 IRRELEVANT
-   (a) 투자분석/투자의견/종목분석/차트분석/추천종목 등 **투자자·주주 대상** 기사
-   (b) "○○ 투자분석 YYYY.MM.DD", "○○ 주가 전망", "관심종목 ○선" 같은 자동생성/리포트성 제목
-   (c) 주가·시세·실적 숫자만 다루는 기사 (사업/기술 내용 없음)
-   (d) 반도체/팹리스/파운드리/디자인하우스/AI칩 생태계와 무관한 일반 가십·연예·소비재
-   (e) 제목이 너무 짧고 모호해서 반도체 사업/기술 관련성 판단이 안 되는 경우
+   (a) **제목에 위 표기 명칭({names_str}) 중 하나가 명시적으로 등장하지 않는 기사** ← 가장 중요. 본문에 언급됐을 것 같아도, 제목에 기업명이 없으면 무조건 IRRELEVANT.
+   (b) 투자분석/투자의견/종목분석/차트분석/추천종목 등 **투자자·주주 대상** 기사
+   (c) "○○ 투자분석 YYYY.MM.DD", "○○ 주가 전망", "관심종목 ○선" 같은 자동생성/리포트성 제목
+   (d) 주가·시세·실적 숫자만 다루는 기사 (사업/기술 내용 없음)
+   (e) 반도체/팹리스/파운드리/디자인하우스/AI칩 생태계와 무관한 일반 가십·연예·소비재
+   (f) 제목이 너무 짧고 모호해서 반도체 사업/기술 관련성 판단이 안 되는 경우
 - "DUPLICATE": 같은 목록 안에서 같은 사건을 반복 보도 — 가장 먼저 등장한 1건만 PASS, 나머지는 DUPLICATE
-- "PASS": 위 둘 다 아니고, 명백한 반도체 **사업/기술/제품/계약/투자유치/공장/인사/IPO** 관련 기사
+- "PASS": 위에 안 걸리고, 제목에 대상 기업명이 명시적으로 있으며, 명백한 반도체 **사업/기술/제품/계약/투자유치/공장/인사/IPO** 관련 기사
 
-핵심 원칙: **애매하면 IRRELEVANT**. 투자분석/리포트류는 어떤 경우에도 PASS 금지.
+핵심 원칙:
+1. **제목에 대상 기업명({names_str})이 없으면 무조건 IRRELEVANT** — 다른 기업이 주어인 기사에 대상 기업이 곁다리로 언급된 경우도 IRRELEVANT.
+2. 애매하면 IRRELEVANT. 투자분석/리포트류는 어떤 경우에도 PASS 금지.
 
 [summary 작성 규칙 — PASS인 경우에만]
 - 2~3문장, 한국어 100자 이내로 짧게.
@@ -761,7 +770,24 @@ def main():
     co_removed = before_co - len(articles_db)
     if co_removed > 0:
         print(f"🧹 추적 대상 외 기업 기사 {co_removed}건 제거")
-    if junk_removed or co_removed:
+
+    # 제목에 회사명/별칭이 전혀 없는 기사 제거 (별칭 검색 부작용 청소)
+    before_name = len(articles_db)
+    kept = []
+    for a in articles_db:
+        company = a.get("company", "")
+        title = a.get("title", "")
+        terms = get_search_terms(company)
+        # 대소문자 무시 매칭
+        title_low = title.lower()
+        if any(t.lower() in title_low for t in terms):
+            kept.append(a)
+    articles_db = kept
+    name_removed = before_name - len(articles_db)
+    if name_removed > 0:
+        print(f"🧹 제목에 회사명 없는 기사 {name_removed}건 제거")
+
+    if junk_removed or co_removed or name_removed:
         print()
 
     quota_dead = False
@@ -796,7 +822,7 @@ def main():
         print(f"   📦 신규 후보 {len(candidates)}개 → Gemini 배치 분석")
 
         # 2) Gemini 배치 호출
-        results = analyze_articles_batch(name, candidates, rate_limiter)
+        results = analyze_articles_batch(name, candidates, rate_limiter, get_search_terms(name))
         api_calls += 1
         daily_stats["calls"] += 1
 
