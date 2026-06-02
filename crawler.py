@@ -32,7 +32,8 @@ DAILY_STATS_JSON = "daily_stats.json" # 오늘 누적 API 호출 수 추적
 
 MAX_ARTICLES_PER_COMPANY = 8      # 일반 기업: 기업당 RSS 상위 N개 검토
 MAX_ARTICLES_FOR_HOT = 20         # 핫 티커: 시세 기사가 도배해서 더 많이 봐야 함
-DAYS_TO_KEEP = 30                 # 며칠 치 기사 보관
+DAYS_TO_KEEP = 30                 # 며칠 치 기사 보관 (DB 표시용)
+SEARCH_DAYS = 2                   # RSS 검색 범위: 어제+오늘 (이틀치)
 RPM_LIMIT = 12                    # 분당 호출 안전 한도 (15 RPM 모델 기준 마진)
 REQUEST_TIMEOUT = 30
 RSS_TIMEOUT = 20
@@ -395,7 +396,7 @@ class RateLimiter:
 def build_search_query(term, company_name):
     """term(회사명 또는 별칭) 기준 검색어 생성"""
     base = f"{term} 반도체" if company_name in BIGTECH_NEEDS_FILTER else term
-    return f"{base} when:30d"
+    return f"{base} when:{SEARCH_DAYS}d"
 
 def get_search_terms(company_name):
     """회사명 + 별칭 전부 (중복 제거)"""
@@ -458,7 +459,7 @@ def fetch_news(company_name, seen_urls):
     # 핫 티커는 더 많이 / 별칭 합산이 너무 커지지 않게 총량 캡
     limit = MAX_ARTICLES_FOR_HOT if company_name in HOT_COMPANIES else MAX_ARTICLES_PER_COMPANY
     total_cap = limit * 2  # 별칭 합산 시 후보 상한
-    cutoff = datetime.now(timezone.utc) - timedelta(days=DAYS_TO_KEEP)
+    cutoff = datetime.now(timezone.utc) - timedelta(days=SEARCH_DAYS + 1)
 
     out = []
     out_links = set()
