@@ -409,6 +409,24 @@ def get_search_terms(company_name):
             uniq.append(t)
     return uniq
 
+def resolve_company(main_company_str, fallback_name):
+    """
+    Gemini가 준 주인공 회사명을 우리 리스트와 대조.
+    - 주인공이 우리 리스트에 있으면 → 그 회사로 분류 (우선순위)
+    - 없으면 → fallback_name (곁다리로 검색된 현재 회사)로 분류
+    """
+    if not main_company_str:
+        return fallback_name
+    s = main_company_str.lower()
+    for comp in COMPANIES:
+        cname = comp["name"]
+        for term in get_search_terms(cname):
+            t = term.lower()
+            # 주인공 문자열에 회사명/별칭이 포함되거나 그 반대
+            if t in s or s in t:
+                return cname
+    return fallback_name
+
 def _parse_entry(entry, company_name, seen_urls, out_links, cutoff):
     """RSS 항목 1개를 검증·파싱. 통과하면 dict 반환, 아니면 None."""
     title = str(getattr(entry, "title", "")).strip()
@@ -519,18 +537,30 @@ def analyze_articles_batch(company_name, articles, rate_limiter, search_terms=No
 
 판정:
 - "IRRELEVANT": 아래 중 하나라도 해당하면 무조건 IRRELEVANT
-   (a) **제목에 위 표기 명칭({names_str}) 중 하나가 명시적으로 등장하지 않는 기사** ← 가장 중요. 본문에 언급됐을 것 같아도, 제목에 기업명이 없으면 무조건 IRRELEVANT.
+   (a) **제목에 대상 기업명({names_str}) 중 하나가 전혀 등장하지 않는 기사** — 본문에 언급됐을 것 같아도 제목에 없으면 IRRELEVANT.
    (b) 투자분석/투자의견/종목분석/차트분석/추천종목 등 **투자자·주주 대상** 기사
    (c) "○○ 투자분석 YYYY.MM.DD", "○○ 주가 전망", "관심종목 ○선" 같은 자동생성/리포트성 제목
    (d) 주가·시세·실적 숫자만 다루는 기사 (사업/기술 내용 없음)
    (e) 반도체/팹리스/파운드리/디자인하우스/AI칩 생태계와 무관한 일반 가십·연예·소비재
    (f) 제목이 너무 짧고 모호해서 반도체 사업/기술 관련성 판단이 안 되는 경우
 - "DUPLICATE": 같은 목록 안에서 같은 사건을 반복 보도 — 가장 먼저 등장한 1건만 PASS, 나머지는 DUPLICATE
-- "PASS": 위에 안 걸리고, 제목에 대상 기업명이 명시적으로 있으며, 명백한 반도체 **사업/기술/제품/계약/투자유치/공장/인사/IPO** 관련 기사
+- "PASS": 위에 안 걸리고, 제목에 대상 기업명이 있으며, 명백한 반도체 **사업/기술/제품/계약/투자유치/공장/인사/IPO** 관련 기사
 
-핵심 원칙:
-1. **제목에 대상 기업명({names_str})이 없으면 무조건 IRRELEVANT** — 다른 기업이 주어인 기사에 대상 기업이 곁다리로 언급된 경우도 IRRELEVANT.
-2. 애매하면 IRRELEVANT. 투자분석/리포트류는 어떤 경우에도 PASS 금지.
+[중요 — 주인공(main_company) 판별]
+각 기사 제목의 **진짜 주인공(주어)** 회사명을 "main_company" 필드에 적으세요.
+- 제목 맨 앞 또는 핵심 주체가 되는 회사명을 그대로 (제목에 쓰인 표기 그대로)
+- 대상 기업({company_name})이 주인공이면 그 이름을, 다른 회사가 주인공이면 그 회사명을 적기
+- 곁다리(비교 대상·협력사·단순 언급)는 주인공이 아님
+
+예시:
+- 제목="하나마이크론, ECTC 우수논문상...삼성·TSMC와 나란히 선정"
+  → main_company="하나마이크론" (TSMC는 곁다리)
+- 제목="엔비디아, 신형 GPU 공개"
+  → main_company="엔비디아"
+- 제목="어드밴텍, NVIDIA-퀄컴과 손잡고 AI 확대"
+  → main_company="어드밴텍" (NVIDIA·퀄컴은 곁다리)
+
+핵심 원칙: 애매하면 IRRELEVANT. 투자분석/리포트류는 어떤 경우에도 PASS 금지.
 
 [summary 작성 규칙 — PASS인 경우에만]
 - 2~3문장, 한국어 100자 이내로 짧게.
@@ -541,10 +571,10 @@ def analyze_articles_batch(company_name, articles, rate_limiter, search_terms=No
 
 응답 포맷:
 [
-  {{"id": 0, "verdict": "PASS", "summary": "제목 기반 짧은 요약"}},
-  {{"id": 1, "verdict": "IRRELEVANT", "summary": ""}}
+  {{"id": 0, "verdict": "PASS", "summary": "제목 기반 짧은 요약", "main_company": "주인공 회사명"}},
+  {{"id": 1, "verdict": "IRRELEVANT", "summary": "", "main_company": ""}}
 ]
-PASS 가 아닌 항목은 summary 빈 문자열로.
+PASS 가 아닌 항목은 summary, main_company 모두 빈 문자열로.
 """
 
     url = (f"https://generativelanguage.googleapis.com/v1beta/models/"
@@ -630,11 +660,12 @@ PASS 가 아닌 항목은 summary 빈 문자열로.
             if isinstance(idx, int) and 0 <= idx < len(articles):
                 results[idx] = {
                     "verdict": str(item.get("verdict", "")).upper().strip(),
-                    "summary": str(item.get("summary", "")).strip()
+                    "summary": str(item.get("summary", "")).strip(),
+                    "main_company": str(item.get("main_company", "")).strip()
                 }
         for i in range(len(results)):
             if results[i] is None:
-                results[i] = {"verdict": "IRRELEVANT", "summary": ""}
+                results[i] = {"verdict": "IRRELEVANT", "summary": "", "main_company": ""}
         return results
 
     return None
@@ -842,9 +873,12 @@ def main():
             seen_urls.add(art["link"])
             verdict = res["verdict"]
             if verdict == "PASS" and res["summary"]:
-                print(f"   ✅ PASS  | {art['title'][:50]}")
+                # 주인공 우선순위: 주인공이 리스트에 있으면 그 회사, 없으면 현재 검색 회사
+                assigned = resolve_company(res.get("main_company", ""), name)
+                tag = "" if assigned == name else f" → {assigned}"
+                print(f"   ✅ PASS  | {art['title'][:50]}{tag}")
                 articles_db.append({
-                    "company": name,
+                    "company": assigned,
                     "title": art["title"],
                     "link": art["link"],
                     "published": art["published"],
