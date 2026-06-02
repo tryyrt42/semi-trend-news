@@ -1,6 +1,6 @@
 """
 반도체 산업 뉴스 크롤러 (V8.0)
-- Gemini 2.5 Flash-Lite (또는 Flash) 배치 처리
+- Gemini 3.1 Flash-Lite (또는 Flash) 배치 처리
 - articles.json / seen_urls.json 로 상태 분리
 - index.html 은 매 실행 후 재생성
 """
