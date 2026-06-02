@@ -19,8 +19,10 @@ import urllib.parse
 # 설정
 # ============================================================
 GEMINI_API_KEY = os.environ.get("GEMINI_API_KEY", "").strip()
-# Flash-Lite 가 무료 RPD 가장 큼 (≈1000+). 품질이 더 필요하면 gemini-2.5-flash 로.
+# 3.1-flash-lite: RPD 500 / 2.5-flash-lite: RPD 1000
 GEMINI_MODEL = os.environ.get("GEMINI_MODEL", "gemini-3.1-flash-lite").strip()
+# 모델별 일일 한도 (env 로 덮어쓰기 가능). 3.1-flash-lite=500
+RPD_LIMIT = int(os.environ.get("RPD_LIMIT", "500"))
 
 HTML_FILE = "index.html"
 ARTICLES_JSON = "articles.json"
@@ -219,6 +221,123 @@ COMPANIES = [
 
 
 # ============================================================
+# 회사명 별칭 (한글 ↔ 영어 양방향 검색용)
+# name 으로 검색 + 아래 별칭으로도 검색 → 결과 합침
+# RSS 검색만 늘 뿐 Gemini 호출(RPD)은 회사당 1회로 동일
+# ============================================================
+ALIASES = {
+    # --- 한국 (한글명 → 영문 별칭) ---
+    "알파칩스": ["AlphaChips"],
+    "에이디테크놀로지": ["ADTechnology", "AD Technology"],
+    "가온칩스": ["Gaonchips"],
+    "세미파이브": ["SemiFive"],
+    "코아시아": ["CoAsia"],
+    "에이직랜드": ["ASICLAND"],
+    "칩스앤미디어": ["Chips&Media", "Chipsnmedia"],
+    "패러데이": ["Faraday"],
+    "퓨리오사AI": ["FuriosaAI", "Furiosa"],
+    "리벨리온": ["Rebellions"],
+    "딥엑스": ["DEEPX", "DeepX"],
+    "파두": ["FADU"],
+    "망고부스트": ["MangoBoost"],
+    "사피온": ["SAPEON"],
+    "모빌린트": ["Mobilint"],
+    "오픈엣지테크": ["Openedges", "OpenEdges"],
+    "씨유박스": ["CUbox"],
+    "에이스테크놀로지": ["ACE Technologies"],
+    "알에프에이치아이씨": ["RFHIC"],
+    "와이솔": ["Wisol"],
+    "이노칩테크놀로지": ["Innochips"],
+    "픽셀플러스": ["Pixelplus"],
+    "에스엘파워일렉트로닉스": ["SL Power"],
+    "보스반도체": ["BOS Semiconductor"],
+    "동운아나텍": ["Dongwoon Anatech"],
+    "실리콘마이터스": ["Silicon Mitus"],
+    "에이디반도체": ["AD Semiconductor"],
+    "MagnaChip반도체": ["MagnaChip", "매그나칩"],
+    "LX세미콘": ["LX Semicon"],
+    "실리콘웍스": ["Silicon Works"],
+    "아나패스": ["Anapass"],
+    "라온텍": ["RAONTECH"],
+    "제주반도체": ["Jeju Semiconductor"],
+    "텔레칩스": ["Telechips"],
+    "넥스트칩": ["Nextchip"],
+    "에이비오브": ["ABOV", "어보브반도체"],
+    "엠씨넥스": ["MCNEX"],
+    "세코닉스": ["SEKONIX"],
+    "자람테크놀로지": ["Jaram Technology"],
+    "노바칩스": ["Novachips"],
+    # --- 대만/해외 영문명 → 한글 별칭 ---
+    "글로벌유니칩 (GUC)": ["GUC"],
+    "Socionext": ["소시오넥스트"],
+    "GCT Semiconductor": ["GCT", "지씨티"],
+    "MediaTek": ["미디어텍"],
+    "Novatek": ["노바텍"],
+    "Realtek": ["리얼텍"],
+    "Himax": ["하이맥스"],
+    "Silicon Motion": ["실리콘모션"],
+    "Phison": ["파이슨"],
+    "Nuvoton": ["누보톤"],
+    "Andes Technology": ["안데스"],
+    # --- 미국 메이저 (영문 → 한글) ---
+    "NVIDIA": ["엔비디아"],
+    "AMD": ["에이엠디"],
+    "Qualcomm": ["퀄컴"],
+    "Broadcom": ["브로드컴"],
+    "Marvell": ["마벨"],
+    "Intel": ["인텔"],
+    "Lattice": ["래티스"],
+    "Cirrus Logic": ["시러스로직"],
+    "Microchip": ["마이크로칩"],
+    "Skyworks": ["스카이웍스"],
+    "Qorvo": ["코보"],
+    "Wolfspeed": ["울프스피드"],
+    "Silicon Labs": ["실리콘랩스"],
+    "MaxLinear": ["맥스리니어"],
+    "Synaptics": ["시냅틱스"],
+    "Texas Instruments": ["TI", "텍사스인스트루먼트"],
+    "Analog Devices": ["ADI", "아나로그디바이스"],
+    # --- 빅테크 (영문 → 한글) ---
+    "Apple": ["애플"],
+    "Google": ["구글"],
+    "Amazon": ["아마존"],
+    "Microsoft": ["마이크로소프트"],
+    "Meta": ["메타"],
+    "Tesla": ["테슬라"],
+    "OpenAI": ["오픈AI"],
+    # --- AI 신생 팹리스 ---
+    "Tenstorrent": ["텐스토렌트"],
+    "Cerebras": ["세레브라스"],
+    "Groq": ["그록"],
+    "SambaNova": ["삼바노바"],
+    "Lightmatter": ["라이트매터"],
+    # --- 유럽 ---
+    "NXP": ["엔엑스피"],
+    "STMicroelectronics": ["ST마이크로", "ST마이크로일렉트로닉스"],
+    "Infineon": ["인피니언"],
+    "Nordic": ["노르딕 반도체"],
+    "u-blox": ["유블럭스"],
+    "Melexis": ["멜렉시스"],
+    "Bosch": ["보쉬"],
+    # --- 일본 ---
+    "Renesas": ["르네사스"],
+    "Sony Semiconductor": ["소니 반도체"],
+    "Rohm": ["로옴 반도체"],
+    "Kioxia": ["키오시아"],
+    "MegaChips": ["메가칩스"],
+    # --- 파운드리 ---
+    "Samsung Foundry": ["삼성 파운드리"],
+    "TSMC": ["대만 TSMC"],
+    "GlobalFoundries": ["글로벌파운드리"],
+    "UMC": ["UMC 파운드리"],
+    # --- EDA ---
+    "Synopsys": ["시높시스", "시놉시스"],
+    "Cadence": ["케이던스"],
+    "Siemens": ["지멘스 EDA"],
+}
+
+
+# ============================================================
 # 유틸
 # ============================================================
 def load_json(path, default):
@@ -273,77 +392,95 @@ class RateLimiter:
 # ============================================================
 # RSS 수집
 # ============================================================
-def build_search_query(company_name):
-    base = f"{company_name} 반도체" if company_name in BIGTECH_NEEDS_FILTER else company_name
+def build_search_query(term, company_name):
+    """term(회사명 또는 별칭) 기준 검색어 생성"""
+    base = f"{term} 반도체" if company_name in BIGTECH_NEEDS_FILTER else term
     return f"{base} when:30d"
 
-def fetch_news(company_name, seen_urls):
-    query = build_search_query(company_name)
-    url = f"https://news.google.com/rss/search?q={urllib.parse.quote(query)}&hl=ko&gl=KR&ceid=KR:ko"
+def get_search_terms(company_name):
+    """회사명 + 별칭 전부 (중복 제거)"""
+    terms = [company_name] + ALIASES.get(company_name, [])
+    seen = set()
+    uniq = []
+    for t in terms:
+        if t and t not in seen:
+            seen.add(t)
+            uniq.append(t)
+    return uniq
 
-    try:
-        feed = feedparser.parse(url)
-    except Exception as e:
-        print(f"   ⚠️ RSS 실패: {e}")
-        return []
+def _parse_entry(entry, company_name, seen_urls, out_links, cutoff):
+    """RSS 항목 1개를 검증·파싱. 통과하면 dict 반환, 아니면 None."""
+    title = str(getattr(entry, "title", "")).strip()
+    link = str(getattr(entry, "link", "")).strip()
+    if not title or not link or link in seen_urls or link in out_links:
+        return None
 
-    if not getattr(feed, "entries", None):
-        return []
-
-    # 핫 티커는 더 많이 가져오기 (시세 기사 도배에 묻히는 진짜 뉴스 회수)
-    limit = MAX_ARTICLES_FOR_HOT if company_name in HOT_COMPANIES else MAX_ARTICLES_PER_COMPANY
-    cutoff = datetime.now(timezone.utc) - timedelta(days=DAYS_TO_KEEP)
-    out = []
-    for entry in feed.entries[:limit]:
-        title = str(getattr(entry, "title", "")).strip()
-        link = str(getattr(entry, "link", "")).strip()
-        if not title or not link or link in seen_urls:
-            continue
-
-        # 발행처 추출 (Google News RSS 는 <source> 태그 또는 제목 뒤 " - 발행처" 형태)
-        source = ""
-        src_obj = getattr(entry, "source", None)
-        if src_obj is not None:
-            try:
-                source = (src_obj.get("title") if isinstance(src_obj, dict)
-                          else str(getattr(src_obj, "title", ""))) or ""
-            except Exception:
-                source = ""
-        if not source:
-            m = re.search(r"\s-\s([^-]+)$", title)
-            if m:
-                source = m.group(1).strip()
-
-        # 파이썬 1차 문지기 (a) 제목 키워드
-        if any(k in title for k in JUNK_KEYWORDS):
-            seen_urls.add(link)
-            continue
-        # (b) 발행처 블랙리스트
-        if source and any(js in source for js in JUNK_SOURCES):
-            seen_urls.add(link)
-            continue
-
-        pub_str = str(getattr(entry, "published", ""))
-        pub_ts = 0
+    # 발행처 추출
+    source = ""
+    src_obj = getattr(entry, "source", None)
+    if src_obj is not None:
         try:
-            t = email.utils.parsedate_tz(pub_str)
-            if t:
-                pub_ts = int(email.utils.mktime_tz(t))
-                pub_dt = datetime.fromtimestamp(pub_ts, timezone.utc)
-                if pub_dt < cutoff:
-                    seen_urls.add(link)
-                    continue
-                kst = pub_dt + timedelta(hours=9)
-                pub_str = kst.strftime("%Y-%m-%d %H:%M")
+            source = (src_obj.get("title") if isinstance(src_obj, dict)
+                      else str(getattr(src_obj, "title", ""))) or ""
         except Exception:
-            pass
+            source = ""
+    if not source:
+        m = re.search(r"\s-\s([^-]+)$", title)
+        if m:
+            source = m.group(1).strip()
 
-        out.append({
-            "title": title,
-            "link": link,
-            "published": pub_str,
-            "timestamp": pub_ts
-        })
+    # 1차 문지기
+    if any(k in title for k in JUNK_KEYWORDS):
+        seen_urls.add(link)
+        return None
+    if source and any(js in source for js in JUNK_SOURCES):
+        seen_urls.add(link)
+        return None
+
+    pub_str = str(getattr(entry, "published", ""))
+    pub_ts = 0
+    try:
+        t = email.utils.parsedate_tz(pub_str)
+        if t:
+            pub_ts = int(email.utils.mktime_tz(t))
+            pub_dt = datetime.fromtimestamp(pub_ts, timezone.utc)
+            if pub_dt < cutoff:
+                seen_urls.add(link)
+                return None
+            kst = pub_dt + timedelta(hours=9)
+            pub_str = kst.strftime("%Y-%m-%d %H:%M")
+    except Exception:
+        pass
+
+    return {"title": title, "link": link, "published": pub_str, "timestamp": pub_ts}
+
+def fetch_news(company_name, seen_urls):
+    # 핫 티커는 더 많이 / 별칭 합산이 너무 커지지 않게 총량 캡
+    limit = MAX_ARTICLES_FOR_HOT if company_name in HOT_COMPANIES else MAX_ARTICLES_PER_COMPANY
+    total_cap = limit * 2  # 별칭 합산 시 후보 상한
+    cutoff = datetime.now(timezone.utc) - timedelta(days=DAYS_TO_KEEP)
+
+    out = []
+    out_links = set()
+    for term in get_search_terms(company_name):
+        if len(out) >= total_cap:
+            break
+        query = build_search_query(term, company_name)
+        url = f"https://news.google.com/rss/search?q={urllib.parse.quote(query)}&hl=ko&gl=KR&ceid=KR:ko"
+        try:
+            feed = feedparser.parse(url)
+        except Exception as e:
+            print(f"   ⚠️ RSS 실패 ({term}): {e}")
+            continue
+        if not getattr(feed, "entries", None):
+            continue
+        for entry in feed.entries[:limit]:
+            parsed = _parse_entry(entry, company_name, seen_urls, out_links, cutoff)
+            if parsed:
+                out.append(parsed)
+                out_links.add(parsed["link"])
+                if len(out) >= total_cap:
+                    break
     return out
 
 
@@ -596,16 +733,14 @@ def main():
 
     # 오늘 누적 RPD 현황 출력
     rpd_used = daily_stats["calls"]
-    rpd_pct = rpd_used / 10  # 1000 기준 %
-    if rpd_used == 0:
-        rpd_status = "✅ 여유"
-    elif rpd_pct < 50:
+    rpd_pct = (rpd_used / RPD_LIMIT * 100) if RPD_LIMIT else 0
+    if rpd_used == 0 or rpd_pct < 50:
         rpd_status = "✅ 여유"
     elif rpd_pct < 80:
         rpd_status = "⚠️ 주의"
     else:
         rpd_status = "🚨 위험"
-    print(f"📊 오늘 RPD: {rpd_used} / ~1,000회 ({rpd_pct:.0f}%) {rpd_status}\n")
+    print(f"📊 오늘 RPD: {rpd_used} / ~{RPD_LIMIT:,}회 ({rpd_pct:.0f}%) {rpd_status}\n")
 
     # 기존 articles.json 에서도 새로 추가된 JUNK 기준으로 재청소
     # (예전에 통과됐던 투자분석 기사 등 회수)
@@ -728,7 +863,7 @@ def main():
     print(f"\n{'='*60}")
     print(f"✨ 완료 ({elapsed:.1f}초)")
     print(f"   신규 추가: {new_count}건")
-    print(f"   API 호출:  {api_calls}회 (이번 실행) / 오늘 누적 {daily_stats['calls']}회 / ~1,000회 한도")
+    print(f"   API 호출:  {api_calls}회 (이번 실행) / 오늘 누적 {daily_stats['calls']}회 / ~{RPD_LIMIT:,}회 한도")
     print(f"   현재 보관: {len(articles_db)}건")
     print(f"   정리 제거: {pruned}건")
     print(f"   조기 종료: {'예' if quota_dead else '아니오'}")
