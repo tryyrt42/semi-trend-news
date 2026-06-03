@@ -409,6 +409,22 @@ def get_search_terms(company_name):
             uniq.append(t)
     return uniq
 
+def _term_in_text(term, text):
+    """
+    term이 text 안에 '단어로서' 등장하는지.
+    - 영문/숫자 term: 단어경계(\\b)로 매칭 → "SK"가 "Skyworks"에 안 걸림
+    - 한글 term: 부분 포함 매칭 (한글은 경계 개념이 약해 그대로)
+    """
+    if not term:
+        return False
+    t = term.lower()
+    s = text.lower()
+    # 한글이 포함된 별칭은 그대로 포함 검사
+    if re.search(r"[가-힣]", term):
+        return t in s
+    # 영문/숫자 별칭은 단어경계 매칭
+    return re.search(r"(?<![a-z0-9])" + re.escape(t) + r"(?![a-z0-9])", s) is not None
+
 def resolve_company(main_company_str, fallback_name):
     """
     Gemini가 준 주인공 회사명을 우리 리스트와 대조.
@@ -417,13 +433,10 @@ def resolve_company(main_company_str, fallback_name):
     """
     if not main_company_str:
         return fallback_name
-    s = main_company_str.lower()
     for comp in COMPANIES:
         cname = comp["name"]
         for term in get_search_terms(cname):
-            t = term.lower()
-            # 주인공 문자열에 회사명/별칭이 포함되거나 그 반대
-            if t in s or s in t:
+            if _term_in_text(term, main_company_str):
                 return cname
     return fallback_name
 
@@ -435,8 +448,7 @@ def _parse_entry(entry, company_name, seen_urls, out_links, cutoff, search_terms
         return None
 
     # 제목에 검색 회사명/별칭이 하나도 없으면 제외 (RSS 오매칭 차단)
-    title_low = title.lower()
-    if not any(t.lower() in title_low for t in search_terms):
+    if not any(_term_in_text(t, title) for t in search_terms):
         return None
 
     # 발행처 추출
@@ -815,9 +827,7 @@ def main():
         company = a.get("company", "")
         title = a.get("title", "")
         terms = get_search_terms(company)
-        # 대소문자 무시 매칭
-        title_low = title.lower()
-        if any(t.lower() in title_low for t in terms):
+        if any(_term_in_text(t, title) for t in terms):
             kept.append(a)
     articles_db = kept
     name_removed = before_name - len(articles_db)
@@ -898,18 +908,25 @@ def main():
                 print(f"   🗑️  IRR   | {art['title'][:50]}")
 
     # ============================================================
-    # 정리 — 오래된 기사 제거 + 링크 기준 중복 제거
+    # 정리 — 오래된 기사 제거 + 중복 제거 (링크 + 회사·제목)
     # ============================================================
     cutoff_ts = int((datetime.now(timezone.utc) - timedelta(days=DAYS_TO_KEEP)).timestamp())
     before = len(articles_db)
     seen_links = set()
+    seen_title_keys = set()  # (회사, 정규화 제목) — 다른 URL 같은 기사 차단
     cleaned = []
     for a in sorted(articles_db, key=lambda x: x.get("timestamp", 0), reverse=True):
         if a.get("timestamp", 0) < cutoff_ts:
             continue
         if a["link"] in seen_links:
             continue
+        # 제목 정규화: 공백 제거 + " - 발행처" 꼬리 제거 → 같은 기사 잡아냄
+        norm_title = re.sub(r"\s+", "", re.sub(r"\s-\s[^-]+$", "", a.get("title", "")))
+        title_key = (a.get("company", ""), norm_title)
+        if title_key in seen_title_keys:
+            continue
         seen_links.add(a["link"])
+        seen_title_keys.add(title_key)
         cleaned.append(a)
     articles_db = cleaned
     pruned = before - len(articles_db)
