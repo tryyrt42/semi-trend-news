@@ -427,11 +427,16 @@ def resolve_company(main_company_str, fallback_name):
                 return cname
     return fallback_name
 
-def _parse_entry(entry, company_name, seen_urls, out_links, cutoff):
+def _parse_entry(entry, company_name, seen_urls, out_links, cutoff, search_terms):
     """RSS 항목 1개를 검증·파싱. 통과하면 dict 반환, 아니면 None."""
     title = str(getattr(entry, "title", "")).strip()
     link = str(getattr(entry, "link", "")).strip()
     if not title or not link or link in seen_urls or link in out_links:
+        return None
+
+    # 제목에 검색 회사명/별칭이 하나도 없으면 제외 (RSS 오매칭 차단)
+    title_low = title.lower()
+    if not any(t.lower() in title_low for t in search_terms):
         return None
 
     # 발행처 추출
@@ -479,9 +484,10 @@ def fetch_news(company_name, seen_urls):
     total_cap = limit * 2  # 별칭 합산 시 후보 상한
     cutoff = datetime.now(timezone.utc) - timedelta(days=SEARCH_DAYS + 1)
 
+    search_terms = get_search_terms(company_name)
     out = []
     out_links = set()
-    for term in get_search_terms(company_name):
+    for term in search_terms:
         if len(out) >= total_cap:
             break
         query = build_search_query(term, company_name)
@@ -494,7 +500,7 @@ def fetch_news(company_name, seen_urls):
         if not getattr(feed, "entries", None):
             continue
         for entry in feed.entries[:limit]:
-            parsed = _parse_entry(entry, company_name, seen_urls, out_links, cutoff)
+            parsed = _parse_entry(entry, company_name, seen_urls, out_links, cutoff, search_terms)
             if parsed:
                 out.append(parsed)
                 out_links.add(parsed["link"])
