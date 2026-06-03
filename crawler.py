@@ -302,7 +302,7 @@ ALIASES = {
     "Apple": ["애플"],
     "Google": ["구글"],
     "Amazon": ["아마존"],
-    "Microsoft": ["마이크로소프트"],
+    "Microsoft": ["마이크로소프트", "MS"],
     "Meta": ["메타"],
     "Tesla": ["테슬라"],
     "OpenAI": ["오픈AI"],
