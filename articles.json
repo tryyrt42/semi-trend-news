@@ -1,11 +1,51 @@
 [
   {
+    "company": "Meta",
+    "title": "삼성전자, 오픈AI 이어 메타와도 맞춤형 AI 칩 개발 중단 - 엠투데이",
+    "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE8tRExCYUE0aUtKZjVQYTg2RVpUU3E0cUNFSmNwd19rZWR6WGlfWldJMzNBbGpqTjFyQVNFLTd6TmxTT05rdWtvUFNncGZFVzV1NGg1OTR3ZktXT3d6RDNvSS02NjNwWUQxb3UwUUVrONIBc0FVX3lxTE1XNzZCWGM3eG44eXVZRV9RbHNMLWRuekVmWTloOHBKQmN3eWp0N2xpMkNiM0QzamRWOHhrX1dodkE3SHhBWlBWUVRBS0VWTkw3Zlh2Wnd5UVFUSG91VjVsSHF1TThxVjdqUGpWVmlOTnlJMUE?oc=5",
+    "published": "2026-06-05 08:04",
+    "timestamp": 1780614261,
+    "summary": "삼성전자가 오픈AI에 이어 메타와 진행하던 맞춤형 AI 칩 개발을 중단했다."
+  },
+  {
+    "company": "TSMC",
+    "title": "[차이나 브리프] TSMC, CoPoS 협력사 통제 강화 - 디일렉",
+    "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE96eWoxbnozdFZVUml6dW5fSC03QVh6OVZEQ2tGNXk2NlBGeGhodXNNaWlvYm56a0MzVG5SQ0gxam91MFUteC0zN09pWTRLVGwtOERmcnlyVGphQmxKTTdOWGNzQ3ZJdw?oc=5",
+    "published": "2026-06-05 07:44",
+    "timestamp": 1780613075,
+    "summary": "TSMC가 CoPoS 협력사에 대한 통제를 강화하고 있다. 관련 공급망 관리 체계를 재정비하는 움직임이다."
+  },
+  {
+    "company": "Infineon",
+    "title": "중국산 SiC 웨이퍼 200달러대 진입… 보쉬·인피니언 공급망 재편 조짐 - 글로벌이코노믹",
+    "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPRURqcFg0aDJINzc1UW52VEhBSkltQy1aZ3oxVUVCRlg2UHNRZmpMaDVVQUd1d05La2ZNWGROQ2RwWkwwWk4tdEVEX2xUX0p6dkJ2c3g4OFRZWEpxX2JiSV9HeEMyd1JTY0Z6TDk2WGtDOFZqaTZadDQyLW9tVE1XOEgxWGhDWlYt?oc=5",
+    "published": "2026-06-05 07:16",
+    "timestamp": 1780611408,
+    "summary": "중국산 SiC 웨이퍼 가격이 200달러대로 진입함에 따라 보쉬와 인피니언의 공급망 재편 가능성이 제기되고 있다."
+  },
+  {
+    "company": "TSMC",
+    "title": "SK 최태원, TSMC 웨이저자 만났다…“차세대 HBM 리더십 확보 ‘맞손’” - CEO스코어데일리",
+    "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTFBtT0dyaDg4em12VHJRXzB5WTNUeHVPRkROMWs3cmVjQzhYZEJ0b2tuZUExRllCNU9peWdzQ25QRFZ6QnRXd0dIVG9aY3Eyb3NvYUdfRE1BczZ4RXFfMi1QZTdPZEp3YTRyVlBR?oc=5",
+    "published": "2026-06-05 07:00",
+    "timestamp": 1780610400,
+    "summary": "SK 최태원 회장이 TSMC 웨이저자 회장과 회동했다. 양사는 차세대 HBM 리더십 확보를 위해 협력하기로 했다."
+  },
+  {
     "company": "Apple",
     "title": "애플 앱스토어 상위 앱 40%가 AI 탑재…결제 증가율 4배 - 아주경제",
     "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9VRzBGUEdjUVpPSU5FNzZsLTYyY0ZVdHgwdzhnRUxvRTZJb0hhWC15bS1xVTVPRXVNVXJvaDJobjJPN2k0Mnc3bm1fTXFYRXB4OU5uX3F5YTN1Z9IBWEFVX3lxTE9KV3kwemV6ajBIT0UweG42REtZR29ERFI5VllISUVzTmR3TjNLeEZuT0tlZjdoSXRsT0ZsZG9PdUlPVVdZR3E2cTJ3aXhRMHYybldLYXZIQXg?oc=5",
     "published": "2026-06-05 06:33",
     "timestamp": 1780608804,
     "summary": "애플 앱스토어 내 상위 앱 40%가 AI 기능을 탑재했다. 해당 앱들의 결제 증가율은 일반 앱 대비 4배를 기록했다."
+  },
+  {
+    "company": "NVIDIA",
+    "title": "엔비디아, 아이작 GR00T 휴머노이드 로봇 레퍼런스 디자인 공개 - 올포칩",
+    "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE1MQWNVeGhoTmFydDJmdjRPelpfTFlIUTRELVJLNkJHSkdGSXdQa2ZrUVhPRjJEYXhaZmo4NnpORmU2R2hLTzFiQ1k2NFlzaWJnVWVNMEVURTZSRWNNQmNYLUQ2TnJQZw?oc=5",
+    "published": "2026-06-05 06:31",
+    "timestamp": 1780608708,
+    "summary": "엔비디아가 아이작 GR00T 휴머노이드 로봇 레퍼런스 디자인을 공개했다."
   },
   {
     "company": "Marvell",
@@ -16,12 +56,28 @@
     "summary": "젠슨 황 엔비디아 CEO가 마벨의 기술력을 언급하며 주목한 배경을 다룬 기사입니다."
   },
   {
+    "company": "NXP",
+    "title": "마우저, NXP로부터 처음으로 ‘2025년 아시아 최다 고객 확보상’ 수상 - 올포칩",
+    "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1Zd3VBd01TUU43QVQwVGNvSDAzTUJMX1J6WDBUMENRVi10VDgzYzUwQ3l1TzRwRUxOZUdJMUVCdFpselhxZGJOTHQ0ekZGbVVxejhITlExakRUdllTam40bQ?oc=5",
+    "published": "2026-06-05 06:28",
+    "timestamp": 1780608495,
+    "summary": "마우저가 NXP로부터 2025년 아시아 최다 고객 확보상을 수상했다. 이는 마우저가 해당 상을 처음으로 수상한 사례이다."
+  },
+  {
     "company": "Apple",
     "title": "애플, AI 비장의 무기 꺼냈다…새 시리에 엔비디아 칩 탑재 - 리드경제",
     "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE1JSnhEV2M0Y0wzdWg4djc3OExLUUhSUGhiaHdlOWJKdzdpRVZ6SUY5U1F4S3NNSmRxSkh3WlNyV3BYRkFpbVV2MWNzYlRfYUJHNk9oNGpfVlZadlNRVnA2SzRoSG16S1BOTEtJSHViTQ?oc=5",
     "published": "2026-06-05 06:22",
     "timestamp": 1780608120,
     "summary": "애플이 새 시리에 엔비디아 칩을 탑재한다."
+  },
+  {
+    "company": "NVIDIA",
+    "title": "LG Group to Deploy 10,000 NVIDIA Blackwell GPUs to Accelerate AI Push - 메디컬투데이",
+    "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE9SNTJFaWFLTkMwa1pXZDk4NlpVRzBweWF5V0ZVZ1JZT0VMS3NNVkdQMVpDbXRfY2pBdGhjMFpuT1dOWGozUHBoWkRTU3hCbUx1dmp1NXFQdndCUHpz0gFsQVVfeXFMUEJhSnpfOG1aQ0NZSGMzdElsZGl3bjhpbFlVNkxtWlNvMjVIdE9TcnVqSDFRbDE4YmNJM2ZjZXd4LXZBMl9RbTFyMzk3Nk5zbFhlamREcGxnV2RnYkFfTWhzTzdIcmZEYXM0RDlD?oc=5",
+    "published": "2026-06-05 06:19",
+    "timestamp": 1780607992,
+    "summary": "LG그룹이 AI 역량 강화를 위해 NVIDIA의 Blackwell GPU 1만 대를 도입한다."
   },
   {
     "company": "NVIDIA",
@@ -150,6 +206,14 @@
     "published": "2026-06-04 23:41",
     "timestamp": 1780584097,
     "summary": "엔비디아와 마이크로소프트가 개인용 AI 시대를 위해 윈도우 PC를 재정의한다."
+  },
+  {
+    "company": "Qualcomm",
+    "title": "Primax Advances AI Conference Solutions with Qualcomm-Powered Edge AI Platforms - IT비즈뉴스",
+    "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE03eU9LVE9DUkNXLVJSMUFQa2VPV1o0WUFYNmNFMjRTOTludjBSeTAwdGMxQ19vc2pXX3YxQmR3MmpfQmFRUktKdldySzQtMDUzQWhPeXRYOWsyN0RnS283V2FzbWtTbnpvZmdHMw?oc=5",
+    "published": "2026-06-04 23:30",
+    "timestamp": 1780583400,
+    "summary": "Primax가 퀄컴의 엣지 AI 플랫폼을 탑재한 AI 컨퍼런스 솔루션을 선보였다."
   },
   {
     "company": "NVIDIA",
@@ -368,6 +432,14 @@
     "summary": "TSMC 회장이 AI 사업에 대한 자신감을 드러내며 향후 수년간 공급 부족이 지속될 것이라고 밝혔다."
   },
   {
+    "company": "Tesla",
+    "title": "삼성, 테슬라 이어 BYD까지 품을까… 2nm 고객 확대 기대감 - 케이벤치",
+    "link": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE55QkdDS2lwUDA0aTNXZFBySTEySnBMSWx4dUFNaTAyMnNvOXMxZGJETTFkTTRYMy11dTRoLXFBUkFYVVJfOXRaaw?oc=5",
+    "published": "2026-06-04 17:47",
+    "timestamp": 1780562825,
+    "summary": "삼성전자가 테슬라에 이어 BYD를 파운드리 고객사로 확보할 가능성이 거론되며 2nm 공정 고객 확대에 대한 기대감이 높아지고 있다."
+  },
+  {
     "company": "NVIDIA",
     "title": "'엔비디아 AI 제국' 야심…한국서 판 키우는 젠슨 황 - v.daum.net",
     "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE5YTGplSHpkRVk2U0pfVUxPTWFneUVhTnBKcGt2RnVDTnpaMF9uYkFUZ2N3alQ3MUN5c2h5LXExRzJxYVZ4WmtsdEVoTU5Od2c?oc=5",
@@ -414,6 +486,14 @@
     "published": "2026-06-04 17:11",
     "timestamp": 1780560661,
     "summary": "RFHIC가 Collins Aerospace와 고출력 전력증폭기 공급 계약을 체결했다."
+  },
+  {
+    "company": "TSMC",
+    "title": "“반도체 공급 부족 오래 간다”…자신감 넘치는 TSMC - v.daum.net",
+    "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFBGbGV6d0QzcDYtSVZlYVR0cHMwZl9Vc1RUMzVvQkVYYnJfbkIxX2JMYjZLajNXNFV4QWxLYjNRcVZ3bnR5Z2UyOU5DUUYwZ1dfdFd5Xw?oc=5",
+    "published": "2026-06-04 17:06",
+    "timestamp": 1780560364,
+    "summary": "TSMC가 반도체 공급 부족 현상이 장기화될 것으로 내다보며 사업에 대한 자신감을 드러냈다."
   },
   {
     "company": "AMD",
@@ -913,6 +993,14 @@
   },
   {
     "company": "리벨리온",
+    "title": "\"리벨리온 NPU 적용 수질정화 로봇, 중동서 러브콜\" - 네이트",
+    "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE5aYUtlWmdiWExNeUtlZkxVZ3FhTVlOUDV4NzU3Q19FNXBfcXhjSW9fak0wTWdCVE9pTXhMVmE0UkVRRmNLc2djVU9ScE9BYnpQNm5F?oc=5",
+    "published": "2026-06-04 11:40",
+    "timestamp": 1780540800,
+    "summary": "리벨리온의 NPU가 적용된 수질정화 로봇이 중동 지역에서 관심을 받고 있다."
+  },
+  {
+    "company": "리벨리온",
     "title": "“리벨리온 NPU 적용 수질정화 로봇, 중동서 러브콜” - 서울경제",
     "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE1jekk2azZzWVZPSVJCNjBXZ18xSnhBM09URkk4MElROU9wYnBadkRmanRVRnJETzczVHpxc0dCUmRVWGtGeXB3V1RqeHR5aXI5SE1R0gFTQVVfeXFMTWN6STZrNnNZVk9JUkI2MFdnXzFKeEEzT1RGSTgwSVE5T3BicFp2RGZqdFVGckRPNzNUenFzR0JSZFVYa0Z5cHdXVGp4dHlpcjlITVE?oc=5",
     "published": "2026-06-04 11:39",
@@ -952,12 +1040,12 @@
     "summary": "엔터프라이즈 소프트웨어 선도 기업들이 NVIDIA와 함께 AI 에이전트를 구축하고 있습니다."
   },
   {
-    "company": "NXP",
-    "title": "마우저, NXP로부터 처음으로 ‘2025년 아시아 최다 고객 확보상’ 수상 - 매일타임즈",
-    "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE1icV91eEVnQW9WLUxCNV96ZHFvOF9NTk5mVXZ4cEZUUDg1d3FfZldHVWRxeEFUMlAwUFR2V0s1bG9pWWVwYVZNak10YWNSTkdKT2FJT0w0OXRTUDY1Tmc?oc=5",
-    "published": "2026-06-04 10:56",
-    "timestamp": 1780538160,
-    "summary": "마우저가 NXP로부터 2025년 아시아 최다 고객 확보상을 수상했다."
+    "company": "Google",
+    "title": "\"차세대 '시리' 9월출시…복잡한 AI작업은 구글클라우드 빌릴듯\" - 매일경제 마켓",
+    "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFAyVWZQajJ5THZuMDM3TjZHYzNjZ3oyX2pod05FX2VvY3FSOU9nalNLaWo4M2VyQkliWlFIYnkzbENkamdEQW1nWVZVbHgtb2VONEE?oc=5",
+    "published": "2026-06-04 10:55",
+    "timestamp": 1780538105,
+    "summary": "차세대 시리가 9월 출시될 예정이며, 복잡한 AI 작업 수행을 위해 구글 클라우드 인프라를 활용할 것으로 보인다."
   },
   {
     "company": "Broadcom",
@@ -1248,20 +1336,20 @@
     "summary": "퀄컴이 컴퓨텍스 2026에서 에이전틱 AI 시대에 따른 PC의 역할을 재평가했다."
   },
   {
+    "company": "Apple",
+    "title": "‘카툭튀’ 줄이려다 벽돌폰되나…애플 아이폰18, 카메라 욕심에 무게 늘고 원가 뛰고 - IT조선",
+    "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE9YaS1hZTVvYVlUeW1DU0dIcGV2dFcyM2hXR2JPdDhYNGd5ZGMyZnZZS292ZnY4eGtOWGpCcm5sZUxZNGRlbEltU3NMbm9vR091VTlaTzVWQlBmUnRyUWpJVzhKN2tjYVc4dV8tRGhFN0NROW1I0gF0QVVfeXFMT1hpLWFlNW9hWVR5bUNTR0hwZXZ0VzIzaFdHYk90OFg0Z3lkYzJmdllLb3Zmdjh4a05YakJybmxlTFk0ZGVsSW1Tc0xub29HT3VVOVpPNVZCUGZSdHJRaklXOEo3a2NhVzh1Xy1EaEU3Q1E5bUg?oc=5",
+    "published": "2026-06-04 06:10",
+    "timestamp": 1780521022,
+    "summary": "애플 아이폰18은 카메라 성능 개선을 시도하며 무게 증가와 원가 상승이라는 과제에 직면했다."
+  },
+  {
     "company": "NVIDIA",
     "title": "젠슨 황 오늘 방한…'제조업 강국 韓, 엔비디아 피지컬 AI 최적 파트너' - 뉴스1",
     "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFBoMVdpZ0pieTIxZUN3QnU4Z2dwZkdhQ1g3OXFUQ3R0UVhEY1k0ZUU5eTBJOC1ZM2xrUnUwMFJUZGhOVXVjeHBVMmdmVGR3UVA4TEI2b0RfaWlHbEJJbHNkSXFfcDM?oc=5",
     "published": "2026-06-04 06:00",
     "timestamp": 1780520400,
     "summary": "젠슨 황이 방한하여 한국 제조업이 엔비디아의 피지컬 AI를 위한 최적의 파트너라고 언급했다."
-  },
-  {
-    "company": "Apple",
-    "title": "‘카툭튀’ 줄이려다 벽돌폰되나…애플 아이폰18, 카메라 욕심에 무게 늘고 원가 뛰고 - IT조선",
-    "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBpYWJuVmV4OHdtck1rQzlTUkNFdWJuNkRMdmFuS3BvRzh0emk2OEFuNmE4aE5pcjlHR0g5QVFNQ1ByOXZNcFFYN1BXOEUycnRBOENxSWJfdWtxX0lxRjNCV1hhN3huN2J2UUJKRGxQNTbSAXRBVV95cUxPWGktYWU1b2FZVHltQ1NHSHBldnRXMjNoV0diT3Q4WDRneWRjMmZ2WUtvdmZ2OHhrTlhqQnJubGVMWTRkZWxJbVNzTG5vb0dPdVU5Wk81VkJQZlJ0clFqSVc4SjdrY2FXOHVfLURoRTdDUTltSA?oc=5",
-    "published": "2026-06-04 06:00",
-    "timestamp": 1780520400,
-    "summary": "애플의 아이폰18이 카메라 성능 개선을 시도하면서 제품 무게가 증가하고 제조 원가가 상승하는 문제를 겪고 있다."
   },
   {
     "company": "Broadcom",
@@ -1790,6 +1878,14 @@
     "published": "2026-06-03 11:37",
     "timestamp": 1780454224,
     "summary": "엔비디아 RTX 스파크가 Arm 기반 윈도 PC 시장의 기술적 전환점이 될 것으로 평가받고 있다."
+  },
+  {
+    "company": "Microsoft",
+    "title": "MS, 차세대 양자칩 '마요라나 2' 공개 - 네이트",
+    "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE5tSWpWRTFpSEp4VDl6akdROUstZXRkbE5PaldjR1RsMXU3alR3ODZMRzUwZ3M4eVJiamRYT29WYjRieTI2cndtVzhHSHVFTDYtS00w?oc=5",
+    "published": "2026-06-03 10:46",
+    "timestamp": 1780451160,
+    "summary": "마이크로소프트가 차세대 양자칩인 '마요라나 2'를 공개했다."
   },
   {
     "company": "NVIDIA",
