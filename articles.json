@@ -1,5 +1,61 @@
 [
   {
+    "company": "Google",
+    "title": "더인포메이션 \"구글,텐서칩 인텔서 3백만개 이상 생산 계획\" - 네이트",
+    "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE8xNUZkbjR4VTZUTVpJOG0yQ0tvdXJlZzdzdG10b202cHMyQTJrOVdfNWpZem9SUnNQQWZLVS1PeTNJQmd0cVdjd0F4aUNZeEEzdHFV?oc=5",
+    "published": "2026-06-09 00:31",
+    "timestamp": 1780932660,
+    "summary": "구글이 텐서칩 300만 개 이상을 인텔에서 생산할 계획이라고 더인포메이션이 보도했다."
+  },
+  {
+    "company": "Intel",
+    "title": "인텔, 휴대용 PC 게이밍의 새로운 기준 제시할 인텔 아크 G-시리즈 프로세서 발표 > 뉴스 - 브레인박스",
+    "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQeE9wNDBjYmNsNEpYeERyQmhCQmpQeTlxbGpRZ1lDMGxGZ2pqRENDMmNBYXlIdVlUZ2t0M0l4SE1ZWUQ1bDdab21jNmJFWWZjbUhHdjhORlczeXdNT2h5SlNPRm5OM1Zlc0huVGNLMy1zWk1MVllxMDNxOThNYUl3Y1dlbU5ieU1ET1N1WlVtOXREVlk?oc=5",
+    "published": "2026-06-08 23:45",
+    "timestamp": 1780929904,
+    "summary": "인텔이 휴대용 PC 게이밍을 위한 아크 G-시리즈 프로세서를 발표했다. 해당 프로세서는 휴대용 PC 게이밍의 새로운 기준을 제시할 예정이다."
+  },
+  {
+    "company": "리벨리온",
+    "title": "리벨리온-에코피스, 국산 AI 반도체 품은 ‘K-수상로봇’ 개발 나선다 - 벤처스퀘어",
+    "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE1VaHFvVGU4X3VlSmluNUMzOUJjVzY4ZmJZcGZzLWM5Nnd6VFdQRmtpUlVaY29tMDd3MlVoSFlMajVURDl0Ykxfb2h6Mjg4S00?oc=5",
+    "published": "2026-06-08 22:25",
+    "timestamp": 1780925103,
+    "summary": "리벨리온과 에코피스가 협력하여 국산 AI 반도체를 탑재한 수상로봇 개발에 나선다."
+  },
+  {
+    "company": "Intel",
+    "title": "인텔, 히타치와 손잡고 AI로 반도체 수율 혁신 나선다 - 매일경제 마켓",
+    "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5sSlZSWFhoLUVsZjV4aWNZVTBmeDNkVFItTDZEdmtsN1REMC15cENscWNlRXJDMnR3cDVTNVhCcmNGU3lfQlBEMlllZlpjOFZINHc?oc=5",
+    "published": "2026-06-08 22:20",
+    "timestamp": 1780924819,
+    "summary": "인텔이 히타치와 협력하여 AI를 활용한 반도체 수율 혁신에 나선다."
+  },
+  {
+    "company": "Wolfspeed",
+    "title": "GE 에어로스페이스, 울프스피드와 탄화규소 기술 협력 - Investing.com 한국어",
+    "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5CZlRyWmgtczVMaFBfcVpxbmRSeFQyWng0dTVqNU9fQVJpc3ZTV3BrN2hXU2JYTHd2ekg0dmdvQkJvdU9sRzNQSWI5MV9lYm1JTnBUTi1vaDJBa0h6dFZLNUpWQ2VMZDRDLWV2cUlmenI?oc=5",
+    "published": "2026-06-08 22:15",
+    "timestamp": 1780924500,
+    "summary": "GE 에어로스페이스가 울프스피드와 탄화규소 기술 분야에서 협력하기로 했다."
+  },
+  {
+    "company": "Broadcom",
+    "title": "브로드컴, Spring 프레임워크 보안 업데이트 발표 - Investing.com 한국어",
+    "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE50emJFTkt1T2VERk83RTlORGZlNVV3eXpEWFlueVdTeVUzVTdrV2tqUy1Rd3ZXZzNMZ1JUZGN1ZHBXbVdLYnY1WUhLaHQtLUVVWTljZzY1RVhvX3ZEdi1hcm5MQXcwdnFYTTFYYzl2VzM?oc=5",
+    "published": "2026-06-08 22:07",
+    "timestamp": 1780924020,
+    "summary": "브로드컴이 Spring 프레임워크에 대한 보안 업데이트를 발표했다."
+  },
+  {
+    "company": "Intel",
+    "title": "업데이트 CPU Z 2.20.2 버전에서 인텔 Arc G3 칩 지원이 추가되었습니다. Extreme - GameGPU",
+    "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOR1NqUXB2VUdYc3ZUQ2JuSXJUaDJOYS1OT2FaQi1PY3RlS2xDekEzd2RHYUF0dWFRRHBuWXJqeEs5NGl5UEhqSjA4MDIyaXhyREpBeDFISm9TWHN5ajVXOWF0WWtnUk1Jb1BRMm5wQ0lQVWxzMGxzRDlQeEdTaTRQWWpVVHo2S211Q0tqeXowaEwxWkhPOUpOYnM0OGdMNHpvVjNDS0JHcDJjQU9Yanc?oc=5",
+    "published": "2026-06-08 20:50",
+    "timestamp": 1780919455,
+    "summary": "CPU Z 2.20.2 버전 업데이트를 통해 인텔 Arc G3 칩에 대한 지원이 추가되었다."
+  },
+  {
     "company": "NVIDIA",
     "title": "엔비디아·국내 기업들의 동행…젠슨 황 “AI 인프라 미래 밝다” - 한겨레",
     "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE5FV0xVOHdxc3VleWZPRnVSNGpVZVhtaXBGRVlsRVFuNVA1RWs1SVBfZDFTOXFZa0NoY1YtR2NZTThRNDBvS1FxNXROc2R0bjd4bHFTNkZJb0kwcXF5MHFFbUZESnlrODZ1azd5ZDVLY1NpUQ?oc=5",
@@ -22,6 +78,14 @@
     "published": "2026-06-08 19:47",
     "timestamp": 1780915655,
     "summary": "전영현 부회장이 삼성 파운드리의 4나노 및 8나노 공정을 통해 엔비디아의 자율주행 칩을 생산한다고 밝혔다."
+  },
+  {
+    "company": "Samsung Foundry",
+    "title": "전영현 부회장 \"삼성 파운드리서 엔비디아 자율주행 칩 생산\" - 지디넷코리아",
+    "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9WVjVpUlJCeWFVMUNwRExQZGxsODgyOWxqcFdveUR5VFo2RXlJOGw0d0lqbjZQRjg3REUyVmxoTWtjaExqNC1HRmpScXRMVFlOZGZSaEtR?oc=5",
+    "published": "2026-06-08 19:45",
+    "timestamp": 1780915534,
+    "summary": "전영현 부회장이 삼성 파운드리에서 엔비디아의 자율주행 칩을 생산한다고 밝혔다."
   },
   {
     "company": "Intel",
@@ -200,20 +264,20 @@
     "summary": "AMD가 컴퓨텍스 2026에서 5800X3D 재출시와 7700X3D 출시를 발표했다."
   },
   {
+    "company": "Synopsys",
+    "title": "AI반도체 인재 확보 나선 GIST…글로벌 1위 시높시스와 맞손 - 매일경제",
+    "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE1SSWpHRDFPS2h4X19IdkR4NUwweVhxLWppZ2wxZG91VmlLbFdTVURybk9FeVExLTRoZmFQV0JaSm5SVHhKaXVLZGlQTHdnNEF6ZWRMcQ?oc=5",
+    "published": "2026-06-08 16:14",
+    "timestamp": 1780902851,
+    "summary": "GIST가 AI 반도체 인재 확보를 위해 글로벌 1위 기업인 시높시스와 협력 관계를 맺었다."
+  },
+  {
     "company": "Analog Devices",
     "title": "ADI, AI 팩토리 전력 병목 낮추는 800VDC 전원 아키텍처 공개 - 지티티코리아",
     "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1jSG40R0lnd2dMSWtyZndzbFFlUmpiVzZvM19LX1ZtMDZ6RXlMTkEzMWtyMGpKQUJYODR5WFNhVTFxX0ZXWU94cVpEWjV6RWxMTTE5XzZhUDVkYXQ3Mkc4QkI4dVBYRm5mdFE?oc=5",
     "published": "2026-06-08 15:58",
     "timestamp": 1780901919,
     "summary": "ADI가 AI 팩토리의 전력 병목 현상을 해결하기 위한 800VDC 전원 아키텍처를 공개했다."
-  },
-  {
-    "company": "Intel",
-    "title": "인텔, 휴대용 PC 게이밍의 새로운 기준 제시할 인텔 아크 G-시리즈 프로세서 발표 > 뉴스 - 브레인박스",
-    "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTFB4WmNDVnc1UkJBTFNPS0VyRERNbVNsOU1uZVlKd2g0QXdjT3pzbUJOTFlkNDhoaWkteTNVNFlBQVpFZk82R2QyVFBUMS1tMmdpb3ZxdG9FUDRWdnlXVS1VRDNRbkhZVkt5N2tRVE5Ga1kxZktSM1BqQnhjY2xFdjQ?oc=5",
-    "published": "2026-06-08 15:54",
-    "timestamp": 1780901656,
-    "summary": "인텔이 휴대용 PC 게이밍 시장을 겨냥한 아크 G-시리즈 프로세서를 발표했다."
   },
   {
     "company": "NVIDIA",
@@ -254,6 +318,14 @@
     "published": "2026-06-08 15:13",
     "timestamp": 1780899225,
     "summary": "인텔이 히타치와 협력하여 삼성전자의 반도체 사업을 추격하기 위한 전략을 추진한다."
+  },
+  {
+    "company": "TSMC",
+    "title": "[단독] “TSMC 엔지니어들, 삼성 성과급 정말 부러워해…급여격차 최소 5배” [세계 반도체 제조 심장을 가다③] - 헤럴드경제",
+    "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE55RzEyRm1sUTJnU0x4QUdDTkVhQTYtM0NKTFl5aE5WNmZnU0FHWUNheGpDWGtjVWVRQ1prbzA3YVFFVjVPRks5Y0twWUs5LUhMQUw0dlJR?oc=5",
+    "published": "2026-06-08 15:02",
+    "timestamp": 1780898541,
+    "summary": "TSMC 엔지니어들이 삼성전자의 성과급 체계에 관심을 보이고 있으며, 양사 간 급여 격차가 최소 5배에 달한다는 내용이다."
   },
   {
     "company": "NVIDIA",
@@ -302,14 +374,6 @@
     "published": "2026-06-08 14:04",
     "timestamp": 1780895078,
     "summary": "퓨리오사AI가 8000억 원의 자금을 확보했다. 기업 가치와 자금 선집행에 대한 논란 속에서 매출 실현이라는 과제를 앞두고 있다."
-  },
-  {
-    "company": "TSMC",
-    "title": "[단독] “TSMC 엔지니어들, 삼성 성과급 정말 부러워해…급여격차 최소 5배” [세계 반도체 제조 심장을 가다③] - HeraldK.com",
-    "link": "https://news.google.com/rss/articles/CBMixAJBVV95cUxQUHctVHNubnNUdHM2T0dMUE1uYWdULUs2eGFDYjA0WWFkVG1qaTMwV3RnS0pFc2t1V20zbnlNTHRUNTlIOFBKbURBSkJ3dk1QbTVGTTcyREhDbldiOTIwb2ZIVFdjNjhYbUFyMWstS1RrZ2FyMzQ5bHNvRjRIQUdqRTAyZmJscnQzbnhpZWtXSHcxbFVIcmM3RmlEY1l3bmtVRHVOZ1JFaXd0OUFWdHYzbV9wU1I0ZUtmN3ZBaGM1dVo2bDQ5MWFYaVA3aWlMYXJaQW52TWhydlpsd1pUN0w0MG9EZDJtNlg3R1hVckk1cDNpbldQU2gwS29OS0RsdnF0WGxESUN5aXdDYnJEY1lFN3ozRDlsZVRIRFBiTTdQUXRKQzE0OFpEaGVaT01yM2l6VDN2bjlZbHdCd1I1RmpmZ3N5bkU?oc=5",
-    "published": "2026-06-08 14:02",
-    "timestamp": 1780894941,
-    "summary": "TSMC 엔지니어들이 삼성전자의 성과급 수준을 부러워하며 급여 격차가 최소 5배에 달한다는 내용이다."
   },
   {
     "company": "Broadcom",
@@ -646,6 +710,14 @@
     "published": "2026-06-08 08:01",
     "timestamp": 1780873313,
     "summary": "엔비디아가 네이버와 협력하여 기가와트급 AI 팩토리를 구축한다."
+  },
+  {
+    "company": "Qualcomm",
+    "title": "입증된 저가 노트북 수요, 퀄컴 '스냅드래곤 C'도 도전한다 - 인벤",
+    "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTFBzWEFjT3ZWMGZncVdkY1pFLXMxa2drUXVDTmVLYWQtbTI1cV8tSWgwR1lhOWgxUXFxaHYtZXJPeUIxZHh3cmZWU1hmeUJTRkRMQWM5bFg4NldMd2lfMk1oZGM4Znp5V2hSd3ZQZ3F3?oc=5",
+    "published": "2026-06-08 07:45",
+    "timestamp": 1780872326,
+    "summary": "퀄컴이 저가 노트북 시장을 겨냥해 스냅드래곤 C 시리즈로 새로운 도전에 나선다."
   },
   {
     "company": "NVIDIA",
@@ -1238,14 +1310,6 @@
     "published": "2026-06-07 02:04",
     "timestamp": 1780765481,
     "summary": "마이크로소프트가 포르투갈에 100억 달러 규모의 AI 데이터 허브를 구축한다."
-  },
-  {
-    "company": "Qualcomm",
-    "title": "입증된 저가 노트북 수요, 퀄컴 '스냅드래곤 C'도 도전한다 - 인벤",
-    "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE12QW01V0wyM1RpYU53TU1IY0c5YkNLSkpJRDlhdTVKVVJTSmxQSkxIc0JoSVBXUTdQU090Q1h5REltQUNPdjBCR0w1eDRRNWlleUZ2dG5ZQkxNZGUwZUVLcG96MWd3RzNk?oc=5",
-    "published": "2026-06-07 00:25",
-    "timestamp": 1780759519,
-    "summary": "퀄컴이 저가 노트북 시장을 겨냥해 스냅드래곤 C 제품으로 시장에 도전한다."
   },
   {
     "company": "Intel",
