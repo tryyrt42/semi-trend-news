@@ -1,5 +1,269 @@
 [
   {
+    "company": "NVIDIA",
+    "title": "메디아나, '엔비디아'가 점찍은 엑스와이지와 의료 AI 협업 - 로봇신문",
+    "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9QRlZ2S3NTNVg3R241aWk4NWJRd1JfUHlONGc1eDlRNWtLSWl6bm5WQ1VnQkZKdmhTakpJRHVQekJNVzVLMThtR3g4aVNrdDNHVzZ1Z3gyU2c0S2ZoZ3RzWXg5cHJLWU9fMjVsRA?oc=5",
+    "published": "2026-06-09 13:05",
+    "timestamp": 1780977912,
+    "summary": "메디아나가 엔비디아가 점찍은 엑스와이지와 의료 AI 협업을 진행한다."
+  },
+  {
+    "company": "NVIDIA",
+    "title": "씨메스로보틱스, 엔비디아 젠슨 황 CEO 주관 ‘코리아 AI 리셉션’ 참석 - 물류신문",
+    "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTFA0VU84YzZ5MmVkN1NFVWFlZklkNkwtUVZUbG1IbTRmSW8xX0sxUXJJT3V4R3AxcHdJSFdabmFDanBBdkY0dm5qVDNHSWpUYXFCSDNaUTl6dGhPN0JrOU9sMXdISnQ4NThXSWpz?oc=5",
+    "published": "2026-06-09 12:48",
+    "timestamp": 1780976927,
+    "summary": "씨메스로보틱스가 엔비디아 젠슨 황 CEO 주관 코리아 AI 리셉션에 참석한다."
+  },
+  {
+    "company": "Meta",
+    "title": "젠슨 황도 서두르는 데이터센터…메타, 건설 인력 직접 키운다 - 네이트",
+    "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE5QVHotTC1QT0piOXhOcnoydWpETmhQRlpmeFp2TDRSdm5DYkFrdUFodkY0ZjNOdUQ2cGxTa1ZUb3R5QVduZ0l4d3NPMEJMTDNISExr?oc=5",
+    "published": "2026-06-09 12:46",
+    "timestamp": 1780976760,
+    "summary": "메타가 데이터센터 건설 인력을 직접 양성하며 인프라 구축에 속도를 내고 있다. 이는 엔비디아의 젠슨 황 CEO도 주목하는 데이터센터 확장 전략의 일환이다."
+  },
+  {
+    "company": "Qorvo",
+    "title": "코보, SOI RF 스위치·DSA 5종 공개…BOM 복잡성·보드 공간 절감 지원 - 헬로티",
+    "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTFBoR2Q5Mm0tUi1rVGt0OXRrZC1VVGJjWWVWelBydDJUOUlJMmNZSU1ONmg2U1l1cDdPTFdhS3hIRVRKQ2tlSmxfci1GLU4tZTZwSkduRzY3bU16SEU0YXM0dUtn?oc=5",
+    "published": "2026-06-09 12:21",
+    "timestamp": 1780975264,
+    "summary": "코보가 SOI RF 스위치 및 디지털 스텝 감쇠기 5종을 공개하며 BOM 복잡성과 보드 공간 절감을 지원한다."
+  },
+  {
+    "company": "NVIDIA",
+    "title": "NVIDIA-LG그룹, 피지컬 AI·모빌리티·AI 인프라 발전 위해 AI 팩토리 구축한다 - NVIDIA Blog Korea",
+    "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5jQ1ExcmpMc2FHMlQ4djZDQXFoRWpPcDN6SzlpcEhKUDNyRGpkMkVYRm1GMzk1S2VMTFllczBXUzI5VkRyMkxzdEpzVEZPX2NJQ18tcmRuRmMydFhPWmlxcVZ4S29MNF9hNkJDV2drbVY?oc=5",
+    "published": "2026-06-09 12:09",
+    "timestamp": 1780974576,
+    "summary": "NVIDIA와 LG그룹이 피지컬 AI, 모빌리티, AI 인프라 발전을 위해 AI 팩토리를 구축한다."
+  },
+  {
+    "company": "NVIDIA",
+    "title": "[카드]고레로보틱스, '엔비디아 GTC 타이페이 2026' 스타트업 데이 참석 - 프라임경제",
+    "link": "https://news.google.com/rss/articles/CBMickFVX3lxTFBuZnQzMl9IbkpTUTVJMVMzaGVQNUxiR2RfLXliUXB1SnVfY1QycFhIMFR0ZHk1SEttbFFyc29pNUVTWjRzVHFiNEQ4N1BxMFBkWFI2dDg4RXBxWUlqc1d6c180WkQzYThTU01iS2dtNWh5QQ?oc=5",
+    "published": "2026-06-09 11:37",
+    "timestamp": 1780972668,
+    "summary": "고레로보틱스가 엔비디아 GTC 타이페이 2026 스타트업 데이에 참석한다."
+  },
+  {
+    "company": "NVIDIA",
+    "title": "Samsung Electronics, Nvidia Deepen AI Semiconductor Partnership Through HBM4 and Foundry Collaboration - Korea IT Times",
+    "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE12SEZaNFUwSUpmZ1lCWThnYlQ5N1c3SEN0bUphbUgzc2s2R2VQaW9vVG90bEg4eW1TdDR2VUstbjBtT0NFbl8xQmdQVEJ2Z0pSYVVJQVFjck9yMzNRaWFMdnhtZk5vcEZkNm5MVHhENlo?oc=5",
+    "published": "2026-06-09 11:37",
+    "timestamp": 1780972628,
+    "summary": "Samsung Electronics와 Nvidia가 HBM4 및 파운드리 협력을 통해 AI 반도체 파트너십을 강화한다."
+  },
+  {
+    "company": "NVIDIA",
+    "title": "[06.09] 현대·NVIDIA 협력 가속화, 글로벌 공급망 재편 신호 - 네이버 프리미엄콘텐츠",
+    "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOb2hQMTJYQWcxYUp3WHUzY1ZoSEtydUZneUtMSjRWYUkwNHFRem1wZGNaV2tIemNfUlNEa0V4TnVRdHpHb1d1WW1KTWY4NzBwQ2JndnVKWjRVNHYzSzhzSXJneTVDNzFVd00zS2xmcklDSGo3aERyc3RSU1RLTjBWLVhlUkJjM21Ubkp6U3NR?oc=5",
+    "published": "2026-06-09 11:34",
+    "timestamp": 1780972440,
+    "summary": "현대차와 NVIDIA의 협력이 가속화되며 글로벌 공급망 재편의 신호가 되고 있다."
+  },
+  {
+    "company": "NVIDIA",
+    "title": "“젠슨 황이 주목한 K-로보틱스…엔비디아 휴머노이드 전략의 핵심 부상” - 로봇신문",
+    "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBROUFHUlo0VHBzWnhFQXg2RGU5dFdPMWFrSEdWUl94VmFIWW9VdnktTEpTcFhUTlpDYzY1ZVU0QzlSek1iS01wMm4xbjBCeWpyeHJGWFlEN216cmJnbHlqTWxOcEFWNXN2bmpVMg?oc=5",
+    "published": "2026-06-09 11:32",
+    "timestamp": 1780972378,
+    "summary": "젠슨 황이 주목한 K-로보틱스가 엔비디아 휴머노이드 전략의 핵심으로 부상한다."
+  },
+  {
+    "company": "NVIDIA",
+    "title": "두산, 엔비디아와 에너지·전자소재·로보틱스 전방위 협력! - 두산뉴스룸",
+    "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9oN0ZzRlVsNjZWMkxadEVyTktSTE1zZ3pVamM1NVhpWEFqYnhya245eTRtM1ktZi1HeFFFaTZGM09oWHpSMWluYkE0X205M3lIbTlmMV9yaDNLeUE?oc=5",
+    "published": "2026-06-09 11:30",
+    "timestamp": 1780972249,
+    "summary": "두산이 엔비디아와 에너지, 전자소재, 로보틱스 분야에서 전방위 협력한다."
+  },
+  {
+    "company": "NVIDIA",
+    "title": "현대차 새만금 ‘AI 밸리’ 조성 엔비디아도 가세 - 뉴스토마토",
+    "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBFTHZocDdnQWhublo4bTFWWTNyUFNXc0VGcXdHMmFMMmJvblFIbS1nLXo5cEZPdkJRSnNjSElsV0d5d1NsVWlNRXZxUWZXUjIzNmVzMGtYcDBwSndiQzhCNQ?oc=5",
+    "published": "2026-06-09 11:23",
+    "timestamp": 1780971829,
+    "summary": "현대차의 새만금 AI 밸리 조성에 엔비디아가 가세한다."
+  },
+  {
+    "company": "Qorvo",
+    "title": "코보, 방위·항공우주용 고주파 시스템 적용 확대 추진 - e4ds news",
+    "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTFBnV1RERTVrdktPNE9zQWEtZFFXaXdNM01pZ3MxRWpkdzRsNDNJQ0lnNklXam1PeEhJamttZGdiYWpORE94WHQtR2VUTnZTTVRRcEpldG0xSFJiS0pHdkFNd2Zn?oc=5",
+    "published": "2026-06-09 11:08",
+    "timestamp": 1780970880,
+    "summary": "코보가 방위 및 항공우주 분야에 적용되는 고주파 시스템의 적용 확대를 추진한다."
+  },
+  {
+    "company": "Synaptics",
+    "title": "마우저, 시냅틱스의 아스트라 마키나 SL2600 개발 키트 공급 - 매일타임즈",
+    "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFBXWEdVQzd0SmVwNlFaTXZtZ1JDRWJReVNKdldYUVl1bUstYlUyTHFwbWk3MVdiS1Q1bzlXY3FfbDEza0s4TTg5dGlnSDNvUUE1X2RocmozSEp5dy1kYUE?oc=5",
+    "published": "2026-06-09 11:03",
+    "timestamp": 1780970580,
+    "summary": "마우저가 시냅틱스의 아스트라 마키나 SL2600 개발 키트를 공급한다."
+  },
+  {
+    "company": "모빌린트",
+    "title": "모빌린트, COMPUTEX 2026서 대만 기업 3곳과 전략적 MOU 체결 - 헬로티",
+    "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE5PQ1RMTXFkZHIxbThvMVNGNG5LVzRlM3VlTFFWckNONVV3LTFwakZzaG03Um54RlloY05SQy1Ub2U0Tnd4MUlWQTRhOENIbTE1SWdBeWNHZk9CWkJBeDVj?oc=5",
+    "published": "2026-06-09 11:02",
+    "timestamp": 1780970549,
+    "summary": "모빌린트가 COMPUTEX 2026에서 대만 기업 3곳과 전략적 업무협약(MOU)을 체결했다."
+  },
+  {
+    "company": "Qorvo",
+    "title": "코보, 음전원이 필요 없는 SOI 포트폴리오로 RF 제어 설계 간소화 - KIPOST",
+    "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFBwYUpORGttQ1piWURxVE5LYlBYbm85NkZiMjM4NDZfWUtoY3BUc1UwdS0yTDZQNl9xOW4wYlN5ZDE1UXFFN05VM3piUnZjaFFjTS16NzJQTWxndHVCalVqd0xkWGRjM1k20gFsQVVfeXFMT3M1OHdSWUoxRXF0cExhYnFiVXppUml2MDJLTHNUU2toYkN2T2FQQjA3Y0V2UjlWMmNFRGZrbkgwVDdWMjR1SUE0QlhaTkRvaF9pMThpYVFCVGpaM01xcnRMOHZianZmVWktOEZF?oc=5",
+    "published": "2026-06-09 11:00",
+    "timestamp": 1780970400,
+    "summary": "코보가 음전원이 필요 없는 SOI 포트폴리오를 통해 RF 제어 설계의 간소화를 지원한다."
+  },
+  {
+    "company": "TSMC",
+    "title": "스페이스X 상장에 '위성산업' 견인 전망…삼성·TSMC도 초기 생산 참여 - 네이트",
+    "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE0wTWdQLXhhRk1Wc1FsMmxwcUNqZTh6NkpqMVhpa1dSRWVzbVVCeWdFVElvN04xcFVmLUlOZXVFZXVhdVRlVEtadm1rUGtKX1Y2STAw?oc=5",
+    "published": "2026-06-09 10:59",
+    "timestamp": 1780970340,
+    "summary": "스페이스X 상장과 관련된 위성산업 생산에 삼성과 TSMC가 초기 생산에 참여한다."
+  },
+  {
+    "company": "NVIDIA",
+    "title": "NVIDIA-두산그룹, 피지컬 AI와 AI 팩토리 인프라 발전 위해 협력하다 - NVIDIA Blog Korea",
+    "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE02ajJPdnhOcTlTdWVuZ1E0eldWYnhoZEJRT0ZrZVJIQzdVZTJGU2RZMlFmWUlXbjFBaHAyV3dvaEdTRkswWlBpUzk1MFF5aGNjS2ZCMWRDSFdueFZsbWZSaFFvQXpoa3hzUHNwdTU2QmdKZkJDNXBZ?oc=5",
+    "published": "2026-06-09 10:56",
+    "timestamp": 1780970172,
+    "summary": "NVIDIA와 두산그룹이 피지컬 AI와 AI 팩토리 인프라 발전을 위해 협력한다."
+  },
+  {
+    "company": "NVIDIA",
+    "title": "SK telecom, Naver deepen Nvidia partnership - 네이트",
+    "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9jN05MdEJTX1lENU5sV3ZGZG5sOFpsWTZBRTZuT2JkNzgzNXRUY1B5eHhhUVFIUnlPNWU2MWNVdUNjS0VFZml5TU9iR1lKVDZxQ01remFITjR0T1NqTzFtUw?oc=5",
+    "published": "2026-06-09 10:56",
+    "timestamp": 1780970160,
+    "summary": "SK텔레콤과 네이버가 엔비디아와의 파트너십을 강화한다."
+  },
+  {
+    "company": "넥스트칩",
+    "title": "넥스트칩, 유일로보틱스에 머신비전 카메라 공급…차세대 로봇 적용 위한 PoC 착수 - 네이트",
+    "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE5aVGpPbFdCLWd4QmxLbzV5aXczWkh4c05CMWRMUG5vbXk1WVlnUmVzekNlUUJQMmpzcUdtQVg0RzFtamlLQks2eDZZV2h2aWNoclRN?oc=5",
+    "published": "2026-06-09 10:55",
+    "timestamp": 1780970100,
+    "summary": "넥스트칩이 유일로보틱스에 머신비전 카메라를 공급한다. 차세대 로봇 적용을 위한 PoC에 착수했다."
+  },
+  {
+    "company": "AMD",
+    "title": "6세대 AMD 에픽 프로세서 탑재한 수랭식 서버 '델 파워엣지 M9825' - 전자신문",
+    "link": "https://news.google.com/rss/articles/CBMihwZBVV95cUxOWHZfdnZHSDBadmN3RWdOV1lZdnJiQU81SjRJR21wbVhqaVdsQnNRc1BVLVZBSmNiTElmNFJYU0p0NlRJbHVNVVlSU3JuN1Rvaml2Q25WX21ldElSSVA4RGVHTFhwX3RjeWZWX0R1VlNtQWNNaDZMUVBpUXEzOTZnRDBUd3dDMFFtZ0Y0bnVkUDdTMFAzdjJiaXRjWEJMZGR3R3RBeWhYRXZjZXlURmY0TUM4SlgyRUlqb1ZndjNGVUpwZGFWOE5ndHdtMG1EQnl5NHYwYjNwVExLRDZnclVJdDB6T3FLRWZEZ3NDV3VXOTlXOTFyV2pQZlNHRDhjTldJQzZTRnFfSzcyR3Q3TFZ3TGZiMlNsSW1keEtCQUQ0ZURrZ1FvcktNQVpfQk9qZU1pVHdHWl9ITXpGbjhveVFhSWRvVEFBbS0xSmJrSldLOXR6UjA5RHpYc0o5NXBTMVJmeUZBaGFUNGNuNkxYOEdZQVNyc0J6VDJ2Y01ITXltRmwyaFYwTUpyM1BIWXE1b0Q4REwzWE9QVG1lbDRBbHhKSkpvVHM2OWpieDVCc0U5aTJBQW1hc2FPVDYtd3ZEQ3cyczRWQW1GRVV2QUxvclpnZG1sQjhRYVNROXNDeTRBYW84MDJTM1hwRXFUdF9OYUttWXZvTnlCcWxVbTg2aTdPTzRrMDhiLV9selBsTHVOT2ptOE91bzIxcTFzLV9sZXhreWtrVnJSX0dmV0tPSXh5ZzlCMTF0UEg4S0VNcnlTTlFHTlZzN2RqTll3RHNjVzR3d01oTURPUHdDbHRuclRTWWVyR2FRNWg4ZWJDcE1BdG9HV1FpMFhCbWREc3p2T3UtYVZaZ1VlbjdMMUt3R1Bkal9DdmFpNjVrQ1YxQUVCaUlUb21RaVJXaEtPQ2lhMzZzaDNNVjMyaW5NSjJ6SGp3aHIyNnFtX2M3WW9wTWZaQUNTRkNrcG4tVkFyUjYyY3JXcXVFSlV3emdxU2daR1pfel9pRHRPRGdCUUxydi1pSUlWWk5peEtr?oc=5",
+    "published": "2026-06-09 10:52",
+    "timestamp": 1780969927,
+    "summary": "델이 6세대 AMD 에픽 프로세서를 탑재한 수랭식 서버인 파워엣지 M9825를 선보였다."
+  },
+  {
+    "company": "AMD",
+    "title": "'1조달러 클럽 도전' AMD, 英서 AI 슈퍼컴 2기 짓는다…5년간 20억달러 투입 - 네이트",
+    "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE5IQTh2dzk5MnlFREFiV0R6VHBxbGdPbEdOeXdjbkhfYllSZmg2OEFyS0dGTDFrRFQ3T1ZlMXJCSW5Md0lZZlcyUWJaVUZXQmVIVE93?oc=5",
+    "published": "2026-06-09 10:44",
+    "timestamp": 1780969440,
+    "summary": "AMD가 영국에 AI 슈퍼컴퓨터 2기를 구축하기 위해 5년간 20억 달러를 투입한다. 이번 투자를 통해 1조 달러 클럽 도전에 나선다."
+  },
+  {
+    "company": "Broadcom",
+    "title": "아폴로·블랙스톤, 앤트로픽에 350억 달러 사모대출…브로드컴 일부 보증 - KB Think",
+    "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE16NUlBN2tnUFhkNUI5Z2c1VmlvNU9mM256VDAxNjJONkNueUdTWWk5TFRFNF9neUVTNWluUVZuVFFvcmQ5bDZpcXlZeFhlV045UzlHVmlaeEMwV2o5bnB3ckM5VmRKT2RweTJuRmFGNFVPUQ?oc=5",
+    "published": "2026-06-09 10:17",
+    "timestamp": 1780967823,
+    "summary": "아폴로와 블랙스톤이 앤트로픽에 350억 달러 규모의 사모대출을 제공하며, 브로드컴이 해당 대출의 일부를 보증한다."
+  },
+  {
+    "company": "Cadence",
+    "title": "케이던스, 엔디비아 함께 레벨-5 자율형 AI 설계 환경 구현한다 - elec4",
+    "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE9mZkRDM2VVN1JGbWlGeXY4cUxveS03eE5PTFpuVF9FZUlqMmtvNTlHVXFrRUUxQ3c0SkRlV2FwSDNDWHM1cW1vRjRrMkdKd0RiamtveG5SdlZINEFRckotQkJjczFQYVRCdTFKNUF3?oc=5",
+    "published": "2026-06-09 10:07",
+    "timestamp": 1780967275,
+    "summary": "케이던스가 엔비디아와 협력하여 레벨-5 자율형 AI 설계 환경을 구현한다."
+  },
+  {
+    "company": "Intel",
+    "title": "최대 27% 성능 향상, 인텔 iBOT 지원 타이틀 7종 추가 업데이트 - 보드나라",
+    "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE5DMzhNU3BZSDAtbFkwSHdtZU9rZFZGTEVzOGlHODRNU0xQbHBwU0RlVXVxMkx0SVBzV3pzb1lsV2NiX1hmTHRQbVZnWDVLTFNVRVlXU3E1ZGhlZi1aS2RVc19ZVQ?oc=5",
+    "published": "2026-06-09 10:03",
+    "timestamp": 1780966980,
+    "summary": "인텔 iBOT 지원 타이틀 7종이 추가 업데이트되었으며, 최대 27%의 성능 향상을 제공한다."
+  },
+  {
+    "company": "NVIDIA",
+    "title": "배경훈 부총리 \"엔비디아 베라 루빈, 한국 최우선 공급\" - 연합뉴스",
+    "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE55YnBWUmhoOFJNd1Z2V3JpaFNISDAyYmxwc1otVUFtaG1ESjNVc21seE5RbVlZb2U5b19oRXgxWUc0a09lR0dkdW9yb1dHbU1iN0VFRTlSbWZCTkXSAWBBVV95cUxOYldnY014SFJpdTBtZ2Q3aFdjNWdMRXBXSHdOUGRyc3dyZ0tOYTBPUlp0QW10SjczcnAtRVNfYy03WXRqOHRaUXFHUE1YSHlnRDJTTFQ1bGo4SFpoeGtaMU0?oc=5",
+    "published": "2026-06-09 09:38",
+    "timestamp": 1780965521,
+    "summary": "배경훈 부총리가 엔비디아 베라 루빈의 한국 최우선 공급을 언급했다."
+  },
+  {
+    "company": "리벨리온",
+    "title": "[기획] 리벨리온에 몰린 금융권 자금…생산적 금융 사례? 정책 압박 산물? - 서울경제TV",
+    "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFBTdmdYSFNqMlZ1a3p1LWNPV1VWeDhwaDJfeno0Qlo2NDlGTW8yRHlHdlRVaDROOE1zMV9fLVBfVEZYdVMxazR3WE5TS1JlZ0hhLVBvVjRLMGczNUNFQTJReG5Ua0g?oc=5",
+    "published": "2026-06-09 09:16",
+    "timestamp": 1780964210,
+    "summary": "리벨리온에 금융권 자금이 집중되고 있는 현상을 두고 생산적 금융의 사례인지 정책적 압박의 결과인지에 대한 논의가 제기되고 있다."
+  },
+  {
+    "company": "NVIDIA",
+    "title": "엔비디아, SK텔레콤과 기가와트급 AI 클라우드 구축하며 국내 AI 혁신 가속화 - elec4",
+    "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE5FTDNpWFREZDh5Vks0UEQxUGtHSEkwY3FmZmQwVDV1YVJWTi1pQXBmQjFFX3A4VWpaZGFCS3ZwQktyTF9hVXdsVlRkM2d5XzBJWEhIN1ByQWFZaVFvaUh0cG04ei04aUJfbURsT0dR?oc=5",
+    "published": "2026-06-09 09:08",
+    "timestamp": 1780963728,
+    "summary": "엔비디아가 SK텔레콤과 기가와트급 AI 클라우드를 구축하며 국내 AI 혁신을 가속화한다."
+  },
+  {
+    "company": "NVIDIA",
+    "title": "엔비디아·네이버 맞손에 AI 커머스 주목…국내 업계 어디까지 왔나 - 연합인포맥스",
+    "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBubjVVU3IteUVGNkh6a1ZSWWw0V2ZRQTRrSUstTDYtWVhKdjJuRGxwMFZoem5sVGJMV3lHVC1XcEs1TVFtRzRhLXV6a1lDRVJ4dUtEQ3dLSms3TlRfYUQyNTVjeFpSYjdBcl9GWVdJdHg?oc=5",
+    "published": "2026-06-09 08:55",
+    "timestamp": 1780962900,
+    "summary": "엔비디아와 네이버의 협력으로 국내 AI 커머스 업계가 주목받고 있다."
+  },
+  {
+    "company": "Apple",
+    "title": "애플, 인텔리전스 발표 2년 만 '시리 AI' 공개···시장 반응 '냉담' - 서울파이낸스",
+    "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE80R2xnSU0zTGZtclBIbWlTZXRsVHprS05RWXBzb3JoRHBwNzlJOUJCU2p6TnIxZXJDMW1OZUZXZlRJMzlnQkhhT2h3X1Q2andoamVxcy1JTjhGa29jYUFaSXh3OURTSGV5TVE?oc=5",
+    "published": "2026-06-09 08:44",
+    "timestamp": 1780962299,
+    "summary": "애플이 인텔리전스 발표 2년 만에 시리 AI를 공개했으나 시장의 반응은 냉담하다."
+  },
+  {
+    "company": "NVIDIA",
+    "title": "대기업들 엔비디아와 밀착 행보…조준희 회장 \"국산 AI·SW 생태계도 함께 키워야\" - 지디넷코리아",
+    "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1KUjBxZmlsWlFyUi1tbnRjdnprYWV2b2I4VnBabWt6QmZtcjZYLTJMM3ZabThOVUY4b05WYTZqWk54S2o3c0ktbkVJUGpUcUJiNUtlaHFn?oc=5",
+    "published": "2026-06-09 08:36",
+    "timestamp": 1780961783,
+    "summary": "대기업들이 엔비디아와 밀착 행보를 보이며 국산 AI 및 SW 생태계 육성 필요성이 제기된다."
+  },
+  {
+    "company": "Intel",
+    "title": "인텔, 휴대용 PC 게이밍의 새로운 기준 제시할 인텔 아크 G-시리즈 프로세서 발표 > 뉴스 - 브레인박스",
+    "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxQVEpzX0pNMzZIandLc3VyZlEyRE1NdGZEdXEtY0w0UkR3aXRqVmpqM09iQlM3ak5PUWhrRWQ4TVRUZWhpVGNFRlBFemFjb3lGYTNabmZNdGVhYkpKWkRZeTMyOVZUN2tUWWxNWER3ZU9uWVpqa3haZmh3TGIwU3FrbDBBSTdOc2hCOTktZ1ZHV0ZwRlBicThkVVdRUTZvSWo1SXROR0RnVlh3Wl9yVTlrM01hQlc0U3h0RXRqZWprOUZIa0RHSzlUb2lZbXZ4RUF0blE?oc=5",
+    "published": "2026-06-09 08:27",
+    "timestamp": 1780961247,
+    "summary": "인텔이 휴대용 PC 게이밍을 위한 아크 G-시리즈 프로세서를 발표했다."
+  },
+  {
+    "company": "OpenAI",
+    "title": "오픈AI·앤트로픽·스페이스X IPO 시동...국내 ETF 판 흔드나 - 스트레이트뉴스",
+    "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE5JeWh6aFB6aGVwRXd5R0pNMzZtUjZBZl9MSDFfd3Q4OWg5dU03Q2IyWllPZmppcURqRmtOUFgwV0RDWmVIaDhjaE5CbG5oTi1JMzdwQ0paLTBfdGxpdHNXckl0OGtlcENvRmFxaXZYWmExLTNZZXhJ0gF3QVVfeXFMTkl5aHpoUHpoZXBFd3lHSk0zNm1SNkFmX0xIMV93dDg5aDl1TTdDYjJaWU9mamlxRGpGa05QWDBXRENaZUhoOGNoTkJsbmhOLUkzN3BDSlotMF90bGl0c1dySXQ4a2VwQ29GYXFpdlhaYTEtM1lleEk?oc=5",
+    "published": "2026-06-09 08:21",
+    "timestamp": 1780960881,
+    "summary": "오픈AI와 앤트로픽, 스페이스X가 IPO를 준비함에 따라 국내 ETF 시장에 미칠 영향이 주목받고 있다."
+  },
+  {
+    "company": "NVIDIA",
+    "title": "Jensen Huang Meets Korean Gaming Leaders as Nvidia Expands AI Ties With Game Industry - 인사이트코리아",
+    "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTFBYNmNMWVFOcTVyRzI3NEsyWWxjSWdBZFlBN3NxaEhUVUFZZ0dER0JLU2lBWVNrRXhxOFBVOVlmNl9xWGU5cFM4aEZUUnJZb3RQc3VaOFRObXowOS16QzlRM0VVYXc2YVVTTHhKZ3V2Y28tbU3SAXdBVV95cUxNR1hua1g1VzV2ZFhiUE5GSHlTN2xEUU1YQ2ljNTdjc2FSTkp1VjlMZ1loWkh4YzdndmlBZEd6NXgzbXFEYmZwUVJrT0FRak9MVk1PUkRLUXRjYVdWMjVtT1FqWEgzZVc2ZVJ4SGlQQndnME5TS05UOA?oc=5",
+    "published": "2026-06-09 08:16",
+    "timestamp": 1780960560,
+    "summary": "젠슨 황 엔비디아 CEO가 한국 게임 업계 리더들과 만나 AI 협력을 확대한다."
+  },
+  {
     "company": "Google",
     "title": "구글·엔비디아, 인텔을 백업칩 제조사로 검토 - v.daum.net",
     "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFB6djREdVhrWE56aFhuamRZWkVRUkRaczNTXzdaLVBmU0kyZFgtVVJwcUQzcEY2QWNSZlNvbEtUNVNmUFFXS21xS3dWQVhsem8?oc=5",
@@ -40,14 +304,6 @@
     "summary": "크래프톤이 엔비디아와 협력하여 AI 게임, 로봇, 자율주행 분야로 사업을 확장한다."
   },
   {
-    "company": "Intel",
-    "title": "인텔, 휴대용 PC 게이밍의 새로운 기준 제시할 인텔 아크 G-시리즈 프로세서 발표 > 뉴스 - 브레인박스",
-    "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNSTlpTHdCNHBRR2d3WlFWVFlmc0t0OWlHNnJUV1VGa0pVcURjaTZJbUpKQlQwUFBzZndwWDZld2lrUWVZQmI3MDMtTVBQMkRVNjVOcmJNQ1VCeGk0RmxVa3ZWYXNGcWkxZjZNUHhyd19Oa0FnTE5kYXhrUjFXWVVkN2ZYRkhpejE2OFE?oc=5",
-    "published": "2026-06-09 07:37",
-    "timestamp": 1780958245,
-    "summary": "인텔이 휴대용 PC 게이밍을 위한 아크 G-시리즈 프로세서를 발표했다. 새로운 게이밍 성능 기준을 제시할 예정이다."
-  },
-  {
     "company": "Amazon",
     "title": "'HBM 폭발' 유리가 먼저 움직였다… 아마존·코닝 동맹에 삼성·SK 긴장하는 이유 - 글로벌이코노믹",
     "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNempVRm5ra3g3TEtla3pYdFNEN1BQdWZ4RjMteC1pVWJILVNRRkd3dFVzOTZ6Q3FVT2EwbklpZ1dqSmVLQnktX0pnS09PU3E0RHBBdE9DZ0lLY1NOQ2FtX2htb2NaYU9NRkc0N0pzMjlfcFhhV2N1VlRQNDVDUUNiUFgtQzBva3hl?oc=5",
@@ -78,6 +334,14 @@
     "published": "2026-06-09 06:57",
     "timestamp": 1780955867,
     "summary": "AMD가 영국 AI 슈퍼컴퓨터 구축을 본격화하며 5년간 최대 2조 원을 투자한다."
+  },
+  {
+    "company": "Google",
+    "title": "구글(GOOGL.O), 인텔(INTC.O)에 차세대 AI 칩 대량 생산 맡긴다…인텔 반등 신호 - 알파경제",
+    "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE82UV95bnk5Ul9DZWQyNVUzUTVNd0o4VkZHR0lVMEhSSHgzYklVS0V2ai1Yc19KZklmMnpZSGp2UENnTzNrR1BmSjVsVUFVa09GN21HSEE0TmtNdGVpUzA5cFBvYnprTERlcDhfYVd30gFuQVVfeXFMTzZRX3lueTlSX0NlZDI1VTNRNU13SjhWRkdHSVUwSFJIeDNiSVVLRXZqLVhzX0pmSWYyellIanZQQ2dPM2tHUGZKNWxVQVVrT0Y3bUdIQTROa010ZWlTMDlwUG9iemtMRGVwOF9hV3c?oc=5",
+    "published": "2026-06-09 06:57",
+    "timestamp": 1780955852,
+    "summary": "구글이 차세대 AI 칩 대량 생산을 인텔에 맡기기로 했다. 이는 인텔의 반등 신호로 평가된다."
   },
   {
     "company": "Intel",
@@ -142,6 +406,14 @@
     "published": "2026-06-09 06:00",
     "timestamp": 1780952400,
     "summary": "AI 패권 경쟁이 심화되는 가운데 엔비디아와 협력하는 국내 기업들의 행보가 이어지고 있다."
+  },
+  {
+    "company": "NVIDIA",
+    "title": "삼전닉스 손잡은 엔비디아…AI 동맹 '더 큰 그림' 그린다 - 머니투데이 - 머니투데이",
+    "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBUQUEyX2JVVmdRNnB0YmVDLUVmazk3YjQ4SE5QLUU1clZBd3RrU09kS2RVOVl5Z3B6d2J6RzVJVUlyMHlwa0pWemtvUDd4THZWcHRUbU50ZkJDMjhGT0V4ZDFEMm8yRDFVdkQ3StIBckFVX3lxTFBCT2hjSGV2X1kyaUktM0U5MFBIYkVCWmxDcTdIdVVKMU1iMUNYeFZCeTZFcDNoT3Y5RFN2ekxXM0RtWUI5ZElwWkdmTXA5MFctMFMzdnJQTWJ3SWJxYU1FYWhaa1ZwV09ueFVaS0xZNlg2dw?oc=5",
+    "published": "2026-06-09 06:00",
+    "timestamp": 1780952400,
+    "summary": "엔비디아가 삼성전자 및 SK하이닉스와 손잡고 AI 동맹의 큰 그림을 그린다."
   },
   {
     "company": "Qualcomm",
@@ -225,11 +497,11 @@
   },
   {
     "company": "TSMC",
-    "title": "TSMC 2,500억 달러 미국 투자로 '실리콘 실드' 강화…미중 기술 패권 경쟁 속 타이완의 전략 - 브랜드경제신문",
-    "link": "https://news.google.com/rss/articles/CBMiTEFVX3lxTFBOZzI3QnBtZUlEb1ZFRENfdzlWU0MwV1JpWGtOM3RtWU95cVJlSXFYdTBmNTlpN2FaQnlkOHI5dlZxMjNRd0NtbnBZTi0?oc=5",
-    "published": "2026-06-09 03:34",
-    "timestamp": 1780943697,
-    "summary": "TSMC가 미국에 2,500억 달러를 투자하여 실리콘 실드를 강화한다. 이는 미중 기술 패권 경쟁 속에서 타이완의 전략적 행보로 평가된다."
+    "title": "TSMC 2,500억 달러 미국 투자로 '실리콘 실드' 강화…미중 기술 패권 경쟁 속 타이완의 전략 - 한국AI부동산신문",
+    "link": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE1ZV2otRHdRTmZPZUctRXN0SF9ydTUtdElDT0JhV0VtcmdmTUJHN1NwY0x3a3lMQWdiZWNKMW5QVVhoRGxrVTl5MmYxbVA?oc=5",
+    "published": "2026-06-09 03:36",
+    "timestamp": 1780943805,
+    "summary": "TSMC가 2,500억 달러 규모의 미국 투자를 통해 실리콘 실드를 강화한다."
   },
   {
     "company": "NVIDIA",
@@ -254,6 +526,14 @@
     "published": "2026-06-09 02:25",
     "timestamp": 1780939500,
     "summary": "마벨이 22일 S&P 500 지수에 편입되는 것이 확정되었다."
+  },
+  {
+    "company": "Microsoft",
+    "title": "Microsoft의 새로운 Project Helix 콘솔은 고급 그래픽 기술로 Xbox와 PC를 통합합니다. - Mix Vale",
+    "link": "https://news.google.com/rss/articles/CBMi2gJBVV95cUxNbTNTNkg0dGdMSk5oR1QydFdFNXBvNFlsNDRzSlpjQkQ2ek9tUXpWU3psaEtJbkFpNVFnQ3czWWF0eGRySVJjbVRtN25mWS1rV2ZHaFlGNWNXejZGeXg1N29zTkVEdllhYmhoaGhjVExhLWswam9yZVdnRkg4YUJBcUJ3bTBPWXJFQW5iMTJkY1NrX2d3S1RzaG1SZjJUQi1kMzlVcTh4UUZIZ2w4TG1rYWhqd0VVUkVQdHphNHNZS1llMFRCcWI5RDl2X1VqdGdoOUpCcThBazR2RC1NUHpKdGFvcHdxaTVXaDRBYnBUYkRUdmxkM2JTR3gtME9PVm5XX1lHYjdQd1VoQlF2ak9FUWxlZnVYZ2tYczY4eGp6djV4LWQ4SmNDN3pLcjRGYXc1VkJjMW5sM3NZbklhbEtLTWpZLVZheXg0N0JkSU0ycUxOZVd1MkpsRjZ30gHfAkFVX3lxTFA3TTJ4dFZ6a25Jc21mRTBhZGlTSGZZNTdObloyNjBTNnVmNUFZZjdYblNJcjRwSElsc2dremVYV0wxbVdBaWg2UmdVQWNtNlNNZUZyaFB6cG5YVjZpVUpicl9HdkhHcUFiNTlKYUtNS3BWckw1OGtyQXhTR1dVMEcyOHd1cXFKdXBQZk1xNHpUVHNQOHpyX1lRWEFKQllmalBheFlfS0hYS0xJSHFzSnhzSzRHSmtjVVVncEk3eWgzU2l4YnNyeXVhYUNfeElweUZ5R3dvek5mNjRXZkcyaUxNTWRNTFM1eFpBU3BNNFViaDNSWURtTkpIMm1NUWZXdEdtSk1KakFjMHlWdUFDeE9XMm1wTHlUdWhSNjUzUUlQS0hxeUdERVpaYkZDTVFCQ0M3NEExbjhtODhVcGMxRnA5cXpUazNPZWVmZDRfMVpRRVpmS2R5a3JGSkYyQTkyNA?oc=5",
+    "published": "2026-06-09 02:19",
+    "timestamp": 1780939196,
+    "summary": "Microsoft가 새로운 Project Helix 콘솔을 통해 고급 그래픽 기술을 적용하여 Xbox와 PC 플랫폼을 통합합니다."
   },
   {
     "company": "NVIDIA",
@@ -534,6 +814,14 @@
     "published": "2026-06-08 17:46",
     "timestamp": 1780908360,
     "summary": "젠슨 황의 극찬을 받은 마벨이 S&P 500 지수에 편입되었다."
+  },
+  {
+    "company": "NVIDIA",
+    "title": "리얼월드, NVIDIA와 휴머노이드 AI 표준 공동 수립...글로벌 덱스터리티 AI 생태계 주도 - v.daum.net",
+    "link": "https://news.google.com/rss/articles/CBMiRkFVX3lxTE05QVZzazlQX2FydGxPTnl0alRXdTJRTXRFUEZyRm01V2k0OTdPNlJ1SzltNjB6cTVId3hFTTAxbkJDSUcwVFE?oc=5",
+    "published": "2026-06-08 17:37",
+    "timestamp": 1780907843,
+    "summary": "리얼월드가 NVIDIA와 휴머노이드 AI 표준을 공동 수립하고 글로벌 생태계를 주도한다."
   },
   {
     "company": "리벨리온",
@@ -1136,6 +1424,14 @@
     "summary": "파로스아이바이오가 일라이릴리의 튠랩에 합류하며 엔비디아의 AI 플랫폼을 도입한다."
   },
   {
+    "company": "TSMC",
+    "title": "TSMC ‘6기사’ 양광레이 “파운드리는 기술 아닌 문화…조직문화 고려해야” [대만 석학들의 진단] - v.daum.net",
+    "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFBheHM4dEJtXzRob09oUkg3ZnFHWHhvMGNKVXJjeDV2dEpvelpnYUM5cmVhd2wtMzBnU2l6TEMxaHV1QlRRcnFVR1lOXzNRWkNFUk5LWA?oc=5",
+    "published": "2026-06-08 06:01",
+    "timestamp": 1780866072,
+    "summary": "TSMC의 양광레이가 파운드리 산업에서 기술력만큼이나 조직문화가 중요하다고 강조했다."
+  },
+  {
     "company": "Qualcomm",
     "title": "[PLAY IT] 'AI PC 사춘기 끝'…퀄컴 스냅드래곤X2 엘리트 실측해보니 - 네이트",
     "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE9zRFY0R1BCWE5WN2NkQmtHSEtxd2NHNFNPYXB6ek5SWnlCRzlPSUZvR2V3VmIyODZMRDktMl9Wc2pGX1BhLWFtU3hWekVScUJKTFpn?oc=5",
@@ -1166,14 +1462,6 @@
     "published": "2026-06-08 06:00",
     "timestamp": 1780866000,
     "summary": "젠슨 황 엔비디아 CEO가 현대차, LG, 네이버 사옥을 방문할 예정이다."
-  },
-  {
-    "company": "TSMC",
-    "title": "TSMC ‘6기사’ 양광레이 “파운드리는 기술 아닌 문화…조직문화 고려해야” [대만 석학들의 진단] - 이투데이",
-    "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE4xZVgxQm9hWE82Qm54NnpZRE0yMGVLVmVVeHRIaV91aTd4YnZlelY5WXVXY0pPdE4ydFhpcWxCdVFZV1FzQUc4UFBxM2d1THlYZC1QUQ?oc=5",
-    "published": "2026-06-08 06:00",
-    "timestamp": 1780866000,
-    "summary": "TSMC의 양광레이가 파운드리 산업에서 기술력만큼이나 조직 문화의 중요성을 강조함."
   },
   {
     "company": "Qualcomm",
