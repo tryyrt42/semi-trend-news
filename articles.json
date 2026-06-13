@@ -1,5 +1,21 @@
 [
   {
+    "company": "TSMC",
+    "title": "TSMC의 '4억 달러 장비는 과소비' 전략, 삼성전자 2나노 판 흔든다 - 글로벌이코노믹",
+    "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxObzg1VUhKQlRUaHdyNHdjNE0xaGl2Y01MNHUzSTBrMGU4eEVKcUR2UkFlVHdkSFhaVno1a0hHM3JBU1I2SUU0cFFKckhuRElGUy03ZkNyOFVEZk5FdnFzU1JFYXN4aXNhMGZwQzRYYlRQZUZVMlVBb3RjMG5vZU9JcFNRdm9HU2c?oc=5",
+    "published": "2026-06-14 06:59",
+    "timestamp": 1781387993,
+    "summary": "TSMC가 4억 달러 규모의 장비 도입 전략을 통해 삼성전자의 2나노 공정 경쟁력을 견제하고 있다."
+  },
+  {
+    "company": "NVIDIA",
+    "title": "엔비디아·SK텔레콤 택한 K-로봇 AI, 휴머노이드 손 세계표준 선점 나서 - 글로벌이코노믹",
+    "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOdVZIVTRQQlN6MkJyTkh2YktJUi04VzZEdHE5dHN1VXJCSy12WGtRWHRKMG1mTlVoVFhFc29rMUpkUEdMZXE4NDZ6SGdnVXYzMnhLMUVNQWFoMTUxTUpmN0ZDRlk3VzY2bl9oVy1QR0NBM3BnaG01NDVjVGhQVU5ra2Q4MzRCbzVn?oc=5",
+    "published": "2026-06-14 06:33",
+    "timestamp": 1781386419,
+    "summary": "엔비디아와 SK텔레콤이 협력하는 K-로봇 AI가 휴머노이드 분야에서 세계 표준 선점에 나선다."
+  },
+  {
     "company": "NVIDIA",
     "title": "엔비디아 대항 독자 AI칩 시장 급성장 전망, 삼성전자·SK하이닉스 HBM 수요 더 늘어난다 - 비즈니스포스트",
     "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE1SZm5YSUdYb0lmcUkwdlhrSV80aUZsWVZJTDlwbHlqZUdUWlQ1TjY4eU5YSUpvSThCTzRmWEVXSkNiRGdqZTJ5XzJjQ1lnVERlaWFiMHZ3TWx0cTlGZk5JQzZVb0NuZVNFLWxWclFPRDZhWmc?oc=5",
@@ -24,6 +40,14 @@
     "summary": "화웨이가 하모니OS 7에 2,000명의 AI 에이전트를 투입한다. 이를 통해 중국 시장 내 애플의 공백을 공략할 계획이다."
   },
   {
+    "company": "AMD",
+    "title": "AMD·브로드컴 부상에 AI 반도체 판도 변화 움직임 - 초이스스탁",
+    "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9ESnJvWXpGcVhocVNYY05fdHBrNXp1aHRoRXdwdVJ1bXI0RTlrS3k2TFMyUXA1ZTU2dW5hVkJpUVRHdEcwclVGTUE1QjdWeGxqU2x4akpLbk45N2JSWjVTdmNVTHY2T2s?oc=5",
+    "published": "2026-06-14 05:30",
+    "timestamp": 1781382650,
+    "summary": "AMD와 브로드컴의 부상으로 인해 AI 반도체 시장의 판도가 변화하고 있다."
+  },
+  {
     "company": "NVIDIA",
     "title": "엔비디아와 물꼬 튼 정부…전력 인프라 없이는 '그림의 떡' - 네이트",
     "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTFBZUS1sbE15US1FWklySGNhSXN1T2hNX001MWY0RnVnaEl4M05HYkZZcUF6eGJ4N2VrWURJVWVPRDdsLVh4UExkaXl1UERfYU04ZmdjWFJJZF8tTWthNVEyeU5yNHdzbnlBT1NpLUtrUktCLURVNTRTdQ?oc=5",
@@ -46,6 +70,14 @@
     "published": "2026-06-13 23:17",
     "timestamp": 1781360263,
     "summary": "엔비디아가 HBM 공급망을 락인(Lock-in)함에 따라 K 반도체 기업들의 대응 전략이 주목받고 있다."
+  },
+  {
+    "company": "TSMC",
+    "title": "칩플레이션 가중되나… TSMC 가격인상 시사 - MSN",
+    "link": "https://news.google.com/rss/articles/CBMinAJBVV95cUxPMy03VFpJUWdVUkxNY0tzUTd6SElSOU9yak5xb056c1NXY1MwcnM4MlFlYzNnaUtyWlBQT3pJMHVtalctOVU2TS13NVhyZjhBalN1TEY3X0JlenNjTk1TV3FTOTNnSTE2Rng5M3I5MGo0MWdpNHZMMHFua1pKeEVRSW1YVHNlRnNUSjlpTzg3Sk4zV0hZR3IyZXVpWHdWeFc2S2hvQmljcUxnb0dRU0NOeVFPMkw3c1J2NU1XMl95c19Xd04zcWZPWldXdjltZWRLbVRSM1BCbGt6VUxxa09jS1VpWUFwRXc0MmlFYXAxSk03bEExdmhFS3hsWjE4dXY2c1JHRDhWT0VVNjNvT3hUdUhEWUN5N0QtQ0tnSQ?oc=5",
+    "published": "2026-06-13 22:44",
+    "timestamp": 1781358273,
+    "summary": "TSMC가 파운드리 가격 인상을 시사하며 칩플레이션 가중 우려가 제기되고 있다."
   },
   {
     "company": "Intel",
@@ -2534,14 +2566,6 @@
     "published": "2026-06-10 16:04",
     "timestamp": 1781075048,
     "summary": "정부가 리벨리온을 포함한 15개 기업을 'AI 미래 유니콘 기업'으로 선정했다."
-  },
-  {
-    "company": "TSMC",
-    "title": "칩플레이션 가중되나… TSMC 가격인상 시사 - v.daum.net",
-    "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE9iaGZQZmMxZnZaMThOUERfYUc5dzRQanVYQjlkUWpVYkRwNC0zWU9uTWhmeVhjazE1YlJPSERSTHV3QWp4LVl2NUZZWUx4QTA?oc=5",
-    "published": "2026-06-10 16:00",
-    "timestamp": 1781074835,
-    "summary": "TSMC가 인플레이션으로 인한 비용 상승을 이유로 반도체 가격 인상을 시사했다."
   },
   {
     "company": "NVIDIA",
@@ -12934,13 +12958,5 @@
     "published": "2026-05-15 13:50",
     "timestamp": 1778820642,
     "summary": "에이직랜드의 1분기 연결 매출이 540억 원을 기록하며 창사 이래 최대 실적을 달성했다."
-  },
-  {
-    "company": "리벨리온",
-    "title": "리벨리온 글로벌 IR 마무리…IPO 전 해외투심 ‘가늠자’ [시그널] - 서울경제",
-    "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE9UZjhtUWt0QUFUVFBzS3lLelVtN3lHcXhPRHY0SW5ZbFBVNmVMUFpjRnpaN0plRUZCUTRjLXc1YUlWZG1qcXd1MXVIbTQ2YUJMR1HSAVNBVV95cUxPYjZ2SktZMDRDTFJ1VWRTbkppdHQ2d0FWbktGa0RjY3hMQ1lETXUtTW4tWXZEQl9Tc0NOcG5EanBpY2RGMC1pd0FSMnAxZXJkN2J3Zw?oc=5",
-    "published": "2026-05-15 07:00",
-    "timestamp": 1778796000,
-    "summary": "리벨리온은 IPO를 앞두고 해외 투자자들의 관심을 확인하기 위해 글로벌 IR 활동을 마무리했다."
   }
 ]
