@@ -1,11 +1,75 @@
 [
   {
+    "company": "Microsoft",
+    "title": "[AI 이슈] \"AI와 함께 다시 설계하라\"…SK하이닉스, MS·오픈AI 도입 검토로 ‘업무 전면 재구성’ 시동 - AI라이프경제",
+    "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE5ZSnQwX3BjWTNpRVRmZEJVd2lIZlhXMXFpanZXamxJaTg2a21nZ2dEX1BwZ3REdFk0WExNTE16aUpOejBPdnV5NE5KSEhnU0lXcEVCWkRBN3ZGckV6TkNiMWpfbE1Jazh4bE9zb09fYw?oc=5",
+    "published": "2026-06-14 12:43",
+    "timestamp": 1781408586,
+    "summary": "SK하이닉스가 MS와 오픈AI의 기술 도입을 검토하며 업무 프로세스를 전면 재구성한다."
+  },
+  {
+    "company": "Samsung Foundry",
+    "title": "삼성 파운드리 1분기 점유율 6.5%까지 하락. 中 SMIC, 턱 밑 추격 - 엠투데이",
+    "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTFBxTGdxRjl4MGdSdHIzRHNGQW00VG1iVXRfMGF0aXFSVHNkMHFJdHBBTFM4VEJsNWxOOE8zZVl1SDdqa2FsbVM2ZEY1YTRWM1RsM2dCWi0zTjNjN202ek12X2JMWTU5TzNkdzUyX2JTY9IBc0FVX3lxTE81b0F0NFhDLU8xYlkyS1dKQ3FCWEtoWEpQV2N3Vmx5OUd0Y0FyaWZnWEtqMXlYWnd6Sk4xbDJ5Tm1HOWF4X1AzVjFUcTJiU0pxVHJXaWRFVzEycHg2ZUh2MzJVU1VFT24wXzBmNzJMQmtJWlU?oc=5",
+    "published": "2026-06-14 11:40",
+    "timestamp": 1781404816,
+    "summary": "삼성 파운드리의 1분기 점유율이 6.5%로 하락했다. 중국 SMIC가 점유율 격차를 좁히며 추격하고 있다."
+  },
+  {
+    "company": "NVIDIA",
+    "title": "네이버·SKT, 엔비디아와 AI 협력…카카오 첫 파업[뉴스잇(IT)쥬] - 뉴스1",
+    "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9yU3dHd29SeDQwOVlGMUR1M2w0dzdPaDVvcG8yWDcwUkRjdWd1NUozVkx6R1FQT1kxYjdzY3RWNlAxemJqQTBJV0FwRjFLUEowVjNmMjR1QW02N3ZwVTZabw?oc=5",
+    "published": "2026-06-14 10:22",
+    "timestamp": 1781400164,
+    "summary": "네이버와 SKT가 엔비디아와 AI 분야에서 협력한다."
+  },
+  {
+    "company": "NVIDIA",
+    "title": "SK 하이닉스, 엔비디아와 손잡고 미래 AI 공장 열쇠 놓고 싸움 벌여 - VOI.id",
+    "link": "https://news.google.com/rss/articles/CBMiS0FVX3lxTFA1TG9Da3UzMXFrUGF2VllsLWhwS3E5VkIwUkxENmFkNEZOX2pnWmRCalBUbGJKM1FRXzN6alVKRWhTdFNwZGZ1R0ZGb9IBQkFVX3lxTE9KUDcyNkNlV1l0OFRsR05wZ255RUtaenNHX29mcWpXUFhsNGlFMkc3cGZ3ZWd2Wm80a21XaUVZN21RUQ?oc=5",
+    "published": "2026-06-14 09:59",
+    "timestamp": 1781398752,
+    "summary": "SK 하이닉스가 엔비디아와 협력하여 미래 AI 공장 주도권을 두고 경쟁을 벌이고 있다."
+  },
+  {
+    "company": "TSMC",
+    "title": "'세계 1위' TSMC 발목 잡은 '특허 폭탄'…최악 땐 수출길 막힌다 [대만칩통신] - v.daum.net",
+    "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE9jWFR0RXYtS2g5YVNFWE9RYzZXLWR6RmE3TE91d3ViYl9ISG5iaWI2VjJCOFE2QXNvaXVhOFRvb1hnR3duMkozdk9Wa0hJLVU?oc=5",
+    "published": "2026-06-14 09:09",
+    "timestamp": 1781395787,
+    "summary": "TSMC가 특허 소송으로 인해 수출 차질 위기에 직면했다. 최악의 경우 해외 수출길이 막힐 수 있는 상황이다."
+  },
+  {
+    "company": "NVIDIA",
+    "title": "엔비디아가 두산을 선택한 이유…AI 시대, 다시 주목받는 `제조 DNA` - 디지털데일리",
+    "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE8yMmFCQno3MS00c3c5QjY0eWRnNzc0NEdTSDVHZlRMUW1XV1d0aHJrd1BGa2ZScFBUS0luczNpZ3dlNE8xamc2Mms4MXpCTFlXTTVidVlSa3V3anFWd2pDZ3FiNFg?oc=5",
+    "published": "2026-06-14 09:00",
+    "timestamp": 1781395200,
+    "summary": "엔비디아가 두산을 선택하여 AI 시대 제조 역량을 강화한다. AI 시대에 제조 DNA가 다시 주목받고 있다."
+  },
+  {
+    "company": "NVIDIA",
+    "title": "韓-엔비디아, AI 깐부 넘어 ‘운명공동체’로 - 주간한국",
+    "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5PbFlheEhmMGFUVW1HS3RabzI1dkEtdmFxWE5LY1pJVURKMmVEVWFRNFFNU0k0ZG9wTWpCZ3M2UW0zVHBYcXM5OTREM0J1eFdreWo0NlJOSjZfU1hmZFJuVGRSVkpvU2FabTdoWGU2ZUfSAXRBVV95cUxQM2lKbFZTY0x2UzFRazNSN01aT254cDd4cnlpLUlyQnIwYjAwei1iWDdnUm5fVzVJdnVGT3lWXzlRLVkxQUx6OFd0TE9zTDVFM1EtVUJMRmhPTmlCcDB6ODNldWJaVkdNckM5MV9PM25rbUhSNQ?oc=5",
+    "published": "2026-06-14 09:00",
+    "timestamp": 1781395200,
+    "summary": "한국과 엔비디아가 AI 협력을 넘어 운명공동체 관계로 발전하고 있다."
+  },
+  {
     "company": "TSMC",
     "title": "TSMC의 '4억 달러 장비는 과소비' 전략, 삼성전자 2나노 판 흔든다 - 글로벌이코노믹",
     "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxObzg1VUhKQlRUaHdyNHdjNE0xaGl2Y01MNHUzSTBrMGU4eEVKcUR2UkFlVHdkSFhaVno1a0hHM3JBU1I2SUU0cFFKckhuRElGUy03ZkNyOFVEZk5FdnFzU1JFYXN4aXNhMGZwQzRYYlRQZUZVMlVBb3RjMG5vZU9JcFNRdm9HU2c?oc=5",
     "published": "2026-06-14 06:59",
     "timestamp": 1781387993,
     "summary": "TSMC가 4억 달러 규모의 장비 도입 전략을 통해 삼성전자의 2나노 공정 경쟁력을 견제하고 있다."
+  },
+  {
+    "company": "파두",
+    "title": "Fadu Says eSSD Controller Supply Delayed at Customer Request - thelec.net",
+    "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBRS3REVnJ3T0xJN2QzQWZjdzhuX1ZFUnZvQ19GSE1vZzhiY2JEZ00xTU54SWtMTThnVlhYcDJQSVp0aHlLc2E2amZfVzFrMmI1bHhZVTkxYm9zQUtkUmFNYUFuTzJwWG8?oc=5",
+    "published": "2026-06-14 06:41",
+    "timestamp": 1781386886,
+    "summary": "FADU의 eSSD 컨트롤러 공급이 고객사의 요청에 따라 지연되었다."
   },
   {
     "company": "NVIDIA",
@@ -78,6 +142,14 @@
     "published": "2026-06-13 22:44",
     "timestamp": 1781358273,
     "summary": "TSMC가 파운드리 가격 인상을 시사하며 칩플레이션 가중 우려가 제기되고 있다."
+  },
+  {
+    "company": "Samsung Foundry",
+    "title": "삼성 파운드리, 엔비디아 '그록 후속칩'으로 반등 노린다 - MSN",
+    "link": "https://news.google.com/rss/articles/CBMi7wJBVV95cUxNUlZOamNxUjZ2cXBOel9aR3hlQkVCVWdQQ1R5aHZqTV9hV3ZzUDQ4aWVIQllSdGdwQ1dFOXh4cXVtQ0hSSExDYmxWYmZVNlFWN2dkVnJTd3BVZGw2UjFsek9BM2Q5MktXZ1JrNDRNZENoLVgtN1RmaWlKQUFvVURucDBDUmRfRWJpZ1FURjFFYWtkQ1NxS180ZUNnY1lodVlsNmg2RGswWHAySVNvdk5DcWxUekRnNW41NWVpZnRsNnozX2JXQTM3eHE2ZUhuZ2hoNlgzSjVnM2dXcTE3bC1pbmFYLThzc3E5bC1JZk1uNVRyWHlIbXhHdTdBNHlqSWJpQnQwNG85MkdMQ3hiWGZIck9sdWxLek50NkR0NXh2TWJWUTREVjA5V2NKWDRXNXQ0Yi1ybWZURng1WXhocGpSTFExbFc0UGtFdWhrRUJ3eFlEZ3JMV0ZNcXB4enBBUWxfSmFGZlFLcFZuWG5IdkNV?oc=5",
+    "published": "2026-06-13 22:38",
+    "timestamp": 1781357939,
+    "summary": "삼성 파운드리가 엔비디아의 그록 후속칩 생산을 통해 반등을 모색한다."
   },
   {
     "company": "Intel",
@@ -376,6 +448,14 @@
     "summary": "베트남 푸토성에 13조 VND 규모의 마이크로칩 공장이 건설된다. 이번 공장 건설은 푸토성의 첨단 산업 발전에 활력을 불어넣을 것으로 기대된다."
   },
   {
+    "company": "Intel",
+    "title": "HTV 뉴스, 2026년 6월 12일 | 인텔 프로덕츠 베트남 법인 창립 20주년 기념 - Vietnam.vn",
+    "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPeUZiOTQ5ZkZKa2pVSkpDbkF6VmRjck5kWGZaMm41Q0hCVjlMOGhzU08wUXktcVY0ckFaSzI2ZEhYSWZrd0l6ZS1EbUNPQjZTWGN4SjVvSm5kU3JFNEJ2VTJ6ZGc0NUN2cDBDck1WMXhmcUtBWnRqRk11NkNHNGc5Z3BIeVhUNElFMkRBSkE5Q2lZUUxtUkxTdzJBYURkTk8wbUtJcGtuVzlCejVZRjNmWW5sdXk?oc=5",
+    "published": "2026-06-13 00:47",
+    "timestamp": 1781279241,
+    "summary": "인텔 프로덕츠 베트남 법인이 창립 20주년을 맞이했다. 해당 내용은 2026년 6월 12일 HTV 뉴스를 통해 보도되었다."
+  },
+  {
     "company": "Google",
     "title": "삼성전자 파운드리, 구글 AI칩 생산하나 - v.daum.net",
     "link": "https://news.google.com/rss/articles/CBMiRkFVX3lxTE01V3lSSFI3ZDhnQTZ6RXZGa0VDeU1pSjZwaHIyT0tuOW8wa2Q4WUpmMjkwLWdSWDhMclpUeVJjbXFEWkJNcnc?oc=5",
@@ -438,6 +518,14 @@
     "published": "2026-06-12 20:48",
     "timestamp": 1781264912,
     "summary": "샘 올트먼 오픈AI CEO의 방한이 연기되었다. 한국 협력 및 스타게이트 프로젝트는 차질 없이 진행된다."
+  },
+  {
+    "company": "OpenAI",
+    "title": "샘 올트먼 오픈AI CEO, 방한 연기…\"한국 협력·스타게이트는 이상 無\" - v.daum.net",
+    "link": "https://news.google.com/rss/articles/CBMiRkFVX3lxTE9tZDd3d0FqZjRneFhrOGxNS3lTQ2QzSGxIS3BhbWJjVTI3bnpYQmJSUEpua3gteXBYTEhrWG1uRVJhTjlLcGc?oc=5",
+    "published": "2026-06-12 20:46",
+    "timestamp": 1781264809,
+    "summary": "샘 올트먼 오픈AI CEO의 방한이 연기되었다. 다만 한국 협력 및 스타게이트 프로젝트에는 이상이 없음을 밝혔다."
   },
   {
     "company": "Intel",
@@ -606,6 +694,14 @@
     "published": "2026-06-12 17:37",
     "timestamp": 1781253439,
     "summary": "LG와 엔비디아가 로봇 분야에서 협력을 추진하며 삼성-구글 관계와 같은 구도를 형성할지 주목된다."
+  },
+  {
+    "company": "Google",
+    "title": "\"삼성, 구글 차세대 AI칩 일부 생산 맡는다…2나노 수주 유력\" - 한국부동산뉴스",
+    "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTFBRcW9Hd3lMUzZWZjRVQVphWnE2SkgtTzZob0plRGpUQnZYT3B3ckpwYUFUakR2cEVReVZNS2FPMjBtOUFoRVZRejhqYVlzaEdabzRvWUoxREVLQUY2VmhkdUphWmVnam1NMHBz?oc=5",
+    "published": "2026-06-12 17:37",
+    "timestamp": 1781253437,
+    "summary": "삼성전자가 구글의 차세대 AI칩 일부 생산을 맡을 예정이며, 2나노 공정 수주가 유력하다."
   },
   {
     "company": "Samsung Foundry",
@@ -1334,14 +1430,6 @@
     "published": "2026-06-12 02:00",
     "timestamp": 1781197200,
     "summary": "미국 공화당이 TSMC에 대한 특별대우를 견제하기 시작했다."
-  },
-  {
-    "company": "Google",
-    "title": "\"삼성, 구글 차세대 AI칩 일부 생산 맡는다…2나노 수주 유력\" - 연합뉴스",
-    "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5ocGllR2c1TEZ1Z1dMOUpVcFhpekhkUzF4eDZwYlhNWHhjdGdaR2ZDWEhHNnNLYk9wNzAxdmYxUjBlbXZyY09HNktjdTZneHRLWUZodXctVXNHOWfSAWBBVV95cUxNTmtjdEp1NUhoMGNqaGlnakhNM1JrTE1JeFZrOGtMNk9Hdkc3UF9BRUVuSGFtMk90NFA2MHVqRmQyRE4zYl9RdHpIMDZHNzNFZFdySHZOZDlvdXZEWks5Vlg?oc=5",
-    "published": "2026-06-12 01:47",
-    "timestamp": 1781196421,
-    "summary": "삼성전자가 구글의 차세대 AI 칩 일부 생산을 맡을 예정이며, 2나노 공정 수주가 유력하다."
   },
   {
     "company": "리벨리온",
@@ -3430,14 +3518,6 @@
     "published": "2026-06-09 17:13",
     "timestamp": 1780992800,
     "summary": "현대차가 엔비디아와 협력 관계를 맺으며 새만금 투자에 대한 기대감이 높아지고 있다."
-  },
-  {
-    "company": "Samsung Foundry",
-    "title": "삼성 파운드리, 엔비디아 '그록 후속칩'으로 반등 노린다 - 이데일리",
-    "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQYXlrS014Zm1kbmNtRnZCMnJuZGZMdkRkNFVnaUtCRmlxelFRVjh2TG1TYXV1eWpxcGhNN3hPcHFUT0phRjhCWTlzOVg1QXE4Sk45QXVkbVBrSlRHdmtia2tWa1NldHViN002NlMwZHJiZTdQNkg5MmJyZXg3TXI0Zg?oc=5",
-    "published": "2026-06-09 17:00",
-    "timestamp": 1780992014,
-    "summary": "삼성 파운드리가 엔비디아의 그록 후속칩 생산을 통해 반등을 시도한다."
   },
   {
     "company": "Cadence",
@@ -12950,13 +13030,5 @@
     "published": "2026-05-15 14:11",
     "timestamp": 1778821911,
     "summary": "에이직랜드는 1분기 영업손실 29억원을 기록했으나 전기 대비 70억원 개선되었다."
-  },
-  {
-    "company": "에이직랜드",
-    "title": "에이직랜드, 1분기 연결 매출 540억…창사 이래 최대 - 마켓인",
-    "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE1pcXFnSkJBZUxkZ3lELS0yc2VCVEtjS01IQkRQeGloNDNudEZwTnF0V3IxMUtkYldxLUhhR3IyMjFfcy1hV2VBc0hfRWJ4cGxjVWU1dVJGTFFkZXk1c2I2MzM0RHVJbjJUMXpfRkNPb08xT3M?oc=5",
-    "published": "2026-05-15 13:50",
-    "timestamp": 1778820642,
-    "summary": "에이직랜드의 1분기 연결 매출이 540억 원을 기록하며 창사 이래 최대 실적을 달성했다."
   }
 ]
