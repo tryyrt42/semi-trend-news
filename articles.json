@@ -1,11 +1,43 @@
 [
   {
     "company": "NVIDIA",
+    "title": "젠슨황 언급한 '엔비디아 AI기술센터', '여기' 지어질까?[1일IT템] - 네이트",
+    "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFAtbF9TWVMxSDQxbVlLcHlsU3RGX1h1UnczNWpFMHlKdmxTclZDLW9oVnZKbkZteVZ1OGQyZ0lYWU9hMlNLSTZHZ21uS3VraUhrQnFz?oc=5",
+    "published": "2026-06-15 06:01",
+    "timestamp": 1781470860,
+    "summary": "젠슨 황이 언급한 엔비디아 AI 기술센터의 건립 예정지에 대한 논의가 진행 중이다."
+  },
+  {
+    "company": "Intel",
+    "title": "에이전틱과 하이브리드 AI 시대, 돌아온 인텔의 역할은 [테크리포트] - IT조선",
+    "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE95cUplbU5lS2JOSmxYb1ZhS2FiaWVTLUVKR3VvMTFGaTczSDZMQ0tpS20zRXRfN212WkRQd2h1NGhBVE5qY1FyWnhncE1zLW5Hc1FXLU1ieTk2ZXJDaF9FdWZHS1R6bjFfRlNkRV9RSTPSAXRBVV95cUxPdEg0NG9CazdhV0Vpcnp6SnZUOHAwNWlCUzI2Zjhsci1SRXlhZXZHdFBESkkyQUpheGNQQXN6RFNqT2tXMFFBWFRlUzItUURwTTRlbVhNNHNzQk02WWJCS0x4QzRGcGVFSVZYNVFPSnVxNUZLYQ?oc=5",
+    "published": "2026-06-15 06:00",
+    "timestamp": 1781470800,
+    "summary": "에이전틱과 하이브리드 AI 시대를 맞아 인텔의 역할을 조명하는 테크리포트가 발행되었다."
+  },
+  {
+    "company": "NVIDIA",
     "title": "엔비디아도 탐낸 저전력 D램, '귀한 몸' 된다 - 네이트",
     "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE9qSDZNTGZYdEVrUXhIeWVLNnp2ZTYwNWtQUVlObFI5a0JnQUpjbG02X1d5LUlVOC12SXJNNW5HenM4QTZMb3gwX1F6cl9rQ2x2aVJv?oc=5",
     "published": "2026-06-15 04:01",
     "timestamp": 1781463660,
     "summary": "엔비디아가 관심을 보인 저전력 D램의 시장 가치가 상승하고 있다."
+  },
+  {
+    "company": "AMD",
+    "title": "AMD의 Advanced Insights는 AI 윤리 및 안전에 중점을 둘 것입니다. - GameGPU",
+    "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNQzZrdVUwTlAzemZWeWsxOVhYSzRiMXE1MlBSdWpBMFU2M3R1UkUwbUw1bmZWMGJ3YUpHVGxsYU9nYWFOV0toNHpKRi1WVzI5NU8wcHJQVDVqWjBiRVdndEdySTd5YUxVcXZPeEdNS1kwblJ0c3RRbG1VTnU1ZklBMXAyQkRvOVVEUEU4VDdfWlplNktsMGp1Vk1LTzR0NjBCbUR2d2dRZw?oc=5",
+    "published": "2026-06-14 23:26",
+    "timestamp": 1781447191,
+    "summary": "AMD의 Advanced Insights 프로그램이 AI 윤리 및 안전 분야에 집중할 예정입니다."
+  },
+  {
+    "company": "AMD",
+    "title": "AMD Ryzen AI Halo 로컬 AI 개발 솔루션이 3999달러에 판매됩니다. - GameGPU",
+    "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQRXFtZDR1a29iaV9HcHV2dl9kRnF5VzZycUFBN1JpNzBxVDBGekFQOG9jOEtSOUF2cVczaWkzVExRa3hydFdULW85bk5RY2ZOWjBxUEpqdXE3RHdHR05lZTV3eTJUd0M3MzVMa1NEaC1tMjN2V2xTdkIxX1dVUjlaaXlkUmZCOGpaRGliUmVWQWhkU2FDclM4SE9nbzMyVER2Y20tclJiMkZDVUlTQ2RRYmhn?oc=5",
+    "published": "2026-06-14 22:59",
+    "timestamp": 1781445544,
+    "summary": "AMD의 Ryzen AI Halo 로컬 AI 개발 솔루션이 3,999달러에 출시되었습니다."
   },
   {
     "company": "NVIDIA",
@@ -422,6 +454,14 @@
     "published": "2026-06-13 14:25",
     "timestamp": 1781328305,
     "summary": "인텔이 베트남 반도체 산업의 기반을 다지는 데 기여했습니다."
+  },
+  {
+    "company": "Tesla",
+    "title": "스페이스X, 우주 AIDC 속도...태양전지 확보 주력 [김기혁의 테슬라월드] - 서울경제",
+    "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5TRnlPWTVpLUNtTTFzbVVDeGtxMW5QMHp0em9tUUl5ZERtckVZTjgxWXJDSXZlS3ZWSnZKSFIxa2JHREVpNjJQSW9SSjVzOVlIR3fSAVNBVV95cUxQTXc3WWozTzM0NUZVd1hTNC1uOHF4TDY4NC1CZzhJQVdSa0JYVTkwQUlsOFZWbmRVYU13RExTamRlbjhyNTF5YUpMRERHamdFN0VlRQ?oc=5",
+    "published": "2026-06-13 14:00",
+    "timestamp": 1781326800,
+    "summary": "스페이스X가 우주 AIDC 속도를 높이는 가운데 태양전지 확보에 주력하고 있다. 해당 내용은 테슬라 관련 기획 연재의 일환으로 보도되었다."
   },
   {
     "company": "리벨리온",
