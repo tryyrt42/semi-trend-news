@@ -1,5 +1,21 @@
 [
   {
+    "company": "Apple",
+    "title": "자존심보다 실리 택한 애플…구글과 손잡고 Siri AI 전면 개편 - 이코노미사이언스",
+    "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE13Ny1fejJuVWdibnhWclNEQlhHV29BYWE5MktsS3pIcWVZQjdUSWdfMXhpejNxRC00Sk00Y1FzeWRENHg5TmxfOGl2Vmt1eDhFMTdsLVdDUTZ5UXZueVZzSkJZTExaQXRhbkhRcFdvcw?oc=5",
+    "published": "2026-06-15 08:00",
+    "timestamp": 1781478000,
+    "summary": "애플이 구글과 협력하여 자사의 AI 서비스인 Siri를 전면 개편한다. 이번 결정은 자체 기술 고수보다 실리를 택한 전략적 변화이다."
+  },
+  {
+    "company": "TSMC",
+    "title": "‘TSMC 수입금지’ ITC 소송전… 삼성·SK하이닉스에 리스크일까 기회일까 - 글로벌이코노믹",
+    "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNdTh3eHZVUDdEdnJEZVFmNFdxaTFFcGlkVG56YjNieVpuOFdYclk4QTMxMFVCWFVyWXF3U2poWmstT0NrbFJORnkyNUhlUnNSSEZZLXFxRi10bFZJSnU5RE1BSjYtRk1qLTFLUzlNNDVBN015VklVNGlCdHRKcDNRSldIMmxobFBf?oc=5",
+    "published": "2026-06-15 07:20",
+    "timestamp": 1781475612,
+    "summary": "TSMC를 대상으로 한 ITC 소송전이 발생했다. 이 소송이 삼성전자와 SK하이닉스에 미칠 영향에 대해 논의가 진행 중이다."
+  },
+  {
     "company": "NVIDIA",
     "title": "젠슨황 언급한 '엔비디아 AI기술센터', '여기' 지어질까?[1일IT템] - 네이트",
     "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFAtbF9TWVMxSDQxbVlLcHlsU3RGX1h1UnczNWpFMHlKdmxTclZDLW9oVnZKbkZteVZ1OGQyZ0lYWU9hMlNLSTZHZ21uS3VraUhrQnFz?oc=5",
@@ -16,12 +32,36 @@
     "summary": "에이전틱과 하이브리드 AI 시대를 맞아 인텔의 역할을 조명하는 테크리포트가 발행되었다."
   },
   {
+    "company": "Amazon",
+    "title": "[Pocus 해설] 앤트로픽 덮친 전격 수출통제, 배후로 지목된 아마존 제보 - 한국AI부동산신문",
+    "link": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE5HTjNvYlJud2RSck9WTEliZVZ0d3ViVFFnRE5VcE1vbUpYMl9oZHRKbHoxc3IxNjBsQnp6N0U5UVpCazdiSW9sTUF0UXA?oc=5",
+    "published": "2026-06-15 04:03",
+    "timestamp": 1781463795,
+    "summary": "앤트로픽에 대한 수출통제 조치와 관련하여 아마존이 제보자로 지목되었다는 내용의 기사이다."
+  },
+  {
     "company": "NVIDIA",
     "title": "엔비디아도 탐낸 저전력 D램, '귀한 몸' 된다 - 네이트",
     "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE9qSDZNTGZYdEVrUXhIeWVLNnp2ZTYwNWtQUVlObFI5a0JnQUpjbG02X1d5LUlVOC12SXJNNW5HenM4QTZMb3gwX1F6cl9rQ2x2aVJv?oc=5",
     "published": "2026-06-15 04:01",
     "timestamp": 1781463660,
     "summary": "엔비디아가 관심을 보인 저전력 D램의 시장 가치가 상승하고 있다."
+  },
+  {
+    "company": "NVIDIA",
+    "title": "엔비디아도 탐낸 저전력 D램, '귀한 몸' 된다 - 머니투데이 - 머니투데이",
+    "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBXLW1ha2JLQUU5MU0tZFM1ZEtQcHpYQUswcy1RYmVaaHMwRlJGbTdjZXY3U3lBQXFWU09NZzUwa0hmTlcyU29lUEs3WlVIZll6SE1kNGJ3WElxZHQ2UnMtcjlmNVpRMF9sM2ZhV9IBckFVX3lxTE1CNGZxSzBVV1FjblJfT3lDZUlwQTNzSDM3MnJjTi1OU2RhaDI4MXBOVU9qcVFmdjA3elUxVDFLRGI1dEtDMkh0eE1TNm13a2dqNngwQUxMZWpFY0NHMFRmRjJpd0dUZHN4SWU2ZTlkRThJdw?oc=5",
+    "published": "2026-06-15 04:01",
+    "timestamp": 1781463660,
+    "summary": "엔비디아가 저전력 D램에 관심을 보이고 있다. 해당 부품의 중요성이 커질 것으로 예상된다."
+  },
+  {
+    "company": "Intel",
+    "title": "인텔 게이밍 CPU 인텔® 코어 울트라 7 프로세서 270K Plus 벤치마크 및 게임 테스트 - 케이벤치",
+    "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE1lUjF3Y0JhTWRmWC1laC01WElEcjZUS21vWmxQQTl1NU1TaTJnUDJPN0hnNnJybld0NlpickRnTlNuZkNJMHV4S0Z4LVQzS3R6YzNtLQ?oc=5",
+    "published": "2026-06-15 03:21",
+    "timestamp": 1781461294,
+    "summary": "인텔의 게이밍 CPU인 인텔® 코어 울트라 7 프로세서 270K Plus에 대한 벤치마크 및 게임 테스트 결과가 공개되었습니다."
   },
   {
     "company": "AMD",
