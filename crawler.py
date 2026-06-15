@@ -85,6 +85,7 @@ COMPANIES = [
     {"id": "하나텍", "name": "하나텍"},
     {"id": "에이씨피씨", "name": "에이씨피씨"},
     {"id": "칩스앤미디어", "name": "칩스앤미디어"},
+    {"id": "우노실리콘", "name": "우노실리콘"},
     # 🇹🇼 대만
     {"id": "글로벌유니칩", "name": "글로벌유니칩 (GUC)"},
     {"id": "알칩", "name": "알칩 (Alchip)"},
@@ -235,6 +236,7 @@ ALIASES = {
     "코아시아": ["CoAsia"],
     "에이직랜드": ["ASICLAND"],
     "칩스앤미디어": ["Chips&Media", "Chipsnmedia"],
+    "우노실리콘": ["UNO Silicon", "UNOSilicon"],
     "패러데이": ["Faraday"],
     "퓨리오사AI": ["FuriosaAI", "Furiosa"],
     "리벨리온": ["Rebellions"],
