@@ -1,5 +1,53 @@
 [
   {
+    "company": "Qualcomm",
+    "title": "퀄컴, 짐 켈리의 AI 칩 스타트업 '텐스토렌트' 인수 추진 - 디지털투데이",
+    "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE9wSkZxV3JOdUJnTERYRUhSTmczVDBUQUlDR0tuYi16OGFsWnJfV2tCcmxHUmxpa2tlZXJIQnpTMnpSWklOOGkza0lrVzYycm1JTUdVRWQ4cG5vZVljeDhJT2cxZ2QyeFhoR3Vjc3Z4VFNod2c?oc=5",
+    "published": "2026-06-16 07:09",
+    "timestamp": 1781561373,
+    "summary": "퀄컴이 짐 켈리가 이끄는 AI 칩 스타트업 텐스토렌트 인수를 추진하고 있다."
+  },
+  {
+    "company": "Google",
+    "title": "구글, 차세대 AI칩 '삼성 분할 생산' 검토… TSMC 독점 균열 조짐 - 글로벌이코노믹",
+    "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPWnlyeFlaek1sanNPRFZPcEpiVUZEb2kzLUN2NHgteXNpb2cwQnFZZlpNbm5QajZnN2tYNXlsUG1wVGxfelI4dktrQUMxYWY4eXRFTFdDWXZTQV9aaFNIX0xja1VyaGZydzllcEZodTl6SHd6Z1BfX1RCcEpMZm9oczFQbmlJVUxx?oc=5",
+    "published": "2026-06-16 06:43",
+    "timestamp": 1781559825,
+    "summary": "구글이 차세대 AI 칩 생산을 위해 삼성 파운드리 분할 생산을 검토하고 있다. 이를 통해 TSMC의 독점 체제에 변화가 생길지 주목된다."
+  },
+  {
+    "company": "NVIDIA",
+    "title": "[AI 인프라 전쟁] SKT, 엔비디아와 5GW 'AI 팩토리'…아직은 갈 길 멀어 - 딜사이트",
+    "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE8wTHBpQ1psUW9UTFAyWXdCOTRscTJ5b1B2R2dCbnJINXBVWFh3NHJCZWRydWdiMnN0UnpuZ0dVRXNkV1R4S0oxUU9NQzlSSU0?oc=5",
+    "published": "2026-06-16 06:00",
+    "timestamp": 1781557200,
+    "summary": "SKT가 엔비디아와 협력하여 5GW 규모의 AI 팩토리 구축을 추진한다."
+  },
+  {
+    "company": "STMicroelectronics",
+    "title": "ST마이크로일렉트로닉스, 48V 자동차용 프리드라이버 신제품 출시, ISO 21780 준수 및 마일드 하이브리드·보조 시스템용 8채널 유연성 확보 - 올포칩",
+    "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE9xSHFiUzI4UDlSYmc3Y0RkSTNmTFh6VnFzWDR4NFlpNWpYUVYyZlJHU1VkbVQ4MWh0QmxrV3I1TVhUdjFhcFhsTE5LdnV3WXFkZnBpNnp5TWhISnFKaHVPYVFxWnRWQQ?oc=5",
+    "published": "2026-06-16 05:25",
+    "timestamp": 1781555109,
+    "summary": "ST마이크로일렉트로닉스가 ISO 21780을 준수하는 48V 자동차용 프리드라이버 신제품을 출시했다. 이 제품은 마일드 하이브리드 및 보조 시스템을 위한 8채널의 유연성을 제공한다."
+  },
+  {
+    "company": "Infineon",
+    "title": "인피니언, 고전압 AI 데이터센터용 24kW SiC 기반 배터리 백업 유닛 레퍼런스 디자인 공개 - 올포칩",
+    "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBIaVNVamc0VEY5U3VJQW8wS3hsY2c3S0o2NW5fdGVvX0hBMktsTXNFQ0lNQTFuM09NZ3RMNFV0dW1UTEljX19ReFA2ZHkwZzduOWxuaE11dVRlZ0VRa3Jrdg?oc=5",
+    "published": "2026-06-16 05:14",
+    "timestamp": 1781554480,
+    "summary": "인피니언이 고전압 AI 데이터센터용 24kW SiC 기반 배터리 백업 유닛 레퍼런스 디자인을 공개했다."
+  },
+  {
+    "company": "NVIDIA",
+    "title": "엔비디아, 5년 만에 회사채 발행 검토...자금 조달도 양극화 조짐 - YTN",
+    "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE52Z1lBUl85R3NwQi11bld0YzFaTXVlSzgtZHhWZWFmeEgzbW9yeldfd3ZRMFFiYjZuc3JfZmZzcUVDeUVIdUZza1lUTDV4SHpNdG01dFdwVDNmd1hiOXc?oc=5",
+    "published": "2026-06-16 04:56",
+    "timestamp": 1781553360,
+    "summary": "엔비디아가 5년 만에 회사채 발행을 검토하며 자금 조달에 나섰다."
+  },
+  {
     "company": "Infineon",
     "title": "인피니언 7조 투자, 전력반도체 공급 가속… 車·AI 전력망 판도 바뀐다 - 글로벌이코노믹",
     "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNcnRBOVphcEc4VUhDZG16LUN6cWh5ZktQd0dPLXNoRlVaVVVmYTFwSTJPeUhiZk9acGxhckZ5eVAybGt5OUE3OURfclNvSV9Zd3hBRjV5QVVZc0Fxb29JdEVYYzdDNWlNaVhZZFpFU2ZaV1JaT3pJblRUNUh1QlFxeUFJWGhpbkNK?oc=5",
@@ -40,14 +88,6 @@
     "summary": "삼성 파운드리가 일론 머스크의 뇌신경과학 기업 뉴럴링크의 차세대 칩 개발을 맡는다."
   },
   {
-    "company": "Infineon",
-    "title": "인피니언, 고전압 AI 데이터센터용 24kW SiC 기반 배터리 백업 유닛 레퍼런스 디자인 공개 - 미디어데일",
-    "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE9TRl9FSk5oaXNZMTVGYVlTRlp3eGZKcmpjS1pGc0pTUGxsTFowN0Jyek9PWHd4d2RpaHdibURDV21zNmlSQTRSeTNYaEJ4TURzZVM3WTV5MEJ1VzBfdHRjSWNNNTZxWDVpdnRJ?oc=5",
-    "published": "2026-06-16 00:00",
-    "timestamp": 1781535600,
-    "summary": "인피니언이 AI 데이터센터용 24kW SiC 기반 배터리 백업 유닛 레퍼런스 디자인을 공개했다. 고전압 환경에 최적화된 기술을 선보였다."
-  },
-  {
     "company": "Google",
     "title": "TSMC만 바라보던 구글, 왜 삼성전자에 손 내밀었나 - MSN",
     "link": "https://news.google.com/rss/articles/CBMiwwJBVV95cUxNSDV3b0k1bnNTRHAtZU9ZQjktYmE0R1BmbW91eGFmQWxOOGpvQTh1amZmYWMtTVVuNmNqTGo4SE5hY200OUVLZ3h3R19hcFA0XzkxcWJyaW9SQ20xM2V2UHZSaUZ1ZVZEMGhHM2dmWWMtUVZhT2NYcHZHY3Z4aFg3TDJYNU1USENPZm5ncE42RGJlMG81OE00OUxsUVp5VWhnckc2M0pjbGFMMHRXSDU5cXpMZmNPcGRaeUg4V2xKZTRtVE9qekRmSzZvaWlOZ21oY1ZtSlFWVXhnWGhnTWVKeGVhcXhBQkttaEx0X2VUN212aTRzZ1RVRE54Z2NYeVBVdGp1MFVRRUxwRDBjQzVvcW51YWVTT0ROUlBsODFtTUJFNExFdDFjNC1ZdjhWdS1ZeWlNZjlxZUs1WFUtNllDbGJjcw?oc=5",
@@ -78,6 +118,14 @@
     "published": "2026-06-15 21:19",
     "timestamp": 1781525940,
     "summary": "울프스피드가 투자자 관계(IR) 담당 부사장으로 다니엘 웰런을 선임했다."
+  },
+  {
+    "company": "Qualcomm",
+    "title": "입증된 저가 노트북 수요, 퀄컴 '스냅드래곤 C'도 도전한다 - 인벤",
+    "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE43VlJwRFNFSGdhN0dVaDRHREhBSEhHYThTMmNUR2FiVWIxTzNqMHBWWm9nbzI5TTJKajlzXy1IYXlWcXRxS2pEbXBCTFBLeWZIcWJGcUY0dFFPV0ZBZDk2R0ljZ0xPZ2xfNGc?oc=5",
+    "published": "2026-06-15 18:43",
+    "timestamp": 1781516601,
+    "summary": "퀄컴이 스냅드래곤 C를 통해 저가 노트북 시장에 도전한다."
   },
   {
     "company": "NVIDIA",
@@ -153,11 +201,19 @@
   },
   {
     "company": "TSMC",
-    "title": "TSMC 질주하는데…K반도체, 기술 밖 악재에 ‘흔들’[재계팀의 비즈워치] - 동아일보",
-    "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE5fc2FuQVhkS2JpNFBwZE5wWjZuSlB5ZldMS3dVMnVBTUsxQV9Bc2dCbVNaQXM4WVVqaF9wd0FPaV8wZUYtbzdKZnNkSkZXQ0Y2YUFmcExaS0VNRkVNYWhveUpFTmFodGM4eDdQdXZVaTMyN09UbmfSAWZBVV95cUxPdExpazBNelhYYzIwVmRaSFBUM2dPSXc5alZWcXNiUTJIUmFielkwUjFUclNjQjZKTGpXdjJ3RmpPTURnMjcxRDJwellZdjYyUXA1c20xWTZQckhySDRPaUg3OS1QM2c?oc=5",
-    "published": "2026-06-15 16:26",
-    "timestamp": 1781508360,
-    "summary": "TSMC가 시장에서 질주하는 가운데 K반도체가 기술 외적인 악재로 인해 흔들리고 있다."
+    "title": "TSMC 질주하는데…K반도체, 기술 밖 악재에 ‘흔들’[재계팀의 비즈워치] - v.daum.net",
+    "link": "https://news.google.com/rss/articles/CBMiRkFVX3lxTFBmeTVhOXpGS1FzUlkwb083M1BfMDl6UzUwNFBDOVJGU3hrQ3pvTUlBaER3YXJSdktUbEw2WERBVG0tbEtHRGc?oc=5",
+    "published": "2026-06-15 16:28",
+    "timestamp": 1781508531,
+    "summary": "TSMC가 시장에서 질주하는 가운데 한국 반도체 기업들이 기술 외적인 악재로 인해 흔들리고 있다."
+  },
+  {
+    "company": "NVIDIA",
+    "title": "Muzig AI, 엔비디아 인셉션 선정…GPU 기반 AI 음악 생성 기술 고도화 착수 - 머니투데이 - 머니투데이",
+    "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTFA5aDU0SnBQRm5pT1NBNjJvcjJQcERyUE9IWVdVYUItbU9CVWQ0dGVCX1Vncm9Nd3FOcVNFcy1EUW5ROVFUN1JYWDl2TjJyTklwV2JDRDZCS1hSS3dCTkN5QjNmaGRRbnZfQXhzNNIBckFVX3lxTE5sM0ZINTVLc2hNN3FQaWxRcDIwSWFfWTkxQUNUNzlUbDh4VDlpVDQ1dnROOERZdFNpSl9GR2pVQWJGRkhzT2pfRzk2VW5sOEl5UzhEUWhlbzNLUzZaV1RUN0hUelloVXRnYWpxby1ZS2dhQQ?oc=5",
+    "published": "2026-06-15 16:27",
+    "timestamp": 1781508420,
+    "summary": "Muzig AI가 엔비디아 인셉션 프로그램에 선정되어 GPU 기반 AI 음악 생성 기술 고도화를 추진한다."
   },
   {
     "company": "Samsung Foundry",
@@ -1750,14 +1806,6 @@
     "published": "2026-06-12 15:18",
     "timestamp": 1781245083,
     "summary": "대만 당국이 미국에서 제기된 TSMC 대상 특허권 침해 소송에 대해 촉각을 곤두세우고 있습니다."
-  },
-  {
-    "company": "Qualcomm",
-    "title": "입증된 저가 노트북 수요, 퀄컴 '스냅드래곤 C'도 도전한다 - 인벤",
-    "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE5yR3B1ZVJIU1VWaXFMSm1POU14QzJFSmR1U0RfWHgxaTVxU254SGh6bnFUdGRRb3hCWjRfcXV4YzFOaTlpa0VkLWE3dkh4UDNnenVxclVvOEZPYnJMV0E1bGlyWGFUT3BRWVFvTks0cTFfaWx0?oc=5",
-    "published": "2026-06-12 14:58",
-    "timestamp": 1781243910,
-    "summary": "퀄컴이 저가 노트북 시장을 겨냥해 스냅드래곤 C 시리즈로 새로운 도전에 나선다."
   },
   {
     "company": "Google",
