@@ -1,5 +1,93 @@
 [
   {
+    "company": "Intel",
+    "title": "인텔 18A-P 공정, 예정대로 위험 생산 진입 - Investing.com 한국어",
+    "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5PNWNDVEJURTdzVGdmX0dqQnlRLU4tUTlkYlI4R2ZWVk12VVdBNlpPZ1Q5RlpQc2dkRHk4SkFxR29VRzI1YVBzcUVBR3YyUHEzcHphOTlabDZmcndOM3JPUTAtRkltZWZzQWV3VkdOblQ?oc=5",
+    "published": "2026-06-17 06:07",
+    "timestamp": 1781644020,
+    "summary": "인텔의 18A-P 공정이 계획된 일정에 맞춰 위험 생산 단계에 진입했다."
+  },
+  {
+    "company": "Intel",
+    "title": "‘인텔 앞질렀다’는 中 SMIC 최신 공정, 칩 성능 살펴보니 한계 뚜렷 - 조선비즈 - Chosunbiz",
+    "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNWmluNnZSZlhHV0tFQUU5NVVEODh5dWN0OEwxSjlEZEJRUjBGQ00xUlZ5Rk1NWVZJd2dCVW1FN2RaNkRCT2ZpOU1xcUo4ZUJ2azZ3VXl1dEN1NmpSYlBaeHJSTkNXSVdXUmtVTWZySTBiZzVtRjNQMjB1Y1M4VTNUemRR0gGWAUFVX3lxTE5lck9VTTdUOUsxbGdTRzV3WVRnaGZGSmN2QV9HNDYzYmVZNm50Sm9HM3lvdUUtYkFNZmtlamVzQzcxa2NWNXVhMUl0emREa2FLNHlSc2swVkIzYW5tcjlkN2RsZWRuR2ROSUxKcngxbnpJd3hYdTlvOENuOFFFSEdKUmFrNHc3bWdUQ3RVS2JocVhjLVNPZw?oc=5",
+    "published": "2026-06-17 06:00",
+    "timestamp": 1781643600,
+    "summary": "중국 SMIC의 최신 공정 칩 성능을 분석한 결과, 인텔의 공정 대비 기술적 한계가 뚜렷하게 나타났다."
+  },
+  {
+    "company": "Qualcomm",
+    "title": "퀄컴, 텐스토렌트 인수·데이터센터 기대에도 스마트폰 업황 둔화에 약세 - 마켓인",
+    "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTFB5ck1UTW9wVm12VFFTcEpaMXFkNmpVTWNNblY4SVd6NmlaZ2htN1ZaQWFCOENOSkhsQnFPTS1ZdC1McVFjR3J1UmZkZDV0dkcxVUxKTGZOMFNRaHNNaHRPejY4dVdnODMyYy00OXFNc1pWN1k?oc=5",
+    "published": "2026-06-17 05:21",
+    "timestamp": 1781641294,
+    "summary": "퀄컴이 텐스토렌트 인수와 데이터센터 사업에 대한 기대를 받고 있으나, 스마트폰 업황 둔화로 인해 약세를 보이고 있다."
+  },
+  {
+    "company": "TSMC",
+    "title": "가뭄 겪은 TSMC, 공정수 재활용률 90%…용수 확보 나선 기업들 [물의시대下] - 이투데이",
+    "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE5KVXBZSU16OVltODJWT0taalZhTm5UQjRJSkFfblNKTXc0MWNfWTdsczJfcDdNaGp6WlVOT0dCRUM4S0xRUjE1bHdaN092MXIzOWluZw?oc=5",
+    "published": "2026-06-17 05:00",
+    "timestamp": 1781640000,
+    "summary": "TSMC가 가뭄 대응을 위해 공정수 재활용률을 90%까지 높였다. 용수 확보를 위한 기업들의 노력이 이어지고 있다."
+  },
+  {
+    "company": "NVIDIA",
+    "title": "엔비디아·AWS, 유럽 AI 스타트업 7곳에 2000억 베팅 - 글로벌이코노믹",
+    "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOWmZhWTQ0ZENNN29JZHJXeGtsQ3ZtSzVKQWMzOGFyTkNHSDVFM0xra1d6empGcVBvRFJUSlZNRHpWSnJnWTY5RzloMU1fa3BQRXhYOWRxamphbVRWSXVhSnh3ZGpkTi1yWmVyS2owRVhPc0VCVGhVVGoxWGlFV2lMQWFBU09vaUlU?oc=5",
+    "published": "2026-06-17 04:20",
+    "timestamp": 1781637600,
+    "summary": "엔비디아와 AWS가 유럽 AI 스타트업 7곳에 2000억 원을 투자한다."
+  },
+  {
+    "company": "Amazon",
+    "title": "\"장비 69% 걷어냈다\" 아마존의 선언, '저전력 전환'에 삼성·SK 판도 바뀐다 - 글로벌이코노믹",
+    "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNMTA4TjFJblVoZmV6VUxrdmVrdzdYODczQUJNc3M0eUJRT21VeHFzVHFzdkxXQ3F4c0I0VWk1U0VmdUJMYUE3N2E4R1lUUUVWQzV0SGQ0MUZSTWRIZk8yVjFqNHhad0l4WmdfZlFfSHVOUFowQlZGQVJnelNkeHhxNWxnZW5DR1U?oc=5",
+    "published": "2026-06-17 03:15",
+    "timestamp": 1781633700,
+    "summary": "아마존이 장비 69%를 제거하며 저전력 전환을 선언했다. 이로 인해 삼성과 SK의 반도체 판도 변화가 예상된다."
+  },
+  {
+    "company": "Infineon",
+    "title": "IAR, 글로벌 파트너사와 ‘인피니언 드라이브 코어’ 기반 통합 자동차 개발 생태계 웨비나 성료 - 올포칩",
+    "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9GU1RkZjY5V3BzNXQyeXBMSy0yUkNrd3lhLXJDY1d2cnBVNTNmbW5kR1ZBUktGVE5rYm1uVXpkU19PY1ZjUE5nS043bUNPUWdvdDRJdk1VczZlR2tYMEVPaQ?oc=5",
+    "published": "2026-06-17 03:07",
+    "timestamp": 1781633222,
+    "summary": "IAR이 글로벌 파트너사와 함께 인피니언 드라이브 코어를 기반으로 한 통합 자동차 개발 생태계 웨비나를 개최했다."
+  },
+  {
+    "company": "TSMC",
+    "title": "TSMC, 차세대 CoWoS에 유리 기판 검토… AI GPU 패키징 기술 진화 준비 - 위클리포스트",
+    "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE5CcHREaEFycTJHa19pUmlWTWJHLXJTT2FRMkxFWU1GN3BvcVUzdllZQ0s0eXNYTVU4Q0VyT19nQlZPWG42cHV3QThJdnExWFEycXVEWG5kZEJKR0xxSENOSHoyZ1cwS2V6OHdj?oc=5",
+    "published": "2026-06-17 02:34",
+    "timestamp": 1781631258,
+    "summary": "TSMC가 차세대 CoWoS 패키징 기술을 위해 유리 기판 도입을 검토하고 있다. AI GPU 패키징 기술 진화를 준비 중이다."
+  },
+  {
+    "company": "Meta",
+    "title": "어플라이드 머티리얼즈, 메타 스마트 글래스 파트너사와 기술 계약 중단 - wowglobal.co.kr",
+    "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFBjZXp5VjY5YUxqUm9vbHlhSHBOaGdyeVYwd2hrRmlKQ183MldzUzlwa0gwUXpQMkRnMEFxSl9RVzBWaGZ3Ny1XZDZQemVJTVY3T2xSamFFZUtVV3h5UGd1a3ZpMVR5Zw?oc=5",
+    "published": "2026-06-17 02:33",
+    "timestamp": 1781631234,
+    "summary": "어플라이드 머티리얼즈가 메타의 스마트 글래스 파트너사와 맺었던 기술 계약을 중단했다."
+  },
+  {
+    "company": "TSMC",
+    "title": "TSMC 2nm 가격 인상? 엔비디아·애플, 삼성 파운드리 대안 검토 - 위클리포스트",
+    "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTFByTnhVWjdWX2VUWk0zYkctbkdvYnVJTEhjekFRM0tKdERJazBYYmY1TE5sRHFPa1YzU2xQTERiaGJCbE1pclc5Qm9PNUZaT1lqaGQySUZtZWRtYjdUUWRMcWdidTk0ZmxsSjdV?oc=5",
+    "published": "2026-06-17 02:11",
+    "timestamp": 1781629892,
+    "summary": "TSMC의 2nm 공정 가격 인상 움직임에 따라 엔비디아와 애플이 삼성 파운드리를 대안으로 검토하고 있다."
+  },
+  {
+    "company": "Qualcomm",
+    "title": "인스펙스, 퀄컴과 스마트 안경 기술 개발 위해 제휴 - Investing.com 한국어",
+    "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE03WjFadk5wMTdkYVVVWF9GWlQ0MnVlN3hfWkVVNWk0cDV0eU1SNWtwcmhGbHlPUVJzeF9wVDYwR0lwOU5hSWxsQVRNTWwxbG5HTW1HSmpVcm1XVlhJWHVRVURodzN2aHIxODgyLTlkRlhEUGRzN3Mw?oc=5",
+    "published": "2026-06-17 02:06",
+    "timestamp": 1781629560,
+    "summary": "인스펙스가 퀄컴과 스마트 안경 기술 개발을 위해 제휴를 체결했다."
+  },
+  {
     "company": "Qualcomm",
     "title": "인스펙스 그룹, 퀄컴 테크놀로지스에서 1천만 달러 확보 - Investing.com 한국어",
     "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9Ub3VtZHUweXpTQk5NSjRYLUlmSElnSXQ1U2E4TWRlQTNWOGpFU3hvLWpMQXVFQTVEVHphQlNZT0Z0QWxrcnpQdU1vX1dRY0FfWTVTaTAxMGU3TGk2STBOamRtOTlPd3FfNURxTm9remI?oc=5",
@@ -22,6 +110,14 @@
     "published": "2026-06-17 01:55",
     "timestamp": 1781628950,
     "summary": "인텔 Z990 칩셋이 PCIe 5.0 중심으로 재설계되었다. 다이 크기는 기존 대비 22% 축소되었다."
+  },
+  {
+    "company": "NVIDIA",
+    "title": "엔비디아, 中 유니트리 H2 플러스 탑재 휴머노이드 플랫폼 공식 출시 - 초이스스탁",
+    "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9OWTZHVEpxVWlIbFA2cnF3VDZfc1hWLWZnYktaOE8xdEprYTVtcDNmV3BwTUljQmxVYjRKcUU3bG5EY3hpakxITFV1NUtxUFFwVk1aRnRfcnBRRWFMdDRpQjZXZFBQUlk?oc=5",
+    "published": "2026-06-17 01:03",
+    "timestamp": 1781625806,
+    "summary": "엔비디아가 중국 유니트리의 H2 플러스가 탑재된 휴머노이드 플랫폼을 공식 출시했다."
   },
   {
     "company": "NVIDIA",
@@ -94,6 +190,14 @@
     "published": "2026-06-16 19:13",
     "timestamp": 1781604812,
     "summary": "대원씨티에스가 AMD B650 메인보드인 ASRock B650M Pro-A Gen5를 출시했다."
+  },
+  {
+    "company": "AMD",
+    "title": "AMD는 다음과 같이 주장합니다. MacBook Neo는 가장 인기 있는 게임의 75%를 실행하지 못합니다. - Letem světem Applem",
+    "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxON0VBZjJVanJLRXJKRXdxWU5qR2tVVlY2RzNNeDVfb005VDNsanFCTFcwcUk4bUphUEkxWnFUaFdvTjA2TGsxN3VCWjY4TXgyUkRiLTlGSERpdFZtQTlLOWppZUVFN05aMkM4ZFZ1ZjBUYTV5MlZMdzRBV1d5dzEweXpQUGhDTWd1dTB5cWhKeDlnVDRGYlBHVU03dWsteFFkMi12ZnU0Y08?oc=5",
+    "published": "2026-06-16 19:03",
+    "timestamp": 1781604212,
+    "summary": "AMD는 MacBook Neo가 인기 게임의 75%를 실행하지 못한다고 주장했습니다."
   },
   {
     "company": "NVIDIA",
@@ -297,10 +401,10 @@
   },
   {
     "company": "NVIDIA",
-    "title": "​“북, 구형 엔비디아칩 활용… 안면인식 등 AI 기능 구현” - KBS 뉴스",
-    "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9pVEFGRWlmN2tkUEQ3WFRtUERmWUxsVG5RRkRIUncxa0tYN1dCYWZTZVRxY002S2szRklQbkxEOTlwek5PV0hWdmNTcFlrMDVnZUdvN1gyLU9QZE0?oc=5",
-    "published": "2026-06-16 13:44",
-    "timestamp": 1781585040,
+    "title": "​“북, 구형 엔비디아칩 활용… 안면인식 등 AI 기능 구현” - v.daum.net",
+    "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE9NbjBDU2N3NW9JZWl5NTcwTHdPSGhQcFhReElHTmlOWWsyaW04bFhYQlRRcHBudjNlTHFTZ0wyQlZkbjBqU0VWX0FEQkRYekE?oc=5",
+    "published": "2026-06-16 13:46",
+    "timestamp": 1781585162,
     "summary": "북한이 구형 엔비디아 칩을 활용해 안면인식 등 AI 기능을 구현하고 있다."
   },
   {
@@ -392,20 +496,20 @@
     "summary": "아지노모토가 엔비디아와 AMD의 AI 칩 수요 증가에 대응하여 ABF 증설을 추진한다."
   },
   {
+    "company": "코아시아",
+    "title": "코아시아씨엠, 하나옵트로닉스와 손잡고 ToF 3D 센싱 카메라 사업 본격화 - v.daum.net",
+    "link": "https://news.google.com/rss/articles/CBMiRkFVX3lxTFBadWJYX201YUJsZ3VpVGZfWEtMTnozYU9NQ083SnNJVEowR3p5bTRQdnZvdkZTR2tRUk5LeHQtczVjOXlSa3c?oc=5",
+    "published": "2026-06-16 11:16",
+    "timestamp": 1781576160,
+    "summary": "코아시아씨엠이 하나옵트로닉스와 협력하여 ToF 3D 센싱 카메라 사업을 본격화한다."
+  },
+  {
     "company": "NVIDIA",
     "title": "“설명회도 안 했는데 주문만 128조원”…엔비디아 38조원 회사채 흥행 - 동아일보",
     "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTFBkVGg4M3plVi1DcWtzejdNRHV0N2g3WlIwLW5xUjhIT0c4SVV5Q2xBMnhma1dXbXRlSUMzRkg3UWo5ZEg4MklkUURQUEZLYUpuUDBLUFloNmJIbEQxd3FmWENKcUJFYTVNVGRXZWJPQnZXWWPSAWZBVV95cUxPTnREd1pmUTlrT1NrNjBJTzJFMngtN1pqcWtTRnRLdnZURDZBdmx3LTY1YVlaOW9XclV4TERuS2VlU0JpVlRkSHBsLXVWRldZakRZcENJWmNjVnlNNmc1YnIyRmpOcEE?oc=5",
     "published": "2026-06-16 11:06",
     "timestamp": 1781575618,
     "summary": "엔비디아가 38조 원 규모의 회사채를 발행했으며, 128조 원의 주문이 몰렸다."
-  },
-  {
-    "company": "Infineon",
-    "title": "IAR, 글로벌 파트너사와 ‘인피니언 드라이브 코어’ 기반 통합 자동차 개발 생태계 웨비나 성료 - 뉴스와이어",
-    "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFB3bU5Zbm1abExPRV8xRm9rOG5aNHR0SEVmckZ5UEFpQ0JXN0hnUWxUMS0zRE1IYkU1bTBxc0w4emwtaFBMaVJVd0pkbmlya2ZWcHlFN1JWTW5MemxrMzJR?oc=5",
-    "published": "2026-06-16 11:04",
-    "timestamp": 1781575492,
-    "summary": "IAR이 글로벌 파트너사와 함께 인피니언 드라이브 코어를 기반으로 한 통합 자동차 개발 생태계 웨비나를 성공적으로 마쳤다."
   },
   {
     "company": "Intel",
