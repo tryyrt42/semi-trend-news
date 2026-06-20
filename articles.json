@@ -1,5 +1,37 @@
 [
   {
+    "company": "NVIDIA",
+    "title": "네이버 투자에 엔비디아도 찜한 K-AI, 휴머노이드로 비바테크 접수 - 초이스스탁",
+    "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5VVGRWSThPZ29ZNXRLbldlaTBoZnc1bFV2REtVNFltSG1RekVJYTZoZVUyTkduR2toQkdSNERhRVRZVlNLUjloX2JQYmxUcmxKTlZnVEg4Z01pOFlqR0NZal9OQTJkUVE?oc=5",
+    "published": "2026-06-21 04:30",
+    "timestamp": 1781983800,
+    "summary": "네이버가 투자한 K-AI가 엔비디아의 관심을 받으며 휴머노이드 분야에서 비바테크를 접수했다."
+  },
+  {
+    "company": "Intel",
+    "title": "인텔 CEO “AI 반도체 병목, 메모리 넘어 헬륨도 변수” - 글로벌이코노믹",
+    "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOcWJGazdsZ084MlNYQkIzTUJQYnlxNFpha3FwdERDYWh3R0x0QWE3R01vYVBuSWtEM3ZPT1FLeHQ0Wl9aY0R4N0JwS3dmWDEzOHJJdks3UVFxc2E4bDdjSVpOM2o1dldaR1lKWE9wZ2ExdjliaUwtTmRHTDZ3V094a21wVDE0U0No?oc=5",
+    "published": "2026-06-21 04:00",
+    "timestamp": 1781982000,
+    "summary": "인텔 CEO가 AI 반도체 생산의 병목 현상으로 메모리뿐만 아니라 헬륨 공급도 변수가 될 수 있다고 언급했다."
+  },
+  {
+    "company": "Apple",
+    "title": "애플(AAPL) 제품값 인상 불가피하다고 밝히고 인텔과 미국 반도체 협력 확인 - simplywall.st",
+    "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPTmhFZEVhRTV3X2NXbTVqckFCbHg4N0V2MWdNc01QekNjYmdPb09ManlKWHo5YU94aVF3X1VSbjVHbk1zbWozZ0wyVXhTR1ZBblNZVjMzSU84TE1LeTBaVVJPVGhvdkM3dU9UOERqdEhkamtrUGlVLWJGc1oyZGNJZFdsQThwMEZyanBF0gGLAUFVX3lxTE9OaEVkRWFFNXdfY1dtNWpyQUJseDg3RXYxZ01zTVB6Q2NiZ09vT0xqeUpYejlhT3hpUXdfVVJuNUduTXNtajNnTDJVeFNHVkFuU1lWMzNJTzhMTUt5MFpVUk9UaG92Qzd1T1Q4RGp0SGRqa2tQaVUtYkZzWjJkY0lkV2xBOHAwRnJqcEU?oc=5",
+    "published": "2026-06-21 02:12",
+    "timestamp": 1781975553,
+    "summary": "애플이 제품 가격 인상이 불가피함을 알리고 인텔과 미국 내 반도체 협력을 확인했다."
+  },
+  {
+    "company": "NVIDIA",
+    "title": "[KHARN칸] 엔비디아 GPU 로드맵, DC 냉각 공식 바꾼다 - 칸(KHARN)",
+    "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFB1TnpzLTc5OWprQUxrOWE4SHlCWDd3dGlhdHJ3RzBNWWJPa2FpZU5yQ2YtZ0VJdDF6ekI1S0hSalJ4MDFvQjdjUDJEODJ3UDFhTWlxZm9qOFBkUENQOWc?oc=5",
+    "published": "2026-06-21 00:34",
+    "timestamp": 1781969658,
+    "summary": "엔비디아의 GPU 로드맵이 데이터센터 냉각 방식을 변화시키고 있다."
+  },
+  {
     "company": "AMD",
     "title": "AMD, FSR 4.1 RDNA 3까지 확대 RDNA 2 지원은 27년 예고 - 위클리포스트",
     "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE9yUHZiSzVLelVMNjdqZmpNMC1CVFNZRjN1SWhaSFdKT1dtUnZsRUlQU3oxZkhXM3Z5bmpweTVLOVlIY0FjZ294SmpXMjg1OGxJODE3YjJOaXVnOGRTZVd4MlVwcVRqTUxrMDlv?oc=5",
@@ -16686,29 +16718,5 @@
     "published": "2026-05-22 06:02",
     "timestamp": 1779397347,
     "summary": "AMD가 대만에 100억 달러를 투자하여 AI 플랫폼 생태계를 강화한다는 소식입니다."
-  },
-  {
-    "company": "AMD",
-    "title": "AMD, 대만 반도체 생태계에 15조원 투자…엔비디아 추격 시동 - 연합뉴스",
-    "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1EY0t2ZTdqbkNqc0J0NGxKWlZYX1ZlYy1MN2tzYkEzTnJwd0dIUExYNGdaTnlqZ3dJYk9jekxOTDk2VzNpLXBoTlVQV2o5ZjZfOXFCeENaOTF2cGPSAWBBVV95cUxNbmhHb05yRUE4NG4wOFJfWGxkVTUwekNhWUZRNVBNSk93VGtiMi1yUk1BbFloSkhkN1htZkVDSFM2M1psb04zVVNhVFhVSzV3VlJBNy1OcVhlbW5OemRNeXM?oc=5",
-    "published": "2026-05-22 04:25",
-    "timestamp": 1779391555,
-    "summary": "AMD가 대만 반도체 생태계에 15조원을 투자하며 엔비디아 추격을 시작한다는 내용입니다."
-  },
-  {
-    "company": "Broadcom",
-    "title": "어플라이드 머티어리얼즈, EPIC 혁신 파트너로 브로드컴 발표 - 올포칩",
-    "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE1SV3VWMURDUjUwd2NZdE1GVE9Ndy04Zmt4cU9NelR3WndOMTBZXzRuSFpDeURtT2NKeW5Cc2FXOURNOHZwSlB5X21nRkczenJrUWdWS2hzV0x6QUtIV3pfbXQyMXBrQQ?oc=5",
-    "published": "2026-05-22 03:29",
-    "timestamp": 1779388160,
-    "summary": "어플라이드 머티어리얼즈가 EPIC 혁신 파트너로 Broadcom을 발표했습니다."
-  },
-  {
-    "company": "Google",
-    "title": "구글·블랙스톤, 50억 달러 규모 '반도체·데이터센터' 거대 AI 합작법인 설립...엔비디아 독점에 정면 도전 - 레디앙",
-    "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE4yRDNCdFFrSVRNWm5sb1lEZ05maUJFVl9RZWw5VjhHMlh6UnAya0F0S0djQUpwWGpmOURfRzdwLXBfY0lBV01XcktPeFJwOEJkVi04RFR6Nmhlbk04aWJzdmgta1dFZHFq?oc=5",
-    "published": "2026-05-22 02:51",
-    "timestamp": 1779385870,
-    "summary": "구글과 블랙스톤이 50억 달러 규모의 반도체 및 데이터센터 합작법인을 설립하여 AI 시장에 진출한다."
   }
 ]
