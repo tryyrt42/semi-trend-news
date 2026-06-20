@@ -1,11 +1,35 @@
 [
   {
+    "company": "AMD",
+    "title": "AMD, FSR 4.1 RDNA 3까지 확대 RDNA 2 지원은 27년 예고 - 위클리포스트",
+    "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE9yUHZiSzVLelVMNjdqZmpNMC1CVFNZRjN1SWhaSFdKT1dtUnZsRUlQU3oxZkhXM3Z5bmpweTVLOVlIY0FjZ294SmpXMjg1OGxJODE3YjJOaXVnOGRTZVd4MlVwcVRqTUxrMDlv?oc=5",
+    "published": "2026-06-20 20:52",
+    "timestamp": 1781956341,
+    "summary": "AMD가 FSR 4.1 기술을 RDNA 3 아키텍처까지 확대 적용한다. RDNA 2 아키텍처에 대한 지원은 2027년으로 예고되었다."
+  },
+  {
+    "company": "Intel",
+    "title": "인텔, SK하이닉스 출신 이석희 영입…파운드리 강화 : 네이버 블로그 - Naver Blog",
+    "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQcE9KUnBZWEJpQjU1SjluTy1NTlUxNmlfY25xdExYX0h2aFdnbHNWb1htazdYd2d3ajZiNlJOeTVRWDRPN0l3OXo3b05PZi10b3V2eVhuWU03YXdYQVl3eV9iYlF4bVlWbXdMejlwaU5TRGJBRm4tcnp3c2Nqb3dwVnMyN2tMY1VncWlCVHRiMA?oc=5",
+    "published": "2026-06-20 18:56",
+    "timestamp": 1781949416,
+    "summary": "인텔이 SK하이닉스 출신의 이석희를 영입했다. 이번 인사를 통해 파운드리 사업 역량을 강화한다."
+  },
+  {
     "company": "Amazon",
     "title": "‘엔비디아 아성에 도전?’…아마존 개발 AI 반도체 외부판매 추진 - 문화일보",
     "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE1zR0ZmZjRYekloUk5VXzQ0TVZQeXYxWmZxN3p2bktqOGJ1UjNhS0dFM01Gc3UwWlpBd3QxLVpvQ2U4WGpZSl9rbzdnMWZ2WWJG?oc=5",
     "published": "2026-06-20 17:37",
     "timestamp": 1781944624,
     "summary": "아마존이 자체 개발한 AI 반도체의 외부 판매를 추진하며 엔비디아의 아성에 도전한다."
+  },
+  {
+    "company": "Amazon",
+    "title": "아마존, 자체 AI칩 '트레이니엄' 외부 판매 검토…엔비디아 독주에 도전 - 네이트",
+    "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE1TR0dfdTFnVllxM0JpclNHY3l1WmNhN2VWZDRaS3JfY3lybTdTZXRrak4zSUlJb0ZFd1FRZUtOYmtsM19fVXFGd21Delc1d0pBVE5pU19jWEJVTjZkTThtaHhfaVd1QWRXQmpBSWx6RVNocjZ1WTk1eA?oc=5",
+    "published": "2026-06-20 16:55",
+    "timestamp": 1781942100,
+    "summary": "아마존이 자체 개발한 AI칩인 트레이니엄의 외부 판매를 검토하며 엔비디아의 시장 독주에 도전장을 내밀었다."
   },
   {
     "company": "Intel",
@@ -86,6 +110,14 @@
     "published": "2026-06-20 12:29",
     "timestamp": 1781926198,
     "summary": "트럼프 전 대통령이 애플이 인텔과 협력 관계를 맺었다고 언급하며 미국 반도체 동맹 확대를 시사했다."
+  },
+  {
+    "company": "NVIDIA",
+    "title": "[글로벌] 바이트댄스가 쏘아올린 中 2선 AI칩 반란...일루바타 등 '엔비디아 대체' 시동 - 테크M",
+    "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE50a2tCd0tXQmtHMmhBUGdoNzJOZDFpZFhXTk5yNVdzVFlMcHdYdTBoNnQ0ZmtoRURjMFVoenZvdjdvTkNCS041T1dpVE5pNnlXR0FPbGRYWTYwZkdjMnZERE5BN0p5TnR4bEHSAWpBVV95cUxOdGtrQndLV0JrRzJoQVBnaDcyTmQxaWRYV05OcjVXc1RZTHB3WHUwaDZ0NGZraEVEYzBVaHp2b3Y3b05DQktONU9XaVROaTZ5V0dBT2xkWFk2MGZHYzJ2REROQTdKeU50eGxB?oc=5",
+    "published": "2026-06-20 12:29",
+    "timestamp": 1781926144,
+    "summary": "바이트댄스를 비롯한 중국 기업들이 일루바타 등 자체 AI칩을 개발하며 엔비디아의 시장 지배력에 도전하고 있다."
   },
   {
     "company": "Apple",
@@ -974,6 +1006,14 @@
     "published": "2026-06-19 07:00",
     "timestamp": 1781820000,
     "summary": "엔비디아의 소켓 물량 감소에 대해 기판 업계가 새로운 기회로 인식하고 있다."
+  },
+  {
+    "company": "Apple",
+    "title": "[외신 헤드라인] 트럼프 \"애플, 인텔과 협력해 美서 칩 생산\" - v.daum.net",
+    "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFBRWW5lSWpXZUxKRk45QVF2TWJkbUp6ZjE3WE5BeXpSbW9hcTNpdmY0LTIxUzNFeXJxT0JfOTZiU0MwZ0EwRXZzZ25nMV9oWGl5MFF2SQ?oc=5",
+    "published": "2026-06-19 06:31",
+    "timestamp": 1781818268,
+    "summary": "트럼프 전 대통령이 애플이 인텔과 협력하여 미국 내에서 칩을 생산할 것이라고 언급했다."
   },
   {
     "company": "NVIDIA",
@@ -16654,21 +16694,5 @@
     "published": "2026-05-22 01:18",
     "timestamp": 1779380325,
     "summary": "Analog Devices가 2026년 2분기 36.2억 달러의 기록적인 매출을 달성했습니다."
-  },
-  {
-    "company": "Siemens",
-    "title": "지멘스(SIEMENS), 알테어(Altair)와의 통합 이후 시너지 창출 기대 - 산업일보",
-    "link": "https://news.google.com/rss/articles/CBMiREFVX3lxTE9EcnpoN0gtaE5Wb2dxLWhDd0cyUFdYWnR0YjJ3aVd6eXB6Y3M4MFJTX0hvVDRpRDFlNWZlNTFlaFJyVE14?oc=5",
-    "published": "2026-05-21 20:32",
-    "timestamp": 1779363142,
-    "summary": "지멘스는 알테어와의 통합 이후 시너지 창출을 기대하고 있습니다."
-  },
-  {
-    "company": "Synopsys",
-    "title": "퀀티넘·시놉시스, 양자 컴퓨팅 기반 ‘차세대 시뮬레이션 워크플로우’ 공동 개발 - 사이언스모니터",
-    "link": "https://news.google.com/rss/articles/CBMirwJBVV95cUxPWDhLZmRwc21iUTNuZ0JKMWhxTUNpUlRhNzJnd2V5elNLQjhrTmxmZVVyZnNGNzREU3lJVjdWcGQ5TjUxU0FBVUd2Umo0eFVGUGo0b01WUllydG1RZU1MQzI2Mmg4SHo5Wko2VTdVSEdNa2dpN1hZUWFmMXVxLUxGTmpOMEkxOG8tb29SYnhod0xxR2t2WHJsVEYyMlFpSnU2MG56U3ZPZzFkZHMzZ2VCWWViMjg2TWNFdVlHVmpQWDNqV0J2eVAzNVk3dThVWEREUXk5X2RkWlJ1a2FFSEstenNpZUdlQjJ0ZGFCbWFIZzdzR2NmVXE0YnJfT1FnMmJUdzVXVGRvaGY1YkdxX2tCbjJDLTdvWE05djItWGdfNmJ3bk00ZUVSZWJ1c2szM0k?oc=5",
-    "published": "2026-05-21 20:05",
-    "timestamp": 1779361559,
-    "summary": "퀀티넘과 Synopsys가 양자 컴퓨팅 기반 차세대 시뮬레이션 워크플로우를 공동 개발합니다."
   }
 ]
