@@ -1,5 +1,21 @@
 [
   {
+    "company": "TSMC",
+    "title": "TSMC, CoWoS 넘어 CoPoS로… 유리 기판 기반 차세대 AI 패키징 속도 - 위클리포스트",
+    "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE00cjhGcklEb05JVEZYSDl1bnpZY3Y5X1ZWX2ZNU09CM0U0RkJHb0RmZFRiRzJoYUdnRVBwX2JMZ1M3R2NuclNrVTU1d2w1Y05fUmdWN3czTE1haU92SXpQQWVXbThDVEhKY05N?oc=5",
+    "published": "2026-06-21 05:03",
+    "timestamp": 1781985836,
+    "summary": "TSMC가 기존 CoWoS 기술을 넘어 유리 기판 기반의 차세대 AI 패키징 기술인 CoPoS 개발에 속도를 내고 있다."
+  },
+  {
+    "company": "NVIDIA",
+    "title": "엔비디아 69억달러 베팅 결실…데이터센터 스위치서 시스코 추월 - 글로벌이코노믹",
+    "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQUFMwdmhQRUR5cEJlYjBWTXNMMWl3R3RkclhHQWRaNnJ1S01sM1NObjQyUnBYaDdsYlZiTGxkUjBoNXpiSjAzRElMMllYZHhvN1N4cjlkZjliOW9DUG9uc2NWekZvYlVsQ2JhZDlLeG5TaWIzT1JaN1M0dDB0TUgteHVEZEV0MWFp?oc=5",
+    "published": "2026-06-21 05:00",
+    "timestamp": 1781985600,
+    "summary": "엔비디아가 69억 달러를 투자한 데이터센터 스위치 사업에서 시스코의 점유율을 추월했다."
+  },
+  {
     "company": "NVIDIA",
     "title": "네이버 투자에 엔비디아도 찜한 K-AI, 휴머노이드로 비바테크 접수 - 초이스스탁",
     "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5VVGRWSThPZ29ZNXRLbldlaTBoZnc1bFV2REtVNFltSG1RekVJYTZoZVUyTkduR2toQkdSNERhRVRZVlNLUjloX2JQYmxUcmxKTlZnVEg4Z01pOFlqR0NZal9OQTJkUVE?oc=5",
@@ -22,6 +38,14 @@
     "published": "2026-06-21 02:12",
     "timestamp": 1781975553,
     "summary": "애플이 제품 가격 인상이 불가피함을 알리고 인텔과 미국 내 반도체 협력을 확인했다."
+  },
+  {
+    "company": "Intel",
+    "title": "인텔, 휴대용 PC 게이밍의 새로운 기준 제시할 인텔 아크 G-시리즈 프로세서 발표 > 뉴스 - 브레인박스",
+    "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOS3c3MW9PZXZveW13YXlQWmVxZlZ0bzVwcHJvZE5ZSzFrbmFiQjVVUFBjZENZOFJ0S180SFREV2tFNmVZMXh0VzlZdVoxUVpJQkVxYmVWSmt6N3dmNjNHakdVVHM0UWVTVWVSM19LWlhjaTRMRlRmUTY3Zm1pYS03SURib3Bua3FzTlFGZXBZQ2J3dnZPUlU4VmNzWG1ERGlnbkhqbm9pdTNFdDd0ZjdYU0lUR1g?oc=5",
+    "published": "2026-06-21 02:06",
+    "timestamp": 1781975172,
+    "summary": "인텔이 휴대용 PC 게이밍을 위한 새로운 기준인 아크 G-시리즈 프로세서를 발표했다."
   },
   {
     "company": "NVIDIA",
@@ -6038,14 +6062,6 @@
     "published": "2026-06-11 21:23",
     "timestamp": 1781180580,
     "summary": "마이크로칩이 프랑스 내 시설에 대한 군사 인증 범위를 확대했다."
-  },
-  {
-    "company": "Intel",
-    "title": "인텔, 휴대용 PC 게이밍의 새로운 기준 제시할 인텔 아크 G-시리즈 프로세서 발표 > 뉴스 - 브레인박스",
-    "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPSXJZeWFPSFVqWTBCejU2MjBSRi13MWl4RUlSWWdNLXh4YTZNWDd1NXYyeFlOX3NzZUJ6OXcxc2RlSmdyb0l0dURsakkzbDBoVGFwTnNBVm5FN212SmNlVzdEYzh4Nk9QUnFfNk9GYTROdmZ2WEZZZTRRQmRLNnAyZzE4cHpWUU9nU2JMQXhTeDNzYjByak9tb2tKNGliTlRIYW1fcERZd2JvVUd3bHc?oc=5",
-    "published": "2026-06-11 21:19",
-    "timestamp": 1781180344,
-    "summary": "인텔이 휴대용 PC 게이밍을 위한 아크 G-시리즈 프로세서를 발표했다."
   },
   {
     "company": "NVIDIA",
@@ -16710,13 +16726,5 @@
     "published": "2026-05-22 07:41",
     "timestamp": 1779403275,
     "summary": "Kioxia가 OEM PC용 PCIe 5.0 클라이언트 SSD인 XG10 시리즈를 발표했습니다."
-  },
-  {
-    "company": "AMD",
-    "title": "AMD, 대만에 100억달러 투자…AI 플랫폼 생태계 강화 - 디일렉",
-    "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE16cnpSN1pyMnJuT3ZlV3ZpZEVHSUN6Xy1ZSGREbHhYaVI2MkwxbTRGbVg1cEVob1Qxc0N6VkI4YnowLVhydWplZVIyUkVOLWZJWkpEcDVNTUFZb1lZLW0ydVQyTk8xUQ?oc=5",
-    "published": "2026-05-22 06:02",
-    "timestamp": 1779397347,
-    "summary": "AMD가 대만에 100억 달러를 투자하여 AI 플랫폼 생태계를 강화한다는 소식입니다."
   }
 ]
