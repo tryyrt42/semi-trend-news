@@ -1,5 +1,61 @@
 [
   {
+    "company": "Apple",
+    "title": "애플·구글, 中 메모리 도입설…삼성·SK '어쩌라고요' [갭 월드] - 네이트",
+    "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE51N2pwUUtnQ28xajZxcVJyT293Qk1PYTlxSUtadUV1Z2RRWi1TOGE0UGowRUg5dVFNRHJwX2daQzg2SXpocEFvMkxubDF6Qk9taTNmaVZyb1JiYUl4Vm1seEVRWDJiQ2ZjTU5qcHhoYzRPOVVIODBzNQ?oc=5",
+    "published": "2026-06-21 08:01",
+    "timestamp": 1781996460,
+    "summary": "애플과 구글이 중국산 메모리 반도체 도입을 검토한다는 설이 제기되었다. 이에 따라 삼성전자와 SK하이닉스 등 국내 반도체 업계의 대응이 주목받고 있다."
+  },
+  {
+    "company": "TSMC",
+    "title": "TSMC·인텔 ‘유리기판 전선’ 본격화… 패널 전환이 바꾸는 AI 반도체 권력지도 - 글로벌이코노믹",
+    "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNTklxVjhTUEROUnRZTWxEUXU3UktaM191ck1uWi1vQWd4NTJISjZySmNhQUUtZUxHUTdxc2tmcGREZnJDRXZONGd1UmM1d1JtWUxtR3NXVDVILUcyV0R3MlNyZVFnTVM1OGh1blYxbFJ6UTNPOGM3Vml6MGtQcTEzTzE0c1RzXy1Q?oc=5",
+    "published": "2026-06-21 07:23",
+    "timestamp": 1781994226,
+    "summary": "TSMC와 인텔이 유리기판 전선을 본격화하며 패널 전환을 통해 AI 반도체 시장의 권력 지도를 바꾸고 있다."
+  },
+  {
+    "company": "Intel",
+    "title": "AI GPU 경쟁의 새 변수는 '메모리'… 엔비디아 독주 흔들 인텔 아크 프로 B70 - IT조선",
+    "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE05emdZZU5aMFFNZzFLb3hxdjVhZTR4YzYzWWpzd0ZqQ2VoZ2FTLTlnX0M1Njc2NmtObnEyVExJZkJ4QVdnM3FId3dnTGhJZGNrbUtZQWVJUGxFZENiMUo2cndaekU5ZjZEaXllN1hBbVpFWmFU0gF0QVVfeXFMTTl6Z1llTlowUU1nMUtveHF2NWFlNHhjNjNZanN3RmpDZWhnYVMtOWdfQzU2NzY2a05ucTJUTElmQnhBV2czcUh3d2dMaElkY2ttS1lBZUlQbEVkQ2IxSjZyd1p6RTlmNkRpeWU3WEFtWkVaYVQ?oc=5",
+    "published": "2026-06-21 07:13",
+    "timestamp": 1781993625,
+    "summary": "AI GPU 시장에서 메모리가 새로운 변수로 떠오른 가운데, 인텔 아크 프로 B70이 엔비디아의 독주를 견제할 후보로 거론된다."
+  },
+  {
+    "company": "Samsung Foundry",
+    "title": "빅테크 물량, 줄 서 있다고? 삼성 파운드리의 현실 - 연합인포맥스",
+    "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBoRi12eVN4QXZleE9iaWZRbmhsWlhXOXZoaE1VUUdtdjN5clV1aHNHSzdvR3prOWRISnlELUV0endpNHkycHdyNVBFS0xCaENsemdBX3NuTFZUVF91TGNrSUZkUzl1ZFBOQXNOR2ZGWljSAXRBVV95cUxQZnp0bzdWNU9WSG11U3F2LUYtU2JNam5zS19jY29JSnpjbUJjTzBaY3dqU0ZBVGJIQ3hWSnRPcVZZeVZESHJ0am1HQXpMYVpCTy1Lc0cwRjE3aG42Y053UVZFNmV5WThNcVVtLWpBTk5uZ1Q3cw?oc=5",
+    "published": "2026-06-21 07:09",
+    "timestamp": 1781993354,
+    "summary": "삼성 파운드리의 빅테크 물량 수주 현황과 실제 사업 상황을 다루고 있다."
+  },
+  {
+    "company": "TSMC",
+    "title": "TSMC 생산 한계에 인텔의 추격…삼성 파운드리 '빅테크 쟁탈전'서 반전 노린다 - 네이트",
+    "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE1PaXJrbEtWaHBraG9UV3pqbVFRT21Qbm9jYjhSR3pndDN5LVVuVnZLZ2ZFQk9iX0w0SGNySGZzMFV5cWF4MmYzelMzMjdYS05VQUQ4?oc=5",
+    "published": "2026-06-21 07:01",
+    "timestamp": 1781992860,
+    "summary": "TSMC의 생산 한계 상황에서 인텔이 추격에 나서며 삼성 파운드리와 빅테크 고객사 확보 경쟁을 벌이고 있다."
+  },
+  {
+    "company": "NVIDIA",
+    "title": "\"가전은 옛말\"…LG전자, 엔비디아 손잡고 '피지컬 AI' 기업으로 체질 개선 - 뉴시스",
+    "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE5VeFVVZDl4UnVMUkNjd21zX1BRei02cklnbjhaVzRRc0JKYWFIb29HOXZYMk5EcHVhck1ZQWRxVU9wSENxUjJsTlByaldaVnc1VzVpdDRDY0dEVXpvT012ZXc3d1V0OU51dlZwdHVRb2Fra3h5NFpBMdIBeEFVX3lxTE5VeFVVZDl4UnVMUkNjd21zX1BRei02cklnbjhaVzRRc0JKYWFIb29HOXZYMk5EcHVhck1ZQWRxVU9wSENxUjJsTlByaldaVnc1VzVpdDRDY0dEVXpvT012ZXc3d1V0OU51dlZwdHVRb2Fra3h5NFpBMQ?oc=5",
+    "published": "2026-06-21 07:00",
+    "timestamp": 1781992800,
+    "summary": "LG전자가 엔비디아와 협력하여 피지컬 AI 기업으로 체질 개선에 나선다."
+  },
+  {
+    "company": "NVIDIA",
+    "title": "[단독] HD현대, 선박 건조 피지컬AI 로봇 개발 착수…업계 최초 엔비디아 플랫폼 활용 - 헤럴드경제",
+    "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9tWGVITVpqVkl3VnVfVU1rOHZMeHBNNU1KdEhrT2ozQTJuWF9IME1USnVpbmQyRnBpOWFNZVUtNkpibDZaOUFOX1pydEgyR2k3TDgxSjl3?oc=5",
+    "published": "2026-06-21 07:00",
+    "timestamp": 1781992800,
+    "summary": "HD현대가 업계 최초로 엔비디아 플랫폼을 활용하여 선박 건조용 피지컬 AI 로봇 개발에 착수했다."
+  },
+  {
     "company": "TSMC",
     "title": "TSMC, CoWoS 넘어 CoPoS로… 유리 기판 기반 차세대 AI 패키징 속도 - 위클리포스트",
     "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE00cjhGcklEb05JVEZYSDl1bnpZY3Y5X1ZWX2ZNU09CM0U0RkJHb0RmZFRiRzJoYUdnRVBwX2JMZ1M3R2NuclNrVTU1d2w1Y05fUmdWN3czTE1haU92SXpQQWVXbThDVEhKY05N?oc=5",
@@ -217,11 +273,11 @@
   },
   {
     "company": "Google",
-    "title": "엔비디아 독주 흔들까…구글, 자체 AI 칩 사업 확대 본격화 - 한경매거진&북",
-    "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1WVlljQ1B2Y01hejJ4VmkzcWRwb2JlOFREa0t1a3NEbzlTMi1tV1FmVkRyVmtVVEFkb3EySWgyQWsyaHNoQ0c3QWRlVDR0X0h4OVNhTGZPck5lb2VXcnctYjkycmVydm8?oc=5",
-    "published": "2026-06-20 12:23",
-    "timestamp": 1781925839,
-    "summary": "구글이 자체 AI 칩 사업을 본격적으로 확대하며 엔비디아의 독주 체제에 도전한다."
+    "title": "엔비디아 독주 흔들까…구글, 자체 AI 칩 사업 확대 본격화 - v.daum.net",
+    "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE4wRmk2TlZUQWVrUWtQR3VlN1ZKTkJxbzlXc1BkaEhPV2REWktCSFNGYjZQMU1DbGpoSUh3X1paYmhMZDVRYXZNUmtQVGVMWmpXTVo5cg?oc=5",
+    "published": "2026-06-20 12:25",
+    "timestamp": 1781925900,
+    "summary": "구글이 자체 AI 칩 사업을 본격적으로 확대하며 엔비디아의 독주 체제에 변화를 시도한다."
   },
   {
     "company": "NVIDIA",
@@ -438,6 +494,14 @@
     "published": "2026-06-20 00:17",
     "timestamp": 1781882272,
     "summary": "구글이 인공지능 칩 시장에서 엔비디아와의 경쟁을 강화하고 있다."
+  },
+  {
+    "company": "Marvell",
+    "title": "美 마벨, TSMC 차세대 1.4나노 공정 전격 도입… AI 데이터센터 ‘고속 연결’ 패권 노린다 - 초이스스탁",
+    "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTFBvVjF3cEpsTFV3YWh4ZWJCWVFCckNicWtDdUdhX0l0eEN2aml6MTVWd1lxa21UZGV1R3Y3T0hMTWx2MkVPWWZMcGFmNkg2VU95MUJqUFQ2SWJiVWxpNVplT3VR?oc=5",
+    "published": "2026-06-19 23:10",
+    "timestamp": 1781878251,
+    "summary": "마벨이 TSMC의 차세대 1.4나노 공정을 도입한다. 이를 통해 AI 데이터센터용 고속 연결 기술 분야에서 경쟁력을 강화할 계획이다."
   },
   {
     "company": "Tesla",
@@ -816,6 +880,14 @@
     "summary": "인텔이 애플과의 협력, 공급망 재편, 이석희 영입 등을 통해 대만 TSMC를 견제하고 있다."
   },
   {
+    "company": "Amazon",
+    "title": "아마존, AI 칩 외부 판매 추진…엔비디아에 '도전장' - SBSBiz",
+    "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFA4VGFYcUZIS0pzWWRXRWx5eVo2TENJWW5uMnNpZ2lvSmpYdnZ6Y0hqUjlkSHctMWp1Qk00bVJIMjBPX0wtckpOY1RUZjZNWHJXTUZr?oc=5",
+    "published": "2026-06-19 11:12",
+    "timestamp": 1781835120,
+    "summary": "아마존이 자체 개발한 AI 칩의 외부 판매를 추진하며 엔비디아와의 경쟁을 본격화한다."
+  },
+  {
     "company": "Google",
     "title": "구글, ‘엔비디아 전략’으로 AI 칩 시장 정면 도전 : 글로벌 - 재경일보",
     "link": "https://news.google.com/rss/articles/CBMiSkFVX3lxTFB4UGN2a0EzU0lSNWhIeHI2amtVOVhfeTNCaXh6YmE4RGNvVE9OeXZTYXhfTVlSNjl2M1F2M21fWF9aLWk5TTFjd1J3?oc=5",
@@ -1056,28 +1128,12 @@
     "summary": "인텔과 애플의 동맹 움직임에 삼성전자와 TSMC가 반응하고 있다."
   },
   {
-    "company": "Marvell",
-    "title": "美 마벨, TSMC 차세대 1.4나노 공정 전격 도입… AI 데이터센터 ‘고속 연결’ 패권 노린다 - 글로벌이코노믹",
-    "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNY2w5ZFlmN04zWUJ6MVd4STlpeGw0Z2VwNmctR1pucU1TYUFUVTZObTV5eHhiSnA0TU5RUkxkWnlod3g3Y0N0eDg0dXN2eVB1MmtmNHJ0cTJxcG9iUVFMd09LMC1PbmVjb2FsOE5uaGxWUklrbG1FRGp2LWs4bzFKdHYxSlJrOTdh?oc=5",
-    "published": "2026-06-19 07:33",
-    "timestamp": 1781822018,
-    "summary": "마벨이 TSMC의 차세대 1.4나노 공정을 도입한다. 이를 통해 AI 데이터센터용 고속 연결 기술 경쟁력을 강화한다."
-  },
-  {
     "company": "Amazon",
     "title": "아마존, AI칩 '트레이니엄' 외부 판매 추진…“엔비디아 시장 지배력 줄인다” - 전자신문",
     "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTFBCdi1peGxxSnZmeTZrVktfYUNLVmhOa3FuMUYxeGJIV2pIbmlyR3JTNmt2aEk3M3dhVTN1OWZqMDNiT3h1SUkyaE45elExZw?oc=5",
     "published": "2026-06-19 07:26",
     "timestamp": 1781821605,
     "summary": "아마존이 자체 AI 칩인 트레이니엄의 외부 판매를 추진하며 엔비디아의 시장 지배력에 도전한다."
-  },
-  {
-    "company": "Amazon",
-    "title": "아마존, AI 칩 외부 판매 추진…엔비디아에 '도전장' - v.daum.net",
-    "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFBOeVQ2X1F0SFZrNEhsMWprSkR2TzIwb2FjR3FObkFsQ3BONmZ5R0xBMm83RVM2TDlrNlpyZ01WV1M5WkN2V2FTUFNxalBQdnM?oc=5",
-    "published": "2026-06-19 07:09",
-    "timestamp": 1781820540,
-    "summary": "아마존이 AI 칩 외부 판매를 추진하며 엔비디아와의 경쟁을 예고했다."
   },
   {
     "company": "TSMC",
@@ -16718,13 +16774,5 @@
     "published": "2026-05-22 09:15",
     "timestamp": 1779408940,
     "summary": "OpenAI와 팔란티어가 '넥스트라이즈 2026'에 처음 참가하며 6월 코엑스에서 개최된다."
-  },
-  {
-    "company": "Kioxia",
-    "title": "KIOXIA, OEM PC용 XG10 시리즈 PCIe 5.0 클라이언트 SSD 발표 - StorageReview.com",
-    "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQV2Q2R3h1YjFjMGNjQy1qVUhDVWlOeHFTenVVeVY3M1lhMTlmUnRiOWlyVzJrUkJnM0FTYnU2REVTM1RmU2RCa01KMmVHVG9iNGZza2dwS1VKNUw0TXVUUkdJazQ4NEktNExOQ3lOSzlLTXFocXVZU2NHUnd6TGVKbUw2NU83bFphMm95SmljNVpMdy1tZmNMd3Iydw?oc=5",
-    "published": "2026-05-22 07:41",
-    "timestamp": 1779403275,
-    "summary": "Kioxia가 OEM PC용 PCIe 5.0 클라이언트 SSD인 XG10 시리즈를 발표했습니다."
   }
 ]
