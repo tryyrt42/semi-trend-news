@@ -1,5 +1,21 @@
 [
   {
+    "company": "Amazon",
+    "title": "아마존 \"5년 내 상업용 양자컴 출시\" - SBSBiz",
+    "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFBaZ0ZYWmVKVXh4MlVncWlqOVBrZ0lzSTZwdXBBVjBwNFN2U1czWTZ3ZFR2V2VfTU1uM1NBU1E3eHJWX0tkYTUwX0s0eEFMY3lhOE5F?oc=5",
+    "published": "2026-06-22 04:40",
+    "timestamp": 1782070800,
+    "summary": "아마존이 5년 이내에 상업용 양자컴퓨터를 출시하겠다는 계획을 발표했다."
+  },
+  {
+    "company": "NVIDIA",
+    "title": "두산 4개 계열사, 엔비디아와 로봇·원전·소재 전방위 동맹 - 글로벌이코노믹",
+    "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOX1BKbnpZNDFkdlIySGdTeTd3cnRlcWgzZWVrY0tGRzFJLTZHUG9rZ0ppS2tzeFYxS212TVJJcUFXbG1QTWtyNUpDTzFHT21TdEtWNUlBV1pPdk83eVVUbExkRkl2MDAta3FpQ0lzZ2VoYkp5a01JYWkzUW1mZlBKRnRBQU1JS2FD?oc=5",
+    "published": "2026-06-22 04:35",
+    "timestamp": 1782070500,
+    "summary": "두산의 4개 계열사가 엔비디아와 로봇, 원전, 소재 분야에서 전방위적인 동맹을 체결했다."
+  },
+  {
     "company": "NVIDIA",
     "title": "젊은 시절의 제임스본드를 만날 수 있는 007 퍼스트 라이트 (FIRST LIGHT) 그리고 엔비디아 DLSS 4.5 이야기 > 리뷰 - 브레인박스",
     "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNOXB2WEJtUk5kTnNjc1VkVnZLYms4bWstdXZwb0RRUko4eHB1R2R3SzlLTWptbmc5QkxOU0dsUDZRNDFzUHNyOUJ3ckNYYnNkSTVnbUFXNlZFSDRud0FhRTViS0hVZ2lGaGpoZkRWeldhbmhUdmRvejZteWxNZ2hUOGNzTnMya0JqNHpMVEJLM0lsS3JQT3BZQWZkaUdmeW5nQ1JqeDN6ci1sb2N4dVZPTWlOYTYwUkdGa2FReFRPNHNqUQ?oc=5",
@@ -25,11 +41,27 @@
   },
   {
     "company": "NVIDIA",
+    "title": "Nebius Group(NBIS), 17억 파운드 영국 AI 인프라 확대와 NVIDIA 로보틱스 랩 공개 - simplywall.st",
+    "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPYjg4OWsxUWdIX0dGSktDdURQc2JNYmluNTFEU1FGdmlXUkVrVWJqdTJBOTJkVXhNQ3c0Q2lrdS10aWZ0QUFjWEpKS0FTRDhOek5aYWtPS01VdHFNSkVYLWhfdG5LOGZzblhGQThqcmFjcERNTGx5NzNKcG8xaTVqbGhXbkFlSzdJWklxOWFVb1pOY1NWU0xWcEh30gGaAUFVX3lxTE9iODg5azFRZ0hfR0ZKS0N1RFBzYk1iaW41MURTUUZ2aVdSRWtVYmp1MkE5MmRVeE1DdzRDaWt1LXRpZnRBQWNYSkpLQVNEOE56Tlpha09LTVV0cU1KRVgtaF90bks4ZnNuWEZBOGpyYWNwRE1MbHk3M0pwbzFpNWpsaFduQWVLN0laSXE5YVVvWk5jU1ZTTFZwSHc?oc=5",
+    "published": "2026-06-22 00:56",
+    "timestamp": 1782057369,
+    "summary": "Nebius Group이 영국 AI 인프라에 17억 파운드를 투자하며 NVIDIA 로보틱스 랩을 공개했다."
+  },
+  {
+    "company": "NVIDIA",
     "title": "엔비디아, 공급계약 앞두고 삼성 등 협력사에 ‘이례적 혹평’ - 초이스스탁",
     "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5DV3F4UlRwN0pkOHhwZmZDZWJmR2QtYzM2WE4zYTUxMExseEpZZW0zQjdUNllVSkdGMWdJdk1IVFZLOHl5RmZtc0Yyc2pua1ZsZ0ctY2ctenN3bUM5bFlSWU00V0ppM2c?oc=5",
     "published": "2026-06-21 23:34",
     "timestamp": 1782052479,
     "summary": "엔비디아가 공급 계약을 앞두고 삼성전자 등 협력사에 대해 이례적으로 혹평했다는 내용이다."
+  },
+  {
+    "company": "Intel",
+    "title": "Intel ‘foundry’ gaining momentum, will it compete with Samsung - 경향신문",
+    "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFBraTFsVFFkd1lkV1J2dlhCWDdVZmZBU1lpUlp3VXBNV0k0M0ZLVzRyUVFWMEhkV3dSdEJOem1nS0Nsd1dWVW1RdHdmeWg4VjhyMlNEWkdkZ210NzdLM2c?oc=5",
+    "published": "2026-06-21 22:07",
+    "timestamp": 1782047220,
+    "summary": "인텔의 파운드리 사업이 추진력을 얻고 있으며, 삼성전자와의 경쟁 구도가 형성되고 있다."
   },
   {
     "company": "Amazon",
@@ -518,14 +550,6 @@
     "published": "2026-06-20 16:26",
     "timestamp": 1781940376,
     "summary": "엔비디아가 칩 설계를 넘어 AI 인프라 제국 구축을 위한 비전을 제시했다."
-  },
-  {
-    "company": "NVIDIA",
-    "title": "Nebius Group(NBIS), 17억 파운드 영국 AI 인프라 확대와 NVIDIA 로보틱스 랩 공개 - simplywall.st",
-    "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNOTQ5WVQ5bTV4TDEwWWtyQ054al9qd01kUzgtcU9BQ3FsRGtwZmxmdHFXckdKdjlnRkZSam5uOXNRY19qQmpSdkM1LW1xWkY5cGRLUTNDWVgxQWNNeHRvc2R3eXNFNVFocFc2aFk4TWkyS1pJdmZ4elBlYldYSkZ3bEhYS1daYXFDMGxfSDItc0hfdHo40gGaAUFVX3lxTE9iODg5azFRZ0hfR0ZKS0N1RFBzYk1iaW41MURTUUZ2aVdSRWtVYmp1MkE5MmRVeE1DdzRDaWt1LXRpZnRBQWNYSkpLQVNEOE56Tlpha09LTVV0cU1KRVgtaF90bks4ZnNuWEZBOGpyYWNwRE1MbHk3M0pwbzFpNWpsaFduQWVLN0laSXE5YVVvWk5jU1ZTTFZwSHc?oc=5",
-    "published": "2026-06-20 16:00",
-    "timestamp": 1781938800,
-    "summary": "Nebius Group이 영국 AI 인프라에 17억 파운드를 투자하고 엔비디아 로보틱스 랩을 공개했다."
   },
   {
     "company": "Intel",
