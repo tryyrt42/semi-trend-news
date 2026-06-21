@@ -1,5 +1,61 @@
 [
   {
+    "company": "OpenAI",
+    "title": "삼성전자, 오픈AI '챗GPT 엔터프라이즈' 전사 도입…글로벌 최대 규모 - 이데일리",
+    "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPNDljNmdpR2VhWi1VWW84dmRpRGZxN0tVTU1MclY0LUhhamdpekZVWk1hWm5nUkl5NVJpOWdwVER6MjZmUUdKT1ZMQnFZMHJHV3pEQXVMLTNkTjRUWU12YzMzVHExbmRrRnotUnUzZGhtb0dab2lMVGRmR2diUTUwZQ?oc=5",
+    "published": "2026-06-22 08:20",
+    "timestamp": 1782084001,
+    "summary": "삼성전자가 글로벌 최대 규모로 오픈AI의 '챗GPT 엔터프라이즈'를 전사 도입한다."
+  },
+  {
+    "company": "Apple",
+    "title": "\"폴더블 아이폰·홈 허브…애플 신제품 20종 쏟아낸다\" - 지디넷코리아",
+    "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE15UWpucU0xOHpHRUtXS01xbnk5bU1yOWxHRmtzTjg0QjB3dnpoV2ZVeXBrOG92QTk2WkpIOGFyRFZMNGR4b2ptZzNLajlFVUhzcWJoWUxR?oc=5",
+    "published": "2026-06-22 08:17",
+    "timestamp": 1782083866,
+    "summary": "애플이 폴더블 아이폰과 홈 허브를 포함한 20종의 신제품을 출시할 예정이다."
+  },
+  {
+    "company": "AMD",
+    "title": "AMD는 라데온 GPU 가격을 15% 인상할 계획입니다. 이는 전 세계적인 AI 칩 열풍의 결과입니다. - Vietnam.vn",
+    "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQR05faU1pbXJIa2ZzU3BMcFlQb3JGZXpGT2RNZmJNM2VsRW9QeUVPVDZkVlVDNTY4Smw2V2I3ckZDTS1ncVZPLV9uWTZmeG41VTZIRFhkbUlicDA2OGpMcWJsNTd5TWFtU1o2VjNydHc0TG9sUWVYMXpZaEhwT2xDZ0FqR0xKaE95Q084Ump6V1ZLVWpYd1VfdnEtMzl5LVdCbXc?oc=5",
+    "published": "2026-06-22 08:17",
+    "timestamp": 1782083847,
+    "summary": "AMD가 전 세계적인 AI 칩 열풍의 영향으로 라데온 GPU 가격을 15% 인상할 계획이다."
+  },
+  {
+    "company": "NVIDIA",
+    "title": "LG, 엔비디아 본사 찾는다…피지컬 AI 협력 구체화 - 뉴스핌",
+    "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFBUVmdUSURZbVRnYU9OVHpka2F2eE42SXVJaFRYYmx0dnVIWlZGS21BTGQtV2VraXYxdG0yT0tmZXlqeE9EQ3NwZTJabFBqNUhVenZCV3RwNzFqbnVo?oc=5",
+    "published": "2026-06-22 08:17",
+    "timestamp": 1782083820,
+    "summary": "LG가 엔비디아 본사를 방문하여 피지컬 AI 분야의 협력을 구체화할 예정이다."
+  },
+  {
+    "company": "NVIDIA",
+    "title": "엔비디아, AI 에이전트용 로봇 자율 개선 시스템 개발했다 - 스타트업레시피",
+    "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE01RlpoelhuMENfR2Q1VGRFNHRudXpDNnR2dzRrVU9pM3M3cjBDcmRjM2xmeFUtT0dDekhRaGt2cEFwRFpNdkE5SHBpdlJsdWc5anBZM3dWS19fVkl6LXc?oc=5",
+    "published": "2026-06-22 08:00",
+    "timestamp": 1782082802,
+    "summary": "엔비디아가 AI 에이전트가 스스로 학습하고 개선할 수 있는 로봇 자율 개선 시스템을 개발했다."
+  },
+  {
+    "company": "Amazon",
+    "title": "아마존(AMZN.O), 상업용 양자컴퓨터 출시 선언…\"5~7년 안에 현실로\" - 네이트",
+    "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE5lR1FoaXhCV2lXOFpWWW5waVBIRmVQWF9IRWFFWUpZN0lYVTZycHZQdHJad2h3OTJtelZTNVB1UUd2NWlKNUVDRXhxWjJNNzdhN0pR?oc=5",
+    "published": "2026-06-22 07:44",
+    "timestamp": 1782081840,
+    "summary": "아마존이 상업용 양자컴퓨터 출시를 선언했다. 해당 기술은 5~7년 내에 현실화될 예정이다."
+  },
+  {
+    "company": "Intel",
+    "title": "Intel Appoints Former SK Hynix CEO Lee Seok-hee as SVP to Lead Foundry Backend Operations - 네이트",
+    "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE5vVmRIaFdBSlRtY2huaGxxNzJZWVkwNHlpNEZLckhlcTNucWNwS1ZYaC1ia3JkSXNSRC1jeXoxbjVkU3k4RnlWNUd4QVNmSTZ4alpz?oc=5",
+    "published": "2026-06-22 06:55",
+    "timestamp": 1782078900,
+    "summary": "인텔이 파운드리 후공정 운영을 총괄할 수석 부사장으로 이석희 전 SK하이닉스 CEO를 영입했다."
+  },
+  {
     "company": "NVIDIA",
     "title": "[인터뷰] 젠슨 황 통역 나섰던 슈퍼브AI 대표 \"엔비디아 스택 적용, 우리가 '최전선'\" - v.daum.net",
     "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE9RTTNydTc1dEk5NVZYSG5wc0dmbVdOYUhuOUEyM1VVRDdlNDFaMG1yUHd2QnRQVjlDSW92bm84Rnd1RDE0cmM5UWhNLVRpTk0?oc=5",
@@ -17014,37 +17070,5 @@
     "published": "2026-05-23 12:00",
     "timestamp": 1779505200,
     "summary": "국민성장펀드의 투자 결정이 리벨리온과 퓨리오사 등 국내 AI 반도체 기업들의 향후 성장 방향에 중요한 영향을 미칠 것으로 전망된다. 이는 K-AI 반도체 생태계의 성장을 가늠하는 지표가 될 수 있다."
-  },
-  {
-    "company": "파두",
-    "title": "K-반도체기업 파두 대만시장 본격 진출…AI 데이터센터 공략 시동 - KPI뉴스",
-    "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE9lbnNnMXlFVXdrM3FxM00yN1pYMDNvZXNOSFJpbUdKcUREUmdiRUFibVNFZ011eTYyVFhfM0Nra0JBczVkSlZHWk9XX2xzVlk3Wkpv0gFTQVVfeXFMT2Vuc2cxeUVVd2szcXEzTTI3WlgwM29lc05IUmltR0pxRERSZ2JFQWJtU0VnTXV5NjJUWF8zQ2trQkFzNWRKVkdaT1dfbHNWWTdaSm8?oc=5",
-    "published": "2026-05-23 08:26",
-    "timestamp": 1779492404,
-    "summary": "파두가 대만 시장에 본격 진출하며 AI 데이터센터 공략에 나섰다."
-  },
-  {
-    "company": "Kioxia",
-    "title": "키오시아, 내년 10세대 낸드 양산 의지…삼성·SK 추격 - v.daum.net",
-    "link": "https://news.google.com/rss/articles/CBMiS0FVX3lxTFBPajIzaW1TTFc1MDV5QkZsVVJOdjIwU0ZaOWZ4U25nNFBfUl9ueUxHVHhLWlZCeTB4VTlEM240NUVFRmlhSnVCQ1BfTQ?oc=5",
-    "published": "2026-05-23 08:02",
-    "timestamp": 1779490923,
-    "summary": "키옥시아가 내년 10세대 낸드플래시 양산 의지를 밝혔다."
-  },
-  {
-    "company": "Broadcom",
-    "title": "브로드컴의 AI 칩 및 클라우드 파트너십 확장이 투자 스토리를 바꾼 방법(AVGO) - simplywall.st",
-    "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPMVJpLWJRZjRWelowc3JKWWlOSW5OeHhVWEp5eVBFSnFrbVZlck9fX19McTVPNkEtdXN1SWR1a3IwOUstaXRjNmRycGp3MUduUVlWT2l0SV82RTFCTGVsWTNkSzFXb3Z4eFBucWxzZEE5U21Qc1BiZDY1ajM4cnJqUjZZV0lTT2RzYXZDRDhZejBYd1NTOHlB0gGcAUFVX3lxTE9vZy01YlhOY0c1ZE5OV18xb0J2eVVzTzluanRQalRWaHQwZ29OaENRVWdHOTBaVHFwN3EwamZBZXVMQWUxMFJQUGEwMkFWMF9XVzVTTExXSFB5Sm1fZFBHZnpTWHh1SnNoRGlXU1lRRkgta3hyU2k5eG1jZUlSalFWbDV3end5RWhhNjkwSjNDRjJuSTBzMG9fbHlQRw?oc=5",
-    "published": "2026-05-23 07:43",
-    "timestamp": 1779489838,
-    "summary": "Broadcom의 AI 칩 및 클라우드 파트너십 확장이 투자 스토리에 변화를 가져왔습니다."
-  },
-  {
-    "company": "TSMC",
-    "title": "삼성전자 '2나노 GAA' 승부수… TSMC 안마당서 미디어텍 흔든다 - 글로벌이코노믹",
-    "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNUm9VelFaMHpHam53UkpReHVQRmVfWTJNSmd4U2d1YUVWNThET1NzQ0JZUU9BS2JyZHlPU3ZKcS1BdGVNS0cwY191ZTZQVVhjU21QWXF5NFRfT0RFN2VDbnFqYXYtOC03U0NxNmxkcXZMRkhBaDliZVdNeVlUVDdSQV9idGxXR0lf?oc=5",
-    "published": "2026-05-23 06:51",
-    "timestamp": 1779486676,
-    "summary": "삼성전자가 2나노 GAA 기술로 TSMC의 안마당에서 미디어텍을 공략한다는 내용의 기사입니다."
   }
 ]
