@@ -1,6 +1,102 @@
 [
   {
     "company": "Intel",
+    "title": "美 정부 지원 등에 업은 인텔…삼성 턱밑 추격 나선다 - 네이트",
+    "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE9remE0VUVNQTFJU3VsTHhIdGVQbDJBRkFwaDNMZFdWQzNZaTVlXzUxeTJsVkRwZVpzUE1NTXltbzVpY0ktU2RTZHBaak9kcGlVQmZJ?oc=5",
+    "published": "2026-06-23 06:55",
+    "timestamp": 1782165300,
+    "summary": "미국 정부의 지원을 받는 인텔이 삼성전자를 추격하고 있다."
+  },
+  {
+    "company": "Bosch",
+    "title": "보쉬도 걸렸다…화웨이 제재, 이젠 자동차 부품사까지 겨눈다 - 월요신문",
+    "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1BTFVxQ0RzRWdLNnRyMkpLbTBEN2phRkVwb0FYa3lXMl95M3hMYXUyR1lHLWkweTIxWDJsYzIwT3ZLcFpvbHR6d0hoRUZoeV9LZkdnSldPQnBodTdRRDF2YXNERkQ4TWVPUUE?oc=5",
+    "published": "2026-06-23 06:05",
+    "timestamp": 1782162333,
+    "summary": "화웨이에 대한 제재가 자동차 부품 기업인 보쉬까지 영향을 미치고 있다."
+  },
+  {
+    "company": "TSMC",
+    "title": "[인터뷰] 대만 TSMC가 삼전·닉스와 다른 다섯가지는?...이게 바로 '성공 방정식' - 파이낸셜뉴스",
+    "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE95Umo4djMzcFM3dEVXRXFzLWZKRG55UVB6Y3hVX3FtZFVKeUN5WlQxN2Q4MkRjbFhmUXNfMnQ1c0RLR0xUM2VSOVlydDA4dmxUN2laNk9DX3BKZw?oc=5",
+    "published": "2026-06-23 06:03",
+    "timestamp": 1782162180,
+    "summary": "대만 TSMC가 삼성전자 및 SK하이닉스와 차별화되는 다섯 가지 성공 방정식을 인터뷰를 통해 분석함."
+  },
+  {
+    "company": "Qualcomm",
+    "title": "[PLAY IT] 퀄컴 스냅드래곤X2 엘리트 기반 '갤럭시북6 엣지' 써보니 - 네이트",
+    "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE5qRk9YTENmaG1PZ1IyQjQwVlQ0X0ZwVlV6ZWRXLWZzd2d4Mm5iT0NyUVFfVllIcmJxWnZGZ0t6RjNxbXl0VlBfT0d0RC1WVFAtSHkw?oc=5",
+    "published": "2026-06-23 06:01",
+    "timestamp": 1782162060,
+    "summary": "퀄컴의 스냅드래곤X2 엘리트를 탑재한 갤럭시북6 엣지에 대한 사용기이다."
+  },
+  {
+    "company": "NVIDIA",
+    "title": "엔비디아가 점찍은 피지컬AI 로봇… 디든로보틱스 몸값 5000억원 정조준 - 조선비즈 - Chosunbiz",
+    "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQV2FDTlRGZDJtQlpJVERpTFJvTmU0aGZBeUNFaUQ2dDM4MWJRa0E1Wjg3MFRWeDVRNUZWYUd6dkU4aUdvY3NNRE9feHhGbmQyMXdmeEl2UFN1akFVbDZ5bldMOFk3aTRfMUFxY3JVSC1SRmRZYnliWHZHYmdzdkdaYkUycXdoRWvSAZsBQVVfeXFMUHZETk4zWjJjTk5LeDNta1dYX1U5UHFhOWxqRzZZbC1KSU0xamd5WDBadFBfX3dBWXNXckZoRklMYWJIX0VJdlNiZjktendwNnR1ZFlJTUFzc1pDeE5jdE9venphb00weHVhaDlGaVpJZXhGQXRyOHdOdGM3VkNwc2pvSXk3M01nM1g3ZlhTNTMtWXBoY0VreV9vQmM?oc=5",
+    "published": "2026-06-23 06:00",
+    "timestamp": 1782162000,
+    "summary": "엔비디아가 피지컬 AI 로봇 분야에서 디든로보틱스를 주목하고 있다. 디든로보틱스는 5000억 원 규모의 기업 가치를 목표로 하고 있다."
+  },
+  {
+    "company": "Groq",
+    "title": "Groq, AI 추론 클라우드 확장 위해 6억 5천만 달러 조달 - Investing.com 한국어",
+    "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE02eWM2cGNGVTVrZjZ6My0wWDRfVUNXWEhhSmk5RENYTHJ2YmEyU1Y5WjVRTmlndUkxQl82dXhOVkNhZktmSWNQQ0xtaVZsUEdMM1Vrbnk5T0RJMzJURGlpd1hMRGx5MUdvOHhLaG5MRkZIN3IzNnRV?oc=5",
+    "published": "2026-06-23 05:29",
+    "timestamp": 1782160140,
+    "summary": "Groq이 AI 추론 클라우드 서비스 확장을 위해 6억 5천만 달러 규모의 자금을 조달했다."
+  },
+  {
+    "company": "MagnaChip반도체",
+    "title": "매그나칩, AI 서버 및 EV용 6세대 600V MOSFET 출시 - Investing.com 한국어",
+    "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE15YUlwbU1UTlJkdVFxdGprOXdnbGdWMXNXX0l5SXJEendrS1NRR3BWcU5DVGdQcDlkOUdvNG01ZXZSRzYyTlRna3NsTnZma3ctQlFTZDJiUUYwUTR5ZHNvM29oNEw5X19UaHUxMFdscXI?oc=5",
+    "published": "2026-06-23 05:22",
+    "timestamp": 1782159720,
+    "summary": "매그나칩이 AI 서버 및 전기차(EV)에 적용 가능한 6세대 600V MOSFET 제품을 출시했다."
+  },
+  {
+    "company": "NVIDIA",
+    "title": "엔비디아 손잡는 '원LG', 피지컬AI 승부수…전자 3사 최대 실적 잇나 - 이데일리",
+    "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNX3Z2azNTSE5WTkRnUDh6TjhCRmw0ODdiSTR4N1VVR3ZXcTBPUjFrTWxGOU5vZWFPeHRjLUxxR3NUTzVrRUhBSVVVaUhPamxjN2Y4QzMxOWdaTUxpWExiN2h3QTJvTWNGMWpreUpOWEVqZklTeFpwNWprSF85MzhRNg?oc=5",
+    "published": "2026-06-23 05:20",
+    "timestamp": 1782159603,
+    "summary": "LG전자가 엔비디아와 협력하여 피지컬 AI 분야에 진출한다. 이를 통해 전자 3사의 실적 성장을 도모한다."
+  },
+  {
+    "company": "Qualcomm",
+    "title": "Samsung Electro-Mechanics Begins Mass Production of Substrates for Qualcomm’s AI Data Center Accelerator - 알파경제",
+    "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE5CMFpYS0txMHdMNm1SSVg3bEt1Y2RfZE5yRE1hUzRfVUFXM1pmWHFTMVJkU3RLTGtSbUdhY3Y0VzJPRlQwVTlmTUtBa0YyamdSelM5cXpxcWdNWUdxZ3E1TXotMzJxZU84WERsY0RR?oc=5",
+    "published": "2026-06-23 05:15",
+    "timestamp": 1782159300,
+    "summary": "삼성전기가 퀄컴의 AI 데이터 센터 가속기에 탑재되는 기판의 양산을 시작했다."
+  },
+  {
+    "company": "Microsoft",
+    "title": "마이크로소프트-셰브론이 쏘아 올린 '자체 전력 생산(BYOP)' 혁명 - 네이버 프리미엄콘텐츠",
+    "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNdGxyUnBWRWdZdzlDSGZJbldnM1MyZVhwQnF6elk4ZmFMQWF6c2wwME5SRXU2dnNBMFQ4MjQ4MmVSS1k3MTZHa2s4UHhsd1EtTWZTenpBYjRDMlBubFRiS0lDUzJsTzlRNFJ3all5b2g4c3N0RDBhRGhOaDlmZmRsbjFkdUdVeHc1VERTTVlQRkZTUQ?oc=5",
+    "published": "2026-06-23 05:14",
+    "timestamp": 1782159240,
+    "summary": "마이크로소프트와 셰브론이 협력하여 자체 전력 생산(BYOP) 방식을 도입한다. 이를 통해 전력 공급 체계의 혁신을 추진한다."
+  },
+  {
+    "company": "TSMC",
+    "title": "“삼성, 2년내 TSMC 추월 가능” ‘주성’ 황 회장이 장담한 기술 - 중앙일보",
+    "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5BdUd4U080WTJIRGVnSExXeHY2dGR1VkJnaF9RMjhtaXk4ejJCaGFxOENROHNMQ2VuUE5qOGl4UkVfS25nMGpIVXAwNFJlTGdJaTEteERR?oc=5",
+    "published": "2026-06-23 05:00",
+    "timestamp": 1782158443,
+    "summary": "주성엔지니어링 황철주 회장이 삼성전자가 2년 내에 TSMC를 추월할 수 있다고 언급함. 기술력을 바탕으로 한 경쟁력 확보 가능성을 주장함."
+  },
+  {
+    "company": "Intel",
+    "title": "현재 인텔 최고의 게이밍 프로세서를 찾아라! - 총 17개의 게임들 (포르자 호라이즌6 포함) > 리뷰 - 브레인박스",
+    "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNUENuZWQyOV94emhSSzFQejh1aDVKSjVZb1NlN3Fua1V4S0FlWmIyYTJGNUZSWEpHQkt0WFhGODlDSUVVWFRvTnVOT1FNNUhLY01lY0NTcjM1U1liTUd0UzVBQ1BLZjQtOWc2Szk4ZDBWS0NnNjg2cExnT2E2aHFhMEYtYndCaS01UzB6VA?oc=5",
+    "published": "2026-06-23 04:07",
+    "timestamp": 1782155244,
+    "summary": "인텔의 게이밍 프로세서 성능을 확인하기 위해 포르자 호라이즌6를 포함한 총 17개의 게임을 대상으로 리뷰를 진행했다."
+  },
+  {
+    "company": "Intel",
     "title": "인텔, 2027년 랩터레이크 넥스트 HX 출시 '최대 24코어' - 위클리포스트",
     "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE9pM3M1TGtXbi0wSkhuRjZVWU1HTmJBTWotRGNYeGxzal9qN1RIQzNydEFmRVlWNWx2eS1DZkZjdVhrbXc5a2JsNGtDYWN4ZmduUWVnb215OGI2bTRhNmhsdkJLN3F0Ty04N1lj?oc=5",
     "published": "2026-06-23 03:10",
@@ -126,6 +222,14 @@
     "published": "2026-06-22 17:38",
     "timestamp": 1782117499,
     "summary": "삼성전기가 퀄컴의 AI 가속기에 탑재되는 FC-BGA 기판을 양산한다."
+  },
+  {
+    "company": "NVIDIA",
+    "title": "엔비디아 손잡은 K 테크기업…글로벌 AI 생태계 주도한다 - 한국경제",
+    "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9tX2VWSVQzVms4MHFpb3B3dmZ0WF85NmJNOUJ4cU02VUFpbmp4bFR1Sko0UjVwNDJGa05heXRJNllpOUdCSWNBUW9qUmdRZUdVMl9Cd0tSN3Rjd9IBVEFVX3lxTE54bGNaaDczX0ZqcnVKamNKOUM5Qi0xNkJleWh1dm9uaXNUbW1ISnBUMWlIdHlIb0tURllrVzg0QnQwdzZyT1oydjBHQXc2UzhWQi1NUw?oc=5",
+    "published": "2026-06-22 17:21",
+    "timestamp": 1782116472,
+    "summary": "엔비디아와 협력 관계를 맺은 국내 테크 기업이 글로벌 AI 생태계를 주도하고 있다."
   },
   {
     "company": "TSMC",
@@ -598,14 +702,6 @@
     "published": "2026-06-22 02:34",
     "timestamp": 1782063240,
     "summary": "구글이 TPU V9 업그레이드를 위해 미디어텍의 칩을 최초로 독점 수주했다. 이번 계약을 통해 미디어텍은 구글의 AI 에이전트 생태계에 참여하게 되었다."
-  },
-  {
-    "company": "Intel",
-    "title": "현재 인텔 최고의 게이밍 프로세서를 찾아라! - 총 17개의 게임들 (포르자 호라이즌6 포함) > 리뷰 - 브레인박스",
-    "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNWVFKbngwRFp5Y3ptVTQxLXdaQkU5eE9mVG13RlF5OFZqbUd4UUdvTTlDXzBrdDVFY180SnBaMFZsQWJNelltcmdYR3RrRzBiN1IxQmFDVWd4Z0pBaTM0TkoxTFFUVG1meWlER0FCMG5mWE93NTBKMVowZnZZUFRKQ3M3d0tBLVRrWjMzSUgxTGxGaG1pUUVnVkZfTDh5NWNUUVBfTjZnM3NTbVk?oc=5",
-    "published": "2026-06-22 02:12",
-    "timestamp": 1782061973,
-    "summary": "포르자 호라이즌6를 포함한 17개의 게임을 통해 인텔의 게이밍 프로세서 성능을 비교 분석했다."
   },
   {
     "company": "NVIDIA",
