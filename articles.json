@@ -1,6 +1,70 @@
 [
   {
     "company": "NVIDIA",
+    "title": "엔비디아, 휴머노이드 로봇 '안전 OS' 장악 나섰다 - 글로벌이코노믹",
+    "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPLVZ5a2M1QzlyZXpzczVXcEh3NV9lMWxJbGpiUFpfNDhjY0d0OHk1dWd1YTJVd1Z0enBlNGNBODBIdU96akJGblZKT3ZhcVNTMkdBUXJweXpJRHF6b21VejVUSjZOeVVuN2pMSlI3VVF2UDdoR0doWnBGV1hIT0drVWNEOFBNOWs?oc=5",
+    "published": "2026-06-24 05:10",
+    "timestamp": 1782245400,
+    "summary": "엔비디아가 휴머노이드 로봇용 안전 운영체제 시장 선점에 나섰다."
+  },
+  {
+    "company": "NVIDIA",
+    "title": "SK하이닉스·삼성, 엔비디아 유럽 슈퍼컴 35대 수주 직격 - 글로벌이코노믹",
+    "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQSzZDb0lEMGRJTlpNS3prSWZ3cHp4Q05IVjFoUlpoZm4tdEZQQ0theGltQXpWMkFvU1p0QkJSZDRSMlNSa2FPaTNJSFdQcHItQl94LW9zd2M3cmxaaDJJSVZ0NGtaWTRtb0NvUGtZUzZwZXVmNE5oOHZmLUhlbEg0S0U5X3pDQm8?oc=5",
+    "published": "2026-06-24 05:00",
+    "timestamp": 1782244800,
+    "summary": "SK하이닉스와 삼성전자가 엔비디아의 유럽 슈퍼컴퓨터 프로젝트 물량을 수주했다."
+  },
+  {
+    "company": "STMicroelectronics",
+    "title": "ST마이크로일렉트로닉스, 업계 최고 해상도의 초소형 dToF 3D 라이다 신제품 출시 - 올포칩",
+    "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFBrcG1nZS1NOFdScDNaMnZWRWRYaU82WTlTRVRYNWJzWHlrd19hem00Y3lxaFRlNjE0b2YzSjdreUxoZFZ5SkFUVU1wejkxcHBpREZ5T0h3cWJTbnNKR0ZVVk9XMlIxUQ?oc=5",
+    "published": "2026-06-24 04:53",
+    "timestamp": 1782244405,
+    "summary": "ST마이크로일렉트로닉스가 업계 최고 해상도를 갖춘 초소형 dToF 3D 라이다 신제품을 출시했다."
+  },
+  {
+    "company": "Infineon",
+    "title": "인피니언, AWS 기반 클라우드 가상 플랫폼 출시로 자동차 MCU 평가 가속화 - 올포칩",
+    "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE05TnlSOHM2X0Y2eXBwZ1ZOZHZFNU1WVVZYTmJ5a1RBaE85M1FHUk03Z0w5akR1cm8wc2JMWWxfS2xYeVduUk5vTmxUV1drbHVDRFdJYUJ0cWVFUG1JRGpLSzYwWFNjUQ?oc=5",
+    "published": "2026-06-24 04:49",
+    "timestamp": 1782244154,
+    "summary": "인피니언이 AWS 기반 클라우드 가상 플랫폼을 출시했다. 이를 통해 자동차 MCU 평가 과정을 가속화한다."
+  },
+  {
+    "company": "NVIDIA",
+    "title": "슈퍼마이크로, 융합형 HPC, AI 인프라용 네이티브 FP64 성능의 NVIDIA Vera Rubin NVL4 엔드투엔드 DCBBS 블루프린트 공급 - 지디넷코리아",
+    "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9wVk5CSm1tYnJGbC1sUmt3Q1NuaGEtSlVLaGpsUHZlLWFsLVZndXpZcEJySExKbFdQTXJVTWFWLXQySkEzTE93R0E3UWVPZVBfdk5EdDJ3?oc=5",
+    "published": "2026-06-24 04:10",
+    "timestamp": 1782241804,
+    "summary": "슈퍼마이크로가 NVIDIA의 Vera Rubin NVL4 기반 AI 인프라 솔루션을 공급한다."
+  },
+  {
+    "company": "NVIDIA",
+    "title": "휴머노이드 로봇, 쇼룸 벗어나 공장 라인 진입… NVIDIA가 '판' 깔았다 - 글로벌이코노믹",
+    "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNUXhfYTByVmd1XzdtS2Jla2xFT29yQnJXVUl2cjFxUkxaQUtaOFJSRHN0ckxuVFh6RUNaTzEzSWUxLWlKbUtWRGMzOUNTbVhZM2FyX1NLZldBVUVvTzFWYXVlTjhBLWluZDR4cjdmbjJSeW5qenNwNHlubVNILUlwUjN2Z0R0SDhs?oc=5",
+    "published": "2026-06-24 04:00",
+    "timestamp": 1782241200,
+    "summary": "NVIDIA가 휴머노이드 로봇의 공장 라인 도입을 위한 기반 환경을 조성하고 있다."
+  },
+  {
+    "company": "Groq",
+    "title": "그록, 6억5천만 달러 유치… 칩 버리고 ‘AI 추론 클라우드’로 - 와우테일",
+    "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE1ydEJadDc0VjJrdjJKc2hHWWxtdlVtWTFzbmlsNmpvdjJJMVZIeUY3bTAzeWRQRGJlYzA4ZGlmTDMzTVNsLUw4R0ZJMkZXS00?oc=5",
+    "published": "2026-06-24 03:06",
+    "timestamp": 1782237962,
+    "summary": "그록이 6억 5천만 달러의 투자를 유치했다. 기존 칩 중심 사업에서 AI 추론 클라우드 서비스로 사업 방향을 전환한다."
+  },
+  {
+    "company": "Microsoft",
+    "title": "MS·구글·엔비디아까지… 빅테크, CPU 개발 경쟁 - 조선일보",
+    "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNMkZyWE9zNjhrWjNqOUxBak5iN3h5VklkU0lnQ21UTTFGRDJKRnZhcTNNS1FINXVZRW90RUFXUm9GTE8wZUpaeFBOeml6M1Q3VTRsTkxaRU9yWWNrTkRzQ2N0ay1IQ0d2TUN1NDIxeW9fNnY0WS1aYmJJMjI4Um0wSGluNA?oc=5",
+    "published": "2026-06-24 00:34",
+    "timestamp": 1782228840,
+    "summary": "마이크로소프트, 구글, 엔비디아 등 주요 빅테크 기업들이 CPU 개발 경쟁을 벌이고 있다."
+  },
+  {
+    "company": "NVIDIA",
     "title": "펭귄 솔루션즈, 엔비디아 AI 팩토리 파트너 지위 획득 - Investing.com 한국어",
     "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE0ybVZRRUhYaUVSMGphdUJuV09GNlltU0ZFNUxIQXVEOUlkWEtNMWlFQVFFMngzSU1hVVExZkZQMGpabDZ5NlJhYTBsajJnVFowTGxweVNGa2ZQbFVIM1QzNF9GaEdjMm42NFI4WWxQR0w?oc=5",
     "published": "2026-06-24 00:22",
@@ -62,6 +126,14 @@
     "published": "2026-06-23 21:33",
     "timestamp": 1782218022,
     "summary": "구광모 회장이 이끄는 LG그룹이 엔비디아의 AI 생태계에 합류한다."
+  },
+  {
+    "company": "Siemens",
+    "title": "적응형 패키징을 위한 산업용 AI요 - Siemens",
+    "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNUkstV1lLamY2cW9ENWRENlU1S0RITWt1ZEdscGVZX1pNVXVvZWFKdmZCT01JcDZaVWduNWdkOHU2NGpJRC1Ca2JtQUxJTjYtcjg5dkpESUN4UlplSHl3RjdLc2dKTjNaaEE0a0hSc245bmFzSTBrZ2tzRTNuamJINnpkcXJyamxFNl9uQi1BNkNIVGF2SDJCaTFRbDhJREM3TGc?oc=5",
+    "published": "2026-06-23 21:14",
+    "timestamp": 1782216895,
+    "summary": "Siemens가 적응형 패키징을 위한 산업용 AI 기술을 발표했다."
   },
   {
     "company": "OpenAI",
@@ -496,20 +568,20 @@
     "summary": "AMD가 FSR 4.1 기술을 확대 적용하여 RX 7000 GPU의 성능을 향상시켰다."
   },
   {
+    "company": "Intel",
+    "title": "인텔, 휴대용 PC 게이밍의 새로운 기준 제시할 인텔 아크 G-시리즈 프로세서 발표 > 뉴스 - 브레인박스",
+    "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxPdUNDSEZYNFZLeHpaS3JkTFAzQTItRndleUppWHk4aHoydlFfQm51UTVnMUhDV2pZUjhFNllEcXRySEtJb0p3azdLQ01wY09xOEV3ZTNiVXp5Ti1aOXhiemluWEpJX1FqaExYWmVIR3R5a2dHRnBtS1ZHdHpTakVjbkJ4QWE3NDVTZE5SaWp5OG0zZjhiR1FobUN0U1d0c3Z2dEM1Q29NQm1ma2FUZGhQdG15TEVLblhoSDJqQ2ktMXJ6bl8yb3ljVnhnZw?oc=5",
+    "published": "2026-06-23 10:32",
+    "timestamp": 1782178349,
+    "summary": "인텔이 휴대용 PC 게이밍 시장을 겨냥한 새로운 아크 G-시리즈 프로세서를 발표했다."
+  },
+  {
     "company": "AMD",
     "title": "Steam Machine 2026 성능 리뷰: AMD Zen 4 프로세서로 1440p 해상도의 AAA 게임을 구동할 수 있을까? - Vietnam.vn",
     "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOUzZFN2JmQjI5QkxfRmxYcFh3Q0VaVTdfZlR2X3pnVVhYWjRCenl2OEkxQzlmSFJ4UzUwd0tBUTYzNEFkUXdZa2lrWDkzMUY2NGNNWlBocU9VYVdJdVVVRmFnTnZTLXpudXoxQVJ0TncwWGd2NFFydUVYV0xfTkV3ajN4VHNJMHV1SnJNQ09ySU5SYmpmRlFZbC1Zam50WmI3QXV6a3NKbkY3RG1VM1oyV3Ztbmo?oc=5",
     "published": "2026-06-23 10:26",
     "timestamp": 1782178003,
     "summary": "AMD Zen 4 프로세서를 탑재한 Steam Machine 2026의 1440p 해상도 AAA 게임 구동 성능을 리뷰했다."
-  },
-  {
-    "company": "Infineon",
-    "title": "인피니언, AWS 기반 클라우드 가상 플랫폼 출시로 자동차 MCU 평가 가속화 - 뉴스와이어",
-    "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE1yazBVN0laYWVwS2thWkNjT3FXMlZCZ2x6WHdEMkFFZm5scmw5bE4zemhOWHVBUXdySlF5Rk1IT3VGSTMyNkFwb3pWemJHd2pzUFhxZ2oxc0NzR2VJOExF?oc=5",
-    "published": "2026-06-23 10:24",
-    "timestamp": 1782177859,
-    "summary": "인피니언이 AWS 기반 클라우드 가상 플랫폼을 출시했습니다. 이를 통해 자동차 MCU 평가 시간을 단축합니다."
   },
   {
     "company": "Qorvo",
@@ -990,6 +1062,14 @@
     "published": "2026-06-22 15:51",
     "timestamp": 1782111079,
     "summary": "HD현대가 엔비디아의 '아이작 심' 플랫폼을 적용한 피지컬 AI 로봇을 개발한다."
+  },
+  {
+    "company": "리벨리온",
+    "title": "리벨리온, CCK솔루션과 맞손…국산 AI 풀스택 구축 나선다 - 블로터",
+    "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5LY283N3pvdldnLVlYNE5WbjNzZVdSUUN4X0JNYkJBcl8zdC12Y1dELWIzbk11cnFlQldnaEdtYVRkVElSVnYyZDZkVG1EbV9uY2w0dnk0Mko5RzN3OV9TUGlQd3V2TnB3cVVVcdIBbEFVX3lxTE5LY283N3pvdldnLVlYNE5WbjNzZVdSUUN4X0JNYkJBcl8zdC12Y1dELWIzbk11cnFlQldnaEdtYVRkVElSVnYyZDZkVG1EbV9uY2w0dnk0Mko5RzN3OV9TUGlQd3V2TnB3cVVVcQ?oc=5",
+    "published": "2026-06-22 15:51",
+    "timestamp": 1782111069,
+    "summary": "리벨리온이 CCK솔루션과 협력하여 국산 AI 풀스택 구축에 나선다."
   },
   {
     "company": "Tesla",
@@ -1678,14 +1758,6 @@
     "published": "2026-06-21 12:56",
     "timestamp": 1782014200,
     "summary": "구글에서 트랜스포머 기술을 담당했던 핵심 인재가 2년이 지나지 않아 오픈AI로 이직했다."
-  },
-  {
-    "company": "Intel",
-    "title": "인텔, 휴대용 PC 게이밍의 새로운 기준 제시할 인텔 아크 G-시리즈 프로세서 발표 > 뉴스 - 브레인박스",
-    "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNSkt1bzRDdE5MbXNxUGhCcUxLWjJkNmpWaEhWV3lfT3FVOXhuYlh3dnl4TUtEbEhYSV9xM0VFMy1qZU5SU2VURlNXUEFDXzFCaVh4REtCenRSU3dDdENaRVNTNEhIWE9vS2ZLWExtWHJlVDVBQVBacWFIaDNvX25sdGt5WTJDTmU2aHNpcDNCWjVwcjJGb2ZnUHBYY0l1WWgtZF9ubmVZdDJGeDZG?oc=5",
-    "published": "2026-06-21 12:54",
-    "timestamp": 1782014048,
-    "summary": "인텔이 휴대용 PC 게이밍의 새로운 기준을 제시할 아크 G-시리즈 프로세서를 발표했다."
   },
   {
     "company": "NVIDIA",
