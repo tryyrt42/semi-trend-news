@@ -1,11 +1,91 @@
 [
   {
+    "company": "NVIDIA",
+    "title": "펭귄 솔루션즈, 엔비디아 AI 팩토리 파트너 지위 획득 - Investing.com 한국어",
+    "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE0ybVZRRUhYaUVSMGphdUJuV09GNlltU0ZFNUxIQXVEOUlkWEtNMWlFQVFFMngzSU1hVVExZkZQMGpabDZ5NlJhYTBsajJnVFowTGxweVNGa2ZQbFVIM1QzNF9GaEdjMm42NFI4WWxQR0w?oc=5",
+    "published": "2026-06-24 00:22",
+    "timestamp": 1782228120,
+    "summary": "펭귄 솔루션즈가 엔비디아의 AI 팩토리 파트너 지위를 획득했다."
+  },
+  {
+    "company": "NVIDIA",
+    "title": "Nvidia, 생명 과학 연구용 AI 툴킷 출시 - Investing.com 한국어",
+    "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE14Q29LSzlicURNMDVneW5JdDVzSW1RQURPY1pOd2tBSlhFVE9xVDRYeVFiS0tacHRKcWx3S1dhcTV2bWFTWkdGWXdqVFZ2SDAzRFktc3Q5MWdielBqRnhMWVNfVFlfY3c2RHVmM2JGd2U?oc=5",
+    "published": "2026-06-23 22:26",
+    "timestamp": 1782221160,
+    "summary": "NVIDIA가 생명 과학 연구를 지원하는 AI 툴킷을 새롭게 출시했다."
+  },
+  {
+    "company": "NVIDIA",
+    "title": "Simulations Plus, Nvidia와 AI 신약 개발 플랫폼 구축 - Investing.com 한국어",
+    "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9aZ1VwdjhIeHdwS3hxeHFxc19EaW14VTQyUHQyYWdCUkR3TUlQQ3B6Tm9vZU9BbC01czJlTzV2R2hKYklKdHVObVBQdlM2bl9BWEQ1VnVfaUpWVEk0RDlSYWtDdXk2WVhHMHdlN3c5dHY?oc=5",
+    "published": "2026-06-23 22:24",
+    "timestamp": 1782221040,
+    "summary": "Simulations Plus가 NVIDIA와 협력하여 AI 기반의 신약 개발 플랫폼을 구축한다."
+  },
+  {
+    "company": "Intel",
+    "title": "Supermicro Broadens AI at the Edge Solutions Portfolio with Intel-Powered Platforms Optimized for Low-Latency Inference and Industrial Deployments - IT비즈뉴스",
+    "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9jaC05MEdzM0ZHV3ZYeVJIUGkxZWoyLW9iSV9STXh6VzVxemlQRjNleUFEcEVxWm9IWEtCUmJYLUJnQ1BVV0pzb0JBSjJLQ01CbHZfRy1rNGtDUlh0aTNTdm5lQmEyZEgwWmdscQ?oc=5",
+    "published": "2026-06-23 22:05",
+    "timestamp": 1782219900,
+    "summary": "Supermicro가 인텔 프로세서 기반의 플랫폼을 통해 엣지 AI 솔루션 포트폴리오를 확장했습니다. 해당 플랫폼은 저지연 추론 및 산업용 배포에 최적화되었습니다."
+  },
+  {
+    "company": "GlobalFoundries",
+    "title": "글로벌파운드리, RF 칩용 SLATE 본딩 기술 발표 - Investing.com 한국어",
+    "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTFAxbDRuY3M2SmxadHRXVXd5LU5Ud3QycGZLUFFFRUlfdEx5eldKVkJUdElJWnFYbFUxN3g1TXlRdWFQT3FtZkFVWWVrXzBVMjlRQm5mZGs1bHN4bVE2TEJkbXZoOVVaSzdTTjMzcEZPQmU?oc=5",
+    "published": "2026-06-23 22:00",
+    "timestamp": 1782219600,
+    "summary": "글로벌파운드리가 RF 칩 제조를 위한 SLATE 본딩 기술을 발표했다."
+  },
+  {
+    "company": "GlobalFoundries",
+    "title": "인포시스, GlobalFoundries와 관리형 서비스 계약 확장 - Investing.com 한국어",
+    "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5tUUR6WGkyeVZnc0NDLVQzM3lQdXVXRVBmM1cyWEdJczQ3b2lDX0R2d2pJTllfMC1sQldzbGpJRk5hZk5VOGJ1NlpuRzlmX29DeG9JU2dwT2RxNnZoZG9ib0lEZ0JJNnd1bGMwZlpHTHI?oc=5",
+    "published": "2026-06-23 21:49",
+    "timestamp": 1782218940,
+    "summary": "인포시스가 GlobalFoundries와 관리형 서비스 계약을 확장했다."
+  },
+  {
+    "company": "NVIDIA",
+    "title": "엔비디아, 데이터센터 IREN에 3.2조 원 투자…5GW AI 인프라 함께 깐다 - 지디넷코리아",
+    "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFB3aXpYQ1hlRXJYRlUzaDRUbm1qNElOUThSSG0yQ0xMUUVRaVN0ZlFRTzYwZXdwZ2NyY3BDdFVGekJJWDlyLUtocFNUd0JpRmprZUF3dlBR?oc=5",
+    "published": "2026-06-23 21:47",
+    "timestamp": 1782218836,
+    "summary": "엔비디아가 데이터센터 기업 IREN에 3.2조 원을 투자하여 5GW 규모의 AI 인프라를 공동 구축한다."
+  },
+  {
+    "company": "NVIDIA",
+    "title": "‘원LG’ 앞세운 구광모, 엔비디아 생태계에 올라탄다 - ntoday.co.kr",
+    "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE16ZTFLLW5zSnp3M3Z5a0h6NTB6VHE1QW1XU0NhcXJRa0diWkNoVTJXUjVnY2hJeEdLcHJ1ZHRRc2JIcW42M3MzUWdfbnc4eDhFeGg5UXRSQWpFckhFLXR3Y2hxbURjYVlLZG9Ob01fY9IBb0FVX3lxTE16ZTFLLW5zSnp3M3Z5a0h6NTB6VHE1QW1XU0NhcXJRa0diWkNoVTJXUjVnY2hJeEdLcHJ1ZHRRc2JIcW42M3MzUWdfbnc4eDhFeGg5UXRSQWpFckhFLXR3Y2hxbURjYVlLZG9Ob01fYw?oc=5",
+    "published": "2026-06-23 21:33",
+    "timestamp": 1782218022,
+    "summary": "구광모 회장이 이끄는 LG그룹이 엔비디아의 AI 생태계에 합류한다."
+  },
+  {
+    "company": "OpenAI",
+    "title": "오픈AI·앤트로픽 잇단 확장…영국 AI 산업 육성 속도전 [담 너머 AI시티] - citytimes.co.kr",
+    "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE9xbm44endRZHRXenI5QWdZak12TGhrUVhDODJzZFY3ZmVYaHg2ZllrRGN2dUVTaHRHZGNqMktxLUp1cWZ3eWs4eE9Rb2xBQllxYWZpbVB2Wm5SdzEzYnJxUHhkOGlUV0dyczRoOGVMd3FWd9IBckFVX3lxTE9xbm44endRZHRXenI5QWdZak12TGhrUVhDODJzZFY3ZmVYaHg2ZllrRGN2dUVTaHRHZGNqMktxLUp1cWZ3eWs4eE9Rb2xBQllxYWZpbVB2Wm5SdzEzYnJxUHhkOGlUV0dyczRoOGVMd3FWdw?oc=5",
+    "published": "2026-06-23 21:10",
+    "timestamp": 1782216607,
+    "summary": "오픈AI와 앤트로픽이 영국에서 사업 확장을 추진하며 영국 AI 산업 육성에 속도를 내고 있다."
+  },
+  {
     "company": "GCT Semiconductor",
     "title": "GCT 세미컨덕터, AI 인프라 연결성으로 전략 초점 전환 - Investing.com 한국어",
     "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5kZWFta2RvdU0xR1p5V0pNOTJPUnJ6R280QjJkNGtCcGFjZktVVTh6VWpJdml0R1NsVzlqTjhwOVowUzQyQnRoY203THZnWWJ0bGN4Unh2QjNrOU03WjZBRkw3ZzBvV05PTDNqdFVjQi0?oc=5",
     "published": "2026-06-23 20:21",
     "timestamp": 1782213660,
     "summary": "GCT 세미컨덕터가 AI 인프라 연결성 분야로 전략 초점을 전환한다."
+  },
+  {
+    "company": "Realtek",
+    "title": "ipTIME, 리얼텍 기반 공유기(Easy Mesh RT)의 Full Mesh 업그레이드 펌웨어 배포 > 뉴스 - 브레인박스",
+    "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQcmExOF9hUzVhdm9VdUN6ZktZRmNiMzEtQ0VRalBkV09hVTdqOWxwREE1a2tjbElVMTdoLU9hX2gxRDRSWV80VDVvcENxRDZ1S0pORXk0b1VKc0hCN0lEenp4c01TNFZ4V0l4SG8zQjZhNW1UTV9Sb2EtR2NLMG14S3RxZHVBR0ZtUUtheTM0RFY3emJYazBuaDdqV0p3MnFXVHc?oc=5",
+    "published": "2026-06-23 19:20",
+    "timestamp": 1782210005,
+    "summary": "ipTIME이 리얼텍 칩셋 기반 공유기인 Easy Mesh RT 모델을 대상으로 Full Mesh 기능을 지원하는 펌웨어 업그레이드를 배포했다."
   },
   {
     "company": "Apple",
@@ -70,6 +150,14 @@
     "published": "2026-06-23 17:20",
     "timestamp": 1782202821,
     "summary": "LG 경영진이 엔비디아와 AI 협력을 진행한다."
+  },
+  {
+    "company": "STMicroelectronics",
+    "title": "ST마이크로, 업계 최고 해상도 dToF 3D 라이다 VL53L9 신제품 출시 - 헬로티",
+    "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE9NeHIxTHJHNFMwd1VrLUtfQlFtRHNfUVdsUkpoX0txbUIwRlJxTHVzREt4eVBNTExLVk91QXJnNE1oN2tDRVJFZlluSnhWd2VXMnZidTZaRVYzWmVjVE1V?oc=5",
+    "published": "2026-06-23 17:16",
+    "timestamp": 1782202618,
+    "summary": "ST마이크로가 업계 최고 해상도를 갖춘 dToF 3D 라이다 신제품 VL53L9을 출시했다."
   },
   {
     "company": "NVIDIA",
@@ -248,6 +336,14 @@
     "summary": "테슬라가 전기차 수요 둔화에 대응하기 위한 방안으로 컨테이너 데이터센터 구축을 검토하고 있다."
   },
   {
+    "company": "NVIDIA",
+    "title": "엔비디아, 과학 연구 가속 AI 소프트웨어 공개...우주 관측 데이터 처리 최대 1만4900배 빨라져...현지시간 6월 22일 ISC 콘퍼런스서 '쿠다-X' 신규 라이브러리·서비스 발표, 화학·신소재부터 암흑물질 탐색까지 적용 - 한국정보기술진흥원",
+    "link": "https://news.google.com/rss/articles/CBMiQEFVX3lxTE5VTVlXRmtoV3NJakFxdGowdXg1TU9qU0w1RndLbS1ZWnAxSEtkQlhBQ1lwbnVUZUh6ZEQ0N3dQVW0?oc=5",
+    "published": "2026-06-23 14:20",
+    "timestamp": 1782192019,
+    "summary": "엔비디아가 과학 연구 가속을 위한 AI 소프트웨어와 쿠다-X 신규 라이브러리를 발표했다. 이를 통해 우주 관측 데이터 처리 속도가 최대 1만 4900배 향상된다."
+  },
+  {
     "company": "Microsoft",
     "title": "MS, 셰브론과 20년 전력 공급 계약 체결…천연가스로 AI 데이터센터 돌린다 - 디지털투데이",
     "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE5JSUc0RW9FQmEwS1hBM3IzdktPLTd0cXo0eWwzaWl6UG9reG82a29MYlZqbGtFeTRWb0dpYUU0MGg1a3Y2aVBoSWJXdWw2dW5xczR0OXZGdGhYMWlPZDNLbWZ6Y2VrYWNQT2MxcHJLQ3JNM1E?oc=5",
@@ -262,6 +358,14 @@
     "published": "2026-06-23 14:04",
     "timestamp": 1782191051,
     "summary": "구글과 미디어텍이 AI 동맹을 강화하며 TPU v9 협력을 확대한다."
+  },
+  {
+    "company": "NVIDIA",
+    "title": "파도로 전기 만든다...에코 웨이브 파워, NVIDIA AI 인프라·디지털 트윈 활용...기존 항만 구조물에 부유체 달아 발전, 로스앤젤레스선 'AI가 전력 맞춰 일감 배분'하는 데이터센터 시범 - 한국정보기술진흥원",
+    "link": "https://news.google.com/rss/articles/CBMiQEFVX3lxTE9wV3duOUZOU0JMUWlLOFFESTcwNUtja0FRQ3dfd2N0Ujd2b3oxdTRNQUtreVhpanc1aHFYNzEyRXI?oc=5",
+    "published": "2026-06-23 13:45",
+    "timestamp": 1782189932,
+    "summary": "에코 웨이브 파워가 NVIDIA의 AI 인프라와 디지털 트윈 기술을 활용해 파력 발전 및 데이터센터 전력 배분 시스템을 구축한다."
   },
   {
     "company": "Intel",
@@ -576,6 +680,14 @@
     "summary": "미국 정부의 지원을 받는 인텔이 삼성전자를 추격하고 있다. 인텔은 파운드리 등 반도체 사업 경쟁력을 강화하며 삼성의 턱밑까지 추격하는 양상이다."
   },
   {
+    "company": "Cerebras",
+    "title": "'엔비디아 대항마' 세레브라스의 첫 실적 발표 임박, 세계 최대 칩 성능 시험대에 오르다 - TradingKey",
+    "link": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxObUZTSlhIYk1rNDYybXBoSVBFT05YbXJXWTlhRTRsVkVTNWdFX0NyQ1NyOEs0cjZid0pBeXJUNXk4M3ZuT25VTGhyT2VKcFUzQ0xWTlpqYUZzSkVsMExQd0hQbTcya0dBQWxFRnVkQnJWcFFrLU9Qd3VVc3VVM0RVV2RrbnJfdjRJaXExbVJkSmNTd2JBdF82YmZDczVMSFFuOHRlZEJ4ZklvOS0ydTg3U3RiM05pRHR4NDgxQ2hrZ2RrclBsX08wTlVhcml6WHN2cExFNWpqaVZDVDkxZTNwUnlhOHlFRHdnblE?oc=5",
+    "published": "2026-06-23 06:30",
+    "timestamp": 1782163800,
+    "summary": "세레브라스가 상장 후 첫 실적 발표를 앞두고 있다. 세계 최대 칩의 성능이 시장의 시험대에 오를 예정이다."
+  },
+  {
     "company": "Tesla",
     "title": "\"애플·테슬라 영업기밀도 다 털렸다\"…해킹 사고 시인한 인도 반도체 핵심기업 - 네이트",
     "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxPc19pTWhzYXZJVzFlVDU1YjlFRDBFMjkyc3hpTjUyYXZLRTNkWkhVU1MwM04zcjhhTGp0emJ0TUhoQjlpc2owRXcwdF8yM3dreW5KXzMyZ1l3VVpzRmM0enFHZmVORUhjV0tFSnR3Y2hvZkp5SHlmLUw5UEk1YXZuOU93?oc=5",
@@ -854,14 +966,6 @@
     "published": "2026-06-22 16:36",
     "timestamp": 1782113792,
     "summary": "인텔이 유리기판 분야에 10년 앞선 R&D 투자를 진행한다. 첨단 패키징 기술과의 시너지를 목표로 한다."
-  },
-  {
-    "company": "Realtek",
-    "title": "ipTIME, 리얼텍 기반 공유기(Easy Mesh RT)의 Full Mesh 업그레이드 펌웨어 배포 > 뉴스 - 브레인박스",
-    "link": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxOT0l0RFRuMVN6Y3MyZmNGaGlDSC1uQThIUmR3dW84TW5RTWxraVN5RUp3QjNjNFZWMkVIazlBTWV1MUFXY3RBcFlZdjhKdFl3dlRMamhEcHNhdzJRV0tMeTRGSE1ZODJiU1R0cldkSXN2a3FfVFRBUVlzOTc0WWQxRVQ5cEZCenZBeUktREZRWG1QWEZ0Wk1mNmdNeWM5UlRXOXdadWhGYWRxQUM0TlBJWFptMW9BcjZHd19ZblRJMnU2b3B6Wjd6Z19lMEpPTUlTR3dNWExlWmtodmZkQzRJRHVGWnJlNjVvaGNQTjRYUGpyelE?oc=5",
-    "published": "2026-06-22 16:06",
-    "timestamp": 1782111967,
-    "summary": "ipTIME이 리얼텍 칩셋 기반 공유기인 Easy Mesh RT 모델을 대상으로 Full Mesh 기능을 지원하는 펌웨어 업그레이드를 배포했다."
   },
   {
     "company": "Intel",
