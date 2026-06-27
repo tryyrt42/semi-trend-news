@@ -1,5 +1,21 @@
 [
   {
+    "company": "Google",
+    "title": "[AI is]오픈 AI, 자체 AI 칩 ‘할라페뇨’로 구글·메타와 경쟁 - 블로터",
+    "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFBQUnRCcV92MXVNZk5zeFMxVXRZU3pZUUk0SmlmcnJKUEg2ZkJENGtobUpwRjBJR2xOcjNhb3BycDEydzRWWGgwWVAxaHMzdmM3OFppdEdEeERFazc3UjI1Sm5BaEJMeWFU0gFsQVVfeXFMTWtTbXU3YVpKUUpKbGFELVVsaWo2U1o5dUhURXExSmdwUUU5Z2g4M3ZueGFOeTQ2VDJuLWR3MDBOMzdSdUZiUEVDaVFDREw3WTNVcnBJeWlnR3AwWWNmTUc0ME4yY2ljNFV6NDZS?oc=5",
+    "published": "2026-06-28 08:00",
+    "timestamp": 1782601200,
+    "summary": "오픈AI가 자체 AI 칩인 '할라페뇨'를 개발하여 구글 및 메타와 경쟁 구도를 형성하고 있다."
+  },
+  {
+    "company": "NVIDIA",
+    "title": "Biofy, NVIDIA AI를 활용해 더 빠른 진단 지원 - NVIDIA",
+    "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE9XNEVNb2J0MWdNQXE3a1BIaVZPdVhCRUl5Ny1YblNuSU1ZX0tOc1FCTkhXRWY1dkZBaUhWYzR6VW8wUTlYM3NxUU9NTXh2QUJjcWw3UV81XzB5U2xZ?oc=5",
+    "published": "2026-06-28 07:45",
+    "timestamp": 1782600309,
+    "summary": "Biofy가 NVIDIA AI 기술을 활용하여 진단 속도 향상을 지원한다."
+  },
+  {
     "company": "Apple",
     "title": "\"다급한 애플, 미 블랙리스트 中 메모리 구입 로비\" - 파이낸셜뉴스",
     "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1NM2xsZWFsdlJxR09TcDAwSWdhOVAwcGkxLWY1dDlhRFI3QnA1cU5uZkY0b1pETlpUWGMzS1prOTJvSGpyWTNEcGc3MDh0alNyLXNhU0NyRXpnQQ?oc=5",
@@ -30,6 +46,14 @@
     "published": "2026-06-27 22:01",
     "timestamp": 1782565286,
     "summary": "엔비디아의 서버 업체인 위윈이 AI 병목 현상이 메모리를 넘어 전 부품으로 확산되고 있다고 언급했습니다."
+  },
+  {
+    "company": "Intel",
+    "title": "인텔 \"노바 레이크-S\" 52코어 오버클럭 SKU는 PL2 모드에서 474W의 전력 소모 > 뉴스/신제품 - 쿨엔조이",
+    "link": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE03NkI2N1RjQzQ4OUpRVFQzTXBLWnhleEVYM1VXMlFZdnRzZWhlb2hNb2VuYWhfR0p3ZllEdVBqSVdSZl9KLVBKZ2hvdEE?oc=5",
+    "published": "2026-06-27 21:35",
+    "timestamp": 1782563745,
+    "summary": "인텔의 노바 레이크-S 52코어 오버클럭 SKU가 PL2 모드에서 474W의 전력을 소모한다."
   },
   {
     "company": "Cerebras",
@@ -674,9 +698,9 @@
   {
     "company": "Intel",
     "title": "인텔(INTC), 콘트론과 손잡고 팬서레이크로 산업용 엣지 AI 공략 확대 - simplywall.st",
-    "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxOUzcwMmVUNlJzUWZoSTNLMVBabDRJLV9XUDg4ZVlQTUZsaWYwRE5uaDdPaUs5Z1dSOW1UaGhSSUMxR0Z1SzhtQk45c0I2akdmUm5KTlJHUC1VdTE0d2JXbHVfbnpOSVVFY20wZ2J6dXI5ODhmVGZxRVdFMWVOV1YtWmd2YUZ6d0ZJaGJlYWNHckYyT0HSAZgBQVVfeXFMTWo4XzZuQy1USzZoaTByd2tjSmRrVEpyZUlXdmtuVzRuZHBSNElKdldBbVlHSkFxa2dfM3hIY1JPSFhlWG1Dam9UU1pTeHYzZlJDSFY2ZnRCNU5nai1IZ1pUa3UtMGZTMGVqamlmVWw5NURZYkFRNUlDY3F2TEkzellZSDVSZ2V5RTZHZjZhVG95RGtVczBUdlo?oc=5",
+    "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNajhfNm5DLVRLNmhpMHJ3a2NKZGtUSnJlSVd2a25XNG5kcFI0SUp2V0FtWUdKQXFrZ18zeEhjUk9IWGVYbUNqb1RTWlN4djNmUkNIVjZmdEI1TmdqLUhnWlRrdS0wZlMwZWpqaWZVbDk1RFliQVE1SUNjcXZMSTN6WVlINVJnZXlFNkdmNmFUb3lEa1VzMFR2WtIBmAFBVV95cUxNajhfNm5DLVRLNmhpMHJ3a2NKZGtUSnJlSVd2a25XNG5kcFI0SUp2V0FtWUdKQXFrZ18zeEhjUk9IWGVYbUNqb1RTWlN4djNmUkNIVjZmdEI1TmdqLUhnWlRrdS0wZlMwZWpqaWZVbDk1RFliQVE1SUNjcXZMSTN6WVlINVJnZXlFNkdmNmFUb3lEa1VzMFR2Wg?oc=5",
     "published": "2026-06-26 14:55",
-    "timestamp": 1782453329,
+    "timestamp": 1782453333,
     "summary": "인텔이 콘트론과 협력하여 팬서레이크 기반의 산업용 엣지 AI 시장 공략을 확대한다."
   },
   {
@@ -710,6 +734,14 @@
     "published": "2026-06-26 14:28",
     "timestamp": 1782451727,
     "summary": "애플이 칩플레이션의 영향으로 인해 제품 가격을 기습적으로 인상했다."
+  },
+  {
+    "company": "Apple",
+    "title": "[뉴욕 돋보기] 애플·MS도 못 버텼다…AI 메모리 품귀에 가격 인상 - DealSite경제TV",
+    "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9weVJmRnZJd05tUzVhbEhPQ3hlaF96Q0E5MWxBTWp2d0ViRG9ZZ3BWQ2kwaXV6ZGY5RHA5X1Rjek1CelF2TWh3ZnFRbGUybWJ5X18ySVNB?oc=5",
+    "published": "2026-06-26 14:20",
+    "timestamp": 1782451205,
+    "summary": "AI 메모리 품귀 현상으로 인해 메모리 가격이 인상되면서 애플과 마이크로소프트가 비용 부담을 겪고 있다."
   },
   {
     "company": "OpenAI",
@@ -769,11 +801,11 @@
   },
   {
     "company": "Tesla",
-    "title": "가온전선, 美전기차 공급망 첫 진입...'테슬라 데이터센터'로 추정 - 파이낸셜뉴스",
-    "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1lcmYtcTlSWW9teVFYOUVnMVBBYzVjMWd6WndDaFEyNWxoR1RGNGNDNmk2YkZ0cXVaZlNIb3lkRHpLWW9xVWJ0cmFicXg4TkRuZW5BWWo0Nzludw?oc=5",
-    "published": "2026-06-26 12:34",
-    "timestamp": 1782444844,
-    "summary": "가온전선이 미국 전기차 공급망에 처음으로 진입했다. 해당 공급망은 테슬라의 데이터센터인 것으로 추정된다."
+    "title": "가온전선, 美전기차 공급망 첫 진입...'테슬라 데이터센터'로 추정 - v.daum.net",
+    "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFBfU2RReWhxamFFYld5bzRnUzBQYWluRFFZLWZCbEp5eTRIWkRXV1Q2OUdoUHdQNlFjVG5FLUdqYUIzSUxHV0lXanJ3WDVlUXM?oc=5",
+    "published": "2026-06-26 12:35",
+    "timestamp": 1782444900,
+    "summary": "가온전선이 미국 전기차 공급망에 처음으로 진입했다. 해당 공급망은 테슬라의 데이터센터와 관련된 것으로 추정된다."
   },
   {
     "company": "Intel",
@@ -20750,45 +20782,5 @@
     "published": "2026-05-29 08:56",
     "timestamp": 1780012615,
     "summary": "삼성과 SK가 OpenAI의 대항마로 꼽히는 앤트로픽에 투자 참여한다."
-  },
-  {
-    "company": "칩스앤미디어",
-    "title": "지엘리서치 \"칩스앤미디어, 피지컬 AI 수혜 본격화…NPU로 성장동력 강화\" - 이투데이",
-    "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFBfRERDcVlHYmN3TlJVT3lqelZTczBFVXRNSVVWUnpfclJjSmlzMzhFU091eUpubG1uWjlVd0RpdGV0LUVJbF9ZbGFXSFVNZmU5dVA0cQ?oc=5",
-    "published": "2026-05-29 08:07",
-    "timestamp": 1780009620,
-    "summary": "칩스앤미디어는 피지컬 AI 수혜가 본격화되며 NPU로 성장 동력을 강화한다."
-  },
-  {
-    "company": "칩스앤미디어",
-    "title": "칩스앤미디어, '피지컬 AI 시대' 영상 데이터 처리 수요 급증-IBK - 마켓인",
-    "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE9MVTVmRXpac0NRbWFfbktZSVYzaTdCbXA5dHdCYTY2MHBRSlFUSDZaT0FFVDcxMjd5d2JsSktldUVnbW16TG9JWlhnWjVBQ0NkMEFoaVJacjlzaGF4eGwyLTB5S3FGb0ZwTmZUNXRtLURoTVk?oc=5",
-    "published": "2026-05-29 08:01",
-    "timestamp": 1780009262,
-    "summary": "칩스앤미디어는 피지컬 AI 시대 영상 데이터 처리 수요 급증으로 주목받고 있다."
-  },
-  {
-    "company": "Synopsys",
-    "title": "시높시스(SNPS.N) 반도체 IP 부문 순차적 실적 개선 기대 - 알파경제",
-    "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE1lRmZsTGRITEJVbG4wSUd2U2lURWdJZk45SVZfdVVFdUJRWk1saE9iQzVuT3poRXJBNUsyRmRpS2prN1lqZlhKME9QMHJCaldLeTBqRE95OUtzUmdXSUHSAW5BVV95cUxPTVFvS0k1WUo4dDhQOGNONmRNNFA4cGdiZk9sYVR6U05pV2Y2NGlLbG1iRC1EbENadHoyRXcxTi1Cc3VMOFk1REJVaFE1ZDFKSXRTaFl4TVJMWnU5MU1sMVlIOXMxZXQ3S3kxV0tkdw?oc=5",
-    "published": "2026-05-29 08:00",
-    "timestamp": 1780009220,
-    "summary": "Synopsys의 반도체 IP 부문에서 순차적인 실적 개선이 기대됩니다."
-  },
-  {
-    "company": "퓨리오사AI",
-    "title": "퓨리오사AI, 국민성장펀드 최종 발탁 - 디일렉",
-    "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE5yYzlmMFdUZF8zT0xpbGtnVHppSW1KbTZyaFY4UEJrVHZGY2JlWGJMXzJ6ZnEyU1JHZ1dEUHNhN0pmY3gtZkJjeEF3bElRT19aX1RJOEsyNWJIWmN1anpoSno1TU1MZw?oc=5",
-    "published": "2026-05-29 07:55",
-    "timestamp": 1780008926,
-    "summary": "퓨리오사AI가 국민성장펀드에 최종 발탁되었다."
-  },
-  {
-    "company": "파두",
-    "title": "파두, 465억원 규모 eSSD 컨트롤러 공급 계약 체결 - 디일렉",
-    "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE43RGZOWkRsemptMmxPcHBjSngzNzVERUlpMDVBNVFudTE0UnR4Nk5hZm1QVGJHS0lHc2xJcm9nUGRrVnF0d2pSbGtaSXVNaEluV19HQTZHV050VzFuVUxGVnVvNDg5QQ?oc=5",
-    "published": "2026-05-29 07:49",
-    "timestamp": 1780008543,
-    "summary": "파두는 465억원 규모의 eSSD 컨트롤러 공급 계약을 체결했습니다."
   }
 ]
