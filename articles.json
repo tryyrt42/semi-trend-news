@@ -1,5 +1,21 @@
 [
   {
+    "company": "Apple",
+    "title": "\"다급한 애플, 미 블랙리스트 中 메모리 구입 로비\" - 파이낸셜뉴스",
+    "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1NM2xsZWFsdlJxR09TcDAwSWdhOVAwcGkxLWY1dDlhRFI3QnA1cU5uZkY0b1pETlpUWGMzS1prOTJvSGpyWTNEcGc3MDh0alNyLXNhU0NyRXpnQQ?oc=5",
+    "published": "2026-06-28 05:37",
+    "timestamp": 1782592650,
+    "summary": "애플이 미국 정부의 블랙리스트에 오른 중국 메모리 반도체 기업의 제품을 구매하기 위해 로비를 벌이고 있다."
+  },
+  {
+    "company": "Google",
+    "title": "엔비디아 대항마는 구글…자체개발 AI칩 TPU '비밀병기' - 하이테크정보",
+    "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTFB1eVBtay1xcF9ubTZBcEpXRG9NWExYVjA1cHprNnc1VGE2WkNCYVFmOU1XM2FJN1NOSkpGLWhTYlZVblBhM1NhRllFcVFOR09fMGRKR2RhRHIxRjg3ZUZhTkUzSjhubTlEeEpmStIBbEFVX3lxTFB1eVBtay1xcF9ubTZBcEpXRG9NWExYVjA1cHprNnc1VGE2WkNCYVFmOU1XM2FJN1NOSkpGLWhTYlZVblBhM1NhRllFcVFOR09fMGRKR2RhRHIxRjg3ZUZhTkUzSjhubTlEeEpmSg?oc=5",
+    "published": "2026-06-28 03:49",
+    "timestamp": 1782586145,
+    "summary": "구글이 자체 개발한 AI 칩인 TPU를 엔비디아의 대항마로 내세우며 기술 경쟁을 벌이고 있다."
+  },
+  {
     "company": "AMD",
     "title": "AMD, ‘AI 플랫폼 생태계 강화’ 위해 대만에 100억 달러 투입 - 아세안익스프레스",
     "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE5SY0UyNG5kako0QzE0N2hWYzN2TWhJenhIUXZsa0pnX3pBSUpFdS1HS3NHUmJHbndSYnpVQ2RXbUdFVmNzRU5HR1RJcEl1SHFULVVsaUpOSmR1cGd1Q1pJR29WX2FLUW9N?oc=5",
@@ -798,6 +814,14 @@
     "published": "2026-06-26 11:57",
     "timestamp": 1782442625,
     "summary": "서울대학교에서 NVIDIA Digital Biology 연구팀 조예린 박사를 초청하여 세미나를 개최한다. 7월 8일 수요일에 진행되는 행사이다."
+  },
+  {
+    "company": "Apple",
+    "title": "애플·마이크로소프트, 칩값 전가…아시아 기술주 하락 - BeInCrypto",
+    "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE9HMGxJaXVyQVMyU2dsYU1nLUxhbEZDaU1wRUFuM05zcTZtbHdqVFlqd3VLZG55dDlhVHdjTGxaZnhKWHJ2NnBHWFg2UUNraFJ1MDExMTh4U1kxblhKZVREQ0xCVHMxMUtScEJ4VENVdklSek82REE?oc=5",
+    "published": "2026-06-26 11:56",
+    "timestamp": 1782442614,
+    "summary": "애플과 마이크로소프트가 칩 가격 상승분을 전가하면서 아시아 기술주가 하락세를 보이고 있다."
   },
   {
     "company": "Qualcomm",
@@ -20766,21 +20790,5 @@
     "published": "2026-05-29 07:49",
     "timestamp": 1780008543,
     "summary": "파두는 465억원 규모의 eSSD 컨트롤러 공급 계약을 체결했습니다."
-  },
-  {
-    "company": "Groq",
-    "title": "Groq, 기존 투자자로부터 최대 6억 5천만 달러 조달 (로이터) - Investing.com 한국어",
-    "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE1Qd053dVhpYVRUX0UtNkVVRHpjcEhpb0tyNkpHTndQNFRMa2JGUFJ1LTlyMHVLS2NzWDBBR2hRdkhiWlJLWWFVSGg2Um9ENl9RWWx1YnVHQ1l4M0hKN3ZxR0l2WFRYLTZrUDdNaWtLbURsbHQ1b3hB?oc=5",
-    "published": "2026-05-29 05:42",
-    "timestamp": 1780000920,
-    "summary": "Groq가 기존 투자자로부터 최대 6억 5천만 달러를 조달할 예정입니다."
-  },
-  {
-    "company": "MediaTek",
-    "title": "새로운 Xiaomi 17T Pro는 7,000mAh 배터리와 MediaTek Dimensity 9500 프로세서를 시장에 출시합니다. - Mix Vale",
-    "link": "https://news.google.com/rss/articles/CBMi1wJBVV95cUxOeFdUNUhZSC1sREQwcGdmdDlQSmFWZmdUaWtiUi1hc3RxRE10aExrR0ZYUVkwR1JsaXltTThSZHZReEhlekF3bURUeHZ1aHlWUWhGV1J2ZG5yQk5aR2pTT0RlSFA2SzdOTEtkNnpILURIOG1ldUdXdkhHMkZQM3lYUlRWaHFzOGJHUG5aVHdJaGkwdkZXTThELXhyNURPNWk3dDV0dExpMF8tTE9Vcm15bWJkbXUzdVRHNWNSUWJmejJIZWxjaklxRGZmdW5Ya09BTzQ1Zmh5R19hbEZONTc3ME44SE5tTDZnUjA5amdkNHNncFE2blhaQl81Ump6OV8wdGhLVWczbDYyQTVva0VIenRzd2pzY3N6dWxCSU5PWkpHTzZkdUtpcGVEY3hvdkl4RUFvc2cxd2VtdHJnMm15dFgzNzB5RTlJdEpHTWc2anZ1QXk2MHNN0gHcAkFVX3lxTFBSeHdHZ1MyTzFEZ3p0UTZubmdNVTJRWjV1cjAzQ3o4R0R0cnBMdHFnTGpSdi14N1gzMUlldnVqREFwU3A1WVVjSTY5Q1JmTzFFcVB3blJCQnU5ZnZPRUxtZFNRcE1tZnlOQ0QtVVRjcDNzbXpNazJIbmdwcmdPY2tEeDNSUWVQYmlfYnlKcTFqZmN0TFl3T2RkSFBUR3MzT2laN3pvY045ZGx5bUVFYm5CeGVnUUhVVGJ6WlJBMXF6RDNwdW1HNWxlSnZFdG1ZamFUendyUDE5YkNPa2hoOHcxUXF3eWhoUGowdFd4UHQ3aDViUXZTWVprQmM5SFdGVFRtX19UaTBNR19NN09Vd19IMFQxalRWNF9uVjFRTi13LW16MXJTQXZJNDVoV3hZLWNEbk1iWVE0TzAtZ1lMRGxDS2tXRVZKUm9WMDJSMWVPeVI5TWdYR1Z1T2hVNw?oc=5",
-    "published": "2026-05-29 04:48",
-    "timestamp": 1779997696,
-    "summary": "새로운 Xiaomi 17T Pro가 7,000mAh 배터리와 미디어텍 디멘시티 9500 프로세서를 탑재하여 출시됩니다."
   }
 ]
