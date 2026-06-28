@@ -1,5 +1,53 @@
 [
   {
+    "company": "Google",
+    "title": "구글도 컴퓨팅 용량 부족…메타에 제미나이 사용 제한 - 네이트",
+    "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE03Y3lSYXhUakhzM1BmekZ2Y3NDc0NPRDBFOHVxRnh2a3FoWjFIeFVvLU15M2w0Tms1cWRQdkZsN2hQTVJ2LTgyREZVSzVUSmsteHA4?oc=5",
+    "published": "2026-06-28 20:15",
+    "timestamp": 1782645300,
+    "summary": "구글이 컴퓨팅 용량 부족 문제로 인해 메타에 대한 제미나이 사용을 제한했다."
+  },
+  {
+    "company": "Qualcomm",
+    "title": "어드밴텍, 퀄컴 드래곤윙 IQ9 기반 ‘산업용 비전 AI 솔루션’ 공개 - 로봇신문",
+    "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE81OXRSQnRZbkQzbHhNaHlxM3RmOExaME9LZjR3ZklFQzVpd0pTb2ZXOWtUdG80cWp2TnhwUldrQ3dfZGF5d2U3T3lwNmFiTnNCaDJLRElsVk9JNklFcTduR3JiZDUwcjlNc1lwXw?oc=5",
+    "published": "2026-06-28 20:00",
+    "timestamp": 1782644459,
+    "summary": "어드밴텍이 퀄컴의 드래곤윙 IQ9을 기반으로 한 산업용 비전 AI 솔루션을 공개했다."
+  },
+  {
+    "company": "NVIDIA",
+    "title": "이원택, 엔비디아 젠슨 황에 친서…\"새만금 '글로벌 AI 밸리' 논의하자\" - 더팩트",
+    "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1LdG1VdjFQNy1EeGNBWUFVZFlldUpETjJtQVZVeElhSEpPUk5lem94X0JTODdmRDlrd0JjazZCTzRxVjNQdTZ6ckhDWmZXeVkwT1d3OUhB0gFWQVVfeXFMTUt0bVV2MVA3LUR4Y0FZQVVkWWV1SkROMm1BVlV4SWFISk9STmV6b3hfQlM4N2ZEOWt3QmNrNkJPNHFWM1B1NnpySENaZld5WTBPV3c5SEE?oc=5",
+    "published": "2026-06-28 19:17",
+    "timestamp": 1782641820,
+    "summary": "이원택 의원이 엔비디아 젠슨 황 CEO에게 새만금 '글로벌 AI 밸리' 조성을 논의하자는 내용의 친서를 전달했다."
+  },
+  {
+    "company": "딥엑스",
+    "title": "딥엑스·리벨리온, 엔비디아 맞서 AI 반도체 '생태계 전쟁' 나선다 - ER 이코노믹리뷰",
+    "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBrZjBVakExbEVveFhHOU03SFRsb08tTkRNdWg1WkwybGJ5NUN0NjVzZGtMZVl4WEswSmN0d2RPQlprQTNOU1hNcGhwYzBKR05JTkpTTDZtblZJQ1VadXdES24xRVdsN0FLbUE3Qw?oc=5",
+    "published": "2026-06-28 18:57",
+    "timestamp": 1782640620,
+    "summary": "딥엑스와 리벨리온이 엔비디아에 맞서 AI 반도체 생태계 경쟁에 나선다."
+  },
+  {
+    "company": "TSMC",
+    "title": "‘이직률 3.5%’ TSMC 비결은 RSU…“지방인재에 과감한 혜택 줘야” - 서울경제",
+    "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFB3MnNESXJtbjk2aFdKSHBteWp2X3pvQk1xd0p5RVI2ZlBmTjZQekE3T0R0TXowQ3hGWVhKVUNFUDRiZXRuNmVHcUx0c1ZncmkwNWpV0gFTQVVfeXFMUHcyc0RJcm1uOTZoV0pIcG15anZfem9CTXF3SnlFUjZmUGZONlB6QTdPRHRNejBDeEZZWEpVQ0VQNGJldG42ZUdxTHRzVmdyaTA1alU?oc=5",
+    "published": "2026-06-28 18:53",
+    "timestamp": 1782640395,
+    "summary": "TSMC는 낮은 이직률의 비결로 RSU(양도제한조건부주식) 제도를 활용하고 있다. 지방 인재 확보를 위해 과감한 혜택을 제공하는 전략을 취하고 있다."
+  },
+  {
+    "company": "Marvell",
+    "title": "[숏폼뉴스] 마벨 테크놀로지(Marvell Technology)와 인피(Inphi) 인수 - 기호일보",
+    "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE0xVjhOekowbnFHWldZeVFjaEdEUmlZUkRHLV8yNDYtVEt6ZHR2M0U4ZnQ5aEN5UldoN0xLUFBMUUNBQXhGUks3YkQ4cFlhaC1PVnE0UV9hWVJ5RWRSYkx0YnI5UVJvNHZmOFhZSG9VSQ?oc=5",
+    "published": "2026-06-28 18:12",
+    "timestamp": 1782637966,
+    "summary": "마벨 테크놀로지가 인피를 인수했다. 해당 기업 간의 인수합병 소식을 다루고 있다."
+  },
+  {
     "company": "Apple",
     "title": "메모리 대란은 자업자득···마이크론도 폭발한 애플의 빅테크 갑질 - 아주경제",
     "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE53bXF4eXJMS29Hci1sRVBIbjVHMlcxUU83WVRDUVp2U04xWkUwUU9TSlVLQ0VrUWJJSVFDVUNqYllGODFVb1dXeHN1N2RXV0JOeVpZZE5nbzVQZ9IBWEFVX3lxTE1QeTFydi1sYnpwY3YtSDBkVE9mWGJYd3JjT2JCbEEyY1JXdV9hREJha3FxTE40Tk93U2hIc0x5TUl2cEp1Ynp2RDY5RDU5YzNfWHloYnBVcnQ?oc=5",
@@ -86,6 +134,14 @@
     "published": "2026-06-28 14:53",
     "timestamp": 1782626005,
     "summary": "애플이 메모리 대란의 해결책으로 중국산 메모리 도입을 검토하고 있다."
+  },
+  {
+    "company": "Google",
+    "title": "엔비디아 대항마는 구글…자체개발 AI칩 TPU '비밀병기' - 글로벌 비즈 뉴스",
+    "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE4zcnJKdEZhVEhENElrT25FOTA3eGU1T2FNNVRPbTJkajU4ZXNMNzRKWTJjd0Q1dTc5b2lobTFPQlEtVkE0c3lSX1pfNmh6bjJtQ2RnMWRKaW1LS0NhdTNmTnFyLU9wNUt40gFoQVVfeXFMTjNyckp0RmFUSEQ0SWtPbkU5MDd4ZTVPYU01VE9tMmRqNThlc0w3NEpZMmN3RDV1NzlvaWhtMU9CUS1WQTRzeVJfWl82aHpuMm1DZGcxZEppbUtLQ2F1M2ZOcXItT3A1S3g?oc=5",
+    "published": "2026-06-28 14:31",
+    "timestamp": 1782624677,
+    "summary": "구글이 자체 개발한 AI 칩인 TPU를 앞세워 엔비디아의 대항마로 부상하고 있다."
   },
   {
     "company": "Qualcomm",
@@ -318,14 +374,6 @@
     "published": "2026-06-28 04:00",
     "timestamp": 1782586856,
     "summary": "HBM 공급을 통한 엔비디아와의 협력 관계와 K-NPU를 통한 의존도 탈피 가능성을 다루고 있다."
-  },
-  {
-    "company": "Google",
-    "title": "엔비디아 대항마는 구글…자체개발 AI칩 TPU '비밀병기' - 하이테크정보",
-    "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTFB1eVBtay1xcF9ubTZBcEpXRG9NWExYVjA1cHprNnc1VGE2WkNCYVFmOU1XM2FJN1NOSkpGLWhTYlZVblBhM1NhRllFcVFOR09fMGRKR2RhRHIxRjg3ZUZhTkUzSjhubTlEeEpmStIBbEFVX3lxTFB1eVBtay1xcF9ubTZBcEpXRG9NWExYVjA1cHprNnc1VGE2WkNCYVFmOU1XM2FJN1NOSkpGLWhTYlZVblBhM1NhRllFcVFOR09fMGRKR2RhRHIxRjg3ZUZhTkUzSjhubTlEeEpmSg?oc=5",
-    "published": "2026-06-28 03:49",
-    "timestamp": 1782586145,
-    "summary": "구글이 자체 개발한 AI 칩인 TPU를 엔비디아의 대항마로 내세우며 기술 경쟁을 벌이고 있다."
   },
   {
     "company": "AMD",
@@ -20790,29 +20838,5 @@
     "published": "2026-05-30 00:14",
     "timestamp": 1780067656,
     "summary": "브로드컴은 Wi-Fi 8, 50G PON, AI 협업을 통해 투자 스토리를 확장합니다."
-  },
-  {
-    "company": "보스반도체",
-    "title": "보스반도체, 인텔·삼성 파운드리 출신 홍하오 전략고문 선임 - 머니투데이 - 머니투데이",
-    "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBKRVljMEw4NWRTODZ1Ujc2SEpIUXF5cFNwZUtPT3g3UmFSckRWVDN5ZmhKUEFQMzZNcm1wdURPZXVQSjlmT3RWSzRhdTNYOC1IdVdDcEd2bC1SMTFUU1E4UDdnVEtpZTU4NGfSAW9BVV95cUxPMHlrc0o0RHNSbnpJLUl1LTRvRzg3RVFyRVpvc3BXTnJGSjhsdzRweTNTeGx5TG5kbFIxdjMzS1JUa29JTlFsRHk2QnBON28xb2xEb3FaQll1cTgxMl9xMlk2eEgxUkJMeXZoUEFrUDA?oc=5",
-    "published": "2026-05-29 20:02",
-    "timestamp": 1780052520,
-    "summary": "보스반도체가 인텔·삼성 파운드리 출신 홍하오 전략고문을 선임했습니다."
-  },
-  {
-    "company": "Microchip",
-    "title": "마이크로칩, AI데이터센터 SST용 3.3kV SiC 모듈 공급 - 디일렉",
-    "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFBBMFNncVZoU1V2OE5qSUpralNwX09KMkxTRmlKaW1hZUROaHZabko5MUNLdmJlaWgxNElPZERMeEJVWk1ETFIyQ2xUSFNUNFNEa0ZhMUFwaVJxQTJfOU9GZElqYmk2dw?oc=5",
-    "published": "2026-05-29 19:14",
-    "timestamp": 1780049679,
-    "summary": "마이크로칩이 AI 데이터센터용 SST에 3.3kV SiC 모듈을 공급한다."
-  },
-  {
-    "company": "리벨리온",
-    "title": "[단독] 국민성장펀드 첫 직접 지분투자, 비상장 ‘리벨리온’ 낙점 - 쿠키뉴스",
-    "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTFBjLUxVd3M4Vm93MXZKcng3S0R3Nk9zcTBsUmxTMnhaLS1Wd3dQOU1HSXdFckc4aEl6bm9aR2Jac1Z4Ti1IN2dHb3VSd3BRaW1tYmowckJ4cmd4OUQtV3NwNHprZw?oc=5",
-    "published": "2026-05-29 19:04",
-    "timestamp": 1780049082,
-    "summary": "국민성장펀드가 비상장 기업 리벨리온에 첫 직접 지분 투자를 결정했다."
   }
 ]
