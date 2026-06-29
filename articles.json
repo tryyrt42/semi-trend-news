@@ -1,5 +1,45 @@
 [
   {
+    "company": "Apple",
+    "title": "\"메모리 탓?\" 애플 가격 인상 논란…램크루지·中 메모리 로비 역풍 - v.daum.net",
+    "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE1PZlJlS0xiTWlodzM0SEJlVnlPM0lUcEdQMHNCbjZ5OU5Zbk40dVE2TXBPcWQyLXRCeW9jU3ZhMDZmbkhHTHhMQzhKZUFUb28?oc=5",
+    "published": "2026-06-30 06:15",
+    "timestamp": 1782767701,
+    "summary": "애플이 메모리 가격 인상 논란에 휩싸였다. 램크루지라는 비판과 함께 중국 메모리 업계 로비에 따른 역풍이 제기되고 있다."
+  },
+  {
+    "company": "리벨리온",
+    "title": "[인터뷰] 박성현 리벨리온 대표 \"글로벌 추론 시장 겨냥, AI 반도체로 'K엔비디아' 도전\" - 네이트",
+    "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE1HZDU5WnBabVlsOTVFN2tqQk8xa2xiV2kxdW9EUkRzLUt0WlNKazBGTjhzZnFnandNX2Zma0dYdHhTUVgwbEZweks4eTE0NjZTU1RR?oc=5",
+    "published": "2026-06-30 06:01",
+    "timestamp": 1782766860,
+    "summary": "박성현 리벨리온 대표가 인터뷰를 통해 글로벌 추론 시장을 겨냥한 AI 반도체로 'K엔비디아'에 도전하겠다는 포부를 밝혔다."
+  },
+  {
+    "company": "Amazon",
+    "title": "앤트로픽, ‘미토스 차단’ 부른 아마존에 AI 사용요금 인상…관계 멀어지나 - v.daum.net",
+    "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE1qQzRGZUUwaElMaGgzNHBoeEUxLXJjLUxxc3o4Q0tHRUdvSzM1Vkd1X2ZSZjJGRjFYbjdvQTNUUE04TDRueDZFVmcycE03RFE?oc=5",
+    "published": "2026-06-30 06:00",
+    "timestamp": 1782766808,
+    "summary": "앤트로픽이 아마존의 AI 사용 요금을 인상했다. 이로 인해 양사 간의 협력 관계 변화 가능성이 제기되고 있다."
+  },
+  {
+    "company": "NVIDIA",
+    "title": "통신 3사의 `AI-RAN` 뭐길래…기지국 노리는 엔비디아 셈법 [IT백과] - 디지털데일리",
+    "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE91c1hJTjZudUtNZWhjNXBWQjJscGhVYTVWOVBHT1ZiMEpzbVZtNE9UUlp5UDZUZ2NuOHdhaFkwelZ4c192LWsydHlxSmVpeVNnZVlPTDVqdjhIRHJFbExacjF4NGI?oc=5",
+    "published": "2026-06-30 06:00",
+    "timestamp": 1782766800,
+    "summary": "통신 3사의 AI-RAN 기술 도입과 관련하여 기지국 시장을 공략하는 엔비디아의 전략을 분석한다."
+  },
+  {
+    "company": "NVIDIA",
+    "title": "앤트로픽-엔비디아-MS 삼각동맹 결실…애저클라우드 내 클로드 구동 - v.daum.net",
+    "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE5jRFAyVWZtR2RhTmxndDd0a0lGdlFnR3pVT1BST01BNEt1Wi1ucnZ1RVpGTkVwMmFVcU8tY1NMZ2o1empKYXdiU2M3bWptWm8?oc=5",
+    "published": "2026-06-30 05:42",
+    "timestamp": 1782765721,
+    "summary": "앤트로픽, 엔비디아, MS가 협력하여 애저 클라우드 내에서 클로드 모델을 구동한다."
+  },
+  {
     "company": "NVIDIA",
     "title": "Anthropic, 엔비디아 GB300 GPU 탑재 마이크로소프트 Azure에 Claude 모델 출시 - Investing.com 한국어",
     "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTFB4eXM1N2tHd0EyQm9GRmFvUzhwTjNQTGc2a0ozMFpLRHdteEJMOU9feHk5OHR5b0lEdVdleVVWa05HUnFMd00yZkhvaVFpZGFUX2tvamdjZzZOXzFtQ19lWFVuNTBZTi02N1JnSmVuTXA?oc=5",
@@ -113,11 +153,11 @@
   },
   {
     "company": "Tesla",
-    "title": "민선 9기 삼성전자·SK하이닉스·테슬라 등 투자유치단 신설…인수위 “장기적 관점 노력” - 영남일보",
-    "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE01YUNNd1IzNUVzcWFNMng3U3lPdmRfcjJudF95Tm9odV9iM3ViMEY1SlZNd0d0UTJUWnFiVXRTcm5lV3pVUUFBREpRVnpsdXhZaFZXWFdfSm4tVkh5M2FMMEhSNjVndDRBYjhR?oc=5",
-    "published": "2026-06-29 18:30",
-    "timestamp": 1782725454,
-    "summary": "민선 9기 인수위가 삼성전자, SK하이닉스, 테슬라 등을 대상으로 하는 투자유치단을 신설했다. 장기적인 관점에서 기업 투자 유치를 위해 노력할 계획이다."
+    "title": "민선 9기 삼성전자·SK하이닉스·테슬라 등 투자유치단 신설…인수위 “장기적 관점 노력” - v.daum.net",
+    "link": "https://news.google.com/rss/articles/CBMiRkFVX3lxTE9IYkhsY1BiZ2c3MkNKODZfMlZKNExGZ3J5OVoxSEY0RDRpVDBlT0V6LXN5UVRaSUFvQ1d3blQ2SzdBUlpOMFE?oc=5",
+    "published": "2026-06-29 18:31",
+    "timestamp": 1782725471,
+    "summary": "민선 9기 인수위가 삼성전자, SK하이닉스, 테슬라 등을 대상으로 하는 투자유치단을 신설한다. 장기적 관점에서 기업 투자 유치를 위해 노력할 계획이다."
   },
   {
     "company": "NVIDIA",
@@ -193,6 +233,14 @@
   },
   {
     "company": "OpenAI",
+    "title": "脫엔비디아 가속…오픈AI, 자체 AI칩 할라페뇨 공개 - MSN",
+    "link": "https://news.google.com/rss/articles/CBMixwJBVV95cUxNOFpKbjBqQ3Y2MW5KazAxUC16T3pFQlVTbDlSQWtkTlZ2QmNoa2R2YmYyXzVRbHN1SzFpN3BLUWlna1RHX3VWcFU0NEtmM2laSEphTGR0dmJpTXZMY0xCNmtKYmVRRHQzd2VGQjBrUlgzMjFoRWdNVzZPbFF2Y2hzQ21Mc2RzN3R6VTJJdnBsb2VSRGVXXzFlVk1RVEt4VGdvU05mTC1RNDZqNWJrSk93b3JhR0x0dlREQmprVWhWTXpkd3R5QXVZWHhISTJGd2xEeUpRSVlDaUcxVUxzMFF6ZkxLOVByTUF4LUZNTTNpWklyTjZtNEZYS2ZXNnNMREhEUTU0a212YXVYMXh5Y1ZvZklvU1lkWUZBM25WM0VCem9lYUNXOWEwOG9VaVNMVGpuS3VsWFNQWmM4X1NBZGVBM3Q0akNPSUE?oc=5",
+    "published": "2026-06-29 16:45",
+    "timestamp": 1782719153,
+    "summary": "오픈AI가 엔비디아 의존도를 낮추기 위해 자체 개발한 AI 칩 '할라페뇨'를 공개했다."
+  },
+  {
+    "company": "OpenAI",
     "title": "프로그레스미디어, OpenAI SMB Channel Partner 기반 AI 사업 확대 - 한국경제",
     "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE1VaV9XNzZDbF9wdXRNTHpVZVE1d3BzazRhdzV6cUJ4d0MxX1lrb254eFRBa29TTk52eE5oOUU0QU1PeG9GLWRleEQyLUtPczZ1SV83WtIBVEFVX3lxTE1VaV9XNzZDbF9wdXRNTHpVZVE1d3BzazRhdzV6cUJ4d0MxX1lrb254eFRBa29TTk52eE5oOUU0QU1PeG9GLWRleEQyLUtPczZ1SV83Wg?oc=5",
     "published": "2026-06-29 16:28",
@@ -264,6 +312,14 @@
     "summary": "커스텀 AI 칩 시장이 확대되는 가운데 엔비디아의 영향력이 함께 커지는 현상을 분석한다."
   },
   {
+    "company": "Apple",
+    "title": "애플·MS 덮친 메모리 대란…소규모 업체는 '파산 위기' - 더구루",
+    "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE83VldWRzhlZG5OMkNVazZpQ3JZVUJRanc5b1UySHJncTdNbmhVSXlWcktmQ2hSQ1Ruemd1eTFiN05lZnk1S2w0S1RkRVlHLXYxam94OE9vSUh0bGZveHJEOVo0aw?oc=5",
+    "published": "2026-06-29 14:57",
+    "timestamp": 1782712653,
+    "summary": "애플과 MS가 메모리 대란의 영향을 받고 있으며, 이로 인해 소규모 업체들이 파산 위기에 처했다."
+  },
+  {
     "company": "퓨리오사AI",
     "title": "위지윅스튜디오·퓨리오사AI, 신규사업 공동발굴 MOU - 중기이코노미",
     "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1ibjBKeHhJaUxJQi1vN3AzY0ktQ1JtajdjZjgwbzQ0RDBLcElsX3hvSUR2M0EzeFdtMmxuV3ZzaGEtRjZxWXo1OUh5dDBEYVZ3RFdyMnRQUUVWejFPb3cwelk0UGRTRzkxWlE?oc=5",
@@ -278,6 +334,14 @@
     "published": "2026-06-29 14:18",
     "timestamp": 1782710329,
     "summary": "엔비디아가 인도네시아에 대규모 AI 팩토리를 건설하여 스타트업의 비용 부담을 낮출 계획이다."
+  },
+  {
+    "company": "퓨리오사AI",
+    "title": "위지윅스튜디오-퓨리오사AI, 신규 사업 기회 찾는다 - v.daum.net",
+    "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFBLRHBLbmlrNFVldmYxQmRCR2hxTVBnS3BpTTRjNjhRNzE5SEdYakUxSEZZMWRjTmI5X2pQY2hkUDlibzZxY3lJazNrc1I3LVN0SlloRA?oc=5",
+    "published": "2026-06-29 14:14",
+    "timestamp": 1782710045,
+    "summary": "위지윅스튜디오와 퓨리오사AI가 신규 사업 기회를 모색하기 위해 협력한다."
   },
   {
     "company": "자람테크놀로지",
@@ -302,6 +366,14 @@
     "published": "2026-06-29 13:41",
     "timestamp": 1782708062,
     "summary": "청와대가 호남권 반도체 투자 논란에 대해 지역 간 경쟁이 아닌 실리콘밸리 및 TSMC와의 경쟁을 강조했다."
+  },
+  {
+    "company": "에이직랜드",
+    "title": "에이직랜드, SK하이닉스 차세대 eSSD 개발 참여…319억 계약 - v.daum.net",
+    "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE1BVHZhR3JUbkJYYkJITGtTX1l3TDkyWlNHb0I2SHU4OE1VYmVIcW4zckNzeXFXcVBXWkVUUDJWc3dydWRZTUdySkJoTzYxTVk?oc=5",
+    "published": "2026-06-29 13:34",
+    "timestamp": 1782707640,
+    "summary": "에이직랜드가 SK하이닉스의 차세대 eSSD 개발에 참여하며 319억 원 규모의 계약을 체결했다."
   },
   {
     "company": "에이직랜드",
@@ -384,6 +456,14 @@
     "summary": "농어촌공사가 엔비디아 등 19개 기관과 함께 호라이즌 유럽 과제에 선정되었다."
   },
   {
+    "company": "자람테크놀로지",
+    "title": "자람테크놀로지 수주공시 - XGSPON 주문형반도체(ASIC) 양산 공급계약 13.2억원 (매출액대비 12.4 %) - 한국경제",
+    "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFBqOHdsNkROWVRwR0M2S0N4NWxkUk80NDkyUWxVOG45bzU2OHVnYkFvNkhDb0FURVlQT0c3TGFhaGxqeXpaMjJzVWpVbVVyQVNXcVBrNNIBVEFVX3lxTFBqOHdsNkROWVRwR0M2S0N4NWxkUk80NDkyUWxVOG45bzU2OHVnYkFvNkhDb0FURVlQT0c3TGFhaGxqeXpaMjJzVWpVbVVyQVNXcVBrNA?oc=5",
+    "published": "2026-06-29 11:35",
+    "timestamp": 1782700510,
+    "summary": "자람테크놀로지가 XGSPON 주문형반도체(ASIC) 양산 공급계약을 체결했다. 계약 금액은 13.2억 원으로, 이는 최근 매출액 대비 12.4% 규모이다."
+  },
+  {
     "company": "TSMC",
     "title": "\"TSMC 2나노 반도체 물량 선점이 AI 스마트폰에 핵심\", 삼성전자와 애플 경쟁에도 변수 - 비즈니스포스트",
     "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE9yOWZOYWZhR0dveGNxTUtxang5QkdsR1YxNWxMUEF4c2F4Rm8weGQzV01NbWt1QVJhTDJjMjZoMkVKRENoY09KTnluOEtFeF8xTUFmMkUyOFQxMXNRcnJINkd6MzlLeFBfazg4aExBUlk0c1k?oc=5",
@@ -462,6 +542,14 @@
     "published": "2026-06-29 10:52",
     "timestamp": 1782697920,
     "summary": "시높시스가 앤시스 인수 후 실리콘, 소프트웨어, 물리 환경을 함께 설계하는 비전을 공개했다."
+  },
+  {
+    "company": "Synopsys",
+    "title": "시높시스, 앤시스 인수 후 비전 공개… “실리콘·소프트웨어·물리 환경 함께 설계” - 조선비즈 - Chosunbiz",
+    "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxObkhZZ29NdVpHRG5QaWtpX2ptclNCWGlpUWRIcmJ3YWR5d1VKVldYZzRKSUtzWVUyMlJ4VFU5OVFoeGVKbHl5eGl3OU95VnZobmJPV3pUSzFoV3JoX2lQalNGdHNZNXg3UVcxdGdGSDhEUTl1dFVlLXJwODVBR0NqOVBR0gGWAUFVX3lxTE9rRHZxVWh1c1JqMHVIWFItN1hQUTNsQjlGTHpVSFJ2TngyMUFWSmZ3S256NkVSUHo3MGxuVFRndDFXeEc1dFNaX0YxYnVsamtTRkJ1cHhya0lMTXJfbjIyMEU0bktxTk9lT3ZsUU9lQk5lZUxpNVJwMUNsX0l4akdwc1d1aFN3U19kZDZ3bnV3cVI2WHRUZw?oc=5",
+    "published": "2026-06-29 10:50",
+    "timestamp": 1782697800,
+    "summary": "시높시스가 앤시스 인수 후 실리콘과 소프트웨어, 물리 환경을 통합 설계하겠다는 비전을 공개했다."
   },
   {
     "company": "NVIDIA",
@@ -21598,13 +21686,5 @@
     "published": "2026-05-31 06:47",
     "timestamp": 1780177677,
     "summary": "물류 기업 KWE가 텍사스 인스트루먼트(TI)로부터 반도체 공급망 지원 우수상을 수상했다."
-  },
-  {
-    "company": "STMicroelectronics",
-    "title": "[인터뷰] 히로시 노구치 ST마이크로 아시아태평양 수석부사장 “피지컬 AI에서 기기 인식·추론·제어 기능 높여” - 조선비즈 - Chosunbiz",
-    "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxPZFczTFlOLXFSZlpyaHhCdnpmbGJjZkY2WFZBb24xcFpfVzF2dHJoSWNub1YyT1JIWG1SX2pXWGE2dWo4SUJ4bE5BbDBWVzlFUE9JRTY4bVNkd0NFckR1TGpOaU0zMXFFQWFiVjc0OHB1ZzVUanhFMk9wWVZVdm9pQkd30gGWAUFVX3lxTE02OUZkQ19iWkxYUTVCaUZQc2I3b1VncTBFR0ZGRmFhSF9VRUkydnJrOWRZenRMTjhtM3NicUFVb0IzUFhIWDlHeDg4Nk9XajFCYndNQ293XzBNRFRWVDZYaXNFYTNKN3h4aEE5V1pXSU5OSmotOVlxTXlKRnFRLVlrbGdSZTlhQ01HMzRELTR3UG0ydkFEdw?oc=5",
-    "published": "2026-05-31 06:02",
-    "timestamp": 1780174936,
-    "summary": "히로시 노구치 ST마이크로 아시아태평양 수석부사장이 피지컬 AI를 통한 기기 인식, 추론, 제어 기능 강화에 대해 인터뷰했다."
   }
 ]
