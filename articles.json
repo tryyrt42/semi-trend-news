@@ -1,5 +1,37 @@
 [
   {
+    "company": "Google",
+    "title": "'컴퓨팅 한계' 구글, 메타의 제미나이 사용량 제한 - 네이트",
+    "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE5HU1ptSVRDb0RLWEZMaVNldmctYXI5WEp5cXM4aGUtTElZR013YmZHTXAxdkxsbnNsbXA2bl9uXzJTSlFaUVUzQ0NMcFJsVWpHTlBV?oc=5",
+    "published": "2026-06-30 00:31",
+    "timestamp": 1782747060,
+    "summary": "구글이 컴퓨팅 한계로 인해 메타의 제미나이 사용량을 제한했다."
+  },
+  {
+    "company": "NVIDIA",
+    "title": "Bit Origin, Nvidia Blackwell AI 서버 1,100만 달러 규모 인수 - Investing.com 한국어",
+    "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBnbXZKODFiU2c4Y0FqR2xKRXhuMXBUWmR5bURQai03dzNWa0J4THJITlI5bFEzZFFrVWQwLW9yclNTc0hZTXlsRDhlTWZ0bjNWV294LXktZHloSlVCR2owU0tfcGF4ZWxSYklscjhaQ2I?oc=5",
+    "published": "2026-06-29 22:10",
+    "timestamp": 1782738600,
+    "summary": "Bit Origin이 1,100만 달러 규모의 엔비디아 Blackwell AI 서버를 인수했다."
+  },
+  {
+    "company": "퓨리오사AI",
+    "title": "위지윅스튜디오, 퓨리오사AI와 전략적 MOU 체결 - 금강일보",
+    "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9reThZVmVTNE9FX1NhUzlVS0E5anlvX3k3dmhERXlxX0ZmeDlsS3BFdlFvak41Mkc4ZmlUTktrbklCU2poc2xRaERYQmxIWkFHRFpiZmo1ZDg2SzlGRjg1RGdjaVhLQmFoeWc?oc=5",
+    "published": "2026-06-29 21:27",
+    "timestamp": 1782736063,
+    "summary": "위지윅스튜디오가 퓨리오사AI와 전략적 업무협약(MOU)을 체결했다."
+  },
+  {
+    "company": "NVIDIA",
+    "title": "샤로나이 홀딩스, 16억 달러 규모 전략적 자금 조달 완료... 엔비디아 협업 지원 - 데이터투자",
+    "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE5mUnZPY2Q4OVhoM1htTmtTZkdtcnBrWi1RNjBQdjVIaG4tOXJvWXVReEk3NFFHODJhUEdsd01QNF9sQjlRbkVrc2N0Z3hnbE1nd0tabUpnUjR1Qlk0bEJXaXdWazNaSFVmTFJNX3NxT2dxTEE?oc=5",
+    "published": "2026-06-29 21:02",
+    "timestamp": 1782734556,
+    "summary": "샤로나이 홀딩스가 16억 달러 규모의 전략적 자금 조달을 완료했으며, 엔비디아의 협업 지원을 받는다."
+  },
+  {
     "company": "NVIDIA",
     "title": "팔란티어, Nvidia와 美정부 AI 모델 파트너십 체결 - Investing.com 한국어",
     "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBxY3E5WnphV2dDeUQ2V1Ftb19rZ3hPU19ZVFI5dWVVaWwwRUtfMU5ZZ3dScC1SUG53QTlhSS1VSEVBaXNMdzVuQWhLVVhIQUFkQW5mR3MzODV1N1duYTJsbXJvS0QyTTRZN0h0V182YWM?oc=5",
@@ -14,6 +46,22 @@
     "published": "2026-06-29 19:40",
     "timestamp": 1782729615,
     "summary": "엔비디아와 삼성이 베트남 하노이 지역에 대한 투자를 진행한다."
+  },
+  {
+    "company": "NVIDIA",
+    "title": "엑스와이지, 엔비디아와 손잡고 Physical AI 인재 양성…실습형 교육과정 운영 - 스타트업엔",
+    "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1XaTUtbjdKTzk0REtFWXBldXZTTzJzR3RBQ29GTnMwVG40ZUtNdDdWWGxieFFvXzZMeFJNY0NZNF9ZR2J0a184SEcxY0c2R2xEOHdEdENsVXJaZ1VHcXI5MFYzV3FkQWJELTBlLdIBbEFVX3lxTE1XaTUtbjdKTzk0REtFWXBldXZTTzJzR3RBQ29GTnMwVG40ZUtNdDdWWGxieFFvXzZMeFJNY0NZNF9ZR2J0a184SEcxY0c2R2xEOHdEdENsVXJaZ1VHcXI5MFYzV3FkQWJELTBlLQ?oc=5",
+    "published": "2026-06-29 19:35",
+    "timestamp": 1782729317,
+    "summary": "엑스와이지가 엔비디아와 협력하여 Physical AI 인재 양성을 위한 실습형 교육과정을 운영한다."
+  },
+  {
+    "company": "NVIDIA",
+    "title": "엔비디아, 호주 퍼머스와 300억 달러 동맹…인니 바탐에 'AI 팩토리' 짓는다 - AI포스트",
+    "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE9Yb2hoelBSVFFxcXZiLWNfU1ZXRUl1TjI4TEJsRDBfR0VDRkh3SDdjVVc2TElEVkJEYnpiYmJVdlR3NF9uT3RVWDBtS2FvM1U1N0k4bi10djlHY3l5bEtMZXRmd3lkd25IOVpOLUF30gFyQVVfeXFMT3hoc0stLU15V2l2UGRsTDM5c25WRmJJcHRuY2wxSGNCRFdlRFNLSWFUb1lBZGNET1BNMWZaZW9CX0Fxakk1UEhRTllNaWRFUTcwRU00OTVqTGZxUkdLcEV2UlBCYVU3OHBoN3hYV045NmVB?oc=5",
+    "published": "2026-06-29 19:28",
+    "timestamp": 1782728919,
+    "summary": "엔비디아가 호주 퍼머스와 300억 달러 규모의 동맹을 맺고 인도네시아 바탐에 AI 팩토리를 건설한다."
   },
   {
     "company": "OpenAI",
@@ -56,12 +104,28 @@
     "summary": "닌텐도 스위치2의 가격이 9월부터 인상된다. 소니와 MS 또한 콘솔 가격을 인상했다."
   },
   {
+    "company": "Tesla",
+    "title": "민선 9기 삼성전자·SK하이닉스·테슬라 등 투자유치단 신설…인수위 “장기적 관점 노력” - 영남일보",
+    "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE01YUNNd1IzNUVzcWFNMng3U3lPdmRfcjJudF95Tm9odV9iM3ViMEY1SlZNd0d0UTJUWnFiVXRTcm5lV3pVUUFBREpRVnpsdXhZaFZXWFdfSm4tVkh5M2FMMEhSNjVndDRBYjhR?oc=5",
+    "published": "2026-06-29 18:30",
+    "timestamp": 1782725454,
+    "summary": "민선 9기 인수위가 삼성전자, SK하이닉스, 테슬라 등을 대상으로 하는 투자유치단을 신설했다. 장기적인 관점에서 기업 투자 유치를 위해 노력할 계획이다."
+  },
+  {
     "company": "NVIDIA",
     "title": "SK하이닉스, 엔비디아 코앞에 ‘HBM 요새’ 짓는다…美 인디에나 생산 전략 가동 - 쿠키뉴스",
     "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE5Bc2pTU01oTnNWdG9MeU9fQk9EcmdSTTJzMTlmNFhhR3Q3SThCZmFPbnBvUEVHLTJCVXpIXzVfa3F5aHA1NUhlRTNRSzhfdDhlOGp5NTRjU3JRV1VIc1Zkb1NCMA?oc=5",
     "published": "2026-06-29 18:17",
     "timestamp": 1782724652,
     "summary": "SK하이닉스가 엔비디아 인근인 미국 인디애나주에 HBM 생산 시설을 구축하는 전략을 가동한다."
+  },
+  {
+    "company": "STMicroelectronics",
+    "title": "ST마이크로, 포스트 양자 암호화 대비 보안 모바일칩 ’ST54M’ 출시 - FA저널",
+    "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE8xODNZNEo0Y0x4VDJPMEVxbTlvbnRfdWotdWNfLTB6R01wV3YwSTVWTlpMSjdyWFF3X0s1WDYxakF3TEJxVWpSWWxtNjlhZ1g5MTYwUFpEWk1nRnF0bTNwV043YnZacjcyQ1R3?oc=5",
+    "published": "2026-06-29 17:46",
+    "timestamp": 1782722768,
+    "summary": "ST마이크로가 포스트 양자 암호화에 대비한 보안 모바일칩 'ST54M'을 출시했다."
   },
   {
     "company": "Apple",
@@ -110,6 +174,14 @@
     "published": "2026-06-29 17:05",
     "timestamp": 1782720300,
     "summary": "가열되는 칩플레이션 현상으로 인해 애플이 공급난을 겪고 있다."
+  },
+  {
+    "company": "Intel",
+    "title": "인텔 차세대 CPU 고성능 모델, 52코어에 최대전력 474W? - 아이러브PC방",
+    "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE02ZG13ODlYbjVPUTNfMGM3QkNLWHROR2tPdnZRR0ZHbGFpcnl4WUoyZDNhTmZaM3ZqSkNnZDJJeVFnbzJXZHA1ZkE0Q2xlN3ZKUWVLckNkaWdiUVJTYTRaMTlnTjZLenhIUHh0aUVB0gFyQVVfeXFMTUN6YjhQSnBWbVJUYkJvV2xqMzVYTkhkME1ISVJZaDl0S1I4V0hFYXVFdWZrbjJELTJyOE1ncEFwSENpLTRZWnpqSENWNFJvUzd6OU9BSlFreE1nSGp4N2M1YjlVdGEtSGFnaW9iN1RNek9B?oc=5",
+    "published": "2026-06-29 16:59",
+    "timestamp": 1782719940,
+    "summary": "인텔의 차세대 CPU 고성능 모델이 52코어와 최대 전력 474W 사양을 갖출 것으로 언급되었다."
   },
   {
     "company": "OpenAI",
@@ -310,6 +382,14 @@
     "published": "2026-06-29 11:12",
     "timestamp": 1782699140,
     "summary": "엔비디아가 투자한 AI 추론 기업 그로크가 약 1조 원 규모의 펀딩을 유치하며 AI 추론 클라우드 사업을 가속화한다."
+  },
+  {
+    "company": "에이직랜드",
+    "title": "에이직랜드, SK하이닉스 eSSD 개발 맡는다…319억 설계 계약 - v.daum.net",
+    "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFBVUGxBR081TGtqWU5mSWtIdXFrSUl6dDRDai1pTklRUUloMTdOVm9qTE1feDlreExOenJxd3I3QzdTRGRBUkZGWkJUUHdoV1RJbnFpNA?oc=5",
+    "published": "2026-06-29 11:08",
+    "timestamp": 1782698932,
+    "summary": "에이직랜드가 SK하이닉스의 eSSD 개발을 담당하는 319억 원 규모의 설계 계약을 체결했다."
   },
   {
     "company": "Synaptics",
@@ -598,6 +678,14 @@
     "published": "2026-06-29 05:02",
     "timestamp": 1782676938,
     "summary": "TSMC가 일본 구마모토를 공장 부지로 선택한 배경과 이유를 분석한 기사이다."
+  },
+  {
+    "company": "TSMC",
+    "title": "3대 메모리 거인에 대한 의존도 탈피. TSMC, 현지 DRAM 공급망 재구축 위해 윈본드와 협력 - TradingKey",
+    "link": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxORFJvRlhSWmdUcFJKM1BPeGhORlNCc2dkeTNSckdqRklfZE9vMTVTZnlCTU5uc1QxTEl5RzlPYWQ0OTI1V3NxdUd2SGU5Z0pwRzR2THVBc2l6UEljNnlRZDg4X1RpVVNsM1pwcUp2Z2lKRHdSRW9ZTm8wX2o0ZnpObVppTC1HZlJIX0QtcWVDMjlHdVcxU01NaWx1YVM1enZkcWd3dkVvbU1zNXN3NWdoWTFFQW9QaVZPcEpsQlFNY25ONWlXZElTVk1SQVg1X196ZHVxRzlyU1NCTGY0MmJoYnZlVVVUc0V0SHJN?oc=5",
+    "published": "2026-06-29 04:48",
+    "timestamp": 1782676080,
+    "summary": "TSMC가 현지 DRAM 공급망 재구축을 위해 윈본드와 협력한다."
   },
   {
     "company": "Apple",
@@ -21494,21 +21582,5 @@
     "published": "2026-05-31 01:10",
     "timestamp": 1780157409,
     "summary": "Broadcom은 AI 네트워크 칩을 확장하고 Google TPU에 자금을 조달한 후 7.9% 상승했습니다."
-  },
-  {
-    "company": "Silicon Motion",
-    "title": "실리콘모션, AI PC를 위한 AI 최적화 SM2524XT PCIe Gen5 디램리스 SSD 컨트롤러 공개 - koreasprint.com",
-    "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTFBZaWVxcVQtZEJWcmVVUXFOX2Fjcmo2eXJvaDJ1VnBjdUFWdERGSDl0NlliM1lPbFVxR2JpZ1NOa1NEalFjaHpmNkNEam9TVG9USE9qOEY4LVE5S04wLXEyUl9GNExIMVMtX29KdDFR?oc=5",
-    "published": "2026-05-31 00:28",
-    "timestamp": 1780154880,
-    "summary": "실리콘모션이 AI PC를 위한 AI 최적화 SM2524XT PCIe Gen5 디램리스 SSD 컨트롤러를 공개했습니다."
-  },
-  {
-    "company": "GCT Semiconductor",
-    "title": "맥스리니어-GCT 세미컨덕터, 차세대 5G FWA 및 컨버지드 게이트웨이 개발 파트너십 체결 - koreasprint.com",
-    "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTFBURWtXTkotUWhiOTlONjFCMlV5Z2FvSU91NmxZVEQ1aGg2MVVqX1RubGlXWWQzOU5SQy1UbXJZd1g5a2tiem9ybEVYX2hyZWRtWE83NzQ1OEZXXzhhYl9oMGs5Mm5mbjdLUWVYTUh3?oc=5",
-    "published": "2026-05-31 00:21",
-    "timestamp": 1780154460,
-    "summary": "맥스리니어와 GCT 세미컨덕터가 차세대 5G FWA 및 컨버지드 게이트웨이 개발 파트너십을 체결했습니다."
   }
 ]
