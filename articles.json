@@ -1,5 +1,29 @@
 [
   {
+    "company": "Apple",
+    "title": "진격의 C메모리…장비·양산·투자 ‘삼각편대’ 완성, 애플도 눈독 들인다 - 중앙일보",
+    "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1Icl9ZcW10dWQwbW45MlZOWFU2UHBldEFYbUZtWEFaWUY5NzBQMzlXNW9FeWNSQnJQV3JuU3RxYW1CcFNXZlMxR3I3cTgxT2cxSnpaNERB?oc=5",
+    "published": "2026-07-04 00:01",
+    "timestamp": 1783090860,
+    "summary": "C메모리가 장비, 양산, 투자 체계를 완성하며 애플의 관심을 받고 있다."
+  },
+  {
+    "company": "Intel",
+    "title": "아크 B70 프로와 슈퍼클로로 구현되는 고효율 하이브리드 AI 환경 제안한 인텔 - 동아일보",
+    "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFBGVjJpeG5BcG5rT2NpdzgwZ1M2Uld4dGJZc3l4U2Z2TEZmbk5BWWlOem1OcmJRX1ZaWUhYNXREbEUydmdyNl9fUm9HOXdUZmRZQ3ZQeEd2M3pta19TbU5sUDlrQzRFQdIBZkFVX3lxTFBGVjJpeG5BcG5rT2NpdzgwZ1M2Uld4dGJZc3l4U2Z2TEZmbk5BWWlOem1OcmJRX1ZaWUhYNXREbEUydmdyNl9fUm9HOXdUZmRZQ3ZQeEd2M3pta19TbU5sUDlrQzRFQQ?oc=5",
+    "published": "2026-07-03 23:15",
+    "timestamp": 1783088104,
+    "summary": "인텔이 아크 B70 프로와 슈퍼클로를 활용한 고효율 하이브리드 AI 환경을 제안했다."
+  },
+  {
+    "company": "NVIDIA",
+    "title": "[증권言言] 하나증권 \"노키아, 엔비디아 협업은 신의 한수\"…무선장비 시장 재도약 기대 - 마일드경제",
+    "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE1OTl84UTltQnRLWU1GZnk0UDNpcHNiazhJS3dWY056dDNvbkE0OWtYQ1lobS1kaHRSY1R4SlVBNjA1SzZyUllCRFNEZ1pkWm5aWVlEdnVSdDYxQk1GZnFuR1Fzai1QMkp1M3hj?oc=5",
+    "published": "2026-07-03 22:38",
+    "timestamp": 1783085927,
+    "summary": "하나증권은 노키아와 엔비디아의 협업이 무선장비 시장에서의 재도약을 이끌 것으로 평가했다."
+  },
+  {
     "company": "Infineon",
     "title": "인피니언, ams오스람 센서 사업 인수 완료 - 디일렉",
     "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFA4RmVHUjR3UEliYjBDR1AtX2NpWGcyQVYwLWxfSzQ3ZWwwdklCOVBQNEN5WUxmYWlocExVdE9jenlkNWc0ZDR5TkpmeUttdlAydlN2Z182dlVMbEw3SjlkSzRaYk13UQ?oc=5",
@@ -25,11 +49,27 @@
   },
   {
     "company": "Samsung Foundry",
+    "title": "'TSMC 공급 병목'에 삼성 파운드리 기회…흑자전환 앞당길듯 - 매일경제",
+    "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1pM0FLSjRBQWVFMGNLZlBKU2cxWmR1NFBZNzlZZ0RMMDd0MFFXeVBaSG8wU0JzMzRqN3pXS1VDSEVUVE84LUdPZjJXSkNPVkZSdjluMGdB?oc=5",
+    "published": "2026-07-03 17:52",
+    "timestamp": 1783068748,
+    "summary": "TSMC의 공급 병목 현상으로 인해 삼성 파운드리가 반사이익을 얻을 것으로 보이며, 이를 통해 흑자 전환 시점이 앞당겨질 것으로 예상된다."
+  },
+  {
+    "company": "Samsung Foundry",
     "title": "이번엔 앤트로픽…삼성 파운드리 '수주 행진' - 한국경제",
     "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBsdkMwVnY5NEJDcjIxWFIzV2VHcnRfdDI3Vkl5MGtMbDlUZFpGRUtrMXlTWFd5VTVHc0I0NHM3RFBiVFYza2RPMEVWRC1uU2c3UWhPeVFQRjA4d9IBVEFVX3lxTE50TjYwVENzNHcwRGtPRGdCUlQ1NjRCVGZ5MTdPNTdPUnA4NG96V3E5aXZLWWpWNVBrU1otV0NiOUdXWklVX1VOMVM3eFFuVlJiS1NFOQ?oc=5",
     "published": "2026-07-03 17:41",
     "timestamp": 1783068076,
     "summary": "삼성 파운드리가 앤트로픽과 수주 계약을 체결하며 수주 행진을 이어가고 있다."
+  },
+  {
+    "company": "Samsung Foundry",
+    "title": "삼성 파운드리, 다시 부활 하나…“앤트로픽과 2나노 협력 가능성 커” - CEO스코어데일리",
+    "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE1uYUtHTV9xV3B5eFluRl8tdUx5NFdWTW05QzJvamZfWENfdWJTenE1NjJFMDJGaXJFVEs4N0lpQkVoSGxIWDFKellidWt5ZFBwcWZza1RTOFl6aTlfZ1B6cGotM25mLU1WVzhN?oc=5",
+    "published": "2026-07-03 17:33",
+    "timestamp": 1783067606,
+    "summary": "삼성 파운드리가 앤트로픽과 2나노 공정 협력을 논의 중이다. 이를 통해 사업 부활에 대한 기대감이 커지고 있다."
   },
   {
     "company": "딥엑스",
@@ -328,6 +368,14 @@
     "summary": "삼성전자가 앤트로픽과 AI칩 생산을 논의 중이다. 테슬라와 엔비디아에 이어 대형 고객사 확보가 기대된다."
   },
   {
+    "company": "딥엑스",
+    "title": "딥엑스, 일본 손잡고 피지컬 AI 시장 공략 - v.daum.net",
+    "link": "https://news.google.com/rss/articles/CBMiRkFVX3lxTFBJZmh3TVhTQ094QXEybzQ5YnM3eVlOTkY3MEk3ZjZLQnVIckRLNXdnaDhhbjlYUk00Z2dNb21PVTBjMkNkOEE?oc=5",
+    "published": "2026-07-03 10:40",
+    "timestamp": 1783042811,
+    "summary": "딥엑스가 일본 기업과 협력하여 피지컬 AI 시장 공략에 나선다."
+  },
+  {
     "company": "Intel",
     "title": "인텔, 반년도 안됐는데.. 주력 CPU 가격 인상 - 케이벤치",
     "link": "https://news.google.com/rss/articles/CBMiSEFVX3lxTFBfM0VRaXRTWkszMGtjSXY1LWhlTG9TU1JSUG5jX1Q1WUhyeVdxWFRhLTJoUl82NVRPclN6TldHSmR4VFFIRTNJMA?oc=5",
@@ -344,14 +392,6 @@
     "summary": "트럼프의 반도체 자급 정책에 따라 TSMC와 인텔이 미국 투자를 가속화하고 있다. 이로 인해 삼성전자의 부담이 커지고 있다."
   },
   {
-    "company": "딥엑스",
-    "title": "딥엑스, 일본 손잡고 피지컬 AI 시장 공략 - 연합뉴스",
-    "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5VWkUxM0pBSFo5NTVOcldiamFXWEM0a3Vqc3BjVlJKb1JkZ1R3OHlaOUVFR2VCelBwcE5UeTE0SWRiekkxbGFYTXhjM3Y2S3U4MmxvZURiOUI5VWvSAWBBVV95cUxPMlV2UVdFdXF6ejNpZVFyUENrTk1wMXlDcEZXMTY3NG1BMmhON2VKczIybXF1SHdRLXBtb3BCOTFNRUFZRVd5NEUxSzZfVjE0LWtlWDA3dVNidDBhamJRb2k?oc=5",
-    "published": "2026-07-03 10:37",
-    "timestamp": 1783042631,
-    "summary": "딥엑스가 일본 기업과 협력하여 피지컬 AI 시장 공략에 나선다."
-  },
-  {
     "company": "NVIDIA",
     "title": "팔란티어 테크놀로지스(NasdaqGS:PLTR), 엔비디아와 AI 인프라 협력 확대하고 서프 에어 제휴 넓혀 - simplywall.st",
     "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxONGpTRE1nQV85WHZVUm1Wb2Z1djJHUkNzWFdYdzQyS3czT1ZpdEo1dTdITWpWYmV4NHNrX2VJd0prWEJTT1dlaUM2OEdGMXM1SGtiOFFsY1ZyRUdQWWN4c0dmNmRXQ2Y4djhIZ2ozbXFfYU9GbVhlRVJETV96WHBialBQS21hYWw0VEdMN2pnazRPZkx5VFg5c0N0VU9jSDhxbzZHMDJR0gGmAUFVX3lxTE40alNETWdBXzlYdlVSbVZvZnV2MkdSQ3NYV1h3NDJLdzNPVml0SjV1N0hNalZiZXg0c2tfZUl3SmtYQlNPV2VpQzY4R0YxczVIa2I4UWxjVnJFR1BZY3hzR2Y2ZFdDZjh2OEhnajNtcV9hT0ZtWGVFUkRNX3pYcGJqUFBLbWFhbDRUR0w3amdrNE9mTHlUWDlzQ3RVT2NIOHFvNkcwMlE?oc=5",
@@ -360,20 +400,20 @@
     "summary": "팔란티어 테크놀로지스가 엔비디아와 AI 인프라 협력을 확대한다."
   },
   {
+    "company": "TSMC",
+    "title": "“TSMC만으론 역부족” 삼성, ‘판’ 바뀐 파운드리 대안 급부상[비즈360] - v.daum.net",
+    "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE50RWc3cUlCY0QzTG1vcUFkOUJ3R0RobzFWNmZxclYySEo0LV9HN1NXdE1Lamw0RUlkVjkycGU0ZTlMZ25NVkxJaUxqLUw3WG8?oc=5",
+    "published": "2026-07-03 10:33",
+    "timestamp": 1783042391,
+    "summary": "삼성전자가 파운드리 시장에서 TSMC의 대안으로 부상하고 있다. TSMC의 생산 능력만으로는 부족한 시장 상황이 반영되었다."
+  },
+  {
     "company": "NVIDIA",
     "title": "엔비디아, 상하이에 연구개발 센터 설립 추진 - 아세안익스프레스",
     "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE9BS19ITnRrQm91blA4Nmp6eHlVMF9aUXo1TnRPSG1XaGRiNHRQUExkM0lJSk95emxyRER3aE13bkNkQnZCZ20yUmFMOTJ3TXB0MktMTG41ZVRkU0M1V2Rtbkk3ejhpWWh6ZGtN?oc=5",
     "published": "2026-07-03 10:32",
     "timestamp": 1783042333,
     "summary": "엔비디아가 중국 상하이에 연구개발 센터 설립을 추진한다."
-  },
-  {
-    "company": "TSMC",
-    "title": "“TSMC만으론 역부족” 삼성, ‘판’ 바뀐 파운드리 대안 급부상[비즈360] - 헤럴드경제",
-    "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFA3T0xpZ0ZTNTJPZmVIUWc2N1dSSXNLdmcxcm1SN0RjWGJnaExVdzJpai1XZmQ3RzdGbzAtOUtSazFibXZ5VlNHV3JpVnFVZzB4aFJiNlJR?oc=5",
-    "published": "2026-07-03 10:31",
-    "timestamp": 1783042285,
-    "summary": "TSMC의 생산 능력만으로는 부족하다는 평가 속에 삼성전자가 파운드리 시장의 대안으로 부상하고 있다."
   },
   {
     "company": "Intel",
@@ -480,6 +520,14 @@
     "summary": "메타의 실적 발표 이후 AI 반도체 시장이 출렁이며 단기 조정 국면을 맞이했다."
   },
   {
+    "company": "리벨리온",
+    "title": "리벨리온, AI 최적화 '스퀴즈비츠' 인수…풀스택 AI 인프라 도약 - MSN",
+    "link": "https://news.google.com/rss/articles/CBMi9gJBVV95cUxOVEpCWFZBRThHVjFJdTQ4RUdtSExnTlZjcXFwV2lsY21hamdrVE5qQmpvc05fX1psMEZiY28wZDBkdUNUWDdlUFVUSk80NkI3SGptZ25DSjNfWERhYVhaVjFKamo1YkJJT3ZmM09wR1gtbFRVZ29PT25YU1VnMG0yRWtmVGRUOTZydFp6T2NSdlVaZVRTTkxPY1EtcUJlazRBcF9YZEJsRGZHOW1UN1F2OU1VVHdkYkF2a1h0NnVTc0p3b215eUxyUjM1bVpFV1ZYRzl3aWJjRkRQU2xxSThfdktGT1NxcE1NNTNpRXZLNWhWRExfQUlubmN3Ym4tOVRKQjhzZ2RaZ2pXRTdsX3B6Rklwa1Q3eDJHWFhNSUNBMWlQS1ZhbFlTbkhmenlUeDFRenJJdU9WaHJQQUNBRVh5eWpENWpzaWc3SHBLU3R1c2RvZmxoc2VySTJISGVFYUYtb3ZEZERNT3dwaUpVQjhiQkZGM3dnUQ?oc=5",
+    "published": "2026-07-03 09:10",
+    "timestamp": 1783037425,
+    "summary": "리벨리온이 AI 최적화 기업 스퀴즈비츠를 인수했다. 이번 인수를 통해 풀스택 AI 인프라 기업으로 도약한다."
+  },
+  {
     "company": "Infineon",
     "title": "인피니언, 8Tx8Rx 이미징 레이다 MMIC 양산 - autoelectronics.co.kr",
     "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE5aMy1MbGR0aFdkSjA5by1Qc0J0UzJlMDVZYjlPSXRwUXFQQnR6RkZNeXpJSlJEeE1qVTNuYml2cEU2SnpTZVJvMlN6VVFCRHhZT0NNeTV1NEpKYXlkS2VtRnIwZjJpZEZBOFFueThhaGhrM1Zh?oc=5",
@@ -550,6 +598,14 @@
     "published": "2026-07-03 08:28",
     "timestamp": 1783034883,
     "summary": "애플이 CXMT 메모리 탑재를 검토 중이다. 이는 중국 반도체 생태계의 진화에 기폭제가 될 수 있다."
+  },
+  {
+    "company": "Infineon",
+    "title": "인피니언, 드레스덴에 세계 최대 규모 ‘스마트 파워 팹’ 개소 - 투데이에너지",
+    "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE9VMHltZW11NjlqaWdvM2haeUxncVZjN3hhMDZXdUZpaU42aVpnWkd1T1N4bzRyRzJDclMxSDUxYUpfZzhGa1NmWEJ1dnJ6bnRfNmFDZ2Q1RXh5RlREdFRYS01POFdaTzlMQ0tmOHRn?oc=5",
+    "published": "2026-07-03 08:20",
+    "timestamp": 1783034446,
+    "summary": "인피니언이 독일 드레스덴에 세계 최대 규모의 스마트 파워 팹을 개소했다."
   },
   {
     "company": "Apple",
@@ -22502,77 +22558,5 @@
     "published": "2026-06-04 02:47",
     "timestamp": 1780508842,
     "summary": "글로벌파운드리(GF)가 시놉시스의 프로세서 IP 솔루션 사업부 인수를 완료했다."
-  },
-  {
-    "company": "Qualcomm",
-    "title": "제조업체 Qualcomm은 새로운 Samsung Galaxy S27 라인에 장착하기 위해 Snapdragon 칩 가격을 인하합니다. - Mix Vale",
-    "link": "https://news.google.com/rss/articles/CBMi2gJBVV95cUxNTFZCbFJSaHZ1ZDRWQnd5RHRvdVNsaUZRSU5USDdPMC1CWlhwRHZiLUZyMTVpM2NkSFFQUlRTRFFObkRYWGNMd0FaRVE1dGhteHVudURJbnk0alZlX0NsT256d0lFcE4wei1FWERwbWtFU05tUXRIM09XajJTTTZZRnpVa0czT0syYlk3ck51NHJjdEJMY2tsczcwS3dnWURqMkh1RWVDSFlWNHFLT05jd3ZpZzl6UkxDRk5oeUh2Q2syRnU1YUlRSkFyOEhubEZkdnpXb1ZseFZpMWhnQ2t3eHJQS1hmOVQwNFBmb0pqaHIyODhTdVREZTdIaGFBTlhlRVljYmVDcTZrSkZpaFE3c3d2dTdyVUxlRlBuZDZVMm40RVhCTWFOdk9ZeFZwdmM0UVgtdmJHdkxsM2N0UEJXeEktdG1nSEdQUmtjYnhBWXBwYkR0Sk0xbXF30gHfAkFVX3lxTFBMVHk0V2tFU3lWRnNkSWNBdTRYMHQtM0EwSEJEMEhNa0twUWYzY3MySFF2czJiRWE4NGtUSHRWeDRyUEg3V0pqdngyZFhNbmZoeWc1S0NqUHNLOG9YblgwajdvS3pORmVncGdDSlViSXRwYzZyWXk0UktiWm1JbjNqSE54Z1VxamlYV2d2QTA0RkhnLXNaeEM1b0owdEdmSGRPQUpRRGcxeUhWeFVRUXVTOEM1ZXhKVHlQZFNOU2I2ZXJ0YXNic2J5TW5Lb2tiMEFiSkpMRDZ1eHFwMENNaWZPb1VXTkEtUGZUNlZwOXVTc19VVktUMWd2MWZ5TF9LLVk0U3prdEw2Q3FMTFhiczhESklKS3JYVkRmc1F4Q0lNZURRcWxSSTVQTTg1NV8xMkhlUXNGYzVRMXZ4UkhWNTlZV2pBOUVxZkpPT3BCMFZsQzdCRnh2d2lzUmlfNTUtRQ?oc=5",
-    "published": "2026-06-04 01:26",
-    "timestamp": 1780504002,
-    "summary": "Qualcomm이 삼성 Galaxy S27 라인에 탑재될 Snapdragon 칩의 가격을 인하한다."
-  },
-  {
-    "company": "NVIDIA",
-    "title": "아카마이(AKAM)는 데이터센터 해자를 재정의하기 위해 엔비디아 AI 패브릭에 가디코어를 내장하고 있나요? - simplywall.st",
-    "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOUmkwSDlvbzdiN2xSeWVOTDc4SGF3VWloMlZ5SGJtWDd6cnl0eERzMlVqOWVOUXhVU2RQVG1UNzkzZURMOVV4R3R4NjRoWU9tTHJtX3ZCMHE4enRwS19Md2x0bWpVcUQ5Y3YtMm9ETTdDUkNNX3owUXBQZXJpV09ZRHg4bmpYd05NQzhlc1BIa3JGNUdaNXAtNktIZVRPR0tfeHlr0gGjAUFVX3lxTE5SaTBIOW9vN2I3bFJ5ZU5MNzhIYXdVaWgyVnlIYm1YN3pyeXR4RHMyVWo5ZU5ReFVTZFBUbVQ3OTNlREw5VXhHdHg2NGhZT21Mcm1fdkIwcTh6dHBLX0x3bHRtalVxRDljdi0yb0RNN0NSQ01fejBRcFBlcmlXT1lEeDhualh3Tk1DOGVzUEhrckY1R1o1cC02S0hlVE9HS194eWs?oc=5",
-    "published": "2026-06-04 00:52",
-    "timestamp": 1780501960,
-    "summary": "아카마이가 데이터센터 해자 재정의를 위해 NVIDIA AI 패브릭에 가디코어를 내장한다."
-  },
-  {
-    "company": "Groq",
-    "title": "xAI, 그록 학습 전문가 채용 일시 중단 - 블루밍비트",
-    "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE1RNUlFdUlqRnBLTVF1aDM1TGp5WGN3ZzN6RUFBdldDaEVjSVBQOHFCUXY4QzZjVWJ2ZWYxbmpCYWNlQlB4dDJZdVJaejdEVGNO?oc=5",
-    "published": "2026-06-04 00:42",
-    "timestamp": 1780501358,
-    "summary": "xAI가 그록 학습 전문가 채용을 일시적으로 중단했다."
-  },
-  {
-    "company": "Apple",
-    "title": "Apple, 새로운 폴더블 iPhone Ultra를 위한 M14 OLED 패널 및 고급 냉각 정의 - Mix Vale",
-    "link": "https://news.google.com/rss/articles/CBMi4AJBVV95cUxPTWFMNWRPQ3ZuQ0J4aFVrbTFWTzN6MmtaeUQ2MU9PYlBPZnloUnRlS0lyaDlvNXA4cWd2X0dNSm5PY3pBNU5BQkdwVThwUGtiWkJWc1FGNHVfQmI3ZE1HNDk3bUNzS1BlRG83SDdHQXl0LVRyYkNnMko1UmlJWTZVdzVZdjFIUUJpM0lrN0xfeVVvZjZibXhwWE5HLVM1dWFWV3RobTFzdlQxNkJCMDRsbzRvNlpLRnB5bElHSFhpeXdRM1pwU0wyMzVxbzdvaDA5a2NzOGVqUkpLbk9yX1JKRkYyMGp2cVhENXpTeEh6ei1vdHAxOXB5YkZ1YkFqQldJMFVoTnMwNTJCbGxhQVItYWhfWjUxdWVvS05ZcGJaWlNjcksyX1F2S2FvazRaWjd4Z2tIeFQxeDFudTh6LVVFcndTeDNBaGpzUlRFR3pSNlJ4cUJ6aWVhcG1aWm9ZRmFv0gHgAkFVX3lxTE9NYUw1ZE9Ddm5DQnhoVWttMVZPM3oya1p5RDYxT09iUE9meWhSdGVLSXJoOW81cDhxZ3ZfR01Kbk9jekE1TkFCR3BVOHBQa2JaQlZzUUY0dV9CYjdkTUc0OTdtQ3NLUGVEbzdIN0dBeXQtVHJiQ2cySjVSaUlZNlV3NVl2MUhRQmkzSWs3TF95VW9mNmJteHBYTkctUzV1YVZXdGhtMXN2VDE2QkIwNGxvNG82WktGcHlsSUdIWGl5d1EzWnBTTDIzNXFvN29oMDlrY3M4ZWpSSktuT3JfUkpGRjIwanZxWEQ1elN4SHp6LW90cDE5cHliRnViQWpCV0kwVWhOczA1MkJsbGFBUi1haF9aNTF1ZW9LTllwYlpaU2NySzJfUXZLYW9rNFpaN3hna0h4VDF4MW51OHotVUVyd1N4M0FoanNSVEVHelI2UnhxQnppZWFwbVpab1lGYW8?oc=5",
-    "published": "2026-06-04 00:29",
-    "timestamp": 1780500578,
-    "summary": "애플이 차세대 폴더블 아이폰을 위해 M14 OLED 패널 채택과 고급 냉각 시스템 설계를 정의했다."
-  },
-  {
-    "company": "GlobalFoundries",
-    "title": "키사이트, 포토닉 설계 툴에 글로벌파운드리 지원 추가 - Investing.com 한국어",
-    "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBCUXVxT3NOSkktSEN3cWFjaWpMa21xWTI2ZnRCSW9Rekhtc0UycmU5S2tyaW1TQW0xRngxcElNRkI2eVpUQks2Y3BTLWlCNmtIdW1ycDl2cGxXemhNckhjaGxCOVpfb3RXRVdONHhDbTI?oc=5",
-    "published": "2026-06-04 00:06",
-    "timestamp": 1780499160,
-    "summary": "키사이트가 포토닉 설계 툴에 글로벌파운드리에 대한 지원을 추가했다."
-  },
-  {
-    "company": "AMD",
-    "title": "더 빨리보다 더 오래… AMD의 고객 중심 승부수 - 천지일보",
-    "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5ZajVkbGZtWFZxYzktTE1iam1qSVd5aEoteTY0RUdWd2E1TzBhVmp1d0lMOWpuYTV4eGhvb0FZamxEUVlUdWdsM2FNSGY1Zl8xb3BvQzB5c3E2UWtFWnJoc2Nlc0loRVdqR1E?oc=5",
-    "published": "2026-06-03 23:54",
-    "timestamp": 1780498468,
-    "summary": "AMD가 고객 중심의 전략을 통해 더 빠른 성능과 더 긴 제품 수명을 제공하는 승부수를 던졌다."
-  },
-  {
-    "company": "NVIDIA",
-    "title": "엔비디아가 RTX Spark를 출시했습니다. 이제 애플의 반도체 기술이 윈도우 PC를 위협할 때가 온 것일까요? - آي-فون إسلام",
-    "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQZXl6eno1VVoxMTJlTW40QUFrcDFGSVBQeEdOcFBNYXlRbmMxcWtkU1BBRnJ3Y3BIT2tDRVdlS0FZTVpOYjlRR3JYdC1FYW13WVhuN1Y4VmgwZkRrelZsSmtnLU5ndWUzOVBWWEhKU1RfZ3BoZS1FYUtOaTE5MzAwNEFERkttSUpYLUNRcw?oc=5",
-    "published": "2026-06-03 23:45",
-    "timestamp": 1780497907,
-    "summary": "엔비디아가 RTX Spark를 출시함에 따라 애플의 반도체 기술이 윈도우 PC 시장에 미칠 영향이 거론되고 있다."
-  },
-  {
-    "company": "MediaTek",
-    "title": "새로운 ASUS Pad T3201은 태블릿 시장에서 경쟁하기 위해 듀얼 OLED 화면과 MediaTek 칩에 투자합니다. - Mix Vale",
-    "link": "https://news.google.com/rss/articles/CBMi2gJBVV95cUxOakg5RG1adUVZRnFGN1BKTnJFUExNTTZrLUx1dVdlWXpKMmF3blNfTTBJYzhJb0ZzWEU2dE9BaUxzQnd0V012UHhkMFBZb2c2el9BdVJxVE1pSXdmX1RSdDA4bGxyQ3Fia1pPQWxBNWcydTYzbzBhRE00LUVCaW5WSXdZNDJzQkhxbktfWjNoWV9FN05NV0lyaENwMHdMWWRyYXU2bUY5NEswVmxtVXMzQkNvM2MxVWlIaHVkdnBtcmhrN1pJeG52eU14XzJzeUliYjJoaktHMlZiUnJub1RRcmpoZ3ViVTY5eTY4RWZSZ3U3LU5pLXV6eDVlamlsTGVyMkxEcWxvTVJJVlZiMElRSzg5QWVSVnBvTnpvMEVGNi1WRDhiU3lGb1FadVdUbWg3RUpNb3BteG8tRWptZEE2eTdxNTNPU0RXN0hPM2dNV210U2xoeTBranNR0gHfAkFVX3lxTE5zRXcxRlpLTVA2OUlBdmFOVVNxWEQyeFFiZEVNTkkxWURIRms0TFd0MmdPUUNQdVVyd2xYQ0hvREVQNFhSbEdudHNQMU44OTBzSE1GUFcwU2haWGZCWThKRTdKdTJpMU91RUE4VjJGbFI3TFA1MXNaOVJVb2ZsdFBvUmZEaWQ5SDZSa3MzaXNobk9FYUFrYnZyT0tDTEExZUhJSmVfUXAzbmp2bFByVk55QmllaHpNby1Va2V2eHV3cE1QN2xUczNobVFIejNrMjJYcEZtVXJmbmlZU0RDdU9UQWYzaFZjRGhqNHZVUnIyOWFUTVl0YU53V2U5TlZ1UGg2S0lDOFZiMFkwQ3dWZ3o4eUFVY2FHVk5Od29qaWl2YWhlMFlZZHJYZUE4STZPVFdxVFlUYjFNb2xfZXV6QmprblF1cl9HQjBzdllBTktiR1ZZd0lLYTJpVDF3MUl1cw?oc=5",
-    "published": "2026-06-03 23:40",
-    "timestamp": 1780497659,
-    "summary": "ASUS가 태블릿 시장 경쟁력 강화를 위해 듀얼 OLED 화면과 MediaTek 칩을 탑재한 신형 Pad T3201을 출시한다."
-  },
-  {
-    "company": "Qualcomm",
-    "title": "AI PC 승부수 던진 퀄컴… 로봇 생태계 확장도 시동 - 천지일보",
-    "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9EaWRmZkdlYmJ3dzVnYmEzT2N3R0dYQ0xMdFhRaF9DdVl4ZDFEd210M1VlclV5NGJIRzhfWF95RWlQa0dJeHd2dFlOZ2VJalozakJlcXUtUmU4TnBFU1dmT0Rid3E2NzE1Umc?oc=5",
-    "published": "2026-06-03 23:29",
-    "timestamp": 1780496987,
-    "summary": "퀄컴이 AI PC 시장에 승부수를 던지며 로봇 생태계 확장을 위한 시동을 걸었다."
   }
 ]
