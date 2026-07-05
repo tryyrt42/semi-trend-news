@@ -1,5 +1,29 @@
 [
   {
+    "company": "Apple",
+    "title": "애플, 메모리값 못 버티고 가격 인상…삼성·SK하이닉스 '엇갈린 셈법' - 네이트",
+    "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFAwRUxDa0dHZE42alFOOEQwenZpUXNEZTQ0N3lFUVc1XzEtVDJsOS16RHk3aWk0ZFhNcjEzazk4LXdJc3JKV1FjNVZfRHBLc21sVTg0SDR4eHR4Z3IxWnRIRw?oc=5",
+    "published": "2026-07-06 06:02",
+    "timestamp": 1783285320,
+    "summary": "애플이 메모리 가격 상승으로 인해 제품 가격을 인상했다. 이로 인해 삼성전자와 SK하이닉스의 셈법이 엇갈리고 있다."
+  },
+  {
+    "company": "NVIDIA",
+    "title": "엔비디아, AI 붐 수익 신모델…스타트업 지불할까? - BeInCrypto",
+    "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE5hYVNzdUc5TnRXZlhOTjZzQ3RmMWlxcDRBU2xoUjAwNUI0RHJwZEpSOUtIOTJ4YTVobF9IaHdYQ0dtQ1huOVhhRmxxTDkxT0xKTWNtVlVoYTd1WXUweDN1eVVrdTBITHZMVG9pNjgzZzZTZw?oc=5",
+    "published": "2026-07-06 04:39",
+    "timestamp": 1783280395,
+    "summary": "엔비디아가 AI 붐을 활용한 새로운 수익 모델을 선보였다. 해당 모델에 대해 스타트업들이 비용을 지불할지 여부가 주목된다."
+  },
+  {
+    "company": "Samsung Foundry",
+    "title": "“공정만으론 부족”… 삼성 파운드리, AI 고객 잡을 생태계 싸움 본격화 - MSN",
+    "link": "https://news.google.com/rss/articles/CBMirwRBVV95cUxPbDRremFRMzQtT3d6WjV6dVBJUG1MZWNwVjZFR0t1SGxyT0RWd2hWV3BjNWZBS2k0ZEM3SmRLSE4yX1JpVDVPamhYQnJtcmFwMVZsNFEtenktT09UUzZNVm5DZ0ppLWNpZ18wenJWTmk3MGxyUVFyZTg0ZllSNnkyczFDRDBISXE5Vmd2WlN4Um5EVW5ON2k0STlMc1dkVTlsTmNra29aakdPWFd0VDB5YnJWR3ZyQWtZbFBVc2UzR3FkQlpDUXpFYS1DZzE3RG1uVllvMTRRTnJrTmhONXM2aUJnTlRISFJkbHhLUk16cjdmd3RmenFwQ3YxWXlrOWV1NmktMVZyRTZTZlBzSG5HLWx3TnhDbGRqOV9hTUFDcE02S2VNalNubDNSQ2wxaUIzT01ROTV0bVVWYzdUUGVVaDJMWGVKRjBHWmU0V1FQQXRwb2NDYTctMzRfUXN3RzdzSTVmaGJ2bUpXNmNrUUpySW1MeXI5TVgweVBYcm1GYVJnQldQUmJRRVNBbXdwNFlYWEhhbWYwbk84dm90QWNGbnpzY0ZTcGdubFhxdW51UGRkcmFhWmRGV0p1bTR1YUhRLTY2TmIwMFJzSWJ2ZTR5U2tmN0JWbTNuZzRzdnViTm1XdTduaHhpOFNBRy1UTW5CMUFyR2lPMHh3VUU4U1ZfSVNtdEV1a3RiNzVfRjhtYkUycnZuRnVHZnV1NFMxdzJGdFpMUG1zMk1yUUZ1Y3hn?oc=5",
+    "published": "2026-07-06 01:51",
+    "timestamp": 1783270264,
+    "summary": "삼성 파운드리가 공정 기술을 넘어 AI 고객 확보를 위한 생태계 강화에 나섰다."
+  },
+  {
     "company": "NVIDIA",
     "title": "AI 전기·물 부족 해법 되나…소형 원자로와 엔비디아 냉각기술이 만났다 - 에너지안전신문",
     "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFBJdktpYWVjbGo2TTV3U2JTaFBYVjVCOUotajJxNVJlV0tuMGlGVlpWWFBIS1Noclg5RjVmRGFQWGhTbWg0U3hNY1NGLWZpb0RNbldGOUZmRE1YbVZlejVnVUYyMWg?oc=5",
@@ -38,6 +62,14 @@
     "published": "2026-07-05 20:48",
     "timestamp": 1783252134,
     "summary": "엔비디아 서버를 제조하는 폭스콘의 2분기 매출이 40% 급증했다. 다만 폭스콘 측은 시장의 불확실성을 주시하고 있다."
+  },
+  {
+    "company": "Microsoft",
+    "title": "마이크로소프트, AI 전략을 오케스트레이션으로 전환하며 코파일럿 통합 - MSN",
+    "link": "https://news.google.com/rss/articles/CBMixANBVV95cUxPdFV2Y2NNTF9EY3lReXJLOUdpbExIeHIzUjdMaklvalhFTVhSS29CY29ra3Q2Q3kyNXJoMXluSnFtcFU5TzNhRmtUWnJfRzdhb09vT3VfTVowQ0U5UEVBam5UZzdRWDRjNzVFR2VKZUZESzBOZzBaM25lWkpQTWJZdGYyZFg1QXluOE9iLVJMOGRPVDhpMV8ydDVOSy1SUk40UDhhZWVVcWc1d09BWGJCd0Z0eE14aVFjMU9FMW5yd1JLTTIwenVFdFdOazJLelBfOHhVMmQ2WHU1Mk5wWlBaV3l4cmtBeEMtM0NiQy1sRW5EZzR6UHRXRWVhTzVBV1M4eFdOYmwyYjVWOTVPdmZuN0tyWEwtS2xFMjl2NEMzUUtCNGFrN2UzRXJteUt5eS1aNTZ4dXYzNUVIMnpIQUpwYmtHczNqUHVSOXBrS2N1VkI2R1owZ2tNSzBpQWNRNkY2ejQySlVqSmI4TXU1b2M4YnFVWHl5UkVhNk9qNW5JeEF2empLWGhTNjVFS29GenJ3SWFWbTAzOWtydHQ3SGREa1BMRGxHd0MzWE8wQ2ZwNHZEazJWOVNDcmlfNmNhdkx2NHFsbg?oc=5",
+    "published": "2026-07-05 20:46",
+    "timestamp": 1783251981,
+    "summary": "마이크로소프트가 AI 전략을 오케스트레이션 방식으로 전환하며 코파일럿 통합을 추진한다."
   },
   {
     "company": "Intel",
@@ -126,14 +158,6 @@
     "published": "2026-07-05 15:51",
     "timestamp": 1783234277,
     "summary": "애플이 중국 기업과 협력을 추진하고 있다. 이에 대해 가격 정책과 관련한 업보라는 비판이 제기되고 있다."
-  },
-  {
-    "company": "Samsung Foundry",
-    "title": "“공정만으론 부족”… 삼성 파운드리, AI 고객 잡을 생태계 싸움 본격화 - MSN",
-    "link": "https://news.google.com/rss/articles/CBMimANBVV95cUxNNTdnMU5kY29EaURDcmZKc0R5Rl9kak1sRy1ORDhUMXpSd2ZuTUlMejhkVC1sMW1qSGtJSTQtZ1NEMHBDZE1rWjRHYkxsY2RWZGptS2ZIYmZkWEVVZG1mRXhCR280LThQTEp2Y1AxdUdrbFF5a1lZNENaV25vQ0VmY1RLRXQ2M28zSU9zUldOS2lOMEp5OUtaRmN0YVFIRDRoS0JqTGpVNG92eGtwb2lXOHJTYUh2aVJ5TXZRb19kZUFZLWdYQTRWMHdnWkR4a1c4cGFMdWFQTlhiaXZnbXlac1NxSVFGTk5qdmxNeENSZTVKU0FLREVEeFBnclYybjlaUkcxRVVVY2VIYTVGYWlyb3ZpWGdPOHRwVVlJeHdsUkQtRTlIX2d0cUpTUUhhNE8weU1SSk9TSUZQM09Yc29yU2tVeEFKNjUxRU5iM1IzRkpVeVE5N0NkRkdJb1oweVd1MGQ0YzBvR3N3MTN2UWtOM0xneC1hcW80UGtkTkJ2ZUlDOU5CbnpzYkQ1N2c2NkdmalRrekgyT0Y?oc=5",
-    "published": "2026-07-05 15:25",
-    "timestamp": 1783232743,
-    "summary": "삼성 파운드리가 AI 고객 확보를 위해 공정 기술을 넘어선 생태계 구축 경쟁을 본격화한다."
   },
   {
     "company": "Qualcomm",
@@ -462,6 +486,14 @@
     "published": "2026-07-04 16:41",
     "timestamp": 1783150907,
     "summary": "인텔이 코어 울트라 및 제온 CPU 일부 제품의 가격을 인상했다. 이는 공급망 비용 상승과 강한 수요를 반영한 결과이다."
+  },
+  {
+    "company": "Intel",
+    "title": "인텔(INTC), ASUS 교육용 AI 기기 출시로 엣지 AI 확장 노린다 - simplywall.st",
+    "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNZ0tzYnd4S3Z6d2ZnV0RDcHc0Um1sc0hkVV9CbndiSXphYURSTkdOb3pKbFVfM1ZSOGgyNGoxYmVvS3RMVFhvbE0tZFIwMWtGNC1QdW56dDhhQUpvNmpTWGhDc25vTnhMcExsX01KT2lLOFhSWGc1RnNvYnRBRGhEaGMxZ3dwMXZMY3I0RUg4b3RVQkHSAZgBQVVfeXFMT3BZT1pjUTRTazV4ZGxTclRGV0hZbVBRbC1oVmsxamR4ZkVsLXhaTDg5REpGaVRrQ3BRa1NSaVAyUXktaHBpRmkyUi1fWGhfdTNYdGxWWkRITDdnLVJNWjRNVnZPMEkwTFlYc2JEN2JXZktXRzFtb05oX1o1Qm1pTTVMeXVPVDJkRU1McXlKZzRLMkIyaWVQbGk?oc=5",
+    "published": "2026-07-04 16:00",
+    "timestamp": 1783148400,
+    "summary": "인텔이 ASUS와 협력하여 교육용 AI 기기를 출시하며 엣지 AI 시장 확장에 나선다."
   },
   {
     "company": "Intel",
@@ -21134,21 +21166,5 @@
     "published": "2026-06-06 06:11",
     "timestamp": 1780693900,
     "summary": "엔비디아의 피지컬AI 매출이 1년 만에 90억 달러를 돌파했다. 로봇과 자율주행 분야가 차세대 성장 엔진으로 작용하고 있다."
-  },
-  {
-    "company": "NVIDIA",
-    "title": "엔비디아, 한국 AI 기술센터 설립 착수…서울 근무 인력 채용 시작 - CBC뉴스",
-    "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFBvN3ZuejRFenhjSm9EeUNoVGlwenBoMUdTdW5uc19yVlBvZmhKRkdTMEhfd2t5aGhRUFVZZmVBbllvRDBhb1JlYXlMcW90dS1PTjY0bkZ3S3hRMXllR2R5azBJQ2V3RnRf?oc=5",
-    "published": "2026-06-06 06:05",
-    "timestamp": 1780693500,
-    "summary": "엔비디아가 한국 AI 기술센터 설립을 추진하며 서울 근무 인력 채용을 시작했다."
-  },
-  {
-    "company": "퓨리오사AI",
-    "title": "퓨리오사AI·리벨리온·딥엑스, 실증 넘어 양산 경쟁 본격화···사업화 시험대 - 시사저널e",
-    "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE9rR204RVVtcXVXNWVFYTJoN1doNGRpbXR3NDk1MjFEbmUtSk1SandBa1M1Wm9TUDQtVVViTHpPRTk4bmx1NFNxei1HRmJ1ZUR6aUZXc0dLeUlCR2JSQmJiRHp5ckplQTFyMnBJTjNvUFBadjFndVHSAXZBVV95cUxPa0dtOEVVbXF1VzVlRWEyaDdXaDRkaW10dzQ5NTIxRG5lLUpNUmp3QWtTNVpvU1A0LVVVYkx6T0U5OG5sdTRTcXotR0ZidWVEemlGV3NHS3lJQkdiUkJiYkR6eXJKZUExcjJwSU4zb1BQWnYxZ3VR?oc=5",
-    "published": "2026-06-06 05:07",
-    "timestamp": 1780690059,
-    "summary": "퓨리오사AI를 포함한 국내 AI 반도체 기업들이 실증 단계를 넘어 본격적인 양산 경쟁에 돌입하며 사업화 시험대에 올랐다."
   }
 ]
