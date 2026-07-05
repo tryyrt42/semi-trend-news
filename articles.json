@@ -1,6 +1,38 @@
 [
   {
     "company": "Apple",
+    "title": "[뉴스 속 경제] \"중국 반도체 써야\" vs \"애플, 공급부족 자초\" - v.daum.net",
+    "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE1ZamtxVEtaZnRfalZqbTNmaHZ1MGZ5c2dsNWNrRVFWLW9ZRll5SFliekV5QnJ5X1VQM3EzQ1JTNU5GbDYxTF9zN0x5cXZwUzA?oc=5",
+    "published": "2026-07-06 07:55",
+    "timestamp": 1783292115,
+    "summary": "중국산 반도체 사용 요구와 애플의 공급 부족 자초 논란이 제기되었다. 반도체 공급망을 둘러싼 애플의 전략적 선택이 쟁점이 되고 있다."
+  },
+  {
+    "company": "NVIDIA",
+    "title": "엔비디아(NVDA.O), AI 인프라 진입 장벽 낮춘다…매출 공유 모델 도입 - 네이트",
+    "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE9hZHRkcS1EY00teDA2OHlVbm55MjJUbGwwV1BscjU3X1FaS1RZWmxhUjlRT1g1Z3dMN090SEUyYll1ZXJyR0tKZnRzSE1UbjVNX0Jn?oc=5",
+    "published": "2026-07-06 07:41",
+    "timestamp": 1783291260,
+    "summary": "엔비디아가 AI 인프라 진입 장벽을 낮추기 위해 매출 공유 모델을 도입한다. 이를 통해 AI 인프라 접근성을 개선할 계획이다."
+  },
+  {
+    "company": "NVIDIA",
+    "title": "엔비디아칩 478배 앞선 중국칩 등장…'디지털 뇌 쌍둥이' 만든다 - 네이트",
+    "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE5aemNKR0Excm90cDlPd1RHamUwZjNveDAtdlYzY1hKVlF6MURRcjBuY3VZZHc0VWxCdGdvaHZYZ3BSMzBqZGNJZm1SbXJGR1ozMlJZ?oc=5",
+    "published": "2026-07-06 06:33",
+    "timestamp": 1783287180,
+    "summary": "엔비디아 칩보다 478배 앞선 성능을 가진 중국 칩이 등장했다. 해당 칩은 디지털 뇌 쌍둥이를 만드는 데 활용될 예정이다."
+  },
+  {
+    "company": "NVIDIA",
+    "title": "AI 추론 중 데이터 어떻게 보호하나… 엔비디아의 GPU 기밀 컴퓨팅 [보안 아웃룩] - IT조선",
+    "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBYWVVIV2NWc2VDZFpWNEVmdnVxYmdFTGU5SW4wS3V1QkhVLTJxZ3RDOURPRk5aTksxdEFtSEtxTGtpNTZNaVFMcmdmQi1ZcFcwLVdvUU1qYXQ2d3VRSnFHUEh6MTVNZmJsZy1IRGRiUzTSAXRBVV95cUxQVFFQcFE2c0ZwWEp0VlNWT0xZODJnSk5LSjFrWkVESFZmMk54eGxwV2hNemhtNk1TYXRpV2VtWWNlTGhUQ2Vtemp3WTgwOGpadmV0dEcxbWRRajYyZ3JpUWhzeXIzdWJVaGhWbmhmQzBsWHJZXw?oc=5",
+    "published": "2026-07-06 06:30",
+    "timestamp": 1783287020,
+    "summary": "엔비디아가 AI 추론 과정에서 데이터를 보호하기 위한 GPU 기밀 컴퓨팅 기술을 소개했다. 보안 아웃룩을 통해 관련 기술의 중요성을 다루고 있다."
+  },
+  {
+    "company": "Apple",
     "title": "애플, 메모리값 못 버티고 가격 인상…삼성·SK하이닉스 '엇갈린 셈법' - 네이트",
     "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFAwRUxDa0dHZE42alFOOEQwenZpUXNEZTQ0N3lFUVc1XzEtVDJsOS16RHk3aWk0ZFhNcjEzazk4LXdJc3JKV1FjNVZfRHBLc21sVTg0SDR4eHR4Z3IxWnRIRw?oc=5",
     "published": "2026-07-06 06:02",
@@ -14,6 +46,14 @@
     "published": "2026-07-06 04:39",
     "timestamp": 1783280395,
     "summary": "엔비디아가 AI 붐을 활용한 새로운 수익 모델을 선보였다. 해당 모델에 대해 스타트업들이 비용을 지불할지 여부가 주목된다."
+  },
+  {
+    "company": "Intel",
+    "title": "인텔(INTC), ASUS 교육용 AI 기기 출시로 엣지 AI 확장 노린다 - simplywall.st",
+    "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPcFlPWmNRNFNrNXhkbFNyVEZXSFltUFFsLWhWazFqZHhmRWwteFpMODlESkZpVGtDcFFrU1JpUDJReS1ocGlGaTJSLV9YaF91M1h0bFZaREhMN2ctUk1aNE1Wdk8wSTBMWVhzYkQ3YldmS1dHMW1vTmhfWjVCbWlNNUx5dU9UMmRFTUxxeUpnNEsyQjJpZVBsadIBmAFBVV95cUxPcFlPWmNRNFNrNXhkbFNyVEZXSFltUFFsLWhWazFqZHhmRWwteFpMODlESkZpVGtDcFFrU1JpUDJReS1ocGlGaTJSLV9YaF91M1h0bFZaREhMN2ctUk1aNE1Wdk8wSTBMWVhzYkQ3YldmS1dHMW1vTmhfWjVCbWlNNUx5dU9UMmRFTUxxeUpnNEsyQjJpZVBsaQ?oc=5",
+    "published": "2026-07-06 04:33",
+    "timestamp": 1783279987,
+    "summary": "인텔이 ASUS와 협력하여 교육용 AI 기기를 출시하며 엣지 AI 시장 확장에 나섰다."
   },
   {
     "company": "Samsung Foundry",
@@ -38,6 +78,14 @@
     "published": "2026-07-06 00:19",
     "timestamp": 1783264740,
     "summary": "인피니언이 독일 드레스덴에 세계 최대 규모의 전력 반도체 및 아날로그/혼합신호 팹을 개소했다."
+  },
+  {
+    "company": "Intel",
+    "title": "인텔, 새로운 노트북용 프로세서 '코어 Ultra 200HX 플러스' 출시 - 인벤",
+    "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE16MVJlMkxYWjdvZUJvdUhiM3JrMjZ1RUtHQVpleWhmcHNiOFBOcVZqTFYtemtibXgyMmN2QWUycnNPdXRjcG5uUnhfOTBVMl9EQjlOaGlfV0hiVGJ2WVVfVmNCSDJGc3M2UHMwb3dKX0g?oc=5",
+    "published": "2026-07-05 22:55",
+    "timestamp": 1783259714,
+    "summary": "인텔이 새로운 노트북용 프로세서인 '코어 Ultra 200HX 플러스'를 출시했다."
   },
   {
     "company": "Meta",
@@ -448,6 +496,14 @@
     "summary": "인텔이 22개의 코어와 108MB의 bLLC 캐시를 탑재한 노바 레이크-S 프로세서를 준비 중이다."
   },
   {
+    "company": "파두",
+    "title": "“1분기 수주만 1500억” 파두, 차세대 AI SSD로 中 대륙 홀린다 - 쿠키뉴스",
+    "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTFBRU21GVkRwcEIzX2t5YlN2ck56dHgtbUJTaThIRlJYZkN6MDZVUms4SmZ0ZVNIUzJRVlNwQVZsSU1NbGFyT3lhY0NsekNOLUswajhMRkNBdkFuTUI5c1ZDWkQybw?oc=5",
+    "published": "2026-07-04 20:59",
+    "timestamp": 1783166361,
+    "summary": "파두가 1분기 1500억 원 규모의 수주를 달성했다. 차세대 AI SSD를 통해 중국 시장 공략에 나선다."
+  },
+  {
     "company": "Meta",
     "title": "메타도 AI 클라우드 사업 뛰어드나…AWS·MS·구글과 경쟁 예고 - MSN",
     "link": "https://news.google.com/rss/articles/CBMi4wJBVV95cUxOa2E1dGxXM0tFQURaeHFqYjFPMUItNXN5WUtXZHNFWHhybFpTblZRSG9xNXBCTWoyMlFnV0ZrZFJDbW1nZnhsOERuM2daamRBUm9PUlFCNnpFOGlNdFBMMXlIM3pwZDNYalpybjZTTk95SlNUNFJOUDlpeDBtNXRZX0lHX0ZybnF0Y2hnUm5fUkJsbkd3TDMwRFlyWjZDMWM2QVRIdlM5Z0dSNWRBZXNha1BtVTFqTHl6bGJJUGQxbExPUkJjTHVZcXR4d01oaDUtTlgwdjRLSTFFOUUyTW9TMXRndWE4cmtoT0VERHQxTE1CdzY0TXNqUm5SRFpKMkJxWXlUb0lEWGlsR3BTSWlQUXcxR0xhbTlQa2JZWXpZVUdZcmRCeEo4Zmg0UTZLc05iVUxMU05idnh3TzNsTEhxdm1ZWTVnaTQteXJBVWhUSFZzUlB4alZtSlM3azRvaG9lLUtz?oc=5",
@@ -486,14 +542,6 @@
     "published": "2026-07-04 16:41",
     "timestamp": 1783150907,
     "summary": "인텔이 코어 울트라 및 제온 CPU 일부 제품의 가격을 인상했다. 이는 공급망 비용 상승과 강한 수요를 반영한 결과이다."
-  },
-  {
-    "company": "Intel",
-    "title": "인텔(INTC), ASUS 교육용 AI 기기 출시로 엣지 AI 확장 노린다 - simplywall.st",
-    "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNZ0tzYnd4S3Z6d2ZnV0RDcHc0Um1sc0hkVV9CbndiSXphYURSTkdOb3pKbFVfM1ZSOGgyNGoxYmVvS3RMVFhvbE0tZFIwMWtGNC1QdW56dDhhQUpvNmpTWGhDc25vTnhMcExsX01KT2lLOFhSWGc1RnNvYnRBRGhEaGMxZ3dwMXZMY3I0RUg4b3RVQkHSAZgBQVVfeXFMT3BZT1pjUTRTazV4ZGxTclRGV0hZbVBRbC1oVmsxamR4ZkVsLXhaTDg5REpGaVRrQ3BRa1NSaVAyUXktaHBpRmkyUi1fWGhfdTNYdGxWWkRITDdnLVJNWjRNVnZPMEkwTFlYc2JEN2JXZktXRzFtb05oX1o1Qm1pTTVMeXVPVDJkRU1McXlKZzRLMkIyaWVQbGk?oc=5",
-    "published": "2026-07-04 16:00",
-    "timestamp": 1783148400,
-    "summary": "인텔이 ASUS와 협력하여 교육용 AI 기기를 출시하며 엣지 AI 시장 확장에 나선다."
   },
   {
     "company": "Intel",
@@ -562,10 +610,10 @@
   {
     "company": "TSMC",
     "title": "TSMC 비상! 주문 폭주한 삼성전자, 내년 공정 물량까지 완판됐다 - MSN",
-    "link": "https://news.google.com/rss/articles/CBMitANBVV95cUxPTjdfYmRxbEdyYzdXQ3BlcjBGcXpsQ09PQVc0Qk5TOU9UNGJoVG1fNjcteU1tLUJBZTBsUjl3aEhrcjFvUkdJT2lDRVQ1N0JRdDBjcnVTSDBmZWRBal84cDVFU0lEWWdjNVVYR1l3dHB5dEY0QUJXUUUyUlVDc0FZX3ZxOGlBRllKUmZ0V1lpZ3Z2RDRqdG8yZjRpZ2N0RXR1Vjh5QmVrSl92VElPRE94NndNVDBmRDZkUTR5S0otekNGR2JhaFp3Q0ZUNmxLaHo1eWFCYldqREJoNG1rOExqSTMzY0xiYXphdGtERG9mYkVaYTFTaVlibXN2R1pZOGQ1bnB4UFAySFNMS2s3TmpRMGNaTGtuS2dZS1YycEZpM0RtbVA3NnNVSlEyUWViLTRORmpPV2tadWFUcUlNZl9XZDRtV1NBZlRjaDhyVl91QmhrOG1PdWU3Z0xZTkhZQTdjLVZtaFBhY0VGYzJhWkx0cFNORm9wYXhuYzVEVDY1bEFQY3Y5SllPazBZTkNxbVB4R0k1R0FSaHBZSXdES3k2VDNYQ3Q5SGFpTGVRcmhMTGtfWEZw?oc=5",
+    "link": "https://news.google.com/rss/articles/CBMitANBVV95cUxNU3d2OFIxNU1FdWF3LTBYZGlQamtPZ1FMc2o2V2JMVTVxTVl2T1JISkFwZnVxLVhnRDd0SmRHTnhBRHNlTXdtczl4SnFURS1SZllLWTdvdU1wUk1oU2pQMWdXWDJ2SXFNdHZiMFkzMkJxX1k1Umt2R2l1eVhwUS1ZblNhMnBWdm1sN1pOYjdNZzJuRXEyd2JmaGRpZEJyTUEtVFlON3VSZzU2eDdYRnNzdlM0dFY5OWxPOTV0ZVRpSTV5enlBbHR1Qk9tM0hvUl9iSTFIUWh6c2RxcUNIQ0NuM1RJS29CdXBCNFUwM09oaVkxUlFVOTA0Zmp2T2RzTVFBajNyR1lqQlZVUjlGdUl0d3h1Zm9oZ00weTZldExpcVF5OVhsRjBEeXRSYVl6eHN6Q25XTmpDdTlWZ1g2YmtvdFl1ajJTU2hYVjRBUnVKWHJoX3FJeTdrLTlXMG01ckdXRmg3aEZnMGN5MThiejlNSEU0aFRHZFBnTXJWMGM1Y0pWLUlsdjFYenpRckJ4SVNreFgtVU1ManFqMGFzZHlpd0lsamJ4bmMxOW1NQktJNFpSQ1lZ?oc=5",
     "published": "2026-07-04 11:44",
-    "timestamp": 1783133058,
-    "summary": "삼성전자의 주문 폭주로 인해 내년 공정 물량이 완판되었다. 이로 인해 TSMC의 수주 상황에 비상이 걸렸다."
+    "timestamp": 1783133061,
+    "summary": "삼성전자가 주문 폭주로 인해 내년 공정 물량을 모두 완판했다. 이로 인해 TSMC가 비상 상황을 맞이했다."
   },
   {
     "company": "NVIDIA",
@@ -21110,61 +21158,5 @@
     "published": "2026-06-06 08:23",
     "timestamp": 1780701814,
     "summary": "TSMC CEO가 AI 칩 수요 급증에 따른 반도체 공급난이 수년간 지속될 것이라고 언급했습니다."
-  },
-  {
-    "company": "Intel",
-    "title": "삼성 쫓는 인텔 파운드리의 부활 찬가…“1.4나노는 더 쉬워…흑자 전환 빨라진다” - v.daum.net",
-    "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE9xbnJ0QmVPTTJYZy1KSHI5a0Y1N3VCOFNFY3cycC1yVG5rbzBUUGl5RFgwQVdrUmsxMVFPMnA1VE5aQy02emdMM2dpRkczU0U?oc=5",
-    "published": "2026-06-06 07:31",
-    "timestamp": 1780698717,
-    "summary": "인텔 파운드리가 1.4나노 공정의 용이성을 강조하며 흑자 전환 가속화를 예고했다. 삼성전자를 추격하며 파운드리 사업 부활을 추진하고 있다."
-  },
-  {
-    "company": "Marvell",
-    "title": "마벨·플렉스, 22일 S&P 500 편입…기술주 존재감 확대 - 디지털투데이",
-    "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTFB4a05jcXpRdEZCaEFNQWJNdm9Ba3p4ZTQ4aE40bTZUUWhlZjAxOGtUQU9VSUY3Ym9ZWHBJUE1qRnlaek94dkVOakVvQmstVjA0Z01uWV84dGdhdE1SY2tHWEhzRDVCZ1N3Uy1XTlZCYTlnR0k?oc=5",
-    "published": "2026-06-06 07:19",
-    "timestamp": 1780697940,
-    "summary": "마벨과 플렉스가 22일 S&P 500 지수에 편입된다. 이번 편입으로 기술주 내 해당 기업들의 존재감이 확대될 예정이다."
-  },
-  {
-    "company": "Broadcom",
-    "title": "구글·브로드컴의 출발점을 아시나요···대학 창업, ‘죽음의 계곡’ 넘으려면[경제뭔데] - v.daum.net",
-    "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE5Ld0FkX2c4cTc2NFBVYjVqTmZMTmpiSUJFa1RJWUdaUFdLRG91NGFONWNMdWMwMlFLTzdVT3JjbzZuc0kycm5lNWNQN3NLMTQ?oc=5",
-    "published": "2026-06-06 07:02",
-    "timestamp": 1780696937,
-    "summary": "구글과 브로드컴의 창업 과정을 통해 대학 창업이 겪는 '죽음의 계곡' 극복 방안을 다룬다."
-  },
-  {
-    "company": "Broadcom",
-    "title": "[경제뭔데] 구글·브로드컴의 출발점을 아시나요···대학 창업, ‘죽음의 계곡’ 넘으려면 - 경향신문",
-    "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1GMFVsd2VJSlRFNEt5Sm8xd2lVak9oclNreF9DV2lqbmVzY096MEdHUUFMd1FHcm1DZWl3MjdFSFhJU1FHdUJYaUtWcUtnbHZONXhWWWhZVVJRUdIBX0FVX3lxTE9kYml2aWdpVDZ3R0EwdXRiTDdnNEVVMnVHczhJZy14YWtFelBsU2FhY0wzZ0RMbm5yM2VRdEhYakRPS3ljVUptRlk4eFFwMHhoeXF4cDB2NnFIZ2dYdWNF?oc=5",
-    "published": "2026-06-06 07:00",
-    "timestamp": 1780696800,
-    "summary": "구글과 브로드컴의 창업 배경과 대학 창업 이후 죽음의 계곡을 극복한 과정에 대해 다룬다."
-  },
-  {
-    "company": "Broadcom",
-    "title": "어닝 서프라이즈에도 12% 폭락한 브로드컴 - 네이버 프리미엄콘텐츠",
-    "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPd2lOUGQ2X09MczhhT2hTZnUxZUdFSGVObGdXRVRXRkp0UWZ1ZUU3Yi1zSGhfbktBZWhVdFBXUnRUQW5fakp4RkdRblNEZ1c5UHpQUkJGSFl4ZFJZSGVXX2lfT2p5TGcxSDE3TGFOUVgwYkpKTExDcmdzT2NpSG5TUHNvMC02Z0ZvUWhLWk1aNExHUQ?oc=5",
-    "published": "2026-06-06 06:59",
-    "timestamp": 1780696740,
-    "summary": "브로드컴이 어닝 서프라이즈를 기록했음에도 불구하고 주가가 12% 하락했다."
-  },
-  {
-    "company": "NVIDIA",
-    "title": "엔비디아 서울에 AI센터 설립…글로벌 거점 - bntnews.co.kr",
-    "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFA0UnR6dDVIb2xIZXRFbUJYWGRib0UtOEhHd3E1Y2gtUVlOVUFreGdtcHAyaFlNVHhRLXVKdVFyaGhLYkNkaDFETUhVTVZjX3NvTWdqR1RYNHRCNjBjWDhhc3VYVFc?oc=5",
-    "published": "2026-06-06 06:42",
-    "timestamp": 1780695723,
-    "summary": "엔비디아가 서울에 AI센터를 설립한다. 해당 센터는 글로벌 거점 역할을 수행할 예정이다."
-  },
-  {
-    "company": "NVIDIA",
-    "title": "엔비디아, 피지컬AI 매출 1년 새 90억 달러 돌파…로봇·자율주행이 차세대 성장 엔진 - 초이스스탁",
-    "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE92QjU1bGpuNDB6NVBtSnhkOGJKZUxRQlJleXZXSGRhTUF6aHNmQ3VNMld6SFkwTGI5LTF6RXhUZjlVd3lmRm5OWUxBQTVlV21nXzdnY2xzWGYxeVJlMkZ1TXM5RHNHNFU?oc=5",
-    "published": "2026-06-06 06:11",
-    "timestamp": 1780693900,
-    "summary": "엔비디아의 피지컬AI 매출이 1년 만에 90억 달러를 돌파했다. 로봇과 자율주행 분야가 차세대 성장 엔진으로 작용하고 있다."
   }
 ]
