@@ -1,5 +1,21 @@
 [
   {
+    "company": "NVIDIA",
+    "title": "엔비디아, 딥시크 자체 AI 칩 개발 보도에 ‘흔들’ - 마켓인",
+    "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTFB2N01zdGhpUVgzclVsbFNKVkVSZWpFWGNFbDN3QzRZc3RIMHdPZElPeWhTb3VHN2E2WThIQkVNTnBrc1BrR2tkUEFqMHBDcW9SYl9TakZWSkNleDBHa2ZKS0R3MmNGaVpUaTIwdVJkR0xZUDQ?oc=5",
+    "published": "2026-07-08 04:44",
+    "timestamp": 1783453464,
+    "summary": "딥시크의 자체 AI 칩 개발 보도로 인해 엔비디아의 입지가 흔들리고 있습니다."
+  },
+  {
+    "company": "AMD",
+    "title": "[GAM] AMD ② 7월 '어드밴싱 AI' 행사와 8월 실적 발표 주목 - 뉴스핌",
+    "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE13OS11R2VXWEQyMzdudUQzdDBvbU13UVpRQ2JZVGhwb1h5RjUzWWxQaGhaMTktakpkdnRydEFZdEtJbkk0eDN4YU9Ob0QzLVJQWkM2WHhSOXp6aDNK?oc=5",
+    "published": "2026-07-08 02:49",
+    "timestamp": 1783446540,
+    "summary": "AMD가 7월 '어드밴싱 AI' 행사를 개최하며 8월에는 실적 발표를 앞두고 있다."
+  },
+  {
     "company": "Amazon",
     "title": "AI에 돈 쏟아붓는 아마존, 38조원 회사채 꺼냈다 - 월요신문",
     "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5MS3NLWXpDUlFwRzlMMzl1S2dnNnZTUFFmNzVBZVJVakJSUDYzNTBZNzhGRnBhVXdMUTYxT0otTkpOQ3l3UXhqVHIzVFhfcWVzOVZGN0RqcVNhdTlqeXhBYmlhRjUzQXdKanc?oc=5",
@@ -22,6 +38,14 @@
     "published": "2026-07-08 00:30",
     "timestamp": 1783438200,
     "summary": "LG전자가 엔비디아와 로봇 동맹을 맺고 피지컬 AI 사업화에 나선다."
+  },
+  {
+    "company": "Broadcom",
+    "title": "브로드컴, 애플과 2031년까지 반도체 협력 연장 - 동아일보",
+    "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFBfZ2F4bW5hUWFOeERSNVphcThDRHRRUzRZRFpuY2pGaGZqWG1PazVYQTZPS2phc0hKVVF6U3ltMDl1cmk3bk9BOGc0cGZraGk5bncyWFFlbkpWOXA2eGttV0pDRVZNQdIBZkFVX3lxTFBfZ2F4bW5hUWFOeERSNVphcThDRHRRUzRZRFpuY2pGaGZqWG1PazVYQTZPS2phc0hKVVF6U3ltMDl1cmk3bk9BOGc0cGZraGk5bncyWFFlbkpWOXA2eGttV0pDRVZNQQ?oc=5",
+    "published": "2026-07-08 00:30",
+    "timestamp": 1783438200,
+    "summary": "브로드컴이 애플과 2031년까지 반도체 협력을 연장하는 계약을 체결했다."
   },
   {
     "company": "Broadcom",
@@ -792,6 +816,14 @@
     "summary": "라온텍이 해외 고객사와 AR 안경용 LCoS 개발 계약을 체결했다."
   },
   {
+    "company": "Samsung Foundry",
+    "title": "[단독]삼성 파운드리, 6월 월간 기준 '흑자전환'…\"3년만에 처음\" - v.daum.net",
+    "link": "https://news.google.com/rss/articles/CBMiRkFVX3lxTFA1aHhFN3paUGgxTnZWV3hoOS1tNVJKTkVNamhsT0FGN3hhd2pyUU00UmhaMm9oSXdZQjdkNm5wNFF2Q2Y2U3c?oc=5",
+    "published": "2026-07-06 17:44",
+    "timestamp": 1783327448,
+    "summary": "삼성 파운드리가 6월 월간 기준 흑자 전환을 달성했다. 이는 3년 만에 처음 있는 일이다."
+  },
+  {
     "company": "NVIDIA",
     "title": "\"엔비디아 차세대 AI 서버 출시 1년 이상 늦어질 듯” - 이데일리",
     "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxOX0owM1piRGtjSDVhNlNHZlFBaDkxOEJLaE5wVnFQcEFvcVUyZHpvaURrR1lZSTFrNkQ3Z2syTXFEbE5oOTJiaGszQmlxTGR6Qko2ZnV3WFhRYVVsb2tuc3RmQVB2TUhDdFRlYlBVRUpUZUxXdWQ0YWtHdHdNNlA5Wg?oc=5",
@@ -926,14 +958,6 @@
     "published": "2026-07-06 14:30",
     "timestamp": 1783315850,
     "summary": "SK텔레콤이 엔비디아 블랙웰 GPU 기반 AI 클러스터 '해인'에 대해 CSAP 인증을 획득했다."
-  },
-  {
-    "company": "Samsung Foundry",
-    "title": "[단독]삼성 파운드리, 6월 월간 기준 '흑자전환'…\"3년만에 처음\" - 네이트",
-    "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFBXTTBsRnM0Z1VWTmxCeEdMSFE2ekNuano0U1pDNFhjQm1EaFlid01ucWRIZHFSazVKblZJNDJIRXBUMUpJZjFja3pfamUycllBV2hN?oc=5",
-    "published": "2026-07-06 14:18",
-    "timestamp": 1783315080,
-    "summary": "삼성 파운드리가 6월 월간 기준 흑자 전환을 달성했다. 이는 3년 만에 처음 있는 일이다."
   },
   {
     "company": "AMD",
@@ -21646,45 +21670,5 @@
     "published": "2026-06-08 05:40",
     "timestamp": 1780864818,
     "summary": "엔비디아가 서울에 AI센터를 건립한다. 이를 통해 한국이 피지컬 AI의 핵심 거점으로 부상할 예정이다."
-  },
-  {
-    "company": "OpenAI",
-    "title": "오픈AI, IPO 앞두고 챗GPT 대개편...'슈퍼앱' 변신 승부수 - SBSBiz",
-    "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE9zd1VEZVN5bzlQSS11UjUwZHE0Nkc3Ym9kMDJuQXhQb0ZOMU02RW5kS25lVXN2T3hSck5RLWkyWG5yZ3Atem5qb29rX0VTN3VvTmZR?oc=5",
-    "published": "2026-06-08 04:32",
-    "timestamp": 1780860720,
-    "summary": "오픈AI가 IPO를 앞두고 챗GPT를 대대적으로 개편하며 슈퍼앱으로의 변신을 시도한다."
-  },
-  {
-    "company": "AMD",
-    "title": "AMD는 Ryzen 7 7700X3D 프로세서를 출시하고 2029년까지 소켓 AM5에 대한 업데이트를 보장합니다. - Mix Vale",
-    "link": "https://news.google.com/rss/articles/CBMi1wJBVV95cUxPRUZTSjUyOWt6bl84Z2UySmphZUxzX2VVVEhwSU5iZmswa0VVN0pMQ2xFV3QyWWJ5MUlaZE1MaWVMN0JtTXVYR29UdGRaX0YyZ1F0YWUtS1JTQjlSOE1oU2d4YUFibDU1Qk9CenNNd1dEVjVFV1U1THJUTzc1T0JDUlNxV2lPWWVKdGVXRC1PNzBoV1k4ZkJDMWZjT2JzbWh5bWZhb3h2TThvMElpR2lsRWxlUktra044cDlUMmotR19VMnVPSW5mLVBsYjcxZ3JkNURWT2lUYW5namEyLURfTzlma2Q0OVRiNnBIMUpmNmlBbHB0Q0RzQVlSdGROUHFObFlJZ0lBcEZMZDczcHYyUFlOSmJzNEFZODhLQmxIc0wwcnhGZk8tZFF1V2lsT3RRX0gyZXlmSk9MVzdvNkZoci1XMy1Sd0daY0pITmN3M2JnaE1pb29J0gHcAkFVX3lxTFA1S2p1Y1hYM0JVM1MtYXZNMlRpRjhVYS1nR1JHRWpTZXhLaTd2WG9lcjR3WF9GVG90MnNqQlpCQVJPREVlbXd2UXBOekxvVkJYTzFnYkxnX01PY2lHblRKRThjdEYwRU9vZ2FDOEJwdXpkMFVaclNhdFJwekJ1VzlpQTIxM0syY05ndHZHcmtucWdkb2d1eVc4M2JkY3NXTEZJdVdhY213UW5QX1l5UUhtQXBwVmpxeVpMVjJSdE93TTVpek9DSmpRNlM1aFdvWTRGaUs5TzVhX1NEbWlnTGRicXBodVduWks2bzFPZTQyN0RvaFE0Umk4VTMwX1VoU002TzdwNy1ZeHh5WlBwOS1NaEVfSzBhY0M2OTBpdkg2Uk5BelZvM0l2Sm8xVHVmLVVjZWh4LUZfZ2JtcTdPMmNlVGV1cmczajBINFJmaVp2MzBQbWt3a0tOLVZEUA?oc=5",
-    "published": "2026-06-08 04:13",
-    "timestamp": 1780859612,
-    "summary": "AMD가 라이젠 7 7700X3D를 출시하고 2029년까지 소켓 AM5 업데이트를 보장한다."
-  },
-  {
-    "company": "NVIDIA",
-    "title": "젠슨 황 \"엔비디아, 韓과 함께 성장\" 전방위 K파트너십 기대감 - 머니투데이 - 머니투데이",
-    "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE9vN0xEMUFiTTU0WTNUVWd4Z20yQXZTSEp2b1lycjYxV0NvalJxX282Mk1DN3ZMUkptNzd6YnFERVpnbExpZU96T2VRQlVqVG5TMEpZT3Z4SmY1UU5KMDhIX0lKRjkyVE5RQmwwYzlNSEt0Z9IBckFVX3lxTE9vN0xEMUFiTTU0WTNUVWd4Z20yQXZTSEp2b1lycjYxV0NvalJxX282Mk1DN3ZMUkptNzd6YnFERVpnbExpZU96T2VRQlVqVG5TMEpZT3Z4SmY1UU5KMDhIX0lKRjkyVE5RQmwwYzlNSEt0Zw?oc=5",
-    "published": "2026-06-08 04:05",
-    "timestamp": 1780859100,
-    "summary": "젠슨 황 엔비디아 CEO가 한국과의 전방위적인 파트너십을 통해 함께 성장하겠다는 의지를 밝혔다."
-  },
-  {
-    "company": "Google",
-    "title": "스페이스X, 구글(GOOGL.O)에 GPU 11만 개 규모 AI 컴퓨팅 용량 임대 - 알파경제",
-    "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE5NcDBZa2NOT0xYZ0MtYUZ2b2drMU83V1BxVVNYZENwWGt2VVBXT05lQS05RURLOENiVEJRbzRlVUtRV2lRQ0JQOEVmaHdVSUpjbzcyY1gwRUJnOXQ5ZFHSAW5BVV95cUxOS09iZE8tbW81YjFfUWE1Q25XQmRTRnNYX2h4OENqa0hNRGZZZ0NITmdDNEhPUzYzR2RYSF84TFJLdXI0ckVPaGlfOUJuVFFoVlVnMUZOOVlldTk3ZUNZalJLTm1QZGsyS2lxdGh3UQ?oc=5",
-    "published": "2026-06-08 01:40",
-    "timestamp": 1780850450,
-    "summary": "스페이스X가 구글에 11만 개 규모의 GPU를 활용한 AI 컴퓨팅 용량을 임대한다."
-  },
-  {
-    "company": "OpenAI",
-    "title": "상장 시나리오 속 오픈AI, 챗GPT 코딩·에이전트 결합 ′슈퍼앱′ 재편 - 알파경제",
-    "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFBmMm9lWWJHRVcyakFJMVpmY3Z1YXpOcmp3RDBJcDRIS2kxeVI5YVRlQWtNSHFWNHpVX2FIdnRJNnhHUnBPV01JMkF5VlNGZWk2QlFYT1VYX3NaTTg3ZVHSAW5BVV95cUxPZVNudEIyVDRYUkVGOWNmTkJBZFZrZ2hkMU9HS2o4SnRPTi1nWmphWmVlb19sci1WMXk1dVFUb1A2NnZDMkpuU0g2eVNIS2ttTWdoUkc0TXlndGNHbVlVZGxiSVV5OEVpUzJxSmhDQQ?oc=5",
-    "published": "2026-06-08 01:40",
-    "timestamp": 1780850442,
-    "summary": "오픈AI가 상장 시나리오에 맞춰 챗GPT의 코딩 기능과 에이전트 기술을 결합한 슈퍼앱으로 서비스를 재편한다."
   }
 ]
