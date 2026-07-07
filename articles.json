@@ -1,11 +1,67 @@
 [
   {
     "company": "NVIDIA",
+    "title": "딥시크, 엔비디아·화웨이 벗어나려 자체 추론칩 개발 착수 - 위키트리",
+    "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBNbU5qa1hzLVZsaXZyYlA1WWtsSzJYY0RLa1J2MjVhR3p4cTBINEJ3VVhja0dnZTRZV25SZ3RtNENNc3U4WDZhbnV3OExnNVNfSnIwT3JR?oc=5",
+    "published": "2026-07-08 07:50",
+    "timestamp": 1783464600,
+    "summary": "딥시크가 엔비디아와 화웨이 의존도를 낮추기 위해 자체 추론칩 개발에 착수한다."
+  },
+  {
+    "company": "Intel",
+    "title": "한국 HBM 독점 깨지나… 인텔, ‘XBM·ZAM’ 투트랙 공세 - 글로벌이코노믹",
+    "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPdTFIRzF6SGJ2U3dwWUlEeldrS1VpTF8ybm9kTlowclpTYmUxNzdmbk8tSFZtdm5MQTZTTEFCdXdHUVowY2dFY3o3Yk9Fc0lDNEhxTnN4MU5URU40QTB5alpzU2thNWpjc1FQUGtqYm5pQ1dZZmdTV3VtOXdrY1pRV1BkcFJ6LXhH?oc=5",
+    "published": "2026-07-08 07:05",
+    "timestamp": 1783461957,
+    "summary": "인텔이 XBM과 ZAM이라는 투트랙 전략을 통해 HBM 시장 공세에 나선다. 한국 기업이 독점하던 HBM 시장에서의 경쟁 구도 변화가 예상된다."
+  },
+  {
+    "company": "Synopsys",
+    "title": "시높시스, 반도체 제조 공정관리 SW 단종...AI 설계에 자원 집중 - 디지털투데이",
+    "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTFAwYzF0cVlGWGR0dUlqV1g1Uk1GNWZfWjdEcUFscWZ0YkNuZnRpY1VFemVTdlVablhnQzJ3cmZwVnZBVFM2VFZwWHZqMVIxbDJCc01wVEdZNG5UZ3l0UXl0dUFicmFuQjRJZ2I2elZ3TzVmN0U?oc=5",
+    "published": "2026-07-08 06:51",
+    "timestamp": 1783461099,
+    "summary": "시높시스가 반도체 제조 공정관리 소프트웨어 사업을 중단한다. AI 설계 분야에 자원을 집중하기 위한 결정이다."
+  },
+  {
+    "company": "Wolfspeed",
+    "title": "Wolfspeed, GaN·SiC 특허 침해로 Navitas 상대 소송 제기 - Investing.com 한국어",
+    "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBwckxXbVlnRDJtZUVtYl90dHBOWUJNWllLQkJNVkp3TXU1WG9SWEdUXzJ3WjNIR05aa1FJbWkzZzdoelRpZ2ZqTzRXaWhqRzg4VFJUVTFNcVlJUkdPSmhSYm9iUjBBX1NrcnZ5YUFFT2g?oc=5",
+    "published": "2026-07-08 06:23",
+    "timestamp": 1783459380,
+    "summary": "Wolfspeed가 Navitas를 상대로 GaN 및 SiC 관련 특허 침해 소송을 제기했다."
+  },
+  {
+    "company": "NVIDIA",
+    "title": "[산업 하프타임] ⑧ 인텔·AMD·퀄컴 삼파전에 엔비디아의 ‘틈새 공습’…AI PC 제국 재편 - 디지털데일리",
+    "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE5JUHJmazhrQmNsandvNl9nTkxkd1VLNmliY3JMOG1oOVhDcXFyRXhwWEc1Vi1aWUFIdlNXcG4zYmdSYVlPd1YyQjV4bnBVNnFHVWc3NGpxMjhta29TeTJDU2Z5a2M?oc=5",
+    "published": "2026-07-08 06:00",
+    "timestamp": 1783458000,
+    "summary": "인텔, AMD, 퀄컴의 삼파전 속에서 엔비디아가 AI PC 시장을 공략하며 제국 재편에 나선다."
+  },
+  {
+    "company": "NVIDIA",
+    "title": "“美 엔비디아 잡는다”... 中 비런 테크놀로지, GPU 양산 위해 대규모 자금 조달 - 글로벌이코노믹",
+    "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOS1VGdG05RGJtMGd4X1JTWlNuR3ptTTlvemI4bWlTeWR1TTkwWWtxWkZkcVFRQ3RuNGtIejEyRTJVWWNMQko5UThfZHhaVnNOSlc1R3RzajlET0wxY3dsb0R4QlFvZHZfdXQxckIxa0pTdEpmZkxNSlM3RlY5N09ZVC1fc0ZWV3ZT?oc=5",
+    "published": "2026-07-08 05:45",
+    "timestamp": 1783457100,
+    "summary": "중국의 비런 테크놀로지가 엔비디아와의 경쟁을 위해 GPU 양산을 위한 대규모 자금을 조달한다."
+  },
+  {
+    "company": "NVIDIA",
     "title": "엔비디아, 딥시크 자체 AI 칩 개발 보도에 ‘흔들’ - 마켓인",
     "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTFB2N01zdGhpUVgzclVsbFNKVkVSZWpFWGNFbDN3QzRZc3RIMHdPZElPeWhTb3VHN2E2WThIQkVNTnBrc1BrR2tkUEFqMHBDcW9SYl9TakZWSkNleDBHa2ZKS0R3MmNGaVpUaTIwdVJkR0xZUDQ?oc=5",
     "published": "2026-07-08 04:44",
     "timestamp": 1783453464,
     "summary": "딥시크의 자체 AI 칩 개발 보도로 인해 엔비디아의 입지가 흔들리고 있습니다."
+  },
+  {
+    "company": "NVIDIA",
+    "title": "Perplexity, Nvidia 새 CPU AI 에이전트 작업에 활용 - Investing.com 한국어",
+    "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE9qanVybWFHVXVJOTU3eWQ5NlhkZl9vUmxZdGRrc2RVdmwwMnNCdnl4cXQ0QlMzR25YOTJVN2IwVHBXNE4wQ2hUd3diaFp2WXJ3SjBuSkM5WHNoV2ZBeXlXWXlnZjNtenUxOTJ5c3JwX0QzSXpiTTdR?oc=5",
+    "published": "2026-07-08 04:06",
+    "timestamp": 1783451160,
+    "summary": "Perplexity가 엔비디아의 새로운 CPU AI 에이전트 작업에 활용된다."
   },
   {
     "company": "AMD",
@@ -86,6 +142,14 @@
     "published": "2026-07-07 23:47",
     "timestamp": 1783435662,
     "summary": "인텔이 차세대 메모리 기술인 XBM 특허를 공개하며 HBM4 대체 가능성을 제시했다."
+  },
+  {
+    "company": "Analog Devices",
+    "title": "아나로그디바이스, Empower Semiconductor 인수 완료 - Investing.com 한국어",
+    "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5CZlY4bTRHWVRqLWdQMU1PZFFvNExtYVFPRjNxMDdVeWh6MG41QVZKbUd5bkVDR1E5LVFmS3locWZzQnpubmRKY1Q3Y2NVbXBaZnkxVXF4U19DaGVWQVJWSEJhcmY4Vk04S2RZZFc0STY?oc=5",
+    "published": "2026-07-07 22:14",
+    "timestamp": 1783430040,
+    "summary": "아나로그디바이스가 Empower Semiconductor의 인수를 완료했다."
   },
   {
     "company": "NVIDIA",
@@ -368,6 +432,14 @@
     "summary": "LX세미콘이 애플 아이패드용 OLED DDI 공급망에 진입했다. 해당 소식이 시황에 반영되었다."
   },
   {
+    "company": "코아시아",
+    "title": "손호성 코아시아씨엠코리아 대표. 〈사진 코아시아 제공〉 - 전자신문",
+    "link": "https://news.google.com/rss/articles/CBMisgZBVV95cUxNblhTTzdfNzY2SWdSb29haGxORWN0SnVKeTl2R1Q0WDhwU1czT29iU3l4U3ZmZElxZVdWSnNqVnI5N193bkhCaGdQakUxZ1JDRWxGTllaajFxMlVPc1VBLV9UNEE1T2N1aUNFRkNvZXdIMDI4OUctUmJrcHE4LWtzbS1MZDlOUzFaa2RKM29kSHFWZnF1WGxINzBtU2VGMDVUdWVsVnJ0Y3VXMGJhZjNkS2o1dnRXNFVydXJqQ3FYTXY3cEdMUVBqSURlbVFyQzM1bkpXVUlsdUpBVGtLVjZ5WUNTRDZTeUlfU2lQdGRmbERFRFAxVGl5aVhqN0M5aklCeTlJOFhZeHRGbFFqNV9ud1ViZnNuM1pDeldGSl9rMzBmVU02cGZnZFdmTnlINU1Ia1VwRDVMNFVzcUlnTkV4c0tZZHlKelBwSlNuTVo3V3paRHlZQ1BTUGtQRngxZi1UdF9SUmRRRm8yV2ZfOEotUm42dDRidjl0VEdEM0ozWlJxeVdudjAyWG0wMnVLT1Y2NHpMc19qQzdscmhQaU1XSG9rUUhiQWZBRm9MdjJXcmFPcDN2WXcwUG5IS3lQREFCb1VkbUlBeWg2Q283QmRaQmRYeWZDVVp4U3Fwb01XLWxENXp0eEtsSjNTcmlOWXE3ekpEMGdyQVI0OW9uT2RSZ1NZaF9qTEFSeFRqZ1R0ck44TnR6cmZpS2NCSFFvblBoZnpOV0pLcUxkblgyc2pwdmpueW90UGVfOWpmSXljUUVPVjFRbm05SHM3Z18tZG95aEdROHE0dVNXUkNRY2J0NWVsSmI4dmpick9BN2dKQl8wOG4xYjVtWTVFWE0wY3g4VzZOaVJVWWZYTUpEbDZGcFo5R1dMUlNjUllocHI0c3Ntc0I4bDU0azVhTHlSSFRqQll6aHZSbGNWWWRCNjN0anR4bFlNcS1obkY0NUtzREZfck1SbTg4MFFDUGd3Q082djc1SXlqUUdvSkpLd3d4OGtMOXYxc1pBRTFZeVM4VjdwbVVvbUFhU0R0UFp0TW90MHcwOWpnSmgyTnVpazIwWXNreWxmckhzbjlJSldGTTQxZw?oc=5",
+    "published": "2026-07-07 12:02",
+    "timestamp": 1783393364,
+    "summary": "손호성 코아시아씨엠코리아 대표가 전자신문 보도 사진을 통해 소개되었다."
+  },
+  {
     "company": "에이직랜드",
     "title": "에이직랜드, 스토리지 컨트롤러 양산·eSSD 확대로 실적 성장 추진 - K뉴스통신",
     "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE42MFRyU3BpbWFvV05CQVUzMWlkWjRRZFNoZWNmS2RHRFFFa1ZRS0wtN0xZVDRkemFBMWlyTWRxR0xVcGJZZmJtT2cyTjcwM202WHZVNDBySThFbjQ3QzhJVHA5S0dTRU3SAWtBVV95cUxOTUF2MEY5MTlHMjRUMWdTNldpc1I1SlJwRmZ1OXRBU0pBTXRhQ0p0U2gxMjNGS2NYUzFRTEdNU0pJUUNqRXdoZGF4aTBuNHhBTmtwMzhIQ1ZTMjBVSG5DTjdnTTlnQXRFbUk1MA?oc=5",
@@ -446,6 +518,14 @@
     "published": "2026-07-07 10:41",
     "timestamp": 1783388516,
     "summary": "오픈 모델이 AI 연구를 이끄는 방법에 대해 엔비디아가 다루고 있다."
+  },
+  {
+    "company": "Broadcom",
+    "title": "브로드컴, 애플과 2031년까지 반도체 공급 연장 - v.daum.net",
+    "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFBzdHpsT3hFdzdicHNId2g2N3VkUUFhNW5zSXpiWEhEd1c2UWgtc2p1WnBZQlR3el9Eb1hYYlVrWjl4YUNXVHNNMGpzV2xwWXU4Qko5cA?oc=5",
+    "published": "2026-07-07 10:27",
+    "timestamp": 1783387638,
+    "summary": "브로드컴이 애플과 2031년까지 반도체 공급 계약을 연장했다."
   },
   {
     "company": "AMD",
@@ -710,6 +790,14 @@
     "published": "2026-07-06 23:33",
     "timestamp": 1783348380,
     "summary": "브로드컴이 애플의 AI 칩을 생산하며, 양사의 협력 관계를 2031년까지 연장한다."
+  },
+  {
+    "company": "Apple",
+    "title": "애플 A20 인텔 생산설 무산…아이폰 파운드리 왕좌 TSMC 재확인 - 매일경제 마켓",
+    "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5GRmM2R1I4Um80TUpRNkRHSlZJTnlSSjlUQ2l1WGJlSkE4RUlNTi1fRG5JbnFqWEJpSkRCOWJhenRydndwX05DYTNwbDdWZFgyakE?oc=5",
+    "published": "2026-07-06 23:20",
+    "timestamp": 1783347652,
+    "summary": "애플의 A20 칩 생산이 인텔이 아닌 TSMC에서 진행되는 것으로 확인되었다. 이를 통해 TSMC는 아이폰 파운드리 시장에서의 지위를 재확인했다."
   },
   {
     "company": "NVIDIA",
@@ -21542,133 +21630,5 @@
     "published": "2026-06-08 08:10",
     "timestamp": 1780873817,
     "summary": "최태원 SK그룹 회장이 엔비디아, TSMC, 폭스콘 경영진과 연쇄 회동을 갖고 AI 동맹 확대를 논의했다."
-  },
-  {
-    "company": "NVIDIA",
-    "title": "[속보] SK텔레콤, 엔비디아와 ‘풀스택 AI 클라우드’ 협력 - 조선비즈 - Chosunbiz",
-    "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxQc04tSld3dlVCdlFtZi0xX3NpYWtGeG1pNE1KcHV2MUNCV1Z1aFQyX3JNU19UVVlMR3I5dGxVTGtQN0pST2JHQWhhbDNZcEp4eV9PV1FkQ2M4NGl2dkhwbk1JSFVVS29DRC1WX0xLRHU4VkVwTVNxd0ZfekJVX0pHaU930gGWAUFVX3lxTE15aVdmdTg4Q0ZYSWhobWUzSVhpaGRtSWpEN1llQW05Y1U5VVBpNm1MaXdEMGdqTjBlSnJReHZtaTZhWXB6aUhjT0FuTE9ZenQxekhsbjcyTTh4UVo5dU4yTnFmaGJqUG5iNGlQMzJCdVMxcHFrcW1xZ1BHZGljTWN4UVBFZXJScXJxQnE2N0FmODBXY2V1UQ?oc=5",
-    "published": "2026-06-08 08:08",
-    "timestamp": 1780873680,
-    "summary": "SK텔레콤이 엔비디아와 협력하여 풀스택 AI 클라우드를 구축한다."
-  },
-  {
-    "company": "NVIDIA",
-    "title": "두산, 엔비디아와 AI 팩토리·로봇·첨단소재 전방위 협력 '맞손' - 네이트",
-    "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTFBUdTZDdEkyNEVWWlRkVXlqZGlmaEd3NUViMGJiTEhXRk9PRTB1cWJJdnZCa3Z6QmtVZFpVXzlDV0lwY3NhdFRvZ0lSa1FxWVVkZFRSeDZLTWdfZnRjZGJZcUxYUUx3U0VNNjBGR0Q0Q3RFUDUyTmxNNw?oc=5",
-    "published": "2026-06-08 08:06",
-    "timestamp": 1780873560,
-    "summary": "두산이 엔비디아와 AI 팩토리, 로봇, 첨단소재 분야에서 전방위적인 협력을 추진한다."
-  },
-  {
-    "company": "NVIDIA",
-    "title": "\"소버린 넘어 피지컬 AI까지\"…엔비디아 손잡은 네이버, 세종 넘어 데이터센터 글로벌 확장 - 디지털데일리",
-    "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE9hZ2MtMUNwWl9FUGFKNkJRNF9jSmRxejNIbEEzRkxyN0c2bjU5eURJNnBYdHVqUGlNWWlLaWpLWnkwbklGOFBHcS11TGgtd1laWVpGTzhSbWNrTy1EVlpOaTV3?oc=5",
-    "published": "2026-06-08 08:03",
-    "timestamp": 1780873413,
-    "summary": "네이버가 엔비디아와 협력하여 소버린 AI를 넘어 피지컬 AI 분야로 데이터센터를 글로벌 확장한다."
-  },
-  {
-    "company": "NVIDIA",
-    "title": "엔비디아, 네이버와 기가와트급 AI 팩토리 구축 협력 - v.daum.net",
-    "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE5qVGpCaFRHb2owRUotdjRTX25ad25RRU9oemlicFRFRWhtbGYzOXJac3h3TF9CMnJGb21jMDRXeVZsS00xY2I3ZHhZa0hsQ1U?oc=5",
-    "published": "2026-06-08 08:01",
-    "timestamp": 1780873313,
-    "summary": "엔비디아가 네이버와 협력하여 기가와트급 AI 팩토리를 구축한다."
-  },
-  {
-    "company": "NVIDIA",
-    "title": "엔비디아 '베라' 파트너십의 실체… SK하이닉스 협력 속 멀티 벤더 전략 여전 - 초이스스탁",
-    "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFAzMll5QUVYZGNMc1AwdHBKVlRwMk1ub2taOUx3NTVOaEh6MlR1em1LRTEydUVlOEJ1dl9UdW5wbUdLSWc4QnhmSGxXYlFjOFEyZjhFbVVjcXpTa3ZScm1aTHphLVhUVjQ?oc=5",
-    "published": "2026-06-08 07:39",
-    "timestamp": 1780871969,
-    "summary": "엔비디아가 SK하이닉스와 협력 관계를 유지하면서도 멀티 벤더 전략을 지속하고 있다. 베라 파트너십의 실체를 분석한 내용이다."
-  },
-  {
-    "company": "OpenAI",
-    "title": "오픈AI “챗봇은 죽었다”…AI 코딩 에이전트 중심 전환, 소라는 종료 - 서울경제",
-    "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE13NHhvTkhQdHlqSVNYaHZjcWhzbkhkd20wbXZFUW5BWFUzTElyLUUyTk1zZmRMU2VXTUNJVDIzVjF6MnQ5eGpaVjN5c0hQcVFQTjNj0gFTQVVfeXFMTXc0eG9OSFB0eWpJU1hodmNxaHNuSGR3bTBtdkVRbkFYVTNMSXItRTJOTXNmZExTZVdNQ0lUMjNWMXoydDl4alpWM3lzSFBxUVBOM2M?oc=5",
-    "published": "2026-06-08 07:16",
-    "timestamp": 1780870569,
-    "summary": "오픈AI가 챗봇 중심에서 AI 코딩 에이전트 중심으로 사업 방향을 전환하고 소라 서비스를 종료한다."
-  },
-  {
-    "company": "NVIDIA",
-    "title": "젠슨 황, 오늘 엔비디아·SK 협력 청사진 발표…삼성과도 회동 - 조세금융신문",
-    "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE0wblBoUDJFZGJ4M0czVUVfdHFuTFhUSlNQS1JvMkRSTEJBcEJDQWZNbWc0dnEwQW1TX0h1MEVISlRrcHpSMzRHYjA2M2xVSjdnMDFYNFlscHVDekZWR19hLUdUQQ?oc=5",
-    "published": "2026-06-08 07:06",
-    "timestamp": 1780870015,
-    "summary": "젠슨 황 엔비디아 CEO가 SK와의 협력 청사진을 발표하고 삼성과 회동한다."
-  },
-  {
-    "company": "NVIDIA",
-    "title": "파로스아이바이오, 일라이릴리 '튠랩' 전격 합류…엔비디아 AI 플랫폼 쓴다 - 이데일리",
-    "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNY0R4VFBaYzRwQkp6SE5pSVVZR2tfZ0lJa0NRVzBUWjMxUmcyNGxSOGdPclFKYzZCQzBGa1VLZWF1NWVaaklKWnJTcWxZYnFSdS1fNTM3TjlxRHB4cldSOUF4N3VXcmpiOTB5ZlpXQlZvZEV2WEdhbEpYQ20teWRmdQ?oc=5",
-    "published": "2026-06-08 07:01",
-    "timestamp": 1780869662,
-    "summary": "파로스아이바이오가 일라이릴리의 튠랩에 합류하며 엔비디아의 AI 플랫폼을 도입한다."
-  },
-  {
-    "company": "TSMC",
-    "title": "TSMC ‘6기사’ 양광레이 “파운드리는 기술 아닌 문화…조직문화 고려해야” [대만 석학들의 진단] - v.daum.net",
-    "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFBheHM4dEJtXzRob09oUkg3ZnFHWHhvMGNKVXJjeDV2dEpvelpnYUM5cmVhd2wtMzBnU2l6TEMxaHV1QlRRcnFVR1lOXzNRWkNFUk5LWA?oc=5",
-    "published": "2026-06-08 06:01",
-    "timestamp": 1780866072,
-    "summary": "TSMC의 양광레이가 파운드리 산업에서 기술력만큼이나 조직문화가 중요하다고 강조했다."
-  },
-  {
-    "company": "Qualcomm",
-    "title": "[PLAY IT] 'AI PC 사춘기 끝'…퀄컴 스냅드래곤X2 엘리트 실측해보니 - 네이트",
-    "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE9zRFY0R1BCWE5WN2NkQmtHSEtxd2NHNFNPYXB6ek5SWnlCRzlPSUZvR2V3VmIyODZMRDktMl9Wc2pGX1BhLWFtU3hWekVScUJKTFpn?oc=5",
-    "published": "2026-06-08 06:01",
-    "timestamp": 1780866060,
-    "summary": "퀄컴의 스냅드래곤 X2 엘리트 칩셋을 탑재한 AI PC의 실측 성능을 분석한 기사이다."
-  },
-  {
-    "company": "TSMC",
-    "title": "“TSMC로 이어지는 인재 통로…대만 반도체 힘은 산학협력” - 이데일리",
-    "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNMmxrVHg0NElKLWhzdl8yaEctVGNsVXpUZGYwNWpKM0VvaDdpQTN1NkNibnQ3NVlZNWVHd3I2MkxuNUlJMzBqczRJekJrMnNTbE44dm5PdC04RGRMTlRfTHhkbXhxQWhuMGg2MlNNZkxjbGJlNkZ2aFkyYXBNMFRMeA?oc=5",
-    "published": "2026-06-08 06:00",
-    "timestamp": 1780866006,
-    "summary": "대만 반도체 산업의 경쟁력 원천으로 TSMC와 연계된 산학협력 인재 육성 체계를 지목함."
-  },
-  {
-    "company": "TSMC",
-    "title": "대만 반도체의 힘, ‘TSMC 원맨쇼’ 아니었다 - 이데일리",
-    "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPd1RvR0lSbERXQTB5UUdHMTZsQllXVi11ZmRjc2xWQzdTNHNmSERaSG1wZVNpLWRJeDNsYkZhS1lhcDFCaTZ0ekhLY3VhcmVnMkdfR2owbGoyMFVqMm02Vmkwd3JqWVFFOW1YODFXaDNvaWFVck5VN1dtbVY3eXNlSg?oc=5",
-    "published": "2026-06-08 06:00",
-    "timestamp": 1780866005,
-    "summary": "대만 반도체 산업의 성장이 TSMC 단일 기업의 성과가 아닌 생태계 전반의 힘임을 분석함."
-  },
-  {
-    "company": "NVIDIA",
-    "title": "[0608주요일정] 젠슨 황 엔비디아 CEO, 현대차·LG·네이버 사옥 방문 예정 등 - 인포스탁데일리",
-    "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE1qNUQwSU1nSUNpTUVCMlFsWEczNXNBbTFvcmxOYUdhOW9SX2NxNFkzYXVTMUVlLVRjNXg4RGVTbEdUTGpLLTdlbnBEdHlFNnA5cjY5SlUtMV9Malp0SVVvOWZUTGNCMnFINTEyOWRvaGdkNWZpa3c?oc=5",
-    "published": "2026-06-08 06:00",
-    "timestamp": 1780866000,
-    "summary": "젠슨 황 엔비디아 CEO가 현대차, LG, 네이버 사옥을 방문할 예정이다."
-  },
-  {
-    "company": "Qualcomm",
-    "title": "[PLAY IT] `AI PC 사춘기 끝`…퀄컴 스냅드래곤X2 엘리트 실측해보니 - 디지털데일리",
-    "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE4yT0VpYkNXSkRLcG1oejFGQ3FhN2pIRy1mdFEwcW83RXVXUE9Td2NrZXVLUy1qNURxZUdNSk5fWTFrMmFBZVB6cDFhNjVmd0NreVlaOXNteFdrdUZLeVNDMERCQU4?oc=5",
-    "published": "2026-06-08 06:00",
-    "timestamp": 1780866000,
-    "summary": "퀄컴의 스냅드래곤 X2 엘리트 칩셋을 탑재한 AI PC의 실측 성능을 분석한 기사이다."
-  },
-  {
-    "company": "TSMC",
-    "title": "TSMC가 '인재 육성' 주도…'산학협력'이 키우는 대만 반도체 생태계 - 머니투데이 - 머니투데이",
-    "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE5WUzlTMHBMYVJ1bmNHazNjT2stbkE2OXkxYUdKdjNYR3IzaTExcVhwMGNEcGMtdVRhR0FVRjR2eDhpV1V2UHlldlE0bHIxaWVLUDB1clZjM0daVHBOYTNKbjhSelJIeUJsdlhISUw4MmYxUdIBckFVX3lxTE5WUzlTMHBMYVJ1bmNHazNjT2stbkE2OXkxYUdKdjNYR3IzaTExcVhwMGNEcGMtdVRhR0FVRjR2eDhpV1V2UHlldlE0bHIxaWVLUDB1clZjM0daVHBOYTNKbjhSelJIeUJsdlhISUw4MmYxUQ?oc=5",
-    "published": "2026-06-08 06:00",
-    "timestamp": 1780866000,
-    "summary": "TSMC가 인재 육성을 주도하며 산학협력을 통해 대만 반도체 생태계를 강화하고 있다."
-  },
-  {
-    "company": "NVIDIA",
-    "title": "서울에 AI센터 짓는 엔비디아…한국, 피지컬 AI 핵심거점 된다 - 대한경제",
-    "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE1FNnBpcU1FbmR1ckM3emUxcFp4TjNKZE90dVVuSHV0N3EtbU5mWUtmRTI3OXBZSW5jRVJJamxNNlJXN0FrN0NkcV9wdktURUlhV0x1UUZ4VG4wdWQxc2dMOHQ4YnMtZkE5dkFFVm9ncDdQMDZH?oc=5",
-    "published": "2026-06-08 05:40",
-    "timestamp": 1780864818,
-    "summary": "엔비디아가 서울에 AI센터를 건립한다. 이를 통해 한국이 피지컬 AI의 핵심 거점으로 부상할 예정이다."
   }
 ]
