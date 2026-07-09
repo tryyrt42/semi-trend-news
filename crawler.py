@@ -33,6 +33,7 @@ DAILY_STATS_JSON = "daily_stats.json" # 오늘 누적 API 호출 수 추적
 MAX_ARTICLES_PER_COMPANY = 8      # 일반 기업: 기업당 RSS 상위 N개 검토
 MAX_ARTICLES_FOR_HOT = 20         # 핫 티커: 시세 기사가 도배해서 더 많이 봐야 함
 DAYS_TO_KEEP = 30                 # 며칠 치 기사 보관 (DB 표시용)
+MAX_PER_COMPANY_DB = 30           # 회사당 DB 보관 상한 (NVIDIA 등 빅테크 폭주 방지)
 SEARCH_DAYS = 2                   # RSS 검색 범위: 어제+오늘 (이틀치)
 RPM_LIMIT = 12                    # 분당 호출 안전 한도 (15 RPM 모델 기준 마진)
 REQUEST_TIMEOUT = 30
@@ -699,7 +700,7 @@ PASS 가 아닌 항목은 summary, main_company 모두 빈 문자열로.
 # HTML 재생성
 # ============================================================
 def replace_feed_contents(html_str, new_inner):
-    """<div id="global-news-feed"> ... </div> 내부를 통째로 교체."""
+    """[미사용] 기사는 이제 articles.json 에서 브라우저가 직접 로드한다."""
     marker = '<div id="global-news-feed">'
     start = html_str.find(marker)
     if start == -1:
@@ -742,6 +743,7 @@ def update_timestamp(html_str, new_count=0, quota_dead=False, total_count=0):
 
 
 def render_feed_html(articles_db):
+    """[미사용] 기사는 이제 articles.json 에서 브라우저가 직접 로드한다."""
     sorted_articles = sorted(articles_db, key=lambda x: x.get("timestamp", 0), reverse=True)
     if not sorted_articles:
         return ('            <div id="no-news" class="no-news-msg">'
@@ -767,12 +769,16 @@ def render_feed_html(articles_db):
 
 
 def rebuild_html(articles_db, new_count=0, quota_dead=False):
+    """
+    기사는 articles.json 에서 브라우저가 직접 로드하므로 HTML 에 박지 않는다.
+    (HTML 크기 고정 → GitHub 웹 편집 가능, 로딩 속도 유지)
+    여기서는 타임스탬프만 갱신.
+    """
     if not os.path.exists(HTML_FILE):
         print(f"⚠️ {HTML_FILE} 없음 — HTML 갱신 스킵")
         return
     with open(HTML_FILE, "r", encoding="utf-8") as f:
         content = f.read()
-    content = replace_feed_contents(content, render_feed_html(articles_db))
     content = update_timestamp(content, new_count=new_count, quota_dead=quota_dead, total_count=len(articles_db))
     with open(HTML_FILE, "w", encoding="utf-8") as f:
         f.write(content)
@@ -914,13 +920,16 @@ def main():
                 print(f"   🗑️  IRR   | {art['title'][:50]}")
 
     # ============================================================
-    # 정리 — 오래된 기사 제거 + 중복 제거 (링크 + 회사·제목)
+    # 정리 — 오래된 기사 제거 + 중복 제거 + 회사당 상한
     # ============================================================
     cutoff_ts = int((datetime.now(timezone.utc) - timedelta(days=DAYS_TO_KEEP)).timestamp())
     before = len(articles_db)
     seen_links = set()
     seen_title_keys = set()  # (회사, 정규화 제목) — 다른 URL 같은 기사 차단
+    per_company = {}         # 회사별 보관 건수 카운터
+    capped = 0               # 상한 초과로 잘린 건수
     cleaned = []
+    # 최신순으로 훑으면서 회사당 MAX_PER_COMPANY_DB 건까지만 유지
     for a in sorted(articles_db, key=lambda x: x.get("timestamp", 0), reverse=True):
         if a.get("timestamp", 0) < cutoff_ts:
             continue
@@ -931,11 +940,19 @@ def main():
         title_key = (a.get("company", ""), norm_title)
         if title_key in seen_title_keys:
             continue
+        # 회사당 상한
+        comp = a.get("company", "")
+        if per_company.get(comp, 0) >= MAX_PER_COMPANY_DB:
+            capped += 1
+            continue
+        per_company[comp] = per_company.get(comp, 0) + 1
         seen_links.add(a["link"])
         seen_title_keys.add(title_key)
         cleaned.append(a)
     articles_db = cleaned
     pruned = before - len(articles_db)
+    if capped > 0:
+        print(f"📦 회사당 {MAX_PER_COMPANY_DB}건 상한 초과로 {capped}건 정리")
 
     # seen_urls 크기 관리 (10000건 넘으면 최근 7000건만 유지 — 단순 컷)
     if len(seen_urls) > 10000:
