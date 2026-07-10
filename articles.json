@@ -1,5 +1,45 @@
 [
   {
+    "company": "TSMC",
+    "title": "[대만칩통신]\"공장 지으라더니 일할 사람이 없다\"…TSMC, 美 엔지니어 가뭄 '비상' - 아시아경제",
+    "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE12azFhZS1KOXhXaTlRVHhqUE4tSmxVOWpjR3cta2UySVlHVi04N1BRWUxYNldMXzNfN21sd1dlVXVDUzBycWM4WkJra3QxOXJNbmZ0YWtnR3g2SWxzTEZwaURn?oc=5",
+    "published": "2026-07-11 08:00",
+    "timestamp": 1783724400,
+    "summary": "TSMC가 미국 공장 건설 과정에서 현지 엔지니어 인력 확보에 어려움을 겪으며 비상이 걸렸다."
+  },
+  {
+    "company": "TSMC",
+    "title": "[칩톡]TSMC 물 88% 재이용할 때 삼성·SK 아직 40%대?…'돌려쓰는 물' 경쟁 - 아시아경제",
+    "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFBrR1J0T0tObHRvY2x3SE9mRXBxR3NNTTdETkRBSk9SN3haOUtVMEg4M0Rxb2RoSmpScG95VDRCQkJramZvRXdaMDM5aDAwZTlBb281Uk01dnlqY0lRbXhJakcteUU?oc=5",
+    "published": "2026-07-11 08:00",
+    "timestamp": 1783724400,
+    "summary": "TSMC가 88%의 높은 물 재이용률을 기록하며 삼성전자 및 SK하이닉스와의 수자원 관리 효율성 경쟁에서 앞서고 있다."
+  },
+  {
+    "company": "NVIDIA",
+    "title": "AI 병목 칩에서 전력·메모리로 이동… 엔비디아 다음 돈 몰릴 곳은 - 글로벌이코노믹",
+    "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQenVGTUppY2dIUmNKZXcwcURvN2QyMExDZVFCRjlUWWl5d2RmbzZKZ1RIaTFsVWlhZHB5aWlEdkJSWmktT0gzUV9EcTdFaXZGMS05TFlzbG5YSEhMZXd3TXo0bWF2a3JTWlhrX3RDUHZjWVBoSDJZTUZUS2R2YkxuV0JnUTM2aThh?oc=5",
+    "published": "2026-07-11 07:57",
+    "timestamp": 1783724231,
+    "summary": "AI 칩에서 전력 및 메모리 분야로 자금 흐름이 이동하는 현상을 다루며 엔비디아 이후의 시장 변화를 조명한다."
+  },
+  {
+    "company": "NVIDIA",
+    "title": "엔비디아 독주 곧 끝난다? AI칩 플레이어와 경쟁력 비교 - 티타임즈",
+    "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE5qWW5MbVgyYlpPbzR2a0NIVE5lVjMzdUs5VWZ1cjY5RWNVRmwtZEZZNXlqdk56VzY2ZXBSY0k0Ukd1UzZROG5JcDlKLTR0VGY2U2NoX2t5RHVNT1hfU3VrSm1R?oc=5",
+    "published": "2026-07-11 07:03",
+    "timestamp": 1783720995,
+    "summary": "엔비디아의 독주 체제에 대한 의문과 함께 AI 칩 시장 내 경쟁사들과의 경쟁력을 비교 분석한다."
+  },
+  {
+    "company": "Apple",
+    "title": "삼성·SK하이닉스 과점 체제 균열 신호… 애플, ‘중국 판매용 아이폰’에 CXMT D램 검토 - 글로벌이코노믹",
+    "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQYTQxdS05S29TVUhUeXJRQ1ZaYmM0em5uWk1fLU5sV2xlNFQyUTBQcmczWmhUdnp1SkNhQmtOTUdsR2w0czNEcE5Na001c01BTlYtWmZxQTJ3UUZqQnZsQmdLZmQ5bVhXRVRGcURNbjcwUHVuOS1Ya19DeDhXS2ZJZUh1RlpwNXlD?oc=5",
+    "published": "2026-07-11 06:43",
+    "timestamp": 1783719832,
+    "summary": "애플이 중국 판매용 아이폰에 CXMT의 D램을 탑재하는 방안을 검토하고 있다. 이는 삼성전자와 SK하이닉스의 과점 체제에 균열을 줄 수 있는 신호로 해석된다."
+  },
+  {
     "company": "패러데이",
     "title": "패러데이 퓨처, 540만 주 워런트 취소 - Investing.com 한국어",
     "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5EUmw3STdEWGE1czFuYnltUFZVRFBrVC1McGpIdVRNdVJvY0NDa2dFcVhJYm01M0hvT1RPV0t1Y3BSaHZJdi1MODc5TEFCLWtnTFljM0N2VXg1eUpnT0w3ZVlwWUI2MmtGRm5pakRLZ2I?oc=5",
@@ -254,6 +294,14 @@
     "published": "2026-07-10 15:47",
     "timestamp": 1783666050,
     "summary": "대니얼 뉴먼은 메타가 자체 칩을 통해 엔비디아와 AMD를 대체하는 것이 아니라, 기존 인프라를 보완하고 확장하는 것이라고 밝혔다."
+  },
+  {
+    "company": "Meta",
+    "title": "메타, 9월부터 자체 AI칩 생산…엔비디아 의존 줄인다 - v.daum.net",
+    "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE9yLUhrTzl1aGdzUXZBbjljazg0RmVRcXl0Tjl2WndDZ2JlZkJqTkVtMUJ5MFVkUUl4ODN5TDNVeWlWZE5SaURoaDBIaXBFU0VNVmZwbQ?oc=5",
+    "published": "2026-07-10 15:35",
+    "timestamp": 1783665350,
+    "summary": "메타가 9월부터 자체 AI 칩 생산을 시작하여 엔비디아에 대한 의존도를 줄일 계획이다."
   },
   {
     "company": "파두",
@@ -1400,14 +1448,6 @@
     "summary": "엔비디아가 H200의 중국 수출 가능성을 시사하며 신제품 개발 지연설을 반박했다."
   },
   {
-    "company": "NVIDIA",
-    "title": "중국, 주요 AI 기업에 엔비디아 'H200' 구매 제한적 허용 - AI타임스",
-    "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBoRzJQWTZBVXBWSzktWG1kcUtTQzUtNmxPVkJ5S200TVdvek1vZTZDQzM2MEtXQ0hUS25wWVRvZDFUSkFxQkxJNlBsejlDWFhGelZtTEFGODE0YlNKY2VWTnViSl9iTWZxM2c?oc=5",
-    "published": "2026-07-09 12:51",
-    "timestamp": 1783569089,
-    "summary": "중국 정부가 주요 AI 기업들을 대상으로 엔비디아의 H200 칩 구매를 제한적으로 허용했다."
-  },
-  {
     "company": "Analog Devices",
     "title": "공정위, NXP·ADI ‘반도체 유통가격 통제’ 혐의 심의 착수 - 공유경제신문",
     "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5raEZmbHE1RGEtMkZmSWFnajJfX0xROGJRNmsxb0pjMW9Hek9BLUw4bzZlV0hnWC1vWlA4TExlakNiSWQweWNUZElaM21yUU9BbXFLU0VGVU5CdWRpVEhaYzJUa3FPT0xBOXc?oc=5",
@@ -1432,20 +1472,20 @@
     "summary": "제주반도체가 주주총회를 통해 메자닌 발행 한도를 상향 조정하며 자금 조달 창구를 정비했다."
   },
   {
+    "company": "SambaNova",
+    "title": "삼바노바, 10억 달러 투자 유치…기업가치 110억달러 평가 - MSN",
+    "link": "https://news.google.com/rss/articles/CBMi3gJBVV95cUxPNUdHZ3NkUTVqNDFaX3hxWWh2akttQm5UNkI2bXEwdC1tVHVweDlGemRuZWJ3X0I2cTRRaGdsVXRxaXRjcU04S2Q5OWxiOGVBOWpIUU8zSnh4akZTUzFHc1NzM0FWNURhZzNwTGZKT3FxNHBwQjBpeU1wOWhhR3FGWWlBNUh1ejRVa2ZhOGloTHNPeWp3S0daeEdDQzRhSm9ZbU5xaTROdEx5Y3pReEhQX2trN0N2WE9xdTNTYWdiUDlXMkJKTzU2ekdUdE9ucVNSMmRpSzYxVkc2LTdZTnFGRV9xS1ZqUE9vLXo5UHBkYVQ0cUQxdHlGSkVJTHNlMFViWjZtdFdjcUZWOGJhblZrdWw5Ni1CRUx4ejFwLURvbUdueGJoYlpfT2lwQkJFSUM4Uzl3Tnd2c3NuUWl4UXY1ekJyMFdjeDJRYjdlMFJqdlYydE96VW9ieHE0YlVmdw?oc=5",
+    "published": "2026-07-09 11:27",
+    "timestamp": 1783564026,
+    "summary": "삼바노바가 10억 달러 규모의 투자를 유치하며 110억 달러의 기업가치를 평가받았다."
+  },
+  {
     "company": "Qualcomm",
     "title": "스마트폰 침체 뚫고 깜짝 실적 이끈 퀄컴 ‘AI 다각화’의 비밀 - 포춘코리아",
     "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE9IY2NXeFhyOUtCYWx6aUloZGR1X3Q3SlVTOFB5UWMxUlhxVThtdE4xbTlGQ25XUFBsZGNXRUZlQ01RcVlYWHNiVDZ6elAwa0hCTnJ5V0hCR1diTE00bzFVeXRwazFGZ2F0eXUwZXFzSm5oUdIBdkFVX3lxTFBxWGFSdVk0Q1lVOUxxQUFWVkthSjRHYjNkYW0zVXUwRFNIVXExTkNoQzJIWmNjWHdLbHg5bjBoNGU1Tm9mc09DNHdSX2lDa2JEMXRpTjJDbFY1Nl9QX1R5ZXlfa2RfUGlGM2tpZEVqb3hSeHpydlE?oc=5",
     "published": "2026-07-09 11:25",
     "timestamp": 1783563908,
     "summary": "퀄컴이 스마트폰 시장 침체 속에서도 AI 다각화 전략을 통해 깜짝 실적을 기록했다."
-  },
-  {
-    "company": "NVIDIA",
-    "title": "Nvidia, 호주 클라우드 스타트업 Firmus에 5억 달러 투자 - Investing.com 한국어",
-    "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5VYWt3TXkyNWFxUUdJSUh6MHFPakNUeThQcm1rTWxSWno2UGZYQndwZjhIcjVPWFJmZGVZeEstVTRyRi1XTUloRGYyZDRSbTFJVVl5YUZHcHFFU0NWWFNZcnEtekZxdk1YRGVlU3pSQTk?oc=5",
-    "published": "2026-07-09 11:20",
-    "timestamp": 1783563600,
-    "summary": "NVIDIA가 호주의 클라우드 스타트업인 Firmus에 5억 달러를 투자했다."
   },
   {
     "company": "Broadcom",
@@ -1632,6 +1672,14 @@
     "summary": "에이직랜드가 SK하이닉스의 eSSD 파트너로 선정되어 양산 성장을 본격화한다."
   },
   {
+    "company": "Apple",
+    "title": "애플-브로드컴, 300억 달러 규모의 거래 체결, 150억 개의 미국 제조 칩 준비 - VOI.id",
+    "link": "https://news.google.com/rss/articles/CBMiS0FVX3lxTFAwNVRoRTRkWE5UQjFjeU9kUDNWOTFKb3Jvdlg2eWdxR0RTUG1DZlRhZnVLMzBiSjd2emdTWEh4MzcwVmlkMVBrMzNGY9IBQkFVX3lxTE51d0NFam1nM2I4X1BOTG51b2N0cXVnV0hCMmhkYkhaT1BueHlFODZiZFFVVV9PaDJXM3lrakZkN3BZQQ?oc=5",
+    "published": "2026-07-09 08:23",
+    "timestamp": 1783552994,
+    "summary": "애플과 브로드컴이 300억 달러 규모의 거래를 체결했다. 이를 통해 150억 개의 미국 제조 칩을 공급할 예정이다."
+  },
+  {
     "company": "에이직랜드",
     "title": "에이직랜드, 'AI 데이터센터 핵심' eSSD 확대 수혜…하이닉스 차세대 'Gen6' 본격 양산 - 프라임경제",
     "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE41NEtyU0hSWENRdVhrQXIzQ29FZ01CLTZZb1RfbTdYdERMdkV0NWxoZGRUY1p4TU9TM0RvekNkNFFxOEVlRkV5RlRDNDV2akFwbGRxYVp1cU5zMWlPRndNSUJmaw?oc=5",
@@ -1670,14 +1718,6 @@
     "published": "2026-07-09 07:48",
     "timestamp": 1783550887,
     "summary": "스페이스XAI가 오퍼스급 성능과 가격 경쟁력을 갖춘 AI 모델 '그록4.5'를 출시했다."
-  },
-  {
-    "company": "SambaNova",
-    "title": "삼바노바, 10억 달러 투자 유치…기업가치 110억달러 평가 - 네이트",
-    "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE1ZU3JyTTRRMDFQSVBJNzFlWlc1am5KTnFCWEJRaWdQYUFDZFBLdXJyU2N4THdGNkt6SUExUl9WaU0xNHRoTHU4S3JySTVoUWxXSFVN?oc=5",
-    "published": "2026-07-09 07:41",
-    "timestamp": 1783550460,
-    "summary": "삼바노바가 10억 달러 규모의 투자를 유치하며 110억 달러의 기업가치를 평가받았다."
   },
   {
     "company": "TSMC",
@@ -1742,22 +1782,6 @@
     "published": "2026-07-09 04:18",
     "timestamp": 1783538280,
     "summary": "애플이 중국에서 판매할 아이폰에 창신 메모리(CXMT) 칩을 탑재하기 위한 테스트를 시작했다."
-  },
-  {
-    "company": "Apple",
-    "title": "애플, 브로드컴과 45조원 계약...\"美산 칩 150억 개 만든다\" - SBS Biz",
-    "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE9JZjdOazY1SDRQTl9xT0xjaE1oUzhxN1I3REdDeFhJTURaenV1UDkzSXJYUnZJTjRoN0o5OHc4N0xrY1BqNHpoRUtjOXZtVk14QXhj?oc=5",
-    "published": "2026-07-09 04:07",
-    "timestamp": 1783537620,
-    "summary": "애플이 브로드컴과 45조 원 규모의 계약을 체결했다. 이를 통해 미국산 칩 150억 개를 생산할 예정이다."
-  },
-  {
-    "company": "Apple",
-    "title": "애플, 美 반도체에 45조원 투자…브로드컴과 장기 계약 - 파이낸셜뉴스",
-    "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9jLS1YWVQ5NkFreTYtWFA1cmcwdjBXb3JYN0loSHY2VlpoLUpsb1htVHpFaUhfbjRMVVVIZnZibUhlNHFobFNTamtaMnFmSTRrRmc2VmRmMnZOZw?oc=5",
-    "published": "2026-07-09 03:09",
-    "timestamp": 1783534195,
-    "summary": "애플이 미국 반도체 산업에 45조 원을 투자하며 브로드컴과 장기 공급 계약을 체결했다."
   },
   {
     "company": "Intel",
@@ -3056,14 +3080,6 @@
     "summary": "딥엑스가 일본 피지컬 AI 행사에서 현지 기업들과 엣지 AI NPU 도입을 위한 협의를 진행했다."
   },
   {
-    "company": "TSMC",
-    "title": "美서 제기된 TSMC 상대 특허권 침해 소송, 정치권 압박에도 ‘타협’에 무게 - The Economy Korea",
-    "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE12eEN0S1ZDWkFaenptZHBVbmNQN255QXBESlBVMHBoelNlS3MtSDVreVlyOEQ1dmxYendRVllGTlpQNmo0Skw0anFpMjljaGk4Wlh6V3pQN3hKUUk?oc=5",
-    "published": "2026-07-06 14:50",
-    "timestamp": 1783317052,
-    "summary": "미국에서 제기된 TSMC 대상 특허권 침해 소송과 관련하여, 정치권의 압박 속에서도 타협에 무게를 두고 있다."
-  },
-  {
     "company": "딥엑스",
     "title": "딥엑스, 日 ‘피지컬 AI 엑스포’서 상담 1300건 - 매일경제",
     "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9USmVGRzhWRmszMnYzSVBBeWNHWnJtSjVoQVhBSERsODd3ZnFOb1ZFYmtDR0Z2UWowN2IwOFpuaTRFaVV3cVFjdTE0V2NDR3JNT05mMnlR?oc=5",
@@ -3326,14 +3342,6 @@
     "published": "2026-07-05 12:12",
     "timestamp": 1783221135,
     "summary": "AMD가 메모리를 칩 내부에 통합한 2세대 Versal 프리미엄 MoP SoC를 공개했다."
-  },
-  {
-    "company": "TSMC",
-    "title": "\"AI 수요 잡자\"…TSMC, 내년 설비투자 '780억 달러' 전망 - 지디넷코리아",
-    "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1oc0s1czY0a2trZldsQ3duR1ZtRWVZUUxReUR5MDlURjRtVGQweFpaOGJmYWFzZ1NjR19OTGZwZVZLV3RIY3RYRFhjSFVQMmpONHNkeGNn?oc=5",
-    "published": "2026-07-05 12:04",
-    "timestamp": 1783220676,
-    "summary": "TSMC가 AI 수요 대응을 위해 내년 설비투자를 780억 달러 규모로 집행할 것으로 예상된다."
   },
   {
     "company": "Samsung Foundry",
@@ -3662,14 +3670,6 @@
     "published": "2026-07-03 18:26",
     "timestamp": 1783070818,
     "summary": "케이던스와 삼성 파운드리가 AI 반도체 설계를 위한 2nm 공정 및 3D-IC 분야에서 협력을 확대한다."
-  },
-  {
-    "company": "Meta",
-    "title": "메타의 플랜B가 드러낸 AI 인프라의 진짜 함정 - MSN",
-    "link": "https://news.google.com/rss/articles/CBMitgJBVV95cUxNX1U3UVRRR21XVE5mVWd6X1dCaDJIQlp5aDd5ZGRkOUtVeEZ5OFN5U1BvYnZFcmFuYmQtbmtMdmhhVG1LQTJGMm9DWFFXVFRRMXBCU2c1bDV2QmwyM1pEc0ZZc3FqSFpOOGlKeFJ6WlZuQW1nRDY1UzZOQmhfbTZNNEoxWHduVlJ3ZjBtLXZ3alJxby1zeV9xLTFMQVVxOEJMVTVMZnR5cVJleU5SSktEcjkwbmlpbVFSMnhsMkxaLWRJcmgzeHg0VGpPaWx1b2hBTDhWZzRfTTluMEhydF9FTXpBM0V4alJzNnNjY2hTZzg3RlFBWVdpWUVhYnE0eWJmUlJ5ZDBFSzhVR1Q5aHpfZ3hxLVg1M0xJaEhkZmRmeTJuVy1SUjJmeGd3Si1RQkZZQlV1c2ln?oc=5",
-    "published": "2026-07-03 18:22",
-    "timestamp": 1783070568,
-    "summary": "메타의 플랜B를 통해 AI 인프라 구축 과정에서의 문제점이 드러났다."
   },
   {
     "company": "Samsung Foundry",
