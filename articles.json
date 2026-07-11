@@ -1,5 +1,21 @@
 [
   {
+    "company": "NVIDIA",
+    "title": "휴머노이드 로봇, 쇼룸 벗어나 공장 라인 진입… 엔비디아가 '판' 깔았다 - 초이스스탁",
+    "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1IY0kyUV8zRkE3UTllTVIxSUZuaHBmb1VDTlBqMXpQOG5YeVdTYnc4dFJ3TjU4NzhXRnRzSGl4dkpZemc1ZW43cGtFcGhwaVJzNTdGUS1sSTc1U1F1Z1g2MHZZYVNJbWM?oc=5",
+    "published": "2026-07-12 00:40",
+    "timestamp": 1783784402,
+    "summary": "엔비디아가 휴머노이드 로봇의 공장 라인 진입을 위한 기반을 마련했다. 로봇이 쇼룸을 넘어 실제 제조 현장에 도입되는 환경을 조성하고 있다."
+  },
+  {
+    "company": "NVIDIA",
+    "title": "팔란티어·엔비디아 손잡았다…카프 “AI에 기업 데이터 넘기는 시대 끝나” - OBC 뉴스",
+    "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE92cjZ2anJPQkthZzlqT01CTF9hTUVBbTN1TWFiaWdERU9xd2tCRjZoX2l3YkVlNWUxV2RjTEdhYjMzajU0eEVwNS1UVGhTZXF2Z2tDUmVvT1pWenlvWmhTZVFMNk1XY0d4?oc=5",
+    "published": "2026-07-12 00:36",
+    "timestamp": 1783784169,
+    "summary": "팔란티어와 엔비디아가 협력을 체결했다. 카프는 기업 데이터의 AI 활용 방식에 대한 변화를 언급했다."
+  },
+  {
     "company": "딥엑스",
     "title": "딥엑스, 에브넷과 APAC 공략…유럽 유통망 성과 아시아로 확대 - 네이트",
     "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE1NbFZibWwwd0trVVhfMmQyTmQ0SzJpdTRpQUxsWEpiUC1ZbUdHOUxDZDVuaTZKWVhTVzJweFZCUk16QnRoTWZVaGhscGI3ZTh6VVRZ?oc=5",
@@ -865,11 +881,11 @@
   },
   {
     "company": "Meta",
-    "title": "\"메타, 9월부터 자체 AI칩 양산…엔비디아 의존도 축소\" - 아시아경제",
-    "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE85Z0gzaXk4OFI2UFNQeUU3ZTFfTDFiWnVDdElFLU1ST0dnaS1oTGZ2T180aUNrSFBwUFdWMl9NYXVXRFAtQk5MSjNJdW9HQllwbS1OYTVFWlpaaGpjZF9BSA?oc=5",
-    "published": "2026-07-10 09:33",
-    "timestamp": 1783643607,
-    "summary": "메타가 9월부터 자체 AI 칩을 양산하여 엔비디아에 대한 의존도를 축소합니다."
+    "title": "\"메타, 9월부터 자체 AI칩 양산…엔비디아 의존도 축소\" - 네이트",
+    "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE1pN2FMc0FMRzNsNDJ0a1NBMlIxTnBOMGVPSndJRVlKRHNjT2c4UF91aHJ2LUJDRUVUd1ZZOHBPWThoS1NPNVYwV3lXMGl4LWJndXhwT1U3cXktUDV3YUREQm1IWDVMNVcyeDJVcVJsYkthamRNYXptVQ?oc=5",
+    "published": "2026-07-10 09:34",
+    "timestamp": 1783643640,
+    "summary": "메타가 9월부터 자체 AI 칩 양산을 시작한다. 이를 통해 엔비디아에 대한 의존도를 축소할 계획이다."
   },
   {
     "company": "NVIDIA",
@@ -1152,14 +1168,6 @@
     "summary": "박중서 TI 코리아 대표가 자동차와 로봇 산업이 하나의 산업으로 수렴하고 있다고 언급했다."
   },
   {
-    "company": "NVIDIA",
-    "title": "돌파구 필요한 엔비디아…중국이 ‘GPU 빗장’ 풀어주나 - 중앙일보",
-    "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5fZHptd3otUzEyYzhubUJ0TGdLLUpXY01pN2JIYWlFck9iVktEZkJSajdya283aEg3bkVpY2xuTlRsRkdtR0ZndUVfRFowcHJEYWFac0tR?oc=5",
-    "published": "2026-07-10 00:02",
-    "timestamp": 1783609320,
-    "summary": "중국이 엔비디아의 GPU 수출 제한 조치를 완화할지 여부가 주목받고 있습니다."
-  },
-  {
     "company": "SambaNova",
     "title": "AI 추론칩 삼바노바, 110억 달러 밸류에 10억 달러 유치 - 와우테일",
     "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE9MdGxKU0dGdnU4c2E1MkVmUjY3X1A0OG5KTUdoSkdQNnBxbFFNZUJrZkFydy01QWU0S3pwWEpYYWp6VEgtZmVUek93ZGxkTXM?oc=5",
@@ -1174,14 +1182,6 @@
     "published": "2026-07-09 22:55",
     "timestamp": 1783605334,
     "summary": "SK하이닉스가 투자한 키오시아가 60조 원 규모의 가치 평가를 받으며 투자 성과가 주목받고 있다."
-  },
-  {
-    "company": "NVIDIA",
-    "title": "딥시크, 자체 AI 칩 개발 착수… 화웨이·엔비디아 의존도 탈피 시도 - 동포저널",
-    "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE9IX1A2SG5WUGxMdlR6T1ZsOEtmUVN5eVNyaXVDVEZjTURtWUg2XzZTTHhzVHd6a1A1Skc1YXIyaW5INkxqa1RJLVVHV1J2eldaRURhUjVzYkpTeHl4aV9hM3NmVkRRYlEzMmVQbjRRRE5zVk0?oc=5",
-    "published": "2026-07-09 22:53",
-    "timestamp": 1783605212,
-    "summary": "딥시크가 자체 AI 칩 개발에 착수했다. 이를 통해 화웨이와 엔비디아에 대한 의존도 탈피를 시도한다."
   },
   {
     "company": "Cerebras",
