@@ -1,5 +1,13 @@
 [
   {
+    "company": "Apple",
+    "title": "트럼프, 애플에 '관세 피하려면 인텔 공장 써라' 압박 - 네이트",
+    "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE1FMWFHWDgzV1drZjlKemZUVnFrM1lVbkI5QjFhZVE1d0JKNG9Vd0ttbWtlTURVaVRodzhCZE5aX19zNEJnZmwxTW5HUG12cFBVMHVN?oc=5",
+    "published": "2026-07-12 19:42",
+    "timestamp": 1783852920,
+    "summary": "트럼프 당선인이 애플을 상대로 관세 면제를 조건으로 인텔 공장 활용을 압박했다."
+  },
+  {
     "company": "Intel",
     "title": "관세 100% 피하려던 애플에 트럼프 \"인텔 공장 써라\" 압박 - 뉴시스",
     "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5NT3h6RGVnZXluYllJSFNWQWxLN2JHb0NXejNvRU82WU5RQUdoSW56ODZ6V1BCb0JxSkxJbUx3emowNTVqZ2EwdVNQQ0lvbElqNnRmbkx2c0NWSTlVWTVqa9IBeEFVX3lxTE9jOVNKMVJmc3NoUmVCZ1k0ak82MERwU3I4T1dXU2FDb0Y0Sm15bm9SbnlROTZ4MjBZQVdtSHdEUDhrc1RIV0JWSjdleGJLWFlFb1hyN1NTY2dRVzVOaUlwejhuUHE0dFY1UzBmQ1NmUEhMLVJ2RmxIOA?oc=5",
@@ -22,6 +30,14 @@
     "published": "2026-07-12 17:32",
     "timestamp": 1783845176,
     "summary": "LG전자가 엔비디아의 AI 서버랙을 제조하며 한국판 폭스콘 역할을 수행할 계획임."
+  },
+  {
+    "company": "NVIDIA",
+    "title": "[단독]LG전자, 엔비디아 ‘AI 서버 랙’ 만든다 - 서울경제신문",
+    "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE5UUzhvc3BiZlR2eE9iOHRIQlZ0eUtaSnhCdzltdmRxOF94R0Jfb3Jza3M0ZVI4R2xOb21FSHN5MlFsV2l6UzhZS1pYUmRUNFN4VjlZ0gFTQVVfeXFMTlRTOG9zcGJmVHZ4T2I4dEhCVnR5S1pKeEJ3OW12ZHE4X3hHQl9vcnNrczRlUjhHbE5vbUVIc3kyUWxXaXpTOFlLWlhSZFQ0U3hWOVk?oc=5",
+    "published": "2026-07-12 17:32",
+    "timestamp": 1783845176,
+    "summary": "LG전자가 엔비디아의 AI 서버 랙을 제조한다."
   },
   {
     "company": "TSMC",
@@ -72,6 +88,14 @@
     "summary": "세레브라스가 오픈AI와 컴퓨팅 계약을 체결했다. 또한 유럽 내 컴퓨팅 용량을 200MW 규모로 확장한다."
   },
   {
+    "company": "리벨리온",
+    "title": "리벨리온, 내년 상반기 코스피 상장 노린다…美 ADR도 검토 - MSN",
+    "link": "https://news.google.com/rss/articles/CBMi6AJBVV95cUxNNFcxMW5wc2R3blJHc2ltOHhhQnhzaDNaelJfdW1CR2RBZmNJMWFhbTA1X19aMDJPbFNLejFMeWFLcmRGa1NzZUxIdlBIczhGQThUX19rakk4eGQ3bnhCb1pUekRIcVVGdjRqVXRRX1FrYS1QQXo5dXNsMWFsVXZQbVdBeks5eW1HMGJ6MW9CN3RTR3NpX1EyTE9lc1RkLXZqVlNMN1JOT18xcVo3bDYwLXdWTDI0czZKOU5KVEpFaGNYNm1IWXhPRDBLa19sZ2ZPd1poVXFPV05YeUYwOVd3OVhiV1ZNZUJ5STBUdXRVZVJXT01EY04tSDJHaGwyOS1DeUM4NTBmd0c1MEpCdEVzbnUxb0xlWHVpdzFmUEc4MDJYenBoekotRGtKdHdvcml2XzgzZ2QxeUxfMUxjU3htQWZZNG03Q2Q4REoxamJOQjJySldOU21vcFNoU0xSYWJCcEVjM3ZHM1Q?oc=5",
+    "published": "2026-07-12 14:33",
+    "timestamp": 1783834430,
+    "summary": "리벨리온이 내년 상반기 코스피 상장을 추진하며 미국 ADR 상장 가능성도 검토하고 있다."
+  },
+  {
     "company": "Apple",
     "title": "애플, 2031년까지 초대형 계약... 돌연 미국산 칩 150억 개 생산 - MSN",
     "link": "https://news.google.com/rss/articles/CBMipANBVV95cUxNV1RSVHd3U0Z1ZXByRlMxNVd6RjNwMWNJSUswNWpyT0VNMEdtbmNEWUVQT2pCWGx5MjlueGJLWHg3WEFvdy0tNmRJOW9DaXpkUS1ZOTdFY3VfWmJNaFE2LTI1eGFvMEhtdjBqYmRueFdBdHMzdTBfdmN2cGtLSXQwVk1VSUNZOXFMOUtyVFRRU0JHU1U3NldLME9RM3hmNVQwXzlmbDJoZFNIRExVM1hycm9RWTc4dDlJUXNfREo3ajVBeTczZkFTYnNsTFV0QWowUzRCUzM1WG9FemlkNHJGdU5rWld5S0lmSGNIRGRoQ1JUOHdZY0plYnIzZzE4UlpUanJmTm1TNmtGb2ZhdEE4d29TY3ZEQVlhTmlfLUdjVmxYbEZFanFhckphX1BBVVVUZUg1aDBvNDZHQmFjSThsZzlUS0t5cXBRdm1BN0dGUm9RRDhCckFFYjJlMzdudDdkTVRTcWhveW9kZFdnaUhoNk5PY01QazVmdWdSZndsdDJsTU9CSnVzZTNiRTh6el9KMXZORTNPOVFKZEdWMFhXUU1FZWU?oc=5",
@@ -86,6 +110,14 @@
     "published": "2026-07-12 13:57",
     "timestamp": 1783832255,
     "summary": "메타가 자체 칩 개발과 14GW 규모의 데이터센터 구축에 대규모 투자를 단행하며 AI 거품론을 정면 돌파했다."
+  },
+  {
+    "company": "Groq",
+    "title": "다시 불붙는 AI 모델 경쟁…스페이스XAI 그록 4.5, 오픈AI GPT 5.6 출격한다 [팩플] - MSN",
+    "link": "https://news.google.com/rss/articles/CBMinANBVV95cUxNMFlWd2xvUVZLWGtWZUJRS1B6NTdpZnJZMzV2UXU1UnpjaU5NTWRRek9qR0EyMzYwdHdpakdLSDhCUkROdUw2UUFSWnpqZGpSU2p1ekR4dVVlUW9WUDg1SlhVSGZkdGRkRXhxZHBMN2t0d3V6ZFdMdTY5Tzh2Sk9TSWRFTHFjcGJXeGJOSUhod2UwUzUtR3hYMG5LcnltRnVUVWktWVFLV2dlcjhlTDQyajFZTG5WYlBLQkFPQThYdW1XbUJPajFOX1R2U0FieGVrR0NQSVBOYmNxVDAtZVlHWmRqUFdmNzlWZjdHNmhMbEZqVjZFenU3S2ZmcXVVVUxCdWN0VlJuM0hSVGtpdHRKV1lISHVFUGNlOHJOSThYVWVjVDRuT3RnRFNyOUxJS0dQcUVGTHpLQnhpTjFkMURjYUJFenFJTF9LVDZUdHZvVkQ2NzZGZVo2NFJxSFVwRDFNTFA4czMyVmZqeTc2dVl2NWo0eFRGN0xKUmVqQVZjdG92OWQyS2lCWDhLRURjMlY1T2I3UWtHemZnZkJG?oc=5",
+    "published": "2026-07-12 13:50",
+    "timestamp": 1783831850,
+    "summary": "스페이스XAI의 그록 4.5와 오픈AI의 GPT 5.6이 출시를 앞두고 AI 모델 경쟁이 재점화되고 있다."
   },
   {
     "company": "Apple",
@@ -118,6 +150,14 @@
     "published": "2026-07-12 13:02",
     "timestamp": 1783828979,
     "summary": "삼성 파운드리가 3년 만에 흑자 전환을 시도한다. 자체 HBM 생산이 실적 개선의 핵심 동력으로 작용하고 있다."
+  },
+  {
+    "company": "NVIDIA",
+    "title": "Nvidia와 Hugging Face, 휴머노이드 AI 도구로 LeRobot 확장 - MSN",
+    "link": "https://news.google.com/rss/articles/CBMijgJBVV95cUxONGNDNUxxOFBHYTBCR0dlVmlLSWFFeHFGdGZlOFI1MGtrT0hMcFZBdU1wbzFSdUNLRnY4WFppZVlqb0h3cUxEY1VEMG1SSllscDJDVkJPM2U5cnV1YU8yeVB5RUlDT1VPMFBrOXhvUnFlek5MOHkycVNhUlBDbFZXV0xta05Hb0s4eXpCYkgxckJkNTVzb3RvSEc3ZXdoWGpudXNOaXFna20xVklTZjMzTzlnRHJKQXRDTnR6bHM3ZFI3aVhRU1RmbEc1dy1IRXRRTnM2X3dDanhsOExSZ0pMUGVNenlCTF9qdDJZdmI4LWg4Z3lXR21DOHFIalNkSV9IU0R1U0VwRjg2TXpHYnc?oc=5",
+    "published": "2026-07-12 12:56",
+    "timestamp": 1783828603,
+    "summary": "Nvidia와 Hugging Face가 휴머노이드 AI 도구인 LeRobot을 확장하기 위해 협력한다."
   },
   {
     "company": "Cerebras",
@@ -1256,22 +1296,6 @@
     "summary": "메타가 자체 AI 칩 양산을 위해 삼성, TSMC, 브로드컴과 협력하며 탈엔비디아 행보를 보인다."
   },
   {
-    "company": "NVIDIA",
-    "title": "엔비디아 휴머노이드 파트너 '1X', 사람 손처럼 움직이는 '힘줄 구동' 로봇손 공개 [영상+] - 더구루",
-    "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE83R21pdkRrWHB4QlJRdlA0eWRYYnRsZ1I5Q0ZjU1kzWGxlUFBYOWJRczVTbV9vTmYxMXd2TUx6ZU5nUmY4a1pFR0luSFRxRDM2MFZ0dzUyVUE3ZFVVOXc?oc=5",
-    "published": "2026-07-10 10:54",
-    "timestamp": 1783648444,
-    "summary": "엔비디아의 휴머노이드 파트너사인 1X가 힘줄 구동 방식의 로봇손을 공개했다."
-  },
-  {
-    "company": "NVIDIA",
-    "title": "오텍, 유럽 폭염·'데이터센터 CDU' 엔비디아 MP 진입 준비에 매출·밸류 두마리토끼 잡는다 - 데이터투자",
-    "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE4yMFVCcElvWGI5ZXJhc3NxMmE5d3QyOW5TWFVNZEFzZUtWQWFMRjlaZDlSLW83NFhWSXBOUEZzSjdYTDdoV054ZzdxbFVHTmZRVEYxcGdWRGVGMkFkZVFOcTU4Wk56T0R5R1Q2TEI2UDUyZw?oc=5",
-    "published": "2026-07-10 10:51",
-    "timestamp": 1783648265,
-    "summary": "오텍이 유럽 폭염 대응 및 엔비디아 데이터센터 CDU 공급망 진입을 준비하며 매출 확대를 꾀한다."
-  },
-  {
     "company": "Groq",
     "title": "스페이스X, 그록 4.5 전면 공개…오퍼스급 성능에 3분의 1 가격 - AI 매터스",
     "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE0yWnhEOUJyLXJUNVVHSUt2cWJUYmRLcmhwaFJVbE9rLXRIVWU5QmF1aEVNdUhkWGJqb0tsWk85YWJ3aTcwNmlTdVFmdWFZZFBjV1ZLSA?oc=5",
@@ -1854,14 +1878,6 @@
     "published": "2026-07-09 16:17",
     "timestamp": 1783581452,
     "summary": "애플과 브로드컴이 AI 칩 분야에서 협력을 체결했다. 양사는 45조 원 규모의 동맹을 맺고 AI 관련 사업을 추진한다."
-  },
-  {
-    "company": "Apple",
-    "title": "애플 공급망 노리는 中 CXMT…6.5조 IPO로 D램 추격 속도 - ebn.co.kr",
-    "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE5FaGM4YUZXdjRueldOc0EtZHp1REd1TkRBMWsxUTBVTG9nU2oybDNaTWl2SnpDR0c4bHJXTDd6TDB2Y09JX09xZnJBNDdSczJFR010bXg4aHBxb29QNkRVNnBzbVk0Qnhy?oc=5",
-    "published": "2026-07-09 16:05",
-    "timestamp": 1783580726,
-    "summary": "중국 CXMT가 6.5조 원 규모의 IPO를 추진하며 애플 공급망 진입을 노리고 있다."
   },
   {
     "company": "Texas Instruments",
@@ -4904,14 +4920,6 @@
     "summary": "리벨리온이 AI 추론 최적화 기업인 스퀴즈비츠를 인수했다."
   },
   {
-    "company": "리벨리온",
-    "title": "리벨리온, 'AI 최적화' 스퀴즈비츠 인수...\"풀스택 AI 인프라 완성\" - AI타임스",
-    "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5LeDRZTVBlOUN6UklOeEVaU25SQXZKMjFSVGRuMnJTeUcxX1pHekNiRGRWWG9mS1Q2NF85WXpBNktnMExPVnFIMHQyU3huenpJTTQ2QXFBWEdfaU8xbExFazZkZVpWYmZGeWc?oc=5",
-    "published": "2026-06-30 11:24",
-    "timestamp": 1782786243,
-    "summary": "리벨리온이 AI 최적화 기업 스퀴즈비츠를 인수하며 풀스택 AI 인프라를 완성했다."
-  },
-  {
     "company": "Infineon",
     "title": "인피니언, 8Tx8Rx 이미징 레이더 MMIC 양산 개시 - e4ds news",
     "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTFB3UzdmdGFNaklackl1VXNEdFZYWGpPSENEZWU2NjBVSlJDR3lCU0IwQ212WElJZFFla19HTGlzQjBwd3VVeWxXdXFodzZ3bnQyY1h1NjVuU1BoSnpmdWh5V1BR?oc=5",
@@ -7278,21 +7286,5 @@
     "published": "2026-06-13 00:39",
     "timestamp": 1781278747,
     "summary": "베트남에서 메이코 옌꽝 전자 마이크로칩 제조 공장 건설 프로젝트가 착공되었다."
-  },
-  {
-    "company": "Microchip",
-    "title": "메이코 옌꽝 전자 마이크로칩 제조 공장 프로젝트 건설이 시작되었습니다. - Vietnam.vn",
-    "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOV2V0UEJ0WGF1d3MzRU5zT25lQmNvN0RkRHUtcHRpX3pQTUxKSkhXWXN4X2VhMC1pRGl5dGw4ZU5oU0stdmN6WThVT1hnOUNxbHVwNC1vRUhzYU5xRWRwMjU3VC11SWcya0Y2eGd0cWxPN1BiQ0hyc3hLOVlZOEt5QkM1d21RV2JRMUY5WXRzV3FaT1RTV243YVkwTEVkWXc?oc=5",
-    "published": "2026-06-12 19:58",
-    "timestamp": 1781261900,
-    "summary": "베트남 푸토 지역에서 메이코 옌꽝 전자의 마이크로칩 제조 공장 건설 프로젝트가 시작되었습니다."
-  },
-  {
-    "company": "파두",
-    "title": "파두 \"고객사 요청으로 eSSD 컨트롤러 대금 입금 지연\" - 디일렉",
-    "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFBPMmNLN3FTZC1ZNjhfMzBVX096allYRFViN3BpNVAyOV9xV0M4Vjd5aU10clg0VE5tSjVTcW5QRjczWkZhZmhzTHFVdmFyVDRMRUFMa2JFajZVNXphaXZJTDU5WEo1QQ?oc=5",
-    "published": "2026-06-12 19:23",
-    "timestamp": 1781259810,
-    "summary": "파두가 고객사의 요청으로 인해 eSSD 컨트롤러 대금 입금이 지연되고 있다고 밝혔다."
   }
 ]
