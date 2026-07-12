@@ -1,6 +1,30 @@
 [
   {
     "company": "Intel",
+    "title": "美, 인텔 살리기 총력전…\"실제 경쟁력 입증이 관건\" - 네이트",
+    "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFBWMjdlcDFVdFl3YmpCY1lqVno0QzR6aHpIeUlxdndnSTVwbEZDRmxvSUdHRjJ0MlFGOUxHS2RtM3Rxc1hSeUdrc0ladDNlQ0hGTTgw?oc=5",
+    "published": "2026-07-13 05:05",
+    "timestamp": 1783886700,
+    "summary": "미국 정부가 인텔의 경쟁력 회복을 위해 총력을 기울이고 있으며, 실제 경쟁력 입증이 관건으로 지목된다."
+  },
+  {
+    "company": "Apple",
+    "title": "애플 M7 울트라, 1.5TB로 인텔 맥프로 기록 재현 - 위키트리",
+    "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFB4QTNHUHpkbmFWNG9CUV9udUtZX2dwQW5SWmxEMUt3dHpGUm5QWWdIZmlJb3JLdjY5ZldWbGpVcGdEbjNSWGthOEFoNHY5X3RSTmNGa3p3?oc=5",
+    "published": "2026-07-13 05:00",
+    "timestamp": 1783886400,
+    "summary": "애플의 M7 울트라 칩이 1.5TB 메모리를 탑재하여 과거 인텔 맥프로의 기록을 재현했다."
+  },
+  {
+    "company": "Intel",
+    "title": "\"애플 칩, 인텔 공장서 만들어라\"...트럼프, 관세 협상서 압박 - v.daum.net",
+    "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFBFaHpIaUVucGxfQ19rOEVleEVxaUMxQkk2X3ZnYkVXcmdSOXdES2QzMnFqYnVRQWM2YW5LVHVDRWhlSmVvZUdSaGV3LUdXUTg?oc=5",
+    "published": "2026-07-13 04:27",
+    "timestamp": 1783884420,
+    "summary": "트럼프 당선인이 관세 협상 과정에서 애플 칩을 인텔 공장에서 생산할 것을 압박했다."
+  },
+  {
+    "company": "Intel",
     "title": "트럼프, 애플에 '관세 피하려면 인텔 공장 써라' 압박 - MSN",
     "link": "https://news.google.com/rss/articles/CBMi-gJBVV95cUxPUjRTNlMzVnRYYjUyRjFaWHRHZDBfQ2p0VnlpNXN0bFlnMjFIVVJTNFNiMURYN0pzVVBGV1NMMXAtWkpNUEZ6UmdYQUsxSVo2Q1NJa1oxZ0l6SENKTDRkcy1JUWxBSjc2NjFIUE1UQ2lVTXU0cTBuTTA3VEZkd1dCOVk1ODJ2YUhjSEpMMno0Qm0ydmVTTjMzZnJWQ1VodGlvUkw2ZHhtX0MtYzZJSUI0M1U3ZU5XNmd2UmZhbVhBb25FMTNFZFJqeWlCeXkxNktMeUJIMkJpMm5RMlpZVDBza184MUE1c1NuTmhRVWZJQlo5czJzTVB3YXVYajRYMEF2dmlXeTlQMnlfYlNhejVCa29NY0J2bWZ1cHpGNXpiemtwTXFCMFpuck9XLW5SZ2dfckdvRVF5SmlKNkRqTmo5UkVxNWxzRjlDY3l5TzF6MlpBa0JscHI2bjBsMkQ0ZXloUkUzNnBRNWlDUjhRQlJKR0NJcGVVWThEdEE?oc=5",
     "published": "2026-07-12 23:40",
@@ -38,6 +62,14 @@
     "published": "2026-07-12 21:49",
     "timestamp": 1783860542,
     "summary": "트럼프가 관세 협상 과정에서 애플을 압박하며 인텔 공장에서 칩을 생산할 것을 요구했다."
+  },
+  {
+    "company": "Meta",
+    "title": "Meta Prepares For Iris AI Chip Production As Stock Gain 12% Last Week - TIKR.com",
+    "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQVzJJNnNZSTlkeTdEd2xyMlZ5ZndVRWM0QmlUXzhlUnA5WGloNVd4NDZObkZvNE8wS3BMSDIxMml0NXNOSUo3a1ZwMDU5UXp0N25zNlNXZW1hNWVzODVWcW1YdllHaXVvbWQ1Q3Eyb2VaYVkzaDdNRVJPM3I2dFJwWU5FQ0t2TEM4TWY5ZlFR?oc=5",
+    "published": "2026-07-12 20:08",
+    "timestamp": 1783854523,
+    "summary": "Meta가 Iris AI 칩 생산을 준비 중이다. 지난주 주가는 12% 상승했다."
   },
   {
     "company": "퓨리오사AI",
@@ -521,11 +553,11 @@
   },
   {
     "company": "OpenAI",
-    "title": "오픈AI·구글, '美 블랙리스트' 중국 기업에 AI 모델 제공 - 한경매거진&북",
-    "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1BNmctWFlHLXFLS1I0dzZMNFVhTGtHSjA1RzVxbjl2X0VJdTYyYTNGRWFVYm9wTnJlNUs2OGIwU3RseGR1elhDVFBPTkR2VG5CRkU0RjlNd2N6VWhWSWNPM2hlVXFNRzl3S2EyYQ?oc=5",
-    "published": "2026-07-11 17:32",
-    "timestamp": 1783758720,
-    "summary": "오픈AI와 구글이 미국의 블랙리스트에 오른 중국 기업들에게 자사의 AI 모델을 제공하고 있다."
+    "title": "오픈AI·구글, '美 블랙리스트' 중국 기업에 AI 모델 제공 - v.daum.net",
+    "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE9aWXNHOGpaSnFPODlNNHZEYTdlMWFmQVVyY09neXM5MTF1Nkw4SXlDM1EzUHZGMGs2VDc4YXRnUERwa3dOYUpwVHExWmxOdnM?oc=5",
+    "published": "2026-07-11 17:34",
+    "timestamp": 1783758849,
+    "summary": "오픈AI와 구글이 미국 정부의 블랙리스트에 오른 중국 기업들에게 AI 모델을 제공한 사실이 확인되었다."
   },
   {
     "company": "NVIDIA",
@@ -1824,14 +1856,6 @@
     "summary": "TI 코리아 박중서 대표가 반도체 기술을 통해 로보틱스 미래를 앞당기고 차세대 지능형 기계 개발을 지원하겠다고 밝혔다."
   },
   {
-    "company": "Apple",
-    "title": "애플이 앞장서는 '차이나 반도체 라이징'…왜? [이브닝 브리핑] - 네이트",
-    "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTFBFZ1RfdFg2QXFLN3NNYTdtMTNJVG95OUVNcUNXSlVpRVRUbFVWcjdBLUZ3MF9KODdkRnZzNHZRT1YxOE12OUdTUzR6NXhBdkJtZ3BSM1E1N3plclAzWlJvRFJ0d3NHQndpb1c4U3VmYUVwbXljRl93SA?oc=5",
-    "published": "2026-07-09 17:51",
-    "timestamp": 1783587060,
-    "summary": "애플이 중국 반도체 기업들과 협력을 추진하며 차이나 반도체 라이징을 주도하고 있다."
-  },
-  {
     "company": "Microchip",
     "title": "호치민시: 고품질 반도체 마이크로칩 인재 양성. - Vietnam.vn",
     "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxOVmhER2c3X1l5Vl8tRGhLelZFaWxvOTZLTXZLRFZRNkVrakNYUUk0V2lzaFJVYzBGaUpubHN3OVUtSDBoSjVJVHRBTUUzWGgzU21ubHdfMlRnU2dPQ0pjaEg0Q19LX3JaQTZvMWtYUHFaYndzb19ndUlOWUpuRFR5R293RTFMTU04X2xVUTBKakk2eEotb3pfNTAxNEd6UQ?oc=5",
@@ -2816,22 +2840,6 @@
     "summary": "미국 내 반도체 인력난 심화로 인해 삼성, TSMC, 인텔의 대형 프로젝트 가동에 차질이 우려된다."
   },
   {
-    "company": "Intel",
-    "title": "국립금오공대, 인텔社 연계 ‘비전 AI 엔지니어 양성 교육’ 성료 - 한국대학신문",
-    "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE92V1kzSldXZmJoYmVlU1JlaDE3WUN0a1FNZ0pMVlJaMldUOUMwd2xqbzJKSVNCbkE2LURRTFFpZUtoSjNTVktlWHpmUk1oblJ4bHRVVnhUSjFWZ2dkdHhPWVRJZ3I4UQ?oc=5",
-    "published": "2026-07-08 10:42",
-    "timestamp": 1783474959,
-    "summary": "국립금오공대가 인텔과 연계하여 비전 AI 엔지니어 양성 교육 과정을 성공적으로 마쳤다."
-  },
-  {
-    "company": "Intel",
-    "title": "인텔 노바 레이크, P-코어와 E-코어 모두 AVX-512 지원? - 보드나라",
-    "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTFBxTlN1aGgycVY4S19rc2pYQ2hNc1pqOUg5QUY0T1RSd1F6VHJob3hyQV84ZWpYVG9VSy1NOVFHVFlic0E1T0pVNF9jUlVySDhzZ1JFdHo1VEw4LU4yak1TcWhzOA?oc=5",
-    "published": "2026-07-08 10:38",
-    "timestamp": 1783474732,
-    "summary": "인텔의 차세대 프로세서인 노바 레이크가 P-코어와 E-코어 모두에서 AVX-512를 지원할지에 대한 내용이다."
-  },
-  {
     "company": "리벨리온",
     "title": "유럽 향하는 'K-AI 반도체'…리벨리온·퓨리오사, 파리서 '소버린 AI' 전략 발표 - v.daum.net",
     "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE1ObzVKVFpJZ1ViaEdFaFlvMU9rY3kwQ3hsRkNzdFJEaEtMUUFxaWU0NEpqODNkOEkxNWNZbXloRzY2bndMb3MwN2dKS05WS1RTNmhGSw?oc=5",
@@ -3630,14 +3638,6 @@
     "published": "2026-07-06 10:01",
     "timestamp": 1783299715,
     "summary": "미스트랄AI가 팔란티어와 유사한 전략을 채택하며 오픈AI를 추격하고 있다."
-  },
-  {
-    "company": "Meta",
-    "title": "메타가 불붙인 '반도체 과잉 투자론'…진실은 무엇인가 - 디잇플러스",
-    "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE5oWWgyelYtS1ZreE83bFE1VHRGeWlDV0Z0azdGdGp4bWRMMkp3dXQyenFaSVVYS1dLeVM2VXBSby1Xai14VVNsd1l5c1JoTkd0WEhwUlhjeDlhWFVIUWNGYUtpVmI4bDdG?oc=5",
-    "published": "2026-07-06 09:58",
-    "timestamp": 1783299495,
-    "summary": "메타가 반도체 과잉 투자론을 제기하며 시장의 논란을 불러일으켰다. 해당 투자론의 진실 여부가 산업계의 주요 쟁점으로 떠올랐다."
   },
   {
     "company": "Kioxia",
