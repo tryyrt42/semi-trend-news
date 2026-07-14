@@ -1,5 +1,29 @@
 [
   {
+    "company": "NVIDIA",
+    "title": "엔비디아, 中 우회 차단에 고객 반토막 - 글로벌이코노믹",
+    "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPTS1PcVVoNEdwMFVoWUd1ZVpMa0ljRU9jR3gtZVBUclFTOXZUZEhaRVdUVXRacHN3anZ6X1VuQkV4QWNMUkd5VHVhYnpXZWhlOHdPVnlQdldMY0k0QnBHalNTSWtHQmZRdWxVZ1JraGV4bU5EeDU3djB1UlowRWJvckVYUTNCS00?oc=5",
+    "published": "2026-07-15 04:00",
+    "timestamp": 1784055600,
+    "summary": "엔비디아가 중국 우회 수출 차단 조치로 인해 고객사 확보에 어려움을 겪으며 고객이 절반으로 감소했다."
+  },
+  {
+    "company": "Samsung Foundry",
+    "title": "대만해협 흔들리면 판 바뀐다 … 빅테크가 삼성 파운드리 찾는 이유 - 매일경제",
+    "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE9WT1NvX3pYcm5NQWwwV3RReWJzNkhXQnpwdWNfelRWY25vNHRPd2ItLVVfWW5FTkNxeml1T0ZaSHQxZWppclJXczhpcmNkTFNLYXc?oc=5",
+    "published": "2026-07-15 04:00",
+    "timestamp": 1784055600,
+    "summary": "대만해협의 지정학적 리스크가 고조되는 상황에서 빅테크 기업들이 삼성 파운드리를 찾는 이유를 분석한 기사이다."
+  },
+  {
+    "company": "TSMC",
+    "title": "TSMC보다 먼저 만들어진 신주과학단지…세계 1위를 만든 것은 ‘집적’이었다 - 광교신문",
+    "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5pM1QzWk9Rem0xbV92TUNkZ2pkdk83b0MtN045WF9pcGJubTJmMGN6YjZqMm9kZm5qcWJyV3pUT3dYSmVRcVpSR0xGelJMQ1h0OGJfb0RDXzRHQkx5OHZxLTF6Z0dlN2JTRHBNUNIBbEFVX3lxTE5pM1QzWk9Rem0xbV92TUNkZ2pkdk83b0MtN045WF9pcGJubTJmMGN6YjZqMm9kZm5qcWJyV3pUT3dYSmVRcVpSR0xGelJMQ1h0OGJfb0RDXzRHQkx5OHZxLTF6Z0dlN2JTRHBNUA?oc=5",
+    "published": "2026-07-15 02:46",
+    "timestamp": 1784051215,
+    "summary": "신주과학단지는 TSMC보다 먼저 조성되었습니다. 이 단지의 집적 효과가 TSMC의 세계 1위 달성에 기여했습니다."
+  },
+  {
     "company": "Samsung Foundry",
     "title": "삼성 파운드리, 앤트로픽 AI 칩 수주? 2나노 고객사 확대 기대 - 위클리포스트",
     "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE1fbmxWS0g5aHlZUjBUVzJjaUlyazF5TkRhM2p3Wkx0OHVYQnU4Wjl2M0dJTzVZWlc2TjlveHpsVUU3ckNHUi1yZlFWTjJPeUFtdENzU3d1ckkweDNjZU1MbHBpa29hNE0xdDQ4?oc=5",
@@ -9,11 +33,11 @@
   },
   {
     "company": "Intel",
-    "title": "반도체는 시설 확충 경쟁… 인텔 아일랜드 공장에 8조원 투입, 하이닉스 中 생산장비 확대 - 조선일보",
-    "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNYXJhS3dNSDBTNnpDOHhEUU5XN2Q4S1ZqR1JPMGVtREJ3OXJ1YjJibkZuazZZRXVsZVpSRDJSel9XUGdlaUVNbW1oMXlnekg3ZUFnNndRWEoxZWtxbWVsY09rZDBGM25URERkS1dZZklvWlpCTXBwT05ERkRlMWdGQmNLTQ?oc=5",
-    "published": "2026-07-15 00:55",
-    "timestamp": 1784044500,
-    "summary": "인텔이 아일랜드 공장에 8조 원을 투입하여 시설 확충을 진행한다."
+    "title": "반도체는 시설 확충 경쟁… 인텔 아일랜드 공장에 8조원 투입, 하이닉스 中 생산장비 확대 - v.daum.net",
+    "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE5JOXh1Q3puclBTZUhQOFk3c2pCOTNyMFc2N1IyVWhPN3JIdmRnb2E3a0lmRnJFMzg1bmMySTZMVjZPZjhRVWsxZ1JwR1l2TDdCelh2RQ?oc=5",
+    "published": "2026-07-15 00:56",
+    "timestamp": 1784044611,
+    "summary": "인텔이 아일랜드 공장에 8조 원을 투입하여 시설을 확충한다. 반도체 업계의 시설 투자 경쟁이 지속되고 있다."
   },
   {
     "company": "TSMC",
@@ -161,11 +185,11 @@
   },
   {
     "company": "TSMC",
-    "title": "TSMC \"범용 반도체도 가격 올리겠다\" - 매일경제",
-    "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1Cd0pOUlA3NmRpempld1ZlN0NPNzlQcndDajV0TlFKNHpuRjZ4RTlHUzZ6SFl2aGdOb1owa0FIc21kNk1BS0ZKMEd3SDdSODRaZERacVZR?oc=5",
-    "published": "2026-07-14 17:50",
-    "timestamp": 1784019004,
-    "summary": "TSMC가 범용 반도체 제품의 가격을 인상하겠다는 방침을 밝혔다."
+    "title": "TSMC \"범용 반도체도 가격 올리겠다\" - v.daum.net",
+    "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE5NcUhORkIyQWt3bGdBYXN1c041WmdnVmZrdXhqaGE3Y2xZaF95QWQ3Q2lUeUVUZGpLLWcyRmN4Q09fRFVId21TYmQ3ZkFFUU5Fd01mNw?oc=5",
+    "published": "2026-07-14 17:51",
+    "timestamp": 1784019063,
+    "summary": "TSMC가 범용 반도체의 가격 인상을 결정했습니다."
   },
   {
     "company": "NVIDIA",
@@ -1224,14 +1248,6 @@
     "summary": "TSMC의 6월 매출이 68% 증가했다. AI 반도체 수요가 정점을 지나지 않았음을 보여준다."
   },
   {
-    "company": "NVIDIA",
-    "title": "엔비디아·퀄컴이 점찍은 ‘기억하는 로봇’… 메모리즈 AI, 시각 지능 표준 정조준 - 초이스스탁",
-    "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFB3VmR5ZXFCU3ctSW5saWlEWlRpNXRwbURvMU5pTkVTMWdVVmZ6WWdabTg3M21hMk02aGlnOGVoTW9KcVB1R3hxd19hdG1ZaXRYYzNNSU9pc0RhUnhKNXZ4ekJiT0RlWU0?oc=5",
-    "published": "2026-07-13 18:51",
-    "timestamp": 1783936313,
-    "summary": "엔비디아와 퀄컴이 시각 지능 표준을 지향하는 메모리즈 AI의 기술에 주목함. 메모리즈 AI는 기억하는 로봇을 위한 기술을 개발함."
-  },
-  {
     "company": "MagnaChip반도체",
     "title": "매그나칩반도체, VCM 구동칩 신규 출시 - 전자신문",
     "link": "https://news.google.com/rss/articles/CBMizwRBVV95cUxPeHJfZ3hvbGdRa1VLdDJ0bmFDZFFRWC15RG9hejNUdnFoRG9RUkdQSVJadVlnQmJWdXBqdGxLTHJqUlRQaGFvdTFTX19tOXdtUmxQX0pIQkRYUnFMTlZISjFCOTB4RmNpNGdMVzljTjVyN3FCc2hZckY0NjF5WE82VHNDSlFrRGJZNE5hcjFPLWtYTXRoU2ZfVXJOS2paUWxVMEtRdWh4X1V1eU9BWXJESE5zQ0oyUHlYZl9EeVBiaEJVdHNGS1E3UTB3d2FCaHVJcjRlbFZOb0lMOWZ3bnJIdl9uNzZmdWx5QkdfWnlMMzNFaEJ2U1NhRHlQQ05rRDFhbkpSblB3X1Z2ODhXSmV5QnFQLW5YaVVvR1Rzd2dJS0FCN3pYUHlXOTEtbUtKSGwtQ0RVa004TFlSWkZ1bEIxQmpBTHVKQ2pTRzUwSDNMaFpsN0hmR0FLRkc0UWI5THZPQ2hvSUxuVVFmeDVJUWNOWnZGdlhSOHpZUUZPQ3RPWUxCRDhybWpPbWZud2JLRzBpU0Y2b0ZlbzJ0SUdoZUN6OVNCOEotTTVTRDg2QkpITWhza1l6OVZjMnN5SVYwNnVVemVadTVLOUFCekRZUkhmeHZ5WHRzaS1zWDJISjZpX0dWMGlhZGxoRXBjN19xWVVDek9CUFhVYVBDamFPNDlEVlZYalBKM21IelJnbXBhU05aTkJEX19rY1N5RE1qbEEwUnR4bW9HbVlETTNmZ19vNmhwQUJmY0xvTUNocGpKbTJ3T3ExSjlLdGVleGlJQVE?oc=5",
@@ -1424,6 +1440,14 @@
     "summary": "퓨리오사AI가 내년 NPU 생산량을 4만 장으로 2배 증산한다. 엔비디아의 독점 시장에 도전하기 위한 행보이다."
   },
   {
+    "company": "Tesla",
+    "title": "[영상] 삼성 2나노 드디어 움직였다…테슬라 AI5 생산 시작 - 더구루",
+    "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE5KSlBHeU5iaW40cGR2Q0xBWkRncTVIaEZoYWJFWHVXc1NzQ3d0MTNZM3Nod1hrXzAyd3RZbWxBMEtpZVZNUjZjWEVuV0t0TmxBV1VnRFBlVkIydHJZRVNsY1haZw?oc=5",
+    "published": "2026-07-13 16:00",
+    "timestamp": 1783926000,
+    "summary": "삼성전자가 2나노 공정을 통해 테슬라의 AI5 칩 생산을 시작했다."
+  },
+  {
     "company": "Intel",
     "title": "인텔, 데스크톱 PC용 프로세서 신제품 '인텔 코어 Ultra 200S 플러스' 출시 - 인벤",
     "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1pOEIyb1JtTUYzUDcxT3Z6amRlY1pTYTl2Qjc2Y3F4TjduRTEwUlN6VFdxNHVzbmlHMG02N2UyTWFIUlBEY2YxbWFCUHpIU3o0RzJCdjlFbkFYZkpIajJlblFqTTc3TkRvalY2Tko2Zm4?oc=5",
@@ -1566,14 +1590,6 @@
     "published": "2026-07-13 14:00",
     "timestamp": 1783918800,
     "summary": "인텔의 기원인 '8명의 배신자'부터 시작된 반도체 역사의 주요 순간들을 다룬다."
-  },
-  {
-    "company": "TSMC",
-    "title": "대만 TSMC, 자이과학단지 2기 부지 기공식 열어 - 연합뉴스",
-    "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBGQ0g0WWVOekVZdmpWUmczUlhfcDBnck1QRURnWE9DR0hteVdVY3lBeENGV2pWVl9oTGpPaUtCZ0JDdnhyanVGVnlOanZma04yclRLWlNCcjl1MU3SAWBBVV95cUxPclRKS0I0N1U2MGhpejNvTUJ6TjJNS25ENHdZSE1MRVdBaTEtb2tXWVRGaF85SE1JR2U1NVdPWmJOM1I0bWRrZkFha1p0bVlsU3M1UW1oRXh3aHRBNnZvNjc?oc=5",
-    "published": "2026-07-13 13:56",
-    "timestamp": 1783918597,
-    "summary": "대만 TSMC가 자이과학단지 2기 부지 기공식을 개최했다."
   },
   {
     "company": "Intel",
@@ -4528,14 +4544,6 @@
     "summary": "인피니언이 중국발 GaN 특허 제약 상황에서도 시장 내 견고한 위치를 유지하고 있다."
   },
   {
-    "company": "Samsung Foundry",
-    "title": "이번엔 앤트로픽…삼성 파운드리 수주 행진 - MSN",
-    "link": "https://news.google.com/rss/articles/CBMixwNBVV95cUxQXzVLcWM4U2pIaVVsRlhFVWRLSm4xTGJOR0I2RWh5OVdFaFlzdU5OUzF1OE1tanJWOXktS0FnU1plemZHcXNFcTNtbmphR1dhcWUtd19leUhvX1lvazJGU0tEZDBEMFRKRlZIdVpDb0RQaXc4R1NBUmhMdlhLbFg5MEpoeXpETFRIdmpmZFJoNG8xRFJFcGthOW83emkxUEtSOFN5eGdhajREcDhrWEJWbjhPTGc4cjNibmtROFpFU2xpckQ0RWktUGo5WVFrTUhZcmhNX2haMTdxZVFKYnhrNGdsaUZPaVdwWEUzRnduYWNSaXEyRGRfRGh2dlNqNWdaUUJ3T3ctTWp6Yzl3T3lzZml3Z2dxSjBTRllxMmNDWG9zSUFoRUtvY2lTUVlOX0hURTFZSXNwRGEzaTRoZlI3Ri1lMWxIZlpNdmdNWnZDR1JYdWlWODBoSVRSSjhDTEc1WDZMenBYRFN1WjBPMjNVQkZfSjJRYzdnNmxRWWRZczY1OW1YZWdEbWY0c0I0YXA4c2Z4ODNOU0dJN3A3eUVKT21VZnlvbzdmcnhndHg1a0dXYWp1eDlJMlRINF9tSTAzU3FMWk5EVQ?oc=5",
-    "published": "2026-07-06 08:00",
-    "timestamp": 1783292428,
-    "summary": "삼성 파운드리가 앤트로픽의 AI 칩을 수주하며 수주 행진을 이어가고 있다."
-  },
-  {
     "company": "Tesla",
     "title": "테슬라(TSLA.O), 직원 AI 사용 비용 제한…그록은 예외 - 알파경제",
     "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTFBLZlpEX3h6ZEg2R0s5Y3Q5UDNXbEtmcTZxVHJVMS1wUWFIb09ET0hiSVJFc2xmUHVpUXRzTXdfcG9zWXo4VzVhcVdaeElkTjNzcl9xOUpvY2ZuVk5GS3hlZ2wwMkdIcFpJUG5IdGhn?oc=5",
@@ -5430,14 +5438,6 @@
     "published": "2026-06-30 18:19",
     "timestamp": 1782811158,
     "summary": "리벨리온이 AI 추론 소프트웨어 기업인 스퀴즈비츠를 인수했다."
-  },
-  {
-    "company": "Tesla",
-    "title": "테슬라 ‘AI5 칩’ 설계 확정…출시 일정은 여전히 지연 - 초이스스탁US",
-    "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE94dTF0OTRKLTV1ay04ZjNoREt3TUctVEhwenNpM1dnWHdCRFE5bklyYm4wcmEwS0NEaXpWSjIzVkZ3dVAtaTJnalNZX08tZzB6bklRQ1NHNlF3Rkk2OW9FMEtUVHU2SEE?oc=5",
-    "published": "2026-06-30 18:06",
-    "timestamp": 1782810400,
-    "summary": "테슬라가 차세대 AI5 칩 설계를 확정했다. 다만 해당 칩의 출시 일정은 지연되고 있다."
   },
   {
     "company": "Google",
