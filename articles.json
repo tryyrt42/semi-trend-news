@@ -1,11 +1,27 @@
 [
   {
+    "company": "NVIDIA",
+    "title": "[한입뉴스] 중국행 엔비디아 칩, 수출 재개됐지만 극소량이에요! 外 - 머니네버슬립",
+    "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE9mSXY2eXhRSlluZHNIdTVPdXJFazNuRFFxbVphT2VoY2Rxb3M2Wk5UVi0yTGhsalBld1lJWjNuc2g3TjJUa3JSMzlyLTJKT2xGVThub2luT0d2VDNSMlBibGJuYmQtSU9hZllQNnFmTFd3RFHSAXdBVV95cUxNVTJtcXJhcGF6bnlPaHdQa1kybTJUX0szWmFSRGdqN3d1YW5xSGstdVRaemx6WmR4U2dzUkowLUlIQUJ0VU0yUUFiRWJXVkhxWGdQbU9qY0l1aUNnUjdyQ2dzNmxwaUxDaURBY0RvdkRZejNMV3FoTQ?oc=5",
+    "published": "2026-07-15 06:30",
+    "timestamp": 1784064654,
+    "summary": "중국으로 향하는 엔비디아 칩의 수출이 재개되었으나, 공급 물량은 극소량인 것으로 확인되었다."
+  },
+  {
     "company": "UMC",
     "title": "대만 UMC, 싱가포르서 ‘광자 칩’ 양산… 반도체 고속 연결망 전쟁터 진입 - 글로벌이코노믹",
     "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPTmZhczZfSHlJaThVVW90dDVXV1h0dk1ZTU5ObHZNRXhkSXlNUUwyWEhOaGdDS0pOcjNIZDR4bVpTYnZUMHYwTndjdjVYWHVfVW5XSzBycWpwNl82azg3a3dTc3VSNVJkMGc3N2VzVVdRd1R5SDh1dXJva3BseV8ycC1wUWZadVU?oc=5",
     "published": "2026-07-15 05:25",
     "timestamp": 1784060700,
     "summary": "대만 UMC가 싱가포르에서 광자 칩 양산을 시작하며 반도체 고속 연결망 시장에 진입했다."
+  },
+  {
+    "company": "Synaptics",
+    "title": "시냅틱스, 휴대폰 컨셉트 모델 공개 - 전자신문",
+    "link": "https://news.google.com/rss/articles/CBMipARBVV95cUxOMkJMUzJyc19hejdRaTVFYTlCNUZYQ2F6aXB0bEJrajNHV1ZySmxqbE43Y0VxR1J1RUU5WVl6WTBzZ1U4amlfV2hQTDNmZ0Rpb1lWRWtNYTh2N0xlNV95VmdnY2NrWExxQ2NpYklwN0ctTm1pVktYZW9hUENIQnhhMk1abFBwWjlTWTFWUmpXNzhaMUlYQTlSdHBMdEpLeGdKN2lBTVA0TDRkcDFoWWRTbkswSTBoXzhrSlVrUzlXaEh4SFBGdmJIV19GYmxsZEdjZW1CTnFqOXhEWlRlNjJhS1ZZSjJkSlF6dXlzbTlJOEpZQkZ1dmtFazJkTkl6dnJxaU5TXzI4bGdrdmVMZWJiSnFmczhWNlh4OGtDUWZUQ1BBQ0RDWlg1NU40WjdYMW9CTWpPNmctdWRxSFRpdG9XRUwyUXRFak1FRDA1NVg5aW5pd0s4cFpGdFZScl9jc3dIWTU2ZXAzWjNFN1VxTlVtVGdTYWl6dzZfTUxZeG9sdFJ0dnlhbFBWRmg1UnR4bmROY0FZOUxBRmpqRFBheXgzdHVaTWg1M0ZzMFpjeF9lbW90SjZ4UjJKaVBzSGh0SlBDVGJ6a2dBSW1jV0V2R2dHVTJ2Q1hFUUdJMFdVLXpUUzQ1ZGtlcUxPNDYyVDJxMlktaTY3aGJQUjMzUGVNMkdvUmtyaVFnd256YlJQOExuRXJNRm1pZXJHVkRRR2RrUUUwQ3VOUQ?oc=5",
+    "published": "2026-07-15 05:10",
+    "timestamp": 1784059804,
+    "summary": "시냅틱스가 휴대폰 컨셉트 모델을 공개했다."
   },
   {
     "company": "NVIDIA",
@@ -38,6 +54,14 @@
     "published": "2026-07-15 04:00",
     "timestamp": 1784055600,
     "summary": "대만해협의 지정학적 리스크가 고조되는 상황에서 빅테크 기업들이 삼성 파운드리를 찾는 이유를 분석한 기사이다."
+  },
+  {
+    "company": "Cerebras",
+    "title": "'엔비디아 대항마' 세레브라스 \"유럽에 수조 원대 투자\" - MSN",
+    "link": "https://news.google.com/rss/articles/CBMi-ANBVV95cUxOMDdpbjdOd1dpNHQ0a1ZJOWVvdFdpWG44YzVyNHBIY01FS0VFQm9HNi1zTlJlNGttUWNGQXV4UkIxRmRrM2QwaF92bUxxekh4ZjJDX0RkY2F1a2RhLVpBbnFaMjNqSFFOMXR2M09DM3VZUFBKNU52NXdXWXB6MU9wS0JFMnRfUU9EbFhteUdKNnhjMVZobF80eWpzVkNINDExMWt3MlJzeVcyVTdESk13OTN5UGRJMjFranhCNDFfd2tSZUw5QTlIN1RGMDFuSWJaQkptcE4tQ1d1cGRCODRlSzJ5Vks1UlBBX3otbDVKVGo0dlRUUldPUG1fZ2VRT3hTZGVOQ3NNTjdaVWM1ZUkyRU1uSGROM0JIMVg2RW9yRzRYc1BSTTdiZnlxbFBkT1QtVDltMVFJaFNNZVlhZmdOa2FxdGVMSk5WRXBRMldRQl96cU1EMnBKR0M1aGNMUGY0SDlFX19ybmYxcHhRNjdIVUNxY19NRVJNQWRnWElZSlNyU2VORnNBbmNoTlFGd3RXR2xWMUR0TlNINDEwY0NvV29oQUVYSWJoX0FqTlFfNmFTc09SZzVnWWN1TnFZUGxRa2FBMkx4b2UzQTVNVndlTXJvelozaEFSYU1KZ2x5RUI1dk5veFVJUWNVZHg2VEZzQkNUS3A0WEU?oc=5",
+    "published": "2026-07-15 03:14",
+    "timestamp": 1784052882,
+    "summary": "엔비디아의 대항마로 평가받는 세레브라스가 유럽 지역에 수조 원 규모의 투자를 단행한다."
   },
   {
     "company": "모빌린트",
@@ -776,6 +800,14 @@
     "summary": "레노버 씽크패드 P16s 5세대 AMD 모델이 96GB LPCAMM2 RAM과 블랙웰 그래픽을 탑재하여 성능을 향상했습니다."
   },
   {
+    "company": "Meta",
+    "title": "[숏폼] 투자 축소 기우였나 메타, AI 데이터센터 확대 - SBS Biz",
+    "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE9CNWtmclVKN0ZSakJ5d0c4N3hWM1h5UzVEeDNNZjU0bmFTQUYyRWd0anl2YjB5R1RUbE9fdzhHaWVPR1hUYUNyRWdvWHZXY0pfR3VV0gFYQVVfeXFMTUw1aTZtdk9BVU5SSzA5ZkgxNzZ6dTJoQUs0ZERpaFlYd0hFVjNLR2J1NlVvMDZUY0VhRzVNR0dveUpWQlppMFMxazFJOTRmU2RIZTZVVHRuXw?oc=5",
+    "published": "2026-07-14 10:23",
+    "timestamp": 1783992180,
+    "summary": "메타가 AI 데이터센터 확대를 추진한다. 투자 축소에 대한 우려와 달리 데이터센터 규모를 늘리는 행보를 보이고 있다."
+  },
+  {
     "company": "자람테크놀로지",
     "title": "자람테크놀로지, XGS-PON ASIC 두 번째 양산 수주 - 뉴스핌",
     "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE4xQk5IcU52MDlUWXJIdjh1TzY4bTNBc0xUSU9YOFBkM2ZTOTdpdnNMajNrbjhiNjhrUkU3SmFXalloN05JRV9hMks3Y2JDZXd3SmNQZW9iSExlTlRm?oc=5",
@@ -1158,14 +1190,6 @@
     "published": "2026-07-14 00:09",
     "timestamp": 1783955387,
     "summary": "삼성전자가 AI PC용 칩 '가이아'를 개발함에 따라 인텔과 퀄컴이 영향을 받게 되었다."
-  },
-  {
-    "company": "NVIDIA",
-    "title": "DeepInfra, 1,000개 이상의 NVIDIA B300 GPU를 탑재한 1.7MW 규모의 토론토 데이터센터 개설 - StorageReview.com",
-    "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNRGlWM25JZl94X3NwajZESFdQb0lPa2M1OExwR0gxV0tUa1pxQzRNTl9WVEhiYlRQb2lkcXNlaDBCNWlVVGMzMWxxNGR0NGNzQlJ0bUJLQlQwMEUtTzkwUTJNYUFVNm1GbExpRkZHYzNWZ1J0b1dFbkFaTGpSbzRwMDBIYi05SjlNU3RLVFZyaHl4TWh3MEZHQi1GUUJ1ZGVlZ1BLc2pyblQ1QdIBqgFBVV95cUxNRGlWM25JZl94X3NwajZESFdQb0lPa2M1OExwR0gxV0tUa1pxQzRNTl9WVEhiYlRQb2lkcXNlaDBCNWlVVGMzMWxxNGR0NGNzQlJ0bUJLQlQwMEUtTzkwUTJNYUFVNm1GbExpRkZHYzNWZ1J0b1dFbkFaTGpSbzRwMDBIYi05SjlNU3RLVFZyaHl4TWh3MEZHQi1GUUJ1ZGVlZ1BLc2pyblQ1QQ?oc=5",
-    "published": "2026-07-14 00:00",
-    "timestamp": 1783954858,
-    "summary": "DeepInfra가 토론토에 1.7MW 규모의 데이터센터를 개설했다. 해당 시설에는 1,000개 이상의 NVIDIA B300 GPU가 탑재되었다."
   },
   {
     "company": "Broadcom",
@@ -3000,28 +3024,12 @@
     "summary": "딥엑스가 프리IPO 규모를 축소하는 가운데 국민성장펀드의 투자가 변수로 작용하고 있다."
   },
   {
-    "company": "Meta",
-    "title": "메타, 9월 자체 AI 칩 생산 돌입…엔비디아 의존 낮추고 AI 경쟁력 강화 - thefairnews.co.kr",
-    "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE84TDZEVndMcUNBU0JNczF3bl84UDZWLThHUW9vOVYxXzhfYmxTR0dkeTlmNElEVVBja3JmNmdsQTB4TEJOSnUwUjNTX1RieGZZZ256ZUlaRHFRN0hnaEFhVk9rZ2NEdVFfSngyUUtNODTSAXRBVV95cUxORmdSNmVGRE1QQWIzZHY1ZW1YUXd1VzZiRVN5SG5Qa1d4TVdXbmF0TmdtYl9jWkdqclVEMGJwOTFjVGhCNmFDR0pMcmtNbGY0TlFiN1NTZ2ZkRVE2MHBJcGFqQjlrdnlGTGlKWTlCeG1kQm9KNg?oc=5",
-    "published": "2026-07-10 06:43",
-    "timestamp": 1783633394,
-    "summary": "메타가 9월부터 자체 AI 칩 생산을 시작하며 엔비디아에 대한 의존도를 낮추고 AI 경쟁력을 강화한다."
-  },
-  {
     "company": "Cerebras",
     "title": "对话 Cerebras CEO ：手握 250 亿积压订单， AI 算力需求早就订满，我们不是「建了等客来」 - odaily.news",
     "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFBVc0g2Q0NmbDZrNUJSUmZBVDJtREJiLS1JLTJrQ0Y3V0JDWmRrT1ZHS1pNNHd5RzNZclQxcWNUVWh1RkkwR1NoakUtYkRoSWc?oc=5",
     "published": "2026-07-10 06:00",
     "timestamp": 1783630800,
     "summary": "Cerebras CEO는 250억 달러 규모의 수주 잔고를 확보했으며, AI 연산 수요가 이미 가득 차 있다고 밝혔다. 회사는 고객을 기다리는 수동적인 방식이 아님을 강조했다."
-  },
-  {
-    "company": "Cerebras",
-    "title": "'엔비디아 대항마' 세레브라스 \"유럽에 수조원대 투자\" - 조세금융신문",
-    "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBEd1hZc0RRWlpicURHRXhYR0Z0M2p0b050Wk9zYjJhMW00bEFlbmxmZnZ0Uk5ma29ENnJJUnRiMFJKcEtVYjMwb2ozV2liRmx4Q0R2NHFGaUF3ZkotdVFBSQ?oc=5",
-    "published": "2026-07-10 05:49",
-    "timestamp": 1783630141,
-    "summary": "엔비디아의 대항마로 평가받는 세레브라스가 유럽 지역에 수조 원대 규모의 투자를 단행한다."
   },
   {
     "company": "Cerebras",
