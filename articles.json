@@ -1,5 +1,21 @@
 [
   {
+    "company": "Apple",
+    "title": "[오늘의 경제뉴스] 삼전·닉스 노리는 中 창신메모리…애플 채택하면 판 흔들린다 - 뉴스버스",
+    "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTFB3RXFXeF9EbkZQZ2ZldWU3RVd3UDJ1WFNyaWdMdndQVG04c3BaY1hTajdrSmxPRGp1aURSSXFoQUR3Y1ZfakRaYUFiWnpDYVY3X2tTekh5ejlLOHM4WVlLWVRKUk9pS1JFcUE?oc=5",
+    "published": "2026-07-17 05:59",
+    "timestamp": 1784235584,
+    "summary": "중국 창신메모리가 삼성전자와 SK하이닉스를 추격하는 가운데, 애플의 채택 여부가 반도체 시장 판도에 영향을 줄 것으로 언급되었다."
+  },
+  {
+    "company": "NVIDIA",
+    "title": "엔비디아, 일본 제조 현장에 피지컬 AI 이식…글로벌 생태계 주도 - 초이스스탁",
+    "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE8yeENSVFBuV3hOT3ZkbEh0cXAxMWItdGt6Y0ZHMFllbU9TaWtZTjF3QklFV3VvbXJmX2dha3dfMFcyMEQ2Y0dra3hRWGI0S0JLRE1PVjFXUnRmaktJN1hQSGxtTmVFdWc?oc=5",
+    "published": "2026-07-17 04:43",
+    "timestamp": 1784231023,
+    "summary": "엔비디아가 일본 제조 현장에 피지컬 AI를 도입하며 글로벌 생태계 주도권을 강화한다."
+  },
+  {
     "company": "Qualcomm",
     "title": "마이크론, 퀄컴·현대모비스와 차량용 메모리 공급 장기계약 - 네이트",
     "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE50d0Y4cWRKaEQ4RGg5bnhSYUZYd1NfNXgzWHZJMk9rVURKNzljZEc5NGlYSnhFdGFNUnNFMnVLTS04OHd2ZnVVSEViNHdmdVRYRjBB?oc=5",
@@ -174,6 +190,22 @@
     "published": "2026-07-16 18:35",
     "timestamp": 1784194525,
     "summary": "일본의 로보틱스 및 제조 리더들이 NVIDIA Cosmos를 기반으로 피지컬 AI 기술을 도입한다."
+  },
+  {
+    "company": "NVIDIA",
+    "title": "네이버 커넥트재단, 고교 로보틱스 대회 연다…\"엔비디아 시뮬 기반\" - 디지털데일리",
+    "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFBlbDFrZS1wZGtiSDJFTGg4SFpxdWNlM1lhSjU5aVVmdHB1a2toNWUyNWp0QzhEeXVjb0Y0Y1JXR3Zfb3V0OTNSRnh1blBIUnFFMWY5Q0gxSV9FVnVSWlFZeEVZYlI?oc=5",
+    "published": "2026-07-16 18:22",
+    "timestamp": 1784193755,
+    "summary": "네이버 커넥트재단이 엔비디아의 시뮬레이션 기술을 기반으로 고교 로보틱스 대회를 개최한다."
+  },
+  {
+    "company": "TSMC",
+    "title": "TSMC \"AI 수요 갈수록 강해져\"…올해 투자 95조원으로 늘려 - v.daum.net",
+    "link": "https://news.google.com/rss/articles/CBMiRkFVX3lxTE1ETUNwVEZvbHRNenEzSEswTk5EQWVOcWZ2TEtqd0VmRFZsUURFX1VXZnVzbzZTVVpxUGVWdmN4REt3b0g0Nmc?oc=5",
+    "published": "2026-07-16 18:08",
+    "timestamp": 1784192891,
+    "summary": "TSMC가 AI 수요 증가에 대응하여 올해 투자 규모를 95조 원으로 확대한다."
   },
   {
     "company": "NVIDIA",
@@ -648,14 +680,6 @@
     "summary": "ASML이 인텔의 18A 공정에 High NA EUV 장비를 최초로 양산 적용하며 공정 경쟁력을 강화한다."
   },
   {
-    "company": "NVIDIA",
-    "title": "엔비디아, 도요타와 피지컬 AI 기술 협력 - 연합인포맥스",
-    "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5PTE1WLXAwRUVwMzh6Z2haSTJsWXdsMmJGcURMMHJ5d1BmTVdWUUFOR2FQUEhWWmFHZEU5clJ4Z3FEbkNfRkVMNUVTUUpqMU1sUlhMZ2xhWEZkWmdEZmJwQzBQcWh1ejFDWmRqSlM5MTc?oc=5",
-    "published": "2026-07-16 10:58",
-    "timestamp": 1784167094,
-    "summary": "엔비디아가 도요타와 피지컬 AI 기술 분야에서 협력합니다."
-  },
-  {
     "company": "Tesla",
     "title": "삼성전자, 테슬라 AI5 테이프아웃 완료…2나노 경쟁력 시험대 올랐다 - 광교신문",
     "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE5QQmFCZFpHb2dIQkpfQVp0TWQ2ZWdxOU42a3F2Yl9UMHJVbmJ3NEdZT3FlaXhSc1pPeXlMMkdUeUJXU2tCb2R4UFNkUWduaUxSclFvSFJMR1g5QlBRbzFIOXVua0FrampP0gFsQVVfeXFMTk5hdjI1UHNPa2ZnY0tWa05VWENYX2toOXdkRHFqSG5JNEQ4S1FEQ3pSSzh3SmRLSmlNcWlRYTFfam1oN1RTclFZNm1aMVQ5VTJpWjE1cVhPcGhQWm5OY2poRTRIaFg4bWl6X3g5?oc=5",
@@ -670,14 +694,6 @@
     "published": "2026-07-16 10:44",
     "timestamp": 1784166268,
     "summary": "ADI가 성균관대학교와 협력하여 AI 시대를 이끌 반도체 인재 양성에 나선다."
-  },
-  {
-    "company": "NVIDIA",
-    "title": "네이버 커넥트재단, 엔비디아 로봇 시뮬레이션 고교 대회 연다 - edaily.co.kr",
-    "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQQ20xemVocGFTTDYydS1kNTZROTdJTFFzYUxzaFNVdkl0bl9nd083V0pPS2Y0d0lfR19yV1hFME4wTmx2UTduUW5GelJPMFhFRDVmV1o4c09PdTF0b0UtYU93S05hOEZxOFQtT005dnJxZWtlX2lGZlB2QmdNWGY2Mw?oc=5",
-    "published": "2026-07-16 10:41",
-    "timestamp": 1784166088,
-    "summary": "네이버 커넥트재단이 엔비디아의 로봇 시뮬레이션 기술을 활용한 고교 대회를 개최합니다."
   },
   {
     "company": "Intel",
@@ -942,6 +958,14 @@
     "published": "2026-07-15 23:26",
     "timestamp": 1784125560,
     "summary": "LS일렉트릭이 독일 인피니언과 데이터센터 전력 인프라를 위한 DC 아키텍처 분야에서 협력한다."
+  },
+  {
+    "company": "Siemens",
+    "title": "가치 기반 라이선싱 | 프로세스 시뮬레이트 X - Siemens",
+    "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOb05NVXBWRVJoTUZCenBYak9WbXZCSzQwZG00ZWExRWNvYUxkczNKS19IcEtyMl94XzluOTNxR0htbVVXV0h4Rmdmcm9CbzJTUUcxbkpDY1VQU0V4ZXZSSXNhWTgzc2lvdU5mMzBlN1oyTERIa2FFMVlpLVJPdVlrdzF5RFRhTkFZRkdLY2hZOWNXWmdzQVd2Y19qZmQtdUY0cUpn?oc=5",
+    "published": "2026-07-15 21:40",
+    "timestamp": 1784119205,
+    "summary": "Siemens가 가치 기반 라이선싱 모델을 적용한 프로세스 시뮬레이트 X 솔루션을 소개한다."
   },
   {
     "company": "Kioxia",
@@ -1438,6 +1462,14 @@
     "published": "2026-07-15 08:00",
     "timestamp": 1784070037,
     "summary": "인텔이 미국 우주 활용 설계 SoC를 발표하고 아일랜드에 50억 유로를 투자한다."
+  },
+  {
+    "company": "UMC",
+    "title": "대만 UMC, 싱가포르서 '광자 칩' 양산… 반도체 고속 연결망 전쟁터 진입 - MSN",
+    "link": "https://news.google.com/rss/articles/CBMimwNBVV95cUxNVUt2VmlseE40VjFzXzRGeTJ4OWJKNTIxNGFlVGQ5NGJhOHBTaTNFdnRTaWhXYkRJYlUxRmFFTDVVUi1WMHltQzFKMWpIVmhXcTUtbHhGTXNVU2FoZEE0MVE5djVVaENVUEFVMi1ubHQ2MHk3VHNDVWJMWEhrN0h1eVFKZHZ0TzVUUXpyYUtkWFNBSWUwUFpaSVVjeDhkQWN3RzBoUHhLYUVwUXB2d01WTzNCWXlneEJaa3E1STVoRWF1UUJuUFdYMTRJb2laWkNFcmhVbWtONC00WVFERGRKOUJOcENKU2lFSzI1Q2RfMklKa1JfOTBkN3VMYVBXYTZJbjk0U3VrZ052ODNkYU9UUnFDQ05Db0hKdXFrb2VDYmtucE9RNVZXeWVpRnRQem5tWlJCeXpYdk1ZVXczck5MNUFwSXFRN25rbEpzNXg3Z0VjUkQyZy10bmtuT25TSEpJUE1wMzczQ3JiSGxWcm9Ocl9Bd09BUlFhcHU5UkFQVHItdEJibEc5ODNLdFg4bDNWNnh3MUJkMll4YVU?oc=5",
+    "published": "2026-07-15 06:39",
+    "timestamp": 1784065166,
+    "summary": "대만 UMC가 싱가포르에서 광자 칩 양산을 시작하며 반도체 고속 연결망 시장에 진입했다."
   },
   {
     "company": "UMC",
@@ -2200,14 +2232,6 @@
     "summary": "보쉬가 미국 칩스법 지원을 통해 반도체 생산을 강화하며 시제품 생산을 시작했다."
   },
   {
-    "company": "TSMC",
-    "title": "TSMC, 대만 AI 반도체 벨트 확장…자이 공장 2곳 추가 건설 - 네이트",
-    "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFA5R1ZJOUhyb2RVVkJiMTgwbWZHOVZfZlNJbXVBMmNjV1V1Ml84RmtXcV9LNXRPeDhibGwwZU5DaXI5YnFQSThaZjhKRXR0S1o5NUdv?oc=5",
-    "published": "2026-07-14 07:38",
-    "timestamp": 1783982280,
-    "summary": "TSMC가 대만 AI 반도체 벨트를 확장하며 자이 지역에 공장 2곳을 추가로 건설한다."
-  },
-  {
     "company": "Groq",
     "title": "그록vs딥시크…AI 성능 가른 ‘인프라 전략’ - 아이티데일리",
     "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE9XMmVhTlhNWUtmaUd0eVJHcFNIeEZaZHEtUExyX0ppR0dzYmU4QW50dlk2dFk0NGtEb1lrcC1TWnJaUkJsOFhPU3B5V0NkLXhMbHA2SFRMa1FjbzZ3YmdKVkVUYlNBbVpB?oc=5",
@@ -2910,14 +2934,6 @@
     "published": "2026-07-12 19:47",
     "timestamp": 1783853263,
     "summary": "삼성전자가 엑시노스를 갤럭시 S27에 탑재하여 퀄컴 의존도를 낮추고 명예 회복을 시도한다."
-  },
-  {
-    "company": "Apple",
-    "title": "트럼프, 애플에 '관세 피하려면 인텔 공장 써라' 압박 - 네이트",
-    "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE1FMWFHWDgzV1drZjlKemZUVnFrM1lVbkI5QjFhZVE1d0JKNG9Vd0ttbWtlTURVaVRodzhCZE5aX19zNEJnZmwxTW5HUG12cFBVMHVN?oc=5",
-    "published": "2026-07-12 19:42",
-    "timestamp": 1783852920,
-    "summary": "트럼프 당선인이 애플을 상대로 관세 면제를 조건으로 인텔 공장 활용을 압박했다."
   },
   {
     "company": "Cerebras",
