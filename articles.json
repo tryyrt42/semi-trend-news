@@ -1,6 +1,62 @@
 [
   {
     "company": "NVIDIA",
+    "title": "엔비디아, 토요타와 피지컬AI 생태계 확장 ‘맞손’ - IT비즈뉴스",
+    "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9WWkRzcXVPZWh1N2F0bmhOUjRJaVJ5VTUwdng5UTlwdFJ4ZUhVWHdxOXA2cjhZbnpKOWRtWW1sU2V2Q3p5SWg1eUNCYmdxWXJPbzhLYUd4RG1nN2RDNTFfc0FYV2tpbHBOTG9RYg?oc=5",
+    "published": "2026-07-17 14:40",
+    "timestamp": 1784266800,
+    "summary": "엔비디아가 토요타와 협력하여 피지컬 AI 생태계를 확장한다."
+  },
+  {
+    "company": "Qualcomm",
+    "title": "마이크론, 현대모비스·퀄컴과 메모리 장기공급 계약 - 네이트",
+    "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFByVFljdTUtdW9wOHZkWGdVOGJ0MzVfcVUwdTdab3owUnF2YkhSdExzQUhmZUprUk1xWVo0Smw1bmpXMXN1ZWs1azZHZGhqYTIyM0lr?oc=5",
+    "published": "2026-07-17 13:50",
+    "timestamp": 1784263800,
+    "summary": "마이크론이 현대모비스 및 퀄컴과 메모리 장기공급 계약을 체결했다."
+  },
+  {
+    "company": "NVIDIA",
+    "title": "美 ITC, 삼성·구글·엔비디아 D램 특허조사…삼성 상대 두 번째 - 콕스뉴스",
+    "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9seDhSZTdUMk1qakFJbnhodHFOVjUtWVpQYWxZaTNNVF84bDVOTURPZzVCLURsUDhlZHlPUlhPWXQ1YUYxV3MzWnpvWElIeDUteW9OSUIzTEdpNUFOdTlfcFNtYzc1QXAtLXc?oc=5",
+    "published": "2026-07-17 13:27",
+    "timestamp": 1784262457,
+    "summary": "미국 ITC가 삼성, 구글, 엔비디아를 대상으로 D램 특허 조사를 진행한다."
+  },
+  {
+    "company": "Cadence",
+    "title": "케이던스, 에이전트형 AI '오라스택' 공개...PCB 설계 지원 - 디지털투데이",
+    "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE0teUplUjljcVRxRGl5WTE1S3lYdkpIR2ZvMEx6VVNCNHhhY3RXR3BTVVA4OHZpNTFvaVhwYTJvdkFYRHRkTVdoNm10TWc1eUlELUZ1d2NjNGZzOHNtc1lpM3BEcHVIS3pKMWlJQmpQQTNvR0U?oc=5",
+    "published": "2026-07-17 13:22",
+    "timestamp": 1784262140,
+    "summary": "케이던스가 에이전트형 AI인 '오라스택'을 공개했다. 해당 기술은 PCB 설계를 지원하는 기능을 갖췄다."
+  },
+  {
+    "company": "NVIDIA",
+    "title": "엔비디아, 4B 규모 월드 모델 ‘코스모스 3 엣지’ 공개...'온디바이스 피지컬 AI' 실현 - AI타임스",
+    "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1wdFc0dWNkcnJOcnVLRGM4cUF0MThhRmpkNHh3Z0RNRE1xS0w0aDd1dW9yWG1nSkl5SnZINUw5U2kzV05XdkxHU1V6LU8wMzdYZldJaFJsTUJ6OU5TSnRNOE9KbDFzTTBYRnc?oc=5",
+    "published": "2026-07-17 13:06",
+    "timestamp": 1784261172,
+    "summary": "엔비디아가 4B 규모의 월드 모델인 코스모스 3 엣지를 공개하며 온디바이스 피지컬 AI 실현을 추진한다."
+  },
+  {
+    "company": "Kioxia",
+    "title": "美법원, \"키오시아, 비아샛에 3400억원 지급하라...메모리 특허 침해\" - 지디넷코리아",
+    "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE94N0FRYjVFdEZkZ2NQM3hXa1dScmF5SzdFSzRaRlNxcVJyd2NKdTFBNkxmX25DOTd0ZTg1R2RkSVRuc3lHMGRlMk16WE1BNExYbDlMSnVB?oc=5",
+    "published": "2026-07-17 12:34",
+    "timestamp": 1784259279,
+    "summary": "미국 법원이 키오시아에 메모리 특허 침해를 이유로 비아샛에 3400억 원을 지급하라고 판결했다."
+  },
+  {
+    "company": "Intel",
+    "title": "ThinkPad L16 3세대 인텔 버전: Panther Lake 칩과 64GB RAM의 인상적인 점은 무엇일까요? - Vietnam.vn",
+    "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOSnpWYXYxUE5FQ3prNVpfYmdqTmt2WDBEZXhqVjVocjhPRkdBajE4NGZtTVVDdVVjN0NXU3A1cUpxNTVfOG9vNWNMcV9CVXQyV3EzdVNsMmR2Y3JlU3RnYkRabmNxN2Z1Slh4eE83eWRObWRJZk9EazVvWWZnWnFfS3dWcS1BZm1zNXhua2ZFeklGOHlqMzktTUZOb21BWlF5?oc=5",
+    "published": "2026-07-17 11:52",
+    "timestamp": 1784256770,
+    "summary": "ThinkPad L16 3세대 인텔 버전이 Panther Lake 칩과 64GB RAM을 탑재하여 출시됩니다."
+  },
+  {
+    "company": "NVIDIA",
     "title": "일본, 엔비디아 '루빈'으로 국가 AI 인프라 구축…'피지컬 AI' 승부 - AI타임스",
     "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE42LVhXODVBUVBOU0dRRXROY2pnYTE1Zl9qdHhGN2syQWtBT0liUG5YOTY5T3ljTVQtSGhvWmtYQ1RPNUN0ZTZsZnN1X2xRXy1pbmdKMzBDR2UwcnFPY3NkdEZYbVZxdjh3eWc?oc=5",
     "published": "2026-07-17 11:22",
@@ -552,6 +608,14 @@
     "summary": "TSMC가 2분기 실적 호조에 힘입어 3분기 및 올해 가이던스를 상향 조정했다."
   },
   {
+    "company": "OpenAI",
+    "title": "美 오픈AI, 첫 하드웨어 기기로 스크린 없는 휴대용 스마트 스피커 출시 계획 - 시드원",
+    "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE95eUREZmhJYzd0Qk4xbzhyWndtVUw2cVJ6QmMzV2w5QlppRFVmVG00aTM3RHJCVG5KaTd4LXpadXktSnB3MU0zb0pMWFVnSHlJMUg3cW1KQWxVeEg5aE5Hd1pmdjNqQndmY3c?oc=5",
+    "published": "2026-07-16 16:00",
+    "timestamp": 1784185244,
+    "summary": "오픈AI가 첫 하드웨어 기기로 스크린이 없는 휴대용 스마트 스피커 출시를 계획하고 있다."
+  },
+  {
     "company": "NVIDIA",
     "title": "엔비디아, 토요타·소프트뱅크와 AI 협력 확대…금융·양자까지 - 연합인포맥스",
     "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTFAwSEtLQmI2dFJ6VXN2QTVkTWFleDU4NGRtRjRjZW92bGZscTN0czNNMG9hMER5UUhkal9wZnNTT2R4bGY5ejhvT2NJNXlnS1dmTUVvdDlEVGxreWdWbFhvQnFiMF9HODlrUGQyOGNoTzc?oc=5",
@@ -656,14 +720,6 @@
     "summary": "엔비디아가 인력난을 겪는 일본 조선업을 위해 가와사키와 공동으로 AI 로봇을 개발하고 지원한다."
   },
   {
-    "company": "NVIDIA",
-    "title": "도요타부터 미쓰비시까지…젠슨 황, 日 제조업을 엔비디아로 묶는다 - v.daum.net",
-    "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE9EeVN0ZGxYdUk4a285OTZsckdRTXlzdUY5VkMtakRLRkJ4c2NUaHEwS05BZFFsYnhQN252djh1dmRiVi0ycWEyMi1QY1pSbW9LSTE5Rg?oc=5",
-    "published": "2026-07-16 14:47",
-    "timestamp": 1784180869,
-    "summary": "젠슨 황 엔비디아 CEO가 일본 제조업체들과 협력을 강화하고 있다."
-  },
-  {
     "company": "TSMC",
     "title": "TSMC, AI 수요 급증에 힘입어 2분기 사상 최대 실적 달성 - Investing.com 한국어",
     "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFAwRHBKYWJDcWFUR2QzWGFZQWN6TjdjRHZNbDA1UkxUSFNFd2NrdVREWTBoMDlZRFRncHZtckxzR0xoVXVnNTlWZkJTbXBLZEphNmpQYXJfbExZZnU1YmlBVVNvVUI?oc=5",
@@ -694,22 +750,6 @@
     "published": "2026-07-16 14:11",
     "timestamp": 1784178704,
     "summary": "ASUS의 ROG Flow Z13 모델에 AMD Ryzen AI Max+ 395 프로세서가 탑재되었습니다. 해당 제품은 2-in-1 게이밍 디자인을 채택했습니다."
-  },
-  {
-    "company": "NVIDIA",
-    "title": "日 기업·스타트업, 엔비디아 '네모트론 오픈' 모델로 산업 특화 AI 구축 - 인공지능신문",
-    "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE41aTJOeGJSUFZIUURlaE9WVTZ4Wml1SDhMYVAtME1veFE0QmhPUUhtNm1pVjVoWkc5M01KQi1ZekhCejk0NHY1b21BbkNaeWFQMmN0V0swSzB5WDFxam5IbWIxNU5ucTQ?oc=5",
-    "published": "2026-07-16 14:00",
-    "timestamp": 1784178024,
-    "summary": "일본 기업 및 스타트업들이 엔비디아의 네모트론 오픈 모델을 활용해 산업 특화 AI를 구축하고 있다."
-  },
-  {
-    "company": "NVIDIA",
-    "title": "네이버 커넥트재단, 엔비디아 로봇 시뮬레이션 고교 대회개최 - 뉴스핌",
-    "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE80NG1ENHR5UlJoNTBVS3FUOWJYcjkySF9adEllTUZfRzJoWjBGUWtIWWJLZjlwMU1aNE82cGtBWHJCWXNJMGhwT1RHV3ZyQmpnNlUzNWcwa0RZQ2xn?oc=5",
-    "published": "2026-07-16 14:00",
-    "timestamp": 1784178000,
-    "summary": "네이버 커넥트재단이 엔비디아의 로봇 시뮬레이션 기술을 기반으로 고교생 대상 로보틱스 대회를 개최한다."
   },
   {
     "company": "Apple",
@@ -1470,14 +1510,6 @@
     "published": "2026-07-15 11:18",
     "timestamp": 1784081887,
     "summary": "딥엑스가 칩 공급을 넘어 글로벌 오픈 피지컬 AI 플랫폼 구축을 추진한다."
-  },
-  {
-    "company": "Intel",
-    "title": "레노버가 인텔 와일드캣 레이크 칩과 32GB RAM을 탑재한 씽크패드 E16 4세대를 출시했습니다. - Vietnam.vn",
-    "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOaFlKdWpzYjJJanBUOFJ3Q2xnd1hpTHIwc2NJNUFZNDh0NXVUV0liVzBCRnRESWVHRWtSWGJtWlZobHdDaE5aUEpWdUdMTzhHNmdXZ2Z4V0pxdG9xc3hwdEFqR2NVZmpNSzZlUnczNERIdjFPY3VOQTdDa0pYaWtyekk2RFZjYWpySS1EQmNOOHRSb1VuX0F4dTROMThic3R2?oc=5",
-    "published": "2026-07-15 11:09",
-    "timestamp": 1784081378,
-    "summary": "레노버가 인텔 와일드캣 레이크 칩과 32GB RAM을 탑재한 씽크패드 E16 4세대를 출시했다."
   },
   {
     "company": "Google",
@@ -4744,14 +4776,6 @@
     "summary": "브로드컴이 애플과 협력 계약을 2031년까지 연장했다. 해당 계약을 통해 ASIC을 공급할 예정이다."
   },
   {
-    "company": "OpenAI",
-    "title": "\"SK하이닉스 나스닥 상장에 10조 쏜다\"…오픈AI 출신 펀드·외인 '뭉칫돈' - 네이트",
-    "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE9aYV9YbTFoeEpRVEtJU1FSNzlDOUUybWlzUnhUbGhHeTNhMWxSUDBqZkZjcmNKWVM4LXgyQmJGaXRaNW5sWWRYNFRtdno4SEI1WTRJ?oc=5",
-    "published": "2026-07-07 13:50",
-    "timestamp": 1783399800,
-    "summary": "오픈AI 출신 펀드와 외국인 투자자들이 SK하이닉스의 나스닥 상장에 10조 원 규모의 투자를 진행한다."
-  },
-  {
     "company": "UMC",
     "title": "UMC, 성숙공정 회복과 AI 수요 확대로 2분기 매출 15분기 만에 최고 - KIPOST",
     "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE9pM3RIMHRXanppMGtRTUZYNW1sSUdUa3JYUG5ReVhlZ1ZObFhLR0ZjbWRtcTJONDdJZWpVYk82SzdsUG5xLXc0SnJULVFBUkpuRDNxX0IwbnZtUDdmb09HbDQtMDFWXzZX?oc=5",
@@ -4926,14 +4950,6 @@
     "published": "2026-07-06 20:02",
     "timestamp": 1783335753,
     "summary": "MS가 AWS에 이어 FDE 조직을 신설하고 3조 8000억 원 규모의 투자를 단행한다."
-  },
-  {
-    "company": "Qualcomm",
-    "title": "\"생성형 AI는 사진의 경계까지 확장한다\"…퀄컴 특허 기술이 보여주는 '무한 캔버스'의 시대 - 인공지능신문",
-    "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5mT0JPUmxKRW1ibVhDc1hnb1N1N21SLUhWSFFSWlVvZUp1NVRTeDBrWWZWVy1uSWdfQklMZldkdldBa0ZxNlloMmdXajR3Q3RPSHZIMlZvS3hRbWhUMDQtYVpkY05faG8?oc=5",
-    "published": "2026-07-06 19:46",
-    "timestamp": 1783334801,
-    "summary": "퀄컴이 생성형 AI를 활용해 사진의 경계를 확장하는 특허 기술을 선보였다. 이를 통해 무한 캔버스 시대를 구현한다."
   },
   {
     "company": "Infineon",
@@ -7502,29 +7518,5 @@
     "published": "2026-06-17 16:20",
     "timestamp": 1781680806,
     "summary": "머스크의 AI인 그록이 미국 국방부의 이란 공습 계획 수립에 활용되었다. 해당 AI는 수천 개의 목표물을 설정하는 데 사용되었다."
-  },
-  {
-    "company": "Microchip",
-    "title": "마이크로칩, 프랑스 낭트 공장 ‘QML Class Y’ 인증 획득…항공우주용 반도체 생산 확대 - e4ds news",
-    "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE1xdXo5R01XQUlwS051cGZyR3V1dUVZeXNuUXg2czlXZHNIemZjdFFUeF9xV0hYX01nUDBIX19WTllIVEVXT2JtY3lCU1hXSTRaQ05YZW1UblR2X0Eyd3pSdGZaZw?oc=5",
-    "published": "2026-06-17 15:08",
-    "timestamp": 1781676480,
-    "summary": "마이크로칩이 프랑스 낭트 공장에서 QML Class Y 인증을 획득했습니다. 이를 통해 항공우주용 반도체 생산을 확대합니다."
-  },
-  {
-    "company": "칩스앤미디어",
-    "title": "칩스앤미디어, 美 빅테크와 AV2 IP 계약 체결 - 뉴스핌",
-    "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE1HYldHc0k1Q3lFMWx5M250YUVMRVpRREhmLXBYeGVZUllfcThfaU02WFI1ZXc5ZWpCZ1RzaGpMZEphMmNiV29uY1g1aFJ5REpGeW5tU01JUnNPcmVw?oc=5",
-    "published": "2026-06-17 14:14",
-    "timestamp": 1781673240,
-    "summary": "칩스앤미디어가 미국 빅테크 기업과 AV2 IP 라이선스 계약을 체결했다."
-  },
-  {
-    "company": "Microchip",
-    "title": "마이크로칩, 프랑스 공장 군용 반도체 인증 추가 획득 - v.daum.net",
-    "link": "https://news.google.com/rss/articles/CBMiRkFVX3lxTE9lM2ZycFg3OFByN2k5dDZxTDJlZERfdmdmVVhKMTNBaUxKcHpOV19ONmpVTVpzRW85ekFNMElDMzdHVzlkeXc?oc=5",
-    "published": "2026-06-17 13:25",
-    "timestamp": 1781670301,
-    "summary": "마이크로칩이 프랑스 공장에서 군용 반도체 인증을 추가로 획득했다."
   }
 ]
