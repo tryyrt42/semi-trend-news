@@ -1,5 +1,37 @@
 [
   {
+    "company": "Intel",
+    "title": "58년 전 오늘 인텔이 태어났다…메모리 버린 인텔, 메모리로 AI 잡은 SK하닉 [나우앤덴] - 데일리안",
+    "link": "https://news.google.com/rss/articles/CBMiggJBVV95cUxQU01GRVY2ajRzanBYMlMxbFdkV2RCa1Z2UVFQdUE4WnZ1Ny14aEpZbkRQekMyOXJvSV8tdFdNM2QtalJpcFU2dy1iTk5sRGhPams1Rmxmc3BaTXByb0U2cGtQeTYxcktJRy1FTWFFQlYwVEhjQy1xaGUyclpUMUd6elhfXzFOTDc4RWtMMmE4cWlNdFQ4OU15alh2UkNpYWhTNnJoTWd4R3JiSzVwemVVM0E5WmVfNnU4NUtqM09TS2ktSDNyUjgycWZyV2pFRTlKeGpidDNhUy1yckhzN2ZnTS0tcTVyOVhqYkw3NG9JQi1GMTRjX1ZaQWpHaGhwNUR2SVE?oc=5",
+    "published": "2026-07-18 07:00",
+    "timestamp": 1784325600,
+    "summary": "인텔의 창립 58주년을 맞아 과거 메모리 사업을 포기했던 인텔의 행보와 메모리 반도체로 AI 시장을 선점한 SK하이닉스의 성과를 비교 보도했다."
+  },
+  {
+    "company": "OpenAI",
+    "title": "中 ‘문샷 AI’, 오픈AI·앤트로픽 턱밑 추격… 저비용·초거대 모델 공개 - 글로벌이코노믹",
+    "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPb0hIU19jTy1UeTZhX0JIVDNra1lWbUNOWHVzVXdhYjI5VjZKQ3V2Z3VWRkc3c1pydkJRblc3YUEyTmQ5dFRfd0dnNGhVOFJZVjRrNklfWGdTZng1R19nT0hFZnprUzl0YzRreDR6dnBueFh6WG1ET1U0RzZaQkExTU1MYkI4WUoy?oc=5",
+    "published": "2026-07-18 06:12",
+    "timestamp": 1784322723,
+    "summary": "중국의 문샷 AI가 오픈AI와 앤트로픽을 추격하며 저비용 초거대 모델을 공개했다."
+  },
+  {
+    "company": "TSMC",
+    "title": "트럼프 \"TSMC, 美에 1000억 달러 추가 투자…성공 실감\" - 뉴스1",
+    "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE5obUlUdm41UDBKYVF0RHBqd1l1RmN1bktyZFdWWjFkMXdoTnM3VmVUNkJnb09HQUc0U2JDYWI4OE5BTGVGamFrRWJISlpHVGI0RUhkbjhDS3Q?oc=5",
+    "published": "2026-07-18 06:11",
+    "timestamp": 1784322664,
+    "summary": "트럼프 전 대통령이 TSMC의 미국 내 1,000억 달러 추가 투자에 대해 성공적이라고 언급했다."
+  },
+  {
+    "company": "STMicroelectronics",
+    "title": "[인터뷰] 알란 라가스카 ST마이크로 디렉터 “휴머노이드, 스마트폰값 돼야 대중화… 칩 통합해 원가 낮춘다” - 조선비즈 - Chosunbiz",
+    "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxQOXM5eUF1dUdZR2I0SDVNNzlURE4zc0lwMGFGbUpPNGI3aEdiaUp0d2xTbHFsbFB5TDRxMWFjaWVjMmtLbnJ4ejdUeURncm9lUGtEcU9GUHpkVG8zZV9Nb2FpYktlUGFUWV9PMjRTZFJCb29mZVd0eGNlVlJQT1ZHcEtR0gGWAUFVX3lxTE1CWWJSemNTdGI3ZFRKN0JNSnpYaXhVcHUzSGpkM1VPT0FYdHRid3oxSHlia04wM2F4dFZYX3k4S3lDVEd0am1wNW1BX3JVOXNyQXB6c19ObkpRUUZvV1lnS2pMVDU3Z0JBcmY1ZHgtM0dXM0RfVWNiZVJMUTZMZW5kTXVZclV3N1pPTXB5bXZwdExRSURYdw?oc=5",
+    "published": "2026-07-18 06:00",
+    "timestamp": 1784322000,
+    "summary": "알란 라가스카 ST마이크로 디렉터가 휴머노이드 로봇 대중화를 위해 칩 통합을 통한 원가 절감 전략을 제시했다."
+  },
+  {
     "company": "TSMC",
     "title": "TSMC는 양산, 인텔은 18A 승부…미국 제조 재건의 현주소 - 광교신문",
     "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE9xYWktb1dYXzdZTURwWkRkN05Ea002MHpsVnhaNzhRRlFrUi0zNTgyWFJqa0VxazhPaVlrOFc1XzhDS2JqY2dyU1cyd1dVUUpfM2NINEVyTWs1SExHV1pxUTJuM2xPOVBt0gFsQVVfeXFMTXZCRmd0LXY3elp1VVh2V3dYRG95T1hNZEpNZ2RxTUFYMnlpMjlzNDBnQ2xXdDlyd3E5OVlFdmpkWmdJaC00ZFdHOGg4YlI2VkxLRTFiVHpUSFVLU0V4VnBGYnNtVEtQTXpPNmdV?oc=5",
@@ -14,6 +46,14 @@
     "published": "2026-07-18 01:30",
     "timestamp": 1784305800,
     "summary": "TSMC의 스마트폰 매출 비중이 절반 수준으로 감소한 반면, AI 관련 매출 비중은 66%를 넘어섰다."
+  },
+  {
+    "company": "TSMC",
+    "title": "TSMC는 미국 내 반도체 생산량을 대폭 확대할 예정이다. Apple 이로 인해 상당한 이득을 얻을 것입니다. - Jablíčkář.cz",
+    "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOUVR6NGFSb2liLXFhMWFQenJncmpkU0htWlE5dG95djdBcldaUDVzTmpsdUhOSGZUSmJrcDF1ckp4S2pOQ2I4Mm9jR1pCYXRQbWZXcTE0WHowemI3bjUwSGY5QlVmdl9TM0N2NTJjWkw1Qmd5azh1c0Rxcm8zcnU4cmYxM1ZTNVQyckxyUlZKeEQ1UzZLT2ZHa3dRZw?oc=5",
+    "published": "2026-07-18 01:15",
+    "timestamp": 1784304935,
+    "summary": "TSMC가 미국 내 반도체 생산량을 대폭 확대함에 따라 Apple이 상당한 이득을 얻을 것으로 예상된다."
   },
   {
     "company": "Infineon",
@@ -158,6 +198,14 @@
     "published": "2026-07-17 14:40",
     "timestamp": 1784266800,
     "summary": "엔비디아가 토요타와 협력하여 피지컬 AI 생태계를 확장한다."
+  },
+  {
+    "company": "Apple",
+    "title": "[글로벌] 애플, AI 서버칩 기업 인수 검토...자체 칩 개발 지연 보완 나서나 - 테크M",
+    "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE1DNExOYWxwdmxTeWNoOEhUa0p5RURNNDRvekJFcEpCWG0tcDRScE9YVlF1V0paSkIxM29uS1pxa3FzYlBrM3RJdHZPYU81ZHNGMG1wWmZReWxkT1pkU3U1SFhOZlcyZ9IBakFVX3lxTE9qazZJOUVLR3hfRkxaLXdqcVRyOEVqd2F1Q1F4SWFpbGU0aDNNR1NMTzZ2cWVyTkg5bWdyY3lXNlR3bEIxRkhMODZDN3ByYTRlMTJJMzFjMTJZLVR2S2c2M1lrMGxTcjRBLUE?oc=5",
+    "published": "2026-07-17 13:58",
+    "timestamp": 1784264311,
+    "summary": "애플이 자체 칩 개발 지연을 보완하기 위해 AI 서버칩 기업 인수를 검토하고 있다."
   },
   {
     "company": "Qualcomm",
@@ -1536,14 +1584,6 @@
     "summary": "삼성전자와 인텔이 TSMC를 추격하며 파운드리 시장의 3강 시대를 열고 있다."
   },
   {
-    "company": "TSMC",
-    "title": "엔비디아 물량 쏟아지자 팹 증설 속도전…TSMC, 대만 자이에 AI 반도체 패키징 공장 2개 추가 - MSN",
-    "link": "https://news.google.com/rss/articles/CBMi-gNBVV95cUxQZUczejZzcExGczRIUHFCa0ZvYVpoTTVnV2o3b25PU0YyN2l6QnpIT2NBRGdRRVBGMTBkaHM2NDF1MHdFVmx5anhOdzJaMDhwNnVZTE5iMWpSRW1mOEN0cFkyaGdKQUhUTFlaZGxDY0VObDhaLVZHMnZIS2pPUjlCbi1uSWlhMGdqVnJxZlRsc1V3cENQQ2d2VG90Q2phZzREY3h1M2VwUHRjUXNfX20zaFc1RGt4SVRvbEZKd3poZU13SHMyWUZGVWNKYXJSSUdCdVRrTE56OWFHeFoySlVrbGpXZ2xmS0JLU1duOXU4MDRzTDk4QXNJS1lkbno2aXEtRzE2LVBzZDQ5ZFMxc1FhVFlZR1V4cTg4bjd4YWk3YWpuemJTT0NTWTBYdDFzNVd5VXpGMDl0b0g4NUd0R0VqOGxSTkx6bEVDekNKQzJVbG9PZFFDZDJLb1FHYmZHeTh3TXhlWlNVX3VaS1dmZ25DLUpKV2lCSUgyRG11bnVka3h2djlRaFdyTllPSlZzZEZsNFRmT1B3bXdScWh1cWVuWldPTWZ4SkdNbGFtYWhtSEZESHV1WU5WX0t3NXJaWXF5ZTJMbmVHSFNiWlEyVTdnRkQycERhZzBtR19GX3VoYi1DTjBpZEJ6aXhoczN4NzViRmR3QTdMa0FnQQ?oc=5",
-    "published": "2026-07-15 15:51",
-    "timestamp": 1784098293,
-    "summary": "TSMC가 엔비디아 물량 대응을 위해 대만 자이에 AI 반도체 패키징 공장 2개를 추가로 증설한다."
-  },
-  {
     "company": "리벨리온",
     "title": "日기업, 비싼 GPU 대체품 찾자…韓리벨리온 NPU 실증 실험 - v.daum.net",
     "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE0xRms4YzJVSzB0dnpLcVZoS0ctR0FlTGRrbXJnMW1MN0p3Sm40bzhySkFLMzFqQjc5dloxVUJpdUlSSDd3UDU1UWxwYjJlcGc?oc=5",
@@ -1558,14 +1598,6 @@
     "published": "2026-07-15 15:21",
     "timestamp": 1784096515,
     "summary": "하이퍼클라우드와 퀄컴이 협력하여 AR 글래스를 활용한 서울역사박물관 XR 전시를 공개했다."
-  },
-  {
-    "company": "TSMC",
-    "title": "TSMC 신흥계급 탄생…대만은 韓 예고편인가 - MSN",
-    "link": "https://news.google.com/rss/articles/CBMingJBVV95cUxPWkdxX0Z6OTVTeVdZczN0YVEyWWZUTktlVDBuZVpiSGUtNXNtcGtocmkzM0hPcFhDc0lkVnhNb0tQdm5fMkNUSE8wTjItdFFpQVMyZ3NBUmVFRWZ1QW9nMGpaaFlWdElTYncyUVNNMmhDRDVvZmludC1ZTUxMaVdiSFd2MmhZTE9NTGJ4cGhlSVdwR0dsNDlpSmZhd0pkb2ZJQjJnNERidkprZW02SEpUcURFTnJBRnlsRzQzdjgtZVRKek4zYklLYTVQcEotYU5QWTdNX05saXdVSm9JVGJiVWFxY0ZhNXppblE0NGM5NDFVTXVYVUJ1ckVpaW53TFdmeDh1VGRlZmczSXRYdHRUUGQwT1oyc3k3bG5ZRl9R?oc=5",
-    "published": "2026-07-15 15:15",
-    "timestamp": 1784096150,
-    "summary": "TSMC의 성장으로 인한 대만 내 신흥 계급의 탄생과 한국 반도체 산업에 미칠 영향을 다룬다."
   },
   {
     "company": "딥엑스",
@@ -1622,14 +1654,6 @@
     "published": "2026-07-15 14:30",
     "timestamp": 1784093410,
     "summary": "업스테이지와 퓨리오사AI가 'AI 오버뷰' 분야에서 협력한다. 이번 협력은 K-풀스택 AI의 첫 사례로 평가된다."
-  },
-  {
-    "company": "Intel",
-    "title": "인텔 CEO “AI 반도체 병목, 메모리 넘어 헬륨도 변수” - 초이스스탁",
-    "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBORzB3ODZxZDFkXzJ0YlhvWWpHSUlsbUxsVjJqREVuQVBXc1NLUU40TEs2b29XNjhxdXJ5RDFpbE55WmpfVjl5S1lzQzhJVXBYRHF3Q3RpUG9Rb0NJZ3lCbmg3VHZRZW8?oc=5",
-    "published": "2026-07-15 14:23",
-    "timestamp": 1784093010,
-    "summary": "인텔 CEO가 AI 반도체 생산의 병목 현상으로 메모리뿐만 아니라 헬륨 공급도 변수가 될 수 있다고 언급했다."
   },
   {
     "company": "Samsung Foundry",
@@ -3030,14 +3054,6 @@
     "published": "2026-07-13 09:16",
     "timestamp": 1783901760,
     "summary": "삼성 파운드리가 빅테크 기업들의 듀얼 소싱 트렌드에 힘입어 수주 기회를 확대하고 있다."
-  },
-  {
-    "company": "Apple",
-    "title": "애플, 독자 실리콘 아키텍처 고도화… 1.4나노 공정 기반 M8 칩 개발 돌입 - 디지털데일리",
-    "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE5qZEltRk5VOE5kMTQ2WmNlakdqQXUxWUNJNE5ucDJvbDR1enBJRmhWTjNWNjJkb19GYTR6Yi1nNzQ0dkxFS3BMNmlJVWxTNzVXVklaSk52SmdBWW80WjY5bE1UQ3E?oc=5",
-    "published": "2026-07-13 09:15",
-    "timestamp": 1783901759,
-    "summary": "애플이 독자 실리콘 아키텍처를 고도화하고 있다. 1.4나노 공정을 기반으로 하는 M8 칩 개발에 착수했다."
   },
   {
     "company": "알에프에이치아이씨",
@@ -4798,14 +4814,6 @@
     "published": "2026-07-07 15:37",
     "timestamp": 1783406220,
     "summary": "Microsoft가 AI 분야의 수익성 증명을 위해 4800명 규모의 인력을 감원한다."
-  },
-  {
-    "company": "OpenAI",
-    "title": "오픈AI-앤트로픽 경쟁 격화에…존재감 커지는 삼성 파운드리 - 뉴스포스트",
-    "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTFAtV240ZzlNXzlnX0l5SU43NWc0TGZZNkZIY19mS2NxWWlfLWUzUlJyOEl0cmlURWc5Tmp6VzN3X1BTVnlkcE40UEdiU0IyaWM4WTRhTG9JRF9xdnlCa1BBbU5iMHA4VTVtY1E?oc=5",
-    "published": "2026-07-07 15:32",
-    "timestamp": 1783405957,
-    "summary": "오픈AI와 앤트로픽 간의 경쟁이 격화됨에 따라 삼성 파운드리의 존재감이 커지고 있다."
   },
   {
     "company": "Broadcom",
@@ -7486,21 +7494,5 @@
     "published": "2026-06-18 09:53",
     "timestamp": 1781744031,
     "summary": "마이크로칩의 AC 파워 모니터링 및 미터링 솔루션을 주제로 한 생방송이 6월 25일에 진행된다."
-  },
-  {
-    "company": "Renesas",
-    "title": "르네사스, 소프트웨어 기업 픽토러스 인수 완료 - Investing.com 한국어",
-    "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9RZWxUVUVwTkZZV01lV282eHRCU0p3bjdDbC1FRVRLajNPMFVkYlhUc2FJZF82TUVnd3VCSFZFYWNWQXV6V1VwOFM3S0s0TlVIRkpFTlRISE4wbUo3bmRVQTlzN3JORHdZeDctbi1nR1k?oc=5",
-    "published": "2026-06-18 07:06",
-    "timestamp": 1781733960,
-    "summary": "르네사스가 소프트웨어 기업인 픽토러스를 인수하는 절차를 완료했다."
-  },
-  {
-    "company": "Marvell",
-    "title": "마벨 테크놀로지 데이터센터 사장, 66만 7천 달러 규모 자사주 매각 - Investing.com 한국어",
-    "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE52cmhZWG5yd1loMXlJaE5nbFRfVVR3RFBTZ2UtVWx1VEhHM2w5VkladWliNTVSdGZ1TUhTMmRoeF9nWFZUeVpvd1czdVQ2bnF0Z2lWY1ZEM1lacV9TWEcwT3VqdGFnOXZWeUYwaXJHV1NHSldoWF84dDZ0cw?oc=5",
-    "published": "2026-06-18 06:59",
-    "timestamp": 1781733540,
-    "summary": "마벨 테크놀로지의 데이터센터 사장이 66만 7천 달러 규모의 자사주를 매각했다."
   }
 ]
