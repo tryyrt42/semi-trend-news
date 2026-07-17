@@ -1,11 +1,35 @@
 [
   {
+    "company": "TSMC",
+    "title": "TSMC, 스마트폰 비중 '반토막'...AI 매출 비중은 66% 돌파 - 코인리더스",
+    "link": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE1zQVhlZVRocUNsUl9JdmI4cUFMYmRQTWU4VmM5c0lGa2RaQjBDX0dTci1OeVJhOVZZZlNNNVlhbzZsZlN0c3ppVS1B?oc=5",
+    "published": "2026-07-18 01:30",
+    "timestamp": 1784305800,
+    "summary": "TSMC의 스마트폰 매출 비중이 절반 수준으로 감소한 반면, AI 관련 매출 비중은 66%를 넘어섰다."
+  },
+  {
+    "company": "Infineon",
+    "title": "인피니언, 정밀 위치 측정과 스마트 존재 감지를 단일 칩으로 구현한 AIROC™ UWB TSL100 출시 - 미디어데일",
+    "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTFBSdmdYQXQweWpLT3B4NVMzQjBicUZSZFB3SXBZV2FiTmU0VFNSTnpERURqRHFmYTBkTG42S21QVnRqM2NBY082RlNKQ1NabXB5LXlOMmFFV2VHTjBUYVRmaEhwZnlfRUtJa2o0?oc=5",
+    "published": "2026-07-18 00:31",
+    "timestamp": 1784302293,
+    "summary": "인피니언이 정밀 위치 측정과 스마트 존재 감지를 단일 칩으로 구현한 AIROC™ UWB TSL100을 출시했다."
+  },
+  {
     "company": "Google",
     "title": "[김대호 진단] 반도체 열전 ⑫ 구글 알파벳 \" 알파고 인공지능 AI 원조\" - 글로벌이코노믹",
     "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxORHFOS05jWEsya29HVFNrQ3NTNXJiOFZIYjhmOTRERUR6XzZUVVZobmFlUmZMWjBYTVFlUG05d01lZTlqc2hjdnU2YVBkWldURGdSTktYWWVVem9NVTcyWUxaRU9objNyVDdDN0VCbDN5OGhwaHVLS0N0VG0tLUZndnljTQ?oc=5",
     "published": "2026-07-18 00:00",
     "timestamp": 1784300400,
     "summary": "구글 알파벳이 인공지능 AI의 원조인 알파고를 개발한 기업으로서 반도체 산업 내에서 조명받고 있다."
+  },
+  {
+    "company": "Qualcomm",
+    "title": "베트남은 퀄컴에 인공지능, 반도체 및 연구 개발 분야에서 협력을 확대해 줄 것을 요청했습니다. - Vietnam.vn",
+    "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQR2s5cC0taHZ2VUVHNHFEV2w4QUdfWGJKU1NPaU1uQW03SWpJdUdaaldEcmx2NEpMc0ZIOTVQWlhhQ1Z6NVQxWHJRRF84XzY3dE44MGNxWUxEeDliOFgwdERMYmJsMzZiMVB1VU1MV1FCak0ybzczWlRZWFJXSFlHM2M2bmpVdk1VazJnRWphR09zdw?oc=5",
+    "published": "2026-07-17 23:59",
+    "timestamp": 1784300387,
+    "summary": "베트남 정부가 퀄컴에 인공지능, 반도체 및 연구 개발 분야에서의 협력 확대를 요청했다."
   },
   {
     "company": "NVIDIA",
@@ -528,6 +552,14 @@
     "summary": "미국 의회가 애플을 향해 중국 메모리 반도체 기업인 CXMT와 YMTC의 제품을 사용하지 말 것을 요구했다."
   },
   {
+    "company": "Qualcomm",
+    "title": "마이크론, 퀄컴 등과의 AI 기반 자동차용 칩 부품 공급 계약 체결 - TradingView",
+    "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE5HMlVXTHFFbTdUbzFKMU9qX3MxTUZic1FTTlhhS2FpN3dIb0JsbHl4VEdIeEtfd0dOY1VQalY5RjVVd3JVSllybmFHbkhBc1JWWXFlWmdqeVRpZVh4YWw5MFU0dkcyR0h3VXdIcmJMcWdZb2ZVRjcw?oc=5",
+    "published": "2026-07-16 22:01",
+    "timestamp": 1784206915,
+    "summary": "마이크론이 퀄컴 등과 AI 기반 자동차용 칩 부품 공급 계약을 체결했다."
+  },
+  {
     "company": "Infineon",
     "title": "LS ELECTRIC, 獨 인피니언과 직류 전력 솔루션 개발 ‘맞손’ - 한국전력신문",
     "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5SQmtDN1VNVWVvemp6c0pKVHF2R3VIa0FWQ3dDRWoxMjcxVmJ3MGxGS2VWUGJ4SDAtcENfSjlUU3F1ZFliUl9XT3ZINDhGeTFtd01Kc1VicmxaN0E5U01YaFZTM0hFRkxZT3c?oc=5",
@@ -904,6 +936,14 @@
     "summary": "애플이 자체 칩을 개발했음에도 불구하고 퀄컴과 브로드컴의 기술이 여전히 필요한 이유를 다루고 있습니다."
   },
   {
+    "company": "Analog Devices",
+    "title": "ADI, 성균관대와 공동 진행한 산학협력 교육 프로그램 'Engineering Futures: Tech Connect 2026' 성료 - KIPOST",
+    "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5hdERjM0lzUFNkeElSZ3BOaThKaWNwMUFwaVdGTVZzSFZQaHR2dklVbjBFeWhsYmJRQWMySk1BcENrTk9CTk1ZOGVrMFpFOWdPMF96ZWt4WFZ4NGdGb2E1b1RUU1FFYnVaTC1LNdIBbEFVX3lxTE5hdERjM0lzUFNkeElSZ3BOaThKaWNwMUFwaVdGTVZzSFZQaHR2dklVbjBFeWhsYmJRQWMySk1BcENrTk9CTk1ZOGVrMFpFOWdPMF96ZWt4WFZ4NGdGb2E1b1RUU1FFYnVaTC1LNQ?oc=5",
+    "published": "2026-07-16 12:43",
+    "timestamp": 1784173405,
+    "summary": "ADI가 성균관대와 공동으로 진행한 산학협력 교육 프로그램인 'Engineering Futures: Tech Connect 2026'을 성공적으로 마쳤다."
+  },
+  {
     "company": "퓨리오사AI",
     "title": "‘토종 AI칩 돌풍 주역’ 백준호 퓨리오사AI 대표 “목표 높게 설정했더니 뛰어난 인재 모여” [한경협 제주포럼] - 헤럴드경제",
     "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE44STZ1VG1kbXdPSWFvVTJZWl9ZZlNQQk01Wnd2clo5RE12VHVSQmZCc0pnZ2lUbDByWHdUT2lCZ2dSaW5najFIZ0tRUF9LZU51Z1NQMUtB?oc=5",
@@ -1078,14 +1118,6 @@
     "published": "2026-07-16 09:38",
     "timestamp": 1784162336,
     "summary": "딥엑스가 수백만 개발자를 위한 오픈 생태계 연결을 추진한다."
-  },
-  {
-    "company": "Infineon",
-    "title": "인피니언, 정밀 위치 측정과 스마트 존재 감지를 단일 칩으로 구현한 AIROC™ UWB TSL100 출시 - 뉴스와이어",
-    "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFBDWGNIbHdSMnFidE9aZ2F2OTNBTDFRM3NQVENNX294b2ZlaHBFSHZxakNBMFQ3TGlrUnRwenYwWnRQRDcyXzh0Ul9HdUN1cVVKTDB5aHdZNElnUEtrUTBr?oc=5",
-    "published": "2026-07-16 09:37",
-    "timestamp": 1784162230,
-    "summary": "인피니언이 정밀 위치 측정과 스마트 존재 감지를 단일 칩으로 구현한 AIROC™ UWB TSL100을 출시했다."
   },
   {
     "company": "Qualcomm",
@@ -1742,14 +1774,6 @@
     "published": "2026-07-15 09:41",
     "timestamp": 1784076068,
     "summary": "오픈AI가 애플을 겨냥하여 제2의 아이폰으로 불리는 새로운 제품을 준비하고 있다."
-  },
-  {
-    "company": "TSMC",
-    "title": "TSMC도 메모리값 불질렀다…PC 넘어 가전제품 줄인상 우려 - MSN",
-    "link": "https://news.google.com/rss/articles/CBMi3wJBVV95cUxOcC03X2k1Wk9mODV5MEZPa0lCNnRDSUxnZEdobHNvNXhkZEhjMUtxMkJzdEQ3TkhpOGVUendjR2xZX1cxS09TN2M3RkpqS0VmTTA0ZG5WdWZNam9LZ0NwdVpFQ3hLNHZScl9WZXB3eVRXQ3Z3SFBFWGwwWGM0OWN4SUIxWllyV1ZDU3lvbmt2ZVZCOU1hZE91MXUyOTM0NHVXcjlTTXh1ZVZ2QXFDam9HMGUtNmZ0dVNDVHVZcVp2WTlXdEJXaE5RZUNNdldyYWhtQVRfVlY4STZrX3pNMWpJNDZ5NE02TGNvXzcxV09FakZCZWhXdzdzQmh4cGRDOGMxUlowb19qbmpQenV6c25TVFU4YWFRQ3R6VndvYTJoRkQ2d0xkNl9rbzJ3bTA3TWVtemNXNk1fQ2x2SjA4YkpHb000dlFicXZ4OFlQUnFMdlJ3T2FNYklOTzhLVU15Vk0?oc=5",
-    "published": "2026-07-15 09:39",
-    "timestamp": 1784075997,
-    "summary": "TSMC의 메모리 가격 인상 영향으로 PC를 넘어 가전제품 가격 상승이 우려되고 있다."
   },
   {
     "company": "Tesla",
@@ -4632,14 +4656,6 @@
     "summary": "마이크로소프트가 오픈AI와 앤트로픽에 대한 의존도를 낮추고, 엑셀과 아웃룩 등 자사 서비스에 자체 AI를 탑재한다."
   },
   {
-    "company": "Qualcomm",
-    "title": "퀄컴, 스마트폰 제조사들과 성능 논란 재진화 - 전자신문",
-    "link": "https://news.google.com/rss/articles/CBMi8gRBVV95cUxOWkZWWWtQaHhIM1lGOXJRdXQ5bEVYSFJJaUI1WXpHbWZNT2s5cTZaa3FMdUNCRklNR1ZTZ1RaUnlMc0M0UTlvejZnMXg1X3ZQZ0o2VnJVZXZIZ2IwSTdpX1QwSnB1cHhVZzJFb0tLa3lOcVI4NkZpU3NvYlFLZzU3THU0QzFSVnU3VnpfbnU4aTA0Y1Q3UE80LUctTVVHUng2d1p3cHZELTJzVnRSQldCN2pmd2J2SHdrZ2VvcHZsa1NBYk5SUXBibXdoZUFiOTd6VFZVMzhPWl9fQlZJRDhjODh5ZktFdDY5Q1g0ZjZDbVl2b2ItTW1zenJoSDc0N2hSbkVPVTdzV1pTQmRaM0ZmTXJhTGJKYU5ZZ1VuM3c1aFpwOHF0QTNwQ3ZOY2FheTFnSC04LWZxaW9WdHVKd2txM2wwRnpQQTNTdXBieVR6TUVEaldkSUx1b3prZm5HYVR0S1NkelZmNHBIcDJTcGU2RENXNW14SUpfRmRRUDRLUkFzdGktUlRmRlJVVmdJT0xOT1pLbHNUUkVLV1lfd2VlMkR0OVFGUVkxUmpGMHdsYURlVHJQckFvM2RhMk90bzFtT2NQbWM2VmN0dlpta2o5WGhDamV5cC1qMEF2YU1WR1RpR0w4VDlVdm9nWnNsYUFGdVZTMGNLTTFraDZhcDE1dVlhMkJhWUU0YkRyTGh4TEFFVFlrOFdpNEt4bFQxcEdvaVlYTHM5Zzk1empaT0toanFpUVdjaU01N0lEejlPNEVib1VHZ2NDdjhDQkJuRmRIT3FaRUFOSThNX1lTd3Ffcm5VNEMtOXVMWHRsTTlIXzZEZw?oc=5",
-    "published": "2026-07-08 08:39",
-    "timestamp": 1783467545,
-    "summary": "퀄컴이 스마트폰 제조사들과 성능 논란을 겪으며 관련 이슈가 재점화되고 있다."
-  },
-  {
     "company": "Microsoft",
     "title": "마이크로소프트 中 AI 확장센터 논란 - 유스연합",
     "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5Gc2V2aWZjWTZUT2VmM21Nc05QaUQ0TlVtMFZvVmdfRk5fRUE3d3dmeG1uWGJtYWFMNzl4N3JDcjhZdHB3NENSX2xReVdLbGdEdnc?oc=5",
@@ -4670,14 +4686,6 @@
     "published": "2026-07-08 06:23",
     "timestamp": 1783459380,
     "summary": "Wolfspeed가 Navitas를 상대로 GaN 및 SiC 관련 특허 침해 소송을 제기했다."
-  },
-  {
-    "company": "Qualcomm",
-    "title": "입증된 저가 노트북 수요, 퀄컴 '스냅드래곤 C'도 도전한다 - 인벤",
-    "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE9nanFGLWZaeG9lY3UxcGJEWW1CeURVN1VhWnNQcGZiWXNvNVp0NmNnSXJOb1lPSnlDc0dxNi1pcDI1Yms5NFl5UlRlak9VUGpSLVlTNFU3ZGlrSGJwWUtOS0JqNHl5SURucE1sT3FCcHVUY3NwQm1V?oc=5",
-    "published": "2026-07-08 05:21",
-    "timestamp": 1783455668,
-    "summary": "퀄컴이 저가 노트북 시장을 겨냥해 스냅드래곤 C 시리즈를 선보이며 시장 공략에 나선다."
   },
   {
     "company": "Broadcom",
@@ -7510,13 +7518,5 @@
     "published": "2026-06-18 02:45",
     "timestamp": 1781718332,
     "summary": "마이크로칩의 프랑스 낭트 생산 시설이 QML Class Y 인증을 획득했다. 이를 통해 항공우주 및 방위산업 분야의 고신뢰성 제품 역량을 확대한다."
-  },
-  {
-    "company": "Microchip",
-    "title": "마이크로칩, 항공우주·방위산업 고신뢰성 역량 확대해 - elec4",
-    "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTFBZYWdIbDItU0ZRSFN3Vk5pTHFKNEswTnJlSE4yOVFBa0ZvT2g1NmdWaWRZb0UybUdhZy01bzlBcFJpdGltNFU3cm05RXh6UWpFTy1pbDdlMl9BVXlOV2ExSjNSRFB4NlJMZTA2bFFFTEFVNzQ?oc=5",
-    "published": "2026-06-18 00:24",
-    "timestamp": 1781709855,
-    "summary": "마이크로칩이 항공우주 및 방위산업 분야에서 고신뢰성 역량을 확대한다."
   }
 ]
