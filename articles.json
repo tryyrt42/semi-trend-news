@@ -1,5 +1,29 @@
 [
   {
+    "company": "AMD",
+    "title": "노타, AMD 로보틱스 파트너 네트워크 합류로 온디바이스 인공지능 영역 확장 - 글로벌이코노믹",
+    "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPOXFid3NUVS16MjA1UmZiR2xSUVJIaGJlZk0wQWFlMUR6a2VHX0lQTUdVZmwyOUFRQUNMR2dVVWwwUVlvc3hLcFBCbWhkR2tQcDRqajZjb1Y1RXNab3gtRUY3R1ppdm9pamh0V1hZbHdENmNtWWgxNUJvd3VQaWl4c0pJWGdkdmxi?oc=5",
+    "published": "2026-07-26 04:10",
+    "timestamp": 1785006600,
+    "summary": "노타가 AMD 로보틱스 파트너 네트워크에 합류하며 온디바이스 인공지능 영역을 확장한다."
+  },
+  {
+    "company": "AMD",
+    "title": "AMD, ATI 인수 20주년… 54억 달러 베팅이 라데온·콘솔·AI 사업 출발점 되다 - 위클리포스트",
+    "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE9zTkRZMFczQVpmV0d0Yk10VU5RYUk3cFk2R0RIb0ZRNUJ0UUJzS25rWWJfM2U4b3o2eHRFYm0wdjRNV3daMUVFMUVyaVd5TF9PU2U3cTVGcHUxZVVrdHd5ZEctWTM1Y1MteVdJ?oc=5",
+    "published": "2026-07-26 03:11",
+    "timestamp": 1785003075,
+    "summary": "AMD가 ATI 인수 20주년을 맞이했다. 54억 달러 규모의 인수가 라데온, 콘솔, AI 사업의 출발점이 되었다."
+  },
+  {
+    "company": "Apple",
+    "title": "애플·마이크론 中반도체 로비전에 트럼프 난처…'물가 잡기' vs '반도체 자립' - 뉴스1",
+    "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE1pUndlRkd0bWZMZ2YyZVplNDlpdTI4MnlTWi1nY2hyQTdQcXNRWExyVnNkcXg3UnRtZTBkcVRlUVh5QjRZb0xUQXRiUGlFU0o2OTNSU2hOSmo?oc=5",
+    "published": "2026-07-26 02:23",
+    "timestamp": 1785000186,
+    "summary": "애플과 마이크론이 중국 반도체 로비전과 관련해 트럼프 행정부의 정책 결정 사이에서 난처한 상황에 놓였다. 물가 안정과 반도체 자립이라는 상충하는 목표가 쟁점이다."
+  },
+  {
     "company": "NVIDIA",
     "title": "\"엔비디아·MS와 손잡다\" SK, 총 5000억달러 규모 AI 인프라 구축 - 디지털데일리",
     "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE5Kcm5uS2JxMmUxbWZSNTg2VHo3SEJRdF9VRmRxRVFkUDFTT3hrQ1d6Mm5UVE9hTTJBYndubVQ2TFF3aTFMUFlWYndnTzJMcXdZb0ZvZmpuclNvSXJYMDRRdklrTEQ?oc=5",
@@ -8,12 +32,20 @@
     "summary": "SK가 엔비디아 및 MS와 협력하여 총 5000억 달러 규모의 AI 인프라를 구축한다."
   },
   {
+    "company": "NVIDIA",
+    "title": "이해진, ‘글로벌 AI 팩토리’ 전환점 열었다…엔비디아·브룩필드 14조 베팅 - AP신문",
+    "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE5JQ2ZUUldTWUZuYzFCQWhUSHc0c2JaUU9WQnpCSTFmMmxHeGg0anU0S3gwZzQ0azYyMGh0dHNyZ3JLUGdCYkoya3BzQ2NCaVQ2V2FJaDNKdG1QTUFIZFRYd1dMLTlRaWI00gFsQVVfeXFMUHpDc0pkTTBrTEJPdnZVQWtoQm05VGtOVnJ6VTBQanNjSnc1NXpGSEc3dEtpZXlqTnl1ZDJTVFVYSW96bmk3MkhyUUtfZ041SlRTeVkxS0Nkd3ZsTkNzeDNlMC14Y3czUGFPR1M3?oc=5",
+    "published": "2026-07-26 01:17",
+    "timestamp": 1784996244,
+    "summary": "이해진이 이끄는 기업이 엔비디아 및 브룩필드와 함께 글로벌 AI 팩토리 구축을 위해 14조 원 규모의 투자를 진행한다."
+  },
+  {
     "company": "AMD",
     "title": "리사 수 CEO “4년간 추론 성능 2000배 향상”… MI500·젠 7 출격 예고 [AMD AAI 2026] - IT조선",
-    "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE0zdjZlSHlPUVN1RldVbUQzRVZFb1lJYnoxUFhhRDdMOFZIdmpZemVaZjNkOTZ4R1lqanZvS3Q5MVJNcFE3eHMtcjloRGxHMU5BMWJXLS1xc0hMcU4wNGhIMXAzZFNMdHhGaDk2Mm5vUlTSAXRBVV95cUxQazJLOWlqQ3l1eGNfdDUtamF0a2dHUm5nNW9xQW5BSHFNMmFEM3Y0Z3FtTk54LXRrM2paTnl5YWE5dzN1RUlYTFhvUjVwVjlObVFpUWpodUpGZHBneVA4MGdtMFAxVi1GY2VCaU85ZmVhbFN0MA?oc=5",
-    "published": "2026-07-26 00:00",
-    "timestamp": 1784991600,
-    "summary": "리사 수 AMD CEO가 4년간 추론 성능을 2000배 향상하겠다고 밝혔다. 또한 MI500과 젠 7 출시를 예고했다."
+    "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTFBrMks5aWpDeXV4Y190NS1qYXRrZ0dSbmc1b3FBbkFIcU0yYUQzdjRncW1OTngtdGszalpOeXlhYTl3M3VFSVhMWG9SNXBWOU5tUWlRamh1SkZkcGd5UDgwZ20wUDFWLUZjZUJpTzlmZWFsU3Qw0gF0QVVfeXFMUGsySzlpakN5dXhjX3Q1LWphdGtnR1JuZzVvcUFuQUhxTTJhRDN2NGdxbU5OeC10azNqWk55eWFhOXczdUVJWExYb1I1cFY5Tm1RaVFqaHVKRmRwZ3lQODBnbTBQMVYtRmNlQmlPOWZlYWxTdDA?oc=5",
+    "published": "2026-07-26 00:09",
+    "timestamp": 1784992167,
+    "summary": "리사 수 CEO가 4년간 추론 성능 2000배 향상을 발표했다. AMD AAI 2026에서 MI500과 젠 7 출시를 예고했다."
   },
   {
     "company": "NVIDIA",
@@ -54,6 +86,14 @@
     "published": "2026-07-25 20:28",
     "timestamp": 1784978892,
     "summary": "애플이 트럼프 행정부에 중국산 메모리 사용 허용을 요청했으나 마이크론이 이에 반발하고 있다."
+  },
+  {
+    "company": "Broadcom",
+    "title": "'팔방미인' 삼성전자-'커스텀 반도체' 브로드컴 손잡다…5년간 2천억달러 - v.daum.net",
+    "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFAxdS1SLVdIRTBFZ09ldkE2QzRuOTlnNF84UldPekREbUtKTTRWMEFyeHJiMUN3dkxqbVI4YlNTVnVWNkdDZC1VMDh2aDNrSHFhX1hjMg?oc=5",
+    "published": "2026-07-25 20:18",
+    "timestamp": 1784978280,
+    "summary": "삼성전자가 브로드컴과 커스텀 반도체 분야에서 협력한다. 양사는 5년간 2천억 달러 규모의 사업을 진행할 예정이다."
   },
   {
     "company": "Intel",
@@ -616,14 +656,6 @@
     "summary": "정의선 현대차 회장이 엔비디아 본사를 방문해 젠슨 황 CEO와 자율주행 등 협력 방안을 논의했다."
   },
   {
-    "company": "NVIDIA",
-    "title": "젠슨 황 “SK와 5천억달러 규모 협력”…엔비디아, 한국 기업과 AI 동맹 확대 - 경향신문",
-    "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE8zQ0NuU21udnJEcjFoa01nX0YtV2hlbXJXbnJCVUxpaVE0el9CNGVCblY3SS1rbm15dEVISVlUZGh5eTF3dnBWZko4bWVFWWNxdDFZZlNaVDJBQdIBX0FVX3lxTE0wSzF3VXdLbU9TSzA2YV9RZ2piVFZaQ0Zfd21FWDBJMWJXWmxQMXNBVmpLTGtsVmgxOHZGZU9STTRNTmZXSEk3emFYMmxfR2l2N0NwM1ViZ0FWNEhscksw?oc=5",
-    "published": "2026-07-25 08:48",
-    "timestamp": 1784936880,
-    "summary": "젠슨 황 CEO가 SK와 5,000억 달러 규모의 협력을 발표하며 한국 기업과의 AI 동맹을 확대했다."
-  },
-  {
     "company": "OpenAI",
     "title": "앤트로픽·오픈AI도 택한 AMD… AI 생태계 확장 가속 [AMD AAI 2026] - IT조선",
     "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTFB2cTRFTHhRU1VhOTg5WEtKa2tJVDNNeFpZUlRDZTRjeXFDVHJyZ2dpcUhRQy1HWGZWN2p3RGJGVzVGTmN5QkVUVHBEblJ2WmpGZWZqZW9IaVlJam1nWTRjRmhwcUJxY0N3UE5LWXE0em1uS1FR0gF0QVVfeXFMUHZxNEVMeFFTVWE5ODlYS0pra0lUM014WllSVENlNGN5cUNUcnJnZ2lxSFFDLUdYZlY3andEYkZXNUZOY3lCRVRUcERuUnZaakZlZmplb0hpWUlqbWdZNGNGaHBxQnFjQ3dQTktZcTR6bW5LUVE?oc=5",
@@ -646,6 +678,14 @@
     "published": "2026-07-25 07:45",
     "timestamp": 1784933138,
     "summary": "이재명 대통령이 브로드컴 CEO와 만나 인사를 나누었다."
+  },
+  {
+    "company": "Qualcomm",
+    "title": "블룸버그 뉴스에 따르면, 퀄컴이 고객들에게 두 자릿수 가격 인상을 통보했다 - TradingView",
+    "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE1jRXVXZkxGLU5ja1d2cnd5djZaeVNsMnk5WjNaZll6WUt1QS14bml4Q0NXaXVoZ01xVlZGc3l3dlhXOU4ySjljVmdqbUdicDJTRWZnQ096dTNnVzlTSUR4eC05RFh5M1RwR3pfMGh5WDBXSzBhY2JKeQ?oc=5",
+    "published": "2026-07-25 06:45",
+    "timestamp": 1784929536,
+    "summary": "퀄컴이 고객들에게 제품 가격을 두 자릿수 인상하겠다고 통보했다."
   },
   {
     "company": "Intel",
@@ -726,14 +766,6 @@
     "published": "2026-07-25 03:15",
     "timestamp": 1784916928,
     "summary": "구글이 2050억 달러 규모의 AI 투자를 발표했으나, 마이크론의 주가 하락과 함께 투자 효과에 대한 시장의 우려가 제기되었다."
-  },
-  {
-    "company": "Qualcomm",
-    "title": "블룸버그 뉴스에 따르면, 퀄컴이 고객들에게 두 자릿수 가격 인상을 통보했다 - TradingView",
-    "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTFAza09pbWNra1FFZE10OEhMMXJuTW1Qek1OWUJhWXJ1OXVGTno5bHpxQXd2cXEyTzJDMUI5N090LXNLS2V3ek1Fam5VZ1N2R1Q4N1QzNDlGNnMwaDJpeHFfV1ZXT0hpNWJzczVaR25wQVFzSHA3SE1V?oc=5",
-    "published": "2026-07-25 02:27",
-    "timestamp": 1784914040,
-    "summary": "퀄컴이 고객들에게 두 자릿수 가격 인상을 통보했다."
   },
   {
     "company": "Qualcomm",
@@ -1080,14 +1112,6 @@
     "summary": "TI가 피지컬 AI를 포함한 모든 전자기기에 엣지 AI 도입을 가속화하고 있다."
   },
   {
-    "company": "AMD",
-    "title": "노타, AMD 로보틱스 파트너 네트워크 참여…AI 최적화 지원 - 전자신문",
-    "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTFBGVUUxRW1SU2RicHozUWFfTFQ4N0hjS1F2NW1OWGJBbm5pdVNibkFfMWVKS2N3b0hnSDZfYXZKOTBZUC15Y2pjWDNMVUd3Zw?oc=5",
-    "published": "2026-07-24 13:55",
-    "timestamp": 1784868919,
-    "summary": "노타가 AMD 로보틱스 파트너 네트워크에 참여하여 AI 최적화를 지원한다."
-  },
-  {
     "company": "Synopsys",
     "title": "무라타, 시높시스 전자기장·열 해석 툴용 시뮬레이션 모델 제공 - 전자신문",
     "link": "https://news.google.com/rss/articles/CBMisgZBVV95cUxOZ3VTR28xQWhaSURJOTFhZVYtRUl5YU1qby1NSV9aMGs1REZ4bFppVE5MQjVBMEg0ZlFmdmxPN0xrVzNKR0hVU0tfZm92Q1MyMWo4cjJQamlYUXd1T0xvNGkwVldNUEpEdU40czJWdFkzUzY2dzJtUXp5cnh0Q1pHZE1oeEZPOUthdFYxY3VzV1dSekNMLXozOExxSHdYcUdnYlEzU2NLV1NvVklKY0JuOEtFOVM1SzlQMnYwZzJ3NGlubW5WQVpMRm9adFN3T0ZaSTlVLS16dm80YWJNMzlXR2ZyTjF6MFNTM08xdldDR0xaNk9ONEJMakFWWEM3N3NjbE96NkJLNDlCaHNDX1EtLVFPQWRZZkhkRHNXVy1iZ05uNXJEbnJxUXE3OVY0U1M5a21ldGNIMU92c214Y2w5bFI3dzI3Y3AzUmwxaWFrUnM1ZGdZaGhmay16UDNVb3RvZU1Ja0p6akZKSEx3M29Vd01VOElZZTVuV2ZfSkE3d1VqWmFQTnZPNGtjVWxOOVdXZHNaZDFDSW1vV0tHdGs4d0lDQzlTWWlXQzdSOXdMUmY2VURhUzVySXVzeFVQVWJoUlRfN29BY1pTaUduZEl0N0dUeXhxS1VGQkVkQmtaUHF1UkZiLWZUUkNQd1dKcUpNeHV0cFlQZ181RkhhcVNNckdiNUIyX3JCUXB0emRQbklnWXFaRk00aDZDN1JCM1pBYlIxTmMyV1R4dExSeEhlTWNTMFdJRnhBZjUxNXRweUFKRzhsZ2VKZ1ZNUW1aSW9KQmdINlFvUDdHQko0blhFZGxRdUZaZUdteEpubnJlbFJMNlFFT0VzdmZ6Tm1ocGJnNUtGbV9iV1lfUkRSVzd5dHdGRG5vcmxUNm5RSUc4cF93NTBKUmQ5aXlMR1h2LVJYUWRjWDFWXzRvUU5YZldjUzFOWElKR0ZwVG15a1pBMDRWdUNaT0JKcXI5QWVzdTJFVF9zQlhabWxhNWRNUURhM0wzWkhsSVA2a2xOMFdPNjJlLUtoSTEwR2Z1TmZWel9vUEszTXhMM3VmWUZELVZOQl91QXUzZmJtWWRjcV9MTzhVdw?oc=5",
@@ -1102,14 +1126,6 @@
     "published": "2026-07-24 13:49",
     "timestamp": 1784868574,
     "summary": "퀄컴 스냅드래곤이 삼성전자의 폴드, 플립, 워치 신제품에 탑재되었다."
-  },
-  {
-    "company": "AMD",
-    "title": "어드밴텍, AMD EPYC 9006 기반 차세대 AI 인프라 솔루션 공개 - 전자신문",
-    "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTFBiWDNIeTB2dE9WY0JCR2xsTW9DaGlDS0xtZUhRaEozT1JFbWcyd3ZLX0NZOGktWWJfUklOVEtsR3dGbzY5UmNwWmh4QzVmQQ?oc=5",
-    "published": "2026-07-24 13:34",
-    "timestamp": 1784867685,
-    "summary": "어드밴텍이 AMD EPYC 9006 프로세서 기반의 차세대 AI 인프라 솔루션을 공개했다."
   },
   {
     "company": "Intel",
@@ -3094,14 +3110,6 @@
     "published": "2026-07-20 10:00",
     "timestamp": 1784509200,
     "summary": "매그나칩이 채 리 신임 CEO를 선임했다. 이번 인사를 통해 전력반도체 분야의 경쟁력 강화를 추진한다."
-  },
-  {
-    "company": "Apple",
-    "title": "애플, 맥 프로 살릴 뻔했지만…인텔 신모델·'익스트림 칩' 끝내 접었다 - 디지털투데이",
-    "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE4wZVAyeVlhb2RBbG9VWEtuZjdnaXJRc2JFOU5YZkVFRGsxczUwQXdmckVVZXRuaDkwbG9NNnZQNU1WcGxhejVtRjhVV3EyZEZTQVlzZXdkdUdlR1c0VGZ1WWhteFZmd3VGYnBLXzRQVFh6dnc?oc=5",
-    "published": "2026-07-20 09:42",
-    "timestamp": 1784508171,
-    "summary": "애플이 인텔의 신모델 및 익스트림 칩 도입 계획을 최종적으로 중단했다."
   },
   {
     "company": "Cerebras",
@@ -6080,14 +6088,6 @@
     "summary": "미디어텍과 퀄컴이 AI PC 시장에서 경쟁을 벌이고 있다."
   },
   {
-    "company": "Broadcom",
-    "title": "브로드컴, 애플과 2031년까지 파트너십 확대…맞춤형 칩 개발·공급[마켓핫] - v.daum.net",
-    "link": "https://news.google.com/rss/articles/CBMiRkFVX3lxTE9lRTkwcUlfNGgyQzVCQjJjdGlYUy12R21hdzd6TDZuR1JTUUdLeEhSMFUwYmxjN0Z1aFZPZ2JqejhDcWNxNGc?oc=5",
-    "published": "2026-07-07 06:54",
-    "timestamp": 1783374843,
-    "summary": "브로드컴이 애플과 2031년까지 파트너십을 확대한다. 맞춤형 칩을 개발하고 공급할 예정이다."
-  },
-  {
     "company": "Texas Instruments",
     "title": "마우저, TI의 bq79716b-Q1 차량용 16S 배터리 모니터 공급 - 올포칩",
     "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFA4Uy1MTkl3V2JYQTdVdk5iU3BrN1NWZ3BGYUJaV0VBTGZZMTJkSVI1dEZVaUs3aXVtbVJFdkt2UnRidVAzR2JzTHlsVm95Nlg5VU9MT0otTVJLdEFRMUl5WA?oc=5",
@@ -7270,13 +7270,5 @@
     "published": "2026-06-26 10:25",
     "timestamp": 1782437131,
     "summary": "GCT Semiconductor가 AI-Edge 데이터 파이프라인 강화를 위한 전략적 의지를 발표했다."
-  },
-  {
-    "company": "Cerebras",
-    "title": "24일(현지시간) 미국 캘리포니아 팔로알토에서 열린 젠스파크 미디어 투어에서 (왼쪽 두번째부터)밥 고엘 NTT VC 공동창업자, 줄리 최 세레브라스 CMO, 케이 주 젠스파크 CTO가 패널 토의를 진행하고 있다. - 전자신문",
-    "link": "https://news.google.com/rss/articles/CBMipAxBVV95cUxQbVNIRnVpWTNRd3dLQ0RQLXpPS2hFNVhiNFgyMUhTcURhZVREQVZwWkxKTVp1d3hxNmdidnRsbUNYZUpxV01MeGtqMjYwWF93Mmlua3NJS1YwVzJwTHRoMGpwWm0zZUxCZmtuNjVheTJiMHM3RkxlcElUZnRFZ3Zzc1ZCc2RfUFRoaVRNWlI0cUo4UlYydWlKVzVzZXFCdU1PVWVVcDQ2TFZOUnR5SGhaczJGNmNZNUJZSVd1MHQ2OU9TUFlEQVJhZzJLQ25sZWU2MzR0QzFqVE1oRlluU1k2NGFtLUZZbjRxbDlSVzlQY3BsUDN1ZXZoUkx4ZVU3cWxKYzMyUUgtWW9fd1hDUkJvWVFOQkpJT0dLRGkweHhpZFJBSjlSb01YcVZDTTFrR0VLajVjRS1jUkRBcU9WLTlvOWpGaVBGOTVfUzRwZTBKRWJyQkdqVEllS2dzYWdlb3pMZkRLZDY3amZ6VzU4LUFzQXBPOWVvWmJLNzRmUUdVVWotakVCVS1RUUVTM1A3X1RmcTlQMGpiclNCMGs1dVNucE5abVNWVDhCMml4NVVCV296SXJQWVItUUg2U2twcHlJMng0Q0VyT0RodzZoNEhEZXo3WEdtME5Ea2VadEVMNnpKdFk1eFZ6QnJiMHpBbXd4aVhobkZjQkhEVFQ3OC0xMGc4NDBLanVnY3JDOEpwcm43R0hJNkRnOXdQUW56YmNua3BETkxoTGlDOURpQkJISWdMbTgySUp6bk5mMlppdzdabmJpT0ZaTmgzU05QeXkwbng3OGk2M0trQ3FxMlFOUmxidTM4VmNoQmsxcFhMdmpiVGtYckZMckRUVHBqYzRaRGZjbWZTam01TjBDbDRUdjhnT2dua3VHbk5ETjJ6RWxwTUN5QjRacm15RHFjRnlYMXFEYnhpLTdRYzFIaVpaOFpobnpjV0s3N0NkZGQ5TGJMSUkyZTRKM2xKQmlUZU5CRGVBR1Vtc1hZOGhFTng0U3EwS1F4WTRMakE5cFJhdDZock5yczBFMFRfamhleU1vSHdpUzZRaVVTcVM3ZlM0SUx1YUdmQlBHb1BTQlVBTVVyajR6b1ZSTGdIQWhnZWUyS3I4UEpLcmdsdGtwQmYxTFJ1UXUzUWtqNWpTQVdoRm80YnJMZ1RTcmhpLWZHZl9OTXA0Ni1iMU1jR3YwN19aRzFxZEF0QS14ZGcyLXBmS0xtZkhrM2RfbFc1am1jbXBUOC1lN2ppV1FKOC1SdGhTZ1RUa01wX3RweTY5eG44S0c5RGxxSTBNRXBrV0libndOVWVscnlZc2gxTWU0MkFKMlBDV2t0NG4xNU1qN3ZqTTZEeUJudUJXY0N3eVRYUDVuTlZMRlJUcUl2YjM4UkJTNG0tMDhjWFlWUm4yX1dvYVR5a09td0psOVE1dWt5QlFKXzhZQlJGTU1hTDJibDJKR0ROeHo4WFFzVHRScVRkQ05TaFd4WE01aUg2MzVTMzFHazhGWEIyNWxfZWl4MEo4Y01keFRQYlU4QnQ1WGdtMjMxbnlNZUk5eXN6WUZTTXZPX2U3aHR0MEJyOWtHbzBRcnRZOC1ia1owdnBybE8zNEMyWWl6ZEF6ZUVoclFjT1h1ZVFFdXZ4Tlc4eFFDaUQxa0RxczVRZ3pCTlBQNVVKTnRIM2trLThFQlB6dFhiXzdEWENrUTZNNGppSzlSSUR4NXdGZ1FOVnJDNHduQm5uZ0h4bW5PaHA0eDJkVENoQTRrd19TZU84SnZCakkyRW55bVFtczJvdmhXZ0JJTEh4VEVkVHRaQkpMTkhSUDNwYVJxZXJNd2hOQ3c5MnIyRldNeW0xMTNLMjdEaU1XWFdTMzhzNmFEYlRpNlZNWHZRSkJlU2swckJ1RW1zeWlGWXd1VGpHNEFwcVoxME9DaWhnNXFFMXdjcWcwY1ktOXpQaXZfTlVsWl9ZdFJmS0MyeVdiVjdyRm1XZUtYV2RRVzBrRGVSX29DWHA5RlEtdFhjWlB0OG1GSUdMNzB2S1p5eXc1UjNEX3dzbU9NNjFlVHJ5T1ZwUFdEZlY0NWRmQnZZN2dPX2pfdW8xRjM4NDc5eGR2UU9kaU8?oc=5",
-    "published": "2026-06-26 03:29",
-    "timestamp": 1782412181,
-    "summary": "미국 캘리포니아 팔로알토에서 열린 젠스파크 미디어 투어에서 줄리 최 세레브라스 CMO가 패널 토의에 참여했다."
   }
 ]
