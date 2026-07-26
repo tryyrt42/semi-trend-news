@@ -8,12 +8,28 @@
     "summary": "KAIST와 엔비디아가 인간의 움직임을 이해하는 피지컬 AI 테크놀로지센터를 설립한다."
   },
   {
+    "company": "NVIDIA",
+    "title": "네이버·엔비디아·브룩필드, 한국 AI 팩토리 200㎿로 확대…엔비디아 10억 달러 투자 - 테크수다",
+    "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQN1d6UVJqajlnOEV3ZmpNM0UxeEp4TDdhVUlKeXRETDhBejNwZ0U0cUd4aEdZSWU2MzZPTTlQN1FnYjlnZjRfR2pxUnVwMnlkLW1YRldEM3U3Z1lheUtfUlg0U295LVM1X2hJOEFycnp6QzRsZW03b1RIZUhjSHlJd2ZLQU9Rc0ZpREHSAY8BQVVfeXFMTXJ1T0NsVUNvVTBmamV4Ykp0VTdVa1MzMG85dFZIYkhDcl9aQzQ4ZHQtMEV1Nl9RRi03TFhDTEMtaXhCNGRIeWpvY1hLeHlOd1R1MVhSOENDbmpLcnA0UEFPaWFEbzBSVWtGeEVObk1BaWJnNUlLZHJ6djRxX3RuQTJjZTJIZlVod0xrc3FjV0k?oc=5",
+    "published": "2026-07-26 22:06",
+    "timestamp": 1785071212,
+    "summary": "네이버, 엔비디아, 브룩필드가 한국 AI 팩토리 규모를 200㎿로 확대한다. 엔비디아는 해당 프로젝트에 10억 달러를 투자한다."
+  },
+  {
     "company": "AMD",
     "title": "삼성 HBM4, AMD 주력 공급선 선점…엔비디아도 하이닉스 독점 아니다 - OBC 뉴스",
     "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE1LSno3czd4ekl0Wm1PZTZXY0VReV9IR090T3FFdGZYVjBPVi1rYUdyYmtvdG1XR0VocFhCeGUydjJTR29ZYi0yWHB3cEtaSE0yZXlEY01ZOUFJSGhubXVWU0JfRFhEOUZI?oc=5",
     "published": "2026-07-26 20:44",
     "timestamp": 1785066265,
     "summary": "삼성전자가 AMD의 차세대 HBM4 공급망을 선점했다. 엔비디아의 하이닉스 의존도 또한 변화할 것으로 보인다."
+  },
+  {
+    "company": "Intel",
+    "title": "15년 만에 최고 성장…인텔, AI 서버 CPU 타고 부활 신호탄 - ER 이코노믹리뷰",
+    "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBMMEN4MG02U0tkOHNPY0c0WTBySW1RamNQeHdXZzFqMy13WXhoUmJWYVZ0R1JfVFJJNDdzRVMyX0xMSFNlVzV0VXFkUngybldZeVJqRDNhaS1HWGN0MWVQOHRjT3laSnY5b01iRA?oc=5",
+    "published": "2026-07-26 20:26",
+    "timestamp": 1785065187,
+    "summary": "인텔이 AI 서버 CPU를 통해 15년 만에 최고 성장을 기록하며 부활의 신호탄을 쏘아 올렸다."
   },
   {
     "company": "Microsoft",
@@ -41,6 +57,14 @@
   },
   {
     "company": "NVIDIA",
+    "title": "KAIST-엔비디아, \"인체동작 파운데이션 모델 개발\" - v.daum.net",
+    "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE9iTWFMSVZERFFDU3p3Q1RSaENxZHE3SVRkZlVHYlJxZ0stY1lHQktyc2ljOHN4SUhnM0R5eF9zMTZNeEg1T3VOQmVrS0NDVFU?oc=5",
+    "published": "2026-07-26 19:05",
+    "timestamp": 1785060350,
+    "summary": "KAIST와 엔비디아가 협력하여 인체동작 파운데이션 모델을 개발한다."
+  },
+  {
+    "company": "NVIDIA",
     "title": "엔비디아와 SK그룹은 5천억 달러 규모의 인공지능(AI) 공동 개발 계획을 발표했습니다. - Vietnam.vn",
     "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQVnU2SUhQRmlWSXV5VUJJUmpLdnNuNnZXMHZidUw1d3cyOTNwb2EyclczUzBFSFM3X1BmRXJ6S0plYzNnTWpJREV3aDN2aXBXQ2ZXeUQwNzZJUTdLMjRxakZyZjdhNktqRm1KUXFvSzF6eGNDTDJBQkFuWEdqV2dNaE00U295VGc?oc=5",
     "published": "2026-07-26 18:52",
@@ -57,10 +81,10 @@
   },
   {
     "company": "NVIDIA",
-    "title": "빅테크 협업 다진 정의선 \"엔비디아와 로봇 플랫폼 공동 구축\" - dt.co.kr",
-    "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE93WnFYSGQ4NnJUWEdiWGxJSk54bjJaNV9OUUFKUlNWQjBycExra3kxVTV1LXQzSTFHR2JMOTFLcUpPZUgwdmF6RmxFenktQQ?oc=5",
-    "published": "2026-07-26 18:37",
-    "timestamp": 1785058632,
+    "title": "빅테크 협업 다진 정의선 \"엔비디아와 로봇 플랫폼 공동 구축\" - v.daum.net",
+    "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE81MlVtY29QblZhemFDYjdnOEt3akI4d2RUMlQ1Rnc3aWMyaFJwUDJsSzZzY3dRcEprZi1wLUxfWXl2Q3htWS14NnlHT0h4aFE?oc=5",
+    "published": "2026-07-26 18:39",
+    "timestamp": 1785058747,
     "summary": "정의선 현대차그룹 회장이 엔비디아와 로봇 플랫폼을 공동 구축하기로 했다."
   },
   {
@@ -70,6 +94,14 @@
     "published": "2026-07-26 18:30",
     "timestamp": 1785058200,
     "summary": "엔비디아는 SK하이닉스와, 브로드컴은 삼성전자와 맞춤형 AI 칩 확보를 위해 협력한다."
+  },
+  {
+    "company": "Intel",
+    "title": "\"수요를 감당할 공급이 없다\"…인텔, 4분기까지 공급 부족 전망 - 네이버 프리미엄콘텐츠",
+    "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOYWlmOGdlb2RBazJLTnhaZHhzM25ZWHRyQW52c1B0dUlNWi1MVXNteE9UenNUN1ZxVFR5c3FRbFdteGdRaFYtWExxUDZueTllWXV4Wnc5ZTZhRjJDVkRVNGNMZWx4a1pITFNxd2U3OERzN3NZLWNpOUZxWVhWRTNjRTM5NmdnR0xR?oc=5",
+    "published": "2026-07-26 18:16",
+    "timestamp": 1785057360,
+    "summary": "인텔이 4분기까지 반도체 공급 부족 현상이 지속될 것으로 내다봤다. 수요를 충족할 만큼의 공급이 부족한 상황이다."
   },
   {
     "company": "Kioxia",
@@ -393,19 +425,19 @@
   },
   {
     "company": "퓨리오사AI",
+    "title": "전북대, AWS·크래프톤·퓨리오사AI 등과 ‘AI 인재 양성’ 맞손 - v.daum.net",
+    "link": "https://news.google.com/rss/articles/CBMiRkFVX3lxTE81a3Z2Y1ZHS0J1MXFRM2t1OWUyUHlKV1Y0enA1RDJ3MzZRVE9DREFRcVRVcENlSzc1TU53VHNJMEtBSWV3LUE?oc=5",
+    "published": "2026-07-26 10:12",
+    "timestamp": 1785028329,
+    "summary": "전북대학교가 AWS, 크래프톤, 퓨리오사AI와 함께 AI 인재 양성을 위한 협력을 체결했다."
+  },
+  {
+    "company": "퓨리오사AI",
     "title": "전북대, AWS·크래프톤·퓨리오사AI 등과 'AI 인재 양성' 맞손 - 네이트",
     "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFBSLXhsTWVUWkxJZ2lKREtOeFVBV1ZVeWF4ek5PQUp6X1hnYVFqQ25xeGlpOXYycVJteGhtWXJFM1hvS29WcDhmeVBTeVV2Ylg2d2pz?oc=5",
     "published": "2026-07-26 10:11",
     "timestamp": 1785028260,
     "summary": "전북대학교가 AWS, 크래프톤, 퓨리오사AI 등과 함께 AI 인재 양성을 위한 협력을 체결했다."
-  },
-  {
-    "company": "퓨리오사AI",
-    "title": "전북대, AWS·크래프톤·퓨리오사AI 등과 ‘AI 인재 양성’ 맞손 - 세계일보",
-    "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE1URnNmajgzRWRLZUI2cW9vUzFQM3ZtU1hIUkJjYmZiVUlZUkR1Smt4dVZiaFNnUy1XbGhBQ1ZmWTFGdzhqSHBlSjVnLWNsc2tuQXR6YUY5NE_SAVRBVV95cUxQLVlRN2JudXdYR3EyclBadDlPV3BEVjBzLTJuUURhY29waFZ4cldVTzU0VmpyeEY2TllWODQ0dWtQQTRCM3JkSWFKTHp5UmFJZEl2akI?oc=5",
-    "published": "2026-07-26 10:10",
-    "timestamp": 1785028252,
-    "summary": "전북대학교가 AWS, 크래프톤, 퓨리오사AI와 함께 AI 인재 양성을 위한 협력을 체결했다."
   },
   {
     "company": "Broadcom",
@@ -494,22 +526,6 @@
     "published": "2026-07-26 07:43",
     "timestamp": 1785019397,
     "summary": "퀄컴의 칩 가격 상승으로 인해 밸브 스팀 프레임 VR 헤드셋의 가격이 1,000달러를 초과할 위험이 있다."
-  },
-  {
-    "company": "NVIDIA",
-    "title": "SK, 엔비디아와 5000억불 AI인프라 LOI...MS와 메모리 장기협력 - 더트래커",
-    "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE1sdE4xTXY3eDhYdDB3eEdSUjFZMTM4MS11eDNockRVY2U3dWRzQ25ORjZxWXZFWXhDTm55Y1NaZ2F0TDBLSXlVN2hsdU9hVTFzS1VpY1YyV0U?oc=5",
-    "published": "2026-07-26 07:09",
-    "timestamp": 1785017388,
-    "summary": "SK가 엔비디아와 AI 인프라 관련 LOI를 체결하고 MS와 메모리 협력을 진행한다."
-  },
-  {
-    "company": "NVIDIA",
-    "title": "엔비디아, SK하이닉스서 731조원대 AI 메모리 공급 확보 유력 - 글로벌이코노믹",
-    "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQV255a3FEWThJbzZvU3VibHg5ZWM2ZHNaNUh2bUlkVmJ6V0hBYjREVXYtMnpMc3hxTzhSQ1EtSnJwYVFENGhJMjlBYmFIZzNab1l0bldQZ3hObmZYZ0RpOGlIYzB5ai1UcWVZSkMzM1RqRXBnaldlOHV5VTZYTGxKdWw2NlVOS2s3?oc=5",
-    "published": "2026-07-26 06:08",
-    "timestamp": 1785013693,
-    "summary": "엔비디아가 SK하이닉스로부터 731조 원 규모의 AI 메모리를 공급받는 계약을 확보할 것으로 보인다."
   },
   {
     "company": "리벨리온",
@@ -1976,14 +1992,6 @@
     "summary": "호남 클러스터 조성 과정에서 TSMC의 사례를 참고하여 전력과 용수 공급의 속도전을 강조했다."
   },
   {
-    "company": "Intel",
-    "title": "“SK하이닉스, 인텔 오하이오 팹 인수 아닌 운영 파트너” - 매일경제",
-    "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBDLXN6Z2NVWkZnNzVrcmdiRkwwLTM1OGdoVXVyZjdlNjJ4WG82clN6RDMxdXVqUVRNMWx5eWZkTGFjMDJpbVRRaDBKbEw3MXU2MV9tOFFn?oc=5",
-    "published": "2026-07-23 14:48",
-    "timestamp": 1784785691,
-    "summary": "SK하이닉스가 인텔의 오하이오 팹을 인수하는 것이 아니라 운영 파트너로 참여한다는 내용이다."
-  },
-  {
     "company": "에이직랜드",
     "title": "[인터뷰] 에이직랜드, 글로벌 eSSD 시장 30% '선점'…차세대 칩렛으로 북미까지 '정조준' - 네이트",
     "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE1RSTl6QnlKYzduX3M1dkxKeUhzZEFLa0Q2bUZUZFkyMnJUZnR0dG1nYnB3dTFwZnpLTUFMY2ZDVTc1YmJkMlo2LXJwbmhCUEZubHc4?oc=5",
@@ -1998,14 +2006,6 @@
     "published": "2026-07-23 14:40",
     "timestamp": 1784785215,
     "summary": "아마존이 AI 조직을 재편하며 AGI 사업부의 인력을 감축했다. 이로 인해 관련 업계가 긴장하고 있다."
-  },
-  {
-    "company": "Intel",
-    "title": "인텔·AMD, 中기업과 데이터센터용 CPU 장기 구매계약 체결 추진 - 뉴스1",
-    "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE5HaEUyRTJfWDdBUXZjeExZNlZVVnYwUkllMDF6OVNDNF9FbEtxR3IzMFJCMnpKVjQ2dm9IWDZkQnBWRFlCYWRldTFsRzZVbEo3UUxOT2tMQmk5N19OM2c?oc=5",
-    "published": "2026-07-23 14:38",
-    "timestamp": 1784785111,
-    "summary": "인텔과 AMD가 중국 기업을 대상으로 데이터센터용 CPU 장기 구매 계약 체결을 추진한다."
   },
   {
     "company": "Tesla",
@@ -7182,13 +7182,5 @@
     "published": "2026-06-27 03:26",
     "timestamp": 1782498378,
     "summary": "마이크로칩이 내방사선 및 저전력·저지터 특성을 갖춘 6개 출력 클럭 제너레이터 ‘DSA504RT’를 출시했다. 이를 통해 우주선 타이밍 아키텍처를 간소화할 수 있다."
-  },
-  {
-    "company": "Synaptics",
-    "title": "온세미, 시냅틱스 인수… 피지컬 AI 시대 겨냥한 지능형 시스템 사업 확대 - 아이씨엔매거진",
-    "link": "https://news.google.com/rss/articles/CBMiwAJBVV95cUxQWTYtdXZYLXdHb0hBM21mYWx3YmdBQ2JIMUxzZmFCdHJwb1VLZkk2VHY2M2FhejFhRGVEQjRoUlFWTVZlalpZdXA1Y0otSlVjenBlcV9HUmRTQnZqSVQtVGtRejVSdjVWZUg2QXRYZHZMQ2pxOE1HZVVhTkRuWlowQlpzVkxoQUFYSXlkT3NKTVFCdFFfWU80ZlhtZGFaT1psVUg4M0hXczV1Ym1JMWcyWWtiWkFNQUlxM3hXTU85QWpXbGUydDVGcTlUM0ItNGVDTXFDSVBQQVNpbkJ3Ri1fQ1Nud283UGRvdDl4RnhKOVJpTXc4TlRHanRJVEJsSWNsV1N4dnh0STlSQ0NOV25iZndyWURTZTJIWWhmdWlOOHYtZ0RScmQ1YjJUZXRobmozUWxIRzJhakdOam1TUXd2YQ?oc=5",
-    "published": "2026-06-26 23:30",
-    "timestamp": 1782484243,
-    "summary": "온세미가 시냅틱스를 인수하여 피지컬 AI 시대를 겨냥한 지능형 시스템 사업을 확대한다."
   }
 ]
