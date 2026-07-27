@@ -1,5 +1,21 @@
 [
   {
+    "company": "TSMC",
+    "title": "TSMC 2나노 월 2만장 돌파…AI칩 수요 본격화 - 글로벌이코노믹",
+    "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNSGdnNlN6dG9HbWVmYWF0cVhJVHBCd0pSU1RWVnFIY0xGdTc1alp1MldtbUtIVE1NVTQtVk9zV2dPWDY1ZUdUR1B6aTlyNmhweUcyNW9MdlpGempleS1ZWW5RNVZWY1lKZ05zSVgxTkV3RE5vckxtRlE3MXo3aVFWOFBzRDhZY3Rh?oc=5",
+    "published": "2026-07-28 03:00",
+    "timestamp": 1785175200,
+    "summary": "TSMC의 2나노 공정 월 생산량이 2만 장을 돌파했다. AI 칩 수요가 본격화되고 있다."
+  },
+  {
+    "company": "Qualcomm",
+    "title": "Qualcomm 칩 가격 인상, Steam Frame 출시가 상승 우려 - games.gg",
+    "link": "https://news.google.com/rss/articles/CBMi_gFBVV95cUxQcFl0eE4yQUJYQVI2d2hRaTJwSTNkTEJkVWhXeVpTRnM4RUVUNTRhSlI2eWVWQ2pVU3A3RDQ5QVVPel9rS1pMX3VrVnJXWExab3Z1YlROLXJsOVZBTFhRWWpiN203MEZoclBOdWxzTUdHQjY4Um5VTVNyUWpLczMybnZKNWxoS1Jqdy11WkNZUlZXeFRjOW9GRUJpSFdxYmdVZk1WVXQySHNyTWtGc0paamtDaVVGMHFQcTdnN0gwNll6Ti1WdjU0MndOZU1wVmduMlZ6WmdSTEp5U01WVVM2WGNhcW9WN3UtcjhtdGV6YWpKMEFJNk9Ockg1NnFqdw?oc=5",
+    "published": "2026-07-28 02:43",
+    "timestamp": 1785174204,
+    "summary": "Qualcomm의 칩 가격 인상으로 인해 Steam Frame의 출시 가격이 상승할 것이라는 우려가 제기되었다."
+  },
+  {
     "company": "NVIDIA",
     "title": "SK그룹과 엔비디아, AI 팩토리와 차세대 메모리 전반으로 전략적 파트너십 확대 - 올포칩",
     "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE9DRU1fTkx3Wk5YT1ExQ0dXWDJmR3ZwTUdNTElXelF4YUtuMzEtcFZjVkl0MVNuY1A0ek90QkJBcnRuTUNZaTdoc3BKc0k1RVkzRWhDNXVYdzh3ZEpTcnpiREpEYl9hZw?oc=5",
@@ -9,11 +25,59 @@
   },
   {
     "company": "NVIDIA",
+    "title": "엔비디아, SKT·네이버 등 손잡고 ‘개방형 AI 보안 연합체’ 출범 - dt.co.kr",
+    "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE9CaWR2Yzdkd3gtU0R6c2JGSXdRc0FJS0ZNbXdMSnY0Q29TX2NvQTI1N3hoSHNvTDVPZm5jQzV4U2E3ejFrc1lId0I4azlrUQ?oc=5",
+    "published": "2026-07-28 01:43",
+    "timestamp": 1785170595,
+    "summary": "엔비디아가 SKT, 네이버 등과 협력하여 개방형 AI 보안 연합체를 출범했다."
+  },
+  {
+    "company": "Microsoft",
+    "title": "SK, 엔비디아·마이크로소프트·AWS와 AI 인프라 동맹... 글로벌 AI 생태계 확대 본격화 - 테크데일리",
+    "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE9VR1RqMUdrMmluamZURTBRNlNJbGYzRjBrQkFKUDVWZzFfaTREOVp5NW5HZmg2NEY2aHdYSWFYS2QybG9BQUllcVpTcVNPY1J1WEJ3QmFicUlFSjhzOXJidDA1Uk9WZ0tGQm93SEZB0gFyQVVfeXFMTzVEQnVRSVNQS0JVWjctWFIxcmljbjJERC1KbGFaeWlIUHlWS2Q3ckdheEhLTVhoMElPbjJmXy1RS1Vxa0ExQlZqU3o0SkRkd3lBRXVLcUd3bFFHemNKVkMzWUxEYUtacE1wcGhpNFhCWUNR?oc=5",
+    "published": "2026-07-28 01:41",
+    "timestamp": 1785170510,
+    "summary": "SK가 엔비디아, 마이크로소프트, AWS와 AI 인프라 동맹을 맺고 글로벌 AI 생태계 확대를 본격화한다."
+  },
+  {
+    "company": "NVIDIA",
     "title": "엔비디아 주도 개방형 AI 보안 동맹 출범…MS·네이버 등 참여 - 블로터",
     "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBhZERLejVtWTRCYkZNcUttZndrdGdzMVNkaWFJa3pyb0dmWFRpQ0lUNFRZSm9NaVZuaVVEdUpvQVVkdGxNS0RMRW1leEM0b19IeWpfMEhmdkpEcklpaUtjVlhSNVBEZVNIaXhrZtIBbEFVX3lxTFBhZERLejVtWTRCYkZNcUttZndrdGdzMVNkaWFJa3pyb0dmWFRpQ0lUNFRZSm9NaVZuaVVEdUpvQVVkdGxNS0RMRW1leEM0b19IeWpfMEhmdkpEcklpaUtjVlhSNVBEZVNIaXhrZg?oc=5",
     "published": "2026-07-28 01:31",
     "timestamp": 1785169877,
     "summary": "엔비디아가 주도하는 개방형 AI 보안 동맹이 출범하며 MS와 네이버 등이 참여한다."
+  },
+  {
+    "company": "TSMC",
+    "title": "日·대만, 구마모토에 ‘피지컬 AI’ 동맹 구축…TSMC가 전초기지 역할 - dt.co.kr",
+    "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE9uNTlKV3gtc2hGeGJlLU5xcW50THpJYU1SWjRjTjUyeUFTeERKMWluLUdELVJ6T2JtQTN1SFRMM21lVEItZkZSSUpNTFVSQQ?oc=5",
+    "published": "2026-07-28 01:29",
+    "timestamp": 1785169782,
+    "summary": "일본과 대만이 구마모토에 피지컬 AI 동맹을 구축한다. TSMC가 해당 프로젝트의 전초기지 역할을 수행한다."
+  },
+  {
+    "company": "NVIDIA",
+    "title": "네이버 3대 주주 된 엔비디아… 세종 AI 데이터센터 함께 짓는다 - 조선일보",
+    "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQaG4wbTc5Wk5wMFVtd2piM3JKZHA0NlZWSmR3d1puZlhKRzNwcFVjMFZWSHB3NFV1VlJXTnBUZmRFa19vZE5SMkpKcjNZamZiQ1c3LXUxa2l1d1VUczRoS2xDT21UZHFnZmlsWjFZdWRCSHhiR2xORUZLZzhOZFowOGI4VQ?oc=5",
+    "published": "2026-07-28 00:46",
+    "timestamp": 1785167160,
+    "summary": "엔비디아가 네이버의 3대 주주가 되었으며, 세종 AI 데이터센터를 공동 구축한다."
+  },
+  {
+    "company": "NVIDIA",
+    "title": "LG전자 ‘액체 냉각 솔루션’, 엔비디아 인증 획득 - 조선일보",
+    "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPbmtpMTV3a3lOR1ZabmM3VEtPeWNTWU5hQ0g2WFB5Nng5STcycUNCbnV2WGRKZ0cwTm5td1hFWmNSZ0YtSmNMaXlUUjVWQVdicWdYbVkxb0pVNWtZQ3NtRWJoZ0RKSkFMZnlzUnVscnFPTmN1Y2pNdEtRRXpzQmNmZlZfZw?oc=5",
+    "published": "2026-07-28 00:33",
+    "timestamp": 1785166380,
+    "summary": "LG전자의 액체 냉각 솔루션이 엔비디아의 인증을 획득했다."
+  },
+  {
+    "company": "NVIDIA",
+    "title": "엔비디아는 오픈AI에 대해 2,500억 달러 규모의 보증 계약을 협상 중입니다. - Vietnam.vn",
+    "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE5NcUdyemJkZkpVbHQ5TU9tZXAyN0pQTWRYeHZBYmtPblA1WEtsTDRUbDl6U1A5WUJOa2ZUSjl2czdHUFFBeGZZTzRnNXk3NnhqbzhGRW8wUzgySE0yczBYRGtJREtIZVF1eWZ0bUNOVWVxSGo2UmZINHRzbw?oc=5",
+    "published": "2026-07-28 00:24",
+    "timestamp": 1785165885,
+    "summary": "엔비디아가 오픈AI와 2,500억 달러 규모의 보증 계약을 협상 중이다."
   },
   {
     "company": "Meta",
@@ -232,6 +296,14 @@
     "summary": "삼성전자가 오픈AI와 동맹을 맺고 HBM 및 파운드리 분야에서 협력을 추진한다."
   },
   {
+    "company": "AMD",
+    "title": "[사이언스게시판] 과기정통부-AMD, 개방형 AI컴퓨팅 인프라 생태계 구축 협력 外 - v.daum.net",
+    "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFAzSWsxTFF4YkF6LXFaRjAyN1VKbV9mSVdLNTJvMXNFaWZJWG52Z0tFYTJ0ZFZ4bEFQYTE0aHA1eGxIdW1aZXRVYmdGMDNzbU0?oc=5",
+    "published": "2026-07-27 17:43",
+    "timestamp": 1785141817,
+    "summary": "과기정통부와 AMD가 개방형 AI 컴퓨팅 인프라 생태계 구축을 위해 협력한다."
+  },
+  {
     "company": "Broadcom",
     "title": "트럼프에 퀄컴 인수 막혔던 브로드컴…'脫엔비디아 핵심'으로 성장 - 네이트",
     "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFBSak1zc0R5VnE4a21kNXJKMGlEWEliYk9wcldCajcyVklTN2QxS2d3cEhOakVUWlA4QTR2QjZJMUI1VzV4Rkx3WGNJTW9iYm9aWF9v?oc=5",
@@ -248,12 +320,12 @@
     "summary": "과거 트럼프 행정부 시절 퀄컴 인수가 무산되었던 브로드컴이 엔비디아의 대안으로 성장하고 있다."
   },
   {
-    "company": "AMD",
-    "title": "[사이언스게시판] 과기정통부-AMD, 개방형 AI컴퓨팅 인프라 생태계 구축 협력 外 - 동아사이언스",
-    "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE9INktrbG9IM0RyaDNvcEFuN3BadUJOMVg2SllEWWl1YU1ocmJXUE5laWppVHZqZ0hxMzMzbHZDaDRqbjZvZFdLdmVqSXF5MEFwSS1ELQ?oc=5",
-    "published": "2026-07-27 17:41",
-    "timestamp": 1785141660,
-    "summary": "과기정통부와 AMD가 개방형 AI 컴퓨팅 인프라 생태계 구축을 위해 협력한다."
+    "company": "Google",
+    "title": "이재용·최태원, 샌프란 이어 나란히 시칠리아로…구글캠프 참석 - 연합뉴스",
+    "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE45bjBTR08tR0VUOHdTa05ieGVDZzBFSGlheWxUVjZZWkljaWtRVzd3U2oxajFMSVp1czhnT2FTaTc3eklxRU5xSmhybk9BbmlOUjFJOVlTS3JHNWREbVNxcdIBYEFVX3lxTE45bjBTR08tR0VUOHdTa05ieGVDZzBFSGlheWxUVjZZWkljaWtRVzd3U2oxajFMSVp1czhnT2FTaTc3eklxRU5xSmhybk9BbmlOUjFJOVlTS3JHNWREbVNxcQ?oc=5",
+    "published": "2026-07-27 17:17",
+    "timestamp": 1785140251,
+    "summary": "이재용 삼성전자 회장과 최태원 SK그룹 회장이 샌프란시스코에 이어 시칠리아에서 열리는 구글캠프에 참석한다."
   },
   {
     "company": "NVIDIA",
@@ -528,14 +600,6 @@
     "summary": "엔비디아가 오픈AI의 데이터센터 구축을 위해 2500억 달러 규모의 지급보증을 추진한다."
   },
   {
-    "company": "NVIDIA",
-    "title": "LG전자, 엔비디아 인증 획득…AI 데이터센터 '액체냉각' 솔루션 - 중소기업투데이",
-    "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5EWVZqWnlIQzF4X2EtbE5lRk5hbERfWmlfeUltVVdvUW9jSzhIY3NZODhuY05lWWFJVkttakJqdkx0ckZEOWMzV1htZDhuQnYwTjJIRnV3QWVVWHJ2RUFGZkkwMHhOY3N6MTNsLdIBbEFVX3lxTE5EWVZqWnlIQzF4X2EtbE5lRk5hbERfWmlfeUltVVdvUW9jSzhIY3NZODhuY05lWWFJVkttakJqdkx0ckZEOWMzV1htZDhuQnYwTjJIRnV3QWVVWHJ2RUFGZkkwMHhOY3N6MTNsLQ?oc=5",
-    "published": "2026-07-27 14:01",
-    "timestamp": 1785128468,
-    "summary": "LG전자가 엔비디아로부터 AI 데이터센터용 액체냉각 솔루션 인증을 획득했다."
-  },
-  {
     "company": "AMD",
     "title": "과기부-AMD, ‘GPU·NPU 결합 인프라 구축’ 협력…국내 연구센터 설립 - AI타임스",
     "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTFA5VTV1V2hGZ1NwUmhadVBGUmRVelp5aEthU01HU0FGemNVTXFPaXZBQ0gzX0JCcmdWVHlCTDMxT1p3V3ROWkcyYTR3bmpnMERfVkctTEYwU1dSdXhpNWtSNi1BaWY0UXRwOUE?oc=5",
@@ -558,14 +622,6 @@
     "published": "2026-07-27 13:18",
     "timestamp": 1785125880,
     "summary": "삼성전자와 SK하이닉스가 엔비디아를 거치지 않고 오픈AI 및 클로드와 직접 거래를 추진한다."
-  },
-  {
-    "company": "NVIDIA",
-    "title": "엔비디아, 美 초대형 AI 데이터센터에 350조원 금융 지원 검토 - 전자신문",
-    "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE1XdUZiSnlJSmlkeEtzam1pX0QwaFAySVl3aTdDT1hxZXI1RmJVM0VzbU15LVJBQnd6YV9ETGFoVzNJUXI1bjE4YlFqcm1nUQ?oc=5",
-    "published": "2026-07-27 13:12",
-    "timestamp": 1785125559,
-    "summary": "엔비디아가 미국 초대형 AI 데이터센터 구축을 위해 350조 원 규모의 금융 지원을 검토 중이다."
   },
   {
     "company": "Google",
@@ -616,14 +672,6 @@
     "summary": "한국은행이 AI 반도체 공급망이 엔비디아, TSMC, 삼성전자, SK하이닉스를 중심으로 재편되고 있다고 분석했다."
   },
   {
-    "company": "NVIDIA",
-    "title": "LG전자, ‘액체 냉각 솔루션’ 엔비디아 인증 획득 - 조선일보",
-    "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxORl85ZXc0Q2J6RTV3MGNLeERPNzBzUTl4NmpEekZHY3k5ZHFPbmtTOTJLUWdFY1cxUU9reUpjNGdTMUlZVDlBdFVaNDZJeHZ2LUV5Vm96NkVzcGhkeDEyODVZdVl5VUNhcWpGelRHZmttUUp0alZzdHZUd1NwRkU4MmkyNA?oc=5",
-    "published": "2026-07-27 11:58",
-    "timestamp": 1785121080,
-    "summary": "LG전자가 엔비디아로부터 액체 냉각 솔루션 인증을 획득했다."
-  },
-  {
     "company": "Siemens",
     "title": "Siemens advances self-verifying AI workflows for EDA - Siemens Newsroom",
     "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE52MzJMbHhhLWFqemJxZTY3WUsyZnFvV3FXcUtHQXJ6d05qZDU4eGE0cVVOckNUM2k4SE1DQlA1eEU4ZXJTRlRoMXZNdUJieFhFOWlVdllGT3c4aHVSejVvMFVtZERuQQ?oc=5",
@@ -654,14 +702,6 @@
     "published": "2026-07-27 11:28",
     "timestamp": 1785119304,
     "summary": "이재용 삼성전자 회장이 글로벌 빅테크 사교모임인 구글캠프에 참석했다. 미국에 이어 이탈리아에서도 AI 관련 행보를 이어간다."
-  },
-  {
-    "company": "NVIDIA",
-    "title": "엔비디아, 오픈AI '10GW 데이터센터' 구축에 365조 금융 보증 추진 - AI타임스",
-    "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1YakN1enk5anJEWUFOY0VtU2RIeTYyMmR2N0hWWlpDU0NEVE5oTTRWNHFlWkY1eW5CaWg1dHNJcGtubW9YRzBVclBMOUpremNXNXMzeGk3T2pQX1dfX1BBMTk0c3JhNVprcFE?oc=5",
-    "published": "2026-07-27 11:26",
-    "timestamp": 1785119160,
-    "summary": "NVIDIA가 오픈AI의 10GW 데이터센터 구축 프로젝트에 365조 원 규모의 금융 보증을 추진한다."
   },
   {
     "company": "Broadcom",
@@ -1078,6 +1118,14 @@
     "published": "2026-07-26 13:53",
     "timestamp": 1785041593,
     "summary": "퀄컴이 모바일 플랫폼인 스냅드래곤 855를 공개했다."
+  },
+  {
+    "company": "OpenAI",
+    "title": "이재용, 오픈AI 본사서 샘 올트먼 회동…AI·반도체 협력 - v.daum.net",
+    "link": "https://news.google.com/rss/articles/CBMiS0FVX3lxTFBLaXdUREJLelgxTWdvdTlEMEZjcWk0NTlTcnJuYUdjSjEtTE1SblA0STdRQ3JVVXlsSDkwZHd6V0JxUnJuN0xFVTNXUQ?oc=5",
+    "published": "2026-07-26 13:50",
+    "timestamp": 1785041411,
+    "summary": "이재용 삼성전자 회장이 오픈AI 본사를 방문해 샘 올트먼 CEO와 회동했다. 양사는 AI 및 반도체 분야에서의 협력 방안을 논의했다."
   },
   {
     "company": "Broadcom",
@@ -2720,14 +2768,6 @@
     "summary": "TSMC가 트럼프의 미국 내 생산 확대 압박으로 인해 수익성 측면에서 부담을 겪고 있다."
   },
   {
-    "company": "OpenAI",
-    "title": "OpenAI, AI 인프라 투자 7500억 달러로 상향…기업용 AI 플랫폼 출시 - 민심뉴스",
-    "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5VQ2RrZXZEQU50ZnU1QUh6MkVwcmp0NXhlaDZuR0FFQWFyZmNRcTU0bDJkQmxfZWRoOVBjYUlVNjkzNjZaa2lEcGxKS1FlNXJkUFBWNERJLUN5WWJZWUN0dW9XcGNINVFjaFVuQw?oc=5",
-    "published": "2026-07-23 09:14",
-    "timestamp": 1784765644,
-    "summary": "OpenAI가 AI 인프라 투자를 7500억 달러로 상향 조정하고 기업용 AI 플랫폼을 출시했다."
-  },
-  {
     "company": "리벨리온",
     "title": "[AI픽] 리벨리온, 국산 NPU로 SKT \"A.X K1\" 구동 성공 - RadioKorea",
     "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFA1WjNyZ3lvemwtcjF5eHJLQWZ0V1ZpclhOU09RT2JQZ1RITlROZE0zVHNmb2lGNlBJRVV6Uk8xcmJhZEkzYnc1NWxXVENYRHQ1QkdMZ1pmODhpM2ozYnI4?oc=5",
@@ -2846,14 +2886,6 @@
     "published": "2026-07-23 04:22",
     "timestamp": 1784748170,
     "summary": "아마존이 AI 조직 인원을 감축했다. 다만 AI 모델 구축은 여전히 중요한 과제로 유지한다."
-  },
-  {
-    "company": "Qualcomm",
-    "title": "[르포] 갤럭시 폴더블폰 언팩에 런던 들썩…퀄컴·구글도 지원사격 - v.daum.net",
-    "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE8yRkZRQXp1U3oxLXlPaEpKdU5Ha1I5bDNEeG84eFNXSVRGUU1mdmdyM0hYSnk0cHhzNG0xcjVYSnpZcmZPRFhKU0JwNTI0d2M?oc=5",
-    "published": "2026-07-23 04:05",
-    "timestamp": 1784747143,
-    "summary": "갤럭시 폴더블폰 언팩 행사에 퀄컴과 구글이 지원사격에 나섰다."
   },
   {
     "company": "Microsoft",
@@ -3016,14 +3048,6 @@
     "summary": "애플이 뉴로모픽 컴퓨팅을 가속화하기 위해 멤트랜지스터 기술에 주목하고 있다."
   },
   {
-    "company": "TSMC",
-    "title": "TSMC 파운드리 가격 10% 인상, 삼성전자 한진만 퀄컴 등 빅테크 추가 수주 잰걸음 - 비즈니스포스트",
-    "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE9RcEtXYVNQcDNJTzhNSWRQZFZuRXBkbXFsSHNOMkN3OGhBb3JYTGlfenJnNXhqYU1abHNqbTAzRVFPMGZSQm83YlRNS0x4SUdZWWpockJ6eE1hUUQ2NzZ0cGxGeldoNG4zSm5RcFNqZU9NWHM?oc=5",
-    "published": "2026-07-22 15:00",
-    "timestamp": 1784700036,
-    "summary": "TSMC의 파운드리 가격 인상에 따라 삼성전자가 퀄컴 등 빅테크 기업의 추가 수주를 위해 노력하고 있다."
-  },
-  {
     "company": "딥엑스",
     "title": "딥엑스, 에이수스 계열 에이온과 3년 양산 협력 협약 체결 - 아이뉴스24",
     "link": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE1pN0pRdWNqb1BlanR6c2NaQ0tVMWxneFg0R3E5d3J5YXRLSTZmdmNtbzJHSlYzZ2Nab3NnUEtib25xN0NrTEk3TzB0ZU4?oc=5",
@@ -3038,14 +3062,6 @@
     "published": "2026-07-22 14:08",
     "timestamp": 1784696931,
     "summary": "파두의 2분기 매출이 큰 폭으로 증가하며 실적 성장이 본격화되고 있다."
-  },
-  {
-    "company": "TSMC",
-    "title": "'TSMC도 가격 올린다' 내년 첨단·성숙 공정 최대 10% 인상 - v.daum.net",
-    "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE8ta3NxUldlZnJEOVdmRTgzdDlFcWtUdlE1SXNJNWRZcERqUExXaFV4bHc3aDYwZ0JnMFRiSVphR3BwejlHMzQxMTlSWVUxSmE2M2loTg?oc=5",
-    "published": "2026-07-22 13:29",
-    "timestamp": 1784694568,
-    "summary": "TSMC가 내년부터 첨단 및 성숙 공정의 위탁생산 가격을 최대 10% 인상한다."
   },
   {
     "company": "Siemens",
@@ -3398,14 +3414,6 @@
     "published": "2026-07-21 06:10",
     "timestamp": 1784581800,
     "summary": "삼성SDS가 퓨리오사AI의 AI 반도체 '레니게이드'를 기반으로 한 NPUaaS 서비스를 선보였다."
-  },
-  {
-    "company": "Google",
-    "title": "구글, 제미나이 품은 AI 서버칩 개발…전력효율 최대 10배 - 뉴스1",
-    "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5PQWYzSGlOVjk1QmNuOUl6VlJxRy1BTE5IZVFXYlJrcXIxVFI0WnFTVmItRnFWMWdzaC03WGFpb2dzSm1peGZZNWkwYk9KUnJpQ2xCd1UwcTItMVYwRjVkTGM2YkptRmM?oc=5",
-    "published": "2026-07-21 05:19",
-    "timestamp": 1784578746,
-    "summary": "구글이 제미나이를 탑재한 AI 서버용 칩을 개발했다. 해당 칩은 전력 효율을 최대 10배까지 개선했다."
   },
   {
     "company": "Silicon Motion",
@@ -6054,14 +6062,6 @@
     "published": "2026-07-08 08:40",
     "timestamp": 1783467600,
     "summary": "마이크로소프트가 오픈AI와 앤트로픽에 대한 의존도를 낮추고, 엑셀과 아웃룩 등 자사 서비스에 자체 AI를 탑재한다."
-  },
-  {
-    "company": "Microsoft",
-    "title": "마이크로소프트 中 AI 확장센터 논란 - 유스연합",
-    "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5Gc2V2aWZjWTZUT2VmM21Nc05QaUQ0TlVtMFZvVmdfRk5fRUE3d3dmeG1uWGJtYWFMNzl4N3JDcjhZdHB3NENSX2xReVdLbGdEdnc?oc=5",
-    "published": "2026-07-08 08:33",
-    "timestamp": 1783467202,
-    "summary": "마이크로소프트가 중국 내 AI 확장센터를 설립하는 과정에서 논란이 발생했다."
   },
   {
     "company": "Synopsys",
