@@ -1,11 +1,43 @@
 [
   {
+    "company": "AMD",
+    "title": "[기자의 눈] 만년 2위 AMD의 해법은 ‘삼성전자’ - 공공뉴스",
+    "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTFBoY2JScVZTcnNHRGtxRzVnRWFfejE0ZFBYXzctSVd0VWJscGt6Y1JfUzdkQ1RBSFBNZjBtTG1WNS1KRkpjb0xzUk8wRHQ4aTZsSWdpUmRQSWhZVGZKTmRfSkRWMVRrbGwtcWYxc0JB0gFuQVVfeXFMUGhjYlJxVlNyc0dEa3FHNWdFYV96MTRkUFhfNy1JV3RVYmxwa3pjUl9TN2RDVEFIUE1mMG1MbVY1LUpGSmNvTHNSTzBEdDhpNmxJZ2lSZFBJaFlUZkpOZF9KRFYxVGtsbC1xZjFzQkE?oc=5",
+    "published": "2026-07-30 02:46",
+    "timestamp": 1785347161,
+    "summary": "AMD가 사업 전략의 일환으로 삼성전자를 활용하는 방안을 모색하고 있다. 만년 2위인 AMD의 시장 경쟁력 강화를 위한 해법으로 삼성전자와의 협력이 거론된다."
+  },
+  {
+    "company": "AMD",
+    "title": "AMD’s Data Center Revenue Is Up 57% as Its AI Chip Business Takes on Nvidia - TIKR.com",
+    "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPeVBpYXFCc1QxVy1CTlA3SUN1dEY2UFRjalNMd2toV3NBT3gyTXZnS054Wlh1ejRTSHpYak9lSUFpazFQQXZNMzJlSzNrUjR6TE95S2FGa0tFTjBqV3FlVFlMSVJwU2d2TGNBZUtVMnV3Q2lwWERVSWVVSEpDc1M1T2JlRFZ4OXp0YmZWSDA1TFQ5TGZjdDhUbzJfZ1RnYzlQcFZBbzFn?oc=5",
+    "published": "2026-07-30 02:35",
+    "timestamp": 1785346526,
+    "summary": "AMD의 데이터 센터 매출이 57% 증가하며 AI 칩 사업 부문에서 엔비디아와 경쟁하고 있다."
+  },
+  {
+    "company": "AMD",
+    "title": "AMD, 라데온 RX 9050 그래픽 카드 출시 - 올포칩",
+    "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE0yYVNXOTdjcFJQNTR4aExCUUZpbXEtVi1BUFY5Tlo3S1dVRjA5Z3hCYm5lUy1LemE4LWZtc2ljeHdvUXkwUU85WktRRXBYWVJTZFV0ZFJweGwzcUgtcmhBbg?oc=5",
+    "published": "2026-07-30 02:17",
+    "timestamp": 1785345460,
+    "summary": "AMD가 새로운 그래픽 카드 제품인 라데온 RX 9050을 출시했다."
+  },
+  {
     "company": "Intel",
     "title": "CPU 모니터링 프로그램 오류로 인해 인텔 코어 i9-13900K의 온도가 155°C까지 상승했습니다. - GameGPU",
     "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOdnJ5WklkN0NTckFUemVWQVNxa0hiLURjdFFOU082MGlCYm1HeDlWbUtuejZfU0dNTEdKcHFxX1NHcTY1b3dkbzlUUjhQNW1JYjh6Wkk0TkRmWklBT1NhQ0VkZi1JQjVmQS02dW1FZkM2R2lvemQyeUg3SjcxYmFMRV94QWtnM0p1WTdzZjZZYWp2aXZJNTZHN2VuWGt4Wm1yTUUwUWlWdmhsMWhRU3RHbTdB?oc=5",
     "published": "2026-07-30 01:38",
     "timestamp": 1785343128,
     "summary": "CPU 모니터링 프로그램 오류로 인해 인텔 코어 i9-13900K의 온도가 155°C까지 상승하는 현상이 발생했다."
+  },
+  {
+    "company": "TSMC",
+    "title": "日 강진에 반도체도 흔들…\"TSMC 생산 재개에 일정시간 소요\" - 네이트",
+    "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1TVk9SZTVHRDdHSkdzMENTdWtaM0VrOFoyckotaUxqLXVPaDdDRVV1VFRwS002UFdvV2t3OV9kS0hKNVlCQVpIOEtfZW96OVptcUtYLXNCQjI5WHVGSHNyWA?oc=5",
+    "published": "2026-07-30 01:03",
+    "timestamp": 1785340980,
+    "summary": "일본 강진의 영향으로 TSMC의 생산 재개에 일정 시간이 소요될 예정이다."
   },
   {
     "company": "NVIDIA",
@@ -214,14 +246,6 @@
     "published": "2026-07-29 17:29",
     "timestamp": 1785313755,
     "summary": "AMD가 보급형 라데온 RX 9050을 발표했으며, 4GB 모델은 VRAM과 메모리 버스가 축소되었다."
-  },
-  {
-    "company": "AMD",
-    "title": "AMD, 라데온 RX9050 그래픽카드 출시 - 아이러브PC방",
-    "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE1LUVhLc2UtWDNVYld4SVJRZW1Wd2RJRk82OFVGelRGT1VPN2ZaWGtLX0VGNF9hN3J1LURoLXB0RFU2ajVlOVFKUkhRV2hPaXVlODBteEtOeWttM3dxdl85WExPaUNVajh3VGEzUWpmUQ?oc=5",
-    "published": "2026-07-29 17:08",
-    "timestamp": 1785312534,
-    "summary": "AMD가 라데온 RX9050 그래픽카드를 새롭게 출시했다."
   },
   {
     "company": "NVIDIA",
@@ -1304,6 +1328,14 @@
     "summary": "VAST Data와 AMD가 Instinct 제품군에서 KV 캐시 오프로드 기술을 통해 첫 토큰 생성 시간을 9배 단축했다고 발표했습니다."
   },
   {
+    "company": "Google",
+    "title": "이재용·최태원, 이탈리아 ‘구글 캠프’ 동반 참석… AI 반도체 협력 논의 전망 - 미디어워치",
+    "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE1ZZWEwY1ZwVHNCVkVEVHZ4U2FLSlFzSDl1aUgtOHJEYUxDSXZESmFjY202b0x1WnRIeTBLOWx3ZzRDdVZ5VENPTDJXaTRxREszbzJTSk5HMFpjTkR5bHc?oc=5",
+    "published": "2026-07-28 11:49",
+    "timestamp": 1785206948,
+    "summary": "이재용 삼성전자 회장과 최태원 SK그룹 회장이 이탈리아 구글 캠프에 동반 참석했다. 이 자리에서 AI 반도체 협력 방안이 논의될 것으로 보인다."
+  },
+  {
     "company": "모빌린트",
     "title": "모빌린트, “ISEC 2026 참가” AI 반도체 기반 차세대 보안 AI 솔루션 선보여 - 보안뉴스",
     "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE5ORlFmMHFzYVI5LTRiWW5mTmZMckJMUEx5TkFUVEI3TVpuZ2RQSDdUbnh0OTNhMGgtRk1wRUFHdFdxQ2lXWWxCODEzRG5sb3pYbkVEVzN5bWo1UEllRTRYSHVFXzlZTjFy?oc=5",
@@ -1464,14 +1496,6 @@
     "summary": "OpenAI가 자체 AI 칩을 공개하며 빅테크 기업들의 탈엔비디아 경쟁에 본격적으로 합류했다."
   },
   {
-    "company": "TSMC",
-    "title": "“AI 열풍 수년 더 간다”..TSMC, 대규모 투자 ‘승부수’ - dailycar.co.kr",
-    "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE56QS1LMkRHaEVtTFdsRm9keFVCZUREN2h2NllGdUc5aGJhQmFtcTF1cFZmRzJlMGpOeVR1QmxnMXhLUlpaV0gxUldiTHBJZFRqbXZrNzBPRFdUWVF0blpTODcxZTdWNDB1VjZjaVNJcVhNd0Z5aFE?oc=5",
-    "published": "2026-07-28 07:23",
-    "timestamp": 1785190980,
-    "summary": "TSMC가 AI 열풍이 수년간 지속될 것으로 보고 대규모 투자를 단행한다."
-  },
-  {
     "company": "Broadcom",
     "title": "\"삼성전자, 브로드컴과 협력은 시작일 뿐…주도권 잡았다\"[클릭e종목] - v.daum.net",
     "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE5jR0I1UFlzYWhDNnBFS215V0V4MnJRYXhvV21wT09KM1Z0WWhFTjZ6dXVkMmo2YVFIcll5MmdIRlF5LXVVZEdwNDM3U3dPYzQ?oc=5",
@@ -1558,14 +1582,6 @@
     "published": "2026-07-28 03:17",
     "timestamp": 1785176271,
     "summary": "콩가텍이 AMD 라이젠 AI 임베디드 X100 시리즈를 기반으로 한 COM-HPC 클라이언트 모듈 conga-HPC/cRX1을 출시했습니다."
-  },
-  {
-    "company": "AMD",
-    "title": "과기정통부-AMD, AI 반도체 생태계 협력 본격화... 이기종 AI 컴퓨팅 인프라 구축 나선다 - 테크데일리",
-    "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE9mTWJCMkczcGdCaVd4UVU4SnVvbGg5RzFPN0JicnZSSWl5aEJxdjdta0ZLTWVwWnlJMEgxVnAxaDNab3N1UWJZQXlzd3hNZFJqUXhnekpYWUR5VldfTlN5SFgxWS1HMnM5bHZBa2JGcGtCZ9IBckFVX3lxTE9mTWJCMkczcGdCaVd4UVU4SnVvbGg5RzFPN0JicnZSSWl5aEJxdjdta0ZLTWVwWnlJMEgxVnAxaDNab3N1UWJZQXlzd3hNZFJqUXhnekpYWUR5VldfTlN5SFgxWS1HMnM5bHZBa2JGcGtCZw?oc=5",
-    "published": "2026-07-28 03:15",
-    "timestamp": 1785176134,
-    "summary": "과기정통부와 AMD가 AI 반도체 생태계 협력을 본격화합니다. 양측은 이기종 AI 컴퓨팅 인프라 구축을 추진할 예정입니다."
   },
   {
     "company": "Qualcomm",
@@ -1662,14 +1678,6 @@
     "published": "2026-07-27 21:57",
     "timestamp": 1785157022,
     "summary": "애플이 중국 반도체 기업 창신메모리(CXMT)를 지원하며 삼성전자와 SK하이닉스에 도전장을 내밀었다. 14조 원 규모의 자금을 투입할 것으로 알려졌다."
-  },
-  {
-    "company": "AMD",
-    "title": "과기정통부-AMD, “‘개방형 AI 컴퓨팅’ 구축” - 애플경제",
-    "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE1ndVJ2anZpREpSXzhxM0pRLVFfUWJZb1ZzUzhYdVZGVU1KRE5MRFdhMFRpQUNwQVJ4ajZmai1OS1dUOVlyWXJWVFRvQzhOMXlIMkc3cTNYYlBwZWl5WnRVWGpHWFpuY1Zv?oc=5",
-    "published": "2026-07-27 21:02",
-    "timestamp": 1785153750,
-    "summary": "과기정통부와 AMD가 협력하여 개방형 AI 컴퓨팅 환경을 구축한다."
   },
   {
     "company": "Google",
@@ -3422,14 +3430,6 @@
     "published": "2026-07-23 07:59",
     "timestamp": 1784761140,
     "summary": "메타가 AI 운영 비용을 절감하기 위해 내부 라우팅 모델인 '스위치보드'를 개발했다."
-  },
-  {
-    "company": "Google",
-    "title": "구글 차세대 AI칩 일부, 삼성에 맡기나…2나노 파운드리 수주 기대 - 쿠키뉴스",
-    "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE5yWjdXcnFwazdQN0h0WlFIcDhBNE5BLU40VXoxQ3ZPVUFxT3pPMWZyZTl1WXpHS0lOcy0wNjIzeUQ0TF95bnB3YjNWMkh1NE44X1NlRTVWUW1BWkRKZkNwWWNXYw?oc=5",
-    "published": "2026-07-23 06:00",
-    "timestamp": 1784754005,
-    "summary": "구글이 차세대 AI 칩 일부를 삼성 파운드리에 맡길 가능성이 제기됨. 2나노 파운드리 수주 여부가 주목됨."
   },
   {
     "company": "Tesla",
@@ -7222,13 +7222,5 @@
     "published": "2026-06-30 04:28",
     "timestamp": 1782761311,
     "summary": "모빌린트가 대만 에이디링크 및 지택과 협력하여 글로벌 산업용 AI 시장을 공략한다."
-  },
-  {
-    "company": "자람테크놀로지",
-    "title": "자람테크놀로지, XGSPON 주문형반도체 13억 1천7백만 원 공급→글로벌 수출 기대 - MSN",
-    "link": "https://news.google.com/rss/articles/CBMiuwNBVV95cUxQY285Y19vajVwY0psYW8yenRqcE0tTXNMX3I4T0JNd0dFRTZCd0dhZDRQZjhVR2MzdlpBemlpel95U2FnMV9Ia3dKcWtlOEw5dFRFVzlIVUZxdW9TM05wazFaNFlyaC1EaVZGXzBNMUdJX3VvU1lxSEZVdEYwRHRqX2dVbWt5R2FJTEZtZHdFXzEtZWNkaFZMbHltbHA0V3dnd21tdHdqaTh3ajMxb0hHVThpSU5OdldxR0I5VkkwZG5PNWdMVkpqTVVRMXlfbElCY3RvTVQyelJrQkd5RzhPeUhDWHRCQVVqUGJKSklDaUlMMWRER3NuQ1lqcXktdDUyWXFzTVNwZkJZejFVUWVXdlVTWk5CaFlOZmtXOTQwQ29VbG1HZWxEOE1ack5OYjdUc2NMRzJGUzdmQVJnZkt1MHFqZDdPTVFTSzZhdEloNGRTcWl3MlY2cENiUjh1N2ZHSXpjcGVITndxSjIzMGg1OW5USmpFUzU2TGhscnJpdHd2blVRY3hWaUlmUnl5ZnV6U1FTRnVEcXFZZ1E0cmhpdE5GbF9kRFgwRFVXcjUzRGYzRG9BdFVRRnZfTQ?oc=5",
-    "published": "2026-06-30 03:31",
-    "timestamp": 1782757897,
-    "summary": "자람테크놀로지가 13억 1천7백만 원 규모의 XGSPON 주문형반도체를 공급한다. 이번 공급을 통해 글로벌 수출 확대가 기대된다."
   }
 ]
