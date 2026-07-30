@@ -1,11 +1,83 @@
 [
   {
+    "company": "Qualcomm",
+    "title": "메모리 값 상승에 퀄컴·삼성 스마트폰 실적 부진 - chosun.com",
+    "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNc1Rzd09ZR2YteGFhQUxEUkdpVDdfcGl1V01pQnNaX2pnMXBRNmY4Vl92em1FYmRveENVbFZWc0ZKaDctbDE2TmN2V2ZpUndqdFlUZUozeXpNV0Y2YlBiNzVsZXBRUkUwOXNFZXAwZnN5V3dCMWFucUNSbThpb3RwUl8tYw?oc=5",
+    "published": "2026-07-31 00:31",
+    "timestamp": 1785425460,
+    "summary": "메모리 가격 상승으로 인해 퀄컴과 삼성의 스마트폰 실적이 부진한 상황이다."
+  },
+  {
+    "company": "Intel",
+    "title": "인텔 문서에는 로봇 공학용 신형 팬서 레이크 칩에 대한 내용이 언급되어 있습니다. - GameGPU",
+    "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQZFMxVmtsQUJ5MktGalZxVmtlYXZTamlmQy03ZU1jTXM5cU43WWladkFkZl9IR1AyUTcxcXJXa1RMRVpRckFsaWx1a08zTGpQZ1c3REpQcW1WLTF3X2M3bENGQ2oyblR5dklRTFY4TG5oRUNmVW54Z0Q4dHd6YkhPaDU0UHNaaTZhc2k5b0JxR0ZISVh0WDM5SkNvNmdKSkZkUTdBM0txUENDRWxVWjVXU1k5T0tleWtMWDBPekpyME1nUk1y?oc=5",
+    "published": "2026-07-31 00:20",
+    "timestamp": 1785424846,
+    "summary": "인텔의 내부 문서에서 로봇 공학을 위한 신형 팬서 레이크 칩에 관한 내용이 확인되었습니다."
+  },
+  {
+    "company": "TSMC",
+    "title": "지진에 멈춘 구마모토 TSMC…“언제 가동 될지 모르겠다” - 중앙일보",
+    "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBDcXV4bGdKQzRRVDB2Nm9qOHlIUjE4WWhSclc5QmNBNGFVdDB2S3d3X0FLZ1JwaUE5ZE1nUTVlQ1daUERHYW1ndnNtR1h6QzI4UkZvaWdR?oc=5",
+    "published": "2026-07-31 00:13",
+    "timestamp": 1785424432,
+    "summary": "구마모토에 위치한 TSMC 공장이 지진으로 인해 가동을 멈췄다. 현재 정확한 가동 재개 시점은 불투명한 상태다."
+  },
+  {
+    "company": "파두",
+    "title": "파두, Macnica Galaxy Inc.와 SSD 공급계약 체결 - 톱스타뉴스",
+    "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE1qeDY3aVE0QWVmRVpJdWI5ZXF6V1RBLUt2TUZXOUdQTHRtWU9IRVJRSFAzeFNqM1B6WjRudWhFbVZBNmtDcUJHdWh2Z3Q4XzBmOGR3WVNTcS02bGNsMTBDNlg0b3VTVzdvdlFxYUY3amh0dw?oc=5",
+    "published": "2026-07-31 00:12",
+    "timestamp": 1785424333,
+    "summary": "파두가 Macnica Galaxy Inc.와 SSD 공급계약을 체결했다."
+  },
+  {
+    "company": "TSMC",
+    "title": "TSMC, 인텔 겨냥 ‘준 EMIB’ 개발…패키징 선택지 넓힌다 - 이코노미트리뷴",
+    "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE5GMlFId3dUMDdzOUJ3eVdBSVhaeUpBcElnLWRibDdPd2FOOWtXVFFPdl81M0g5U2NnYmk0OVFfckhkdzdKX1dvaS1YdS10QjliNlVjTVN1YVptbEoxeVZneHhKbEFFUFNQLUc1TzVmaEowUzJWZWhr?oc=5",
+    "published": "2026-07-30 23:42",
+    "timestamp": 1785422550,
+    "summary": "TSMC가 인텔을 겨냥하여 패키징 선택지를 넓히는 준 EMIB 기술을 개발했습니다."
+  },
+  {
+    "company": "NVIDIA",
+    "title": "GSK, 엔비디아 업은 AI 바이오텍에 1650억 베팅…왜? - 바이오북미디어",
+    "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFAtSWZZQTIyRXhXSXFHNjFWdG1NUFZFcDBYb2NfYkU3ckVVRTVlSXp4UjUzV2FqQURhMUFPYkIwcmkwUV9KZ3htSER0Y3UxY3NwV29zNg?oc=5",
+    "published": "2026-07-30 23:36",
+    "timestamp": 1785422160,
+    "summary": "GSK가 엔비디아의 기술을 활용하는 AI 바이오텍 기업에 1650억 원 규모의 투자를 단행했다."
+  },
+  {
+    "company": "LX세미콘",
+    "title": "이윤태 LX세미콘 대표, 대한전자공학대상 수상 | 1min요약 - 중앙일보",
+    "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE83ZXVaT0JxWlZOelpSaS10dkpFMzJtYzhkX0RUTWtLUDZTZ2ZMZ05KdGVDMXNMX0p3UFUwaEMxa1ZFODZRbldFNDViTE9DRGc0U1VaUlpQVFk2ZU0?oc=5",
+    "published": "2026-07-30 23:25",
+    "timestamp": 1785421509,
+    "summary": "이윤태 LX세미콘 대표가 대한전자공학대상을 수상했다."
+  },
+  {
     "company": "Apple",
     "title": "미 상원 초당적 압박…애플에 \"중국 메모리 CXMT·YMTC 퇴출시켜라\" - 블록미디어",
     "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE50MERpNU5LaXQyZkEzbGxVX1FrZF9GMDVkSW90eFJLN1dLTjNIS0V5T3ltMlRQYW4zWVVNR1l1enNKUXJuTWQ1THEtX0VUSTBFM0xwUjRPQzA?oc=5",
     "published": "2026-07-30 23:18",
     "timestamp": 1785421080,
     "summary": "미 상원이 애플을 향해 중국 메모리 제조사인 CXMT와 YMTC를 공급망에서 퇴출할 것을 초당적으로 압박하고 있다."
+  },
+  {
+    "company": "Intel",
+    "title": "인텔, 美 국방부 RAMP-C 프로그램 완료…방산 반도체 양산 체계 확보 - 매일경제 마켓",
+    "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5kUWJtdnlZa0FjNnZhZWs0RUlQNFd5M1dtdEtyM1Rkb1U1WTFjQXhoQ0ViLUdMX04tdjd6WVp1MTlBa1NKUi1nVXQ2UGlDWlBKU3c?oc=5",
+    "published": "2026-07-30 22:21",
+    "timestamp": 1785417698,
+    "summary": "인텔이 미국 국방부의 RAMP-C 프로그램을 완료하며 방산 반도체 양산 체계를 확보했습니다."
+  },
+  {
+    "company": "NVIDIA",
+    "title": "Hyundai Motor appoints ‘Samsung·Nvidia alumnus’ Kwon Jeong-hyun as head of Autonomous Driving Development Center - 경향신문",
+    "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE9LVW9HX0lMUzh4QXhiRG44OS1sdWRpUFJKb1VRZ2pBY1hXQnNrY1VYY2pKcC1GdWdaeHpWR25nTjdUd1JsalZybURGOXNnMmNGQ3dWd3FvRWlsTnlqV2c?oc=5",
+    "published": "2026-07-30 22:00",
+    "timestamp": 1785416400,
+    "summary": "현대자동차가 자율주행사업부장으로 삼성전자와 엔비디아 출신의 권정현 상무를 영입했다."
   },
   {
     "company": "Qualcomm",
@@ -22,6 +94,14 @@
     "published": "2026-07-30 20:59",
     "timestamp": 1785412740,
     "summary": "르네사스가 가와지리 공장의 생산을 8월 5일에 재개한다."
+  },
+  {
+    "company": "Silicon Motion",
+    "title": "실리콘모션, 2분기 매출 127% 급증…Ferri 솔루션 1,690% 폭발적 성장 - 매일경제 마켓",
+    "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE9fUVBRN0gzY3ZBWFJ2V2ZRSTBoeUNQMDlZZVJBcWZ2RFZWQUQwV3dxNDcwRlh2NDVtQVlIWXZENjhHQ2RxVlJ0a09SUWdwNUZUeGc?oc=5",
+    "published": "2026-07-30 19:20",
+    "timestamp": 1785406815,
+    "summary": "실리콘모션의 2분기 매출이 127% 급증했다. 특히 Ferri 솔루션 부문에서 1,690%의 폭발적인 성장세를 기록했다."
   },
   {
     "company": "NVIDIA",
@@ -182,6 +262,14 @@
     "published": "2026-07-30 15:42",
     "timestamp": 1785393720,
     "summary": "미국 정부가 글로벌파운드리스에 AI 데이터센터용 광반도체 개발을 위한 자금 3억 달러를 지원한다."
+  },
+  {
+    "company": "Apple",
+    "title": "美여야 의원들, 애플에 \"中 CXMT·YMTC 메모리 쓰지 마\" 서한 - 네이트",
+    "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE5CcGRPSWl4TUNWRGpzWHcwei16NExVWUVwMTZTTE5CckpOa2xHWG5TSDdrdmhVaXpZVEN4d3dtTW02VUJnVW5ab2VhVDc3bmpOZ2w4?oc=5",
+    "published": "2026-07-30 15:39",
+    "timestamp": 1785393540,
+    "summary": "미국 여야 의원들이 애플을 대상으로 중국 메모리 반도체 기업인 CXMT와 YMTC의 제품을 사용하지 말 것을 요구하는 서한을 보냈다."
   },
   {
     "company": "NVIDIA",
@@ -432,6 +520,14 @@
     "summary": "현대차그룹이 애플, 테슬라, 엔비디아 출신 인재를 영입하여 AVP본부 내 AI 드림팀을 구축했다."
   },
   {
+    "company": "파두",
+    "title": "파두, 美 'FMS 2026'서 AIDC 스토리지 병목 해법 제시한다 - 녹색경제신문",
+    "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5hWmEzS0IwQ2ZDSkdQYUFJbEZPQ0Nlc2wtQ2tXYUlsZTJWOWtoYU5vT1NDSVI3bEgtcDVNVzQxTjNqbGJzR2Z5ank4cFFKQXBNSXNNSnRadDd1Tm95WFBZUHVaZzJPaWM?oc=5",
+    "published": "2026-07-30 10:46",
+    "timestamp": 1785375979,
+    "summary": "파두가 미국 FMS 2026에 참가하여 AIDC 스토리지 병목 현상에 대한 해법을 제시한다."
+  },
+  {
     "company": "Samsung Foundry",
     "title": "삼성 파운드리 \"AI 매출 비중 10%→30% 급증\" [컨콜] - 네이트",
     "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE5UekNGSUtDX0FnN25hNlV5cFVHQXpSUWRsQ2trbGNoNkp1Y0xJekEzVFktZndMbUotOHY0R1VXMGhKbTBCYWpfRE9VS1F2NmVFZllN?oc=5",
@@ -526,14 +622,6 @@
     "published": "2026-07-30 09:36",
     "timestamp": 1785371760,
     "summary": "브로드컴이 VMware ESXi의 'VM 이스케이프' 취약점에 대한 패치를 발표했다. 해당 취약점의 CVSS 점수는 최대 9.3이다."
-  },
-  {
-    "company": "파두",
-    "title": "파두, Macnica Galaxy Inc.와 SSD 공급계약 체결 - 톱스타뉴스",
-    "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE1TN1BqekljQWZrMzgxOTlDRjF0d0pXVVljTlMzUnFuZGxXelZFemUwbnRCcm9pS2xIWmppbW9wa0M2YlNSUXllVG9oNk1yQzBwRG8ydzQ0MDREb0djR3htTkxWWW5NejQ4RG9QWDlEYlB5Zw?oc=5",
-    "published": "2026-07-30 09:34",
-    "timestamp": 1785371668,
-    "summary": "파두가 Macnica Galaxy Inc.와 SSD 공급 계약을 체결했다."
   },
   {
     "company": "Intel",
@@ -1248,14 +1336,6 @@
     "summary": "강진으로 인해 타격을 입었던 TSMC가 공장 가동을 재개했다."
   },
   {
-    "company": "NVIDIA",
-    "title": "대만, 첨단 AI칩 중국 밀반출 혐의로 엔비디아 직원 첫 구속 - AI타임스",
-    "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5ta21sQWxBQjhOMDh5eGF6aHNQNmlPUFFqWWIwX2NkdEdudFZRTzBmNzRKQlVJY0hFbFdIRHY1V2FpSzFGSXFPQlpyUEE1XzhKOTlveFZpSE9tMVlQVTdOY04xdE5idl9SZ1E?oc=5",
-    "published": "2026-07-29 13:27",
-    "timestamp": 1785299230,
-    "summary": "대만에서 엔비디아 직원이 첨단 AI 칩을 중국으로 밀반출한 혐의로 구속되었다. 해당 혐의로 엔비디아 직원이 구속된 것은 이번이 처음이다."
-  },
-  {
     "company": "Intel",
     "title": "인텔과 포티넷이 사이버 보안 솔루션 개발을 위해 협력합니다. - Vietnam.vn",
     "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPV0wxRkNTYWFtNFR5b1RxRWNLeVoySVZYSUVzdUVhYzBkZENpaEY2Z3dxQlRPbURTVmRMSGlQR2V1NXNfXzB4am1henZ0QldGYkN4X3RwdEVnRlRhNktpdWJONy05bWVkdTNEYm9mQ29teDVMbjYzeUVpN3c0aFhkVVJTS2U3T1Y3TGk4d0tn?oc=5",
@@ -1318,14 +1398,6 @@
     "published": "2026-07-29 12:11",
     "timestamp": 1785294707,
     "summary": "일본 구마모토 지역 강진으로 인해 토요타 생산라인과 TSMC의 공장 건설 작업이 일시 중단되었다."
-  },
-  {
-    "company": "NVIDIA",
-    "title": "엔비디아, AI 영상 92% 정확도로 식별하는 도구 발표 - 스타트업레시피",
-    "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE10aV9ybHR0RFNLZ3ZDZ09aVmRuVlVJbXFxOV9tMkJjMzlrMHZhdm5wNERWSF9QQ0lCZkM5Z1UwUXdyVzhYNzJ4Y3NEa0pKM1prWjJQZE1ZNnROMWozX2c?oc=5",
-    "published": "2026-07-29 12:00",
-    "timestamp": 1785294044,
-    "summary": "엔비디아가 AI를 활용해 영상을 92% 정확도로 식별할 수 있는 도구를 발표했다."
   },
   {
     "company": "AMD",
@@ -1638,22 +1710,6 @@
     "published": "2026-07-28 23:03",
     "timestamp": 1785247412,
     "summary": "Microchip Technology가 인프라 보안 우려에 대응하여 UTC(k) 타이밍 대안을 공개했다."
-  },
-  {
-    "company": "TSMC",
-    "title": "TSMC \"구마모토 공장 직원 전원 안전 확인…운영 점진 재개\" - 뉴스1",
-    "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE1heHFDWDRFMVFGMzhfRnhrNjRuRHB4Rl9mcklTZ18wZU5Ld2FTZnpxRW5yOWxaWGZLRkRJRU5SWDZnQjFjNWpmZGt3MnBYRUlnbFdoc0dnVXVlQXo2NXc?oc=5",
-    "published": "2026-07-28 23:01",
-    "timestamp": 1785247296,
-    "summary": "TSMC는 구마모토 공장 직원 전원의 안전을 확인했으며, 예방 차원에서 중단했던 공장 운영을 점진적으로 재개하고 있다."
-  },
-  {
-    "company": "TSMC",
-    "title": "강진 덮친 구마모토 TSMC 공장…日정부 “피해 보고 없어” - 중앙일보",
-    "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBxbmJfUW81djA3YWJ6enBKelRkOHB5TWh3amJLV290bHQ0Zzc3T1U2N19NOEFvSEY1ODg3X09fZEVJZ3liMXhJaVhmOHZMVW1fWXE0ZDRn?oc=5",
-    "published": "2026-07-28 22:07",
-    "timestamp": 1785244058,
-    "summary": "일본 구마모토 지역 강진 발생으로 TSMC 공장 피해 여부가 주목받았으나, 일본 정부는 현재까지 피해 보고가 없다고 밝혔다."
   },
   {
     "company": "AMD",
@@ -2248,14 +2304,6 @@
     "summary": "앤트로픽이 삼성전자 및 SK하이닉스와 반도체 공급 계약을 체결했다. 해당 계약이 메타발 반도체 악재 해소에 미칠 영향이 언급되었다."
   },
   {
-    "company": "Intel",
-    "title": "시노프시스, 인텔 14A 노드용 칩 디자인 툴 인증 - Unite.AI",
-    "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPbDdqM1VvbmRCSnc0bTRWRDJzdWx3MmJlUTFmSkdVb25fbDUzT0R0YWFIc0tXV2VPRmdNSnJrOWpMcEZOSGtSb21EaHdYWWdwam5KTlhkZ2JlMS1ONW11NDVYRmd1QUZKUHlHUmJwTGpWcElJeXotZ1J5YjU1MVlzUVMteENxUFJzWnE5VQ?oc=5",
-    "published": "2026-07-27 23:44",
-    "timestamp": 1785163498,
-    "summary": "시노프시스가 인텔의 14A 공정 노드용 칩 디자인 툴을 인증했다."
-  },
-  {
     "company": "Apple",
     "title": "중국 반도체 제조사 CXMT, 상장 첫날 500% 폭등에 애플의 러브콜까지 - Benzinga",
     "link": "https://news.google.com/rss/articles/CBMi2gJBVV95cUxNZ21JMnRMMjB6blNXbjdPYUxidC1hWWo5eEhNeDJJWm9fU203blBqX3dxYWlWNlN6b3pZd3c3RzdCVnYtQlNSdWJjQlRwYk0zc0dnZ2J2VUU4NFlzVE1XQzZDSUtkcEtWRUtNX0xtVWZUazRJMXBBQmtFR3VCeEdHWk44NHdDc0MzX25lVzFROFNQbjd3Ynl5X1VjOWNmYVp2V0JtUnlVMHlVRm1vbEJxNFhNRzB5NElLRDRrcnd2ZElyejNDdEVCNmRlTjlfU1h4RHZlS2hXcTJfVVhPTTAzUmU2WVQ3ZWdnd1ZiLVJVWWVqSEYxNG5CYzlCdmxNZEhrV0pFUXVEcENkSllLWlFacDdZOTBSVVRDTE41NllRZS0zTzhjZ0VudU1IYllHeWJScGN1R0ZfWTRYUzFTZE82YUVQel96UjA4WmloZGlEUjBRblFleUpHSlBR?oc=5",
@@ -2318,14 +2366,6 @@
     "published": "2026-07-27 18:35",
     "timestamp": 1785144902,
     "summary": "알파칩스가 임직원 33명을 대상으로 14만 5,382주의 스톡옵션을 부여했다. 해당 스톡옵션의 행사가격은 9,728원이다."
-  },
-  {
-    "company": "Intel",
-    "title": "삼성전자·인텔 파운드리, 수율 높이고 고객 늘리고…반등 신호탄 - ER 이코노믹리뷰",
-    "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE15REhKZmFMNHpHM1dMNGRGN0dKMUpMLVk0aTBUWXZTeGNEUDk5bHBxa25wR2RUM2E5M0JUeVgycEszR0ItbzJiUWR5Y19vbUNNbzlUX0kwZ3BqS1V1V0RRR0dvSjR5a2VrbTM4MA?oc=5",
-    "published": "2026-07-27 18:29",
-    "timestamp": 1785144553,
-    "summary": "삼성전자와 인텔이 파운드리 사업에서 수율을 개선하고 고객사를 확보하며 반등의 신호탄을 쏘아 올렸다."
   },
   {
     "company": "Meta",
@@ -2406,14 +2446,6 @@
     "published": "2026-07-27 16:07",
     "timestamp": 1785136063,
     "summary": "삼성전자가 AMD에 이어 브로드컴의 수주를 확보하며 AI 반도체 생태계를 확장하고 있다."
-  },
-  {
-    "company": "Qualcomm",
-    "title": "퀄컴, 부품난 속 제품 가격 두자릿수 전격 인상 - 머니네버슬립",
-    "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTFBwdVBQamxyTVlWazRMWGNKcUR6RkVDRWtUSXBuV1JUNG51TGwxR2tBbm9zV1Nac1ZxVEJwbVdUblgtaUdNbElGMDRvN09US0NrUzRpVU9wV0NPOWZIeUx4LWxlYWxiRTczR2F3Q3VfN01WS2hoVlcw0gF3QVVfeXFMUHB1UFBqbHJNWVZrNExYY0pxRHpGRUNFa1RJcG5XUlQ0bnVMbDFHa0Fub3NXU1pzVnFUQnBtV1RuWC1pR01sSUYwNG83T1RLQ2tTNGlVT3BXQ085Zkh5THgtbGVhbGJFNzNHYXdDdV83TVZLaGhWVzA?oc=5",
-    "published": "2026-07-27 16:00",
-    "timestamp": 1785135600,
-    "summary": "퀄컴이 부품난 속에서 제품 가격을 두 자릿수 인상했다."
   },
   {
     "company": "OpenAI",
@@ -2942,14 +2974,6 @@
     "published": "2026-07-26 02:13",
     "timestamp": 1784999610,
     "summary": "이재용 삼성전자 회장과 샘 올트먼 오픈AI CEO가 오픈AI 본사에서 회동했다. 양측은 파운드리 협력 방안을 논의했다."
-  },
-  {
-    "company": "Apple",
-    "title": "애플, 중국산 메모리 도입 추진…마이크론과 갈등 - 글로벌이코노믹",
-    "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOTGo4NGRGSEhjd0ZrWTZNbGlSbXRCZzhhbXpBa1NXc2RmN1dYamxpaFpSbHJhXzV1NUpFcEdUR3VtX1dBczhDcXdDZ0x3Q0dKX0FpRGFXY2pVNTNXSnYxeFpxdlpuVWR6S3lOd2l5Qm56ak1yY1VIS25tcWY5al9za3F6RUVPSXcz?oc=5",
-    "published": "2026-07-25 21:46",
-    "timestamp": 1784983606,
-    "summary": "애플이 중국산 메모리 도입을 추진하며 마이크론과 갈등을 빚고 있다."
   },
   {
     "company": "Microsoft",
@@ -5992,14 +6016,6 @@
     "summary": "파두가 해외 낸드플래시 메모리 제조사와 420억 원 규모의 계약을 체결했다. 이는 전년 매출 대비 45.52%에 해당하는 규모이다."
   },
   {
-    "company": "파두",
-    "title": "파두 수주공시 - 기업용 SSD 컨트롤러 공급 420.7억원 (매출액대비 45.52 %) - 네이트",
-    "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE9ZNWJEcnVYMmxlYlJ1ZWYzd0g4cjJhZ1F2bktPQThqZmZkSm5nVnZYMTdDdUUwekZWVGZWc21oZkFITUUwUFUxZFlnLWJhX2FWcmtYdFRMcmNtTGttSmx1YUYzbVY4bHNkM1ZLcmRUWGJKU2ZzQ0JOTw?oc=5",
-    "published": "2026-07-10 15:06",
-    "timestamp": 1783663560,
-    "summary": "파두가 기업용 SSD 컨트롤러 공급 계약을 체결했다. 계약 금액은 420.7억 원으로, 이는 매출액 대비 45.52%에 해당하는 규모이다."
-  },
-  {
     "company": "Groq",
     "title": "스페이스XAI-커서 협력 '그록 4.5' 출시...코딩·에이전트 특화 AI 모델 - 헬로티",
     "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE43VXBWUXVKZmFtcldNSE03dUY1UW1WbXU2YXV1Z0NOS19LY3NSUDVEYW9wTWVxN0pfQzJBQk9IaHhDM2VwamJjWllvNTM4d05pQzhLNXlQZWpJZTZnM0U0?oc=5",
@@ -7278,13 +7294,5 @@
     "published": "2026-07-01 05:13",
     "timestamp": 1782850385,
     "summary": "래티스 세미컨덕터가 11억 5000만 달러 규모의 신용 계약을 체결했다. 이번 자금은 AMI 인수 등에 사용될 예정이다."
-  },
-  {
-    "company": "Microchip",
-    "title": "마이크로칩, ‘한국 마스터즈(MASTERs) 컨퍼런스 2026’ 등록 시작 - 올포칩",
-    "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE4wTmxmUkVFWWVWYTNGY19vVlFLWDAwNWlXUzVaamc2VTFNenNaYkcyMUlpbTdSeGdCNkw4OHcyU1hMMmsxbThtOUpSS3kzaThBSi1IWmhVYVZUZDJSZ01LQmUwcGlXZw?oc=5",
-    "published": "2026-07-01 02:36",
-    "timestamp": 1782841013,
-    "summary": "마이크로칩이 '한국 마스터즈(MASTERs) 컨퍼런스 2026'의 참가 등록을 시작했다."
   }
 ]
