@@ -1,5 +1,21 @@
 [
   {
+    "company": "Tesla",
+    "title": "1.4나노 앞서는 TSMC…삼성이 '2나노 테슬라 카드' 꺼낸 이유 [글로벌 모닝 브리핑] - 네이트",
+    "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE1SVGlfYXBlLTBqRmVQX1V6cWIzX2g5a0t0VFlOZVFWeS0tRGUxcVNpY2psYy1MNlQ2T0trVHJMNGpvNDNLeXcyUzZRWW50aDJsMVlj?oc=5",
+    "published": "2026-08-01 06:01",
+    "timestamp": 1785531660,
+    "summary": "TSMC가 1.4나노 공정에서 앞서가는 가운데, 삼성이 2나노 공정 수주를 위해 테슬라를 대상으로 전략을 펼치고 있다."
+  },
+  {
+    "company": "TSMC",
+    "title": "강진 맞은 '실리콘 아일랜드' 속속 재가동···TSMC·소니는 점검 중 - 네이트",
+    "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE1PRE1jX0VmV05aUlRUUXFDaVA2Z05ESW5RV0RBd24xdHRDbzRpYjR1SmVJeXhZV1BkeWVWLVZTVWs2VENwOHNYd0V4NXRpOWIycGFz?oc=5",
+    "published": "2026-08-01 05:31",
+    "timestamp": 1785529860,
+    "summary": "강진으로 인해 실리콘 아일랜드 내 주요 시설들이 재가동에 들어갔으나, TSMC와 소니는 현재 시설 점검을 진행하고 있다."
+  },
+  {
     "company": "TSMC",
     "title": "젠슨황, TSMC에 웨이퍼 추가 주문…한국 GPU 공급시계 빨라지나 | 1min요약 - 중앙일보",
     "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFB2SFYxd2g2RmtHLVJXdDVVN19CT0xhMFZvbW41TG5rV3pGUFlLdjdGMXRFT3FpcjI4dThjaF9wdXVWSkdHYnAwcWIxSTZLaE1rSWNDbEdNNGVOb00?oc=5",
@@ -14,6 +30,14 @@
     "published": "2026-08-01 03:05",
     "timestamp": 1785521100,
     "summary": "문샷 AI가 알리바바를 통해 엔비디아 칩 2만 개를 활용하고 있다. 이는 미국의 규제를 우회한 사례로 언급되었다."
+  },
+  {
+    "company": "Kioxia",
+    "title": "키오시아의 새로운 UFS 5.0 임베디드 플래시 메모리 장치 온디바이스 AI 지원 - 스포츠 피플 타임즈",
+    "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE1QRkdOZG1xdTFoRDBxUGl1d2syc2QwdzRqeDRIYmRQSGNsc0hEUVd1UFNXM3B1T2JCVGJ6eWpITVNLdzdwaGN4UDhFRXNzY2diZXhlQ3dzMWVvYktXVFZoVlp1YkNkQjRuQ0pENER4RDVhVmZfUFZF0gF3QVVfeXFMTVBGR05kbXF1MWhEMHFQaXV3azJzZDB3NGp4NEhiZFBIY2xzSERRV3VQU1czcHVPYkJUYnp5akhNU0t3N3BoY3hQOEVFc3NjZ2JleGVDd3MxZW9iS1dUVmhWWnViQ2RCNG5DSkQ0RHhENWFWZl9QVkU?oc=5",
+    "published": "2026-08-01 02:48",
+    "timestamp": 1785520119,
+    "summary": "키오시아가 온디바이스 AI를 지원하는 새로운 UFS 5.0 임베디드 플래시 메모리 장치를 선보였다."
   },
   {
     "company": "STMicroelectronics",
@@ -54,14 +78,6 @@
     "published": "2026-07-31 22:32",
     "timestamp": 1785504770,
     "summary": "AMD FSR 프레임 생성 기술이 엔비디아 DLSS FG의 부드러움에 미치지 못한다는 평가이다."
-  },
-  {
-    "company": "Kioxia",
-    "title": "키오시아의 새로운 UFS 5.0 임베디드 플래시 메모리 장치 온디바이스 AI 지원 - 스포츠 피플 타임즈",
-    "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTFBtRzBjMllwWHZLeXdUODNEQzJIc1o4V21vaXlYeW0yaHNPdzd0bUNRVXBPSU1LNjRvekZCYXdPOThWd09vbF9XejVqM3Y3SW1nOFYyWlE5alZBUXRLXzZ5RFZ6dEVJUndaTHItbTJlaUIyYk3SAXdBVV95cUxNUEZHTmRtcXUxaEQwcVBpdXdrMnNkMHc0ang0SGJkUEhjbHNIRFFXdVBTVzNwdU9iQlRienlqSE1TS3c3cGhjeFA4RUVzc2NnYmV4ZUN3czFlb2JLV1RWaFZadWJDZEI0bkNKRDREeEQ1YVZmX1BWRQ?oc=5",
-    "published": "2026-07-31 22:07",
-    "timestamp": 1785503220,
-    "summary": "키오시아가 온디바이스 AI를 지원하는 새로운 UFS 5.0 임베디드 플래시 메모리 장치를 선보였다."
   },
   {
     "company": "NVIDIA",
@@ -801,11 +817,11 @@
   },
   {
     "company": "파두",
-    "title": "파두, 美 'FMS 2026'서 차세대 Gen6 SSD 실물 최초 공개 - 아이뉴스24",
-    "link": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE9VUnNmdlNoWldvR0Q3Yk56MTFGTHhIUk41LXZfTVFfeDdESjN6YXFza0R0V2taMUpqU2w3blZmNU9IbzZ2RWpFc1BjTQ?oc=5",
-    "published": "2026-07-31 06:35",
-    "timestamp": 1785447332,
-    "summary": "파두가 미국에서 열린 FMS 2026 행사에 참가하여 차세대 Gen6 SSD 실물을 최초로 공개했다."
+    "title": "파두, 美 'FMS 2026'서 차세대 Gen6 SSD 실물 최초 공개 - v.daum.net",
+    "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFBVRGI5RHJBN1BtWk1ZekhYcjFkOFBXZFBVUnRKOTNXbXVXUFV1MG1Ea0ZqU3NfSGhaQi1SalVpZFg4cFItVkxPc0x5WlM5UFJHZ2pBLQ?oc=5",
+    "published": "2026-07-31 06:37",
+    "timestamp": 1785447448,
+    "summary": "파두가 미국에서 열리는 'FMS 2026' 행사에 참가하여 차세대 Gen6 SSD 실물을 최초로 공개한다."
   },
   {
     "company": "동운아나텍",
@@ -1958,14 +1974,6 @@
     "published": "2026-07-30 00:10",
     "timestamp": 1785337853,
     "summary": "강진 여파로 TSMC 구마모토 공장의 생산 재개가 지연되고 있다. 성숙 공정 중심이라 삼성의 반사이익은 크지 않을 것으로 보인다."
-  },
-  {
-    "company": "TSMC",
-    "title": "TSMC \"日 구마모토 공장 장비 조정에 일정 시간 소요\" - 뉴스1",
-    "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE1PYzdxTjg3SmJoaWVFRDFNbEVwMkF0S29NS0doSDBTczctUDdsallWbnlsbXpsUllYcWRVSXgyVWp5S1M3cFRPekFDaVg1OVUyMWZ6TW94dHRmbGFwSHc?oc=5",
-    "published": "2026-07-29 23:54",
-    "timestamp": 1785336865,
-    "summary": "TSMC는 일본 구마모토 공장의 장비 조정에 일정 시간이 소요된다고 밝혔다."
   },
   {
     "company": "Apple",
@@ -5862,14 +5870,6 @@
     "published": "2026-07-14 09:00",
     "timestamp": 1783987230,
     "summary": "픽셀플러스가 육군 교육용 드론에 고성능 이미지센서를 공급한다."
-  },
-  {
-    "company": "Tesla",
-    "title": "삼성, 텍사스 공장에서 테슬라 AI5 칩 생산 준비 - VOI.id",
-    "link": "https://news.google.com/rss/articles/CBMiQkFVX3lxTFAwN29XUGUtSHRZOTBSVkFDSlBnTU15NW4tUlZhRTNJSmVOalBkT2JUM1gzSi1MM3cteDVjMjJiYmd0QdIBQkFVX3lxTFAwN29XUGUtSHRZOTBSVkFDSlBnTU15NW4tUlZhRTNJSmVOalBkT2JUM1gzSi1MM3cteDVjMjJiYmd0QQ?oc=5",
-    "published": "2026-07-14 08:59",
-    "timestamp": 1783987196,
-    "summary": "삼성전자가 텍사스 공장에서 테슬라의 AI5 칩 생산을 준비하고 있다."
   },
   {
     "company": "Meta",
