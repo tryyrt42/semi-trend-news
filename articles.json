@@ -1,5 +1,37 @@
 [
   {
+    "company": "Intel",
+    "title": "인텔, EMIB-T 수율 90% 근접… 기판 50%가 발목 - 글로벌이코노믹",
+    "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPVnFkNW1tYV9IMVNydXFRal9xWWw4WTNORmZTVjlLMjd3eEpSWmo4SC05TUNUS2Rmc2N1ZjdBenN6YnRnYk1TYnp0SmtoX1pqaEw0c2FHV0VfX19oMGNZLXNjb19hWHVjSEFZTEhmSzFXWUcyMlpNZko4QU5oUWFkbzBsZkI3NGcx?oc=5",
+    "published": "2026-08-03 03:05",
+    "timestamp": 1785693900,
+    "summary": "인텔의 EMIB-T 수율이 90%에 근접했다. 다만 기판 문제가 수율 확보의 걸림돌로 작용하고 있다."
+  },
+  {
+    "company": "Intel",
+    "title": "리눅스 커널 7.3 업데이트는 새로운 인텔 스타파이어 프로세서에 대한 식별자를 추가할 예정입니다. - GameGPU",
+    "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPOVBZcVRzdld0MjMyZmlUaFZYWlRYeUZJS1ZvTTJIOVg0N3JIMTE5cEpzZzJYbUxKTUZMaDJ2S3FHTmNSNVd0UDlCOXpfQVA3NDBNbWI2alp4TVd3SV9YZ0ZqYlBsTlRjckloSm85Z3JaZ2x6NnB2bVlEVnQtZW9LaFJ3LWcxUTkxai1VM3ItcXhMVTJSMTVwNi1jdUhiNlF6UkZ3RkdCREZqMVJqNHo0TDd2VEV4eS1GSDk1cndMNlI4QQ?oc=5",
+    "published": "2026-08-03 02:23",
+    "timestamp": 1785691392,
+    "summary": "리눅스 커널 7.3 업데이트에 새로운 인텔 스타파이어 프로세서 식별자가 추가될 예정이다."
+  },
+  {
+    "company": "AMD",
+    "title": "AMD의 활용 사례 Radeon RX LSFG 프레임 생성을 위한 9050 - GameGPU",
+    "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxObmU0XzRQRFJ2OXAyTlhqMlVIWEhiaWh0ZVU3WTZjd0hXZEVraFVXVklIQ19sSHhtQXR2OURHZ05NUVR3UnpoamZ3dEdXSEFzamQ2OHRZaDZrbHcwZUVKNjF6b013dEtsTTJHaGlhS2pVWnNGUmItNFVfU1YwOFZZdDZvWU5UM3dGTUU0WF9udkhEX1dvRTNsWTBiYWJOcWJ3OGk2bzZSUU1CTE91?oc=5",
+    "published": "2026-08-03 02:11",
+    "timestamp": 1785690689,
+    "summary": "AMD의 Radeon RX 그래픽카드에서 LSFG 프레임 생성 기술을 활용하는 사례에 관한 내용이다."
+  },
+  {
+    "company": "Intel",
+    "title": "인텔, 초대형 AI 칩 패키징 핵심 기술 확보… 24배 레티클 시대 연다 - 위클리포스트",
+    "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE1CWXFZbHJvSGxRUkk4ajgtR3JuZzFydjZERUl1NVJwRHJ5Ynk4bmhpOGRWaU1KVnlKd3JiTHpJTENMS3FIMmx1SGxUd3o0ZDFKbDU1UUExM0dpRlRST0ZsaXhac1E3WlBya05V?oc=5",
+    "published": "2026-08-03 02:10",
+    "timestamp": 1785690652,
+    "summary": "인텔이 초대형 AI 칩 패키징 핵심 기술을 확보했다. 이를 통해 24배 레티클 시대를 열 계획이다."
+  },
+  {
     "company": "Microsoft",
     "title": "[김대호 진단] 반도체 열전 (26) MS 마이크로소프트...코파일럿 \"애저의 꿈\" - 글로벌이코노믹",
     "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxObmJFU3hFSngyeTZBcFVVOHNPNFAyQnRVc2VNSVI2Q0NxRmZ4dDZCOFJpUW9qZDZOX3hfcmIxc2tkMFdZQnZsNW5ORmJmZG5vM0ZSaGw2V1lXT3JKbjhneGhGYUo0S21PZTJwN0VQajNVMEJXUjRycGFmeVFqMXZ4X2p5bU8?oc=5",
@@ -14,6 +46,14 @@
     "published": "2026-08-02 23:19",
     "timestamp": 1785680340,
     "summary": "애플이 중국산 칩 사용과 관련하여 겪고 있는 딜레마를 다룬 기사이다."
+  },
+  {
+    "company": "Apple",
+    "title": "애플의 딜레마 ‘중국산 칩’ [횡설수설/김창덕] - 동아일보",
+    "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE5pVWhURkhobkFYRTNlT0hYRlgyMVc0ZG92b1hQTl96b3dQeHltbXJtdjZvTlBmc1BqbTJBdzdHZG95N3ZCTXlfQlF0YlhQeXJScGhUZ3YwbDUxc1h6Zy1yekZNZlE3bDVIQTBpYmpvLTM3RjI4UmfSAWZBVV95cUxPX0RkSXpmM2dYS0xLcGx1b2lZSmZLbFpacnA3TjRrUk5iQ3YxaXRRNUhqbDZULWhyUkgtSmh4RzBld3M1blFCOFhESGY1dU5BYThWa19KT2FwS1M3Y01CbWVSaEd2M1E?oc=5",
+    "published": "2026-08-02 23:18",
+    "timestamp": 1785680280,
+    "summary": "애플이 중국산 칩 사용과 관련하여 겪고 있는 딜레마를 다루고 있다."
   },
   {
     "company": "Qualcomm",
@@ -2672,28 +2712,12 @@
     "summary": "가온전선이 메타와 구글의 공급망에 진입하며 사상 최대 실적을 달성했다. 이를 통해 가온전선의 성장 공식이 입증되었다."
   },
   {
-    "company": "Intel",
-    "title": "인텔, 美 국방·우주용 차세대 반도체 전략 공개…'18A 공정'으로 AI 엣지 컴퓨팅 혁신 - 인공지능신문",
-    "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9Kc3ZrdDlEZ2hoZEJ4YlI5aVVvbTBQSnpxUFAtRnVVMng2NmVpRHZRX1lzX3lfMWVONGV5OEw2cXhGUDNncjk1WW5neGR0MHJYSDNNNkxTNjd5M2M0dXFaNnNXVzF2OVk?oc=5",
-    "published": "2026-07-29 16:25",
-    "timestamp": 1785309952,
-    "summary": "인텔이 미국 국방 및 우주용 차세대 반도체 전략을 공개했다. 18A 공정을 활용해 AI 엣지 컴퓨팅 혁신을 추진한다."
-  },
-  {
     "company": "모빌린트",
     "title": "모빌린트, ISEC 2026서 NPU 기반 보안 AI 솔루션 공개 - e4ds news",
     "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTFBXTTM4eVVoUU42a0s0NlEyV2RsYkFzX0NvTmFYMHNfMDJPZGpNNmh4bnh4cEdUTXE5ZWYtcGZsZmpVbGUyUVBnVnBxOUNGM084aS1zX19MZ25LUENRQi00Q0VyVQ?oc=5",
     "published": "2026-07-29 15:03",
     "timestamp": 1785304980,
     "summary": "모빌린트가 ISEC 2026에서 NPU 기반의 보안 AI 솔루션을 공개했다."
-  },
-  {
-    "company": "Intel",
-    "title": "인텔, '시큐어 엔클레이브'로 전술 엣지 컴퓨팅 시대 연다 - 테크데일리",
-    "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE5hUXlmX1NtQnBOc2xETW9lNnkyc3RhblZwTlR5ak0xZWpGNnBZTUl6d3paVjJNT2hha0pQTEJwbURENmNZVmRyM084TUxDZ3VpbUQxODFQTTZOQ0RPUGRNdjBsNWl1eTZhY1UtdTJzQjJpd9IBckFVX3lxTE5hUXlmX1NtQnBOc2xETW9lNnkyc3RhblZwTlR5ak0xZWpGNnBZTUl6d3paVjJNT2hha0pQTEJwbURENmNZVmRyM084TUxDZ3VpbUQxODFQTTZOQ0RPUGRNdjBsNWl1eTZhY1UtdTJzQjJpdw?oc=5",
-    "published": "2026-07-29 15:01",
-    "timestamp": 1785304902,
-    "summary": "인텔이 시큐어 엔클레이브 기술을 통해 전술 엣지 컴퓨팅 시대를 연다."
   },
   {
     "company": "AMD",
@@ -2710,14 +2734,6 @@
     "published": "2026-07-29 14:34",
     "timestamp": 1785303263,
     "summary": "AMD가 279달러 가격의 라데온 RX 9050을 출시했다. 해당 제품은 92W 전력으로 1080p 게이밍을 지원한다."
-  },
-  {
-    "company": "Intel",
-    "title": "고급 기능으로 무장한 인텔 B860M 메인보드, MSI MAG B860M 박격포 WIFI - 케이벤치",
-    "link": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE4xallMZjBFUEhkcUFHSVdMMEwzNmFpM25SRF9lOTI0c1p6Tl92UnlSZ0VyeEhOdmIxNk9xSlJIV3VCdExRMVhHRA?oc=5",
-    "published": "2026-07-29 14:32",
-    "timestamp": 1785303149,
-    "summary": "MSI가 인텔 B860M 칩셋을 탑재한 MAG B860M 박격포 WIFI 메인보드를 출시했다."
   },
   {
     "company": "Google",
@@ -2792,14 +2808,6 @@
     "summary": "AMD가 AI 데이터센터 구축을 위한 최대 2.5GW 규모의 계약을 확보했다."
   },
   {
-    "company": "AMD",
-    "title": "수랭 쿨러 포함 라이젠 9 9900X가 273달러, AMD CPU 재고 조정 본격화되나 - 케이벤치",
-    "link": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE5RVDE4NER0NFU4TWtWWmtVU0VvVEZoVXoxWGdTZ0RYVl9TSnpBSG9XajA1NTVuQVlzY1o5N1VFRUVDWHJzdXFsNw?oc=5",
-    "published": "2026-07-29 11:12",
-    "timestamp": 1785291167,
-    "summary": "라이젠 9 9900X의 가격이 수랭 쿨러 포함 273달러로 조정되며 AMD의 CPU 재고 조정이 본격화되고 있다."
-  },
-  {
     "company": "딥엑스",
     "title": "'AI 유니콘'된 딥엑스, IPO 가시권으로 - 딜사이트",
     "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE10NGxETFVIbkpIWXVBRWd0VzYwa0RPMnZ1MDBTYUpHdnJ0NERtbUNVX3VIbS1JSWw1VFhnLVJzMGVXejhtMTJPZGN5bjhRMGs?oc=5",
@@ -2846,14 +2854,6 @@
     "published": "2026-07-29 08:12",
     "timestamp": 1785280332,
     "summary": "구글이 엔비디아의 기술을 사용하지 않는 새로운 패키징 기술을 도입하여 AI 칩 경쟁력을 강화한다."
-  },
-  {
-    "company": "Apple",
-    "title": "“가격 후려치더니 이제 와서”…중국산 메모리 찾는 애플이 외면받는 이유 [잇슈 머니] - v.daum.net",
-    "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE1VcXh0OGpCaGpUbzhTdE0wWDBMdEhmVW5vRHotWjMxUUZ3OEpmUGJ6Zng0M1Nib25WNF90Mm9ib24yMVd1eC1WdmpGeUdzOEJYdHNWMQ?oc=5",
-    "published": "2026-07-29 07:05",
-    "timestamp": 1785276309,
-    "summary": "애플이 중국산 메모리 반도체를 도입하는 전략을 취하고 있다. 이로 인해 시장에서 비판적인 시각이 제기되고 있다."
   },
   {
     "company": "엠씨넥스",
