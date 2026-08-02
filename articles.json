@@ -1,11 +1,59 @@
 [
   {
+    "company": "TSMC",
+    "title": "TSMC 구마모토 리스크, 한국 반도체 업계엔 기회일까 리스크일까 - 폴리타임즈",
+    "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE5nbXZQZUZWUzRXVlAyT0dkdE01NXdBWUN1eWMtczY3VXZZcFloTXMwT1MzRHNrSmN1YTZjXzBjeWpUbnRNaG8yd3gwUjk4Q0VaNkQwUlBmT0xONmFZWko4c0VjMFlFSk1HVDNJ?oc=5",
+    "published": "2026-08-02 17:52",
+    "timestamp": 1785660776,
+    "summary": "TSMC의 구마모토 공장 운영과 관련하여 한국 반도체 업계에 미칠 영향과 리스크를 분석한 기사이다."
+  },
+  {
+    "company": "AMD",
+    "title": "엔비디아 쿠다 독주에 도전장…AMD 손잡은 국산 NPU, '이기종 AI' 승부수 - 네이트",
+    "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE85d01VV294YVQteGpONmVZaEZkSG9BQzZ5RTJTQmJrOW5UNDZMbDJDMl9hOV9PclllbzhDbWl4OTBvTmswMGlZd2tQNzlnTFl6eVN6OUFmNW5wNW54aGJ0SQ?oc=5",
+    "published": "2026-08-02 16:46",
+    "timestamp": 1785656760,
+    "summary": "국산 NPU 기업이 AMD와 협력하여 엔비디아 쿠다 독주 체제에 도전한다. 이기종 AI 환경에서의 승부수를 띄우기 위한 전략적 제휴이다."
+  },
+  {
+    "company": "파두",
+    "title": "파두, 세계 최대 스토리지 무대서 기조연설…Gen6 SSD 실물 첫 공개 - econovill.com",
+    "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE93TGxNV0dmcXh0aTFrZk9qVHQwZHVOSDZya3FmNk1RYTltT1dyY1cxMW5DR1ZMUDdEeFN1NUplTFlnZFhnbFJxLXFmeU44UU1GMFZVeFVhZFVoZzBOYVdNOXlvbWtEaG1xeWtKZQ?oc=5",
+    "published": "2026-08-02 16:40",
+    "timestamp": 1785656427,
+    "summary": "파두가 세계 최대 스토리지 행사에서 기조연설을 진행하며 차세대 Gen6 SSD 실물을 최초로 공개했다."
+  },
+  {
+    "company": "Kioxia",
+    "title": "키오시아, PCIe 6.0 기업용 SSD ‘CM10’ 출시…AI 인프라 정조준 - newstap.co.kr",
+    "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBybDEtNmxWTzdEQ3lWZmd3RHVsY1NSZElXUHVzV3dwakg0bVlQR0ZhZy04VXQ3cWpBVHJMMFlwMUc1VHQ4amFWZWJXVnplaUtWMnlOU0lrWjJMN1hSRlNpbUphN1BFa3Z0SDg2Vg?oc=5",
+    "published": "2026-08-02 15:57",
+    "timestamp": 1785653876,
+    "summary": "키오시아가 AI 인프라를 겨냥한 PCIe 6.0 기반의 기업용 SSD 'CM10'을 출시했다."
+  },
+  {
     "company": "OpenAI",
     "title": "'10억명 돌파' 오픈AI, 아마존서 72조원 유치…IPO는 내년 가닥 - 네이트",
     "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBaSzJyUmg2azQzRWhlZnl6RW9kLW5WREdWcnlMclJocGpxRV9kVGVFbDNlOVIwUnNLVzB1OGoxaGp1S2NKbUNDOU1yNTItZDlWWTBLdktBQ1k0ckowM1l3RQ?oc=5",
     "published": "2026-08-02 15:36",
     "timestamp": 1785652560,
     "summary": "오픈AI가 사용자 10억 명을 돌파한 가운데 아마존으로부터 72조 원 규모의 투자를 유치했다. 내년 중 기업공개(IPO)를 추진할 계획이다."
+  },
+  {
+    "company": "Amazon",
+    "title": "아마존, 오픈AI에 72조 투자… 지분 5% 확보 - IT조선",
+    "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE03bm8ySC1hdkpiT2xVT3JkeUZHNW9yT2pxeWw3ZWdMeFZPazR3ZUlXVnYzRUZlODBoUzFwSjVvLUk1ZVBJRG1lT01sQWZTcXQzWDdHZ1pnWHpNVjZURHNIbnFsaHYta3hiOGotOG1xd2XSAXRBVV95cUxNaGQzZGFidlZoVllSZmVhQS00dkFrVXppa3UxM2pHLXRPZzdXS0lwc2NvajliSGl4TUk3MU1WN0xFY2U2bFFKMV8zZXJxRHl6RmsybTFNZWV6VG9EQjlvSVhobmV6RU81TGR5WGRhR2pHRnNUdA?oc=5",
+    "published": "2026-08-02 15:09",
+    "timestamp": 1785650976,
+    "summary": "아마존이 오픈AI에 72조 원을 투자하여 지분 5%를 확보했다."
+  },
+  {
+    "company": "NVIDIA",
+    "title": "中 ‘키미 K3’도 미국산 썼다…“알리바바, 엔비디아 칩 2만장 제공” - v.daum.net",
+    "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE5SUEtJWl9GczUxeFgxc1VfYmMydkc4MVdMdVVhWU05ekFnM2ljRGhBaE5BVG5sQWdGTzhtdzkxYjhDNlFuVHpTRmE4QUNDclU?oc=5",
+    "published": "2026-08-02 14:22",
+    "timestamp": 1785648130,
+    "summary": "중국 문샷의 키미 K3가 알리바바를 통해 엔비디아 칩 2만 장을 제공받아 사용했다는 의혹이 제기되었다."
   },
   {
     "company": "NVIDIA",
@@ -337,11 +385,11 @@
   },
   {
     "company": "Renesas",
-    "title": "르네사스 공장 단계적 재가동…TSMC는 미정 - 네이트",
-    "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1mWHpPbFhLbUpYZkFlemNYYzctRm9zV2w5ekQ2NDR6bWpvVzFSMlNCZFRndFAwdDFieFhDMy03TlVfTml0WWltcjNrOE5ORE55cXM0TWVHSXBBOXBLVlRCbg?oc=5",
+    "title": "르네사스 공장 단계적 재가동…TSMC는 미정 - v.daum.net",
+    "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFAzX19kLUpNaElVUjZ3SjY3MWE0dk5NRmhrSm1EYWY2Z2R5SkRDLWRNLU9LdFJld2tlVUl2RE1RMXpMTEM1Umg3R2RjSUV5aUk?oc=5",
     "published": "2026-08-01 17:22",
-    "timestamp": 1785572520,
-    "summary": "르네사스가 공장을 단계적으로 재가동한다. 반면 TSMC의 재가동 여부는 아직 결정되지 않았다."
+    "timestamp": 1785572532,
+    "summary": "르네사스가 공장을 단계적으로 재가동한다. TSMC의 재가동 여부는 아직 결정되지 않았다."
   },
   {
     "company": "NVIDIA",
@@ -350,6 +398,14 @@
     "published": "2026-08-01 17:20",
     "timestamp": 1785572436,
     "summary": "엔비디아가 에이전트 툴킷을 업데이트하며 피직스네모와 쿠다-X 라이브러리를 확장했다."
+  },
+  {
+    "company": "Apple",
+    "title": "지도·펜슬도 한발짝 늦었지만 따라잡던 애플…AI도 역전극 펼칠까[주末머니] - v.daum.net",
+    "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE1HT2N3N3hZemthTDRxeHZXYng3WFp6bk44ckEySGFVU0R3NmtaMXFKRTBleExOZU9xemtPclV2QU4zblhFYUxUbVFMUktQc1gxSV9HWA?oc=5",
+    "published": "2026-08-01 16:49",
+    "timestamp": 1785570567,
+    "summary": "애플이 지도와 펜슬 분야에서 후발주자로 시작해 추격했던 것처럼, AI 분야에서도 역전극을 펼칠 수 있을지 주목받고 있다."
   },
   {
     "company": "NVIDIA",
@@ -1110,14 +1166,6 @@
     "published": "2026-07-31 11:20",
     "timestamp": 1785464421,
     "summary": "테슬라가 중국 사업 분리 및 매각을 검토 중이라는 보도가 나왔다. 이는 스페이스X와의 합병을 위한 정리 작업의 일환으로 알려졌다."
-  },
-  {
-    "company": "NVIDIA",
-    "title": "중국 AI 문샷, 차기 모델 위해 엔비디아 블랙웰 GPU 추가 확보 추진 - 씬짜오베트남",
-    "link": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE5TV0JjNTh1RnlCODB3d1VmVjVlVW56NTlaVjlvSTdBQVNjOUhFOGFlRDNyVm5BLVE3WlE4UEpqb2dzcHBSY0ZWSg?oc=5",
-    "published": "2026-07-31 11:06",
-    "timestamp": 1785463592,
-    "summary": "중국 AI 기업 문샷이 차기 모델 개발을 위해 엔비디아의 블랙웰 GPU 추가 확보를 추진한다."
   },
   {
     "company": "Qualcomm",
@@ -2296,14 +2344,6 @@
     "summary": "MS의 클라우드 부문이 4년 만에 최고 성장률을 기록했다. AI 수요가 실적 성장을 견인했다."
   },
   {
-    "company": "TSMC",
-    "title": "TSMC 日 구마모토 강진 여파…삼성·SK 공급망도 촉각 - v.daum.net",
-    "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE1adklfMW9UUnNfZEVrY29HUUNpNU9laERRWWlrTUxNZloxQkNCTXhvcjhPaExJanRxT1h0MFA4WThvZWN1bjViWi13Sm02THc?oc=5",
-    "published": "2026-07-30 06:01",
-    "timestamp": 1785358892,
-    "summary": "일본 구마모토 지역의 강진으로 인해 TSMC 공장이 영향을 받으면서 삼성과 SK의 공급망도 촉각을 곤두세우고 있다."
-  },
-  {
     "company": "Qualcomm",
     "title": "퀄컴, 메모리 수급난에 칩 가격 인상…실적 전망은 시장 기대 밑돌아 - 디지털투데이",
     "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE5ObWFkN0kyMVJmaGQ2Qm8xNU5WQ0tWRDg1Wm9UR0dKcFdWQmtpWU5RazM2cWlIVEpCanRWMWx5Y2EyRC04M18yb21TR0duanRyaVAtbHByWmNrZUpHOXV5Qk5ySW9BVG9IclJzeWRtSmRJMVU?oc=5",
@@ -2720,14 +2760,6 @@
     "summary": "퀄컴이 9월부터 칩 가격을 두 자릿수 인상한다. 이로 인해 스마트폰 시장에 메모리 위기가 번질 것으로 보인다."
   },
   {
-    "company": "AMD",
-    "title": "슈나이더 일렉트릭·AMD, 최대 246kW AI 랙 지원 ‘Helios’ 레퍼런스 디자인 공개 - 헬로티",
-    "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE9OM0hvVEprSE12LWF2YVVyOEItTlNqQTlLdEI0UkpndDRDSEdLU0lVNzFDeWY2VjA3U3BKZWNydnRzWE50Ym1qemJHOWVGcXZWZkZzUmtsOXhidm1rXzVz?oc=5",
-    "published": "2026-07-29 10:51",
-    "timestamp": 1785289866,
-    "summary": "슈나이더 일렉트릭과 AMD가 최대 246kW AI 랙을 지원하는 'Helios' 레퍼런스 디자인을 공개했다."
-  },
-  {
     "company": "NXP",
     "title": "NXP 상반기 순이익 두 배…6억 2700만 달러는 MEMS 매각차익 - 데이터투자",
     "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE5OZHpSRDRVcnM4QUFNbUlZV05FQ3ZhT2tiRHZwcWlvSjlHeXNKNGZMczRFT0kyMHpXRWNUVGpldHNtb19sNXRsR0k4cG9vNk1iVXVSV3k4UGR3UTN0ZkU3TlNaSjZNdGE3cWhraHRpSEIyOTg?oc=5",
@@ -2934,14 +2966,6 @@
     "published": "2026-07-28 15:31",
     "timestamp": 1785220269,
     "summary": "한국품질재단이 엠씨넥스에 자동차 사이버보안 엔지니어링 국제 표준인 ISO/SAE 21434 인증서를 수여했다."
-  },
-  {
-    "company": "Apple",
-    "title": "반도체 가격 폭등은 트럼프의 보조금 재검토 탓? 진짜 병목은 애플의 ‘공급사 쥐어짜기’ 관행 - The Economy Korea",
-    "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBEQVZzOWFCS3ZQSEJYNWhBeVhwZlAwSlpUd2tINnZ4RDdYUVVaQ3gyS1VYcEdHcGRSSEtlYTRrM1NVcmZXczZ4VkNiOU9DOEFLT3RHNGFNT0RRWGM?oc=5",
-    "published": "2026-07-28 15:27",
-    "timestamp": 1785220053,
-    "summary": "반도체 가격 상승의 원인으로 애플의 공급사 압박 관행이 지목됨. 공급망 내에서의 영향력과 그에 따른 시장 병목 현상을 다룸."
   },
   {
     "company": "모빌린트",
@@ -4992,14 +5016,6 @@
     "summary": "파두가 AI 시장의 성장세에 힘입어 반년 만에 지난 2년치 매출에 달하는 실적을 기록했다."
   },
   {
-    "company": "파두",
-    "title": "파두, 2분기 영업이익 163억원…전 분기比 111% 증가 - v.daum.net",
-    "link": "https://news.google.com/rss/articles/CBMiRkFVX3lxTE9Ec3luSnBfQms3bUxWaXdrVDJta0FKTkREbXJPQ1VFeDY1YktnWU9WRGFXOTNwc1V5czlxZDZiY3ctSVJJZnc?oc=5",
-    "published": "2026-07-20 11:25",
-    "timestamp": 1784514307,
-    "summary": "파두의 2분기 영업이익이 163억 원을 기록하며 전 분기 대비 111% 증가했다."
-  },
-  {
     "company": "퓨리오사AI",
     "title": "삼성SDS, 퓨리오사AI NPU 클라우드 서비스 출시 - v.daum.net",
     "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE16Q1BpcXJ5RUNodWwzeGJnRjU2bTdDZVNlX0dkcG5LSFdLcWVqOHZUc2FLbXI2WVFPYXQwNmhjV3ozRXZPaWJ6VmZPS1FJcWM?oc=5",
@@ -6968,14 +6984,6 @@
     "summary": "Wolfspeed가 Navitas를 상대로 GaN 및 SiC 관련 특허 침해 소송을 제기했다."
   },
   {
-    "company": "Amazon",
-    "title": "AI에 돈 쏟아붓는 아마존, 38조원 회사채 꺼냈다 - 월요신문",
-    "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5MS3NLWXpDUlFwRzlMMzl1S2dnNnZTUFFmNzVBZVJVakJSUDYzNTBZNzhGRnBhVXdMUTYxT0otTkpOQ3l3UXhqVHIzVFhfcWVzOVZGN0RqcVNhdTlqeXhBYmlhRjUzQXdKanc?oc=5",
-    "published": "2026-07-08 01:10",
-    "timestamp": 1783440635,
-    "summary": "아마존이 AI 분야 투자를 위해 38조 원 규모의 회사채를 발행했다."
-  },
-  {
     "company": "에이직랜드",
     "title": "에이직랜드, 메모리 컨트롤러 개발 확대 ··· 올해 최대 매출 달성 기대 - 데이터넷",
     "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE4yT3JFRElwVDJERGMteU15X3VNQ1hMb0J6SGxpLWtUNmluaHpmNFVGV0EwZHZOUDliSnZzRWpKSzNHU0hISmQ3ek82RHh2Z0VST1BaM3haLU9Tc0I1QnBBeWR3RVZGczU5TEROTA?oc=5",
@@ -7238,45 +7246,5 @@
     "published": "2026-07-03 19:18",
     "timestamp": 1783073938,
     "summary": "인피니언이 ams오스람의 센서 사업 부문 인수를 완료했다."
-  },
-  {
-    "company": "Cadence",
-    "title": "케이던스·삼성 파운드리, AI 반도체 설계 2nm 공정·3D-IC 협력 확대 - MSN",
-    "link": "https://news.google.com/rss/articles/CBMi9AJBVV95cUxOU195QzlVQ2NIVkltdWxuMUVWRWpjbk0wNWJROFhFeTZRblpGUXhfbHZaYU4xYnRlVkVpY3dwMEl0cWFUV3ViLTN6bVd2MnlmeWhvV2ZobVQ4X3RqRkxPRVBxc0xtYkhsZ0ZtZlFkZzlOWUdyMk40REg1YzVnWFpxN0JQT0ZNeG4teHU2YjdNamFuVERaYUhJbV9pMlFYajZmaFMxM0RqUmo1VnZWZ3FvUzZVa0E5Wm5aSHUwemxPM0RDd3c5Y3B4Wm03U3FBRjE1ZGdKQ0otRVNsSi1hMXlUSGlMdkVJOWVRcVJzclJ5aVNTNHhyblhlMDZ1V2dFTkZtc1NWc2dwdmJwU2FWTWpoOHF4c3RPTDZEek1keXZ4LU9Lcm9acnJXUlltYy1GV1NaT25pNjVoTVNUbjFfYXQ4dEVCVy1XYjdON1pJTkNWVU0teU9qVGxKYXZwdFU5WDdkNmZVaTZBU1duMTAtaUQ3TnZld0E?oc=5",
-    "published": "2026-07-03 18:26",
-    "timestamp": 1783070818,
-    "summary": "케이던스와 삼성 파운드리가 AI 반도체 설계를 위한 2nm 공정 및 3D-IC 분야에서 협력을 확대한다."
-  },
-  {
-    "company": "Lattice",
-    "title": "양자컴퓨터 해킹도 방어…래티스, 양자내성암호 FPGA 기술력 인정 - 디일렉",
-    "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE5XMGRaUzZRRHQ2N1lnLVVSUklXSzhPS1hJSmJmLW4zS2RhdHdWVlMwTHVvQ2Q1cVVpcXVWblpLNlB5TEM3RGFLeWxha0loOVdUVHY0N3VVZ2xlN2dUazc2b09IelA0QQ?oc=5",
-    "published": "2026-07-03 16:15",
-    "timestamp": 1783062937,
-    "summary": "래티스가 양자내성암호 FPGA 기술력을 인정받았다. 해당 기술은 양자컴퓨터 해킹 방어 기능을 제공한다."
-  },
-  {
-    "company": "Cadence",
-    "title": "케이던스, 차세대 AI 반도체 설계 위해 삼성 파운드리와 협력 확대 - 디지털타임스",
-    "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTFAzNXNrWXhxbm9DeXNUUGdhYnBDd2NhWEktZUl2YWJ1NGFBMkdCVWVHUDB6VC1LYXhxLVhmT1B1enQtU0NweFlUMTN0QjQxZw?oc=5",
-    "published": "2026-07-03 15:44",
-    "timestamp": 1783061085,
-    "summary": "케이던스가 차세대 AI 반도체 설계를 위해 삼성 파운드리와 협력을 확대한다."
-  },
-  {
-    "company": "에이디테크놀로지",
-    "title": "단순 용역 탈피 적중…에이디테크놀로지, 글로벌 턴키 수주로 체질 개선 본격화 - 핀포인트뉴스",
-    "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE1rYlplLU92OHN3azB1RFJnMXBBeElLU0ZkbW5vVmY4RFBkR2dsMU9NbVRYaWhJUFFUbW5pQkxyS3BlNXlEYnBYdVE2ZFNfaWxtcnVSTE5tU3dMenhRcGozblVWcUg4Z3I2UVRGaGdBUXl2RnZNU1p30gF3QVVfeXFMTWtiWmUtT3Y4c3drMHVEUmcxcEF4SUtTRmRtbm9WZjhEUGRHZ2wxT01tVFhpaElQUVRtbmlCTHJLcGU1eURicFh1UTZkU19pbG1ydVJMTm1Td0x6eFFwajNuVVZxSDhncjZRVEZoZ0FReXZGdk1TWnc?oc=5",
-    "published": "2026-07-03 15:41",
-    "timestamp": 1783060883,
-    "summary": "에이디테크놀로지가 단순 용역 사업에서 벗어나 글로벌 턴키 수주를 통해 사업 체질 개선을 본격화하고 있다."
-  },
-  {
-    "company": "Cadence",
-    "title": "케이던스–삼성 파운드리, AI 반도체 설계 위한 2나노 및 3D-IC 협력 확대 - 캐드앤그래픽스",
-    "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNMGFvVHYxSk4xT2E3NUxlZklmWTMwWUhtWEhLdEVYTUFja3VvbVRMRGFaTDFuX3dOdnN0eVUtQ0E3ay1qaGRJYWNJSnB1NERMeGhFZmplYVYtdzFZNnp1elp2RW41bXgzQ2h5dzhoLVhBbjRITFdRdUswYTB5SHRKaGpCX0U0TmlRaTdoMUlB?oc=5",
-    "published": "2026-07-03 15:40",
-    "timestamp": 1783060850,
-    "summary": "케이던스와 삼성 파운드리가 AI 반도체 설계를 위해 2나노 공정 및 3D-IC 분야에서 협력을 확대한다."
   }
 ]
