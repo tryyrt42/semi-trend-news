@@ -1,5 +1,53 @@
 [
   {
+    "company": "TSMC",
+    "title": "TSMC, 1나노 이하 트랜지스터 핵심 기술 확보… 2차원 반도체 상용화 한 걸음 - 위클리포스트",
+    "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTFB6c3EwWW92eUFLdHltR3FWeXkxa1RwakV1SnMxYVlrbzVsYzlQTE5IUWxkYmxVSWpuZ0lUeWpTOVZzUW90ZF9lbHo4LTlVaDBvZXluVXZNNTZTMVdNck8ySXR2cVExYlUwb0w4?oc=5",
+    "published": "2026-08-08 05:34",
+    "timestamp": 1786134893,
+    "summary": "TSMC가 1나노 이하 트랜지스터 핵심 기술을 확보했다. 이를 통해 2차원 반도체 상용화에 한 걸음 다가섰다."
+  },
+  {
+    "company": "Kioxia",
+    "title": "키오시아·샌디스크, 10세대 QLC 3D 플래시 메모리 기술 공개 - 위클리포스트",
+    "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE1hSGZDYmlHTkxQVUtFcExlMktId3dZTzNqeEVyR0pvc1dfSGc0aHkxdmtKNGhHQmpaMV9UeV83dHJMRUJQQmNjYmExOWxrVUVGWmhLbWZmX2ljckdiWFFRSE1pX3hERGJSWkY0?oc=5",
+    "published": "2026-08-08 04:35",
+    "timestamp": 1786131314,
+    "summary": "키오시아와 샌디스크가 10세대 QLC 3D 플래시 메모리 기술을 공개했다."
+  },
+  {
+    "company": "Google",
+    "title": "\"엔비디아를 잡아라\"...구글 286조 역대급 베팅 - YTN",
+    "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxOSnFHb0FYRzhsSmM3TVJvUW5xR2NEY0JxemRmMzRfRjdOMHd4WkJyMzRZeWdyY0ZaaUJaeGhkN09oM2dMTUR4VWtBOExDZ0RvQWRuaW84UV90dVFaMWYyTGhpSk42TnE1VE1fZkp2SEdhbjc0QzNwMTAtVndyb1J2RDFCUQ?oc=5",
+    "published": "2026-08-08 04:35",
+    "timestamp": 1786131300,
+    "summary": "구글이 엔비디아를 추격하기 위해 286조 원 규모의 대규모 투자를 단행했다."
+  },
+  {
+    "company": "Kioxia",
+    "title": "키오시아 GP 시리즈 SSD, FMS 2026 베스트 오브 쇼 수상 - 위클리포스트",
+    "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBkeVlJd0JnV3JYMHpYZkdvMXNxUkpCQlI0QUZ6M1k2RjNTblZnUEpoOFlZZDYyNFNreWw4T1VESnJHZUpDOWg4TDJOQjNOcTBrSGhDNmM4RGR6amJYdWpIX1hXRjhPeXlnNUE?oc=5",
+    "published": "2026-08-08 04:32",
+    "timestamp": 1786131159,
+    "summary": "키오시아의 GP 시리즈 SSD가 FMS 2026에서 베스트 오브 쇼를 수상했다."
+  },
+  {
+    "company": "AMD",
+    "title": "AMD, IFA 2026 참가… 개인형 AI 시대 비전 제시 - 위클리포스트",
+    "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTFB5cjZ2MlJvYVd1TU9zdVY1dWNRYXg0VmZXZ3pmOWF2T1BDUE1za0UyVFo5MzFqRDcyYzhReXZ5U1F4SFQ4S3NJS3BIalhJNVNIYnBGSXZUWWEtSEFiNEpRV3l0WDBjRDU2S3c?oc=5",
+    "published": "2026-08-08 04:17",
+    "timestamp": 1786130269,
+    "summary": "AMD가 IFA 2026에 참가하여 개인형 AI 시대에 대한 비전을 제시한다."
+  },
+  {
+    "company": "Tesla",
+    "title": "테슬라 “지구 최대 건물” 테라팹, 실은 “구속력 없는” 168억 달러 1단계 투자 - 위키트리",
+    "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE12N0NLYl8weHVkUHZDUzVuN3ZXOWRTWUMxbDlQUzFmME1JZjNaOWk5WUM1SllKZ2dRem5kNlVkbE9ZT1lBY1E5VHNWVHhMaWNlVWVzLTRB?oc=5",
+    "published": "2026-08-08 04:02",
+    "timestamp": 1786129320,
+    "summary": "테슬라가 추진하는 테라팹 건설 프로젝트가 168억 달러 규모의 1단계 투자 계획이나, 구속력이 없는 상태임을 보도했다."
+  },
+  {
     "company": "Qualcomm",
     "title": "삼성 갤럭시 S26 FE, FCC 인증 획득: 엑시노스와 퀄컴 부품 조합. - Vietnam.vn",
     "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOYkZYX29mSGN5RTV3TU13RkhhVU5kUmZ2QVZnTWhzODBGdmdIZVZHd1dqX2hDN1BzeFpoa2NMMkZxQ2VJcHZJWDFCRGRXU1pNdmVHWlJieGhFM3ZPUDB0Z3p3dzV5UDBsWVRTNjFJTUx1dVB5bGhKOUduckx1SGhhc0w4YUhZcWpIel9yMnQ3RW0yUXd6QmlIZ0kyYU1jampRUzNRSnB5RVBlT2dKZHM3VQ?oc=5",
@@ -30,6 +78,14 @@
     "published": "2026-08-07 21:14",
     "timestamp": 1786104875,
     "summary": "LG U+가 브로드컴의 와이파이 8 플랫폼을 활용하여 홈 네트워크 AI 자동 복구 기술을 검증한다."
+  },
+  {
+    "company": "Infineon",
+    "title": "인피니언, 소프트웨어 정의 차량용 eFuse 출시 - 국민기자뉴스",
+    "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE1heVJ6dHRaZFVyRUx3MkktUkFtNnhvdzZScG1kTjFYaXdUUzhCQThXdTZkUjdWbWlYTGJTNWNoZDA0cVNYUGdXekNSYmJXWm1RYXJMZ0twbkE0M25HZUZLeDgwQdIBZ0FVX3lxTFBQNFB3VlpuZnZhUVU4XzNpandPcFZ2ZURrV2J2QmhxMW1iVmxnamVMU001dkVic3VSYWRTTDVHdVpkTGZRU2Y1RUY1eTNxMXZRLXJKdk5aclUyMjZJR3phUXdfSkVRV0E?oc=5",
+    "published": "2026-08-07 21:00",
+    "timestamp": 1786104000,
+    "summary": "인피니언이 소프트웨어 정의 차량(SDV)에 최적화된 eFuse 제품을 새롭게 출시했다."
   },
   {
     "company": "Intel",
@@ -241,10 +297,10 @@
   },
   {
     "company": "Apple",
-    "title": "삼전닉스보다 싸게 안 팔아…中 CXMT, 애플 가격 인하 거절 - 시사저널",
-    "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTFB4VDBJblhLdlBPbDdmWS1GaW5XVHAxTGZEWDZrQS1KUFVvUk05cEpRb2RPRUdfdTl5ejRSN2VWQndYd0NBVzlSdncwdFo4VzJIZF9IblNCRndNclB6TS1mbUtrc3NVay1uV2tuZjJiWdIBc0FVX3lxTFBQYU14ekZCN2FVSE1TV3hvZ0dtS1hUcXA5LXh2UFAtblQwSEJiQjBMSW9wbWViSzFWV1FldmlBQ0czMW42WFdDMnpzMThfdGRuRWdHbGRLNXVmS3lpUG85bVVrb0pmN0lnT2lDaDZzVjBva00?oc=5",
-    "published": "2026-08-07 15:11",
-    "timestamp": 1786083075,
+    "title": "삼전닉스보다 싸게 안 팔아…中 CXMT, 애플 가격 인하 거절 - v.daum.net",
+    "link": "https://news.google.com/rss/articles/CBMiRkFVX3lxTE1EQ0Y0VFJ4MWJDTlBRdkV2Y0pZdlBnMGpNT0t1MFFWTkVCZ1NxQ3ppMDJGT0xmMnc1TVVUbDEtTmV2MVVEN0E?oc=5",
+    "published": "2026-08-07 15:12",
+    "timestamp": 1786083168,
     "summary": "중국 CXMT가 애플의 가격 인하 요구를 거절했다. CXMT는 삼성전자 및 SK하이닉스보다 낮은 가격에 제품을 공급하지 않겠다는 입장을 밝혔다."
   },
   {
@@ -366,6 +422,14 @@
     "published": "2026-08-07 13:22",
     "timestamp": 1786076547,
     "summary": "애플의 중국 CXMT 메모리 도입 협상이 무산되면서 삼성과 SK하이닉스의 협상력이 높아졌다."
+  },
+  {
+    "company": "NVIDIA",
+    "title": "엔비디아, 루빈 울트라 메모리 줄이나…HBM 부족·비용 부담 대응 - 아주경제",
+    "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE14YUQ1S081VVlMOHJCRzdydHVzbWU0ZU9lNkg5VVRXWDhVaUpWS09lWTNsLWNtWWozSmN0Q1MtZmRIem9oZ0lGS2N5cFVrZEJ0Z0ZqeU9wcErSAVhBVV95cUxNeGFENUtPNVVZTDhyQkc3cnR1c21lNGVPZTZIOVVUV1g4VWlKVktPZVkzbC1jbVlqM0pjdENTLWZkSHpvaGdJRktjeXBVa2RCdGdGanlPcHBK?oc=5",
+    "published": "2026-08-07 13:22",
+    "timestamp": 1786076532,
+    "summary": "엔비디아가 HBM 부족과 비용 부담에 대응하기 위해 루빈 울트라 메모리 사양 조정을 검토하고 있다."
   },
   {
     "company": "NVIDIA",
@@ -854,14 +918,6 @@
     "published": "2026-08-07 04:23",
     "timestamp": 1786044180,
     "summary": "메타의 AI가 외부 기관으로부터 해킹을 당했다. 이는 오픈AI와 앤스로픽에 이어 세 번째 사례이다."
-  },
-  {
-    "company": "NVIDIA",
-    "title": "엔비디아, 로보택시·자율주행차용 프론티어급 개방형 모델 ‘알파마요 2 슈퍼’ 상업적 이용 가능 - 올포칩",
-    "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE1pNGx4bkNibHRyQlR5MkI1Qi1wdVpvd1JjX0puQms4M0NSaXhuZWszaEhDMWQtb3FtbUxadnBKRm9nZDJTLXAwUE9QVEhNeFNqS05fMzRRaWp0Z0NMZFhVdy16S0xCdw?oc=5",
-    "published": "2026-08-07 04:07",
-    "timestamp": 1786043243,
-    "summary": "엔비디아의 로보택시 및 자율주행차용 개방형 모델인 알파마요 2 슈퍼가 상업적 이용 가능해졌다."
   },
   {
     "company": "Intel",
@@ -2424,14 +2480,6 @@
     "summary": "배경훈 LG AI연구원장이 엔비디아와 AMD의 협력이 본격화되고 있다고 보고했다."
   },
   {
-    "company": "TSMC",
-    "title": "TSMC 日구마모토 1공장, 강진 엿새만에 정상화 - 네이트",
-    "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBHblFZbDZoTDJUZE9GN04wZU1yLWxXTGpheGtiYzJlUHhhWGVOTTlSN3lDTjFhTDhmbEdFTkhQeDRvQWVNOExfb2p3ZDJEbXNkeVEyeWlWY3k3TXFkd3dSdQ?oc=5",
-    "published": "2026-08-04 13:56",
-    "timestamp": 1785819360,
-    "summary": "일본 구마모토에 위치한 TSMC 1공장이 강진 발생 엿새 만에 정상 가동을 시작했다."
-  },
-  {
     "company": "칩스앤미디어",
     "title": "칩스앤미디어, 최대 1000억 규모 M&A 후보 이르면 내달 확정 - 디일렉",
     "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE1xTHRhNWFycU84LXBqYTRndmN1NlhCRlZpRURNMm5YV2Y5SGJjc2V0Q1JXQldVa0R2WW1QTk1YSjRkb3ExMW1xcmR1T2xKU1NHUU5kM29ucm13ZTFUbzIwMmlyU2daQQ?oc=5",
@@ -2462,14 +2510,6 @@
     "published": "2026-08-04 11:08",
     "timestamp": 1785809319,
     "summary": "삼성전자가 갤럭시 Z8과 AI 기술을 앞세워 반등을 시도하며, 애플의 폴더블 제품과 경쟁을 예고했다."
-  },
-  {
-    "company": "AMD",
-    "title": "삼성자산운용, ARM·AMD·인텔 집중투자 ETF 상장 - 포춘코리아",
-    "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE1vM1lpd1JfQWJ4Wkt0UlZ2TlRSS0F1clRuOXF2cTFKVTJRd2l6LVVpSy13U3phUlRETjV6SV83UEYzaGMzNjFvNUhrNV9mLUR4M3BFakJseUJreG5uUVprUUVWc2VJaUVGNXVtNnIxWThkQdIBdkFVX3lxTE1VLVJYZUVrOVlkeWl4bUxERmJvdndXc1RscEp6YUFxNDh5dkQ4eE5yOW9JSnBvNVNfUnBpcElTNm4wM1dSUE9yVkF3dzlzQzUtZ0lWOVFqcW9TVk1YNE9xVjhQVldiTWJKQkJNT0FLUEF2TFdDR3c?oc=5",
-    "published": "2026-08-04 11:02",
-    "timestamp": 1785808958,
-    "summary": "삼성자산운용이 ARM, AMD, 인텔에 집중 투자하는 ETF를 상장했다."
   },
   {
     "company": "Synopsys",
@@ -2886,14 +2926,6 @@
     "published": "2026-08-03 15:44",
     "timestamp": 1785739477,
     "summary": "삼성전자와 구글이 AI 생태계 구축을 위해 협력한다. 이재용 회장의 AI 동맹을 통해 반도체와 모바일 분야의 경쟁력을 강화할 계획이다."
-  },
-  {
-    "company": "Infineon",
-    "title": "인피니언, 소프트웨어 정의 차량용 eFuse 출시 - 디지털데일리",
-    "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE93T2duSnJOS01OVlBsZU1HWE1iTG14bVFhQ0Yxcm56b2RjNVRJMlRVdUZMSkpzZkVSSHVfTUQ3ZVlJRnZOU0RidFRaZS1TMjYyeXdWVjhPX0VPWjQxZ0ZyYlR3?oc=5",
-    "published": "2026-08-03 15:21",
-    "timestamp": 1785738100,
-    "summary": "인피니언이 소프트웨어 정의 차량(SDV)에 적용 가능한 eFuse 제품을 새롭게 출시했다."
   },
   {
     "company": "자람테크놀로지",
@@ -3710,14 +3742,6 @@
     "published": "2026-07-31 16:45",
     "timestamp": 1785483957,
     "summary": "머스크가 미중 경쟁 여파에 따른 테슬라 중국 사업 매각설을 가짜 뉴스라고 일축했다."
-  },
-  {
-    "company": "Google",
-    "title": "구글·MS·메타·아마존, AI 투자 1400조원 돌파…“수익까진 시간 소요” - 동아일보",
-    "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE9fckdsVE1zdV96emV3bGMwelh3MTJqWWJBazlselZKNDJDNjRoOTZhaVh3ZEZtT3AwNkIwUkY4eWhLYnpfdmotbXlmX1JUNUtNZHUxSXFwVGVBdmUtU3IyYnBjX0ptX2luX1VwQWZrdGh5a3dOQlHSAWZBVV95cUxNVmI1d05fakhGYjdVMEpGMU9BNy1EVFQ1c0VkeDRuVUhnZndLSzZUN0ZWdnJmU09vMDhpTFdlWVF1ajlHaVV0RXJ5UFMwQjgtbURNVmk3S0hUZ2hJTTU5VGlEMGsxeUE?oc=5",
-    "published": "2026-07-31 16:45",
-    "timestamp": 1785483900,
-    "summary": "구글을 포함한 빅테크 4사가 AI 분야에 1400조 원 이상의 투자를 단행했다. 다만 해당 투자에 대한 수익 창출까지는 시간이 소요될 것으로 보인다."
   },
   {
     "company": "리벨리온",
@@ -5648,14 +5672,6 @@
     "summary": "일론 머스크가 테슬라의 AI 분야에 대한 신속한 투자가 필요하다고 언급했다."
   },
   {
-    "company": "Tesla",
-    "title": "\"AI부터 반도체까지\"···일론 머스크, 테슬라 깊숙이 스페이스X 판 깔았다 - Benzinga",
-    "link": "https://news.google.com/rss/articles/CBMiuwJBVV95cUxPa19nZW1TY2tOd21DQno4aHNWcEEzU1BZUTRaNHlmMTUzbGVoMGFOMThvX1NKVVlLWE5VTTVGdmlHQnBMOFJjU0pBekt0d3BscUtHVElLcjJDX1AyWWFmU25JTy1WMUV2cHpYNW1pdFRVSm5KMEpOYWhZWlhaZGlnazJYY0RwQWYyWTFOSVI0eTYzMFV1RV90eS1kV0R1bnJJY2RQNkY5dkM1N24zdXNGTHAzNXd1cHJLVjFTeThMeExJOW9meFJ3OHlhR0daWm1vU0FNMDVHcWRTcV95X3E1a3B4cWlsNWpIcHJrajZXVTdIY1lWZGVEZVVHSUUtWGlLTHJZNjhIODh2V1ZpcFFuczNYeEVNdWEzV2h0N3ZHaWg5QUNlc21fY3BhQnJuYXJtUjlzYWRzX3ZFNU0?oc=5",
-    "published": "2026-07-24 14:15",
-    "timestamp": 1784870107,
-    "summary": "일론 머스크가 테슬라의 AI 및 반도체 사업 부문에 스페이스X의 자원을 활용하여 협력을 강화하고 있다."
-  },
-  {
     "company": "Texas Instruments",
     "title": "“TI, 피지컬 AI에 이르기까지 모든 전자기기서 엣지 AI 도입 가속화” - 테크월드",
     "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE5aWVYxZjZPX2lGYm90b1dZUk9jYThMUFJ4WllvSUNGLWxkcmRKcXFoMEFsWlcxcmlNT2Q2bWt2NmlqbVo2MHBSZGlXMWVXWTh3T0tFNDd4MnFlbklFV2hjMVBJNFhRZF85?oc=5",
@@ -7454,14 +7470,6 @@
     "published": "2026-07-09 17:03",
     "timestamp": 1783584181,
     "summary": "모빌린트가 2세대 NPU인 '레귤러스'의 연말 대량 양산을 목표로 하고 있다."
-  },
-  {
-    "company": "Kioxia",
-    "title": "SK하이닉스 4조 투자한 키오시아 '잭팟'…60조 가치 평가도 - 네이트",
-    "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTFBwRkxHdHY4RlR0eEdqY2FRSXBHMXNiX096NFRLM1VwU2hJdkZoYmdTZU5zZm1KWXhVVlBzeTJOWk1ob0VpTmJrUmlUZTNGVFYxNXllam9NRWRZV2hlNGl4ZHpIR1RKWUNoUkVhV1Q4cFlVejd1SmhkbQ?oc=5",
-    "published": "2026-07-09 17:00",
-    "timestamp": 1783584000,
-    "summary": "SK하이닉스가 4조 원을 투자한 키오시아가 60조 원 규모의 가치 평가를 받으며 투자 성과를 거두고 있다."
   },
   {
     "company": "STMicroelectronics",
