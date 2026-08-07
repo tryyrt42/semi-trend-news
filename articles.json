@@ -1,5 +1,37 @@
 [
   {
+    "company": "Broadcom",
+    "title": "LG U+, 브로드컴과 와이파이 8 플랫폼 활용한 홈 네트워크 AI 자동 복구 기술 검증 - 이슈투데이",
+    "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE5MTW1QTVU4MnpFbENLb3NzbzNLNWJTYWlweHFSVF8tY1A3b2NrUnFZUjdBZ1hXcmI1UHhZc1NBUTR6ZG9XVmdRaHYwNXNPdUFKNV94VGpRcEd4VklxSWdPQzgwc05fZw?oc=5",
+    "published": "2026-08-07 21:14",
+    "timestamp": 1786104875,
+    "summary": "LG U+가 브로드컴의 와이파이 8 플랫폼을 활용하여 홈 네트워크 AI 자동 복구 기술을 검증한다."
+  },
+  {
+    "company": "TSMC",
+    "title": "한국·대만, 수출액 사상 첫 일본 추월…삼성·SK·TSMC가 견인 - dt.co.kr",
+    "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE9qRUZIVVlFb0t6REdnaGE4VW1wdlFDdXplVWNNYWRLSHFKbXZ2Um9OZk9neXVteVB6Wi03VGRzTElXR2NXbTRrS0FzWV9RUQ?oc=5",
+    "published": "2026-08-07 19:53",
+    "timestamp": 1786100015,
+    "summary": "한국과 대만의 수출액이 사상 처음으로 일본을 추월했습니다. 삼성, SK, TSMC가 해당 수출 성장을 견인했습니다."
+  },
+  {
+    "company": "Apple",
+    "title": "새로운 것을 위해 iPhone 18 Pro 기다려야 할 수도 있습니다. Apple 중대한 문제에 직면했다고 알려져 있다. - Jablíčkář.cz",
+    "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNdWJpQ0tMWXhld2U4S01oQVZKeDUwT2MwT2x4YUdBcXpVa01RWEJFdXFycVozdjFpY1liTkphLVp3MmhPRjJIQVRNeDdNTmNSclJLZmhEWDRPR2RQQkFOYjc1bVB1cWd4VkFkNmtnV281ckoxdHc5WUY3X0ctbUJXelItSFYyQWl1eTZlVlVFRGh2c2djb1V6angxUnM1ZmVNdWkw?oc=5",
+    "published": "2026-08-07 19:47",
+    "timestamp": 1786099639,
+    "summary": "Apple이 중대한 문제에 직면함에 따라 차기 제품인 iPhone 18 Pro 출시가 지연될 가능성이 제기되었다."
+  },
+  {
+    "company": "NVIDIA",
+    "title": "[한눈에 보는 Weekly 기업 소식] 엔비디아, 자율주행 추론 모델 '알파마요 2 슈퍼' 무료 개방 - KIPOST",
+    "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE8yeDNwZEJHcHdTTGMwSGhxcUV0c1ZFUkF5bUdEelFKVlVZeHZaWnYzSlB1UEx3cHpBTVFpbnE2X195aVV4ZFlfSE1KUnY2QlZMX2h3d093SmVMYVhqa2drNWRmZUd1RWQzT1M4cdIBbEFVX3lxTE8yeDNwZEJHcHdTTGMwSGhxcUV0c1ZFUkF5bUdEelFKVlVZeHZaWnYzSlB1UEx3cHpBTVFpbnE2X195aVV4ZFlfSE1KUnY2QlZMX2h3d093SmVMYVhqa2drNWRmZUd1RWQzT1M4cQ?oc=5",
+    "published": "2026-08-07 19:20",
+    "timestamp": 1786098030,
+    "summary": "엔비디아가 자율주행 추론 모델인 '알파마요 2 슈퍼'를 무료로 개방했다."
+  },
+  {
     "company": "퓨리오사AI",
     "title": "이스트시큐리티-퓨리오사AI, NPU 기반 AI 보안 인프라 공동개발 - 전자신문",
     "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE9zYjZBM0JVNTE4YWJIcXpWT1VzcVlHajhtTEdwdlkzUDYwZGszOTFKWWYzeXlfeUZnSWZZckpucjRJY293WnNVcEZMNV9LQQ?oc=5",
@@ -22,6 +54,14 @@
     "published": "2026-08-07 18:47",
     "timestamp": 1786096022,
     "summary": "엔비디아가 HBM4E 수급 난항의 여파로 차세대 '루빈 울트라' 메모리 사양 축소를 검토하고 있다."
+  },
+  {
+    "company": "Kioxia",
+    "title": "키오시아-샌디스크, 업계 최고 비트 집적도 구현한 신규 3D QLC 낸드 플래시 메모리 기술 공개 - 글로벌 비즈 뉴스",
+    "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFBVeEN6WTFGa1I0WGhGZS1yT29SMEV5Z0E5SXlGYWpMWWlaTExhSlBvUno4SGphcVVXdW9mVTczOGNiaHRmTWNjZU95Q0hPREJsVVltSGVWcXJkX3lSZFloYVdIcXZEY1Bf0gFoQVVfeXFMUFV4Q3pZMUZrUjRYaEZlLXJPb1IwRXlnQTlJeUZhakxZaVpMTGFKUG9SejhIamFxVVd1b2ZVNzM4Y2JodGZNY2NlT3lDSE9EQmxVWW1IZVZxcmRfeVJkWWhhV0hxdkRjUF8?oc=5",
+    "published": "2026-08-07 18:10",
+    "timestamp": 1786093810,
+    "summary": "키오시아와 샌디스크가 업계 최고 비트 집적도를 구현한 신규 3D QLC 낸드 플래시 메모리 기술을 공개했다."
   },
   {
     "company": "Kioxia",
@@ -504,6 +544,14 @@
     "summary": "파두가 FMS2026에서 '파두 2.0' 비전을 선포하고 AI 데이터센터 시장 공략을 본격화한다."
   },
   {
+    "company": "퓨리오사AI",
+    "title": "이스트시큐리티-퓨리오사AI, AI 보안 인프라 공동개발… 차세대 AI 보안 플랫폼 구축 - 인공지능신문",
+    "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9mb0lMSDUyRDhya3RVSjduVFMxQ3Z1RkswQnpuczVaNExPU0V3X3g3VWNXMWlYZDJEaWtYSTBKbnhWUGY2aGNIRmZkb1g2VG44OGtUQzNaOWNRRG1Bal9sMElSZHU1OHc?oc=5",
+    "published": "2026-08-07 10:14",
+    "timestamp": 1786065242,
+    "summary": "이스트시큐리티와 퓨리오사AI가 AI 보안 인프라를 공동 개발하고 차세대 AI 보안 플랫폼을 구축한다."
+  },
+  {
     "company": "Apple",
     "title": "\"내가 중국을 다 응원하게 되네\"…애플도 걷어찬 中창신메모리 - v.daum.net",
     "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE4zUVpkTGh1X2lpbUozczRyZ2FoMkNMRGZnSkp1cElCQ2xuUTRuSjRRRi1PWGR4cmdoUTZaVmoxdTZ3QktJcV9WWU84NXUwcGc?oc=5",
@@ -638,6 +686,14 @@
     "published": "2026-08-07 07:43",
     "timestamp": 1786056236,
     "summary": "AMD가 AI 추론칩 스타트업 탈라스를 인수하며 엔비디아 추격에 속도를 내고 있다."
+  },
+  {
+    "company": "AMD",
+    "title": "AMD, AI 추론칩 스타트업 탈라스 인수…엔비디아 추격 속도 - v.daum.net",
+    "link": "https://news.google.com/rss/articles/CBMiRkFVX3lxTE1jcllxaU5ZMVVlWlFZb2JUQTQ2MFR1NWN0LXZjZXRSaUctX3BzYkVCRGtaMi1DTEVOVTBpd1JqaGdTUEZkcnc?oc=5",
+    "published": "2026-08-07 07:33",
+    "timestamp": 1786055585,
+    "summary": "AMD가 AI 추론칩 스타트업인 탈라스를 인수했다. 이를 통해 엔비디아를 추격하는 속도를 높이고 있다."
   },
   {
     "company": "AMD",
@@ -808,14 +864,6 @@
     "summary": "엔비디아가 철옹성 같은 생태계를 구축하며 AI 시대의 마이크로소프트 윈도와 같은 위치를 차지했다."
   },
   {
-    "company": "NVIDIA",
-    "title": "[심층 분석] 엔비디아, 자율주행 AI '개방형'으로 승부수…로보택시 경쟁, 하드웨어에서 추론모델 시대로 - 뉴스밸류",
-    "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBxNkJ5NGlJZ0ZPOV9JN1VRSnpES3lHUU1FdVg5RjdBSDBKY3ZsRVdxb1lRNnZNMUtCTm1WR2xhbEFSQVFvcFdla1RjVnZQaTNJSVZCTG1aSGc3YTBMemNOUjdLWXhDa1pBREE?oc=5",
-    "published": "2026-08-06 21:54",
-    "timestamp": 1786020844,
-    "summary": "엔비디아가 자율주행 AI 분야에서 개방형 전략을 채택하며 하드웨어 중심에서 추론 모델 시대로의 전환을 꾀하고 있다."
-  },
-  {
     "company": "Kioxia",
     "title": "키오시아·샌디스크, 10세대 QLC 3D 플래시 공개…비트 집적도 60%↑ - 뉴스탭",
     "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1ybVRDY2xqem1ad0VmemhUM2hGeXBodnNYT2tyT0E3NEtIaGZiNktBSXNQV0Nwd183a2xJbTlUQlMwd25WSS01QmNuTExpN0xKam05REVIQk5UZ1J5QUdsaTZ6NUsxZTJsdWd4Vw?oc=5",
@@ -969,11 +1017,11 @@
   },
   {
     "company": "TSMC",
-    "title": "TSMC, 올해 4분기 3나노 월 18만장으로 확대⋯상반기보다 20%↑ - 아이뉴스24",
-    "link": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE9QRFhLZFhBWEl3LWR5SHpJUVI1Z0lLaTdiMzl6dVhpdTN1dkNmT0JzaDZHOVJ0QUwya3NVQjE1QUd1Qko0S3JoTDU0QQ?oc=5",
-    "published": "2026-08-06 15:56",
-    "timestamp": 1785999404,
-    "summary": "TSMC가 올해 4분기 3나노 생산량을 상반기 대비 20% 증가한 월 18만장으로 확대한다."
+    "title": "TSMC, 올해 4분기 3나노 월 18만장으로 확대⋯상반기보다 20%↑ - v.daum.net",
+    "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE9yaW1PdG15Y2FzRUR5TXRGU1RucllSQTlJaGp2Tlh2QWE2ZlE5VEVRWUtsdUp3RnZYSUlzMzF5Y3FWYXUyeWUyWlF3WUMxZklrNFFWZg?oc=5",
+    "published": "2026-08-06 15:58",
+    "timestamp": 1785999489,
+    "summary": "TSMC는 올해 4분기 3나노 공정 생산량을 월 18만 장으로 확대합니다. 이는 상반기 대비 20% 증가한 수치입니다."
   },
   {
     "company": "AMD",
@@ -1086,14 +1134,6 @@
     "published": "2026-08-06 13:11",
     "timestamp": 1785989515,
     "summary": "인텔이 20% 감원을 단행하고 정부 지분 투자를 유치하며 위기 탈출을 시도하고 있다."
-  },
-  {
-    "company": "Kioxia",
-    "title": "키오시아-샌디스크, 업계 최고 비트 집적도 구현한 신규 3D QLC 낸드 플래시 메모리 기술 공개 - 파이낸셜리더스",
-    "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5VT1VOV0ZfMDdWWUJUSFQ1VE53Q3RCVk1tZnQteVl4bE5OaXJGZldxQmh2U3RldG50OFl2TU5nWFdzQmNYcFhwV3I4VE9UQUtRalVfRE9USjhsclJKQ1JVV2h4V0lQaTRtTHc?oc=5",
-    "published": "2026-08-06 12:32",
-    "timestamp": 1785987135,
-    "summary": "키오시아와 샌디스크가 업계 최고 비트 집적도를 구현한 신규 3D QLC 낸드 플래시 메모리 기술을 공개했다."
   },
   {
     "company": "리벨리온",
@@ -2344,14 +2384,6 @@
     "summary": "일본 구마모토에 위치한 TSMC 1공장이 강진 발생 엿새 만에 정상 가동을 시작했다."
   },
   {
-    "company": "TSMC",
-    "title": "TSMC, 강진 6일 만에 日 구마모토 1공장 정상화 - 조선비즈 - Chosunbiz",
-    "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPTDBMaFJ5N2VIa1FuZWRoSWNNRFZIWjU1SkxUZzB5eUpJcjR4Q3RxRkRYaXNTa3dza0NpU1U5bW5uZ1cyQ3k2cHRWNmVxVVAtYno4NC1zOU9FNlNjMW01YzAxeFJyT3JCZzFUQXF5S19xcGNwT21hWEdTWEtqWE5hOEhnRGtFRWw5UXVJdWc0cFVYY2V6OFHSAZYBQVVfeXFMT0wwTGhSeTdlSGtRbmVkaEljTURWSFo1NUpMVGcweXlKSXI0eEN0cUZEWGlzU2t3c2tDaVNVOW1ubmdXMkN5NnB0VjZlcVVQLWJ6ODQtczlPRTZTYzFtNWMwMXhSck9yQmcxVEFxeUtfcXBjcE9tYVhHU1hLalhOYThIZ0RrRUVsOVF1SXVnNHBVWGNlejhR?oc=5",
-    "published": "2026-08-04 13:47",
-    "timestamp": 1785818820,
-    "summary": "TSMC가 강진 발생 6일 만에 일본 구마모토 1공장을 정상화했다."
-  },
-  {
     "company": "칩스앤미디어",
     "title": "칩스앤미디어, 최대 1000억 규모 M&A 후보 이르면 내달 확정 - 디일렉",
     "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE1xTHRhNWFycU84LXBqYTRndmN1NlhCRlZpRURNMm5YV2Y5SGJjc2V0Q1JXQldVa0R2WW1QTk1YSjRkb3ExMW1xcmR1T2xKU1NHUU5kM29ucm13ZTFUbzIwMmlyU2daQQ?oc=5",
@@ -2582,14 +2614,6 @@
     "published": "2026-08-04 01:24",
     "timestamp": 1785774240,
     "summary": "브로드컴이 VMware 인수와 관련한 반독점 문제로 EU 법원에 제기한 항소에서 패소했다."
-  },
-  {
-    "company": "AMD",
-    "title": "AMD 라이젠 칩셋 공식 드라이버 8.07.16.1035 버전 출시 - GameGPU",
-    "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPNFlCcUl3SHN6ZEk5RFlHUWZDVGp5cTBMNlNpc252QVp5MkVuR2hKSkQxN05NYVdXUVdHM3JWdmlJbm5fLUZKVlhxcllyRWN5T0hLNmZ1R3lEemEwZmV1WmYtTnFmb05sejNfbnFsRk1iMzVWTFFMZHdSU250bTYxSC04ZlViYWVjM3hnN1VNWl9MVDNfazgtUmMyRQ?oc=5",
-    "published": "2026-08-03 23:24",
-    "timestamp": 1785767055,
-    "summary": "AMD가 라이젠 칩셋 공식 드라이버 8.07.16.1035 버전을 출시했다."
   },
   {
     "company": "Apple",
@@ -3398,14 +3422,6 @@
     "published": "2026-08-02 08:45",
     "timestamp": 1785627954,
     "summary": "KT가 딥엑스, 세솔과 협력하여 저전력·저발열 온디바이스 AIoT 기술을 개발한다."
-  },
-  {
-    "company": "Apple",
-    "title": "\"중국용 아이폰에도 안 돼\"… 美 여야, 애플에 '中 메모리 사용' 경고 | - 더퍼블릭",
-    "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTFBGemtXdWhJckFSb2d2dVVxeExCaWVtQkd0VjQ4SGQ5cDlsQVJ4UEFFRXlVOGJ5TEVZcElUY0VyR2N4NWVCTkVCZURBdWZhZzFrYTg3ZVk2ZWFHUzdnMUVHQ0RKZ2o3aUM2WlBJc1pMMA?oc=5",
-    "published": "2026-08-02 08:43",
-    "timestamp": 1785627833,
-    "summary": "미국 여야가 중국용 아이폰에 중국산 메모리를 사용하는 애플에 대해 경고했다."
   },
   {
     "company": "Amazon",
@@ -4736,14 +4752,6 @@
     "summary": "Microchip Technology가 인프라 보안 우려에 대응하여 UTC(k) 타이밍 대안을 공개했다."
   },
   {
-    "company": "퓨리오사AI",
-    "title": "퓨리오사AI, PCIe 16개 확장한 AI 서버 개발한다 - 디일렉",
-    "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE03bW91dEV4eHZ4R0NZUzUyX01BdkFHaE9mdDBsMW14RjFBdnJidVAyR2xaNjJKU1FTWGlMY2ZVS2V2elZxcXA5dHhDRU90eEQxb2Q0c3JxVko1YUZRNHJjZTRzWXowQQ?oc=5",
-    "published": "2026-07-28 19:01",
-    "timestamp": 1785232881,
-    "summary": "퓨리오사AI가 PCIe 16개를 확장한 형태의 AI 서버를 개발한다."
-  },
-  {
     "company": "모빌린트",
     "title": "모빌린트, ISEC 2026서 AI 보안 솔루션 공개 - 한스경제",
     "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE4wRW00di0yTmtQSElvQ1V6MUFGekRUTGdaU21pd3I5TU1Wbkh2MUNnczJTdnNabERxLUg5ODNva2M3STdhUVFBek0yU3pvQmFtMDlDOXk5R3QzWHg1Q1pUTkNDcmR1SkZmQ2ZiaXJva9IBb0FVX3lxTE4wRW00di0yTmtQSElvQ1V6MUFGekRUTGdaU21pd3I5TU1Wbkh2MUNnczJTdnNabERxLUg5ODNva2M3STdhUVFBek0yU3pvQmFtMDlDOXk5R3QzWHg1Q1pUTkNDcmR1SkZmQ2ZiaXJvaw?oc=5",
@@ -5286,14 +5294,6 @@
     "published": "2026-07-27 11:33",
     "timestamp": 1785119626,
     "summary": "삼성전자의 브로드컴 반도체 수주와 관련하여 대만 언론이 TSMC의 사업 모델을 언급하며 경계심을 드러냈다."
-  },
-  {
-    "company": "Broadcom",
-    "title": "[실리콘밸리 K-AI] '빅테크 커스텀 칩 시대' 개막…삼성, 브로드컴 손잡고 '반도체 지각변동' 이끈다 - 위키리크스한국",
-    "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE14LTZWMkNrNjhNZ3RUNnVOYUxFNnNubmJvdXBaU0ZCREUxN19EakdBYWl5eVVpaHg3VENuVVBrSGhuZUxwblFoaHNRSG94RVB2VGhlOHdiVzhMTXpnVlQtRFB2Rm81U1RyZGZMLVFpbw?oc=5",
-    "published": "2026-07-27 11:23",
-    "timestamp": 1785118980,
-    "summary": "삼성전자와 브로드컴이 AI 반도체 분야에서 협력하며 커스텀 칩 생태계 변화를 주도한다."
   },
   {
     "company": "알에프에이치아이씨",
@@ -7622,29 +7622,5 @@
     "published": "2026-07-08 23:08",
     "timestamp": 1783519698,
     "summary": "전자신문이 기획한 전력용 반도체 특집 기사로, 허염 실리콘마이터스 사장의 인터뷰를 다루고 있습니다."
-  },
-  {
-    "company": "GlobalFoundries",
-    "title": "SEALSQ, GlobalFoundries와 양자 내성 칩 협력 - Investing.com 한국어",
-    "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5RZTBIQWtObE05RERtWmlGdTVUSFhLcnpvV2VZeF9sby1kZG1Kd0tzTG1JX1ItQXRIM0dVMkNLVFlsUjQ1REVNUncxWGNCX0NsdDVrRXhIb0F6d01XZEJ5el9CTVhOTTh5ZDE1TnJYS1c?oc=5",
-    "published": "2026-07-08 21:14",
-    "timestamp": 1783512840,
-    "summary": "SEALSQ가 GlobalFoundries와 협력하여 양자 내성 칩을 개발한다."
-  },
-  {
-    "company": "Wolfspeed",
-    "title": "Navitas Semiconductor, Wolfspeed 특허 소송에 이의 제기 - Investing.com 한국어",
-    "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE16bjk2bkRqbXdnVGN2dzEyU2xqajRydDJpZ1BuYUtDOTN1SWRMTm50Smx1UEFWeVBhRWNDM0lRMWZlVjVXX3hiRVlNM2pxMzlKcDJVN2JYY2tWTGc0YTB3ZEdlcXVacnkybjJqMHRkUlc?oc=5",
-    "published": "2026-07-08 21:08",
-    "timestamp": 1783512480,
-    "summary": "Navitas Semiconductor가 Wolfspeed의 특허 소송에 대해 이의를 제기했다."
-  },
-  {
-    "company": "Microchip",
-    "title": "마이크로칩, 엔지니어 위한 개발 툴 무료 제공 - Investing.com 한국어",
-    "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE0xa2FpZDBic3Q5OC1XY2dRVUx4YTZRU3EyLTRDRmVTWTRSWHlrM2VwNEtaMVMyWWhuelQ0dzRpTlQ4Rk1ZSUY1SDlnQTZ6RG9tWUluWEF3U0JDb28xWC1Yay1Ccnp4UHAtQXBHZVdReDg?oc=5",
-    "published": "2026-07-08 20:14",
-    "timestamp": 1783509240,
-    "summary": "마이크로칩이 엔지니어를 위한 개발 툴을 무료로 제공한다."
   }
 ]
