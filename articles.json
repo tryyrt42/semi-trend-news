@@ -1,5 +1,29 @@
 [
   {
+    "company": "AMD",
+    "title": "[글로벌] AMD, AI 추론용 맞춤형 칩 스타트업 탈라스 인수 - 테크M",
+    "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBXZDR1Q3VITGNkMHFyeWtxV200eHRLdFBkZlM3TVI0UUEtOFZWZExERWQ0VDVodk1wREo5NEtNZkhUMWdZQzBteFRSU1AxX0cwd3ZNd0xpMXhRRzVQTFlOaExQY3VNbHA4YWfSAWpBVV95cUxQV2Q0dUN1SExjZDBxcnlrcVdtNHh0S3RQZGZTN01SNFFBLThWVmRMREVkNFQ1aHZNcERKOTRLTWZIVDFnWUMwbXhUUlNQMV9HMHd2TXdMaTF4UUc1UExZTmhMUGN1TWxwOGFn?oc=5",
+    "published": "2026-08-08 15:49",
+    "timestamp": 1786171759,
+    "summary": "AMD가 AI 추론용 맞춤형 칩 스타트업인 탈라스를 인수했다. 이번 인수를 통해 AI 관련 기술 역량을 강화한다."
+  },
+  {
+    "company": "퓨리오사AI",
+    "title": "이스트시큐리티-퓨리오사AI, ‘차세대 K-AI 보안 솔루션 개발 및 기술 협력 위한 업무협약’ 체결 - 데일리시큐",
+    "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE56NDZmVGk1d3lueDdEYXVJczl3ZW16V3JkajczNlFSZ0p6Mk9yYkNYRFFhNmtnSjc4TmZMSFFscXM4UTF4R0pvTXlrY281UGZHbGloQVl4Vy1IbGZUdlZFTEYyN3l2XzlWdVdrZw?oc=5",
+    "published": "2026-08-08 15:49",
+    "timestamp": 1786171753,
+    "summary": "이스트시큐리티와 퓨리오사AI가 차세대 K-AI 보안 솔루션 개발 및 기술 협력을 위한 업무협약을 체결했다."
+  },
+  {
+    "company": "NVIDIA",
+    "title": "\"엔비디아 통신 시장 진출, 무선 통신장비 업체 수혜\"[주末머니] - v.daum.net",
+    "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFAxcHpfeW5CT0I4aVFib3h0R0JMMFNLbllZQ1BpLTV2Y051cGFWQUI5Q24wQnJnS05aWm5QS1lzUXRnbXBYTmYwaXU3ZXl5Q1E?oc=5",
+    "published": "2026-08-08 15:16",
+    "timestamp": 1786169812,
+    "summary": "엔비디아가 통신 시장에 진출함에 따라 무선 통신장비 업체들이 수혜를 입을 것으로 분석된다."
+  },
+  {
     "company": "Qualcomm",
     "title": "흥미로운 S26 FE, 삼성 칩셋과 퀄컴 칩셋을 동시에 쓴다? - 베타뉴스",
     "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE5uelF1YlhoZURvcm53M3MwYmwtNG1MbzZDMGFiRlgwblJiUnpTN3VGQndKRXpjb3ZxcmNPc3kwUVpDRkUxdHBpLWd1LU01REFtTlRTdnlaMV95NkpsQTdOY1dtWm8?oc=5",
@@ -22,6 +46,14 @@
     "published": "2026-08-08 10:48",
     "timestamp": 1786153680,
     "summary": "엔비디아가 HBM 부족 사태의 영향을 받아 루빈 전략 수정을 진행한다."
+  },
+  {
+    "company": "Google",
+    "title": "'개발자의 전설'마저…AI 연구자들이 구글을 떠나는 이유 [김인엽의 AI 프런티어] - 한국경제",
+    "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9DYmx3ajM2em51VklyU1N0ak1tdWNjeWplc0QxeG43U1hkWmV2S3h4ejBMMVdkMHBycjNqc1RGMWNBRlJZdkphYThodTFyXzNsNHlXR205QnBQQQ?oc=5",
+    "published": "2026-08-08 10:00",
+    "timestamp": 1786150811,
+    "summary": "구글의 AI 연구자들이 회사를 떠나고 있으며, 여기에는 개발자의 전설로 불리는 인물들도 포함되어 있다."
   },
   {
     "company": "NVIDIA",
@@ -49,11 +81,11 @@
   },
   {
     "company": "Intel",
-    "title": "TSMC에 도전장 내민 인텔, '반값 패키징 기술' 승부수[대만칩통신] - 아시아경제",
-    "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE9wNDZ1Nzk2a1NnUUlxUndrWWd2RXNCZmxKbFQyODRzd0NzejFNZEM1MWxLR0ZoZU9UU1dLWGF3Wnotb0ZMRXFZN2FnTWpaNF95SzBfVUhPZlc1aW44RFM3VU1vcUw?oc=5",
-    "published": "2026-08-08 08:00",
-    "timestamp": 1786143600,
-    "summary": "인텔이 TSMC에 대응하기 위해 반값 패키징 기술을 도입하며 파운드리 시장 공략에 나섰다."
+    "title": "TSMC에 도전장 내민 인텔, '반값 패키징 기술' 승부수[대만칩통신] - v.daum.net",
+    "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFBmOTBsVXE2ZGlhWTY4Q1ZiMy1lQjZBd2l2T0JBdFQ0ZXVBNWFNVGlQSDBpcWZLVU9kUjF2LVdIWm1BaXBFVEdROEk1b0xJYzlfNjdYQQ?oc=5",
+    "published": "2026-08-08 08:02",
+    "timestamp": 1786143766,
+    "summary": "인텔이 TSMC에 대응하기 위해 반값 패키징 기술을 도입하며 경쟁력 강화에 나섰다."
   },
   {
     "company": "Qualcomm",
@@ -294,6 +326,14 @@
     "published": "2026-08-07 18:03",
     "timestamp": 1786093405,
     "summary": "AMD가 AI 모델 회로를 직접 구현하는 스타트업 '탈라스'를 인수했다. 이번 인수를 통해 추론 칩 시장 공략을 강화할 계획이다."
+  },
+  {
+    "company": "Apple",
+    "title": "애플, 중국 CXMT에 ‘퇴짜’…삼성·SK하이닉스 반사이익 '기대' - 인사이트코리아",
+    "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE5WekNMUWE3cEdGLTctdTJZZHNPYmtBdmZJdFJDOXRyRDgwMVRuODlxaHk3ZmcwbU9JYUhJUFZrTERvTjAzNmhLODN2UkFGa1d2RkZMSDBNYjJLSmlsTlpVejZBamtjSXktbC1rVWIyYkpLYlM5WDhR0gF3QVVfeXFMTlZ6Q0xRYTdwR0YtNy11Mllkc09ia0F2Zkl0UkM5dHJEODAxVG44OXFoeTdmZzBtT0lhSElQVmtMRG9OMDM2aEs4M3ZSQUZrV3ZGRkxIME1iMktKaWxOWlV6NkFqa2NJeS1sLWtVYjJiSktiUzlYOFE?oc=5",
+    "published": "2026-08-07 17:53",
+    "timestamp": 1786092812,
+    "summary": "애플이 중국 CXMT와의 거래를 거절함에 따라 삼성전자와 SK하이닉스가 반사이익을 얻을 것으로 기대된다."
   },
   {
     "company": "NVIDIA",
@@ -800,14 +840,6 @@
     "summary": "엔비디아가 차세대 제품인 루빈 울트라에 탑재될 메모리 용량을 축소하는 방안을 검토하고 있다."
   },
   {
-    "company": "NVIDIA",
-    "title": "‘소버린 AI’ 타고 커지는 엔비디아 DSX…인니 통신사와 1GW 시동 - 디지털데일리",
-    "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE9PZ0ctUFh1NUg5U3R1WnkyYmtRNVVKbTdxZXdEbmRDbjZBbGItSlRnMktSZGJ6cFpYaGJCZWUxOTZ5WHlmSktySFh4XzhacUxsb3Q1Tmx5eF95MTRPVmF2RzRLM0Q?oc=5",
-    "published": "2026-08-07 10:25",
-    "timestamp": 1786065912,
-    "summary": "엔비디아가 소버린 AI를 기반으로 인도네시아 통신사와 1GW 규모의 DSX 사업을 추진한다."
-  },
-  {
     "company": "Kioxia",
     "title": "KIOXIA GP Series Super High IOPS SSD Named ‘Best of Show’ at FMS: the Future of Memory and Storage 2026 - 뉴스와이어",
     "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE9TSGpmNUZ3VE90RUFJNjJ6TVpMZzVtRERCelZtbFRXMUhLLWFYX1d4Q0s4VWUyVTFyVlJYdVJKX3FaQmQyb2UtQm90N2lVWThBZF9obG40ZXU0M3RmOUlZ?oc=5",
@@ -942,6 +974,14 @@
     "published": "2026-08-07 08:16",
     "timestamp": 1786058168,
     "summary": "AMD가 AI 모델 하드웨어 내장 칩을 제조하는 스타트업을 인수했다."
+  },
+  {
+    "company": "Tesla",
+    "title": "테슬라·스페이스X, AI 칩 직접 만든다…텍사스 주 '테라팹' 프로젝트 본격화 - 메디컬투데이",
+    "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE0yOUhfUzY2VXltWWsyOWs4RDBSZmZwSktsa21xVFlqa2VQN0puUTFzZUFBRnRHTDd0NVcydDd3NWpQR3RDX085RDRPVFRTMlBBTEV3VGxJMVA0TzA3R1dYUDdnZDRBb3BIT1ZiSg?oc=5",
+    "published": "2026-08-07 07:57",
+    "timestamp": 1786057027,
+    "summary": "테슬라와 스페이스X가 AI 칩을 직접 개발하기 위해 텍사스주에서 '테라팹' 프로젝트를 본격적으로 추진한다."
   },
   {
     "company": "AMD",
@@ -2328,14 +2368,6 @@
     "summary": "인도가 전자 제조 분야의 세제 혜택을 2041년까지 연장함에 따라 애플과 구글이 수혜를 입게 되었다."
   },
   {
-    "company": "AMD",
-    "title": "속보 AMD 분기 매출 115억4천만 달러...전망치 뛰어넘어 - YTN",
-    "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE5FcjV1b0k0ZF9zQUNTLUVzM0E4UnFCRksxbTN2OTBqVWVpLVNyOGFYcVNzUE5PX1FVaTN4UUJrM3V2RjFmcWhZdXQ4cUdTa3FMOExZQ2l5UFFWajhNeHJ6X0doYWE1cTZuVnN1bGduYmxxclpOMGc?oc=5",
-    "published": "2026-08-05 05:31",
-    "timestamp": 1785875460,
-    "summary": "AMD의 분기 매출이 115억 4천만 달러를 기록하며 시장 전망치를 상회했다."
-  },
-  {
     "company": "TSMC",
     "title": "첨단공정 증설 가속하는 TSMC…삼성, 2나노 수주 확대 나서 - 뉴시스",
     "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE85M2oyRkJQcXcySW8yX3NDUEFEMDd1Y2dBOUc2LXJnY3hpb25lLTdGOGNmZ0JraDRJRmIwUWJaTFdWb2FWeTJRSmtFRDJLclliRUFMYVM0S2JGMUUwdWhpVzJ3TEZxZnhXT1dUME1GczdTOEtGeVh2S9IBeEFVX3lxTE85M2oyRkJQcXcySW8yX3NDUEFEMDd1Y2dBOUc2LXJnY3hpb25lLTdGOGNmZ0JraDRJRmIwUWJaTFdWb2FWeTJRSmtFRDJLclliRUFMYVM0S2JGMUUwdWhpVzJ3TEZxZnhXT1dUME1GczdTOEtGeVh2Sw?oc=5",
@@ -3432,14 +3464,6 @@
     "summary": "마이크로소프트가 코파일럿을 통해 애저의 반도체 생태계 확장을 도모한다."
   },
   {
-    "company": "Apple",
-    "title": "애플의 딜레마 '중국산 칩' [횡설수설/김창덕] - 네이트",
-    "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5qc2tmNkZPdjI0UWhHTGg3dmN5Zlk0MFdqNWN3ejBQWDRERWQxR3dubDZsN3F0UWtodWdoUmlQbXJ4ZGZrWlBaTktlZHlUMDdYRVBGdW5pWTB4TktMWEx2WA?oc=5",
-    "published": "2026-08-02 23:19",
-    "timestamp": 1785680340,
-    "summary": "애플이 중국산 칩 사용과 관련하여 겪고 있는 딜레마를 다룬 기사이다."
-  },
-  {
     "company": "Qualcomm",
     "title": "리눅스 7.3은 퀄컴 애드레노 704 및 애드레노 722 GPU를 지원할 예정입니다. - GameGPU",
     "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxOb3oteTlCZzFDSVhYaVBpcURDSzFmZk5oaTdZcU9ubE9aZTlHNlQzV2hKZGMzZ2VGR3FsLXd5VS1UNXFPNEVyOTdNSHVzMFNnS0Z3UmlPbjdkZEpEcEh5eW11MlNLd2ZPWUZyLUF5TzBpem80VGNkM2R6MHZlaXgzUDl5QjN4RXNYdkpmU0c3Nzh6b3htR0F4bmtKUFZWbkZPZjlyWkZuMkpObEswbWlNSi10VEY0V0VxLU5rRXRDSE41WGM?oc=5",
@@ -3742,14 +3766,6 @@
     "published": "2026-07-31 21:06",
     "timestamp": 1785499607,
     "summary": "델이 온프레미스 환경에서 제미나이, 그록, 챗GPT 등 프론티어 AI 모델을 지원한다."
-  },
-  {
-    "company": "Google",
-    "title": "[한눈에 보는 Weekly 기업 소식] 구글, 로봇구동 AI '제미나이 로보틱스2' 공개…전신제어 구현 - kipost.net",
-    "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9CWVdPOEc2bHRUbXlIMHVTTkhQTklpaGNYSFBrWlVBTXA1SnpwMTRBVFhWOTZqZ2t0d1pFaksxVDY5U3NCMVhIaUJhSE9VcHFscHREMFNaNS00OFA0UjA2ZVUyaXVqeGlTa1RlRNIBbEFVX3lxTE9CWVdPOEc2bHRUbXlIMHVTTkhQTklpaGNYSFBrWlVBTXA1SnpwMTRBVFhWOTZqZ2t0d1pFaksxVDY5U3NCMVhIaUJhSE9VcHFscHREMFNaNS00OFA0UjA2ZVUyaXVqeGlTa1RlRA?oc=5",
-    "published": "2026-07-31 20:32",
-    "timestamp": 1785497575,
-    "summary": "구글이 로봇 구동을 위한 AI 모델인 '제미나이 로보틱스2'를 공개했다. 이를 통해 로봇의 전신 제어 기능을 구현했다."
   },
   {
     "company": "Synopsys",
@@ -4776,14 +4792,6 @@
     "summary": "코보와 스카이웍스의 합병 법인 경영진 명단이 발표되었다. 신임 CEO로 필 브레이스가 내정되었다."
   },
   {
-    "company": "퓨리오사AI",
-    "title": "퓨리오사AI, 베트남 CMC 코리아와 업무협약 체결…글로벌 시장 초점 - 아이티데일리",
-    "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE5vUjZWUjFQaWwwMTlBZXZkVi0tWE1kYVJXNHF2RzEtWm1RcWkzcHRCS0Q2YnNhNUdXRktqLUlxb3otSHZfSWJoQ2MyVVZsbjYxZXdaQUw2RGhUWEtMamg2NUpRNlBwX09E?oc=5",
-    "published": "2026-07-29 02:43",
-    "timestamp": 1785260639,
-    "summary": "퓨리오사AI가 베트남 CMC 코리아와 업무협약을 체결하며 글로벌 시장 공략에 나섰다."
-  },
-  {
     "company": "NXP",
     "title": "NXP세미컨덕터즈, 차량용 반도체 수요 반등에 실적 주목 - Investing.com 한국어",
     "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE0xY0Y3bWdjNWNqS3huMjN5T2hlYnk0c1l3NkM2UjJlZnlWOVh4RW1BVmRpVUU4M2tWMkVCaDU3aTVOYTlSb1JWZHhic203aHlfNDc0dUtQc1IxNTRtYlY1ek1xb2NQOXBDMDRF?oc=5",
@@ -5518,14 +5526,6 @@
     "published": "2026-07-26 06:00",
     "timestamp": 1785013200,
     "summary": "리벨리온 정윤석 CSO가 Arm 및 SKT와 협력하여 AI 추론 서버를 개발 중이라고 밝혔다. CPU가 관제탑 역할을 수행하고 NPU가 연산을 담당하는 구조다."
-  },
-  {
-    "company": "Tesla",
-    "title": "옵티머스에 미래 건 테슬라…'지능·손·양산' 3대 난제 - 글로벌이코노믹",
-    "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOVHNoYVRMelZSWVlfYjdJWmdjaDhNY0p5VEN4QU5oNGQ2Y0o3Zy05LTVuNERTTDUzTGZibGE5ajdkR2dOUURqS29XaUwyV21wcTBtRU1sTEVtZEdIbHFHc1dFeFBVV09udE40c2hDS0pDNUd4RGZwdkI2VkdNZ3pKcTdtTEdJV3VH?oc=5",
-    "published": "2026-07-26 06:00",
-    "timestamp": 1785013200,
-    "summary": "테슬라가 휴머노이드 로봇인 옵티머스의 개발을 위해 지능, 손, 양산이라는 3대 난제 해결에 집중하고 있다."
   },
   {
     "company": "Microsoft",
@@ -7446,77 +7446,5 @@
     "published": "2026-07-09 17:58",
     "timestamp": 1783587534,
     "summary": "TI 코리아 박중서 대표가 반도체 기술을 통해 로보틱스 미래를 앞당기고 차세대 지능형 기계 개발을 지원하겠다고 밝혔다."
-  },
-  {
-    "company": "Microchip",
-    "title": "호치민시: 고품질 반도체 마이크로칩 인재 양성. - Vietnam.vn",
-    "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxOVmhER2c3X1l5Vl8tRGhLelZFaWxvOTZLTXZLRFZRNkVrakNYUUk0V2lzaFJVYzBGaUpubHN3OVUtSDBoSjVJVHRBTUUzWGgzU21ubHdfMlRnU2dPQ0pjaEg0Q19LX3JaQTZvMWtYUHFaYndzb19ndUlOWUpuRFR5R293RTFMTU04X2xVUTBKakk2eEotb3pfNTAxNEd6UQ?oc=5",
-    "published": "2026-07-09 17:48",
-    "timestamp": 1783586926,
-    "summary": "베트남 호치민시가 고품질 반도체 마이크로칩 인재 양성을 추진한다."
-  },
-  {
-    "company": "NXP",
-    "title": "공정위, 글로벌 반도체사 NXP·ADI 제재 착수…“국내 유통사 경영 간섭” - MSN",
-    "link": "https://news.google.com/rss/articles/CBMiogRBVV95cUxQcHJfS3F2STJyUzFOdFNHQ2QyaVF3azJmMkgtakd5cmNITEhGcHRLallmNkJ4dmJtcmFQWldFTHhxLWF6WUh4SzRodGZqeEpHbmlRM3d4cnBkaEp2SElRNmVLTnRPZ3VFSXpLWng0M2NkYy10ck1tS3FvS1d3U1RoVFZ6MURRblJWWFl1d0xpOEdQblVGWEZyRHFPX1lwdExLZ3NUekhCWjNyYmNOVnUtaGUtbHkxVFlJbFlEb08wNmxReVZvSVJqRk93ek1WeE9fTkpKWkN5OExSRnhWcFVMOEk2U2pleC11bTZ0dGQ2WTJWeXRTZEptUWVTYVRsU1NrWHVrOWZqMVFKN1l6Wmh2RWx5alppbU1UVnlhSFdYU1JKYzdvbzRuZEJWUk02Vkw2MnYxTXE4N2JkZGd1eW9SaGlVR3ZRNF9xRVdJcmxDdjZqcThnUUZsRVU3VGFMWHBZOVV0eGFYTVgyZFNIY1FfbF9mYUVTV3QtOUZQT2tfZWJvOWxuUi1aaWhPYjlmZjhuLUJEM3FZLUVPbnc5MzQ0QUhQa1h0UlF5YWVyNUdBdENGdzFBbjNlTzFxaFc4Z3U2QkVoZkF3TGZPaUtXQ0picEVCUlJZX0JlRXdVQ1hldlZ1RzA0bTR4em9xNk1udmhOUk9lZG1RWV9oek93SmtGRDBoVUt2WnVab3JNSWF4c2l4Uk1RRDl1Q21rTWpybjNOeHc?oc=5",
-    "published": "2026-07-09 17:33",
-    "timestamp": 1783585983,
-    "summary": "공정거래위원회가 국내 유통사에 대한 경영 간섭 혐의로 글로벌 반도체 기업인 NXP와 ADI에 대한 제재 절차에 착수했다."
-  },
-  {
-    "company": "Texas Instruments",
-    "title": "TI, 로봇용 반도체 시장 겨냥…\"연말부터 고객사 제품에 양산 적용\" - v.daum.net",
-    "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE5seXY0elFfT252ekp0U0ZtSUpCQ1AycHdWM2tUUjRrX2pMTFZZcjBrRTMzc2lhQnhMRG1IT1R2eTdHQjVKa2wwT3VaUWVTRkU?oc=5",
-    "published": "2026-07-09 17:27",
-    "timestamp": 1783585656,
-    "summary": "TI가 로봇용 반도체 시장을 겨냥하여 연말부터 고객사 제품에 양산 적용할 계획이다."
-  },
-  {
-    "company": "모빌린트",
-    "title": "모빌린트 2세대 NPU '레귤러스' 연말 대량 양산 목표 - 디일렉",
-    "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE5nSmlvT2tSWUFibFBxd01aX1lqMTN5ZHROcVRIeUdwcmhjdzZSYXZuRXAwRzVMNmdHRTJjaWRMM013N2pmRFBaWjhKaXNZMEthVkR4eEE2LTNrYjVXTnBTbm95ZUROZw?oc=5",
-    "published": "2026-07-09 17:03",
-    "timestamp": 1783584181,
-    "summary": "모빌린트가 2세대 NPU인 '레귤러스'의 연말 대량 양산을 목표로 하고 있다."
-  },
-  {
-    "company": "STMicroelectronics",
-    "title": "MDS테크, ST마이크로일렉트로닉스와 TRACE32 교육 과정 전면 개편 - MSN",
-    "link": "https://news.google.com/rss/articles/CBMi8gJBVV95cUxOU2QxcXNLTjZLUnhjcXlpc3ExS3c5TjhCakl6RE1nUXpEV3VTQmc3TlZmZlBuTUg3UE5KdTcwdDJkZmxRWVZQRXRqVEJock45Z3RsbHpqMWp5cW9aSXVtVzdtS2FBR0FMYnRSQzl1MWFWWHlFV3pvVzZkMTZEYmFwQmlqM2t3RC1jNEZWbzg5bjFnVFZlUGJrWmd3MU1PcDdJeFUyTkhQeFM2djVTTzlRdWN4M3NhUkVrb0FJeGFlTTFIVEJrVWdoeEpiMEpPUTJDUHV3WmVLWVd2WFF5dV81Q1NsREduczdKZjRhXzBDY1FTNHJ3VXhpOE8tNTZ5UEJrRG83em95VlQ5LVpoM09iSXRJejZuYlN6d0VONE1faTFtMnFUUzJsSWxlQWlmTlJBZHRYak5wRWpsZXo5bWtTWDVuRW1ZWHJlZElWa19uUHZ6MVk2dVJKMEthZmN6V0xqeVB3enBwU3cteDlEUHZYb19B?oc=5",
-    "published": "2026-07-09 16:58",
-    "timestamp": 1783583919,
-    "summary": "MDS테크가 ST마이크로일렉트로닉스와 협력하여 TRACE32 교육 과정을 전면 개편한다."
-  },
-  {
-    "company": "Texas Instruments",
-    "title": "車에서 검증한 반도체로 로봇 난제 푼다… TI “휴머노이드 미래 앞당길 것” - 조선비즈 - Chosunbiz",
-    "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxQWWt3V3RyeWtVdjdJNmxCZ095RzFCcGo3OXZTc3c1cXJnUzJtcWxkWFg1NHhvTmxQR3htUUltdEhsX2lJNjJkRS10Q3hYY2VrRVpXTHRPazQ3Z21SZDNCXzJjd2Y4UjA5TkM0NlB3WWNtSWxkNXQ4MnVhOGxTX09VWDln0gGWAUFVX3lxTE9TcXNvT29ucy05YUVnOEFBVG5iRWVJM1ZTZVpXeFdKbFQ1X2FCUVVDdGFYNlAzMGFPWnpEaVljbFMyMjZZSmNUWHlvd1NEdmJGZTVTbVlpTmpKSjgxV2c3dzM0eUF4b2t0UWM5ZDBrZlIzUDd5cldPMDR1Y0U1VkQwRjhoWm1vckgyV0l0RGJvSHhkTzU1UQ?oc=5",
-    "published": "2026-07-09 16:34",
-    "timestamp": 1783582440,
-    "summary": "TI가 자동차 분야에서 검증된 반도체 기술을 활용해 휴머노이드 로봇의 난제를 해결하고 미래를 앞당기겠다고 밝혔다."
-  },
-  {
-    "company": "Texas Instruments",
-    "title": "500나노초의 연산 한계 돌파…허정혁 TI 이사 \"차량 검증 인버터 융합 로봇구동 실시간성 달성\" - 네이트",
-    "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFBJa041MUVTZWlvQmVibEhlekZmWXZPbGJaQ3haandJWXN4T1NEX2ZuOHUzeVNudDJhZWNXWHNJd3lydUNOYTEtWkVtOHRib0lJRjFN?oc=5",
-    "published": "2026-07-09 16:00",
-    "timestamp": 1783580410,
-    "summary": "허정혁 TI 이사가 차량 검증 인버터 융합 로봇 구동의 실시간성을 달성하여 500나노초의 연산 한계를 돌파했다고 언급했다."
-  },
-  {
-    "company": "Microchip",
-    "title": "마이크로칩, MPLAB XC 프로 및 머신러닝 도구 무료화 - 더에이아이",
-    "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9kblBkSDhQcXpiWGZyTkZYb19VTElfcXdNN2JWY21iS29Yb1hSVkxwVnZiWnJvUU5QeklLR2NmMmFTUm01M3ZRbjF4OWFyWGxORFZzaWJBbXlrS1ZtdFlISVdYSEdyWVc3bWc?oc=5",
-    "published": "2026-07-09 15:29",
-    "timestamp": 1783578550,
-    "summary": "마이크로칩이 MPLAB XC 프로 컴파일러와 머신러닝 개발 도구를 무료로 제공한다."
-  },
-  {
-    "company": "가온칩스",
-    "title": "글로벌 빅테크 자율주행·AI 개발 붐…가온칩스, 디자인하우스 지배력 부각 - 핀포인트뉴스",
-    "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE1GQU9hNk1nY3NQR2pfVWhIVmY4TEx0cEFTMVBrVTh1WERWdGVYejZGNC1Fc0t2Zl9PbjhSYVpsTHdQMGtWWUFVclVCczFobjhnTXZUWkJkWXNBS1lNT1V3WTV6d253UjBsYU9qLXRhU1VMZlBIMmQw0gF3QVVfeXFMTUZBT2E2TWdjc1BHal9VaEhWZjhMTHRwQVMxUGtVOHVYRFZ0ZVh6NkY0LUVzS3ZmX09uOFJhWmxMd1Awa1ZZQVVyVUJzMWhuOGdNdlRaQmRZc0FLWU1PVXdZNXp3bndSMGxhT2otdGFTVUxmUEgyZDA?oc=5",
-    "published": "2026-07-09 14:47",
-    "timestamp": 1783576045,
-    "summary": "글로벌 빅테크의 자율주행 및 AI 개발 붐에 따라 가온칩스의 디자인하우스 지배력이 부각되고 있다."
   }
 ]
