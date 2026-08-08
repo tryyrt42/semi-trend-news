@@ -1,5 +1,13 @@
 [
   {
+    "company": "Google",
+    "title": "구글이 286조 원 푼다…엔비디아와 'AI칩 전쟁' [자막뉴스] - 네이트",
+    "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFBkNkZxa1FLZ2gwOU5NWE92dEhXSU1meHdoalBHUmpnQkxoUXpvVjZPQTNzRkZPRkFQTmZKbnkwaEZ0cHQ1Y1BWVjdnb3RlTTZ6R3hj?oc=5",
+    "published": "2026-08-08 20:04",
+    "timestamp": 1786187040,
+    "summary": "구글이 286조 원 규모의 투자를 단행하며 엔비디아와 AI 칩 분야에서 경쟁을 본격화한다."
+  },
+  {
     "company": "NVIDIA",
     "title": "Nvidia, 전력 개발사 랜시움에 20억 달러 투자 — 보도 - Investing.com 한국어",
     "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE93b0tkdF9OY3FWa1JuTXBTT0FtbkgzUU1fSFd2M0Q4Q1JrWl95M3p1UmI3TF9yTDJRSEljbnZ4bHYxdndyZTk4aWowWGFyN1ZuQmpSbFp5YUdsc0ptdExqdUFWNnpaWXNmekk3RHh5TlI?oc=5",
@@ -705,6 +713,14 @@
   },
   {
     "company": "AMD",
+    "title": "AMD, AI 추론용 맞춤칩 스타트업 '탈라스' 인수…엔비디아 추격 - v.daum.net",
+    "link": "https://news.google.com/rss/articles/CBMiRkFVX3lxTE1DR2hxeU1ESXVhVkExSHpNVXh2WUFDRVpjQXg1bE9hQmNqTk5pdzdUYVJFVTJYRzctTUZoNEZLNEctdjBDUmc?oc=5",
+    "published": "2026-08-07 11:27",
+    "timestamp": 1786069627,
+    "summary": "AMD가 AI 추론용 맞춤칩 스타트업인 탈라스를 인수했다. 이번 인수를 통해 엔비디아 추격에 나선다."
+  },
+  {
+    "company": "AMD",
     "title": "AMD, IFA 2026 참가…잭 후인 부사장 개막 기조연설 - 디지털데일리",
     "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE0teUtNZFlRN1pBUm5rRWlYYUswcTlpQXZDUGJHTXF0LTFnS21kXzViVG9nVFdQRERySVR5SGtiSV81X2tFQmJkUXNVYnV6UXBua1gwR3ZvYlZKM1RjaEdRdk5yTHc?oc=5",
     "published": "2026-08-07 11:26",
@@ -1110,6 +1126,14 @@
     "published": "2026-08-07 02:36",
     "timestamp": 1786037807,
     "summary": "Broadcom의 VCF 9.1 업데이트를 통해 VMware vDefend의 분산 방화벽 처리량이 75Tbps에 도달했습니다."
+  },
+  {
+    "company": "Silicon Labs",
+    "title": "실리콘랩스, 초저전력 블루투스 LE SoC BG2B 공개 - K뉴스통신",
+    "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTFBOemhVN0QtcFMwQ0NaUmZZR1JTQ19VOFJCN2ZYME1mWTVCT0N5QXRQZ3MtY3hQa2p4Umg4aVBRYVVudDk3WDZBTEdweVdwVmtDTkl0UmVlMU9McHFXQ1lnOUZLd05Qb0JvYUZF0gFrQVVfeXFMUE56aFU3RC1wUzBDQ1pSZllHUlNDX1U4UkI3ZlgwTWZZNUJPQ3lBdFBncy1jeFBranhSaDhpUFFhVW50OTdYNkFMR3B5V3BWa0NOSXRSZWUxT0xwcVdDWWc5Rkt3TlBvQm9hRkU?oc=5",
+    "published": "2026-08-07 00:51",
+    "timestamp": 1786031517,
+    "summary": "실리콘랩스가 초저전력 블루투스 LE SoC인 BG2B를 공개했다."
   },
   {
     "company": "Tesla",
@@ -2238,14 +2262,6 @@
     "published": "2026-08-05 10:17",
     "timestamp": 1785892620,
     "summary": "래티스 세미컨덕터가 2분기 사상 최대 매출을 달성했다. AMI 인수와 함께 연 매출 10억 달러 달성을 앞두고 있다."
-  },
-  {
-    "company": "AMD",
-    "title": "AMD 라이젠 AI 헤일로, 엔비디아 제치고 온디바이스 에이전트 성능 34% ↑ - ddaily.co.kr",
-    "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE8tcTFuRkQ0THFXVmdnM3hVWUotMVNzdzliY3Q1akQ2b2Y4bGpPWVVGYXBWWER3TUdPQzlSUk93cmQzVF9FbkptMnA3SGlTenF5UHVzR0Zwb2hYYWQzRmRMc1gyVDY?oc=5",
-    "published": "2026-08-05 10:16",
-    "timestamp": 1785892615,
-    "summary": "AMD의 라이젠 AI 헤일로가 온디바이스 에이전트 성능에서 엔비디아 대비 34% 향상된 수치를 기록했다."
   },
   {
     "company": "퓨리오사AI",
@@ -3750,14 +3766,6 @@
     "published": "2026-08-01 00:49",
     "timestamp": 1785512947,
     "summary": "미국 정부가 글로벌파운드리스에 3억 달러를 지원한다. 이번 지원은 AI 반도체 핵심 기술 육성을 목적으로 한다."
-  },
-  {
-    "company": "Google",
-    "title": "구글, 앤트로픽에 수십억 달러 채무 보증…TPU 생태계 확장으로 AI 인프라 주도권 선점 - 매일경제 마켓",
-    "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE1VUkgzTzNmc29pb2dlSFdqRWduZnJYWkZra01VUV96WG83ZVZrOXZ5OGNJVkk0VzZBanpxbHJOWWhTaHZINFdNbTM0c3Jjb2EtRmc?oc=5",
-    "published": "2026-08-01 00:04",
-    "timestamp": 1785510263,
-    "summary": "구글이 앤트로픽에 수십억 달러 규모의 채무 보증을 제공했다. 이를 통해 자사 TPU 생태계를 확장하며 AI 인프라 주도권을 선점하고자 한다."
   },
   {
     "company": "Meta",
