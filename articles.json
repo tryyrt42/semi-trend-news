@@ -1,11 +1,43 @@
 [
   {
+    "company": "Intel",
+    "title": "인텔, 수천개 위성 관리하는 '궤도 데이터센터' 특허 확보 - 지디넷코리아",
+    "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1KN3ZKS3BibGpocHRnOG42cWFPUFZhbFk2OTdrTnk4aGNteVhvMWNlY1RRRmJRUUoyRFRiNXdPUUttU0wyTW5TMG9sWjRNSXMtRWJfSDJB?oc=5",
+    "published": "2026-08-09 07:31",
+    "timestamp": 1786228278,
+    "summary": "인텔이 수천 개의 위성을 관리할 수 있는 궤도 데이터센터 관련 특허를 확보했다."
+  },
+  {
+    "company": "NVIDIA",
+    "title": "HBM 대란에 엔비디아·AMD \"사양 낮춰서라도…\" 삼성·SK, 공급전 더 뜨거워진다 [칩칩팹팹] - 네이트",
+    "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE1RdGJkdG84UEJaenBGeWVSYS1id3lMRzJua2dHekZlR3Vaa2FCYmxFRmtpQ21aZEtwUzJRUzJqMVVHWHFwdHlOaDhkYmYtWnA0MkVWa0w5ZE9XYjQ0WFdJcWwxeTNxcWlmY2RhRTNlb2NoLVdEQS1JVw?oc=5",
+    "published": "2026-08-09 06:31",
+    "timestamp": 1786224660,
+    "summary": "HBM 대란 속에서 엔비디아와 AMD가 사양을 낮춰서라도 공급을 확보하려 하며, 삼성과 SK의 공급 경쟁이 심화되고 있다."
+  },
+  {
+    "company": "Google",
+    "title": "[AI 클로즈업] 하사비스·제프 딘 이후의 구글… ‘제미나이 2막’ 시험대 - 디지털데일리",
+    "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE9VZVFaUlRZamwxX0Q5WER2clR1cm90bGJKMkRwTXUxVDdEUEdlekFQbldtVy1NUEdoS0p1S3FISGRmdE9QcEdDRS1TS0VvNXJIZXc0YlBUU2l5UGUtSlc3cmZkV2w?oc=5",
+    "published": "2026-08-09 06:10",
+    "timestamp": 1786223406,
+    "summary": "하사비스와 제프 딘 이후 구글의 차세대 AI 모델인 제미나이 2막이 시험대에 올랐다."
+  },
+  {
     "company": "NVIDIA",
     "title": "엔비디아, 스타게이트 개발사에 최대 30억달러 투자 - 초이스스탁US",
     "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBYRjFpdWtNN1YxZENCOUlZYVJnWFhoMzd1R1dKbl80M1NZMUxuNGV4TVdWODkxMndoQVB0QmNXOVJsdmdzWG4xeURhcGFzVC1CalptZENjZ0puWUU2clJ2YnEwNFE5TTA?oc=5",
     "published": "2026-08-09 05:00",
     "timestamp": 1786219200,
     "summary": "엔비디아가 스타게이트 개발사에 최대 30억 달러를 투자한다."
+  },
+  {
+    "company": "NVIDIA",
+    "title": "엔비디아, 전력업체 랜시엄에 4조원 투자…AI 인프라 확보 - v.daum.net",
+    "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE1qcW9DV0JFUHhUbTNFVTBzRGo1Unh0bkdhdkRrRWtyV3lUUjdrdTRrQVhKcXRHNWNTeFhFYmFkWUhoTktaY0lpZ3Z6UjNPa1E?oc=5",
+    "published": "2026-08-09 04:50",
+    "timestamp": 1786218642,
+    "summary": "엔비디아가 AI 인프라 확보를 위해 전력업체 랜시엄에 4조 원을 투자한다."
   },
   {
     "company": "NVIDIA",
@@ -752,28 +784,12 @@
     "summary": "엔비디아가 HBM 부족과 비용 부담에 대응하기 위해 루빈 울트라 메모리 사양 조정을 검토하고 있다."
   },
   {
-    "company": "NVIDIA",
-    "title": "리얼월드, 국내 3사와 엔비디아 '아이작' 벤치마크 고도화 나선다 - AI타임스",
-    "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5iT1Nrc2trSnBZcHMzUk93ckVnTFljX2xhZWVkeEJhTDlhV3NsajIwTzlSLWtPLXllWXJnYmdjc3paUEFmRG91RnVicmxuT0EtTVVOSXpGdzNQWTFpS3pueEtvc2RyY0VtV0E?oc=5",
-    "published": "2026-08-07 12:41",
-    "timestamp": 1786074065,
-    "summary": "리얼월드가 국내 3사와 함께 엔비디아의 아이작 벤치마크 고도화에 나선다."
-  },
-  {
     "company": "Google",
     "title": "SK하이닉스 HBF에 힘 실은 구글…\"AI, 더 큰 메모리 필요\" - 네이트",
     "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBPSENCdU9PUWVGdGVMYUtxZ01WbjZpb3BhZlJDZDRrRElaVnR3UnVKa2Nqc01IOHVrMm5URkR0RTFyd0R1eGxPajE2N0txV2pCQllmbDlWdVAzU0VUOUNkVg?oc=5",
     "published": "2026-08-07 12:29",
     "timestamp": 1786073340,
     "summary": "구글이 SK하이닉스의 HBF 기술에 힘을 실으며 AI 구동을 위한 더 큰 메모리 용량의 필요성을 강조했다."
-  },
-  {
-    "company": "NVIDIA",
-    "title": "리얼월드, K-피지컬 AI 연합 구축∙∙∙엔비디아 협력 ‘덱스벤치’ 글로벌 표준화 가속 - 스타트업투데이",
-    "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE96dU9DY0Rwei1XTncwOFRnT0xvcE9ncTdERXp2OE1xUHVYVVBoc3VwaVIycVVqcFMxdC1pLW1meXlFNjdnS0ZYX1RnMlhDNmZXaVIwczlVWmZjQnBWSXM0a09JMUYySU1kaDlDbA?oc=5",
-    "published": "2026-08-07 12:26",
-    "timestamp": 1786073160,
-    "summary": "리얼월드가 K-피지컬 AI 연합을 구축하고 엔비디아와 협력하여 덱스벤치의 글로벌 표준화를 추진한다."
   },
   {
     "company": "TSMC",
@@ -798,6 +814,14 @@
     "published": "2026-08-07 11:53",
     "timestamp": 1786071207,
     "summary": "마이크로칩이 고성능 PCIe Gen 6 스토리지 아키텍처를 시연했다."
+  },
+  {
+    "company": "Qualcomm",
+    "title": "게임 박람회 「ChinaJoy2026」 개최, HarmonyOS와 퀄컴에 주목 - Record China",
+    "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBnYVJPWTZlaVBxdWtHOVdfcmVpVnU2ZW1OVW5BLTh5Q0poN2k1aE9PdXRWaGpiMlVoY0duQlEzTHBqcEVhcURJR2pGU0pIZUlEYTFDaUlEWFNaMVFzUnltMA?oc=5",
+    "published": "2026-08-07 11:50",
+    "timestamp": 1786071001,
+    "summary": "중국 게임 박람회 'ChinaJoy2026'이 개최되며 HarmonyOS와 퀄컴이 주요 주목 대상으로 선정되었다."
   },
   {
     "company": "Google",
@@ -3296,14 +3320,6 @@
     "summary": "아크릴과 퓨리오사AI가 국산 AI 추론 플랫폼 개발을 위해 협력한다."
   },
   {
-    "company": "Google",
-    "title": "비드래프트, 구글·허깅페이스 'The Fast Gemma Challenge' 검증 부문 최고 기록 - 한국경제",
-    "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE42SWlRbDlMWVdVMFczOGVzXzV2WUJEUHBfLUxYLU4xd1NOcVhTVkJxSXR5Z3NtVTM3djVvd09KWEE0czFzLVNBY0FvTHozd2RkUDQwYmtwMDRpdw?oc=5",
-    "published": "2026-08-03 10:35",
-    "timestamp": 1785720952,
-    "summary": "비드래프트가 구글과 허깅페이스가 주최한 'The Fast Gemma Challenge' 검증 부문에서 최고 기록을 달성했다."
-  },
-  {
     "company": "Apple",
     "title": "AI발 메모리 대란, 애플 효자 ‘맥북 에어’도 덮쳐…최소 3주 후 배송 - v.daum.net",
     "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE53bFN3RlBOY1J3WnV0LVFRUW1QbkRuZUlBd3ZCVFJFWU1tZE9xY2dGOTJZdjdKZ1BURl9OZmw1SmJaOWViYS1DVFJBQndob1VlSE5vUg?oc=5",
@@ -4304,14 +4320,6 @@
     "summary": "마우저가 스텔스촙2 초퍼를 탑재한 ADI의 TMC2241 스마트 통합 스테퍼 드라이버를 공급한다."
   },
   {
-    "company": "Intel",
-    "title": "인텔, 탄 씨의 공동 투자자가 이끄는 스타트업에 칩 기술 제공… 이례적인 거래 - TradingView",
-    "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE1ieEM0RVp1dUZhR3pmVE02V05GeGNaQl9HMVdwa0pPbzlxSzhyS2FXRmlvXzhTN1JjVUt4MmNZTFRsX21fV2NMUDN6Smd3TUtnZXh5SHNxdndKdUE2OXdlbnZGZndSTTcwenlGbFhsbEdNcVRKdy1iVQ?oc=5",
-    "published": "2026-07-31 03:50",
-    "timestamp": 1785437402,
-    "summary": "인텔이 탄 씨의 공동 투자자가 이끄는 스타트업에 칩 기술을 제공하는 이례적인 거래를 체결했다."
-  },
-  {
     "company": "파두",
     "title": "파두 FMS(Future of Memory and Storage) 2026' 전시 부스 조감도 - etnews.com",
     "link": "https://news.google.com/rss/articles/CBMilgVBVV95cUxPOGhUblFBYmZmajkyMmtraUllbDc2SWlGdUNkd1ZRalZqNVJRSWlPVU1MbTRhdWRDS1E2VHhFa0pxZWJGblNDQk9ScDluUld6b2JGVnJoS09ZME1RM0w1NjBJYkhyWnpGYmRfaUExU1JSYjU1TlVqZ2E5bnRSaGtua25hUUZtNG9aZGoybHQtSTUxdTlkdzRoYUo2UHB5MmVVZnF2cFBLVEx4YTIyenMyNEo0M01kTUpOLXd1VnRVM24xNGNFMmZ5aFJVZmRVbjVEaXRKRXpHZ1FTakp0TTNob3U4N3VyZGpLUGNWY3k0aDgxaXQ4Um4zNkNkeG83M3FnQW15U2dPR0h4V0FLNUNnYmd5WWdpVXNxNTJYWGhHUHBnS0VVQjNXUFNsRC1ZaW4wdzNMYlNIbUFqLVBCclJsVmlFTlkyQjFZT2VwUVdaRFY3UW8yaHRaNDJCY2d0eGJlaS00c0hFQ01icmktMEVyMkVrejdOWDd2Z04waTlRc3ptamtjZS1BajdMRjlXRTZlMXNjbXBKSWp4MktoeWc3M3c4cnI0SDdTQnhYdnJQYWNuTjVBN1dVQm01ektGX244b1Q3c2NWbVh0Nm40ZjFMWjVsOTNzYlhzX0diMS1UTVVYakk1VktQY2RyQjlhRnlILUh3RUU0OHNpQVBIUVRwbXhvN0ZEdVRDVWJUaGp3aVVSQVB0aWlxdzNEOEpmcWZxY3pwMzhWR3Y4UHFOR1BOVDNGbGUwTElqallZaEJtenN2RVRucm5zYjM1R0VuZ0lVcDFoTEw3UGtLaDBIZm5hdXh3UDU4RlotaUFqRGhnSExieHNTcGstVHZ2M0w3LTQ5Y29jbmxVN0Q5a21odFhybVVJTjFxZw?oc=5",
@@ -4326,14 +4334,6 @@
     "published": "2026-07-31 01:28",
     "timestamp": 1785428895,
     "summary": "르네사스와 소니의 공장 가동이 중단되면서 실리콘 아일랜드로 불리는 지역의 생산 차질 우려가 제기되고 있다."
-  },
-  {
-    "company": "Qualcomm",
-    "title": "메모리 값 상승에 퀄컴·삼성 스마트폰 실적 부진 - chosun.com",
-    "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNc1Rzd09ZR2YteGFhQUxEUkdpVDdfcGl1V01pQnNaX2pnMXBRNmY4Vl92em1FYmRveENVbFZWc0ZKaDctbDE2TmN2V2ZpUndqdFlUZUozeXpNV0Y2YlBiNzVsZXBRUkUwOXNFZXAwZnN5V3dCMWFucUNSbThpb3RwUl8tYw?oc=5",
-    "published": "2026-07-31 00:31",
-    "timestamp": 1785425460,
-    "summary": "메모리 가격 상승으로 인해 퀄컴과 삼성의 스마트폰 실적이 부진한 상황이다."
   },
   {
     "company": "파두",
@@ -7366,13 +7366,5 @@
     "published": "2026-07-10 10:48",
     "timestamp": 1783648099,
     "summary": "스페이스X가 그록 4.5를 공개했다. 오퍼스급 성능을 갖추면서도 가격은 기존의 3분의 1 수준이다."
-  },
-  {
-    "company": "Cerebras",
-    "title": "对话 Cerebras CEO ：手握 250 亿积压订单， AI 算力需求早就订满，我们不是「建了等客来」 - odaily.news",
-    "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFBVc0g2Q0NmbDZrNUJSUmZBVDJtREJiLS1JLTJrQ0Y3V0JDWmRrT1ZHS1pNNHd5RzNZclQxcWNUVWh1RkkwR1NoakUtYkRoSWc?oc=5",
-    "published": "2026-07-10 06:00",
-    "timestamp": 1783630800,
-    "summary": "Cerebras CEO는 250억 달러 규모의 수주 잔고를 확보했으며, AI 연산 수요가 이미 가득 차 있다고 밝혔다. 회사는 고객을 기다리는 수동적인 방식이 아님을 강조했다."
   }
 ]
