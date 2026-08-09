@@ -1,11 +1,51 @@
 [
   {
+    "company": "TSMC",
+    "title": "[fn광장] TSMC 멈추면 한국경제도 멈춘다 - 파이낸셜뉴스",
+    "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9WQzk5d3NoSDVxWlI5bkRGUUNaaTJQTnA4bG8tWW85cFpCUU5JcERmdHo1Ul9GbnU0TE1XTmRhNHNUTVBicnFwRk9tSjM5TGJpaGlrUmc2VTBtZw?oc=5",
+    "published": "2026-08-09 18:57",
+    "timestamp": 1786269470,
+    "summary": "TSMC의 가동 중단이 한국 경제에 미치는 영향력을 다룬 기사이다."
+  },
+  {
+    "company": "NVIDIA",
+    "title": "엔비디아도 ‘메모리 다이어트’ 나서나 - 조선일보",
+    "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQZVhwTC1kNDYta2U1VWQyZkxvUmZIWkd6YVpQTHZLa0UzVmVIVFJZQk9Yc1JvejJkLXRWQWNKNm5IdmZiT00xTUk3SHF5OUJ2Z0szNmFKV2NVZlhEOHpkQXpsZ0dBdElscUdfdW00Zk1JR3VzaGVEMWlsdkN3bTRyUk1hNA?oc=5",
+    "published": "2026-08-09 18:05",
+    "timestamp": 1786266300,
+    "summary": "엔비디아가 메모리 사용량을 줄이는 이른바 '메모리 다이어트'를 검토하고 있다."
+  },
+  {
+    "company": "Broadcom",
+    "title": "LG유플러스, 브로드컴과 ‘와이파이 8 기반 엣지 자동복구 AI’ 실증 성공 - 리버티코리아포스트",
+    "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1rYXZiYnBRMkpveTBtakQwdDJ5cGFXb25VNWNtRFEyZTN5OFlsemE5SjZxNWUyQWRvNW91Xzd0WGozU3k2dXpJVkl1eDhiUThHQlBfdmRMeXBOdTlUcFpnaUVsaWJqNzTSAWdBVV95cUxNa2F2YmJwUTJKb3kwbWpEMHQyeXBhV29uVTVjbURRMmUzeThZbHphOUo2cTVlMkFkbzVvdV83dFhqM1N5NnV6SVZJdXg4YlE4R0JQX3ZkTHlwTnU5VHBaZ2lFbGliajc0?oc=5",
+    "published": "2026-08-09 17:56",
+    "timestamp": 1786265795,
+    "summary": "LG유플러스가 브로드컴과 협력하여 와이파이 8 기반의 엣지 자동복구 AI 기술 실증에 성공했다."
+  },
+  {
     "company": "NVIDIA",
     "title": "NVIDIA는 AI 속도를 향상시키는 새로운 방법을 공개했으며, 이를 통해 SSD는 AI 기술을 더욱 빠르게 구현할 수 있게 되었습니다. GPU - GameGPU",
     "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQdzczaVRRbTlOUFlhNzh1bmhMdzJrOWtxZ1hrZ0pleVpTSTNtX2lnOWZ0YVJxbGxlVDFrck51ZnRVZ3l1OTVxa3ZZOGNqd3Bsd3lrdkx4VEV6LUdvVmt3Wml3S1ZZdlBqMDgtckdad0QwWk51bTNqSTNvTHNsNXZqZnZ1RXU2MWVlNnlhV0VISi0xQ3p3SDhxWUsxaw?oc=5",
     "published": "2026-08-09 17:39",
     "timestamp": 1786264778,
     "summary": "NVIDIA가 AI 속도를 향상시키는 새로운 기술을 공개했습니다. 이를 통해 SSD가 AI 기술을 더욱 빠르게 구현할 수 있게 되었습니다."
+  },
+  {
+    "company": "NVIDIA",
+    "title": "엔비디아, 전력 업체 랜시엄에 4조 투자 - bloomingbit.io",
+    "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE8zYlNST1M1ZXBvZlZEQmRLSW9kbUhqaHV4Sy1FcVh3UmJ0ZjQ4SXZJcW94QkNEWVVRZVhlclg3TGNibTBhNkMyRFgtakpEdVhY?oc=5",
+    "published": "2026-08-09 17:34",
+    "timestamp": 1786264465,
+    "summary": "엔비디아가 전력 업체인 랜시엄에 4조 원 규모의 투자를 단행했다."
+  },
+  {
+    "company": "사피온",
+    "title": "사피온 NPU 신제품 'X330' 칩. - 전자신문",
+    "link": "https://news.google.com/rss/articles/CBMizwRBVV95cUxPYWdhQ0JyQm8xSDBmQVdXM3QxQ1NJYnhXNFZLNV9fZjVzUTJjWE5WcDdhdXZGVk9hUEpYRnFyUXN0NkhfS3VoMXViWXdGMXlERmVrRjl0eXZPV3FmT3RFVEZtbUxWSjFaQk8wTWpqZ09OMUxVOW5oekIzajF6OFpYczVERmJrSXpJejhCV2RaY190cmRzZUpXOWROWW4zTG5YV2QwUFc4OHRZNTBmdW9Ub3ZIZHlCV1c3SHBJSTE1LXY0VE00RFBOMThERUVvMUZjb01pMjkxeXRlelJZZ04tcENsMlpBaGpVRU5teUxIQzdJOXA1WHFQUDRmcG1JNmJ4dzNfQTItT2RrU05ZUklTZnkzMUpSRHU1a3ZDbzc4aU9rXzJDU2FSS2gyRWNYRHk1NnBudzZHN1V2UjQyTTZNY3lFWWdYMVJLOUNwT3pzbTNQamJ6ZHB6bFk4akZrZFRhYlozbTQ5RUY0ejNaRlF4VVo3eHdqd01ES09DVHN4SUxkY0xWdk0xaUpNRHliTlRDTDA0dWkxZVM0R3p5d1p0ZHREb2ZnMXp5VTl1VGwxa3RwWmkyWUFvckRJU2lpa0pHTUl6RzdUb2dTR3lweXFtT1pXajMtZkQycjBYcGpCUWhLaDctOGRzUGE3ZTVzSGVyclhLbHpRa2FxTVJmTG5KazJfMktoMnlZUFVRLTItcDNrS2FJRzRwTVBRR0NMb3BUTTVqbW5DX25VSk9CUW1nczVwN2p3dU15Yk4wM3ZpbTJoWW80SFlhSjZ5REZveG8?oc=5",
+    "published": "2026-08-09 17:27",
+    "timestamp": 1786264022,
+    "summary": "사피온이 새로운 NPU 제품인 X330 칩을 공개했다."
   },
   {
     "company": "Intel",
@@ -680,14 +720,6 @@
     "summary": "테슬라와 스페이스X가 168억 달러 규모의 반도체 공장 부지로 텍사스를 선정했다."
   },
   {
-    "company": "NVIDIA",
-    "title": "[한눈에 보는 Weekly 기업 소식] 엔비디아, 자율주행 추론 모델 '알파마요 2 슈퍼' 무료 개방 - KIPOST",
-    "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE8yeDNwZEJHcHdTTGMwSGhxcUV0c1ZFUkF5bUdEelFKVlVZeHZaWnYzSlB1UEx3cHpBTVFpbnE2X195aVV4ZFlfSE1KUnY2QlZMX2h3d093SmVMYVhqa2drNWRmZUd1RWQzT1M4cdIBbEFVX3lxTE8yeDNwZEJHcHdTTGMwSGhxcUV0c1ZFUkF5bUdEelFKVlVZeHZaWnYzSlB1UEx3cHpBTVFpbnE2X195aVV4ZFlfSE1KUnY2QlZMX2h3d093SmVMYVhqa2drNWRmZUd1RWQzT1M4cQ?oc=5",
-    "published": "2026-08-07 19:20",
-    "timestamp": 1786098030,
-    "summary": "엔비디아가 자율주행 추론 모델인 '알파마요 2 슈퍼'를 무료로 개방했다."
-  },
-  {
     "company": "퓨리오사AI",
     "title": "이스트시큐리티-퓨리오사AI, NPU 기반 AI 보안 인프라 공동개발 - 전자신문",
     "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE9zYjZBM0JVNTE4YWJIcXpWT1VzcVlHajhtTEdwdlkzUDYwZGszOTFKWWYzeXlfeUZnSWZZckpucjRJY293WnNVcEZMNV9LQQ?oc=5",
@@ -702,14 +734,6 @@
     "published": "2026-08-07 19:04",
     "timestamp": 1786097099,
     "summary": "LG유플러스가 브로드컴과 협력하여 AI 기반의 엣지 AI 홈 네트워크 기술 검증에 성공했다."
-  },
-  {
-    "company": "NVIDIA",
-    "title": "엔비디아, '루빈 울트라' 메모리 사양 축소 검토...HBM4E 수급 난항 여파 - AI타임스",
-    "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBMb1RiMHVoZkZFbC0wNVBHNlNmbUtUZFZqN0tiS2o3YnN1OWtZV09oaGFSdlY3alR3M2FMVDdwMHNGR1Z6NldpVkRGSVlVVzEzQUJIS1RrSGFubzFtYkVlc0VOejdGa1RUYlE?oc=5",
-    "published": "2026-08-07 18:47",
-    "timestamp": 1786096022,
-    "summary": "엔비디아가 HBM4E 수급 난항의 여파로 차세대 '루빈 울트라' 메모리 사양 축소를 검토하고 있다."
   },
   {
     "company": "AMD",
@@ -2246,14 +2270,6 @@
     "published": "2026-08-05 15:49",
     "timestamp": 1785912588,
     "summary": "퓨리오사AI가 스웨덴에 구축되는 15MW 규모의 AI 데이터센터 구축 사업에 참여한다. 이번 사업을 통해 유럽 시장 공략을 본격화한다."
-  },
-  {
-    "company": "TSMC",
-    "title": "타이완 TSMC, 구마모토 재해지에 2억 5000만엔 기부 발표 - nhk.or.jp",
-    "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE9TSHVDU2RYOVlnNFRBMUl6eVYwOG90Zk9iQjZKZERmRFpLR1BieDV1eDBxcnpER2s1aVcxUDd6Vk5BTm5oWnJ3UHVBNUdvWXBLUWZuQ3ZBOThfbFppTndTc0pn?oc=5",
-    "published": "2026-08-05 15:42",
-    "timestamp": 1785912145,
-    "summary": "대만 TSMC가 구마모토 재해 지역에 2억 5000만 엔을 기부한다고 발표했다."
   },
   {
     "company": "딥엑스",
@@ -5342,14 +5358,6 @@
     "published": "2026-07-27 17:42",
     "timestamp": 1785141776,
     "summary": "과거 트럼프 행정부 시절 퀄컴 인수가 무산되었던 브로드컴이 엔비디아의 대안으로 성장하고 있다."
-  },
-  {
-    "company": "Broadcom",
-    "title": "브로드컴은 삼성, 엔비디아는 SK·네이버… 미국 빅테크-한국 기업 ‘퍼즐 맞추기’ - 비즈한국",
-    "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE5yaldKRHhxaTg5YU1PY21fU2lYQVg1N3FvV2pzS1RsbFlkN1hQMDN6a1M0TmtFV1FpaEg5dWdzMXRpWW9HS1JxZV9tNERISDBKZGtVRHVjeFdOc3dqVlhCRXQ3Rm0tTW50MGgzUkU2aU1kWHVSN2c?oc=5",
-    "published": "2026-07-27 17:12",
-    "timestamp": 1785139962,
-    "summary": "브로드컴은 삼성과, 엔비디아는 SK·네이버와 협력하며 미국 빅테크와 한국 기업 간의 퍼즐 맞추기가 진행 중이다."
   },
   {
     "company": "MediaTek",
