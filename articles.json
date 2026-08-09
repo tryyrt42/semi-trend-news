@@ -1,5 +1,29 @@
 [
   {
+    "company": "Intel",
+    "title": "인텔·AMD 다 뚫렸다, MIT 연구진이 찾은 새 공격법 - 디지털포커스",
+    "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5DOUR6Z3FCOHVyWHRCclhVOGRmSjZqSXFIVUVreC1ja3l2QzNJTTNoZ2kwbzJzSEt4WWZLWXRFMlVOOUNidTRNVFNTM3FjanZuZzBGeFZzV1JvMWp6SDJjY0xIcjJ2WW1uNElwQXk5WXc?oc=5",
+    "published": "2026-08-10 07:27",
+    "timestamp": 1786314445,
+    "summary": "MIT 연구진이 인텔과 AMD 프로세서에서 새로운 공격 방식을 발견했다."
+  },
+  {
+    "company": "Apple",
+    "title": "애플, 中 CXMT 메모리 성능평가…아이폰·맥북 탑재 검토 - 이투데이",
+    "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE5xOGExNWpRNFVBa1JGT2wyVVhPQ1VndmdRd3VhUkdaLWFhNzFJcW14ejY4bkN5YUlYWEU1OGViRDV1ZkFRZXBOU3dTM3hoZDJkTjdWQw?oc=5",
+    "published": "2026-08-10 07:04",
+    "timestamp": 1786313040,
+    "summary": "애플이 중국 CXMT의 메모리 성능을 평가하고 있으며, 아이폰과 맥북 탑재를 검토 중이다."
+  },
+  {
+    "company": "NVIDIA",
+    "title": "‘본격 출하’ 엔비디아 베라 루빈, 원가의 62%는 메모리… “HBM4보다 비중 큰 소캠2” - 조선비즈 - Chosunbiz",
+    "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxPcVBrVjc4ck9HX2doMmdNREJYVVY2S0FYcDBhb1RHMGdMUnhpSXJHVjhJRVFRRmtQMThoWGV3Z2piNERWdzRsdHM5ZXJZZHhFOGZFRFR2Szl3WDVVbDZrMDJJMXhuMHZ2SVJaQy01bjFTVUZhcUFFS09fSVBVOU42UkdB0gGWAUFVX3lxTFBUaUF1VnN4cFZZSDFSdlktQ3pndVMtQ2h0YkRrZHk1aW5Xblp2eDI3OTVDN3N0QmpPQWxDQW1QVndUSDlPWkFrMjZXLWdiYjlIak9fVk9PN082Z2g5aXd4eUJ5UzlVMjFfQWlVclFYeTFEOVE5MlhzWkM2Sk5qTmQ4ZGNINFloWjNMd0ZCdEpXVjJTYjlYQQ?oc=5",
+    "published": "2026-08-10 06:00",
+    "timestamp": 1786309200,
+    "summary": "엔비디아의 신제품 베라 루빈의 원가 구성에서 메모리가 62%를 차지하며, 특히 소캠2의 비중이 HBM4보다 높게 나타났다."
+  },
+  {
     "company": "NVIDIA",
     "title": "美, 中 AI기업 엔비디아칩 활용 방식 조사… “밀반입 하거나 해외 데이터센터 원격이용” - 동아일보",
     "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE5wdFR0ZkQxQnNSQjRHT1dTWmlXODFqaXQwQ2FvSkVMRkNkMjdtc1k3bWRIX1BrM1ZYQVNCWEJSaVlwTm1kdzU2ek5hTl9DVTRxaDVxb0E3dmdmVVg1LS1lX3dsNnpFdUptRGl3eFhZblVaelXSAWZBVV95cUxNUHk3X3Iwa2pEYVA2WGJjLXN3TkZ4VldSSFV0eXNZTWFManJIMjZmZ085dWhyWU1QMm1LalZYQktrNVNTWlRTYUVicndVdXdMSlprbUlBMm9EMU5ycjFINjhndDJqT0E?oc=5",
@@ -190,6 +214,14 @@
     "published": "2026-08-09 16:37",
     "timestamp": 1786261045,
     "summary": "AMD가 AI 추론 칩 스타트업인 탈라스를 인수했다. 이번 인수를 통해 AI 인프라 역량을 강화한다."
+  },
+  {
+    "company": "파두",
+    "title": "[소부장 레이더] '흑자' 파두, AI 데이터센터 훈풍에 퀀텀점프 예고 - v.daum.net",
+    "link": "https://news.google.com/rss/articles/CBMiRkFVX3lxTE85SmMwRS1ZODZ1SXA0QlpHWHNCdDI2Q1FwUVJIUmE5U1I1LUlSLW9XTUhzLWRZTFY4T1BEXzhma2gxUDVTTEE?oc=5",
+    "published": "2026-08-09 16:18",
+    "timestamp": 1786259918,
+    "summary": "파두가 흑자를 기록하며 AI 데이터센터 시장의 성장에 따른 실적 도약을 예고했다."
   },
   {
     "company": "TSMC",
@@ -398,14 +430,6 @@
     "published": "2026-08-09 06:32",
     "timestamp": 1786224737,
     "summary": "HBM 공급 부족으로 엔비디아와 AMD가 사양 조정을 검토하며 삼성전자와 SK하이닉스의 공급 경쟁이 심화되고 있다."
-  },
-  {
-    "company": "파두",
-    "title": "[소부장 레이더] '흑자' 파두, AI 데이터센터 훈풍에 퀀텀점프 예고 - 블로터",
-    "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9MWmFLSmx5RGt4cDFUQ2NpNzREZDJ0QzhDQUR4SW5hTzY5dllEZk5YX2lCZFdiWDNLMWVjR1N6TTZnY2FkeVhZNmtBNUlHTHFJXzNiRHBSUWxuWE93LU9MNWRWTzJvYmVPem5HUdIBbEFVX3lxTE9MWmFLSmx5RGt4cDFUQ2NpNzREZDJ0QzhDQUR4SW5hTzY5dllEZk5YX2lCZFdiWDNLMWVjR1N6TTZnY2FkeVhZNmtBNUlHTHFJXzNiRHBSUWxuWE93LU9MNWRWTzJvYmVPem5HUQ?oc=5",
-    "published": "2026-08-09 06:31",
-    "timestamp": 1786224687,
-    "summary": "파두가 흑자를 기록하며 AI 데이터센터 시장의 성장에 따른 실적 도약을 예고했다."
   },
   {
     "company": "NVIDIA",
@@ -630,14 +654,6 @@
     "published": "2026-08-08 11:01",
     "timestamp": 1786154512,
     "summary": "AMD가 AI 추론용 맞춤칩 스타트업인 탈라스를 인수하며 엔비디아 추격에 나섰다."
-  },
-  {
-    "company": "NVIDIA",
-    "title": "엔비디아도 HBM 부족 직격탄…루빈 전략 수정 - 한스경제",
-    "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9wTzUwSGJGanVLbmxHRS1TSWhJQWdGdjZtVWNTeHcyQW1sSmhscXVlUzRQRzM5WDMxVk04enFxVXRZZVdHVFZySlg4NFVIeE1qcDQtdlVEWnNXMnBfUmdCZWpRb2JyendERk4tRNIBb0FVX3lxTE15MFJNenRkWVBpZnZmNkI5Ulgxd1JYTGtlOEh3Qm9FNVdrb1JmdTljRFhrVDVvV2E4N2R4VE9wV3BYN3ByemVDY3JRVEtULUt6bVRYYjJtYmlWMXFqeG14QzM0V0Ewd3BPd09VbWlMaw?oc=5",
-    "published": "2026-08-08 10:48",
-    "timestamp": 1786153680,
-    "summary": "엔비디아가 HBM 부족 사태의 영향을 받아 루빈 전략 수정을 진행한다."
   },
   {
     "company": "Google",
@@ -2896,14 +2912,6 @@
     "summary": "인텔이 미국 스타트업을 대상으로 아톰 CPU 설계 자산을 개방한다."
   },
   {
-    "company": "Apple",
-    "title": "애플, '공급망 딜레마' 직면…메모리는 비싸고 중국은 멀고 - 오피니언뉴스",
-    "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTFA5MHVVSVJhSk01Qk43RlVqcXlsNklid01SNVpjYWpXVXJaaHN5LVJWaHYtOExpR0phVEhKelZNRWlUUkNUejk0RWNZRHEyYzRMUmVwclVhREIxVm5qdTduYmJHZXNycExSdFBQQm5TQ0s?oc=5",
-    "published": "2026-08-04 16:16",
-    "timestamp": 1785827811,
-    "summary": "애플이 메모리 가격 상승과 중국 공급망 리스크라는 이중고에 직면했다. 반도체 수급과 생산 거점 다변화가 주요 과제로 부상했다."
-  },
-  {
     "company": "NXP",
     "title": "BMW, 2026년형 차량에 NXP 초광대역 기술 도입 - Investing.com 한국어",
     "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1WMWpVaWc4aVVLVVY0aW9ZYVRPTW1LU2NZVm5aRUY2NUVPdzlfRHFvWmxicGhIdWdERzMxZ1llYUY1WWFkR3VhMVNKTVI1Rl9fc3pHTk9XR0Fpb1QtT3RsWkE4dTh6SmN4Q3ZabktvU1Y?oc=5",
@@ -4214,14 +4222,6 @@
     "published": "2026-07-31 12:14",
     "timestamp": 1785467653,
     "summary": "ST마이크로가 3A급 갈바닉 절연 게이트 드라이버 신제품인 STGAP3S를 출시했다."
-  },
-  {
-    "company": "Intel",
-    "title": "시스템 오브 칩 시대에 인텔이 내세우는 '실리콘 모자이크'는 - elec4",
-    "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTFBKQ3FlUEJyWG9ZbVd4cW1sVDgyTlRiNi1GOFBfOXFqUXlpRC1YWXlCUDY3UjI3Tjl2bU9teDItZTVXMUdJb1dvNmNwT3FEcDVodjhXN2ItbWFYeHJBNF9LaV9QYS03bVR5NWZpYkln?oc=5",
-    "published": "2026-07-31 12:09",
-    "timestamp": 1785467393,
-    "summary": "시스템 오브 칩 시대를 맞아 인텔이 자사의 핵심 기술인 실리콘 모자이크 전략을 제시했다."
   },
   {
     "company": "Kioxia",
@@ -7342,13 +7342,5 @@
     "published": "2026-07-11 10:18",
     "timestamp": 1783732680,
     "summary": "미국 반도체 기업 세레브라스가 첫 협업 파트너로 국내 AI 기업 업스테이지를 선정했다."
-  },
-  {
-    "company": "패러데이",
-    "title": "패러데이 퓨처, 540만 주 워런트 취소 - Investing.com 한국어",
-    "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5EUmw3STdEWGE1czFuYnltUFZVRFBrVC1McGpIdVRNdVJvY0NDa2dFcVhJYm01M0hvT1RPV0t1Y3BSaHZJdi1MODc5TEFCLWtnTFljM0N2VXg1eUpnT0w3ZVlwWUI2MmtGRm5pakRLZ2I?oc=5",
-    "published": "2026-07-11 06:06",
-    "timestamp": 1783717560,
-    "summary": "패러데이 퓨처가 540만 주 규모의 워런트를 취소했다."
   }
 ]
