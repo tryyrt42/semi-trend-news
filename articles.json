@@ -1,5 +1,45 @@
 [
   {
+    "company": "NVIDIA",
+    "title": "의료 장비 공급 부족으로 인해 구형 NVIDIA Quadro4 그래픽 카드가 400달러에 판매되고 있습니다. - GameGPU",
+    "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQanFPclBFRzZpX21velg2RE1SQlRFLWxocTFtVDU2eUdyRUdzMlVOZkFfWFdyMHVlTzVnS2RFOWZFR3JKQU5sV1RwYWR5OXUzeUphRUZPYUw3NkI0M01VZ3JHRGhKN0g2U3Fha3hseGxNRWU2VlA1aXY5NEp2bGIzR0FyQ0d1U25PNC1ncmFVSTdIN0x1Q2IzUGZsdHVRdTJvOHAzWFJaQ2dCOGpUbTdyMDRLZU50T3NIWENSZG11U203SXM?oc=5",
+    "published": "2026-08-11 01:37",
+    "timestamp": 1786379844,
+    "summary": "의료 장비 공급 부족으로 인해 구형 NVIDIA Quadro4 그래픽 카드가 400달러에 판매되고 있다."
+  },
+  {
+    "company": "LX세미콘",
+    "title": "LX세미콘, 차량용 MCU 양산… 현대차·기아에 공급 - chosun.com",
+    "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPc3Rla09IWkZZb2Y0cW80c3pqdi02TDZOTzlNVVRTVXBmOFg1MTE2dzQzLWFnNlYzNmhoU2FBbVJFb1MwdDJXUDZHTERjTmpiWUtaQTFsa2txaVl3WUxuMkppaGl6czVvcFJKblBQYmtQMWlBeEV6ajgtclpPcFNnN0pEUQ?oc=5",
+    "published": "2026-08-11 00:33",
+    "timestamp": 1786375980,
+    "summary": "LX세미콘이 차량용 MCU를 양산하여 현대차와 기아에 공급한다."
+  },
+  {
+    "company": "NVIDIA",
+    "title": "“엔비디아 칩부터 잡자”…AI 클라우드 람다, 1.3조원 대출에 수요 2배 몰려│Global Money Club - 중앙일보",
+    "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1DUExSWjU5R1o4cTU0SXZSUzA2bEpOeFN3eW1TYUFuSEFYeWVHUjZZVm1HM2xIWko3UEkwWHpzQzdySjNYZHhOZ1FJQ1JCRXU1VTl1Z2pHc3pLaXM?oc=5",
+    "published": "2026-08-11 00:15",
+    "timestamp": 1786374943,
+    "summary": "AI 클라우드 기업 람다가 엔비디아 칩 확보를 위해 진행한 1.3조 원 규모의 대출에 수요가 2배 몰렸다."
+  },
+  {
+    "company": "Synopsys",
+    "title": "디버그 주기 최대 40% 단축, 시놉시스 AI 설계 도구 공개 - tokenpost.kr",
+    "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9WRXEwSjR5U3lESEM2cjBLVHFIQTFXOW1DZVpDRWdWMVFNR2JvbHZPdTZNYmRaVXBQR2I2ODVlRHp4T1IzODkwVmtyTzdnaURJaVhPS3lkZlR6VnPSAWBBVV95cUxOQTNlU3JFUGFaXzcxcjljWHJrWkhPR3J4MXlJeGpKeTdmVjVHdkxHNlY4cDZEaHI0STJQU1VOcmh5WHVDbDI3LXhna2lDQktrVTVYVW13TnhUYTZ6YkU3R3Q?oc=5",
+    "published": "2026-08-11 00:15",
+    "timestamp": 1786374921,
+    "summary": "시놉시스가 디버그 주기를 최대 40%까지 단축할 수 있는 AI 설계 도구를 공개했다."
+  },
+  {
+    "company": "Microsoft",
+    "title": "MS, 엔비디아 의존 낮추기 속도…\"AI칩 '마이아 300' 가을 공개 추진\" - 뉴스핌",
+    "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFBldy0wQ3ZPLUlRSkxTenVDM05tRTdReHZkbHlWWEttOWxEbXZ1WTdjb1lyNklXb3J0aTlyLUJGdU5RQTRQTk1FRDN6TVhzNF9NcmxJaEJDSUI5YjU0?oc=5",
+    "published": "2026-08-10 23:14",
+    "timestamp": 1786371240,
+    "summary": "MS가 엔비디아 의존도를 낮추기 위해 자체 AI 칩인 마이아 300을 올 가을 공개할 예정이다."
+  },
+  {
     "company": "Apple",
     "title": "메모리 뾰족수 없는 애플…중국산 갑질 당하고도 아이폰에 테스트중 - 매일경제",
     "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE0wV2VmMEdQYkVtOGFLdERvellFekFOX09taW00SUYyWFY3MC1wRkVaaUlyQUxkT0R4N3N3amRlRkN4R1BHLVREdHhKTXNaMlpFOWc?oc=5",
@@ -14,6 +54,14 @@
     "published": "2026-08-10 22:39",
     "timestamp": 1786369152,
     "summary": "마이크로소프트가 엔비디아 의존도를 낮추기 위해 자체 AI 칩인 '마이아' 30만 개 증산을 추진한다."
+  },
+  {
+    "company": "Intel",
+    "title": "인텔, 150억달러 규모 보통주 발행…투자 자금 조달 목적 - 한국경제",
+    "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5WQ2tLN25FYUphWEJ0d1ZvOUgwd1A4VXZQUGJ1X1ZXOFRRVTBoSXBjaTRLX0ZmQ2tOVVZYT3VwNTgxb3dBa2VSeV82LVlsbkZCal9WOUk2NUZZZw?oc=5",
+    "published": "2026-08-10 22:37",
+    "timestamp": 1786369023,
+    "summary": "인텔이 투자 자금 조달을 목적으로 150억 달러 규모의 보통주를 발행한다."
   },
   {
     "company": "Intel",
@@ -120,6 +168,14 @@
     "summary": "애플이 중국 CXMT와 모바일 AI 칩 협력을 추진하며 삼성전자와 경쟁 구도를 형성하고 있다."
   },
   {
+    "company": "Tesla",
+    "title": "테슬라·스페이스X, 23조원 '테라팹' 텍사스에 건설 확정 'AI칩 직접 생산' - mauto.danawa.com",
+    "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE9WNlgxX2hmbnB6S0MxNDdQYVBBbjFySDBvdEh2eFlVd1RJNl9tOVoyTzhKaFpiamo0X2U2ZUpPVlVRMXduazlHWXQ3bVltaHRRNlVZWjY5WmxwN0swZGN3U3g4dzQzQ0YxSXVz?oc=5",
+    "published": "2026-08-10 19:22",
+    "timestamp": 1786357351,
+    "summary": "테슬라와 스페이스X가 텍사스에 23조 원 규모의 테라팹을 건설하기로 확정했다. 해당 시설을 통해 AI 칩을 직접 생산할 계획이다."
+  },
+  {
     "company": "파두",
     "title": "파두, 시스템 반도체 인재 채용 - 디일렉",
     "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE5WZWpYRldfbkRYa0pORzc4enNWNURzOTY1MEZwYnZJa2pBYk1wTllFOElSOVd1V2xVWkFaQkNCVXVZY2dEbHJXWDZQalJUSkhTem9ZTGRRdEJIWUVFNUhSMkxHajI2QQ?oc=5",
@@ -142,6 +198,14 @@
     "published": "2026-08-10 19:00",
     "timestamp": 1786356000,
     "summary": "대만 정부가 4.3조 원을 투입하여 TSMC의 1.4나노 공장 3개 동 건설을 지원한다."
+  },
+  {
+    "company": "OpenAI",
+    "title": "미국 상원의원, AI 거물에 개발 중단 최후통첩… 의회 개입 가능성 (BTC, AI, OpenAI, 버니 샌더스) - 민심뉴스",
+    "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1HdDBYQTVTMUZYcVJaLWxnd0YzTUNmUl91ZU1UWGthTWZILWxPSGtIZWs3RlRmZmF5aDZ4T2pvc0tWZWI1dkVWZkpvMEVJeUJVTjM3NFFzcmxqbElmZTRYejhFOGpQY1Q5eUhvSw?oc=5",
+    "published": "2026-08-10 18:47",
+    "timestamp": 1786355234,
+    "summary": "미국 상원의원이 OpenAI를 포함한 AI 기업들에 AI 개발 중단을 요구하며 의회 개입 가능성을 시사했다."
   },
   {
     "company": "TSMC",
@@ -288,20 +352,20 @@
     "summary": "메모리 대란으로 인해 엔비디아는 HBM 스펙을 낮추고, 애플은 중국산 칩 테스트를 진행한다."
   },
   {
+    "company": "Apple",
+    "title": "애플, 中 CXMT D램 적용 시험…‘메모리 3사’ 밖 공급처 검토 - 아이티데일리",
+    "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFBZY01pTGdsbDlTcXBTN1JpcVFyNDEzN3pJb2trbVo1ZE5kNm1MZXNMckJjTXhvYUpnbXpzamwwcnAwZmk1bDgyN1FJQ29URWRFSXdBR0VwekIwN3M2WThCSkwzSEROLVl1?oc=5",
+    "published": "2026-08-10 16:15",
+    "timestamp": 1786346119,
+    "summary": "애플이 중국 CXMT의 D램을 시험 적용하며 기존 메모리 3사 외의 새로운 공급처를 검토하고 있다."
+  },
+  {
     "company": "LX세미콘",
     "title": "LX세미콘, 차량용 MCU 첫 양산…현대차·기아에 공급 - v.daum.net",
     "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE5fTG9IS2RadVprRDRMdHBJZmFUeGc1cHFadzhjS3dRV2RsVzYwRnV4amZYM3dnaGVOcE1JMi1ZX2pMOXhqdTRpdXN1QXhGQVk?oc=5",
     "published": "2026-08-10 16:00",
     "timestamp": 1786345202,
     "summary": "LX세미콘이 차량용 MCU를 처음으로 양산하여 현대차와 기아에 공급한다."
-  },
-  {
-    "company": "Tesla",
-    "title": "테슬라·스페이스X, 23조원 '테라팹' 텍사스에 건설 확정 'AI칩 직접 생산' - 다나와 자동차",
-    "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5GX2FIOVhqY0JuQzZDd1RQenp5VzVreDg5NXdkcmR3UXByZGs3OEhOZFhOTjJUOE9sREVMcy1iMWdkd0wxNjlYWExtT3dzYVdqUTR1T3JUd3U1ZnJvUWNzdHZJQ0p4Q0MtYkRZQw?oc=5",
-    "published": "2026-08-10 15:54",
-    "timestamp": 1786344862,
-    "summary": "테슬라와 스페이스X가 23조 원 규모의 '테라팹'을 텍사스에 건설하기로 확정했다. 해당 시설을 통해 AI 칩을 직접 생산할 계획이다."
   },
   {
     "company": "파두",
@@ -1032,14 +1096,6 @@
     "summary": "삼성전자가 테일러 공장 가동 전 인턴을 채용하는 것과 달리, TSMC는 신입 사원을 채용하여 급여를 지급하며 교육을 진행하고 있다."
   },
   {
-    "company": "NVIDIA",
-    "title": "엔비디아, 美 전력업체 랜시엄에 4.2조원 투자 - 서울신문",
-    "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE5URXhjVUlLTzVJcEZna2pmemVXcFlxdjdrVy1wdVI4N2J5NzVmb3ZRT1pPM2k0NGlmMWs0azcyZll1bVFuN2NYSGJoclA1SEhycTB3X2lGMjhZd1ROcXp6a0p0R0FjbmFtYUNyUmdUTl9WbXZoUGFMWA?oc=5",
-    "published": "2026-08-09 23:49",
-    "timestamp": 1786286958,
-    "summary": "엔비디아가 미국 전력업체 랜시엄에 4.2조 원 규모의 투자를 단행했다."
-  },
-  {
     "company": "Apple",
     "title": "애플, 중국 창신테크 메모리 반도체 테스트…아이폰·맥북 등에 적용 검토 - 파이낸스투데이",
     "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5VTE9uaVZLM0NqRU53UUpOX3U4YVZaMWlSQ0FmcFJrdjdNQUxuTy1hdFRyeFBGWUo2UjI2azAxLVhXLUFjMVhvWUJkSkV4WkpSdkVvanM1cTlLX0lOdmhTeG96Ry1kcmpIS2thdA?oc=5",
@@ -1062,14 +1118,6 @@
     "published": "2026-08-09 22:42",
     "timestamp": 1786282920,
     "summary": "애플이 가격 협상에 실패한 CXMT의 D램을 아이폰에 시험 적용한다."
-  },
-  {
-    "company": "NVIDIA",
-    "title": "NVIDIA Alpamayo 2 Super 공개…34B 자율주행 AI, ‘LingoQA 79.2’의 조건 - 케이트렌디뉴스",
-    "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE96algzUlplSjF6U054M2lyR1R3Y1QyblRROWpBd0lyRFROY3o3Nkxxd29pQUpCMTk2UlZjYndxZVVKSmdkd3lvY18wZUozY2wzOW5TS2xLNlBJX2JJRWJNYjV2MHFRbzNfWFNjU1RGRQ?oc=5",
-    "published": "2026-08-09 21:51",
-    "timestamp": 1786279862,
-    "summary": "NVIDIA가 자율주행 AI 모델인 Alpamayo 2 Super를 공개했습니다. 해당 모델은 34B 파라미터 규모이며 LingoQA 79.2 성능 조건을 갖췄습니다."
   },
   {
     "company": "Apple",
@@ -1638,14 +1686,6 @@
     "published": "2026-08-07 18:03",
     "timestamp": 1786093405,
     "summary": "AMD가 AI 모델 회로를 직접 구현하는 스타트업 '탈라스'를 인수했다. 이번 인수를 통해 추론 칩 시장 공략을 강화할 계획이다."
-  },
-  {
-    "company": "Apple",
-    "title": "애플, 중국 CXMT에 ‘퇴짜’…삼성·SK하이닉스 반사이익 '기대' - 인사이트코리아",
-    "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE5WekNMUWE3cEdGLTctdTJZZHNPYmtBdmZJdFJDOXRyRDgwMVRuODlxaHk3ZmcwbU9JYUhJUFZrTERvTjAzNmhLODN2UkFGa1d2RkZMSDBNYjJLSmlsTlpVejZBamtjSXktbC1rVWIyYkpLYlM5WDhR0gF3QVVfeXFMTlZ6Q0xRYTdwR0YtNy11Mllkc09ia0F2Zkl0UkM5dHJEODAxVG44OXFoeTdmZzBtT0lhSElQVmtMRG9OMDM2aEs4M3ZSQUZrV3ZGRkxIME1iMktKaWxOWlV6NkFqa2NJeS1sLWtVYjJiSktiUzlYOFE?oc=5",
-    "published": "2026-08-07 17:53",
-    "timestamp": 1786092812,
-    "summary": "애플이 중국 CXMT와의 거래를 거절함에 따라 삼성전자와 SK하이닉스가 반사이익을 얻을 것으로 기대된다."
   },
   {
     "company": "OpenAI",
@@ -3286,14 +3326,6 @@
     "published": "2026-08-04 17:50",
     "timestamp": 1785833405,
     "summary": "테슬라 로보택시에 탑재되는 카메라 모듈을 삼성전기와 LG이노텍이 독점 공급한다."
-  },
-  {
-    "company": "Intel",
-    "title": "인텔, 美 스타트업에 '아톰' CPU 설계 자산 개방...왜? - v.daum.net",
-    "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE1pQk1uRjdfMHU2U2l4cDhnWDEwdkk4ZWFwUloxSTM2NDFjNkJ4Q21MSGRGQk1zalY1RGdCZ0JWS0hfRVJqSWd3T2FpQmVsWlU?oc=5",
-    "published": "2026-08-04 16:19",
-    "timestamp": 1785827991,
-    "summary": "인텔이 미국 스타트업을 대상으로 아톰 CPU 설계 자산을 개방한다."
   },
   {
     "company": "NXP",
@@ -5736,14 +5768,6 @@
     "summary": "SK가 MS에 메모리를 장기 공급하며, MS는 앤트로픽과 데이터센터 구축을 추진한다."
   },
   {
-    "company": "OpenAI",
-    "title": "삼성전자 이재용 회장, 오픈AI 본사서 샘 올트먼과 만나 반도체 협력키로 - MBC 뉴스",
-    "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE9hRHZhUVBNWC1LVEFsal9aSGx3aERJTlRxZURfYUZaODQtNGlrc3JFYVdZeFFpN1VyRU9fdVRjS0ZYN3Z0WmJXeWRYdXpoZk53Yl91cjNxeF9aSHgzQkhNb3licU5TbUpXbXItQzVNMU9janpS0gF0QVVfeXFMT2FEdmFRUE1YLUtUQWxqX1pIbHdoRElOVHFlRF9hRlo4NC00aWtzckVhV1l4UWk3VXJFT191VGNLRlg3dnRaYld5ZFh1emhmTndiX3VyM3F4X1pIeDNCSE1veWJxTlNtSldtci1DNU0xT2NqelI?oc=5",
-    "published": "2026-07-26 16:00",
-    "timestamp": 1785049209,
-    "summary": "삼성전자 이재용 회장이 오픈AI 본사를 방문해 샘 올트먼 CEO와 만나 반도체 분야 협력을 논의했다."
-  },
-  {
     "company": "망고부스트",
     "title": "망고부스트, AI 추론 서비스 '망고 인퍼런스' 공개 - 디일렉",
     "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE8yLVV6MGdObTdrY1lIeWQ3WVVoYzJ3c0NybjBKUl94SVV1dkFfMHo2TnR2T2VROTZwRFhVd2NVMWsxVmNWZmJ3bzQzbDRDQ2lrbWRVVGNMWWVIQjQ3VFBBVHF5RFo4QQ?oc=5",
@@ -6294,14 +6318,6 @@
     "published": "2026-07-22 10:04",
     "timestamp": 1784682248,
     "summary": "NXP가 차량용 SAF9800 프로세서를 출시했다. 해당 제품은 라디오와 AI 및 ML 기반 오디오 솔루션을 통합한 것이 특징이다."
-  },
-  {
-    "company": "Microsoft",
-    "title": "애저에 AMD 헬리오스 대규모 투입…MS, AI 추론 인프라 엔비디아 밖으로 넓힌다 - AI 매터스",
-    "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFBEa0x6eWtwb0QxR25XUVR0VEluX0tSSGIyWjJMWUdWQ0VlZFZYNl9vWEt2QnBlSEYyN2ZibUI5MFB4cXRZU2xEUFp6b1Q0cmNxY1QwYw?oc=5",
-    "published": "2026-07-22 09:43",
-    "timestamp": 1784681038,
-    "summary": "마이크로소프트가 AI 추론 인프라 확장을 위해 AMD 헬리오스를 애저에 대규모로 투입한다."
   },
   {
     "company": "Meta",
@@ -7414,13 +7430,5 @@
     "published": "2026-07-12 10:00",
     "timestamp": 1783818000,
     "summary": "AI 칩 기업 삼바노바가 10억 달러 규모의 투자를 유치했다."
-  },
-  {
-    "company": "Marvell",
-    "title": "[이슈분석]Case Study-조세회피처 특허 이동 대표 기업 '마벨' - 전자신문",
-    "link": "https://news.google.com/rss/articles/CBMiwAVBVV95cUxNQjQxWjZWOHlFNEJtMGp3M2E3bDlzYjZ6QTBjWWZUQjhYcWtMTWo2VXc0aHEzemhZa2MzdV81NTRpUklBWWtVWTI1eVl3dUNvdm1WQVlLWWtaM2J5MFdrVGlxaEt3Y3JlS0JjN3c5QnFVNjlkWTB5MkJEZFg2dkhlcENMX1daV01fMWh2WXFpbW1weU1hSE9XTDdIbmdsQk5LZV94bHF6WEdybkhfQkRmWnI0NHN6VTFZWVZ6eEdyLVEtdG9Ecmh0eDJCYTJrM0NCWGlHa25Yb0JZN0wtRkpobE5WUmRDWHduaUJBejJSTl91TzJnbkJVWlV4dzBUcGNNRk45dmxwTEczVFloZmxoUjhrRUtUM09iaU1ESDJWQ2JhTk02S2puTXoxdGNtZUUwU2phYXF5V0o1ZG5PWWE0TVdnaUZ0Mnk4aFBmdnpONnFoanZpVERGNks0NmpIN1N4VUhIRjh3dFdOcWNubm9seWVDVnNINGNSbU9NRnRGeVJjQjUzNTN3ZEpGRXNBNFREWWl3Z1dZbkdneWhYOVRQRFRiQUpDcmlNRE03RlVic0VEU2hrT05VMlBVdWhzN1B5ZHNCZTBydlVpWGoyWFQwLUY0UzZrcGhJVTFneUdyQmNZZjVwcmJySHRfZ3BLNFNCamJGSDhKTHd3YzR4ZUlqS1BRYzZ3aU1acE5tN21aS0VyXzRRSVdWNzg2bGpOanExTkZIODRnSFFtRHB1WWhzNmtLV2hMY0V4eXQ2eGZHUG1BdzhEQ0hrT0tRNUcyTF9XNUFjcU5zYXMwZ3NiWjRUc2ZZWFNqVFhGZk5vMGQ5V2ZwTXYydHBnMHhBOUFXbDhza0UtYkphTGk3UDFHY0JRN0drN0xiMEtUYlJ4bmxRdE5JbVRxNDlibWJlcVdMVWhicmZ2ZUIyTDZxZlNpYzVGdQ?oc=5",
-    "published": "2026-07-12 01:51",
-    "timestamp": 1783788698,
-    "summary": "마벨이 조세회피처로 특허를 이동시킨 사례에 대한 분석 기사이다."
   }
 ]
