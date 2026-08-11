@@ -1,5 +1,37 @@
 [
   {
+    "company": "NVIDIA",
+    "title": "지멘스-엔비디아, 자가 검증 에이전틱 AI로 반도체·PCB 설계 자동화 가속 - 올포칩",
+    "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBkVnNvVTNzQ2IwYXB6aFVHZ09FVTVKcm91V0d4WFBkZHlZSlRSZW15REE5UlZIS21PRlg5WDVXXzlyWVZiM2IxZUt6VkFEclNFeng4dFhOUjBYQUUxclB3Tw?oc=5",
+    "published": "2026-08-12 01:34",
+    "timestamp": 1786466061,
+    "summary": "지멘스와 엔비디아가 자가 검증 에이전틱 AI를 활용해 반도체 및 PCB 설계 자동화를 가속화한다."
+  },
+  {
+    "company": "AMD",
+    "title": "xAI 공동창업자 바부슈킨의 리버AI, 11억달러 유치…엔비디아·AMD도 베팅 - 위키트리",
+    "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE80U09Vall5V2N1R3hlVW5JcTVUQUVnRlZkWk1mZG5OdVhZY3dZcVVrRkdBeXV1YVh4QTI2N1hDT3ZZaWVpejNPS0xuM1dUZGI5Vk1KQjBn?oc=5",
+    "published": "2026-08-12 01:25",
+    "timestamp": 1786465500,
+    "summary": "xAI 공동창업자의 리버AI가 11억 달러 규모의 투자를 유치했으며, 엔비디아와 AMD가 해당 투자에 참여했다."
+  },
+  {
+    "company": "Intel",
+    "title": "인텔, AI 반도체 투자 위해 첫 공개 유상증자 - 조선일보",
+    "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPclFCdFhXLXhwamdzNjZOVjQ3YmoxVHVnWmJPTlMxY2Nkc0xMM0x3Uy1rejNpOTVVQ3dPbTBFcGJLQTBwUlBFbld4NUhVOTZiRlFNZTFCSWVnU3JwUExkRENBYmJ4c3lleVpjV0psbEhUTUtoLVNnZDk1YWNCU1lCaHdOQQ?oc=5",
+    "published": "2026-08-12 00:34",
+    "timestamp": 1786462440,
+    "summary": "인텔이 AI 반도체 분야에 대한 투자를 목적으로 상장 이후 첫 공개 유상증자를 실시한다."
+  },
+  {
+    "company": "NVIDIA",
+    "title": "엔비디아 vs ASML…AI 반도체 시장 최종 승자는? - 뉴시스",
+    "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE1QMXI1OVlZd2VjSU12ajdUSms1RjJmaHFhdC1Fb1JPUzBxR1czajM0SjlSMEVDQzBzRTEtazM0aUR1Z3RqZE1NVmJuMzR6LTUtR21kOWVKS0Z0RVJZa0FaTkxTSElEb180dzlTQkJJSlJqeDFiMWlKddIBeEFVX3lxTE1QMXI1OVlZd2VjSU12ajdUSms1RjJmaHFhdC1Fb1JPUzBxR1czajM0SjlSMEVDQzBzRTEtazM0aUR1Z3RqZE1NVmJuMzR6LTUtR21kOWVKS0Z0RVJZa0FaTkxTSElEb180dzlTQkJJSlJqeDFiMWlKdQ?oc=5",
+    "published": "2026-08-12 00:29",
+    "timestamp": 1786462140,
+    "summary": "엔비디아와 ASML이 AI 반도체 시장에서의 경쟁 구도를 형성하고 있다."
+  },
+  {
     "company": "Intel",
     "title": "인텔 공모, 강한 수요로 투자자 3분의 1 배정 실패 – 보도 - kr.investing.com",
     "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE84RU83bUs1eWpScHJSMjJGd1dlNF9xVGZ5TzFqM3FKQjRUMDV2QUZIVzk4b3lmUGljV0szVUw5WnBzT09FUHR1X3c3QVFJTTdITm1LbkowVDA5X3BxSzFLRFk4bmw1Zl9lU0dqVXJxQXRDY09Iamdn?oc=5",
@@ -904,22 +936,6 @@
     "summary": "스페이스X가 엔비디아 칩을 도입하며 AI 독주 체제를 강화하고 있다."
   },
   {
-    "company": "NVIDIA",
-    "title": "엔비디아·AMD 中 점유율 10%로 추락 전망…중국 AI ‘딥시크·키미’가 더 무서운 이유 - 이코노미트리뷴",
-    "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE13cFlxbk84Q2xpMy0tVENYZkp1STEtTm02VDRMUzcxeTVld1NPVUR5T001c29SVk1OLWczelNyUWNrVmQ5akZEZC1YYUlGWk16MG5FWDFjSTZIeDZqcmpTaGdDUDJDM1FFQ0RBTlpicjc5YmNTQXJv?oc=5",
-    "published": "2026-08-11 03:35",
-    "timestamp": 1786386948,
-    "summary": "중국 내 엔비디아와 AMD의 시장 점유율이 10% 수준으로 하락할 것으로 예상된다. 중국 AI 기업인 딥시크와 키미의 성장이 주요 원인으로 지목된다."
-  },
-  {
-    "company": "NVIDIA",
-    "title": "708조원 쏟아 AI 인프라 구축…엔비디아, 월가와 대형 펀딩 논의│Global Money Club - 중앙일보",
-    "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBSUEZBRW41V2FkNXg3VDN2bHpDeWlST2pUSzMyZ2pUbmdUUzV4V2J0Mk82S19xT1lRbG4xZVN6Z3NBZWwzNE5DdHczcnl6MmJMX1R6SERocHlJcnc?oc=5",
-    "published": "2026-08-11 02:29",
-    "timestamp": 1786382982,
-    "summary": "엔비디아가 AI 인프라 구축을 위해 708조 원 규모의 대형 펀딩을 월가와 논의 중이다."
-  },
-  {
     "company": "Intel",
     "title": "인텔, AI 수요 급증 힙입어 150억달러 유상증자 추진 - 블로터",
     "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1LSFFsMXVxSW5KYWU5ZzFLNll1aG5SNHltWVQ3SFhnNFJ1SzNOYWdIcW05TVpfTEJ5Qno0cExBUXZVci1GMkNkRFg2dVZJeFR5MF9ySFRQOEtGSjZaOFhXSVByek03NThSQWozQtIBbEFVX3lxTE1LSFFsMXVxSW5KYWU5ZzFLNll1aG5SNHltWVQ3SFhnNFJ1SzNOYWdIcW05TVpfTEJ5Qno0cExBUXZVci1GMkNkRFg2dVZJeFR5MF9ySFRQOEtGSjZaOFhXSVByek03NThSQWozQg?oc=5",
@@ -1656,6 +1672,14 @@
     "summary": "중국 CXMT가 애플의 공급망 진입을 위해 칩 적용 테스트를 진행하고 있다."
   },
   {
+    "company": "파두",
+    "title": "파두, 시스템반도체 인재 확보 나선다…주니어 탤런트 채용 - v.daum.net",
+    "link": "https://news.google.com/rss/articles/CBMiRkFVX3lxTFBPY21vT2JHdm9YbFh3bFlDWlhNdzNYcnhrZ1lmbXRKOFpsaTN5SHJrM29GVk1uSjFhRFlpOFJNdEVHbWs4OHc?oc=5",
+    "published": "2026-08-10 08:41",
+    "timestamp": 1786318868,
+    "summary": "파두가 시스템반도체 분야의 인재 확보를 위해 주니어 탤런트 채용을 진행한다."
+  },
+  {
     "company": "Qualcomm",
     "title": "'나를 둘러싼 생태계'...퀄컴이 그리는 퍼스널 AI 시대 설계도 - 디지털투데이",
     "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE5KRlZ2MEcxaUVDdmhDdEp2aFljUU13NzM2RlpiZ2NmaVB2WWMtQXo1bng0UW5RSGRxZmRkSnFKOHoxMm00LWpJTWxmZ2hlVmZlNVMzX3pZVkNjSjV2bUxmMlNDdGZodllFUGEzbExvNHdaVW8?oc=5",
@@ -2030,14 +2054,6 @@
     "published": "2026-08-08 14:17",
     "timestamp": 1786166228,
     "summary": "텔레칩스가 4분기 연속 매출 성장을 기록했다. SoC 용역 사업이 실적 상승을 견인했다."
-  },
-  {
-    "company": "Intel",
-    "title": "TSMC에 도전장 내민 인텔, '반값 패키징 기술' 승부수[대만칩통신] - 아시아경제",
-    "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxQTUthYzNZSEd4TGVIaTRZSlpBblVrRlQ4RU9ybE16UWdvT015aWJ0SXMwZWhCWG5heUpEeWVhTENSdnEteEY2akhpQ2dNTUFkajd0MkMybThkUmNnUXRkcjVMdEEtME5uZDhoOFhkUnZqemRWeUhOLTNBWXFHeGtsUEJR?oc=5",
-    "published": "2026-08-08 14:12",
-    "timestamp": 1786165945,
-    "summary": "인텔이 반값 패키징 기술을 앞세워 TSMC에 도전장을 내밀었다."
   },
   {
     "company": "Qualcomm",
@@ -2816,14 +2832,6 @@
     "summary": "일론 머스크가 엔비디아 칩 사용을 언급한 가운데, 리사 수 AMD CEO가 이에 대해 덤덤한 반응을 보였다."
   },
   {
-    "company": "AMD",
-    "title": "머스크 엔비디아 칩만 쓴다...리사 수 AMD CEO, 덤덤한 반응 - biz.sbs.co.kr",
-    "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE13VEE3VVB2Z1JScWlHZ1NLLW02SEVYMjlCWk5IY0VNZ3Y5eDRKWE5QYUZQYzhGN2RVcTkzN1IyZ3NucGVxMlVseWpQMlM1bVVIZjFHWHc1Tm7SAVhBVV95cUxNd1RBN1VQdmdSUnFpR2dTSy1tNkhFWDI5QlpOSGNFTWd2OXg0SlhOUGFGUGM4RjdkVXE5MzdSMmdzbnBlcTJVbHlqUDJTNW1VSGYxR1h3NU5u?oc=5",
-    "published": "2026-08-06 16:33",
-    "timestamp": 1786001580,
-    "summary": "일론 머스크가 엔비디아 칩을 사용하겠다고 밝힌 가운데, 리사 수 AMD CEO가 이에 대해 덤덤한 반응을 보였다."
-  },
-  {
     "company": "Samsung Foundry",
     "title": "앤트로픽도 AI칩 자체 개발…삼성 파운드리, ASIC 시장 확대 기회 잡나 - 아시아투데이",
     "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE83VTczWm5PRUIwRUozT0RmazYxaHJrbDlsSnVnYnlGZHNJaEhYbTQtdzM2MU9jWmxtbUpGTjFJNVgwMTNpcVI0UGNTRS1INnFOUVBTM3hMNUh4a2RKb096cUJ3SnI1eFFjTElQckt3?oc=5",
@@ -3422,14 +3430,6 @@
     "published": "2026-08-05 11:14",
     "timestamp": 1785896065,
     "summary": "딥엑스의 NPU가 공군 AI 경계감시체계에 적용되었습니다. 외산 GPU를 대체하는 성과를 거두었습니다."
-  },
-  {
-    "company": "파두",
-    "title": "\"AI 데이터센터 핵심은 저장 속도\"…'파두 2.0'으로 글로벌 SSD 시장 정조준 - 네이트",
-    "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE04N2NJdkg4QzZpOEhKZkMtRGdWM1pES25aOVV0a2tPaUhjdzd6dVVWVHJFNXBGSExUbVhSdTd5d3lGX01UMjlHQXQtM09mcHFkcDVv?oc=5",
-    "published": "2026-08-05 11:06",
-    "timestamp": 1785895560,
-    "summary": "파두가 '파두 2.0' 비전을 통해 글로벌 SSD 시장을 공략한다."
   },
   {
     "company": "Microchip",
@@ -7550,13 +7550,5 @@
     "published": "2026-07-13 06:42",
     "timestamp": 1783892560,
     "summary": "RFHIC가 7월 통신장비 상장사 브랜드평판에서 정상에 올랐다."
-  },
-  {
-    "company": "STMicroelectronics",
-    "title": "ST마이크로일렉트로닉스, 48V 자동차용 프리드라이버 신제품 선보여 - elec4",
-    "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE9WTTIzaUlfbVVrNzM4THRxZjlrSTlLbDdHSDhqcFBKcEhJamhKZXYwY2JoOXAxa09KVFQ2aEtVRS1IV3dIMjBpRTVVZ2lzUngwYUwyOE9WN0t6RHZqTUlNNUJveTBiS1N1aUxNeUVKN3FFWVE?oc=5",
-    "published": "2026-07-13 00:52",
-    "timestamp": 1783871575,
-    "summary": "ST마이크로일렉트로닉스가 48V 자동차 시스템을 위한 새로운 프리드라이버 제품을 출시했다."
   }
 ]
