@@ -1,5 +1,21 @@
 [
   {
+    "company": "TSMC",
+    "title": "TSMC, AI칩 패키징 질주…삼성전자, HBM·파운드리·패키징 역량 총력 - 파이낸셜뉴스",
+    "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE10bjJUc3MtbjNkRFY4U196TVFrLVZxZEhpZzNaRnhBc3JGbjZxVTZUWmRIc1A3QmNVMmo5RFhvMTd4RUhjWDEwbnBBY0VnZmxoNjlTSDRpVTdfZw?oc=5",
+    "published": "2026-08-14 06:59",
+    "timestamp": 1786658340,
+    "summary": "TSMC가 AI칩 패키징 분야에서 성과를 내고 있으며, 삼성전자는 HBM, 파운드리, 패키징 역량 강화에 총력을 기울이고 있다."
+  },
+  {
+    "company": "Intel",
+    "title": "삼성전자, 美 테일러로 파운드리 승부수…인텔과 맞불 - 아이뉴스24",
+    "link": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE50RGZNQjZDN2xBaFZFRDR3dW9LM1dJMmI1aG0yVXdUSVprajU4UDMxRUFmeVZvelR4NU93ZVJJSllsWDRBZDJiT3FXSQ?oc=5",
+    "published": "2026-08-14 06:00",
+    "timestamp": 1786654802,
+    "summary": "삼성전자가 미국 테일러 파운드리 공장을 통해 사업 확장을 추진하며 인텔과 경쟁 구도를 형성하고 있다."
+  },
+  {
     "company": "NVIDIA",
     "title": "엔비디아, 800V DC 전환 추진, '루빈 MGX' 2026년 하반기 출격 - 글로벌이코노믹",
     "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQTU0tRE1Wc2lmQ1BZeXIzWno4dHBSa0hkWnlEV0RhYUVBSmxsMlZCLWpRckQ2QXBidUVQQ3ctTThQZ0NMaGNYbUd4eG9LSUNUM0x0bVIyMERDQzhsWnkzSXRmaExTbkY3NHVXX2RsYU9NRGJ0WVNWUWs5eF9aWGVMQWRaTDNnakxj?oc=5",
@@ -400,6 +416,14 @@
     "summary": "엔비디아가 데이터센터 전력을 800볼트 직류로 전환하며 랙 한 줄당 2MW 전력을 공급한다."
   },
   {
+    "company": "AMD",
+    "title": "AI 스타트업 인수한 AMD…엔비디아 천하 GPU 지형도 바꿀까 - SR타임스",
+    "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTFA1NTBINEJpTDJhcG1Eb3NfWUlJQTRWYUhnMDdFSnRlY1Fka2NzTUFoX3pjdUc1c1lpTVBGbzY5YnlsandSMXVib29HcjRlZ0dGbm12S3FwTVgwWDlrSkNxbmxmN3FDZGM1YmtB0gFrQVVfeXFMUDU1MEg0QmlMMmFwbURvc19ZSUlBNFZhSGcwN0VKdGVjUWRrY3NNQWhfemN1RzVzWWlNUEZvNjlieWxqd1IxdWJvb0dyNGVnR0ZubXZLcXBNWDBYOWtKQ3FubGY3cUNkYzVia0E?oc=5",
+    "published": "2026-08-13 14:28",
+    "timestamp": 1786598929,
+    "summary": "AMD가 AI 스타트업을 인수하며 엔비디아가 주도하는 GPU 시장 지형도 변화를 시도하고 있다."
+  },
+  {
     "company": "Intel",
     "title": "립부 탄 인텔 CEO \"새 메모리 아키텍처 검토\"…메모리 사업 재진입 시사 - ER 이코노믹리뷰",
     "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE4tVTNGX25QZGYxVlpMOVhTTDM5RGNlRWRaZS1mOXByX1RKdXVwOGR0T1dfWXU4NzVYSUkwbWx1cUx5cDFKUy1CZDVxNWk2eUVrYW1VQ0MxS3BROGpRbVJNNGw3Nk5CRG9zRnFiUA?oc=5",
@@ -422,14 +446,6 @@
     "published": "2026-08-13 14:14",
     "timestamp": 1786598057,
     "summary": "퀄컴이 스마트폰을 넘어 워치와 아이웨어 등 퍼스널 AI 생태계로 사업 영역을 확장한다."
-  },
-  {
-    "company": "AMD",
-    "title": "AI 스타트업 인수한 AMD…엔비디아 천하 GPU 지형도 바꿀까 - SR타임스",
-    "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE4wcXJFS212MUtfbEVLQkppRlp3eGF3ZDV2YkdUNFZoWEUwVGctMlhJZjh2ZmZtaFB2d18xOGk0Z0pkTU1jU3U4U09NaEVCZkIxZUNXY3FmMGRqeXg0R09iLUhuRXk2VFHSAWtBVV95cUxQNTUwSDRCaUwyYXBtRG9zX1lJSUE0VmFIZzA3RUp0ZWNRZGtjc01BaF96Y3VHNXNZaU1QRm82OWJ5bGp3UjF1Ym9vR3I0ZWdHRm5tdktxcE1YMFg5a0pDcW5sZjdxQ2RjNWJrQQ?oc=5",
-    "published": "2026-08-13 14:14",
-    "timestamp": 1786598054,
-    "summary": "AMD가 AI 스타트업을 인수했다. 이번 인수를 통해 GPU 시장 내 엔비디아와의 경쟁 구도 변화 여부가 주목된다."
   },
   {
     "company": "리벨리온",
@@ -520,20 +536,20 @@
     "summary": "AMD와 마이크론이 반도체 업계의 최신 근황을 공개했다. D램 기술 변화와 관련된 업계 동향을 다루고 있다."
   },
   {
+    "company": "TSMC",
+    "title": "‘양자컴 TSMC’ 꿈꾸는 SDT, 오픈소스 양자컴 제조 시장 노린다 - v.daum.net",
+    "link": "https://news.google.com/rss/articles/CBMiS0FVX3lxTFBHajlKUU9tOUZ3ZHhCcWpNSVo5X1BNR0IyZGMtTTV3bUNabEVrYlkxcjc1NnYzTjVzT08tZi1fWUJoNENXbDhqS2haUQ?oc=5",
+    "published": "2026-08-13 11:27",
+    "timestamp": 1786588024,
+    "summary": "양자컴퓨터 기업 SDT가 TSMC의 기술력을 지향하며 오픈소스 양자컴퓨터 제조 시장 진출을 노리고 있다."
+  },
+  {
     "company": "OpenAI",
     "title": "코덱스부터 네모까지…오픈AI·엔비디아, AI 에이전트 개발 노하우 공개 - 뉴스탭",
     "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBjRkptTzFzVHNGQ2oxN0d4aGdfX0pjMURsa1RJektDdjRydFhXVV9TNEtUOW40NDFJV0JpbEJBeXl2QzFpZkJkZ0pFM09GQVVNcE03MEloX0k1MzZnU3Z6Z2FuaU03ZHQtMjhMTQ?oc=5",
     "published": "2026-08-13 11:26",
     "timestamp": 1786587960,
     "summary": "오픈AI와 엔비디아가 코덱스부터 네모까지 AI 에이전트 개발 노하우를 공개한다."
-  },
-  {
-    "company": "TSMC",
-    "title": "‘양자컴 TSMC’ 꿈꾸는 SDT, 오픈소스 양자컴 제조 시장 노린다 - 매일경제",
-    "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE11eXNzT0wtd0I2OWkxdkpWRnR2dU50dFQtZElVRTlyVWtfS0RvVnphVVl6VW1UQnRmVW40UkxvTG0zMDFPcnhIZVZGbFhSZw?oc=5",
-    "published": "2026-08-13 11:25",
-    "timestamp": 1786587912,
-    "summary": "SDT가 양자컴퓨터 제조 시장 진출을 위해 TSMC와 협력하는 양자컴퓨터 기술 개발을 추진한다."
   },
   {
     "company": "Apple",
@@ -1046,6 +1062,14 @@
     "published": "2026-08-12 16:04",
     "timestamp": 1786518240,
     "summary": "NYSE 사장이 딥엑스 본사를 방문하여 성장 전략을 논의했다. 다만 딥엑스의 상장 계획은 아직 정해지지 않았다."
+  },
+  {
+    "company": "AMD",
+    "title": "Liqid Pools, 하나의 서버에 AMD MI350P GPU 30개 탑재: 4.3TB HBM3E 메모리 및 AI 추론을 위한 69 PFLOPS 성능 제공 - StorageReview.com",
+    "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQYm5jV1Ric0JTdk9rU095Z1BtU3c2VWJFVE5tenFIRkRlMFhZOVQ5VzVwcE9uVk9Qc2g1dG1fVER6X0hWYXV5c1Z4ZFM4MVRHY01PdlJhbzVLTmZZWmFqTGQ2RTB4aDNrd2lBenh1SDVQcVdTaUd6bXNoQ0ZObUcxYjlBMTE2dlpTd1V0RkdtYlFCRDVKWWQyWlpySzkyZHlYN0NOR1NoZnFJMTBoRjhCc3ZXRzkwam5yTmFMVG1UZUQ0cU9xMEpr0gHMAUFVX3lxTE5kSF9vVlljdGw3S0R1ZnZBdllvU3kzMWhyQXhCcjFtTU5IaTBWb0F2N2hxSEZrSHU2ZmJHRzRQNFVyMDRWS3Z5UG1EbHpraF9kLTcxYnNPeEdUUHUtVDFSTDVfVnlfdVhZYmVWQ19fa1V2aDdKcEtJLS1Ra192dEJyc182T2NHNUdyVUZZdzNvd3NQejdtdzVrZUNNVFFING1LN2pnOTRUc3ZEemtheThLWjFIRUVTT1pzSzJhemFlbFBDSWhQTnl0WWtFTQ?oc=5",
+    "published": "2026-08-12 16:00",
+    "timestamp": 1786518000,
+    "summary": "Liqid Pools가 하나의 서버에 AMD MI350P GPU 30개를 탑재하여 4.3TB HBM3E 메모리와 69 PFLOPS의 AI 추론 성능을 제공한다."
   },
   {
     "company": "Analog Devices",
@@ -1888,28 +1912,12 @@
     "summary": "퀄컴 스냅드래곤이 전 세계 35억 대의 기기에 탑재되며 기술적 잠재력을 보유하고 있다."
   },
   {
-    "company": "Intel",
-    "title": "[단독] “HBM은 형편없다” 전 인텔 CEO 도발하자…SK하이닉스 임원 대답이 - v.daum.net",
-    "link": "https://news.google.com/rss/articles/CBMiRkFVX3lxTE03MGY1ZGRObkdBempCZGFHLXdzbnJ5ZVNIc3RyRkJnZkljX2hqdzBWdFNISE1vNmY4VF9QMWxJdWgyVTVULUE?oc=5",
-    "published": "2026-08-11 17:00",
-    "timestamp": 1786435200,
-    "summary": "전 인텔 CEO가 HBM에 대해 부정적인 발언을 하자 SK하이닉스 임원이 이에 대해 대응했다."
-  },
-  {
     "company": "코아시아",
     "title": "코아시아세미, 국내 DSP 업계 첫 3D IC 패키지 적용 SoC 양산 - v.daum.net",
     "link": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE9BREpFM1ZhYUlwUHV4Y2l3YnM0eGl3OS1tTm5fZ2p4aXdGU1g1MUJMN1FwMUtyTnFxZ3dLbkhXTHItVkFMMFFUZV9pcw?oc=5",
     "published": "2026-08-11 16:38",
     "timestamp": 1786433929,
     "summary": "코아시아세미가 국내 DSP 업계 최초로 3D IC 패키지를 적용한 SoC 양산을 시작했다."
-  },
-  {
-    "company": "TSMC",
-    "title": "대만 TSMC와 일본 소니의 삼성전자 견제 동맹? 파운드리·이미지센서 분야 추격 전망되자 제휴 공고화 - 허프포스트코리아",
-    "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE13cDNTeU8tTFAtbl9Ha3V4d3dsd0g3T0xLM2FTQXUzdHFTOEJnNW5uRmt2OTh4Ym80Z1NFRlhQTDFuZHFoMUhCMFcyQ3dNblJOaTNwcG9tRQ?oc=5",
-    "published": "2026-08-11 16:28",
-    "timestamp": 1786433316,
-    "summary": "대만 TSMC와 일본 소니가 파운드리 및 이미지센서 분야에서 삼성전자를 견제하기 위해 제휴를 공고히 한다."
   },
   {
     "company": "Siemens",
@@ -3190,14 +3198,6 @@
     "published": "2026-08-08 04:32",
     "timestamp": 1786131159,
     "summary": "키오시아의 GP 시리즈 SSD가 FMS 2026에서 베스트 오브 쇼를 수상했다."
-  },
-  {
-    "company": "AMD",
-    "title": "AMD, IFA 2026 참가… 개인형 AI 시대 비전 제시 - 위클리포스트",
-    "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTFB5cjZ2MlJvYVd1TU9zdVY1dWNRYXg0VmZXZ3pmOWF2T1BDUE1za0UyVFo5MzFqRDcyYzhReXZ5U1F4SFQ4S3NJS3BIalhJNVNIYnBGSXZUWWEtSEFiNEpRV3l0WDBjRDU2S3c?oc=5",
-    "published": "2026-08-08 04:17",
-    "timestamp": 1786130269,
-    "summary": "AMD가 IFA 2026에 참가하여 개인형 AI 시대에 대한 비전을 제시한다."
   },
   {
     "company": "Tesla",
@@ -7582,13 +7582,5 @@
     "published": "2026-07-15 10:02",
     "timestamp": 1784077342,
     "summary": "AI 스마트폰 시장의 확대로 인해 제주반도체의 저전력 메모리 기술력이 시장에서 주목받고 있다."
-  },
-  {
-    "company": "UMC",
-    "title": "대만 UMC, 싱가포르서 '광자 칩' 양산… 반도체 고속 연결망 전쟁터 진입 - MSN",
-    "link": "https://news.google.com/rss/articles/CBMimwNBVV95cUxNVUt2VmlseE40VjFzXzRGeTJ4OWJKNTIxNGFlVGQ5NGJhOHBTaTNFdnRTaWhXYkRJYlUxRmFFTDVVUi1WMHltQzFKMWpIVmhXcTUtbHhGTXNVU2FoZEE0MVE5djVVaENVUEFVMi1ubHQ2MHk3VHNDVWJMWEhrN0h1eVFKZHZ0TzVUUXpyYUtkWFNBSWUwUFpaSVVjeDhkQWN3RzBoUHhLYUVwUXB2d01WTzNCWXlneEJaa3E1STVoRWF1UUJuUFdYMTRJb2laWkNFcmhVbWtONC00WVFERGRKOUJOcENKU2lFSzI1Q2RfMklKa1JfOTBkN3VMYVBXYTZJbjk0U3VrZ052ODNkYU9UUnFDQ05Db0hKdXFrb2VDYmtucE9RNVZXeWVpRnRQem5tWlJCeXpYdk1ZVXczck5MNUFwSXFRN25rbEpzNXg3Z0VjUkQyZy10bmtuT25TSEpJUE1wMzczQ3JiSGxWcm9Ocl9Bd09BUlFhcHU5UkFQVHItdEJibEc5ODNLdFg4bDNWNnh3MUJkMll4YVU?oc=5",
-    "published": "2026-07-15 06:39",
-    "timestamp": 1784065166,
-    "summary": "대만 UMC가 싱가포르에서 광자 칩 양산을 시작하며 반도체 고속 연결망 시장에 진입했다."
   }
 ]
