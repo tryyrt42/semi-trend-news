@@ -1,6 +1,30 @@
 [
   {
     "company": "AMD",
+    "title": "AMD, 4개 시리즈 선순위 채권 공모 추진…\"채무 상환 등 일반 기업 목적\" - 데이터투자",
+    "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE9zdGRuTFZlSGZobVJqRjJvY09MeUtseC0yQnZLa0pjY1VLdmhRazNtRE80ZmRuSVU0OC1xSU9CTFVhRG5iQl8yUkhXOHk4Q1ppcHg5UnFkRG1nVDk4bzRmMV9IY0hhbFh3Ukg4Q0xwQ1lISHM?oc=5",
+    "published": "2026-08-13 22:33",
+    "timestamp": 1786628026,
+    "summary": "AMD가 4개 시리즈의 선순위 채권 공모를 추진한다. 조달된 자금은 채무 상환 등 일반적인 기업 운영 목적으로 사용될 예정이다."
+  },
+  {
+    "company": "NVIDIA",
+    "title": "아이디얼파워, 엔비디아 800V 데이터센터 협업·아시아 장기 공급계약 체결로 주목 - 매일경제 마켓",
+    "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBkbHpxeU9qZGhVVEs4UTB5T2tfdEhmcktERFdDdklwUmFqdFZZLWd5WW9wc2JTR25NSEV0bnVXRjVOSjVRVHJEaEVIS3B0TVBoSFE?oc=5",
+    "published": "2026-08-13 22:30",
+    "timestamp": 1786627814,
+    "summary": "아이디얼파워가 엔비디아의 800V 데이터센터 관련 협업을 진행하며 아시아 지역 장기 공급계약을 체결했다."
+  },
+  {
+    "company": "Broadcom",
+    "title": "10GW 오픈AI 협업, 브로드컴 AI 공급망 넓혔다 - tokenpost.kr",
+    "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5FRjdRRnJzUkYtVS16ekczX2c1ZlJRLUlfd1lSSkJpbkNlbkNIUjRjTFhSSHpkMDY0THF5cDcwNERZYmtGWGlsbW1ScDJHSENlQVFjNnJURDhlY0Y3VVlxetIBZkFVX3lxTFAwOEZlM0JPZElVenQ4LW1xTDIyMXFTLWNKZE1OVHY1Rm5vdEtUT1N3ZFFUMDV2cmxzc3Q1LXhobkJITXM5UE51ZU90ai12WGFobTdVVDRSbk1yd1ZGcGh6clhodnJldw?oc=5",
+    "published": "2026-08-13 22:25",
+    "timestamp": 1786627511,
+    "summary": "브로드컴이 오픈AI와의 협업을 통해 AI 공급망을 확장했다."
+  },
+  {
+    "company": "AMD",
     "title": "에이엠디, 채무증권 일괄등록으로 발행 기반 마련 - tokenpost.kr",
     "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1JLWJtTU9lNmhmS0tjZ0llbmxERkx5djB4MjVZTHNJcHlZOEhRODl0OTlicmx1dk8xVXRPdVp1ci1aekF1bm5QSS1lNEhpcGs1X2tnd0lnYkQ1bHBrT1cwNtIBZkFVX3lxTE1pZFJMWUlFQlJXZER0MjhjWDB6cEs0VWIyZFJJSWFCdkRxcTJOOXY0SEhkY1c0NVIwaXZvV0lfMkpVNWx2YVpFeVpFRmYyS0RjOHZweUhvWnVIMExucnl2TFhZMDhUQQ?oc=5",
     "published": "2026-08-13 22:11",
@@ -758,14 +782,6 @@
     "published": "2026-08-13 00:30",
     "timestamp": 1786548600,
     "summary": "엔비디아가 1조 매개변수 규모의 오픈소스 AI를 개발하고 있다."
-  },
-  {
-    "company": "NVIDIA",
-    "title": "엔비디아, 자체 AI 모델 출시… 무료 공개로 칩 판매 극대화 포석 - v.daum.net",
-    "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE9XbTN1M3FNLWJRc1RaZ2F5VkJ4bVl2Wm1PdWRJaVk1dlFKUUFKMVEtdThlVjUyT1NHZm1ZLU8zZXUtd2ViZDJxOUpJLW5pM00?oc=5",
-    "published": "2026-08-13 00:16",
-    "timestamp": 1786547769,
-    "summary": "엔비디아가 자체 AI 모델을 출시하며 무료 공개를 통해 칩 판매 극대화를 도모한다."
   },
   {
     "company": "TSMC",
@@ -3262,14 +3278,6 @@
     "published": "2026-08-07 16:00",
     "timestamp": 1786086025,
     "summary": "엠씨넥스가 2분기를 저점으로 3분기 반등을 예상하며 내년부터 본격적인 성장을 기대하고 있다."
-  },
-  {
-    "company": "AMD",
-    "title": "美AMD, AI 모델을 칩에 새긴다…加탈라스 인수로 추론 병목 공략 - 서울이코노미뉴스",
-    "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTFA2b0I4VThQY253elVOSzJHMlU1ZEswQkNfSkVsSXZhZ1Y1Y2xvMy1LaWJEOXdpTnR0U2pSZlVjdERVUndLdEdZYVpQWTg2dlloM0ZCb25xc3J4eEphc2l2bFBNOVp3b19EdnZfQ21B?oc=5",
-    "published": "2026-08-07 15:52",
-    "timestamp": 1786085555,
-    "summary": "AMD가 캐나다의 탈라스를 인수하여 AI 모델을 칩에 탑재하고 추론 병목 현상을 해결하는 기술을 확보한다."
   },
   {
     "company": "모빌린트",
@@ -6302,14 +6310,6 @@
     "published": "2026-07-28 10:56",
     "timestamp": 1785203808,
     "summary": "미디어텍이 디멘시티 9600 시리즈를 3종으로 출시하며 스냅드래곤 8 엘리트 6세대를 정조준한다."
-  },
-  {
-    "company": "Broadcom",
-    "title": "브로드컴과 CXMT, 반도체 시장 재편 가속 - Traders Union",
-    "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQTlNFRU4wT1ludWRDajBLbUtobXBwWG9Yb1V2S2pzWVZsd1FqQzhYX1BCLXVlaTRLNUd5Q3M0YW54ejNyMExGU0ZVNXZSODlXN1VrUDVFWW44TlNoRmRteUFrcUEzLWVLSDNTcjNtM2JGOTUzV2tTMkg3dEw2d1hqc0pFbHl4eTNBRlNxRGpIbTVETDJwMGFKU1lncEpVM1VTc3FkQw?oc=5",
-    "published": "2026-07-28 10:08",
-    "timestamp": 1785200910,
-    "summary": "브로드컴과 CXMT가 반도체 시장 재편을 가속화하고 있다."
   },
   {
     "company": "망고부스트",
