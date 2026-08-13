@@ -1,5 +1,21 @@
 [
   {
+    "company": "Cerebras",
+    "title": "Cerebras, OpenAI GPT-5.6 Sol 초고속 모드 초당 750토큰 지원 - Investing.com 한국어",
+    "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBRZEphYkdwSDlNaDEzZHhSYnBrejE1dEs1QmNrWG5GajVZOW5GWG80VzVGY3JrVVhWRVVfd0hDY204eS1tVDVBV0hISFZrLXk4ci1pQlBfdzFBY2F5d2VkZkhXME44czNLRjBZMlZCdVE?oc=5",
+    "published": "2026-08-14 02:05",
+    "timestamp": 1786640700,
+    "summary": "Cerebras가 OpenAI GPT-5.6 Sol 모델의 초고속 모드를 지원하며 초당 750토큰의 처리 성능을 제공한다."
+  },
+  {
+    "company": "NVIDIA",
+    "title": "서린씨앤아이, 리드텍 NVIDIA RTX PRO 4500 블랙웰 서버 에디션 출시 - 위클리포스트",
+    "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE5tTkxuMFJaVmVucURpUHRFUG03cnF0VFV6LUhzbnlfSmZqZUs5V2VzWnVfLW1QYU9HaFlzQTRWSjYzYjZjOG1XMFRkbWRCekpHUDZWR2drbVlPVXFiTVBuU1FZc0VSRGdRODZF?oc=5",
+    "published": "2026-08-14 01:05",
+    "timestamp": 1786637142,
+    "summary": "서린씨앤아이가 리드텍의 NVIDIA RTX PRO 4500 블랙웰 서버 에디션을 출시했다."
+  },
+  {
     "company": "AMD",
     "title": "AMD, AI 칩 실탄 7조원 확보 나선다…사상 최대 채권 발행 추진│Global Money Club - 중앙일보",
     "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1qUUV6Y3lrM0RhZEtwV3g0Q0R6ajV4Uk83NzFmc2pJbmlDcU1YamZOd3NWR092WDFFM2luRkcyOEZwSzBfZkdIR2JjbEd3bnR4YzYwZFV1dF9UMkE?oc=5",
@@ -298,10 +314,10 @@
   {
     "company": "Apple",
     "title": "애플 '메모리 쇼크' 불똥…삼성D·LGD OLED 단가 인하 압박 - v.daum.net",
-    "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE92ODNKY09QTzVpZUg0cm1JSjQwYzEyYXduWWZqak44RnM5QzBKS1BiajdDaHo0RDBPM1dBSzlkZ19CVG5DbHFIVlJJU21JQVk?oc=5",
+    "link": "https://news.google.com/rss/articles/CBMiRkFVX3lxTE1ZaHhrZUJGR0JzaXcwRHREWnBNNHlwNmRwTE44N08tcWI3SzFrX3lxWFcxc0pHazdublZtZmF3SkFBaE1uT0E?oc=5",
     "published": "2026-08-13 15:37",
-    "timestamp": 1786603020,
-    "summary": "애플의 메모리 쇼크 영향으로 삼성디스플레이와 LG디스플레이에 OLED 단가 인하 압박이 가해지고 있다."
+    "timestamp": 1786603023,
+    "summary": "애플의 메모리 쇼크 여파로 인해 삼성디스플레이와 LG디스플레이가 OLED 단가 인하 압박을 받고 있다."
   },
   {
     "company": "Intel",
@@ -816,14 +832,6 @@
     "summary": "경북대가 엔비디아 및 HD현대로보틱스와 함께 지역 제조 AI 혁신을 추진한다."
   },
   {
-    "company": "NVIDIA",
-    "title": "“엔비디아, ‘1조 매개변수’ 오픈소스 AI 개발중” - 동아일보",
-    "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFBfWU1CeS1ubjB2UkVYR2FLT2tvRGVkVFNtbU1veEFjNzdMVFlnM3FwYzkwOTNXR3pCS1FPZjlfWjRtOElUdTVfX2NmSkhVQ09WOGtMU3dyeWZVNU1GUTllUjN5eHUwUdIBZkFVX3lxTFBfWU1CeS1ubjB2UkVYR2FLT2tvRGVkVFNtbU1veEFjNzdMVFlnM3FwYzkwOTNXR3pCS1FPZjlfWjRtOElUdTVfX2NmSkhVQ09WOGtMU3dyeWZVNU1GUTllUjN5eHUwUQ?oc=5",
-    "published": "2026-08-13 00:30",
-    "timestamp": 1786548600,
-    "summary": "엔비디아가 1조 매개변수 규모의 오픈소스 AI를 개발하고 있다."
-  },
-  {
     "company": "TSMC",
     "title": "삼성·TSMC 손 뗀 구형 반도체, 공급난에 가격 줄인상 - edaily.co.kr",
     "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQSXh5YXkyY2d2cWtsZGVYeW5vdjJPbVJKZjhEVXU4TmRaLTltNHlEdThDQ3Ytd25OVVJhR2dkcTZILU9yOGZNbjBLYkhrS0RuNnA4UWpkcnFlNzk3eXV3Yk9lcDRjWnRmbmxkUXdKQVhKOU5SSVVkVFVVU1B1ZFNieA?oc=5",
@@ -969,11 +977,11 @@
   },
   {
     "company": "TSMC",
-    "title": "日, 외국 반도체 투자 53조원 끌어모아…TSMC 주도 - 뉴시스",
-    "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE83dm5TbExfUGdtaWh0UUVKUDVHMDhwUjZLNnAtMW9rUm5OT2tQMG9nSWRkaVV2clRKYmNjZUQwazRPY1hxMVhjanNIcDBLR2tyUDZlZ3YzX2xVU0RrZWw5M9IBeEFVX3lxTE5WSnYwYmNyektNaG0yam5HMDZiX2FkSUlyYXk2UEREVkJGN05vbDBpTVNuUTBXV2FLWUZTUENkS3l4SVpOZkgycmNKNlZSVU5MNFlaTjZnbU9SYWlfeDZnLS1QZG1EZjFkOHpkdzAza18tWndSSFNWQg?oc=5",
-    "published": "2026-08-12 18:13",
-    "timestamp": 1786526038,
-    "summary": "일본이 외국 반도체 기업 투자로 53조 원을 유치했으며, TSMC가 해당 투자를 주도하고 있다."
+    "title": "日, 외국 반도체 투자 53조원 끌어모아…TSMC 주도 - 네이트",
+    "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBGRzI5LXBZX2l0cjExZ0c1NUw4bmtZd2Y4SkFIS09KN1o3V19BSWR3ck9WX2xzVGtSOHhibFNJOUpPUjBzT1c0bERyUWpORHFkejljQzRUVi0yMmE3Vk54cQ?oc=5",
+    "published": "2026-08-12 18:15",
+    "timestamp": 1786526100,
+    "summary": "일본이 외국 반도체 기업으로부터 53조 원 규모의 투자를 유치했다. 해당 투자는 TSMC가 주도한다."
   },
   {
     "company": "TSMC",
@@ -1150,6 +1158,14 @@
     "published": "2026-08-12 14:08",
     "timestamp": 1786511284,
     "summary": "일본이 반도체 산업 부활을 위해 6조 엔 규모의 외자를 유치했으며, TSMC와 마이크론이 이에 참여했다."
+  },
+  {
+    "company": "TSMC",
+    "title": "'삼전닉스, 우리도 투자한다' TSMC, 첨단 공정·패키징 등에 42조원 - v.daum.net",
+    "link": "https://news.google.com/rss/articles/CBMiRkFVX3lxTFBLQl92X01KSjQzNEI5Wm96YTJfVjNZQkNUWDFzNjczQ2R0c1dPZHEybTVIZEU0aEJLa0VDUGZ3cFEwMmNsSEE?oc=5",
+    "published": "2026-08-12 14:03",
+    "timestamp": 1786511000,
+    "summary": "TSMC가 첨단 공정과 패키징 분야 등에 42조 원을 투자한다. 삼성전자와 SK하이닉스 등도 투자에 동참한다."
   },
   {
     "company": "Tesla",
@@ -1910,14 +1926,6 @@
     "published": "2026-08-11 16:06",
     "timestamp": 1786431977,
     "summary": "애플이 정치적 리스크에도 불구하고 중국산 메모리를 사용하는 이유와 그에 따른 위험성을 분석한다."
-  },
-  {
-    "company": "TSMC",
-    "title": "TSMC 소니와 이미지 센서 공동 생산은 이례적 평가, 외신 \"삼성전자 중국업체와 경쟁 의식\" - 비즈니스포스트",
-    "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE9zSjVGWmN4eTJjY0NNNjdLbkNXWWVpY1VPMG9rSWZfSWNuOEFfTEVKSTdNTHBKY2M1ZnlES0J6ZHBfWVF0a0dGMkk4eERvUGVleS1tcWpQbVpaN2VQZWpjOGVhcjJoZWVPTmJ5SVl5YXluWjg?oc=5",
-    "published": "2026-08-11 16:03",
-    "timestamp": 1786431797,
-    "summary": "TSMC가 소니와 이미지 센서를 공동 생산한다. 외신은 이를 삼성전자와 중국 업체를 의식한 행보로 평가했다."
   },
   {
     "company": "Marvell",
@@ -7598,13 +7606,5 @@
     "published": "2026-07-15 05:10",
     "timestamp": 1784059804,
     "summary": "시냅틱스가 휴대폰 컨셉트 모델을 공개했다."
-  },
-  {
-    "company": "Cerebras",
-    "title": "'엔비디아 대항마' 세레브라스 \"유럽에 수조 원대 투자\" - MSN",
-    "link": "https://news.google.com/rss/articles/CBMi-ANBVV95cUxOMDdpbjdOd1dpNHQ0a1ZJOWVvdFdpWG44YzVyNHBIY01FS0VFQm9HNi1zTlJlNGttUWNGQXV4UkIxRmRrM2QwaF92bUxxekh4ZjJDX0RkY2F1a2RhLVpBbnFaMjNqSFFOMXR2M09DM3VZUFBKNU52NXdXWXB6MU9wS0JFMnRfUU9EbFhteUdKNnhjMVZobF80eWpzVkNINDExMWt3MlJzeVcyVTdESk13OTN5UGRJMjFranhCNDFfd2tSZUw5QTlIN1RGMDFuSWJaQkptcE4tQ1d1cGRCODRlSzJ5Vks1UlBBX3otbDVKVGo0dlRUUldPUG1fZ2VRT3hTZGVOQ3NNTjdaVWM1ZUkyRU1uSGROM0JIMVg2RW9yRzRYc1BSTTdiZnlxbFBkT1QtVDltMVFJaFNNZVlhZmdOa2FxdGVMSk5WRXBRMldRQl96cU1EMnBKR0M1aGNMUGY0SDlFX19ybmYxcHhRNjdIVUNxY19NRVJNQWRnWElZSlNyU2VORnNBbmNoTlFGd3RXR2xWMUR0TlNINDEwY0NvV29oQUVYSWJoX0FqTlFfNmFTc09SZzVnWWN1TnFZUGxRa2FBMkx4b2UzQTVNVndlTXJvelozaEFSYU1KZ2x5RUI1dk5veFVJUWNVZHg2VEZzQkNUS3A0WEU?oc=5",
-    "published": "2026-07-15 03:14",
-    "timestamp": 1784052882,
-    "summary": "엔비디아의 대항마로 평가받는 세레브라스가 유럽 지역에 수조 원 규모의 투자를 단행한다."
   }
 ]
