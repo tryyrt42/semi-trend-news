@@ -1,5 +1,37 @@
 [
   {
+    "company": "AMD",
+    "title": "50억달러 투자 약속한 에이엠디, 앤트로픽과 맞손 - tokenpost.kr",
+    "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1ib1BBUEktU19VWGQ5UHczMkFtSlBFZV9RQXQtN3BUTjV6YmFWYldxYVd2d1FpN0xvcjZYOFFJclRRNU9FR2FNSFBWS0Z0NjF2N2N1QjdpUWdrNDQ5LTU4a9IBZkFVX3lxTE1famVUTGlGQnhWVFh6cTNOUXA3cDY2cEpvNFhfX095cVROMkllWlRyZFRFWVE0WTBoVGQzbjZlMDBjQkt5eC1XOE5fRkgwQ0VhNkl0cHVXeXRhaHNlQUpoekhocUlHZw?oc=5",
+    "published": "2026-08-14 22:13",
+    "timestamp": 1786713225,
+    "summary": "에이엠디가 50억 달러 규모의 투자를 약속하며 앤트로픽과 협력 관계를 맺었다."
+  },
+  {
+    "company": "Intel",
+    "title": "인텔 레이저 레이크 AX 칩에는 통합 Xe3P 그래픽과 온보드 메모리가 탑재될 예정입니다. - GameGPU",
+    "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQaGotb3hnUHN1bXAwN0JmWXpQYUJiVzZzS2dLSkhYU1U3aFNCektCcDltQjAtMExFZnRWZ0xqUHc1R0hFb3JfSzFQaTlycm1ZX2V5YVNzMElRbXZCR3diMXNrNGZYc0lIbWlwZE9VdGxwV3NLMzc2MWloVDhWUlZ5aGNKMDBuQnB0Q2liTkE5M1VQa2FVMVZLUHNvRjBaQnlYMWtXLW1Lb1BJRkRkY290N05UMUFIUQ?oc=5",
+    "published": "2026-08-14 21:39",
+    "timestamp": 1786711172,
+    "summary": "인텔의 레이저 레이크 AX 칩에 통합 Xe3P 그래픽과 온보드 메모리가 탑재될 예정이다."
+  },
+  {
+    "company": "TSMC",
+    "title": "소니·TSMC, 구마모토에 ‘AI의 눈’ 1조엔 건다 - OBC 뉴스",
+    "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE9DakpTc3dXVHQwRHJ6Zjk2VElBVDZTVVVNWTVpc2E3OWU5WmxXTmxxMmpoMFVNVFZpVk1YbEJNYVNwUzBZQk1vVDB0RUowcXJMYkFwMkRfc0NJQlZ4cG9aZDFlVUJ1SEVE?oc=5",
+    "published": "2026-08-14 20:28",
+    "timestamp": 1786706904,
+    "summary": "소니와 TSMC가 일본 구마모토에 1조 엔 규모의 투자를 진행한다. 해당 공장에서는 AI의 눈이라 불리는 차세대 CIS를 양산할 예정이다."
+  },
+  {
+    "company": "딥엑스",
+    "title": "딥엑스, 국산 NPU 양산 1년 만에 글로벌 수주 77건…“누적 1,300만달러 돌파” - 스타트업엔(StartupN)",
+    "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9kc3FucTZ4d1RYRkhYWml2NjF1QUZBOFNGQjkzUl8xTGVOLXZMWVRKTXp5ZnFQQmM3SWF1WTFLdDFuMHZ6WGJSYlBqLVZTYWxvUDBnUEMybzBWcDRSTnQ5NG1ITENqVzRLWENSetIBbEFVX3lxTE9kc3FucTZ4d1RYRkhYWml2NjF1QUZBOFNGQjkzUl8xTGVOLXZMWVRKTXp5ZnFQQmM3SWF1WTFLdDFuMHZ6WGJSYlBqLVZTYWxvUDBnUEMybzBWcDRSTnQ5NG1ITENqVzRLWENSeg?oc=5",
+    "published": "2026-08-14 19:53",
+    "timestamp": 1786704814,
+    "summary": "딥엑스가 국산 NPU 양산 1년 만에 글로벌 수주 77건을 달성하며 누적 수주액 1,300만 달러를 돌파했다."
+  },
+  {
     "company": "에이직랜드",
     "title": "TSMC 韓 유일 파트너 에이직랜드…상반기 매출 1137억원 - ER 이코노믹리뷰",
     "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9wM2swckswemphV0FOYS05ZUxlRGpOOWlwbDZENExUNDhXRkg2TUZPZEswaFdZMWZiRzVjVXhDbDU2SDIyU2xqcnhNOVlVU2hkTFZKbHAyZ0VBaDNsNmZaU24yUHRUbXZ6OUFGNQ?oc=5",
@@ -177,6 +209,14 @@
   },
   {
     "company": "NVIDIA",
+    "title": "LG to Unveil Its Next-Gen Humanoid Robot, Built on NVIDIA Isaac GR00T - KIPOST",
+    "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE5JQ1RuTm1yMEZyTzExbllEVFBFVFd3NFlaelUzYUNYSlRRQmQ5WVV3dVJsM09ac2JuWFd0VlVIT3Bqa3ZvNm1MTVozNkpUT3g0Mk1hSGJIcFl1Z3dZMlAzODByWnprZ3BD0gFsQVVfeXFMTkQ2ZmNMc3pTOFhoU2E5N0VpZllnVm1lQmRDeXJkaE9NWVRXQTdtdktQTWxfM0R4S3RUa1k0U01tSkhkVk9xMmQ4bDJ1bFJ4YWRSbFhQc3ZCc0tNTmhHU2pmVjVsVERJSDVIU1ZS?oc=5",
+    "published": "2026-08-14 15:19",
+    "timestamp": 1786688340,
+    "summary": "LG전자가 NVIDIA의 Isaac GR00T 플랫폼을 기반으로 차세대 휴머노이드 로봇을 공개할 예정이다."
+  },
+  {
+    "company": "NVIDIA",
     "title": "엔비디아와 손잡은 LG…두 발로 걷는 로봇 만든다 - 머니투데이 - 머니투데이",
     "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9FWXRCa0tSYzc0UEJxTzZIM2RqdHpUcF9zeTBaTXhxTkhlWUlFVFI1cURpbnBJV0l5dS1BLVFyTzlNa0ltZGd0NlB2NENBc1UtVUdUWXVvbWVndWhKMkNablhrblNxWG_SAWxBVV95cUxOSEMtTXRfa2hua01WMHZSamJuTFFqcG16bGdjVDhOZ0J6aE9tZUNCUHVHSTBIT1B4VUtNRkszdEMycVdiOFVOVy1oOWZYeWQwYndPUmN5V0Z1Z2xaQnlnOWlNWHhzWUdfSU8yUWE?oc=5",
     "published": "2026-08-14 15:12",
@@ -246,6 +286,14 @@
     "published": "2026-08-14 14:44",
     "timestamp": 1786686269,
     "summary": "세미파이브가 상반기 매출 947억 원을 기록하며 작년 매출의 78%에 도달했고, 전년 대비 영업손실을 대폭 개선했다."
+  },
+  {
+    "company": "세미파이브",
+    "title": "세미파이브, 상반기 매출 947억원…ASIC 개발 매출 2배↑ - v.daum.net",
+    "link": "https://news.google.com/rss/articles/CBMiRkFVX3lxTFBLZ1pfOVltVGdObEw3US1xX3hMTXE0WFpuMk9YdDJiSHRBVzNuOWxXcjlBb2ljNHhDbUVzXzI5OHJsVU1mRVE?oc=5",
+    "published": "2026-08-14 14:43",
+    "timestamp": 1786686208,
+    "summary": "세미파이브의 상반기 매출이 947억 원을 기록했습니다. ASIC 개발 매출이 전년 대비 2배 증가하며 성장세를 보였습니다."
   },
   {
     "company": "딥엑스",
@@ -374,6 +422,14 @@
     "published": "2026-08-14 11:31",
     "timestamp": 1786674711,
     "summary": "엔비디아가 인도 AI 팩토리 건설 계약을 체결하며 글로벌 인프라를 확대한다."
+  },
+  {
+    "company": "AMD",
+    "title": "AMD, 채권 발행으로 40억-50억 달러 조달 계획 - 소식통 - TradingView",
+    "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE9fdkVEVEdPUnNJVXFoWW5sekRScEwwbURNdHJGSnZvdTJxVGJDb253S2lvMldBYU56cFJfUEo0UzQ0V0xyOUVKM3FKS25NNGlRMmlDYUZKVHVGNU5YR3pyMWNfV1JCQ3luVlFjRDV5NXYzVXRxSGprZg?oc=5",
+    "published": "2026-08-14 11:23",
+    "timestamp": 1786674180,
+    "summary": "AMD가 채권 발행을 통해 40억에서 50억 달러 규모의 자금을 조달할 계획이다."
   },
   {
     "company": "TSMC",
@@ -1022,14 +1078,6 @@
     "published": "2026-08-13 15:50",
     "timestamp": 1786603800,
     "summary": "리벨리온을 포함한 국산 AI 반도체 3사가 혁신제품으로 지정되었다. 이를 통해 공공시장 진입의 신호탄을 쏘아 올렸다."
-  },
-  {
-    "company": "NVIDIA",
-    "title": "L&T, Nvidia AI 공장 건설 최대 16억 달러 수주 - Investing.com 한국어",
-    "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE05Rm4wMnBJY01wR2dtWWZSN25BSjNSa24yMDM4ZWNidEhNT3VxaExJSjhlWElMd0QzZWpHWnRRVVEzSWVGVkwyQnVzTUplSUdPZ0IxYi1CSGgwMDF4UVZCV2hBdW9Lc3V1a2EyUjZidzNIQ2JDUnBZ?oc=5",
-    "published": "2026-08-13 15:47",
-    "timestamp": 1786603620,
-    "summary": "L&T가 엔비디아의 AI 공장 건설 프로젝트를 최대 16억 달러 규모로 수주했다."
   },
   {
     "company": "Apple",
@@ -2032,14 +2080,6 @@
     "summary": "에스티엔인포텍이 리벨리온의 NPU를 기반으로 한 AI 클러스터를 구축한다."
   },
   {
-    "company": "TSMC",
-    "title": "\"한때 세계 1위였는데\"...TSMC·마이크론 불러들여 반도체 재건 나선 일본 - 뉴스핌",
-    "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFA2bGhJNWNycHJ5eDQzaVRCSlBmOWZ3bS1oaEdFaDlNQzhGYjYwRlNqTlljWG04MThMdTMySzJ6bWtxRG5zVDg1WlozYTFkY1lFY1NjekJWcGFxMGlH?oc=5",
-    "published": "2026-08-12 08:43",
-    "timestamp": 1786491780,
-    "summary": "일본이 TSMC와 마이크론을 유치하며 반도체 산업 재건에 나섰다. 과거 세계 1위였던 일본 반도체 위상을 되찾기 위한 전략이다."
-  },
-  {
     "company": "Cadence",
     "title": "오픈라이트·타워 세미컨덕터, PH18DA 포토닉 설계 환경 확대…케이던스 EDA 지원 - quantumtimes.net",
     "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE9VUXBpQzVnWWdfWFgtbXVPNG5LbGRJNEY1QmRwS3ZTdWNiVEhabm9mTHJZbHo0REJtaFVCajg0M1JaN0l5YUU5OWxuWTlnNlJnN1FrY0xsM0hGQWIyUTg4ZDJ4NC02S2lscmtVblVYdw?oc=5",
@@ -2214,14 +2254,6 @@
     "published": "2026-08-12 00:34",
     "timestamp": 1786462440,
     "summary": "인텔이 AI 반도체 분야에 대한 투자를 목적으로 상장 이후 첫 공개 유상증자를 실시한다."
-  },
-  {
-    "company": "Intel",
-    "title": "인텔 공모, 강한 수요로 투자자 3분의 1 배정 실패 – 보도 - kr.investing.com",
-    "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE84RU83bUs1eWpScHJSMjJGd1dlNF9xVGZ5TzFqM3FKQjRUMDV2QUZIVzk4b3lmUGljV0szVUw5WnBzT09FUHR1X3c3QVFJTTdITm1LbkowVDA5X3BxSzFLRFk4bmw1Zl9lU0dqVXJxQXRDY09Iamdn?oc=5",
-    "published": "2026-08-11 23:47",
-    "timestamp": 1786459620,
-    "summary": "인텔의 공모주 발행에 강한 수요가 몰리면서 투자자 3분의 1이 배정을 받지 못했다."
   },
   {
     "company": "Apple",
@@ -3408,28 +3440,12 @@
     "summary": "키오시아의 GP 시리즈 초고 IOPS SSD가 'FMS: 메모리 및 스토리지의 미래 2026'에서 '베스트 오브 쇼'를 수상했다."
   },
   {
-    "company": "AMD",
-    "title": "벼랑 끝 AMD를 AI 경쟁자로…리사 수가 다시 쓴 반도체 승부 - 광교신문",
-    "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE1wRXhON3JQNG84VnV2TGQ3dE9PaDFTTU5yS3l3Ykk1bUhEelh0Vk9QSXhsUEo5azFzSEZMRXBFb0RabW91c2lLdHpPaGczWlA4V2J1R3hMOVlxZ1hFd3ZxVjE2LXdvNklt0gFsQVVfeXFMTlJTSzNacG9EZjYyQXBfdW9icnBhamwwSmlZckhhdDdpeWd4aUR3dFVSTzRURFc4di1mTlNxOU95WFRnTnpOU2M1MW5yQlRmNjRaZlZwMmVWMDhTVlIwbGhZc1pla0FRV0dlaktW?oc=5",
-    "published": "2026-08-08 23:39",
-    "timestamp": 1786199963,
-    "summary": "리사 수 CEO가 AMD를 AI 경쟁자로 재편하며 반도체 시장에서 새로운 승부수를 던졌다."
-  },
-  {
     "company": "Kioxia",
     "title": "키오시아, FMS 2026에서 AI 시대를 위한 플래시 스토리지 혁신 선보여 - 파이낸셜리더스",
     "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE94eXAzR1MzQVQ5U3dwanN4UUlQVTBPZm9ETE1pOURIekctNHZVNldXNmtRbEYtQzl2QXNJZjVhNlREWlVWTmxRZkZ2WVhCYVlBUWY1WHp2YV9rZFpKTC1JMlJwSXd1c0tvTUE?oc=5",
     "published": "2026-08-08 22:44",
     "timestamp": 1786196656,
     "summary": "키오시아가 FMS 2026에서 AI 시대를 겨냥한 플래시 스토리지 혁신 기술을 선보였다."
-  },
-  {
-    "company": "AMD",
-    "title": "AMD, 라데온 GPU/메모리 키트 가격 \"최소 10%\" 인상 > 뉴스/신제품 - 쿨엔조이",
-    "link": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE5ybDRuTFc3azQ0TFZ0QVVJN183cnNLWjRJLVhIVWNjLVl3aGV1ejlHTmVIOUl4WDZjcmFQYVlwSHZER1hkeXJvRExFa0M?oc=5",
-    "published": "2026-08-08 21:39",
-    "timestamp": 1786192747,
-    "summary": "AMD가 라데온 GPU 및 메모리 키트의 가격을 최소 10% 인상한다."
   },
   {
     "company": "Google",
@@ -5792,14 +5808,6 @@
     "summary": "마우저가 ADI의 TMC2241 스마트 통합 스테퍼 드라이버 제품을 공급한다."
   },
   {
-    "company": "딥엑스",
-    "title": "딥엑스, KT·세솔과 NPU 기반 AI 엣지박스 공동개발 나서 - 더에이아이",
-    "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTFBNNEwtTjYzWENJVml1WlZSLXYzN0FtU180NlFRUW5WcDBsN29qeVdSNktFWmI5ZkVIOWFCYUdSZTR5VEVjb0dBSnV5dlZJeEY4d0JMWG9WUWdlbG5MWnhqV1NyZWduNS1YWU5r?oc=5",
-    "published": "2026-07-31 13:44",
-    "timestamp": 1785473087,
-    "summary": "딥엑스가 KT, 세솔과 협력하여 NPU 기반의 AI 엣지박스를 공동 개발한다."
-  },
-  {
     "company": "Kioxia",
     "title": "Kioxia Introduces First PCIe 6.0 Enterprise SSDs Utilizing 10th Generation BiCS FLASH 3D Memory - itbiznews.com",
     "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE0tRHNIS3g2RU9DWFhxNHVLcUNfbTVPN0NsazBOWHB6SW5MZkdBaFBibF9pOTgtOFlocF9vZ0FOZE42UUJZQXkzTXMyVGotdDdJOGY0RWZ4elFjY0VHNGU0UDNhc1NOZUktSk1maA?oc=5",
@@ -7710,13 +7718,5 @@
     "published": "2026-07-15 23:26",
     "timestamp": 1784125560,
     "summary": "LS일렉트릭이 독일 인피니언과 데이터센터 전력 인프라를 위한 DC 아키텍처 분야에서 협력한다."
-  },
-  {
-    "company": "Siemens",
-    "title": "가치 기반 라이선싱 | 프로세스 시뮬레이트 X - Siemens",
-    "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOb05NVXBWRVJoTUZCenBYak9WbXZCSzQwZG00ZWExRWNvYUxkczNKS19IcEtyMl94XzluOTNxR0htbVVXV0h4Rmdmcm9CbzJTUUcxbkpDY1VQU0V4ZXZSSXNhWTgzc2lvdU5mMzBlN1oyTERIa2FFMVlpLVJPdVlrdzF5RFRhTkFZRkdLY2hZOWNXWmdzQVd2Y19qZmQtdUY0cUpn?oc=5",
-    "published": "2026-07-15 21:40",
-    "timestamp": 1784119205,
-    "summary": "Siemens가 가치 기반 라이선싱 모델을 적용한 프로세스 시뮬레이트 X 솔루션을 소개한다."
   }
 ]
