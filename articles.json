@@ -1,5 +1,53 @@
 [
   {
+    "company": "Intel",
+    "title": "인텔은 Arc Graphics 드라이버 32.0.101.8974 WHQL 버전을 출시했습니다. - GameGPU",
+    "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPakU3cHVjTmJYenA1VVhyNm5kYlBlejZpaXRkN05JLUI1TGJOUVNhYkhOcDZUT0x6RlVCTmprQXVBcGlnSEZrUnhuNGppbGc5Qm9zb0RtZWVSbXA4WHhFRmgzYllQQ012NUNxaEMyZm1kbGJNNkdMX0VlU0pkTFJxUnhmeU5sNGZidWNOdWdPaHVEZkVrUHh2R0xycDY5WEVlNm5B?oc=5",
+    "published": "2026-08-15 18:49",
+    "timestamp": 1786787396,
+    "summary": "인텔이 Arc Graphics 드라이버 32.0.101.8974 WHQL 버전을 출시했습니다."
+  },
+  {
+    "company": "Apple",
+    "title": "중국산 메모리 쓰려는 애플…미 상무장관 반대 입장 밝혀 - 부산일보",
+    "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE1Qd2RlTDJjMXRHQlBrTnpDWjRYV3hwU1lEcnp5QkNqRjFJSHd1NFRMWlpnM1djTVJfYUtQZjNBTHp3TVFxdFR6YzViNEFWTW11aUY0XzV6ckl6RWtub2NBWHlfRVNfeUVvUjcyanFUUFhEQVdo?oc=5",
+    "published": "2026-08-15 18:18",
+    "timestamp": 1786785503,
+    "summary": "애플이 중국산 메모리 사용을 검토하는 가운데, 미 상무장관이 이에 대해 반대 입장을 공식적으로 밝혔다."
+  },
+  {
+    "company": "AMD",
+    "title": "AMD는 GFX 12.1 그래픽 엔진용 패치 109개를 출시했습니다. - GameGPU",
+    "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNRmJlOEdFbmtDUDNoZ0VsY1A3WlRqc2wyYUFHVTNaY3VnQUh3MGlocTNSR1UzVHZpWm9KSW45dXlwb3dfVnBLTmRpNHJqcjhPVXNzdlV3UW05M0ZpRDlHX2hsQno2aXYyOXAxZVZYa1ZzMHcxWnU4cFRYbEdfUGdFRVBfdXRlTUEzY1p5VnNWSldpUEJPS1BRMGhlTUpMR1FudXBOMWo5UllWNDZSRnNXTTZBWXdJUGRs?oc=5",
+    "published": "2026-08-15 17:53",
+    "timestamp": 1786784012,
+    "summary": "AMD가 GFX 12.1 그래픽 엔진을 위한 패치 109개를 출시했다."
+  },
+  {
+    "company": "NVIDIA",
+    "title": "LG가 엔비디아와 손잡고 꿈꾸는 미래는? - 월간조선",
+    "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE94RXN2RlpDNDFweFhsWkJPVGR1YU1SR24zNGt3TkFQRXIwWWZTcmxzNDJMV1ZYaGYxdF9nY083ak9EVWpPZEpyM0l5VzczUkd2WktyUnMwM2dSTUVTYnFqcnE4RXFMZjZLY1MtdA?oc=5",
+    "published": "2026-08-15 17:46",
+    "timestamp": 1786783565,
+    "summary": "LG가 엔비디아와 협력하여 추진하는 미래 사업 방향성에 대해 다루고 있다."
+  },
+  {
+    "company": "Apple",
+    "title": "[이슈IN] 애플의 공급망 다변화...CXMT를 향한 트럼프 행정부의 대중국 수출 통제 및 승인 여부가 관건 - 뉴스비전e",
+    "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE5TUU95MlRodERqbWVVZ05wX0VYNVNPVVRRZFE2X0tlenFnSXJ1QTBsbzlkelpqa2NQU29PMUZDN08yR1JObkc0bkFNcXFWbXpvUDRuTnphQl83SkMtRWFfRUhVcFVCZw?oc=5",
+    "published": "2026-08-15 17:42",
+    "timestamp": 1786783329,
+    "summary": "애플의 공급망 다변화 전략과 관련해 트럼프 행정부의 CXMT 대상 대중국 수출 통제 및 승인 여부가 핵심 변수로 떠올랐다."
+  },
+  {
+    "company": "NVIDIA",
+    "title": "엔비디아, 오픈AI 데이터센터 채무보증 규모 절반 축소 - IT조선",
+    "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE9aZE90Z1pfUkQ0a3p3azNFbkNqb2xFQXQ5Sm03VkVGRllVQ2hSem9oQ2ZZWFZzcDg4ekQ0OEN4eWktODdyOHVCMUdXdnM5TEtlMGk0OXhKWUN5SUxySFhKS1lCbmZGbWwwQjFPN3lTZVVSYVp10gF0QVVfeXFMT1pkT3RnWl9SRDRrendrM0VuQ2pvbEVBdDlKbTdWRUZGWVVDaFJ6b2hDZllYVnNwODh6RDQ4Q3h5aS04N3I4dUIxR1d2czlMS2UwaTQ5eEpZQ3lJTHJIWEpLWUJuZkZtbDBCMU83eVNlVVJhWnU?oc=5",
+    "published": "2026-08-15 17:05",
+    "timestamp": 1786781107,
+    "summary": "엔비디아가 오픈AI 데이터센터에 대한 채무보증 규모를 기존 대비 절반 수준으로 축소했다."
+  },
+  {
     "company": "Apple",
     "title": "애플은 알리바바, 포드는 CATL…美 제재 속 커지는 中 기술 의존도 - 네이트",
     "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFBiNmQ2TUdpSnJGZlhTdXJJa3lEaEJGUlBwYmxvMm8wMG4wTF9uR25ITXBUZEx1YnlWMUtnQTAyaGotQ2RRMDM3ZXNTYWxkbkZYcmJn?oc=5",
@@ -142,6 +190,14 @@
     "published": "2026-08-15 11:08",
     "timestamp": 1786759728,
     "summary": "엔비디아가 스페이스X의 6대 주주로 확인되었으며, 보유 지분의 현재 가치는 172억 달러 규모이다."
+  },
+  {
+    "company": "NVIDIA",
+    "title": "휴버, 중기부·엔비디아 스타트업 육성 프로그램 '엔업' 선정 - 머니투데이 - 머니투데이",
+    "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE91Z1pUVVlseDNUakNvVmZuTTN2X0lJOVFnOVNDdktkZGlGWnM2eTdMZGdTN05lLWpKQlpYZ1J2TkxLejFxRXptYmJ6bG9Bd2RIaGc3QTZCOTdta1RPNWV4ZVB0b2Z0Z1ZIVnfSAW9BVV95cUxQaXA2aXFsMzlNQ05mVndSWE1Ba1o4cVEtTzhOR1NuTkotZEVyelNCS21zU2dvUlJWU0JmOFpuQmtfclpoVjZOVVlxWnFIeWkzd1REUnQyODVRR3Z1NkRmcnhLU3BleFc3enVUeVZ6Sms?oc=5",
+    "published": "2026-08-15 11:06",
+    "timestamp": 1786759597,
+    "summary": "휴버가 중소벤처기업부와 엔비디아가 공동 운영하는 스타트업 육성 프로그램 '엔업'에 선정되었다."
   },
   {
     "company": "Apple",
@@ -544,14 +600,6 @@
     "summary": "LG전자가 NVIDIA의 Isaac GR00T 플랫폼을 기반으로 차세대 휴머노이드 로봇을 공개할 예정이다."
   },
   {
-    "company": "NVIDIA",
-    "title": "엔비디아와 손잡은 LG…두 발로 걷는 로봇 만든다 - 머니투데이 - 머니투데이",
-    "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9FWXRCa0tSYzc0UEJxTzZIM2RqdHpUcF9zeTBaTXhxTkhlWUlFVFI1cURpbnBJV0l5dS1BLVFyTzlNa0ltZGd0NlB2NENBc1UtVUdUWXVvbWVndWhKMkNablhrblNxWG_SAWxBVV95cUxOSEMtTXRfa2hua01WMHZSamJuTFFqcG16bGdjVDhOZ0J6aE9tZUNCUHVHSTBIT1B4VUtNRkszdEMycVdiOFVOVy1oOWZYeWQwYndPUmN5V0Z1Z2xaQnlnOWlNWHhzWUdfSU8yUWE?oc=5",
-    "published": "2026-08-14 15:12",
-    "timestamp": 1786687932,
-    "summary": "LG가 엔비디아와 협력하여 이족보행 휴머노이드 로봇을 개발한다."
-  },
-  {
     "company": "Intel",
     "title": "투모로로보틱스, 글로벌 기업 협업 ‘인텔 인지니어스’ 프로그램 선정 - Tistory",
     "link": "https://news.google.com/rss/articles/CBMiS0FVX3lxTFBCZW5oSDNJU1JnMGU4UWM4R3hLT3hZN0hCc3RHNFNJcHZuTjdLSzE4WWFmV3hibnRGc3BrOEFLV0Y5VURNbFk3dEJwcw?oc=5",
@@ -576,14 +624,6 @@
     "summary": "에이직랜드가 상반기 매출 1,137억 원을 기록하며 역대 최대 실적을 달성했습니다. 영업이익은 50억 원으로 흑자 전환했습니다."
   },
   {
-    "company": "NVIDIA",
-    "title": "LG, 엔비디아와 전략적 협력 강화…글로벌 AI 생태계 메인스트림 진입 가속 - 오피니언뉴스",
-    "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9xenB0UjNadHhxbnFwRjVqWTJDQTI3bzA0ZDRHTnV4a0dqWms0em9OR0RPZ1VBd1FpZllxY3dIOFpDSlVMVTRibGJPUThndlItNmJ5ZElsMHFJWkdHbTJBMW5xUE04OW5EYVNjNnNKR2Y?oc=5",
-    "published": "2026-08-14 15:01",
-    "timestamp": 1786687286,
-    "summary": "LG가 NVIDIA와 전략적 협력을 강화합니다. 이를 통해 글로벌 AI 생태계 내 입지를 확대합니다."
-  },
-  {
     "company": "Apple",
     "title": "LG이노텍, 상반기 애플 추정 매출 8.8조···전체 80% - 포인트데일리",
     "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTFB4Q2tvZ25tYXNrVXFhRGczN3Vnc2xCVEJaaGI3NENIQnhrSXYyNUNwRjRvNC1kdWNPM3NENFB6SnNsOWgzVGxFdXNSV0FjWmZNLTYwRG1SaU90S1RWci1pM0dWNGFwZDVLQXhtTDNSM3HSAXRBVV95cUxOZ2hoT1FBVXdaZUZ2OTFwVGcwV3RNYWFkSlZRa21PLUI2S0VaYnJ0b1RBb0hhd25LYkdpUHl4aGdRUllxN3BWNzc2UXNINFV3b0NXYnZXeUZPeERNVW1UeFRCSW50elV3NTh2RHpEVFl1RFVlaA?oc=5",
@@ -598,14 +638,6 @@
     "published": "2026-08-14 14:54",
     "timestamp": 1786686848,
     "summary": "삼성전자가 비전 AI 권위자 한보형 교수와 메타 출신 한태린 박사를 영입했다. 이를 통해 반도체 AX 역량을 강화한다."
-  },
-  {
-    "company": "NVIDIA",
-    "title": "LG, 엔비디아와 'AI 시대 표준 구축' 본격 실행 - 프라임경제",
-    "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9lYWZkNHJGaXVxd0I1Smd4X0t3bGthZzNZMVRWUU5NWExFdUxSbVJUZjhPM1RlRVFmby1keDVTN3B2aGlSeXQyakNzZVB0MTNneVA4SGlKUnVpUmViRldNOA?oc=5",
-    "published": "2026-08-14 14:50",
-    "timestamp": 1786686607,
-    "summary": "LG가 엔비디아와 함께 AI 시대 표준 구축을 위한 협력을 본격적으로 실행합니다."
   },
   {
     "company": "세미파이브",
@@ -1102,6 +1134,14 @@
     "published": "2026-08-14 00:33",
     "timestamp": 1786635186,
     "summary": "AMD가 AI 칩 사업을 위한 실탄 확보를 위해 사상 최대 규모의 채권 발행을 추진한다."
+  },
+  {
+    "company": "Groq",
+    "title": "그록 4.6 최적화 3건, 챗 생산 환경 반영 - tokenpost.kr",
+    "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5TejJ4M3JDM2xUVS1KcERURkx4Z290dEZmY1RBUnd3SnJLakdhdlZnTXp0Z1NNY2I5akNNN0lhLUI5MDZsVUxZdkZEdWVUTG8xaHBKQlk2OVhsMG1rYjNqT9IBZkFVX3lxTE1Ua0FnNVRyczlGMzMxcExLZEJGNWJiN0pGVVBjYl9WbmtBekJGcmYta1hGSGxHVzBNNnUzdVZ5bXpqYmtLTXNPakxJQUtJZ1ZMLUVBYmlOT2FZaFppZkU5b2lyeXBkQQ?oc=5",
+    "published": "2026-08-13 23:28",
+    "timestamp": 1786631334,
+    "summary": "그록 4.6 버전의 최적화 작업 3건이 챗 생산 환경에 반영되었다."
   },
   {
     "company": "AMD",
@@ -2320,14 +2360,6 @@
     "summary": "오픈라이트와 타워 세미컨덕터가 PH18DA 포토닉 설계 환경을 확대하며 케이던스의 EDA 지원을 받는다."
   },
   {
-    "company": "Apple",
-    "title": "中 CXMT, 애플 공급망에 '노크'…삼전닉스 대항마로 '급부상' - 청년일보",
-    "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5JVmRmLWFDaFRmZzRRemR2aHczcTEzeTFhcS1icVhfUi1UTW1uOUdYdFlFTXhycEhyVkwwYXlPZFZKUnNCRk5jeFNEWEVET1paZmhKdXlOT3BRV0V0VVFTS3EyRnczTzg?oc=5",
-    "published": "2026-08-12 08:00",
-    "timestamp": 1786489203,
-    "summary": "중국 CXMT가 애플의 공급망 진입을 시도하며 삼성전자와 SK하이닉스의 대항마로 부상하고 있다."
-  },
-  {
     "company": "OpenAI",
     "title": "오픈AI, IPO앞 임원 줄퇴사…윤리책임자 이어 前COO도 - 전자신문",
     "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTFBHbGktMUZ3bHhqdVgwQU92Y05UenNuTlZLRzU0S3picmszMERrdkI0WVhUcTdDQWQxRGVpRDU5RTR5ZEJmZE9WOEV0dmFxZw?oc=5",
@@ -2366,14 +2398,6 @@
     "published": "2026-08-12 06:53",
     "timestamp": 1786485192,
     "summary": "압사이가 AMD와 AI 신약 개발을 위해 협력하며 2000만 달러의 투자를 유치했다."
-  },
-  {
-    "company": "Apple",
-    "title": "애플 출하 축소는 맞지만...애널리스트 \"TSMC 10억 달러 칩 재고설은 거짓\" - coinreaders.com",
-    "link": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE41cEtvMGFYdGZDcUtVRjdZZXpHclljNE51eXlydXMtTDZwOUg2clZPazB0cEVXSVpxcjRPaVlxN2MwamVQREVxX05n?oc=5",
-    "published": "2026-08-12 06:20",
-    "timestamp": 1786483200,
-    "summary": "애플의 출하량 축소는 사실이나, TSMC의 10억 달러 규모 칩 재고설은 사실이 아니라는 애널리스트의 분석이 제기되었다."
   },
   {
     "company": "Kioxia",
@@ -2478,14 +2502,6 @@
     "published": "2026-08-12 01:25",
     "timestamp": 1786465500,
     "summary": "xAI 공동창업자의 리버AI가 11억 달러 규모의 투자를 유치했으며, 엔비디아와 AMD가 해당 투자에 참여했다."
-  },
-  {
-    "company": "Intel",
-    "title": "인텔, AI 반도체 투자 위해 첫 공개 유상증자 - 조선일보",
-    "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPclFCdFhXLXhwamdzNjZOVjQ3YmoxVHVnWmJPTlMxY2Nkc0xMM0x3Uy1rejNpOTVVQ3dPbTBFcGJLQTBwUlBFbld4NUhVOTZiRlFNZTFCSWVnU3JwUExkRENBYmJ4c3lleVpjV0psbEhUTUtoLVNnZDk1YWNCU1lCaHdOQQ?oc=5",
-    "published": "2026-08-12 00:34",
-    "timestamp": 1786462440,
-    "summary": "인텔이 AI 반도체 분야에 대한 투자를 목적으로 상장 이후 첫 공개 유상증자를 실시한다."
   },
   {
     "company": "코아시아",
@@ -3270,14 +3286,6 @@
     "published": "2026-08-10 09:31",
     "timestamp": 1786321908,
     "summary": "이수페타시스가 마이크로소프트와 구글로부터 MLB 기술력을 인정받아 협력 관계를 구축했다."
-  },
-  {
-    "company": "AMD",
-    "title": "AMD, 단일 모델을 중심으로 실리콘을 개발하는 토론토 스타트업 Taalas 인수 - StorageReview.com",
-    "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOWGZycUNXZE9hUTJ3emNWcGlud0dFSFVxWGRyeFMybWk4bjRIRUFkU2tGaFdHN2dmeDBqbGJZOGM2NnF2MjFibzVwVm5iN1BVWXpRdnd3bldIWWN3VThsZ050WHkyMlNvZjVWd3RCOWE0TFNRTnplUi1DRmViZWhEdk5OblgwYkNSVENUVTBMSHVNWUloZzMzQ0VlWXdoRkVLR3h2blNjSWc5WmhaUnZOdEFYa9IBuAFBVV95cUxQTUZnS2dLbTVab0VZYU9QWWRxUU0zeXRpUDl0c3p3T1ZsQVVmR3dvUjNmMDJ1ZmVfYURabTBDMjFaazhYZFFqZjYzTmhfYTlMM1FLZ2t0aVJfelVZQVRtZXRDRTB0elZ1RTlyelpydjBoQUNCaUd6T2YtczE5UlNSbkszSzExb21FR3JyUVNQdjg3NUhOQXF6czdiWkIxMlpWSHhpY3pJQ2lmbE52ODlrN21MMGJSdUNT?oc=5",
-    "published": "2026-08-10 09:29",
-    "timestamp": 1786321778,
-    "summary": "AMD가 단일 모델 중심의 실리콘 개발 스타트업인 토론토 소재 Taalas를 인수했다."
   },
   {
     "company": "Google",
@@ -7654,13 +7662,5 @@
     "published": "2026-07-16 21:38",
     "timestamp": 1784205518,
     "summary": "LS ELECTRIC이 독일 인피니언과 직류 전력 솔루션 개발을 위해 협력한다."
-  },
-  {
-    "company": "Infineon",
-    "title": "인피니언, AIROC™ UWB TSL100 출시 - 스포츠 피플 타임즈",
-    "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTFBpTUVnemcyWGlkYkthTU5hNkFtX01HSWFBQlkzMmhlb090MTF1VXhZSDFjVjR6cXBueFBTSmVPN2lMNHFyYV9UWlpnOS1LeDZUdDdmbnRHRE1GOTAwV25oWDVoVk9VcE11cThxTTlQLTY0VlnSAXdBVV95cUxPTWVTQm5qZElKODZvV2wybGExa3h0YW5ITGhGQWJMd3JoTXV2N014UWd5bDl3MHc4M0tDVU1NcV8yUXNzX3FnSElvR1RSTEdxcWprVTk0cUVHVTJ5Y0V0SlN0aWFoV29JUmJUNWhadjlvWkNlR2xkUQ?oc=5",
-    "published": "2026-07-16 17:41",
-    "timestamp": 1784191260,
-    "summary": "인피니언이 새로운 반도체 제품인 AIROC™ UWB TSL100을 출시했다."
   }
 ]
