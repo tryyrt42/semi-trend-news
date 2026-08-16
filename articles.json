@@ -1,5 +1,13 @@
 [
   {
+    "company": "NVIDIA",
+    "title": "엔비디아 포트폴리오 1위는 경쟁사 '인텔'…스페이스X 210억불 보유 - edaily.co.kr",
+    "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPZGw4eDUzb2twMzhjUGxfcGVtWEZSc2MtSlhGZXhrTzZYc0J1ZGhwMElxS3lPZ3RmX2Z6SkVoYW9uYWlNRjNyQVllZFlfeFJxS3FZeElfTkJjVXFLNnFmZ1NIdG1CTG5KVG5qWGhYS1lsUHk0VW1IV2p1czRWTmd2Zw?oc=5",
+    "published": "2026-08-16 10:56",
+    "timestamp": 1786845393,
+    "summary": "엔비디아가 인텔의 지분을 보유하고 있으며, 스페이스X의 지분 210억 달러를 보유하고 있다."
+  },
+  {
     "company": "Samsung Foundry",
     "title": "삼성 파운드리, 구글 TPU 더 가져올까…TSMC 병목에 ‘슈퍼칩’ 전환까지 - 이코노미트리뷴",
     "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE5yaFJRZXVrcUJJUC1VOTRRRkh1Q3VaVkZEanUwZzV0S005blhLR2NEOFY4WEgwTzRzSTVTREdYUjBLLTB3bjRod2s2Rl91bHc2ZmViaS1iaTBuSkg4aWN6LXlHbjQxdTdNOEJKQU9KM2dpekY3RjJN?oc=5",
@@ -30,6 +38,14 @@
     "published": "2026-08-16 09:07",
     "timestamp": 1786838820,
     "summary": "인텔이 DDR4를 지원하는 LGA 1700 프로세서의 공급을 지속한다."
+  },
+  {
+    "company": "NVIDIA",
+    "title": "엔비디아, 자체 경량 AI 공개… 초대형 오픈소스 모델도 개발 중 - ggilbo.com",
+    "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE8xSWRIVk5xdUtyamxrSHRMbEd1SGxTNHQ3MW9JWWZ2MElhMmxiaHNxX0VxalFaODFjWFJhVFhjcnZDVmhaWkF3TlNtR0hWQUcwVWdtUEpRLXh4cjh1NGNKVmF3ejNIS3VGZnc?oc=5",
+    "published": "2026-08-16 09:00",
+    "timestamp": 1786838400,
+    "summary": "엔비디아가 자체 경량 AI를 공개했으며, 초대형 오픈소스 모델을 개발하고 있다."
   },
   {
     "company": "Siemens",
@@ -518,22 +534,6 @@
     "published": "2026-08-15 03:20",
     "timestamp": 1786731633,
     "summary": "딥엑스가 국산 NPU 양산 첫해에 글로벌 수주 77건을 달성하며 누적 1,300만 달러를 돌파했다."
-  },
-  {
-    "company": "NVIDIA",
-    "title": "Nvidia, SpaceX 스타마인드 궤도 AI 위성에 전력 공급 - FinanceFeeds",
-    "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTE5VUDJTRHZKVmZWSmkzNGI5MGE3T3B5TXVjbjVMQW5qUm0yWE81ZUc3V1RXbktDQ19RcjNJQUY4TThyTFctS05kZDFxeE9PRW5KUzc0VVRpdzRFbWJFRDIzZXlFOWI4ZmFQcWpYcDRXamtNcmZ4N2I3NHNYLWY?oc=5",
-    "published": "2026-08-15 02:57",
-    "timestamp": 1786730274,
-    "summary": "NVIDIA가 SpaceX의 스타마인드 궤도 AI 위성에 전력을 공급하는 계약을 체결했다."
-  },
-  {
-    "company": "NVIDIA",
-    "title": "엔비디아 두뇌-LG 몸체… 이족보행 합작 로봇 내년 나온다 - 동아일보",
-    "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE5tVDJFNEkxWkFLbWk2R1BodzhoUmltUjh4elozWm91RzdOcnZxZFhQcnViVU9UdVF4b3RnU29welZtYVZxazk1N1JjTlBiTEVORjZLYjBGUnB2Sm1qVllIUWlvazNDdlhGZDNtQWNLVTgzUDNOU1HSAWZBVV95cUxPbURQQm9hNlVsRm1yYzBkLTJEU2ZsdVEwbFdMdnZub0ZhNUp2NVNlZ2l0eE9uRzFRN3c0ZFk0alVORWNUZ2VjWjRoNU1pM0lfMUxMSkR5ZFZvdm16SU83cU9oYTVlTUE?oc=5",
-    "published": "2026-08-15 01:40",
-    "timestamp": 1786725600,
-    "summary": "엔비디아의 두뇌 기술과 LG의 몸체를 결합한 이족보행 합작 로봇이 내년에 출시될 예정이다."
   },
   {
     "company": "Qualcomm",
@@ -7654,21 +7654,5 @@
     "published": "2026-07-17 13:22",
     "timestamp": 1784262140,
     "summary": "케이던스가 에이전트형 AI인 '오라스택'을 공개했다. 해당 기술은 PCB 설계를 지원하는 기능을 갖췄다."
-  },
-  {
-    "company": "Qorvo",
-    "title": "Rochester Electronics-Qorvo® 팀, RF 부품의 장기적인 가용성 제공 - koreasprint.com",
-    "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE5OX0ZWWng0QW12cDlseW5BV2N1YnJya0NqdDlkWExvWHBIWS1udmpNNFg3QzAtaHNYLURORTA0WGFraEdfYWV1TzBUelgwbnBNVDhNRlJTaDFQeWpJZnMwSGdiNVVKcDlDd256VS1n?oc=5",
-    "published": "2026-07-17 11:03",
-    "timestamp": 1784253780,
-    "summary": "Rochester Electronics와 Qorvo가 협력하여 RF 부품의 장기적인 가용성을 제공한다."
-  },
-  {
-    "company": "MediaTek",
-    "title": "삼성 갤럭시 탭 S12 울트라 공개: 노치 디자인 유지 및 미디어텍 칩 탑재로 업그레이드. - Vietnam.vn",
-    "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNNWdSZ0FpbmZRS0tSUmpyY0R4b29CWjJOS2FpX0pDYnNJU0pnME9vWE9kQ3VGbWtCMWVEY3RodUg3aTI3Nld0Vnlqb3Blbm5mRkE3dGMxQzFYYzNDbHJTbHdTRjBTYWpwbXFJZFo4SVFJeENEdWtpV2xBTG1HZS1kYUE3dHhsNmN4REk1YW9hNXh2cGphb0g2QjQ1ZnBVZUtJQlBldnk2dDBvZDQwSkdDSkdyM2o?oc=5",
-    "published": "2026-07-17 11:00",
-    "timestamp": 1784253611,
-    "summary": "삼성 갤럭시 탭 S12 울트라가 노치 디자인을 유지한 채 미디어텍 칩을 탑재하여 업그레이드되었다."
   }
 ]
