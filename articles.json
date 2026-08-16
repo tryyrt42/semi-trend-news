@@ -1,5 +1,61 @@
 [
   {
+    "company": "Samsung Foundry",
+    "title": "삼성 파운드리, 구글 TPU 더 가져올까…TSMC 병목에 ‘슈퍼칩’ 전환까지 - 이코노미트리뷴",
+    "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE5yaFJRZXVrcUJJUC1VOTRRRkh1Q3VaVkZEanUwZzV0S005blhLR2NEOFY4WEgwTzRzSTVTREdYUjBLLTB3bjRod2s2Rl91bHc2ZmViaS1iaTBuSkg4aWN6LXlHbjQxdTdNOEJKQU9KM2dpekY3RjJN?oc=5",
+    "published": "2026-08-16 10:19",
+    "timestamp": 1786843157,
+    "summary": "삼성 파운드리가 구글의 TPU 물량을 추가로 확보할 가능성이 제기되었습니다. TSMC의 생산 병목 현상과 구글의 슈퍼칩 전환 전략이 맞물린 결과입니다."
+  },
+  {
+    "company": "NVIDIA",
+    "title": "엔비디아, 인텔·스페이스X 지분 510억 달러 보유 - 초이스스탁US",
+    "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFB0SGRGb0JYbVZCeks5LXp2RHZTYXhoajMxRGtXSGYya3lEc1Q0OGtwMDdiWGluMFVOamdRN3AxOXJnaDUxSUVYMXRMZ0QzRDNCMllMZG1WTE0xWWRKeGowSE1qdEY4aVk?oc=5",
+    "published": "2026-08-16 10:18",
+    "timestamp": 1786843080,
+    "summary": "엔비디아가 인텔과 스페이스X의 지분을 510억 달러 규모로 보유하고 있다."
+  },
+  {
+    "company": "NVIDIA",
+    "title": "엔비디아, 오픈AI 오하이오 데이터센터 보증 지원 '절반 축소' - aitimes.com",
+    "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5JZU5JdkNiOW9XSEl5WjZFZHd6LXVXeEVZUmV4LW5Hcm9RS3l4NzFZaHg3eGlfS3BpUjE1NHJhWWVDYy1ZVFR1RnRacEVRUDRMTm91UkZ5ZVIzTWNJUTZMYUQzak5Ba3Y2enc?oc=5",
+    "published": "2026-08-16 09:08",
+    "timestamp": 1786838913,
+    "summary": "엔비디아가 오픈AI의 오하이오 데이터센터에 대한 보증 지원 규모를 절반으로 축소했다."
+  },
+  {
+    "company": "Intel",
+    "title": "인텔 \"DDR4 지원 LGA 1700 프로세서 공급 지속\" - v.daum.net",
+    "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE1tZmNsUWtqQlhvUGhLZGhEaU9jdGY5Zi05aFBzU0ZuWVJGNDRJNF9BVDROSkZQMFBoWTVfWlhHR2Jrc1UtbHl1THh5Q1BiYnM?oc=5",
+    "published": "2026-08-16 09:07",
+    "timestamp": 1786838820,
+    "summary": "인텔이 DDR4를 지원하는 LGA 1700 프로세서의 공급을 지속한다."
+  },
+  {
+    "company": "Siemens",
+    "title": "지멘스 EDA 개방형 인공지능 생태계 영토 확장… 美 무역확장법에 긴장하는 기초 소재 [위클리반도체] - 디지털데일리",
+    "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE9MMkNzaTNtZXAxUmx4X1dTS2pVRWxTLVBUd2FYaG9iR0M2SUNaY05YSmdaTG1mSWF5R3Fybl82T19OaVlvdVZDYmpncmp3WUt1ejFfOWdmZ2RVeFJUVWlZd050UDM?oc=5",
+    "published": "2026-08-16 08:21",
+    "timestamp": 1786836103,
+    "summary": "지멘스 EDA가 개방형 인공지능 생태계를 확장하고 있다. 한편 미국 무역확장법에 따른 기초 소재 분야의 긴장감이 고조되고 있다."
+  },
+  {
+    "company": "NVIDIA",
+    "title": "쓰레기통 페달 밟아 쓰레기 버리는 휴머노이드…엔비디아 '소닉' 공개 - dongascience.com",
+    "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFBMR0piMFVfcjVBRWlDbUFFSVhfZV9CbjJYeTN4WE1EbHNCYmZja1Y0SjNwVUhRMzRtb2VmZUVFS3hpUlBvOVI5eTNQakpOQ3hoMU5uMQ?oc=5",
+    "published": "2026-08-16 08:00",
+    "timestamp": 1786834800,
+    "summary": "엔비디아가 쓰레기통 페달을 밟아 쓰레기를 버리는 휴머노이드 로봇 '소닉'을 공개했다."
+  },
+  {
+    "company": "Apple",
+    "title": "트럼프 정부, 애플에 \"중국산 메모리 쓰지 말라\"…반도체 공급망 압박 - 지이코노미",
+    "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9saGtlWGtuenBKbVFMZDFUNkJQRTlNbU1Za2NLTURDUURxd0YtMGdqX2JwcU1jZW5OUXpHWGc1emhNeEtaR2NvZGtkQzJmaXNnNUcxM2xYbkFfNUNGUWZhN2h1dXJjU1k?oc=5",
+    "published": "2026-08-16 07:36",
+    "timestamp": 1786833408,
+    "summary": "트럼프 정부가 애플에 중국산 메모리 반도체를 사용하지 말 것을 요구하며 공급망 압박을 가하고 있다."
+  },
+  {
     "company": "Google",
     "title": "알리바바 큐웬, 메타·구글 제치고 오픈소스 AI 1위…다운로드 30억건 돌파 - 디지털데일리",
     "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFBmTHVjYm9qcUR3VnViLWhMUV9ncnBCcTVnZjhka1h4YUtEVzc4UnVKLWo0MWowdERSYWVBWS1qUDdpZG82aGEyU0Q0NzJuRTF3b24yTG51YmFlTVFMbTFBdndTWEc?oc=5",
@@ -480,14 +536,6 @@
     "summary": "엔비디아의 두뇌 기술과 LG의 몸체를 결합한 이족보행 합작 로봇이 내년에 출시될 예정이다."
   },
   {
-    "company": "NVIDIA",
-    "title": "LG 몸체에 엔비디아 두뇌… 공동 개발 휴머노이드 내년 공개 - 조선일보",
-    "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPb1NZSzdwUFBLN0ZTSGdJR1JZVktWOFNXRmc0X0UtaEp5SDVpQWY0UUE2YVN1YTJ5SzFmWEVCeEE4aEpOZlZ0U0wzbXRTNkdCRmlUWk9icXFTZWxnVkhJNnhtYmhJNjNVRTg2RmFNbFh2UDEyemtQSXlhQ19kQXhGOTlESWcxclRFTUQtQS1GYw?oc=5",
-    "published": "2026-08-15 00:41",
-    "timestamp": 1786722060,
-    "summary": "LG와 엔비디아가 공동 개발한 휴머노이드 로봇이 내년에 공개될 예정이다."
-  },
-  {
     "company": "Qualcomm",
     "title": "퀄컴 스냅드래곤 C, 300달러 노트북서 넷플릭스 재생 전력효율 106% 앞선다 - wikitree.co.kr",
     "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFAtb3R1dUVmUFlFRVI4Uktad0dwUEtFNmlRQm5OcWYyX0IzTERMaTNXMmFOWmpMODZIR3hDYmk3Rzd4UEhEbHRpY2laNV9hYlBnNS0waU9R?oc=5",
@@ -510,14 +558,6 @@
     "published": "2026-08-15 00:39",
     "timestamp": 1786721985,
     "summary": "SpaceXAI의 인공지능 모델 그록 4.6이 OpenAI의 GPT-5.6 Sol과 동급의 성능을 기록하며 인공지능 지수 61점을 획득했다."
-  },
-  {
-    "company": "NVIDIA",
-    "title": "AI 데이터 센터, 물 사용을 거의 0으로 줄일 수 있을까? 일론 머스크와 NVIDIA는 가능하다고 말한다 - Yellow.com",
-    "link": "https://news.google.com/rss/articles/CBMi9gNBVV95cUxQTTZzYlBmQUs1VHNEYlU0dk1SZ0hyenQ3eHBuVFVLMlN2M3RQUmU2aU11aEhlbXA2dzVpUVljNU12YUVoOFB5ZUJ2RHF0V01pUC1Ja2ZZWHYtUVNOTk1pRTlvdU1SdmtvOENtTXB2OGpsSW13ZWhlaUxhMHQxSmtjS3NLdEt4bDM4UExnYVd5bVhTMk03clJCblpDS0h2SUEwN3k1ekRObFlZaWlUZWdUbEJydWJDWEF1MXo5N0JkeDRvZWlYZVVjakNELWRtdWp6V1dKLXB4WFJPUmxHUFlLVC1Ra0pmWXpRU21KdUNNUWFLMU5KWTI2S1JTWWJIQ3B2Q2lzeURmRlAxYVl3WG1GVXU1ZTRPTXo1eDNPNzZYckVkV1d2eTdUaWFCWlRmUjZ1VVlydlBiUmFpMTNLSFFCdzFuYTU4QkllRHJTMGgtRDJRaDNnRDI0WnBYbDFOSGVsUE02eEYybE9SYU5ORHpqcXBkSlo3NGlQVV83Ym9iSWxuenZ2dG05TUNTWnRmQUQtM0VTMXVxUWZaaGl2eWZRd29uaVJMS2tycEJMN1M5cWdVY2NCRWI1R1dnSTlhNUx3cE51Qk82NXAxV0F1QnN5bGpSektuV3pneHY3X1lCbWpmamV4dEdaX3ZIdWlCV1JoN3dwdEln?oc=5",
-    "published": "2026-08-14 23:32",
-    "timestamp": 1786717970,
-    "summary": "일론 머스크와 NVIDIA가 AI 데이터 센터의 물 사용량을 거의 0으로 줄일 수 있다고 언급했다."
   },
   {
     "company": "Broadcom",
@@ -616,14 +656,6 @@
     "summary": "딥엑스의 DX-M1이 양산 1년 만에 1,300만 달러 규모의 주문을 기록했다. 최근 4개월간 전체 주문의 62%가 집중되었다."
   },
   {
-    "company": "NVIDIA",
-    "title": "엔비디아 ‘헬 렛 루즈: 베트남’ 등 최신 게임에 DLSS 적용 확대 - mediapic.co.kr",
-    "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE9DWWhKT0NsQVlDQy1RTXkyYkRzdkJORVpQdlpjYVJ5Uzl2MlUtbXNwODhCRkNkOWJXNUMyR2NHUThyVmwxT29kai03dHd6cUJKVVgtSWt6ZnoyVlBGelJlSnRUV19aUzBIdl9Z?oc=5",
-    "published": "2026-08-14 18:16",
-    "timestamp": 1786698992,
-    "summary": "엔비디아가 최신 게임인 '헬 렛 루즈: 베트남' 등에 DLSS 기술 적용을 확대한다."
-  },
-  {
     "company": "딥엑스",
     "title": "딥엑스, 누적 PO 180억원...연간 흑자 전환도 가시화 - 디일렉",
     "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE5MOHhYRjE4Z2pjWmZ0UTJoS2RtcnVxZEMybHd4N3dZS3l3d014aldWRW03TlVCbldQVTFnRHNtNlprNTFpc0pIbnZLZWFkYzIxYXktZlFaV2ZuZkM0OUtIRENFYm5jUQ?oc=5",
@@ -702,6 +734,14 @@
     "published": "2026-08-14 16:29",
     "timestamp": 1786692540,
     "summary": "인피니언이 산업 자동화 애플리케이션에 활용 가능한 소형 솔리드 스테이트 아이솔레이터 제품군을 새롭게 출시했다."
+  },
+  {
+    "company": "Google",
+    "title": "[단독] SKT AI '에이닷', 구글 글래스 적용되나…PoC 진행 - MTN 머니투데이방송",
+    "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE1BdVFzMWNnenNFUi1oUnhoZXFXRWVlZF8zR3ZIdVJfYU1XMDFQMUlSSDc0SjlSUkhzcGU0SVFfWnZFamIxVFU1M20zZVViMTRuY05QWTdEaTJFRWpPU1BYMm52Tmo5aFprNnh1NE1lcHg5bVI4?oc=5",
+    "published": "2026-08-14 16:21",
+    "timestamp": 1786692119,
+    "summary": "SKT의 AI 서비스 에이닷을 구글 글래스에 적용하기 위한 기술 검증(PoC)이 진행 중입니다."
   },
   {
     "company": "망고부스트",
@@ -2112,14 +2152,6 @@
     "summary": "인피니언이 기존 PVI 크기를 줄인 반도체 절연칩을 출시했다. 해당 제품은 기계식 릴레이를 대체할 수 있다."
   },
   {
-    "company": "Apple",
-    "title": "삼성·LGD 새 성장축은 'IT'…애플 맥북·아이맥 OLED 적용 기대 - 지디넷코리아",
-    "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1KSXJoX3l0X0xaSzdzUVVHYTRPaHhlOUxVSTJXb211Ri1pamp4RzhjTjBsTUxlT0RsUGRsRERlMGlOaEJNTU1mdVRBbm1oaWxmS0pMT3RB?oc=5",
-    "published": "2026-08-12 16:09",
-    "timestamp": 1786518564,
-    "summary": "삼성과 LGD가 애플의 맥북 및 아이맥 제품군에 OLED 패널을 적용하는 것을 통해 새로운 성장 동력을 확보할 것으로 기대된다."
-  },
-  {
     "company": "딥엑스",
     "title": "NYSE 사장, 딥엑스 본사 찾아 성장 전략 논의…\"상장 계획은 미정\" - 네이트",
     "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5tOU9uT3pRUHNsR2JYS3RpQnhtb3lDV2FZV29ybUhrU2d0WWc1UFZZZzB2ZTlaUGwyMlBndnUyRDZHMnBHQ2F1OWd5V3lyN3pKQ1BuZFlfN3NDSk5BeDlhOQ?oc=5",
@@ -2574,14 +2606,6 @@
     "published": "2026-08-12 04:39",
     "timestamp": 1786477140,
     "summary": "래티스 세미컨덕터가 테크놀로지 리더십 포럼 2026에서 데이터센터 역량 강화를 시사했다."
-  },
-  {
-    "company": "Intel",
-    "title": "인텔, 유증 200억달러로 확대...1천억달러 몰렸다 - v.daum.net",
-    "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFBGdS0tdlpjSXRad19MeGhEU2RrVW1wU2FVWDRscmE4aUhEdmFWT0dIYTBWeGF4WDhXN1BFRFZIY3B0U1pycHZ1ZVhvRS16b00?oc=5",
-    "published": "2026-08-12 04:30",
-    "timestamp": 1786476600,
-    "summary": "인텔이 유상증자 규모를 200억 달러로 확대했으며, 이에 1천억 달러의 자금이 몰렸다."
   },
   {
     "company": "Groq",
@@ -4038,14 +4062,6 @@
     "published": "2026-08-07 13:51",
     "timestamp": 1786078260,
     "summary": "이스트시큐리티와 퓨리오사AI가 협력하여 NPU를 탑재한 보안 솔루션을 개발한다."
-  },
-  {
-    "company": "Google",
-    "title": "삼성·엔비디아 SK·구글, 나란히 미래 메모리 기술 논의 - v.daum.net",
-    "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE1GdFVOLTJrSDhXcWlldU1HLTJlWmV1LUlmQUZLV2FHc1JxR0tpdzllN1dad3pxZFd4NDhTUU5faW5IYmFTak1kbDZnS2xZMG8?oc=5",
-    "published": "2026-08-07 13:50",
-    "timestamp": 1786078251,
-    "summary": "삼성, 엔비디아, SK, 구글이 미래 메모리 기술에 대해 논의했다."
   },
   {
     "company": "모빌린트",
@@ -7558,14 +7574,6 @@
     "published": "2026-07-20 08:36",
     "timestamp": 1784504160,
     "summary": "인피니언이 단일 칩으로 위치와 센싱을 동시에 구현하는 차세대 UWB 기술을 통해 시장 선점에 나섰다."
-  },
-  {
-    "company": "Samsung Foundry",
-    "title": "삼성 파운드리發 인력 대이동 조짐…반도체 채용시장 들썩 - 월요신문",
-    "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9kbjlmTkhnRi1vVS1fYzlvckxJdk9rNHNFRktxRzVFSFR0OHowODM4dWE2dks1TnAwOHF2R1Y2QWpWYTBZVUIyaU11ME11dXp1VDFvNnl6WURzbUE3NTlxbXZlV0c3LWN1bUE?oc=5",
-    "published": "2026-07-20 00:05",
-    "timestamp": 1784473500,
-    "summary": "삼성 파운드리 사업부에서 인력 이동 조짐이 나타나며 반도체 채용 시장이 영향을 받고 있다."
   },
   {
     "company": "Groq",
