@@ -1,5 +1,21 @@
 [
   {
+    "company": "NVIDIA",
+    "title": "Nvidia, 오하이오 OpenAI 데이터센터에 1,000억 달러 지원 나서 - Investing.com 한국어",
+    "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBEaFRNY0NkWXh3UDdTTV9IRkhhZ2pTcUkxQ0p6ZXVGNGVSdEt6cWpwdFFCcnl3NExacGN2M3AybERnOFE4SE5XaUlzSTBZU1pIRHZHLUdsWERXRGJTeEtHZktYeUZIejNnX2hMRFhTUGE?oc=5",
+    "published": "2026-08-17 23:07",
+    "timestamp": 1786975620,
+    "summary": "Nvidia가 오하이오 OpenAI 데이터센터 구축을 위해 1,000억 달러 규모의 지원에 나선다."
+  },
+  {
+    "company": "Intel",
+    "title": "Higgsfield, Goldman Sachs와 Intel이 AI 비디오에 투자하면서 4억 달러 투자 유치 - Cryptopolitan",
+    "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTE56LVNNenQ4bGlFcTRnd1hUUVdITXExTWtveVBVSGduUkExaXlmOGJCZm5xa2F4eU1xSkxzQzVTVEdpR0tZd0JXc0pjWjlodkZDR2FPNG1PUDFvWmx1cnZMbnpZbFRsYUFhNGtUZHlKRVJpdldWeEhjdXM3Y0o?oc=5",
+    "published": "2026-08-17 20:26",
+    "timestamp": 1786965964,
+    "summary": "AI 비디오 기업 Higgsfield가 Goldman Sachs와 Intel의 투자를 통해 4억 달러 규모의 자금을 유치했다."
+  },
+  {
     "company": "OpenAI",
     "title": "\"지능 손실 없이 14배 빠르다\"…오픈AI, '울트라패스트' 모드 전격 공개 - AI포스트",
     "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE9UQVVsOUJzRkp2QXVxUERobHlXWlMweTcwTjdVTV93TFpoQ1g1bllrejZMXzVhVmEyclVzdHYzSmVTdEotNlB1WmhRaHRmbnhWQVk3Qy1ra3dxaW9JMHE5eG1ERWVnV09KS0Zjd3dR0gFyQVVfeXFMTkZqTmZzTmViRjgtQVZqclFtU3BIN3hQVXNlWHFNV240OXBDci1ncGMxUEkxODRXdU5selAtazF2RlJWeWYzeXRNa041V1F1cjFnNVRNTS1kNTRpczdhdl9kUmVsZWVBaXVELXNEZ1h5eVhR?oc=5",
@@ -32,12 +48,28 @@
     "summary": "미국 정부가 애플의 중국산 칩 구매를 반대하고 있다. 애플의 공급망 전략에 대한 미국 측의 제동이 확인된다."
   },
   {
+    "company": "NVIDIA",
+    "title": "국내 기업 6곳 ‘엔비디아 동맹’ AI두뇌 얻고 종속 관계 시험대 - 서울신문",
+    "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE5RVDd0WlRKOC1aaEZIaG1hY0NkVFlfd19nekdHTUdFQ2tIM3FEcnB5UUdfa2ZkRWNvTzJVQVlnbkc5Q1BQMTBnc2hsSU9pdmtxaVh3YmduS254Mm5QcS1WVGphbDVCaVVzWHduTmp2TTJjV2NjY0Z4dEFSbw?oc=5",
+    "published": "2026-08-17 18:02",
+    "timestamp": 1786957339,
+    "summary": "국내 기업 6곳이 엔비디아와 동맹을 맺고 AI 기술 협력을 진행한다."
+  },
+  {
     "company": "Analog Devices",
     "title": "美 ADI, 매스로보틱스와 로봇 스타트업 지원 제휴 연장 - 로봇신문",
     "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9yMFFHdGRueFhZOUxkWnhuZDhrSzgzb1VaZlRBb3JQYzVxOE9kVjR1enI2NFJzSFhmdldLdjNKWE9SbTFONGlnUnlLcXk3M1lKNnl4empwaDRlMWJYc3c3SmVwc2U3V241bGJXNg?oc=5",
     "published": "2026-08-17 17:50",
     "timestamp": 1786956615,
     "summary": "미국 ADI가 매스로보틱스와 로봇 스타트업 지원을 위한 제휴를 연장했다."
+  },
+  {
+    "company": "Apple",
+    "title": "Apple 성능 면에서 큰 도약을 준비하고 있습니다. iPhone 18 Pro새로운 A20 Pro는 단순히 18% 더 빠를 뿐만 아니라 - Letem světem Applem",
+    "link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxOTzhZSjc4a2Q0TXJTUDZ2MER1RjZyUHhEd3I5c0JKTVltZkxJMHprZUFXYTV3Y2J0SzRpaXdGZHhXeWwyWmVXMkxMbEFnZHVuN3NVck9XdFJ0aWt6YXhPOE5vYTBoSDZDRmxnb0tNRGM5SVduN1diblBuVlk4dFpNRDlISXVQa0JWSmNDSTFQMDBHTzZPNXFZbTZqenZIZWFKOFI1Qktvclh1Z241X2NVdUxrNk9Ebi1yeEhjNDZWYTN3aXhoRDRLNWNGMW9NM0lsdWc0S2hR?oc=5",
+    "published": "2026-08-17 17:16",
+    "timestamp": 1786954583,
+    "summary": "Apple의 차세대 A20 Pro 칩이 탑재될 iPhone 18 Pro의 성능 향상에 대한 내용입니다. 해당 칩은 이전 모델 대비 18% 더 빠른 성능을 제공할 예정입니다."
   },
   {
     "company": "NVIDIA",
@@ -89,10 +121,10 @@
   },
   {
     "company": "NVIDIA",
-    "title": "엔비디아, 소프트뱅크 자회사에 30억달러 투자 추진 - etoday.co.kr",
-    "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE9iZzloWWxQMDBoR3ZUb0NtdTBhWkdEdWZJR3lsX19ELU11eWw3MjF2WVNxRWhvRldfYmFoenAtbWFxZWVxQThmNTZyTTQ5ZEZvU2xFNg?oc=5",
-    "published": "2026-08-17 14:11",
-    "timestamp": 1786943460,
+    "title": "엔비디아, 소프트뱅크 자회사에 30억달러 투자 추진 - v.daum.net",
+    "link": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE5QbURtM3lhRG00emI5ZFgzSmd0Vl9ybUxOY3dhUVd3b014d1VHeVZGdUEweUdnNGpoMGNGX09jRXBldmxSUVI1dFpsMA?oc=5",
+    "published": "2026-08-17 14:12",
+    "timestamp": 1786943523,
     "summary": "엔비디아가 소프트뱅크 자회사에 30억 달러 규모의 투자를 추진한다."
   },
   {
@@ -408,14 +440,6 @@
     "summary": "서병훈 케이던스 코리아 사장이 김경호 한국팹리스산업협회장과 만남을 가졌다."
   },
   {
-    "company": "NVIDIA",
-    "title": "LG·엔비디아 AI 동맹 \"로봇·AI팩토리·모빌리티 3대 협력\" - 파이낸셜뉴스",
-    "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE0xYVNDZ2tfT3NFRUxfdm9FYVo4dnNSN0wwNzlfNHJuZjVqOFNNdEV4RS02X2Q2cndZUTYzcGVCQ3VpYjZvUDhELU1rZVVOWjJBY1JneHJSeTZ4Zw?oc=5",
-    "published": "2026-08-16 18:26",
-    "timestamp": 1786872395,
-    "summary": "LG와 엔비디아가 로봇, AI 팩토리, 모빌리티 분야에서 3대 협력을 추진하는 AI 동맹을 맺었다."
-  },
-  {
     "company": "Cerebras",
     "title": "[김대호 진단] 반도체 열전 (40) 세레브라스(Cerebras )...펠드먼의 반란 \"웨이퍼 통합\" - 글로벌이코노믹",
     "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQY2ZGaWZFZUN2aktCaGVma00ybzJHT0xfM1FHOTliN2dQUzJFNUZfLVEzSXpXRXhVcFVQcmpYZDlyU0xOVkhkcWgtMzdSdnBfX29OellXMW1uWHpfVkJXdnVVYk5oZFBfUk1iRHFZdlFsdmRPdXVFU01HTDJpRTV6M20yMms?oc=5",
@@ -430,14 +454,6 @@
     "published": "2026-08-16 16:53",
     "timestamp": 1786866783,
     "summary": "인텔이 21조 원 규모의 유상증자를 단행한다. 이로 인해 삼성전자는 메모리 고객사를 확보하는 동시에 파운드리 분야의 경쟁자를 얻게 되었다."
-  },
-  {
-    "company": "NVIDIA",
-    "title": "엔비디아, SB 에너지에 4조 투자 논의...오픈AI 10GW 데이터센터 구축 총력 - AI타임스",
-    "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBrM0x2RG5ydldDMmdVSmg4ZW9Uc1BhMkp1NkFyM1lnN0hFckdDTFVzNGJvWEZRMnNvOEhBZm96MHVfN2FIUUVMZTZmeWxTcHZmYTlEbm5fOXhKWDVQNENJbV81eEsyTEI5NlE?oc=5",
-    "published": "2026-08-16 16:29",
-    "timestamp": 1786865360,
-    "summary": "엔비디아가 오픈AI의 10GW 데이터센터 구축을 위해 SB 에너지에 4조 원 규모의 투자를 논의 중이다."
   },
   {
     "company": "Apple",
@@ -894,14 +910,6 @@
     "published": "2026-08-14 17:57",
     "timestamp": 1786697830,
     "summary": "딥엑스가 180억 원 규모의 누적 구매주문(PO)을 확보하며 연간 흑자 전환을 가시화하고 있다."
-  },
-  {
-    "company": "Apple",
-    "title": "LGD, 애플향 OLED 증산 잰걸음…LTPO 발주 준비 - 디일렉",
-    "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFBUSmxVTkJNSFJXa0NsN3MwYUNoV2owaURoYnJtMTRfX05JbmZsdE5HOEZCNHFxQjllUk1ZZFVidHY2YWlHaElrWXpmeXVmYS1qaWZkS1ctLU9zUFJacjUxMFJrbFpnZw?oc=5",
-    "published": "2026-08-14 17:50",
-    "timestamp": 1786697452,
-    "summary": "LGD가 애플향 OLED 패널 증산을 추진하며 LTPO 기술 관련 발주를 준비하고 있다."
   },
   {
     "company": "에이직랜드",
@@ -2358,14 +2366,6 @@
     "published": "2026-08-12 15:16",
     "timestamp": 1786515360,
     "summary": "일본이 TSMC와 마이크론을 유치하며 반도체 산업 부활을 위해 53조 원의 외자를 투입한다."
-  },
-  {
-    "company": "Intel",
-    "title": "인텔 이석희 앞세워 저전력 AI용 D램 개발, 삼성전자·SK하이닉스 HBM 아성 흔들지 주목 - businesspost.co.kr",
-    "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE9LTjBfdnBmTGVzNWJGa293QWItNS00cG5EdGw1RjNFSDJFNlNTSFE5aGV6N05iTDFPX1ZlZUdMcVlBUERiTHRmVW5Qdk9UNm9id2FKLW9TWkk1YjJCdUZfLU9uVEU5Zm1UNEI4RWQxTDNpbDg?oc=5",
-    "published": "2026-08-12 15:03",
-    "timestamp": 1786514586,
-    "summary": "인텔이 이석희를 앞세워 저전력 AI용 D램 개발에 나섰습니다. 삼성전자와 SK하이닉스의 HBM 시장에 미칠 영향이 주목됩니다."
   },
   {
     "company": "파두",
