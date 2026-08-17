@@ -1,5 +1,45 @@
 [
   {
+    "company": "Groq",
+    "title": "그록, 몸값 반토막…엔비디아 경쟁 대신 데이터센터로 전환 - 네이트",
+    "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE5ubm13LUlyRVBETWtqTzFqNjQweXFXY3lNdmpBN1dUMUJJN0FuNW14a08yRlRSYTZ1czJ4WGxmNXRBcHFaUnVyZFdmQmRLWnBOOWJF?oc=5",
+    "published": "2026-08-18 00:51",
+    "timestamp": 1786981860,
+    "summary": "그록이 기업 가치 하락을 겪으며 엔비디아와의 경쟁 대신 데이터센터 사업으로 전략을 전환했다."
+  },
+  {
+    "company": "NVIDIA",
+    "title": "LG-엔비디아 동맹 가속…휴머노이드 로봇 2027년 1분기 공개 - 글로벌이코노믹",
+    "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxObXV1bzdvTUN3cUZOWWxJUm5ZYk5IbXp2d1U1MVpSa3pTMFNwZFlxMWpOQ2lRalhnUGVnSFRFRkR5VFB1Y0Q5bC15RWJhTktrakN0c01yYWowcDZWNkJveEIwa1VEaWNONDZEZDV0TnR5MVI3d3d6Q0I5TF9iTnNObDdqU21uYlVJ?oc=5",
+    "published": "2026-08-18 00:28",
+    "timestamp": 1786980494,
+    "summary": "LG와 엔비디아의 동맹이 가속화되며 2027년 1분기에 휴머노이드 로봇을 공개할 예정이다."
+  },
+  {
+    "company": "NVIDIA",
+    "title": "엔비디아, 오픈AI 오하이오 데이터센터 임차계약에 1천50억달러 보증 - 연합인포맥스",
+    "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9nZExxb1ZkS2laTjFYR3hFOEk1T056WFdmT0VHNkpuRE12RVJYalhwV2pqem5udERVSTk5RjJublJjX1RmVmozcU8weEFjdmJLNGJJTlVCZkVHUnRhVmoxSFZ0TmJzX01DRnM4Y21GblQ?oc=5",
+    "published": "2026-08-18 00:02",
+    "timestamp": 1786978948,
+    "summary": "엔비디아가 오픈AI의 오하이오 데이터센터 임차 계약에 1천50억 달러 규모의 보증을 제공한다."
+  },
+  {
+    "company": "Marvell",
+    "title": "[김대호 진단] 반도제 열전 (42) 마벨(Marvell)... 데이터센터 고속도로 - 글로벌이코노믹",
+    "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxObk1jUUJVX29ZcFhPRmZGWU9pMk85bTBlRlBiRkJlaUhidktUQ3lxSkQtNWVuaUJjR01RaUZYU1NxeV9HZEE2LU1iVFZJc0xTUWJqbXR2NHVncEtHdkZtTmNsN3MtcUJUSDBMc19zcXhZN2ZBRC1KdXgyMWFmLUdxLTdELXA?oc=5",
+    "published": "2026-08-18 00:00",
+    "timestamp": 1786978800,
+    "summary": "마벨이 데이터센터 고속도로 구축과 관련된 반도체 기술 및 사업을 전개하고 있다."
+  },
+  {
+    "company": "NVIDIA",
+    "title": "엔비디아, SB에너지에 15억 달러 투자…오하이오에 초대형 AI 데이터센터 구축 - 데이터투자",
+    "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTFBkUUlRWVdGbEk4empsb2wydjJxb0Z5NUdfZEFNV2JYRWp6OVBoUkxXTG1wYXZ5U05od0I0NWJpOWdpQ2dFRW5VczBHdlBRUjRZUUVBTndLZERFZ3M1QV9jQ05XcDV1SDNxcGJqZzFuUW0wLXc?oc=5",
+    "published": "2026-08-17 23:17",
+    "timestamp": 1786976225,
+    "summary": "엔비디아가 SB에너지에 15억 달러를 투자하며 오하이오에 초대형 AI 데이터센터를 구축한다."
+  },
+  {
     "company": "NVIDIA",
     "title": "Nvidia, 오하이오 OpenAI 데이터센터에 1,000억 달러 지원 나서 - Investing.com 한국어",
     "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBEaFRNY0NkWXh3UDdTTV9IRkhhZ2pTcUkxQ0p6ZXVGNGVSdEt6cWpwdFFCcnl3NExacGN2M3AybERnOFE4SE5XaUlzSTBZU1pIRHZHLUdsWERXRGJTeEtHZktYeUZIejNnX2hMRFhTUGE?oc=5",
@@ -146,10 +186,10 @@
   {
     "company": "NVIDIA",
     "title": "엔비디아 젠슨 황 장녀, LG전자 로봇 거점 찾는다…‘피지컬 AI’ 협력 속도 - 투데이신문",
-    "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE1OaHFOSWsxbDN6Q1lsNW5xT1M0ZVhnMExEYWZiM0dpSWd0dVFQMjRVNGs3MHNuUlZVZE1XYzRROGhGS3lSNEk4UmtCSjZZR1pTalhQMm1yRlhnX3pRUUZNamNfWlRZSUVvLXZJ0gFvQVVfeXFMTnNDbnpqYkUzNkxqV1FEOVhySW5JU3N0UTF4S0s4OW5jaWJzZ1hZN2FjQUpUWkpBOTRsUWg4ajE1TS1Sc21LSTRtT0xobmdiUC00NjN6QklGNkJVOFl6TDlhWUpyUl9hR2VmdWg1S3Uw?oc=5",
-    "published": "2026-08-17 12:46",
-    "timestamp": 1786938405,
-    "summary": "엔비디아 젠슨 황의 장녀가 LG전자 로봇 거점을 방문하며 피지컬 AI 분야의 협력을 가속화하고 있다."
+    "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE5zQ256amJFMzZMaldRRDlYckluSVNzdFExeEtLODluY2lic2dYWTdhY0FKVFpKQTk0bFFoOGoxNU0tUnNtS0k0bU9MaG5nYlAtNDYzekJJRjZCVThZekw5YVlKclJfYUdlZnVoNUt1MNIBb0FVX3lxTE5zQ256amJFMzZMaldRRDlYckluSVNzdFExeEtLODluY2lic2dYWTdhY0FKVFpKQTk0bFFoOGoxNU0tUnNtS0k0bU9MaG5nYlAtNDYzekJJRjZCVThZekw5YVlKclJfYUdlZnVoNUt1MA?oc=5",
+    "published": "2026-08-17 13:35",
+    "timestamp": 1786941351,
+    "summary": "엔비디아 젠슨 황의 장녀가 LG전자 로봇 거점을 방문하며 피지컬 AI 분야의 협력을 강화한다."
   },
   {
     "company": "Apple",
@@ -281,6 +321,14 @@
   },
   {
     "company": "NVIDIA",
+    "title": "엔비디아, OpenAI 데이터센터에 1,050억 달러 신용 지원 제공, SB 에너지에 15억 달러 투자 - TradingKey",
+    "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxOOEZGVFpVY1RxLTZXN0o0cTJMNDQyUXBDd0Q3UG4xem1aSWFDUjQtQndINEItU0hmbFp4VmY1RW9VMGMyNVFFVlI2ZExfZWVUZlJpX01DTXJfNUVhMFI5bE9JaElfWFVCbU1ZU2JSVnl1M2R2WGM3ZjFxMi1Ma2dmcThNMVBWZ3AtNC12OUJ3X3BDVWFhVnBydjdNeV9lQmxZU0laUDI1dFFNQ1lCM2JkRlY1OXFxQmh5bUd0al9XOVhWSm1JQXNz?oc=5",
+    "published": "2026-08-17 08:42",
+    "timestamp": 1786923720,
+    "summary": "엔비디아가 OpenAI의 데이터센터 구축을 위해 1,050억 달러 규모의 신용 지원을 제공한다. 또한 SB 에너지에 15억 달러를 투자한다."
+  },
+  {
+    "company": "NVIDIA",
     "title": "백악관 자문이 엔비디아의 700조 금융망을 경고한 이유 - 글로벌이코노믹",
     "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNT3F3Z2VjNVhaWHNNcGFROXppdG40cGJqanZlLXlxRnJDeTNuaVJ3V3lIZnFkdlNKOTdjSG0xZ1Zya1dlRF9HVWNtX01pUXhLSXAtY0E5RG84c2FMVUNFR2N5U3U2OHNCeFlwWHlzdHlyZFhlVEN0b29ITkFuMmRfdVVxMjRsYTA?oc=5",
     "published": "2026-08-17 07:40",
@@ -352,22 +400,6 @@
     "summary": "미국 정부가 애플의 중국산 메모리 반도체 사용에 반대 입장을 표명했다. 이로 인해 한국 기업들에 기회가 발생할 것으로 언급되었다."
   },
   {
-    "company": "NVIDIA",
-    "title": "엔비디아·AMD 손잡은 美 추론 반도체…K-NPU 운명은?[비하인드 칩스] - 유니콘팩토리",
-    "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBER0hILXBlaGhoTmpXdk53NFRzYUNzS0pUUTFqYUFld3JqVWtXVkpBTGpFX3dKWlgzYlI2SlEyZWhyVmlMTFFXbHlJZE9iWVV2VEhTUHBabUpRRW15RXRjNTNmMVJ5czhOeGc1LQ?oc=5",
-    "published": "2026-08-17 05:00",
-    "timestamp": 1786910400,
-    "summary": "엔비디아와 AMD가 협력한 미국 추론 반도체 시장 현황을 다루며, 이에 따른 한국 NPU 산업의 영향을 분석한다."
-  },
-  {
-    "company": "NVIDIA",
-    "title": "LG, 엔비디아 두뇌 달고 ‘체질 개조’ - 서울신문",
-    "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE4yWGNDUERXTXYycmpKTDV6ZFpwWFBHTWVnWEhxbkp1elVGY3BOMnUzMHI5S25BRDd1MEU4MEEtQlVQSEp6QnNKVFNOLWoyRVR0TEx2WEhZR215dVQ2MWdVVnRIV19GN0FiREpJamZrT2stc21QQVhHUVRfOA?oc=5",
-    "published": "2026-08-17 01:27",
-    "timestamp": 1786897643,
-    "summary": "LG가 엔비디아의 기술을 탑재하여 기업 체질 개선에 나선다."
-  },
-  {
     "company": "Intel",
     "title": "인텔 레이저레이크-AX 대형 APU, 오버클로킹 미지원…노바레이크 코어 그대로 물려받아 - 위키트리",
     "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9FTlNiNXM2bTUxUzRyWTFLU2c2dDl5cGk1MmMteTF5dTdkR3dXMlY5bVBTME5vdlBkUVc1Zm5ublhSQklYUHBEclJiYmpySWxTcHhseHdB?oc=5",
@@ -392,14 +424,6 @@
     "summary": "애플의 중국산 칩 탑재 계획이 무산됨에 따라 삼성전자와 SK하이닉스 등 국내 반도체 업계에 미칠 영향에 대해 분석한다."
   },
   {
-    "company": "NVIDIA",
-    "title": "엔비디아, LG와 피지컬 AI 협력 확대… 아이작 GR00T 기반 차세대 휴머노이드 개발 - 미디어픽",
-    "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTFBzNzlnYTFTbkJTb2NUQVhiZkJwMDBhMkRFbXJWdUg0X2FYdXllUDdtWmFmWDFEX0dIZmgxZDQ4RDRmRDVqRzU2YmVyS2hQbVAtWUM2blpfMUprMjVCRmZYY0FqNjA2UllDdWpB?oc=5",
-    "published": "2026-08-16 23:05",
-    "timestamp": 1786889150,
-    "summary": "엔비디아가 LG와 피지컬 AI 분야에서 협력을 확대한다. 아이작 GR00T 플랫폼을 기반으로 차세대 휴머노이드를 공동 개발한다."
-  },
-  {
     "company": "Apple",
     "title": "“중국산 메모리 쓰지마”… 美행정부, 애플에 제동 - v.daum.net",
     "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE5EazZXMkUxUVBQSGJkVjVkMG9TNFJnR1NsY094eWJJVi1wR3Y2U1hSeUtKRG5NdEdaeTdLYUlxWFIxZ2x5VUQ1c2p1SkpPV0k?oc=5",
@@ -422,14 +446,6 @@
     "published": "2026-08-16 21:21",
     "timestamp": 1786882915,
     "summary": "애플이 알리바바와 협력하여 AI 개발을 추진한다. 중국 내 AI 기술 확보를 위한 전략적 제휴로 보인다."
-  },
-  {
-    "company": "NVIDIA",
-    "title": "LG ‘몸체’+엔비디아 ‘두뇌’…이족보행 휴머노이드 로봇 내년 초 공개 - 경향신문",
-    "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1PMW5jd1J5SklmV2lpLV85bEVxMWxhOE4taVNfSlhncHprak1IT0k0bmVHTmgzLTVEbFNYTGQ3WHhCNVNTOWgzelc3UFBDOXgzMF9Eb1FWaFFLUdIBX0FVX3lxTE1XYkdQNXI5YWt0clplMm9aTmhQaVNjenNwamhYcXdndVpsVWRpTDBoUkVjcTNnWmdmQXJNRnlRX0hKMlNsdURzOHgxRG1ETGhlVnRTY2h0N1RKRWJvVHF3?oc=5",
-    "published": "2026-08-16 20:31",
-    "timestamp": 1786879860,
-    "summary": "LG전자의 하드웨어와 엔비디아의 AI 기술을 결합한 이족보행 휴머노이드 로봇이 내년 초 공개될 예정이다."
   },
   {
     "company": "Cadence",
@@ -545,10 +561,10 @@
   },
   {
     "company": "Apple",
-    "title": "美 상무장관 \"애플에 中 메모리 반도체 구매 자제 요구\" - 뉴시스",
-    "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE9mVnRacEd2SUsxWXJrZHJFZjNBdmN1alZyN3Z3eGsyS0lhYWtTN2pqNWQ3a3pqVS1GaE52YUNiUGtfUjY3NTc0d3pVR0xlYUsxSWJPM3pMQW1KRzBHNTlYR2MwZzJUczNYQVZXUWMwbFMyMlQ5UGg3VNIBeEFVX3lxTE9mVnRacEd2SUsxWXJrZHJFZjNBdmN1alZyN3Z3eGsyS0lhYWtTN2pqNWQ3a3pqVS1GaE52YUNiUGtfUjY3NTc0d3pVR0xlYUsxSWJPM3pMQW1KRzBHNTlYR2MwZzJUczNYQVZXUWMwbFMyMlQ5UGg3VA?oc=5",
-    "published": "2026-08-16 01:36",
-    "timestamp": 1786811815,
+    "title": "美 상무장관 \"애플에 中 메모리 반도체 구매 자제 요구\" - 파이낸셜뉴스",
+    "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5NdzFfcHE5VlQxQ0hIYXh2alJzWnV2b0xuNE56cFBjWGh0M3RDV29RQnpzZHNKLWhoNFNGNXJJUko3eGkyUlZOQnZlY0xzNFNYVTU3MnVWeGliUQ?oc=5",
+    "published": "2026-08-16 01:37",
+    "timestamp": 1786811850,
     "summary": "미국 상무장관이 애플을 대상으로 중국산 메모리 반도체 구매를 자제할 것을 요구했다."
   },
   {
