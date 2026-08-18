@@ -1,6 +1,46 @@
 [
   {
     "company": "AMD",
+    "title": "AMD 드라이버 버전 25.9.2 이후의 새로운 드라이버에서 문제가 발생합니다. Radeon RX 7000 - GameGPU",
+    "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNbGZYX1BSRnFoRWtncUM4aTcxRmtHLUsxekg3Z0pGLXJFQ3gycTVXRmdsVjdzVm5RVXJRRW9lRjJvM1dnb1V6ZG1ScWNrVlBIX3oycFBaenc2aFRJbWkzcXdDcHRGZGN0d1cwdW12ZzlRVWp4NjVlcmdxSllVOGRFTDA0NHc1T2V6Y0ZTcFZQQ0RWMnpPNlNLRTh4aGFaTjBabG1Rc1FsNk5uc2RRTF9aSA?oc=5",
+    "published": "2026-08-19 03:00",
+    "timestamp": 1787076013,
+    "summary": "AMD의 Radeon RX 7000 시리즈 드라이버 버전 25.9.2 이후 업데이트에서 기술적 문제가 발생하고 있다."
+  },
+  {
+    "company": "Texas Instruments",
+    "title": "TI, 업계 최초 상용 CAN XL 트랜시버 출시 차세대 산업용 시스템 혁신 가속 - 올포칩",
+    "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1paF9NTi1YWl9qaWFad0NJQ2w2czZIY2JKTUpmVnlHd3FrdGsxblAxTXdMRlJwd2d2NERsbkVLR1RUOUxpd0lMR295R0tZeW9pZVQtWlBuekQ4YXZKQlNGNw?oc=5",
+    "published": "2026-08-19 02:01",
+    "timestamp": 1787072516,
+    "summary": "TI가 업계 최초로 상용 CAN XL 트랜시버를 출시했다. 이를 통해 차세대 산업용 시스템의 혁신을 가속화할 예정이다."
+  },
+  {
+    "company": "NVIDIA",
+    "title": "엔비디아, 오픈AI 오하이오 데이터센터에 148조원 지원…250조원 백스톱서 대폭 축소 - 위키트리",
+    "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5LdERVVDNDV3VfcmpFV1hFSEsxSkYxbHhNT1RGdTdSR203RG4zUlJEQ1ZpeHpCOWw1M1RvNzc2Y3RJZ3pHQnNZdkc1NWdXYkIxVWwtY1V3?oc=5",
+    "published": "2026-08-19 01:59",
+    "timestamp": 1787072340,
+    "summary": "엔비디아가 오픈AI 오하이오 데이터센터에 148조 원을 지원한다. 기존 250조 원 규모의 백스톱 계획에서 대폭 축소된 수치다."
+  },
+  {
+    "company": "NVIDIA",
+    "title": "엔비디아 RTX GPU, 로컬 AI에서 프론티어급 큐원3.8-27B 코딩 에이전트 구현 - 올포칩",
+    "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5FcjU3RUR6VkVSTU5wR1BnU0Y1TzlLQnQ3Sko0T0MwQ09ZcXdkckdZb05XenQ4aEZaWlJYLWJDS1RmYUNZZXpwUGlSaUMzUk5kdW9JWDI1VmQxRllaVzBQaA?oc=5",
+    "published": "2026-08-19 01:56",
+    "timestamp": 1787072167,
+    "summary": "엔비디아의 RTX GPU를 활용하여 로컬 AI 환경에서 프론티어급 큐원 3.8-27B 코딩 에이전트를 구현했다."
+  },
+  {
+    "company": "딥엑스",
+    "title": "딥엑스 NPU, 과기정통부 ‘혁신제품’ 지정 - edaily.co.kr",
+    "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPOGItb0lGVTN4dTNNV1RJSTZjX3U1WHRMRHZSQnlyMEZsUUJsdkhIRVhUZkNVX2pPUFRQYVIxaGoybkJEVWYtRlYxdmZCd01FdjNuNlBCYndMa18wNVJ4MGlxZzUyWDdmclllOU52VjhWbmJITVZCY3B4TlAwdlFUZA?oc=5",
+    "published": "2026-08-19 01:33",
+    "timestamp": 1787070816,
+    "summary": "딥엑스의 NPU가 과학기술정보통신부로부터 혁신제품으로 지정되었다."
+  },
+  {
+    "company": "AMD",
     "title": "Alan Wake 2는 FSR 4 및 FSR 지원을 통해 AMD 시스템에서 FPS가 향상되었습니다. Frame Generation - GameGPU",
     "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPNlVqT3UwM0F0YlJhclRuSWY4dUtOT21rQ0dGUldIR0x2elpWMUFBTXhhdXQwdXJqOEJPS293SEFITVNmRzB5SVNCZGh1cEZTUW5YSV85cmtLektVcjBqWFc2V3EwcVUwVmtORk1kY3hxVHFiVEJWOUNuLW11T1BPWjlSOVlzSThLeDJINHA5LXM4VlIzMEE0eF91X2dhajczQy1faDhRUUp3UkRhb2hjeGxKTEI?oc=5",
     "published": "2026-08-19 01:30",
@@ -640,6 +680,14 @@
     "summary": "알파벳, 피델리티, 엔비디아 등이 스페이스X 지분을 1억 주 이상 보유하고 있다."
   },
   {
+    "company": "MediaTek",
+    "title": "마우저, 미디어텍의 ‘지니오 420’ 생성형 AI 지원 IoT 플랫폼 공급 - 글로벌 비즈 뉴스",
+    "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE9nTmJwcUdWelFad0I1LXV4MXZSNEQwQjZvVEUtWlcybVNkc19sVlRqcm9xTWREX2NfTGlNLVhlamdiUUdkUy04TkVTcXowby1TbWpOcGhEV3RNM2YzSjVvOXBad2NzQdIBaEFVX3lxTE1TVEZZQ3MyVXgxdExfMm9xVXBhUHpRaVROWllzZGx2ODJHRHRydHBUS0h3VmpWV3Y2bXA5eHlueXRUdTFqS1ZkZ2Q1U19qc1dGTzUxSkdaeU94QVk4c3dkMmZHWGtrZlpM?oc=5",
+    "published": "2026-08-18 10:20",
+    "timestamp": 1787016000,
+    "summary": "마우저가 미디어텍의 생성형 AI를 지원하는 IoT 플랫폼인 '지니오 420'을 공급한다."
+  },
+  {
     "company": "Apple",
     "title": "[숏폼] 中 반도체 구매말라 트럼프 행정부, 애플에 경고 - SBS Biz",
     "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE10TGhZWlQxa2ZiTDNqUEVrdGRlWXVXSkFIVkxNNWEwU0J6cDV6bGRVWUJod2pDZmE4Ykd1YUVCdVEzNHF5REdZQ09DREhmaFc2U0ZtSGt5VFPSAVhBVV95cUxNdExoWVpUMWtmYkwzalBFa3RkZVl1V0pBSFZMTTVhMFNCenA1emxkVVlCaHdqQ2ZhOGJHdWFFQnVRMzRxeURHWUNPQ0RIZmhXNlNGbUhreVRT?oc=5",
@@ -720,22 +768,6 @@
     "summary": "엔비디아 RTX GPU를 활용해 로컬 환경에서 큐웬3.8-27B 코딩 에이전트를 구현했다."
   },
   {
-    "company": "NVIDIA",
-    "title": "Castrol ON PG25 냉각유, 엔비디아 AI 팩토리 및 데이터 센터 인프라용 검증 획득 - 이슈투데이",
-    "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE1ZUklTUTdHMndkOFVzcXdIY3JqYUY3WkJOZy01dV9vdGlsZnNWeWdZTkh1YVRwRnh3TVgxbzNmREkxTTZzU0FNM08wZF85S1RmNFkxQ19xM05lc3NUdlFUYjZDRHl6Zw?oc=5",
-    "published": "2026-08-18 09:42",
-    "timestamp": 1787013730,
-    "summary": "Castrol ON PG25 냉각유가 엔비디아 AI 팩토리 및 데이터 센터 인프라용으로 검증을 획득했다."
-  },
-  {
-    "company": "NVIDIA",
-    "title": "젠슨 황 장녀, LG전자 데이터 팩토리 방문…LG·엔비디아 로봇 협력 논의 | - 연합인포맥스",
-    "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE9CNE1XUjdUSE5Sd2xnSWlMLUQ2UG8yTjNnT1ZfY2FBVjZjQkFCa2x1cmFseGpSbkRzVTRsRFFZWXV0ekZ4eFF1WGFDY0dmRHpxSW4yem1VZTNTRkY1bkd6S00xV2dqeEk3bHpJZlhKbEY2eWZD?oc=5",
-    "published": "2026-08-18 09:40",
-    "timestamp": 1787013656,
-    "summary": "젠슨 황 엔비디아 CEO의 장녀가 LG전자 데이터 팩토리를 방문해 로봇 협력을 논의했다."
-  },
-  {
     "company": "Microsoft",
     "title": "390조 쏟은 MS, AI 칩 절반을 꽂지 못한 속사정 있다 - 글로벌이코노믹",
     "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOSmhtVG56dGFpeHM0dUhNeXJGR3BZdVRubFZ0TkMzWk93aUF6N3VqVjl1RlVid2xUcU5Hd09MY3NiajdidnlhQkhYQnFlYm9wV1FFVjhGd1ZMMkg2bXpuQi1BR0FJTEFHcWp4ZWh6cnJQRXRIMXlSamZfc29tZ3g5dmpob3B4YkU?oc=5",
@@ -766,14 +798,6 @@
     "published": "2026-08-18 09:22",
     "timestamp": 1787012542,
     "summary": "파두가 데이터센터용 SSD에 이어 차세대 CXL 시장 진출에 속도를 내고 있다."
-  },
-  {
-    "company": "MediaTek",
-    "title": "마우저, 미디어텍의 ‘지니오 420’ 생성형 AI 지원 IoT 플랫폼 공급 - newswire.co.kr",
-    "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE91UmM3Qnh3aDRTem52SERHS0NKWVB2Rl92c0dzVFZQenRJZ1p1bHZYalBOYmlsVnNDQ2I2ajB4NmNQTTg5QnQ0VzBWZThsQktVRThqU0FBc003X2Q4cUpB?oc=5",
-    "published": "2026-08-18 09:19",
-    "timestamp": 1787012365,
-    "summary": "마우저가 미디어텍의 생성형 AI 지원 IoT 플랫폼인 지니오 420을 공급한다."
   },
   {
     "company": "Apple",
@@ -3112,14 +3136,6 @@
     "summary": "IDM 3사의 레거시 메모리 생산 중단으로 제주반도체가 독점적 수혜를 입고 있다. 시장에서 제기되는 CXMT 관련 우려는 오해라고 밝혔다."
   },
   {
-    "company": "AMD",
-    "title": "압사이, AMD와 AI 신약 개발 협력…2000만 달러 투자 유치 - 데이터투자",
-    "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE9UWXFKVEd3XzdSNk5zTzlQNkZXZDVVNjliSF9MR2FPNG1RdDJNUW9oLWFGNXY0dXp0S0UtQl9kU0ppSWoxX2ZWLTV5RmVHcTA3SU54clk3MktnY1RLWjBqam9VV2h6aXk4b0s3MkVTaHY1OFE?oc=5",
-    "published": "2026-08-12 06:53",
-    "timestamp": 1786485192,
-    "summary": "압사이가 AMD와 AI 신약 개발을 위해 협력하며 2000만 달러의 투자를 유치했다."
-  },
-  {
     "company": "Kioxia",
     "title": "SK Hynix Emerges as De Facto Largest Shareholder of Kioxia Through Bain Capital Investment Vehicle - 알파경제",
     "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE5fQU1nLXM2VVFCTWJ2bXJ6N0pGQUtaOVEyMmo2V29YWmJHbFJVbWJWbFV1MWVmTVdoTW9vR2NuUUpHS0FQTmREZEl4VTBiaXQwcExQRV90VWtWcTFpMGI0aGZtQnd1R3RUSmg4aGNn?oc=5",
@@ -5294,14 +5310,6 @@
     "published": "2026-08-05 11:26",
     "timestamp": 1785896782,
     "summary": "온세미가 시냅틱스 인수 계획을 발표했다. 이번 인수를 통해 커넥티드 컴퓨트 역량을 확보하고 외연을 확대할 예정이다."
-  },
-  {
-    "company": "딥엑스",
-    "title": "딥엑스 NPU, 공군 AI 경계감시체계 적용…외산 GPU 대체 | - 연합인포맥스",
-    "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE1GTEZzVmdnNVN2ZHFteVdCS0lCNXhRTUVHWF8tSTF3dmNLeWNaakRTRjRLRFZia2I0QzBSeWJTbll3Tk1wTlVld2R1S3JRZnNSNjR6bG94RUlaU0JiQm9SSy1COERzVkUxNGE1NGozNEQ1ckNv?oc=5",
-    "published": "2026-08-05 11:14",
-    "timestamp": 1785896065,
-    "summary": "딥엑스의 NPU가 공군 AI 경계감시체계에 적용되었습니다. 외산 GPU를 대체하는 성과를 거두었습니다."
   },
   {
     "company": "Microchip",
