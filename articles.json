@@ -1,5 +1,29 @@
 [
   {
+    "company": "AMD",
+    "title": "AMD는 이를 높이 평가할 수도 있습니다. Radeon RX 10700 XT 9070 XT는 750달러인 반면, 이 제품은 1200달러입니다. - GameGPU",
+    "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOUmFkaDRJdzhJeFFoUUN1REprcXlhZF9DR0VGbllOc0Z5cmVkeGM1eXJoeFpqOWZaWWpWQlQtbXBfc1htaFdJQjBZUTQwQ1U0QjFCbFJhcllKRUFqUndiUE1qUmNWU2U0M1dTcFllYXNoSVNiZlFqZjVTYU5Xb2ZuOWFOUXNtQVluY2NYSzIzLXNiZnVkQlZxM1ZfQ0wyY1BLTjhVN2c1dERzQ2M?oc=5",
+    "published": "2026-08-20 00:51",
+    "timestamp": 1787154700,
+    "summary": "AMD의 Radeon RX 10700 XT와 9070 XT 제품이 750달러에 출시되며, 1200달러인 타사 제품과 비교되고 있다."
+  },
+  {
+    "company": "Samsung Foundry",
+    "title": "삼성 파운드리, 첨단 공정 가격 최대 15% 인상 - 위클리포스트",
+    "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE5tZW5lako2dGh6UXg0QTdjYWU3V0d4aHFJeXFMeFVubXBBa3pERWdqMDVUeFNWNjRROGxCUzg4c19sMEtZbDMwOHF0ZFlucUlpU2VBNFZKSWZOLVVUUzluYjYzeDlUZ0wwVmxB?oc=5",
+    "published": "2026-08-20 00:31",
+    "timestamp": 1787153485,
+    "summary": "삼성 파운드리가 첨단 공정의 가격을 최대 15% 인상한다."
+  },
+  {
+    "company": "NVIDIA",
+    "title": "엔비디아, 북유럽 AI 데이터센터 ‘중개자’로 - OBC 뉴스",
+    "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBDTTZOa09kX1hmaGZZTUVYRFZ1djVSengyMTV2NWdLS29Kd3JVX3E2REZsamhwdTlJRG4tbjg1ODhlOEdQTWNiT3pJdkx3WWlfR0hxblRYRjBaSkNmZy1KcTM4OGtmOXNfbVE?oc=5",
+    "published": "2026-08-20 00:18",
+    "timestamp": 1787152696,
+    "summary": "엔비디아가 북유럽 AI 데이터센터의 중개자 역할을 수행한다."
+  },
+  {
     "company": "Cerebras",
     "title": "세레브라스, 혁신적인 AI 가속기 ‘CS-4’ 공개… GPU 대비 최대 30배 빠른 추론 속도 - 인공지능신문",
     "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5FMTZmU2dLZi1wS1R6NFNWRGxhUTZldGRpdEUxNnpadGwtVnZRM3NCbkJidy1ueTJ4RDRkVHNxdndURnVpbGJLYXhHc19KNmRqZlFsSWp6Vk5QampLSTFTZFJiTVBBeE0?oc=5",
@@ -22,6 +46,14 @@
     "published": "2026-08-19 21:26",
     "timestamp": 1787142391,
     "summary": "마벨 테크놀로지가 구글과 맞춤형 반도체 개발을 위해 협력한다. 이와 관련해 5897만 주 규모의 워런트를 발행했다."
+  },
+  {
+    "company": "TSMC",
+    "title": "TSMC 빈자리 파고든 삼성…파운드리 가격 최대 15% 올렸다 - 네이트",
+    "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE9oR3JjY2xzUGhMc0p4TDRWRHZ1V1hFaXBxNVN5dERNcVZTUDVNdkRhb0hOZHgyZ1hpLUxuNHR4WW9lMmJUdkpDQjBFaHgxcXlmMWx3?oc=5",
+    "published": "2026-08-19 20:18",
+    "timestamp": 1787138280,
+    "summary": "삼성전자가 TSMC의 빈자리를 공략하며 파운드리 가격을 최대 15% 인상했다."
   },
   {
     "company": "TSMC",
@@ -48,12 +80,28 @@
     "summary": "AMD가 랙 단위 에너지 효율을 4배 향상시켰다."
   },
   {
+    "company": "OpenAI",
+    "title": "OpenAI, 최첨단 AI 훈련 중단 후 성장세 둔화 조짐 보여 - 민심뉴스",
+    "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5ybGFfQjJtRlpNNXh1eWdGLWtaZEFCbGQyU2lzXzA5akxsYjJ0OTZMZlFCZ0t4N1pmU083XzRKdXIyQThreU11cHVubC14a0V2bHZKc3pveEI1TmFlYlFJc080aHhLTE9MeF92bg?oc=5",
+    "published": "2026-08-19 18:18",
+    "timestamp": 1787131095,
+    "summary": "OpenAI가 최첨단 AI 훈련을 중단한 이후 성장세가 둔화되는 조짐을 보이고 있다."
+  },
+  {
     "company": "NVIDIA",
     "title": "中, 엔비디아 AI칩에 빗장 풀었다 - 파이낸셜뉴스",
     "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBrMU1tX2gzeDdNdmQ4Xy1pT3JzRDdWWUozZjUzNVhveVJ6bGRXNUlSMlkzQXB1NzhPYU5rSGRYNlJLS2ZUSm1QbkpYZm9waGhDc0JzbzFzbHkxUQ?oc=5",
     "published": "2026-08-19 18:12",
     "timestamp": 1787130775,
     "summary": "중국 정부가 엔비디아의 AI 칩에 대한 규제를 완화했다."
+  },
+  {
+    "company": "NVIDIA",
+    "title": "LG-엔비디아, 피지컬 AI '급가속'··· MOU 나흘 만에 전격 '현장 점검' - 그린포스트코리아",
+    "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTE9ueU9lSm1tQVFWODRzSzBZbVJSUGJuVFRMVUdhc21uRjVQSTR6VUdvaWozajFiTVpNX1R2Wmw4Zy15Yy02bmtmMzVwQlJVc3BfaFlmdjA0alVNd2xUeXRVNWRudzdhbVJKeDRtc2lwbGd4YVNSU2RpSkZR0gF6QVVfeXFMT255T2VKbW1BUVY4NHNLMFltUlJQYm5UVExVR2FzbW5GNVBJNHpVR29pajNqMWJNWk1fVHZabDhnLXljLTZua2YzNXBCUlVzcF9oWWZ2MDRqVU13bFR5dFU1ZG53N2FtUkp4NG1zaXBsZ3hhU1JTZGlKRlE?oc=5",
+    "published": "2026-08-19 18:03",
+    "timestamp": 1787130219,
+    "summary": "LG와 엔비디아가 피지컬 AI 분야에서 협력한다. 양사는 MOU 체결 나흘 만에 현장 점검을 진행했다."
   },
   {
     "company": "TSMC",
@@ -760,28 +808,12 @@
     "summary": "엔비디아가 오픈AI 데이터센터에 149조 원 규모의 금융 보증을 제공한다."
   },
   {
-    "company": "NVIDIA",
-    "title": "엔비디아 플랫폼 활용… LG 클로이드, 연내 12년 치 로봇 데이터 학습 - v.daum.net",
-    "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE5jcGhLT3llSzhkWldNbGU4RlFpSnEtU3c3UkNCV0lCLWtYbzc1andPS1d4UHUtUEVfVGl5T0pUaGwxX3F4cDc3eHFzRUw5ZkU?oc=5",
-    "published": "2026-08-19 00:35",
-    "timestamp": 1787067309,
-    "summary": "LG 클로이드가 엔비디아 플랫폼을 활용하여 연내 12년 치 로봇 데이터를 학습한다."
-  },
-  {
     "company": "AMD",
     "title": "한 열정적인 개발자가 AMD 그래픽 카드용 네이티브 vLLM 및 ROCm 7.15 환경을 공개했습니다. Radeon RX Xnumx 사용 Windows 11 - GameGPU",
     "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxON0VhUnVTQ1J6eTd4bllyeUNxZ2VyNHdGMVRBeUtoU2ozc1ptUWVnS2Z2bzFJYXRadko2X3NyMEt6bEVoQThmVzBJSnlIV0YtQXk3a29XUkN5c18tY3EzQWlUQWE0ZGJsbnFmUjlqczdYMGNDblYwaW8wTG41cWhlQ2ZvSW5FV1JaLWp0NkNJSXM2MHExTVAtdGVaX2FmcURMTmUydnZjN2FuMTdTX0t0RjY4MFQ0TWdKZTAwVWlNZDRfY0lTdzNhMGc1MzQwaXJT?oc=5",
     "published": "2026-08-19 00:23",
     "timestamp": 1787066636,
     "summary": "한 개발자가 AMD 그래픽 카드용 네이티브 vLLM 및 ROCm 7.15 환경을 공개했다. 해당 환경은 Radeon RX 시리즈와 Windows 11에서 사용 가능하다."
-  },
-  {
-    "company": "NVIDIA",
-    "title": "매디슨 황 “인크레더블”… LG·엔비디아 “연내 12년치 로봇 데이터 학습” - 국민일보",
-    "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9QMUdVbDUwYUlUWG9QME9FRlQ0YURHQi1IZFMyVDZ0blJVSUxFYUhwYktGSEJHSU1xdE1YMDJJOGFVVURvUnVrQUljVy1ITEdnNHp4RmxuYWd3MWNHREl4Z3NkRUFaU3ktaHRRcNIBbEFVX3lxTE9QMUdVbDUwYUlUWG9QME9FRlQ0YURHQi1IZFMyVDZ0blJVSUxFYUhwYktGSEJHSU1xdE1YMDJJOGFVVURvUnVrQUljVy1ITEdnNHp4RmxuYWd3MWNHREl4Z3NkRUFaU3ktaHRRcA?oc=5",
-    "published": "2026-08-19 00:18",
-    "timestamp": 1787066280,
-    "summary": "LG와 엔비디아가 연내 12년치 로봇 데이터를 학습하기로 했다. 매디슨 황은 이를 인크레더블하다고 평가했다."
   },
   {
     "company": "AMD",
@@ -1061,6 +1093,14 @@
     "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE8wOXRmLWc0c1JvT0dlWWNtY010dFVfME8ySU5VUDBXblEzdlJUd3psZ3Vxc0NqWDVnM0Ryb2E0Slh2WDJRSDMtUXYxajhjcmJLVWpv?oc=5",
     "published": "2026-08-18 15:41",
     "timestamp": 1787035260,
+    "summary": "동운아나텍이 모더나 대표 출신 손지영 본부장을 영입했다. 이번 인사를 통해 디썰라이프 사업에 집중할 계획이다."
+  },
+  {
+    "company": "동운아나텍",
+    "title": "동운아나텍, 모더나 대표 출신 손지영 본부장 영입…\"디썰라이프 집중\" - 머니투데이 - 머니투데이",
+    "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTE9kYlBLWmVhY2stMXdhOXdmbFdRbzBlc2lkODhiU0xDbjZONnVVclFUUjNSMENqSlZzSnpZTkxGY2lzbU9uLXBOTlVibUVuWUtFNVg3QWllTXB2N1ozZVRka2hib1daQV80aktFcDRRTHRSUWh0NnVIb01qZmjSAXxBVV95cUxPZGJQS1plYWNrLTF3YTl3ZmxXUW8wZXNpZDg4YlNMQ242TjZ1VXJRVFIzUjBDakpWc0p6WU5MRmNpc21Pbi1wTk5VYm1FbllLRTVYN0FpZU1wdjdaM2VUZGtoYm9XWkFfNGpLRXA0UUx0UlFodDZ1SG9NamZo?oc=5",
+    "published": "2026-08-18 15:40",
+    "timestamp": 1787035203,
     "summary": "동운아나텍이 모더나 대표 출신 손지영 본부장을 영입했다. 이번 인사를 통해 디썰라이프 사업에 집중할 계획이다."
   },
   {
@@ -2648,14 +2688,6 @@
     "summary": "그록 4.6 버전의 최적화 작업 3건이 챗 생산 환경에 반영되었다."
   },
   {
-    "company": "AMD",
-    "title": "AMD, 4개 시리즈 선순위 채권 공모 추진…\"채무 상환 등 일반 기업 목적\" - 데이터투자",
-    "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE9zdGRuTFZlSGZobVJqRjJvY09MeUtseC0yQnZLa0pjY1VLdmhRazNtRE80ZmRuSVU0OC1xSU9CTFVhRG5iQl8yUkhXOHk4Q1ppcHg5UnFkRG1nVDk4bzRmMV9IY0hhbFh3Ukg4Q0xwQ1lISHM?oc=5",
-    "published": "2026-08-13 22:33",
-    "timestamp": 1786628026,
-    "summary": "AMD가 4개 시리즈의 선순위 채권 공모를 추진한다. 조달된 자금은 채무 상환 등 일반적인 기업 운영 목적으로 사용될 예정이다."
-  },
-  {
     "company": "Broadcom",
     "title": "10GW 오픈AI 협업, 브로드컴 AI 공급망 넓혔다 - tokenpost.kr",
     "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5FRjdRRnJzUkYtVS16ekczX2c1ZlJRLUlfd1lSSkJpbkNlbkNIUjRjTFhSSHpkMDY0THF5cDcwNERZYmtGWGlsbW1ScDJHSENlQVFjNnJURDhlY0Y3VVlxetIBZkFVX3lxTFAwOEZlM0JPZElVenQ4LW1xTDIyMXFTLWNKZE1OVHY1Rm5vdEtUT1N3ZFFUMDV2cmxzc3Q1LXhobkJITXM5UE51ZU90ai12WGFobTdVVDRSbk1yd1ZGcGh6clhodnJldw?oc=5",
@@ -3030,14 +3062,6 @@
     "published": "2026-08-13 06:19",
     "timestamp": 1786569540,
     "summary": "세레브라스가 2분기 4억 5052만 달러의 순손실을 기록하며 적자로 전환했다. 이번 실적에는 오픈AI와의 계약 효과가 본격적으로 반영되었다."
-  },
-  {
-    "company": "TSMC",
-    "title": "추미애 지사 목소리 높인 반도체 용수 이용 실태보니...삼전닉스 재이용률 TSMC보다 20%p 이상 낮아 - 소비자가 만드는 신문",
-    "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE5EVS1uRXZGS1JOTXZmV2JlZXlramV6ejF4MFBBQlFXdl9jUThnaEtKNmwxdVd4dEgxT3plN0RVLWZsMDFRck5zMkNack90Q1plQkJYaHJlNDR1WjNxN19WaWdGbld3YjVUcnV1MEY0NVNsZw?oc=5",
-    "published": "2026-08-13 06:11",
-    "timestamp": 1786569060,
-    "summary": "삼성전자와 SK하이닉스의 반도체 용수 재이용률이 대만 TSMC 대비 20%p 이상 낮은 것으로 나타났다."
   },
   {
     "company": "Cerebras",
@@ -4894,14 +4918,6 @@
     "published": "2026-08-07 11:12",
     "timestamp": 1786068747,
     "summary": "테슬라와 스페이스X가 텍사스에 축구장 1300개 규모의 '테라팹'을 건설한다."
-  },
-  {
-    "company": "OpenAI",
-    "title": "소프트뱅크, 오픈AI 지분 담보로 100억 달러 조달…'AI 올인' 가속 - v.daum.net",
-    "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFBoLVRGQjh0cUYwNFpwMUl4YTJZdW0xR1lFOUxkVnR2eEVDVjVwanVqUnVWellUR2c3R18xcmJmSFdFSEpDV2FlYTZEQm4tX28?oc=5",
-    "published": "2026-08-07 10:41",
-    "timestamp": 1786066912,
-    "summary": "소프트뱅크가 오픈AI 지분을 담보로 100억 달러 규모의 자금을 조달하며 AI 분야에 대한 투자를 가속화하고 있다."
   },
   {
     "company": "퓨리오사AI",
@@ -7728,14 +7744,6 @@
     "summary": "아마존이 AGI 조직 일부를 감원하며 AI 투자에 있어 선택과 집중 전략을 취하고 있다."
   },
   {
-    "company": "Samsung Foundry",
-    "title": "'삼성 파운드리 2년 내 이직 의향 81.5%'…노조 \"방지 대책 마련해야\" - msn.com",
-    "link": "https://news.google.com/rss/articles/CBMikARBVV95cUxNci1XVzQ2NXRrVWFXdDBnTy0xazZFQ1RmTWJ0ZnZvQVRNUk54M2JfTmp3dVc1LVI1cjRNZjYwZnVGdDdQSGJWMDR3ck9kZkdJVGtwMURUQjNEZ3NHRkQ4VUtGRlZVZUxRbC1DdzlmcU5fZk8xTE1fWTJHcFZNTFlHNF9XN3JVaGk5NlFyWWlkUlJBNk4wekNNYXl3UEhQQ3RaZ3lBb2RncTNEcFdabWM2MXltR0ttdmNmNnM1dERFYVY3ZmRfZWJqZ0tpR2RLYldoMm05RmhpeFdNOHg2aU14ZDE1TnUxenZUVDNYOWtmekZPM2ROZEg2T2J6NEUtNHQ1TUhaNW9CSXRpblFlX044cENwc0lnU1VIQnBINUgtdjhmcUdVcy00TEJKYWRFTDZoMzlLVnJ2UUtqZzdwMjUyTF9lSjV5QVZnOVNibzk4TDBoU0xiN0EyNFV2QjJhcnpmeVdoX0xLSnFBdHVaZ18weml4ODBTcHpEOXRaQ0xDdmdBbHNYNVROT3EtckZ3NUVPVzZEd1drM0h5RnFZSklIRjYwdklYbDhVSTRfZ3JaLUp0cUVrZzB2X3Ntc2RaUGVPcmN5eURhenlieGgxLXV0UjZDRFlRUFZfd1Q2S0F2enNUZ0JFeGJ6Nm84NHdub2dPcXU1WUo2a0VoVERXbUdhQ2YwUXE1cEJQNHNSWVA1TkY?oc=5",
-    "published": "2026-07-23 00:44",
-    "timestamp": 1784735063,
-    "summary": "삼성 파운드리 소속 직원들의 2년 내 이직 의향이 81.5%로 나타났다. 이에 대해 노조는 이직 방지 대책 마련을 요구하고 있다."
-  },
-  {
     "company": "STMicroelectronics",
     "title": "ST마이크로일렉트로닉스, 정확도 높인 자동차용 새 관성 모듈 공개해 - elec4",
     "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE01Q3JaU1dLeDdIT0JnSE40U0ZIMkRlUVNMelRaUHV1SHZvTDFoNUJUNjctWVFXUjNUTkpXa0w1UG54NUh0UXYwZklfYXN1M2ZSQkRtVWEtWEpkcFAyNWsybnd0UEE3a3M3aUJwc1FVTUg3ak0?oc=5",
@@ -7854,13 +7862,5 @@
     "published": "2026-07-21 02:48",
     "timestamp": 1784569727,
     "summary": "Silicon Motion이 DRAM이 없는 PCIe Gen5 SSD 컨트롤러인 SM2524XT를 출시했다."
-  },
-  {
-    "company": "Siemens",
-    "title": "Siemens to acquire Precision Innovations to expand AI-powered system-on-a-chip design exploration and optimization - Siemens Newsroom",
-    "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTE5jYlVUcXpucVVuWFJmTGhQLVR4NUdndVFCTW8zLWhIX19YWFNfekR5X1lyUWRiYmYyX0lLVVBRcU5VMHlUaW5tMnMwTEszUGdkVFA4M2l4aU9fNm4zYm1zSno3LUh0dlEydTJveW5nbTQ1SlM4bU1Ld016ZzU?oc=5",
-    "published": "2026-07-21 00:47",
-    "timestamp": 1784562427,
-    "summary": "Siemens가 AI 기반 시스템 온 칩 설계 최적화 역량을 강화하기 위해 Precision Innovations를 인수한다."
   }
 ]
