@@ -1,5 +1,37 @@
 [
   {
+    "company": "Google",
+    "title": "[외신 헤드라인] 구글, 마벨과 AI칩 동맹…최대 17조원 신주인수권 - v.daum.net",
+    "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE1qNDFZblhzN2dwUE9zOGtMbERDS3dVVGM5bVdKYWNRTGdBUldMTXZMTXJGbGNWSlFwT3N5YkRkbVh0Y0YzQlZERTNheTJEUHc?oc=5",
+    "published": "2026-08-20 06:31",
+    "timestamp": 1787175078,
+    "summary": "구글이 마벨과 AI칩 동맹을 맺고 최대 17조 원 규모의 신주인수권을 부여하기로 했다."
+  },
+  {
+    "company": "TSMC",
+    "title": "AI칩 패키징 대란에 백기 든 TSMC…라이벌 인텔에 SOS [마켓무버] - 서울경제",
+    "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBVS0lvdUJsaTBvZUdaZkpLd2NXbjlVNFZjSUZvREJLamhKRjVoRDk0YkxiYW90Wm1ReDV1MGxCallMNm8tbnhqVzhfMzFKVmd1bEE?oc=5",
+    "published": "2026-08-20 06:26",
+    "timestamp": 1787174760,
+    "summary": "TSMC가 AI칩 패키징 물량 부족 문제를 해결하기 위해 경쟁사인 인텔에 협력을 요청했다."
+  },
+  {
+    "company": "Samsung Foundry",
+    "title": "삼성 파운드리, 풀가동 신호탄 쐈다..HBM이 살린 위탁생산 - dailycar.co.kr",
+    "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE9hVm1BTHlYaUJYRmNZdnduSUNQemFkaXNlTTU3VDZFcjZNVmR3aHc4N3pSTGx1dmZGemJLWURldjRVbXFzalBscDlBNV8xUGRwbWdJWk5LVDRtdllDSi1HY2R2X3lKU1BneGFnbXBOWEJ3N3BneFE?oc=5",
+    "published": "2026-08-20 06:21",
+    "timestamp": 1787174490,
+    "summary": "삼성 파운드리가 위탁생산 공장 풀가동의 신호탄을 쏘아 올렸다. 이번 가동률 상승은 HBM 사업이 견인했다."
+  },
+  {
+    "company": "Google",
+    "title": "‘AI칩 동맹’ 확산…구글, 마벨에 대규모 신주인수권 부여받아 : 기업·산업 - 재경일보",
+    "link": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE4zWmhTd3dFUlVPZHo5aHlmMVVpTHM5N1ZwN3cxVFFFMF9ndFNDWkVZc0FPcU5XMHlGNXAzc3o4SVhUNk44cFFJdmdR?oc=5",
+    "published": "2026-08-20 05:53",
+    "timestamp": 1787172780,
+    "summary": "구글이 마벨과 AI칩 동맹을 강화하며 대규모 신주인수권을 부여받았다."
+  },
+  {
     "company": "AMD",
     "title": "AMD, 전 씨티 CTO 팀 라이언 이사회 선임..AI 전략 강화 - 매일경제 마켓",
     "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE4tbkwzTHhrRXVHdkRkRmhVUDNHd3h1R2l0b0JmSGVMLU1BQ3BvZkJOell5TFhwakd1TXRkUE11ZnJoa0wtOFpGdGNVVDEwUnRJbUE?oc=5",
@@ -14,6 +46,14 @@
     "published": "2026-08-20 04:37",
     "timestamp": 1787168220,
     "summary": "중국 기업인 바이트댄스와 텐센트가 엔비디아의 H200 칩을 확보했다. 중국의 AI 추격 가속화에 따른 엔비디아의 공급 관련 소식이다."
+  },
+  {
+    "company": "NVIDIA",
+    "title": "LG전자 엔비디아 손잡고 양재에 로봇 데이터 팩토리 가동 - 글로벌이코노믹",
+    "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNZGJCU0RiVTF0TVBTeHJ0c3dBU2xPbFBzTmxNZklYQTU1M3dfQjhVOThLRnVLZ0luYU5vbFQycDFxSngyMHBOU0hBaWptOG1SY0ZXSFc5RWtlRTFieVdLRGdFRk5DdDJGckFMZUs1TzMyTzdieVpjNTNuczVibE1sRk1kR3lGRDJY?oc=5",
+    "published": "2026-08-20 04:30",
+    "timestamp": 1787167800,
+    "summary": "LG전자가 엔비디아와 협력하여 양재에 로봇 데이터 팩토리를 가동한다."
   },
   {
     "company": "Google",
@@ -94,6 +134,14 @@
     "published": "2026-08-20 00:04",
     "timestamp": 1787151862,
     "summary": "중국이 엔비디아의 H200 칩 반입을 허용함에 따라 바이트댄스와 텐센트가 해당 칩을 처음으로 수령했다."
+  },
+  {
+    "company": "NVIDIA",
+    "title": "엔비디아, 자사 GPU를 사용하는 기업들과 북유럽 지역의 여유 용량을 보유한 데이터센터 운영사들을 연결하고자 한다 - CNBC - TradingView",
+    "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE5QR2hoUi1FX3U1TTZpSHpab2N4SGdWRjZiRS1NOEVVZVE1ZGdDS0Q0a2lyWUZYQlV2UnBURzRqUUlkV0xLODhsN1l5OFlTN1V2QjJvVlF5UWlUbDNqS0V2X1FMeWF2bzRvMG04Nmg1UnQzNExGR25OeA?oc=5",
+    "published": "2026-08-19 23:30",
+    "timestamp": 1787149814,
+    "summary": "엔비디아가 자사 GPU 사용 기업과 북유럽 데이터센터 운영사를 연결하는 사업을 추진한다."
   },
   {
     "company": "Cerebras",
@@ -238,6 +286,14 @@
     "published": "2026-08-19 17:21",
     "timestamp": 1787127667,
     "summary": "딥엑스가 퀄컴과 AMD 출신 인재를 영입했다. 대만에서 AI 반도체 양산을 본격적으로 추진한다."
+  },
+  {
+    "company": "AMD",
+    "title": "AMD “AI 인프라 에너지 효율, 목표 조기 달성했다” - 더에이아이",
+    "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBHckQ2NEpvV0VYemlFMExuWFg1cXZ6a1FDT2tDSkhGUVFhZWFSazhab3FvVlZMOC15SXRxaUJlQkc0M2JCYmlmeVNNWXhJc05WdUZsUldyNHB0SWczZHlNeG15UXRxQTN5RFE?oc=5",
+    "published": "2026-08-19 16:45",
+    "timestamp": 1787125537,
+    "summary": "AMD가 AI 인프라의 에너지 효율 목표를 조기에 달성했다고 발표했다."
   },
   {
     "company": "NVIDIA",
@@ -752,14 +808,6 @@
     "summary": "엔비디아가 오픈AI에 1050억 달러 규모의 보증을 제공한다. 이는 소프트뱅크의 AI 데이터센터 구축을 지원하기 위한 조치이다."
   },
   {
-    "company": "NVIDIA",
-    "title": "엔비디아(NVIDIA), ‘AI 은행’ 나선다 - 산업일보",
-    "link": "https://news.google.com/rss/articles/CBMiREFVX3lxTFBDR3k0OVhtQVdSMVhEYkp2VERUMVlDVlk0NzJfbkEwRmlfZk5zemZkeEhZc1NkSTZKRXUtbkJJdWI4MXlv?oc=5",
-    "published": "2026-08-19 08:53",
-    "timestamp": 1787097233,
-    "summary": "엔비디아가 AI 은행 사업을 추진한다."
-  },
-  {
     "company": "TSMC",
     "title": "씨피시스템, 대만 자동화 전시회 참가…\"TSMC 레퍼런스 앞세워 현지 공략\" - marketin.edaily.co.kr",
     "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTFBodHE0SjNPM0lMRVRvc3JLV1d2eVNxdUN1Yk5GQmN0S0pXY05SME5sSHpjNFpjcFJ0ZkdkRmpQR1RHSzBKY3VkVjNhNHdmRTYzVHRUVU5Ra1VfbXVyenAyYnlybE5TZ2tmNERqQUs0V01pNWc?oc=5",
@@ -782,6 +830,14 @@
     "published": "2026-08-19 08:30",
     "timestamp": 1787095800,
     "summary": "마우저가 미디어텍의 생성형 AI를 지원하는 IoT 플랫폼인 지니오 420을 공급한다."
+  },
+  {
+    "company": "딥엑스",
+    "title": "딥엑스 NPU, 과기부 ‘혁신제품’에 지정돼 - BI KOREA",
+    "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9ac1Q1NEtTbWN0aWtuTzF0eTBoWlJfd1dObk1DeUhQUjRpcGtwcTczRGYxa0I5UXpIdFhqZ1I2dmd0cDRyZ0RmX0kxemtFczBsNEstM1NyaWVHdC1haGF1cTlUemxpWms?oc=5",
+    "published": "2026-08-19 08:10",
+    "timestamp": 1787094623,
+    "summary": "딥엑스의 NPU가 과학기술정보통신부의 혁신제품으로 지정되었다."
   },
   {
     "company": "Samsung Foundry",
@@ -854,14 +910,6 @@
     "published": "2026-08-19 02:01",
     "timestamp": 1787072516,
     "summary": "TI가 업계 최초로 상용 CAN XL 트랜시버를 출시했다. 이를 통해 차세대 산업용 시스템의 혁신을 가속화할 예정이다."
-  },
-  {
-    "company": "NVIDIA",
-    "title": "엔비디아, 오픈AI 오하이오 데이터센터에 148조원 지원…250조원 백스톱서 대폭 축소 - 위키트리",
-    "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5LdERVVDNDV3VfcmpFV1hFSEsxSkYxbHhNT1RGdTdSR203RG4zUlJEQ1ZpeHpCOWw1M1RvNzc2Y3RJZ3pHQnNZdkc1NWdXYkIxVWwtY1V3?oc=5",
-    "published": "2026-08-19 01:59",
-    "timestamp": 1787072340,
-    "summary": "엔비디아가 오픈AI 오하이오 데이터센터에 148조 원을 지원한다. 기존 250조 원 규모의 백스톱 계획에서 대폭 축소된 수치다."
   },
   {
     "company": "딥엑스",
@@ -2672,22 +2720,6 @@
     "summary": "삼성전자가 미국 테일러 공장을 통해 파운드리 사업을 확장하며 인텔과 경쟁 구도를 형성하고 있다."
   },
   {
-    "company": "TSMC",
-    "title": "[2026.08.13 쓱싹뉴스 아침 브리핑] TSMC 구마모토 공장 민관 협력 사례 The Chi (W9pBWCUyiy) - mshale.com",
-    "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE92VnR0OWpFUjlzVlJjUTBLY0VySDJBeGhESkhuZEVWTnpKaC1JNEVyNFhrRWNpWjlfODF4ZGlnMHgzWmV6WWg5UWNYeF9aWHBUeTRfTWJYMDBwT28?oc=5",
-    "published": "2026-08-14 05:39",
-    "timestamp": 1786653547,
-    "summary": "TSMC 구마모토 공장이 민관 협력의 대표적인 사례로 언급되었습니다."
-  },
-  {
-    "company": "AMD",
-    "title": "\"AMD, 50억 달러 규모 회사채 발행 추진\"...AI 쩐의 전쟁 계속 - v.daum.net",
-    "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE5lNFJmU3BSc2lxaEhULU0wMDRLU1ZRejRyOFlWRTBtbkpDZnRVWTdpUDJyamJiZE5RelBxbjlqZENzNG1xOWdZQmdoTXhCc2c?oc=5",
-    "published": "2026-08-14 05:00",
-    "timestamp": 1786651203,
-    "summary": "AMD가 50억 달러 규모의 회사채 발행을 추진한다. 이는 AI 분야에서의 경쟁력 강화를 위한 자금 확보 차원으로 풀이된다."
-  },
-  {
     "company": "Samsung Foundry",
     "title": "삼성 파운드리 부활…설계 기업, 인재 확보 총력 / 한국경제TV뉴스 Sentence (ckOuhqYPsj) - Mshale",
     "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9wTXdrb1Z4WFo4UVA0Wmt5SGZGa0xiUzZsU2VyV2QwRmowcFBXOWl4UkR3QzkxdWQza0FhYlItamdqb2ZZVzF3VjMxaTl0VExVWk8tY0c2bXFlU2s?oc=5",
@@ -3248,14 +3280,6 @@
     "summary": "인피니언이 기존 PVI 크기를 줄인 반도체 절연칩을 출시했다. 해당 제품은 기계식 릴레이를 대체할 수 있다."
   },
   {
-    "company": "딥엑스",
-    "title": "NYSE 사장, 딥엑스 본사 찾아 성장 전략 논의…\"상장 계획은 미정\" - 네이트",
-    "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5tOU9uT3pRUHNsR2JYS3RpQnhtb3lDV2FZV29ybUhrU2d0WWc1UFZZZzB2ZTlaUGwyMlBndnUyRDZHMnBHQ2F1OWd5V3lyN3pKQ1BuZFlfN3NDSk5BeDlhOQ?oc=5",
-    "published": "2026-08-12 16:04",
-    "timestamp": 1786518240,
-    "summary": "NYSE 사장이 딥엑스 본사를 방문하여 성장 전략을 논의했다. 다만 딥엑스의 상장 계획은 아직 정해지지 않았다."
-  },
-  {
     "company": "Analog Devices",
     "title": "[기고] 레드 피타야 STEMlab에 통합된 ADI ADC 기반 96채널 DAQ 시스템 알아보기 - elec4",
     "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE9md0J1bWRqSmlqZ3pCeXJWVEdyb0g3Ml9ubzlwMmFTYjI3MEVRUkh0SFpSZHBOWWpLOERBbTVRaWdaTkY1SjFFZ1lySXRhQS1jSGVvUnU1cVJFaFh6QXFvMTZrUnBweENSNEs3eUxRTTNZcjdvVjkwZEw2bw?oc=5",
@@ -3752,14 +3776,6 @@
     "summary": "지멘스 EDA가 제품 수명 주기 전반에 AI를 내재화하며 AI 네이티브 전략을 전면에 내세웠다."
   },
   {
-    "company": "Google",
-    "title": "‘27년 구글’ 떠나는 제프 딘 “우리의 목표는 과학의 자동화…AI 혜택 더 빨리 확산해야” - 한겨레",
-    "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE0tM2dTZmxGQlhfNDl5WkU3Z25xSFlmLWctWTJPdHd1SXFpNXliVVJXV2tIeDNyMXdJdVV3MXY3MXdzb1hvNGhpTVliQzdCR1JkOXNUMUpMc3lvV3dzUV9EVw?oc=5",
-    "published": "2026-08-11 14:49",
-    "timestamp": 1786427340,
-    "summary": "구글의 제프 딘이 과학의 자동화를 목표로 AI 혜택을 빠르게 확산해야 한다고 밝혔다. 그는 2027년 구글을 떠날 예정이다."
-  },
-  {
     "company": "코아시아",
     "title": "코아시아세미, 3D IC 패키지 양산 돌입…“후속 프로젝트도 청신호” - 테크월드",
     "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE13OE9pLUpTMFlNaVFTOUhJVWFvNmFvWkQ2WUN2SE5PQ1MyeTVRb2ZWcWJ5RmZDVkx3UngydmdoVTF1SG0tb0NVT18yVDJEUjdtSDkta1NUS19tcUItSU5udnl1eGR3Rmk3?oc=5",
@@ -4238,14 +4254,6 @@
     "published": "2026-08-10 12:11",
     "timestamp": 1786331465,
     "summary": "파두가 신입 및 경력 사원을 신규 채용하며 AI 반도체 분야의 영토 확장에 나섰다."
-  },
-  {
-    "company": "Google",
-    "title": "구글 '터보퀀트' 기술로 메모리 사용량 줄여 - 미주조선일보",
-    "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxPdUpsZlRab1NhOVQ5NFRJTUNjSnZ0cEgwMTdTaFZsZ0VMMVBzLVdlRkdUWWxrN3daTlU3blRRcFdmanNJYTVMb1dUVExSSHJSRWcyUC1tanpobHNheW9Ob0pqMkR3ZFRFOHp0QmxQWWR1WThUdTdnMHItaUQ5RGRZZmUxQXU3eWdYb1d6ZUtaYVQ4Y2xIVEJ4SEJoczByQQ?oc=5",
-    "published": "2026-08-10 11:26",
-    "timestamp": 1786328808,
-    "summary": "구글이 '터보퀀트' 기술을 도입하여 메모리 사용량을 절감했다."
   },
   {
     "company": "Qualcomm",
@@ -7702,14 +7710,6 @@
     "published": "2026-07-23 13:11",
     "timestamp": 1784779865,
     "summary": "삼성 파운드리가 4나노 공정을 풀가동하며 AI 분야에서 기술력을 입증하고 있다."
-  },
-  {
-    "company": "Samsung Foundry",
-    "title": "HBM4 베이스 다이가 칼 쥐었다… 삼성 파운드리, ‘아픈 손가락’의 반전 - 더쎈뉴스",
-    "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE5WeWxiaUF4cXZSRUdhNkxrRExIWlZMbFpGRWpUSHg0Vkc4THA3V1FGeUtwLTJYVXFZa3FDak4yb3E4dGYxMVhQM2dHRHV5czloa1R0UGNIVXlrUW5lNTNKMUV6Z3VTTnh3?oc=5",
-    "published": "2026-07-23 11:35",
-    "timestamp": 1784774131,
-    "summary": "삼성 파운드리가 HBM4 베이스 다이 기술을 통해 사업적 반전을 꾀하고 있다."
   },
   {
     "company": "Amazon",
