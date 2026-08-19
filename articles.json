@@ -1,5 +1,29 @@
 [
   {
+    "company": "Google",
+    "title": "구글, 반도체기업 마벨과 AI칩 동맹…최대 17조원 신주인수권 - v.daum.net",
+    "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFBiVW5DdEhSUWtvNWpveG9QekNEakpUdERRb2pTLWJrTkV0aHlKOTZ1X1Z5aEVFYzYxVk1sd1dCaXVWWEJCMjlPSWhRRG8yUFU?oc=5",
+    "published": "2026-08-20 02:37",
+    "timestamp": 1787161070,
+    "summary": "구글이 반도체 기업 마벨과 AI칩 분야에서 동맹을 맺었다. 구글은 마벨에 최대 17조 원 규모의 신주인수권을 부여한다."
+  },
+  {
+    "company": "Intel",
+    "title": "프레임워크, 인텔 와일드캣 레이크 적용 Laptop 12 공개 - 위클리포스트",
+    "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE5pWnpPQVJ1M01BdkRHeFVrc01uM2JvdkNHc2VLMGFPOHBqU0h5clMyTlRHNm94MDRNRTVIV2kyd1BMdTFldWZqTV9yTHBPbU5BcERyOXl6Q0VJWW1MeEJaNEtOQUFoYUlEeXNV?oc=5",
+    "published": "2026-08-20 01:42",
+    "timestamp": 1787157745,
+    "summary": "프레임워크가 인텔의 와일드캣 레이크 프로세서를 탑재한 노트북 신제품 'Laptop 12'를 공개했다."
+  },
+  {
+    "company": "AMD",
+    "title": "AMD의 Zen 7 아키텍처는 512MB의 3D V-캐시와 32개의 컴퓨팅 코어를 제공할 예정입니다. - GameGPU",
+    "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQNHpSTGZyM1hEZW9fRDJKdzduM3pDN2xic1FKdThFSzVMQkMyQnM1cjlhMkM3bHRpaS0wSEFmd0ZmTG14eXBQZHg3U21YNWNGODRQV2tKdFplRm9Rd1Z4V0pxNDlxQ0ZXY2o1ZmswOXFtSmNWYnZ1VmZzWTFjX3BvSVZISkRxdDFwS0Z5WjVoQ1plZjJaZUpvdHgzQ2x1czNaTWtPOTdpRE1kcWxtRVdmbzVVeFFmMU5iY0ZCZQ?oc=5",
+    "published": "2026-08-20 01:36",
+    "timestamp": 1787157367,
+    "summary": "AMD의 Zen 7 아키텍처가 512MB의 3D V-캐시와 32개의 컴퓨팅 코어를 탑재할 예정이다."
+  },
+  {
     "company": "AMD",
     "title": "AMD는 이를 높이 평가할 수도 있습니다. Radeon RX 10700 XT 9070 XT는 750달러인 반면, 이 제품은 1200달러입니다. - GameGPU",
     "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOUmFkaDRJdzhJeFFoUUN1REprcXlhZF9DR0VGbllOc0Z5cmVkeGM1eXJoeFpqOWZaWWpWQlQtbXBfc1htaFdJQjBZUTQwQ1U0QjFCbFJhcllKRUFqUndiUE1qUmNWU2U0M1dTcFllYXNoSVNiZlFqZjVTYU5Xb2ZuOWFOUXNtQVluY2NYSzIzLXNiZnVkQlZxM1ZfQ0wyY1BLTjhVN2c1dERzQ2M?oc=5",
@@ -22,6 +46,22 @@
     "published": "2026-08-20 00:18",
     "timestamp": 1787152696,
     "summary": "엔비디아가 북유럽 AI 데이터센터의 중개자 역할을 수행한다."
+  },
+  {
+    "company": "Marvell",
+    "title": "마벨테크놀로지, 구글과 AI칩 맞춤형 반도체 파트너십 확대…6년간 최대 1,200억 달러 매출 잠재력 - 매일경제",
+    "link": "https://news.google.com/rss/articles/CBMiRkFVX3lxTE9RdWxYMVBKWFdOTEV0eFU0VFlLNHlLcXlSVTZZck93ZXlpYVpHQUoyczNQeVU1UmZ1anhXQ1F1REhCWExnY1E?oc=5",
+    "published": "2026-08-20 00:11",
+    "timestamp": 1787152289,
+    "summary": "마벨테크놀로지가 구글과 AI칩 맞춤형 반도체 파트너십을 확대한다. 이를 통해 6년간 최대 1,200억 달러의 매출 잠재력을 확보했다."
+  },
+  {
+    "company": "NVIDIA",
+    "title": "\"중국, 엔비디아 'H200' 본토 반입 물꼬 텄다…바이트댄스·텐센트, H200 칩 첫 수령\" - AI포스트",
+    "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE1mLW9zSWNGamEzZ2pUVjdfd3pQN2lLbnE1Q0Y2S1BlRmZPYXQ5bFIzTVJpWGZnZXAyN0NoUUhfNkFJODU1X1NIV3A1SjM0RFZqMzJlUU1JZTR5bmhhOWpPMWxUYkFrb1p5ZTltMFFB0gFyQVVfeXFMTmlYOERieVdGb1ZPX19ocVVfaHFHWC11TmxrLUJUdnFrcm5NOEpUOVZEUE5XOEFnaGd5Tmd6aTJqZTRRVmZhdGNTRFozVmdYMjZzTkF1RmpxZGpFR1EtcFpfeVd3R1lGQVVTd24zVk5scU1R?oc=5",
+    "published": "2026-08-20 00:04",
+    "timestamp": 1787151862,
+    "summary": "중국이 엔비디아의 H200 칩 반입을 허용함에 따라 바이트댄스와 텐센트가 해당 칩을 처음으로 수령했다."
   },
   {
     "company": "Cerebras",
@@ -62,6 +102,14 @@
     "published": "2026-08-19 20:17",
     "timestamp": 1787138220,
     "summary": "삼성전자가 TSMC의 빈자리를 공략하며 파운드리 가격을 최대 15% 인상했다."
+  },
+  {
+    "company": "딥엑스",
+    "title": "샘 황 딥엑스 대만 세일즈 총괄(GM) (사진=딥엑스) - 전자신문",
+    "link": "https://news.google.com/rss/articles/CBMiwAVBVV95cUxOLUYtV1dlU29pVmt2QXBwd2tXRW5BcVdyN09kbTd4ZV9JblI5YjlOWjFsT2VydHFFb0hWS0NaMjZ5dWZ4NHhwbG5QLTZBc2lkWktJcUZDSUhtQ0JSLTBtTWlnTk9MUmFqaW5iMFU3eTdnZWl3VTNZSFNQYTlxdXZTVjNaYnFKSURWTVNZQnVJNEs1Z0dzY2JSaV81U1MwcUJZejc3QmU2V2pzVzY4dmp2azdwYzZpS1pfanZONm9oYW5RWS05YU9XZkJlOVR0aTZIYmRBVnhvNEVPeXdvM2NlVEZ2Q0lJWkJJNlF2MF9lQ1dTZTJmaHdEaDh2YkJJY0t3cW4yaF8yQ0k3c3E4RWZYZTBKQVBWemtNNnloLS1rXzhZQ1pFM3FsQV8yMmlubGxnelFBb05yb0RGa2V0a3BGam9xbGxDLU1aLVpMcXhHVEpJR0pnNElTcFNTWEkzVEZCd05SX1YwMEZGazNMTU5Sd0V1UkRpd1BQUTJmY1o1VTFfZEkwZng4Q1dqTXkxV2RJeG1yMjdMM0FiVFk0eFRkVUxtaUxGTVV4bnh3ajJGd3VGbTFXRHM1bk84eXpBWk9CWG9LLXlic2YyUUpZVnVGVlJNb1hsQlppNHUwcVA1dDlWMENwWDN5MGFqQlkzWmtZUzRuTEd0cU5fQ1VHRkp2SHItX2pfQk9XTXlyczNncXpYOGhzc292bkVmUmt3RHlWcTdaSXhBdk1TdGVkaWg5c0lzdk1KcTdoWUtKLTMyTDczaTlETFlQbkZ0a01nNG5jTG5FVFVnZi13M2FOSDB2ZktfVkR3REJEdHNUX1VwRDJac282aWU5MUYtU055WlhBbzBSVmFfNjZULVN4UGxIUzZac0pFQlR0YmI5MHlSUXVpdXEzdzI5YmNvTVNzMkU0S1U0UVdoWVFRVG81ZFgzRw?oc=5",
+    "published": "2026-08-19 18:51",
+    "timestamp": 1787133076,
+    "summary": "딥엑스가 샘 황을 대만 세일즈 총괄(GM)로 임명했다."
   },
   {
     "company": "Qualcomm",
@@ -798,14 +846,6 @@
     "published": "2026-08-19 01:30",
     "timestamp": 1787070641,
     "summary": "Alan Wake 2 게임에서 FSR 4 및 FSR 프레임 생성 기술을 통해 AMD 시스템의 FPS 성능이 향상되었습니다."
-  },
-  {
-    "company": "NVIDIA",
-    "title": "엔비디아, 오픈AI 데이터센터에 149조원 보증… AI 금융까지 움켜쥐나 - 서울신문",
-    "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTFBVRTBKVzBRa3JaZ2lmZlk2QWxvbElsMVZtZ01VSVFmeVVfU0w5NHAwMVNPdVBGYkpNSG0zY0tMeDB2MTBSd1ZCbEtjdGd5RlhwYlk5ZzlWSnluLTBES0NTSWFyUzFhdXNVSnRhTWVlWERYVWExTDZObk1WWQ?oc=5",
-    "published": "2026-08-19 01:12",
-    "timestamp": 1787069525,
-    "summary": "엔비디아가 오픈AI 데이터센터에 149조 원 규모의 금융 보증을 제공한다."
   },
   {
     "company": "AMD",
@@ -2672,14 +2712,6 @@
     "summary": "구글이 AI 기능을 강화한 스마트폰 신제품 '픽셀 11'을 출시한다."
   },
   {
-    "company": "AMD",
-    "title": "AMD, AI 칩 실탄 7조원 확보 나선다…사상 최대 채권 발행 추진│Global Money Club - 중앙일보",
-    "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1qUUV6Y3lrM0RhZEtwV3g0Q0R6ajV4Uk83NzFmc2pJbmlDcU1YamZOd3NWR092WDFFM2luRkcyOEZwSzBfZkdIR2JjbEd3bnR4YzYwZFV1dF9UMkE?oc=5",
-    "published": "2026-08-14 00:33",
-    "timestamp": 1786635186,
-    "summary": "AMD가 AI 칩 사업을 위한 실탄 확보를 위해 사상 최대 규모의 채권 발행을 추진한다."
-  },
-  {
     "company": "Groq",
     "title": "그록 4.6 최적화 3건, 챗 생산 환경 반영 - tokenpost.kr",
     "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5TejJ4M3JDM2xUVS1KcERURkx4Z290dEZmY1RBUnd3SnJLakdhdlZnTXp0Z1NNY2I5akNNN0lhLUI5MDZsVUxZdkZEdWVUTG8xaHBKQlk2OVhsMG1rYjNqT9IBZkFVX3lxTE1Ua0FnNVRyczlGMzMxcExLZEJGNWJiN0pGVVBjYl9WbmtBekJGcmYta1hGSGxHVzBNNnUzdVZ5bXpqYmtLTXNPakxJQUtJZ1ZMLUVBYmlOT2FZaFppZkU5b2lyeXBkQQ?oc=5",
@@ -2846,14 +2878,6 @@
     "published": "2026-08-13 16:28",
     "timestamp": 1786606089,
     "summary": "일론 머스크가 AI 매출이 나머지 사업을 넘어설 것이라고 언급했다. 그록에 직원들의 노하우를 학습시키는 작업을 진행 중이다."
-  },
-  {
-    "company": "Intel",
-    "title": "투모로 로보틱스, ‘인텔 인지니어스’ 협업 프로그램 선정…피지컬 AI 실증 추진 - v.daum.net",
-    "link": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE1IMDlrUG5MVVdGRFVJU0kzQ24xeS1uMVlhb1FicGQ5bGxRNG5tQ3ZocFAyNDhrc3BmcGhfc0RUaFUzOVRiX21LQndSQQ?oc=5",
-    "published": "2026-08-13 16:26",
-    "timestamp": 1786605965,
-    "summary": "투모로 로보틱스가 인텔의 협업 프로그램인 '인텔 인지니어스'에 선정되었다. 이를 통해 피지컬 AI 실증을 추진할 예정이다."
   },
   {
     "company": "Google",
@@ -3310,14 +3334,6 @@
     "published": "2026-08-12 13:39",
     "timestamp": 1786509583,
     "summary": "마이크로 디스플레이 핵심 반도체 모멘텀을 바탕으로 라온텍과 사피엔반도체가 동반 상승세를 보이고 있다."
-  },
-  {
-    "company": "딥엑스",
-    "title": "[단독] 뉴욕증권거래소 수장이 찾은 딥엑스…글로벌 자본시장서 주목 - 네이트",
-    "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFBPSTRnWEY2R19uT04xYXdFeUhnTENzSktCLVdlczgzbm51aTRKNUFod0V3eEhSQVZOYzVla01OOXJGY3RqcmZxZHZoNmU0RWJIOGd3?oc=5",
-    "published": "2026-08-12 13:35",
-    "timestamp": 1786509300,
-    "summary": "뉴욕증권거래소 수장이 딥엑스를 방문하며 글로벌 자본시장의 주목을 받고 있다."
   },
   {
     "company": "Google",
@@ -4422,14 +4438,6 @@
     "published": "2026-08-10 06:41",
     "timestamp": 1786311688,
     "summary": "삼성 파운드리가 HBM4, Broadcom, Tesla와 협력하여 5개 팹의 미래를 변화시키고 있다."
-  },
-  {
-    "company": "Google",
-    "title": "﻿구글 AI 지도부 개편과 인재 이동 의미 [윤석빈의 Thinking] - IT조선",
-    "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE52S1Q0YnF4TWFJQ01QalpmV2tSOGZ6QU1lN0EwM09ZRW9jYkxmNldwbTVqVFZBT2x6UWpMaWc2UThYTzNlQUFhemdHbXl3bmcwU3FpelFxMUZpRWdKUXdlMV9CRW5uUjlkM01ZdVNCSkrSAXRBVV95cUxPd0pZcFhtZUZ3OVRzR09KM0lZVDRwLTJuT2FrLU1tS1lPX1ZjbGw4UHRYOVo1SEZuRTl4bFJJTUlVYkdiTjJ0VVZFWFZQMGZyb2pNY3VvWlFZaklQakFKdHJuV2NxNDV3RjFyMkhrQld3N2pMcQ?oc=5",
-    "published": "2026-08-10 06:00",
-    "timestamp": 1786309200,
-    "summary": "구글의 AI 조직 지도부가 개편되었으며, 이에 따른 주요 인재들의 이동이 발생했다."
   },
   {
     "company": "Broadcom",
@@ -7854,13 +7862,5 @@
     "published": "2026-07-21 16:30",
     "timestamp": 1784619057,
     "summary": "일본 라피더스가 케이던스의 에이전틱 AI 기술을 도입했다. 이를 통해 2나노 공정 고객사 확보를 위한 경쟁력을 강화한다."
-  },
-  {
-    "company": "Silicon Motion",
-    "title": "Silicon Motion, DRAM이 없는 PCIe Gen5 SSD 컨트롤러 SM2524XT 출시 - StorageReview.com",
-    "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNZzJ3a2tTdmpaenBac0F6WjNaRHh3Z0JjSjlEVm16UkhxY2dIX2J6Qk5PRUNYajlQeF9DRG4wODJ0WUx2NHlEaE93dUhnX2tObDJORGdyMTVuYl81bEZkR1FPV1VpZGxYc0Zkd0dnZkVUbG9iUV9rWHAyMmpVVjh3RVg4Wk5mR2VjckNGaGpEU0d4QjRmRjRIaFA4ZGZVbVJDSjFSUGlqd2lEUVFLc0RBUtIBsAFBVV95cUxNZzJ3a2tTdmpaenBac0F6WjNaRHh3Z0JjSjlEVm16UkhxY2dIX2J6Qk5PRUNYajlQeF9DRG4wODJ0WUx2NHlEaE93dUhnX2tObDJORGdyMTVuYl81bEZkR1FPV1VpZGxYc0Zkd0dnZkVUbG9iUV9rWHAyMmpVVjh3RVg4Wk5mR2VjckNGaGpEU0d4QjRmRjRIaFA4ZGZVbVJDSjFSUGlqd2lEUVFLc0RBUg?oc=5",
-    "published": "2026-07-21 02:48",
-    "timestamp": 1784569727,
-    "summary": "Silicon Motion이 DRAM이 없는 PCIe Gen5 SSD 컨트롤러인 SM2524XT를 출시했다."
   }
 ]
