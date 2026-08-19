@@ -1,11 +1,67 @@
 [
   {
+    "company": "Intel",
+    "title": "삼전닉스·인텔 출신 뭉쳤다…AI 반도체 'iHW', 520억 투자유치 - 머니투데이 - mt.co.kr",
+    "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9YSlNnQTY2eklqNUVxS0lSb0hKaHZ5bDE4UHVKcC1ZWll4QXdtUEdqODVLX21xczRPRkxpc2xCUkZsZnFuU0Z2T3djUVo0dU1BZlJNUnVsdmYwWlJWRDZlY3F5Q2tYY0ZUcnfSAW9BVV95cUxNRXhleTdrUi1JT3loTGZJaVFHQlpzZmZuYmN5TWVzOXo1REt1NlB6TEt4SHRaenBNQXNRZWhGb0dzWm40cERmVzdYVkNLelZ4ejA3U08xaUUySHVONW01MDNoYVlJT2NRN2M2aTNhRlE?oc=5",
+    "published": "2026-08-19 11:30",
+    "timestamp": 1787106600,
+    "summary": "삼성전자, SK하이닉스, 인텔 출신 인력들이 모여 설립한 AI 반도체 기업 iHW가 520억 원 규모의 투자를 유치했다."
+  },
+  {
+    "company": "AMD",
+    "title": "AMD는 자사 플래그십 제품의 가격을 최대 2500달러까지 책정하는 것을 고려하고 있다. Radeon RX 10800 XT - GameGPU",
+    "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNNk5WMHVMR0lPZk5FRXJ5SlFWcWNEUFRtVGIyRXQzSUlXSDEzTmlfNnN2cTJxSVFMSGZmWjMxUkZ5cUpTY2VBSkR3VmZBT3pxSFUyVzItMy04UG0xSzdJU2p3ek9IeEM2bUJyU281eGVCVWhobUp3emU0QlJpSnJyYTYyQXFPdENrRDhUenBzOEJhSnBnUmRYdzgzampkMVRhR05DUDdKQTA3Zw?oc=5",
+    "published": "2026-08-19 11:20",
+    "timestamp": 1787106049,
+    "summary": "AMD가 자사 플래그십 제품인 Radeon RX 10800 XT의 가격을 최대 2500달러로 책정하는 방안을 고려하고 있다."
+  },
+  {
+    "company": "NVIDIA",
+    "title": "엔비디아 '루미너리' 등 최신 게임에 DLSS 적용 확대해 게이밍 경험 함층 강화 - gamefocus.co.kr",
+    "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBuLS03eDlsN2FnSEpHZ0ZiN28wRjM0NmJkS3RndE1RODlCbHRpTWlRZGhnUTlacnZKT0tfRGZwQTJFZDdTSU5mb2pwT1dVUFhIdlY3SlByUmw0TmRCOTA0ZQ?oc=5",
+    "published": "2026-08-19 11:17",
+    "timestamp": 1787105867,
+    "summary": "엔비디아가 최신 게임에 DLSS 적용을 확대하며 게이밍 경험을 강화한다."
+  },
+  {
+    "company": "Cerebras",
+    "title": "세레브라스 신제품 출시…엔비디아와 경쟁 - 연합인포맥스",
+    "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTFB5Ni1HanhBZUQtbTFpNTcxdlhvM3I4VS14RVVEci0xZnA3cENMNUlMeEZSdWp3bXhyU3BZaHF4aXhfM3BnTXU0NG5MR1FyZ29lZGFZQ25SQ1BPdnhFVUdTLVMwVGpNSVAzUDdtTWVwdFQ?oc=5",
+    "published": "2026-08-19 11:10",
+    "timestamp": 1787105414,
+    "summary": "세레브라스가 신제품을 출시하며 엔비디아와 경쟁 구도를 형성한다."
+  },
+  {
+    "company": "리벨리온",
+    "title": "KT, '모두의 AI' 출사표…다음·무신사·업스테이지·리벨리온 등과 연합 - 뉴시스",
+    "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE91NW9XZ1p5ZVhLQm9jcWtGY3Z5NE81ZTVqM1lWa2hmeXlRUE1BQjk0OUhuU1lFM092ekxRM0FaSmVMamUwSWxvVFZQTDI5d3pva1hvdEpSeThKdnBzZzVqX9IBeEFVX3lxTE1zcVNDVzUtNzdoOVVnOFpDSTZfTF9pN0VzQ2VXN0tQaEE2ZnR3OVNGRTBRQjQ1bWhYeG5uZUtlQVZuVE5OTE14d1E5OGdTb1JGN0F3WWg0bkVVd2w5dE1HYWRERHE1VEhhcHUwYXFjLXBaTHpQQ0c3MQ?oc=5",
+    "published": "2026-08-19 11:01",
+    "timestamp": 1787104873,
+    "summary": "KT가 다음, 무신사, 업스테이지, 리벨리온 등과 함께 AI 연합을 결성하고 모두의 AI를 추진한다."
+  },
+  {
+    "company": "NVIDIA",
+    "title": "유락, 엔비디아 '엔업' 선정…AI 포렌식 장비 연내 공개 - 블로터",
+    "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE5TRERKNUIzbEk3QXRDZEp6SWJFTExkX0Zad0ZpQUhWUDFmaGVQVmVIU29hZ25hLWlZbXZJZ3I2dFhqN0pSMDFFT1EzVDJQQ2tHUnp5QVd3V3UwX2cxMGJBdllIRHQ0RTRz0gFsQVVfeXFMTzlCVFhuZjE2YWhnUXE0VXJkOEJpYTRoQ2s0STJQakpLMVBrVDd1MlA5SWJqaDdQNXVSRkRfNWlJdVpJaVh0MGhMWFI0Q09DTG1nb3Jxd3NyUHZnX0NRTjZ5OTRPLUJRU3c5YjNo?oc=5",
+    "published": "2026-08-19 10:58",
+    "timestamp": 1787104734,
+    "summary": "유락이 엔비디아의 스타트업 지원 프로그램인 '엔업'에 선정되어 AI 포렌식 장비를 공개할 예정이다."
+  },
+  {
     "company": "NVIDIA",
     "title": "中, 5만개 자국산칩으로 1조 모델 훈련…흔들리는 엔비디아 아성 - 초이스스탁US",
     "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBPcWZVSDhWcjFZb3lJTGRkOGdxZHJuVDRuWVVaM0N4bFlXOVlhOWJfbG1fYl9xWlI5STlnQ3R6MGo3Y3VyNWJYbEN5a0JhWnoxVWhtdGpVSDU3Z0lvblpOVWp3bGc1S2c?oc=5",
     "published": "2026-08-19 10:35",
     "timestamp": 1787103311,
     "summary": "중국이 자국산 칩 5만 개를 사용하여 1조 모델 훈련을 진행하며 엔비디아의 입지가 흔들리고 있다."
+  },
+  {
+    "company": "Intel",
+    "title": "인텔 모바일 CPU의 첫 bLLC 도입, 차세대 레이저 레이크에서? - 보드나라",
+    "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE9OSVFURlVZQUFGN1NDcllXbHVsaWxqa3N0Vk1jT3lfSC1HUWNaclBsUlA5WDNtTlJNNXZCRzJ6cFB0MzZYQmRUbXlQckhVYUI2ZFMtVVlfQXpIV01OODl0TjNtRQ?oc=5",
+    "published": "2026-08-19 10:30",
+    "timestamp": 1787103051,
+    "summary": "인텔의 차세대 프로세서인 레이저 레이크에서 모바일 CPU 최초로 bLLC 기술이 도입될 예정이다."
   },
   {
     "company": "AMD",
@@ -56,6 +112,22 @@
     "summary": "오픈AI와 엔비디아가 오하이오에 원전 10기급 규모의 초대형 AI 데이터센터를 구축한다."
   },
   {
+    "company": "리벨리온",
+    "title": "KT 리벨리온 NPU에 자체 AI모델 결합, '소버린 AI'로 기업 AX 공략 - 비즈니스포스트",
+    "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE9ieUhfR0RyNm5ZbUtnYzZOZU81YVlVRkk3X3hVM1JQYXJUUE1yTnNVbFZ1Q1pVV2FiOU1CUG1OWW9QdjdLYUlZUGpjYkc4Ul9VaUpabG9PMjhELU9HcXhaMjNNRjVmVjZzZ0JIM1ZkVTUteDQ?oc=5",
+    "published": "2026-08-19 09:34",
+    "timestamp": 1787099691,
+    "summary": "KT가 리벨리온의 NPU에 자체 AI 모델을 결합하여 소버린 AI를 구현하고 기업용 AX 시장을 공략한다."
+  },
+  {
+    "company": "NVIDIA",
+    "title": "순환 거래 논란에 삐걱대는 엔비디아-오픈AI 동맹 - 포춘코리아",
+    "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE9oWU5jS3hpV1VEQUNqVEJjblVSNjZsNHo3c2JOU1RhSi1md0lZWWFibTNCdjd5RklIY1pwdXJ4LVpYWmNtVnpGMndXN0FSOEZWYk1SMnB1NFMwSFdRcC00MVo3N2NkaGRLV3daYVhFT2I4bXpJLWfSAXZBVV95cUxPaFlOY0t4aVdVREFDalRCY25VUjY2bDR6N3NiTlNUYUotZndJWVlhYm0zQnY3eUZJSGNacHVyeC1aWFpjbVZ6RjJ3VzdBUjhGVmJNUjJwdTRTMEhXUXAtNDFaNzdjZGhkS1d3WmFYRU9iOG16SS1n?oc=5",
+    "published": "2026-08-19 09:29",
+    "timestamp": 1787099387,
+    "summary": "엔비디아와 오픈AI의 동맹 관계가 순환 거래 논란으로 인해 흔들리고 있다."
+  },
+  {
     "company": "NVIDIA",
     "title": "젠슨 황 장녀 “어메이징”…LG·엔비디아, ‘피지컬 AI’ 협력 강화 - 더나은미래",
     "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE15VFVxbGJrQ1IzUzF2VW1lTWZ3WmE1VXlzLVV4Z3g1bTZqZDBpWVRIOVJVaVEwY1RXbFRyQmxUYkswa00zeVpSUHBvRGVqME9Ua1E?oc=5",
@@ -102,6 +174,14 @@
     "published": "2026-08-19 09:05",
     "timestamp": 1787097950,
     "summary": "NHN 팩토리X 서울 데이터센터에 엔비디아 GPU 7656장이 도입되어 액침 냉각 방식으로 운영된다."
+  },
+  {
+    "company": "Cerebras",
+    "title": "세레브라스(Cerebras), AI 챗봇 성능 향상을 위해 설계된 새로운 서버 칩 및 시스템 출시 - tradingview.com",
+    "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE0zcEMyNmNvRU9RTFVsN29JdVctd2NUdTJvczdZb0V6cDR3MlhiM2M1bUtvaDdZOWhzNUdZVjFVQlE1VHZlZUt1eE9rV2pnSFA2d2JqV1BEVXhPdkY1dVMzdmN1YzVHRkhKZ2h0RkkwZFhuTjM2SXlKMw?oc=5",
+    "published": "2026-08-19 09:00",
+    "timestamp": 1787097600,
+    "summary": "세레브라스가 AI 챗봇 성능 향상을 목적으로 설계된 새로운 서버 칩과 시스템을 출시했다."
   },
   {
     "company": "NVIDIA",
@@ -544,6 +624,14 @@
     "summary": "딥엑스의 NPU가 과학기술정보통신부로부터 우수연구개발 혁신제품으로 지정되었다."
   },
   {
+    "company": "Apple",
+    "title": "“하이닉스도 美 투자하는데, 中 메모리 쓴다고?”…애플에 서약서 쓰라는 美의회 - v.daum.net",
+    "link": "https://news.google.com/rss/articles/CBMiRkFVX3lxTE1ITUZtVFJQX2NvVFRhNDhDczRacGVpWlY4RnVCd1YxMHVoeWNuYXd5RWtBbnlpcWZXNFg3RENkNENCdmtQQ2c?oc=5",
+    "published": "2026-08-18 16:36",
+    "timestamp": 1787038562,
+    "summary": "미 의회가 애플을 대상으로 중국산 메모리 반도체 사용 여부에 대한 서약서 제출을 요구하고 있다."
+  },
+  {
     "company": "Marvell",
     "title": "소프트뱅크 업은 Arm…세레브라스·마벨 인수하나 - 매일경제TV",
     "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE1aN3lDWlB4aUcxQVViMTlLYnRvZk90YmdpdTJoWU9UN1p4MnR4N2pSUG1sSnEyVDVfdUtuN3JTNVlta3YzcVlRb05OZ195c1dJaE9EM1Vmei10ZjZibmFDeE1UV3FwcUtx?oc=5",
@@ -736,28 +824,12 @@
     "summary": "미 행정부가 애플에 중국산 메모리 반도체를 사용하지 말라고 경고했다."
   },
   {
-    "company": "NVIDIA",
-    "title": "엔비디아, 오픈AI에 149조 ‘보증 승부수’…GPU 150만개 초대형 AI공장 짓는다 - 중앙이코노미뉴스",
-    "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE5QVmNuTjNTNnRCemc1Uk5WZ3dzQlRUUEFTdU5fZ2FaTUxVT0ZXZTlzZ2JYUGlTMkZ4TXlwRmVtX2N5cEVGS1pWSEJ2VFhwTWYyMnZCdmFPVnZLbUdlZnV4bE5vY0RyVFV2WC13TjVpdlkydw?oc=5",
-    "published": "2026-08-18 13:51",
-    "timestamp": 1787028693,
-    "summary": "엔비디아가 오픈AI를 위해 149조 원 규모의 보증을 제공하고 GPU 150만 개를 투입하는 초대형 AI 공장을 건설한다."
-  },
-  {
     "company": "Apple",
     "title": "미 의회 \"중국 반도체 안 쓴다 서약해라\"...궁지에 몰린 애플 - YTN",
     "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFBDV3hPM3Bna2hJSUJ1Uk0yVm5ZX2tHMGczOTNmcDh2MFJaR182WmlIV2xTckdCQXZjcDF5LWRuQTlWUk9VRDNoN1lDZTNUQ2JBQ2JHY19LQy05TlduX0E?oc=5",
     "published": "2026-08-18 13:51",
     "timestamp": 1787028660,
     "summary": "미 의회가 애플을 대상으로 중국산 반도체 사용 중단 서약을 요구하며 압박하고 있다."
-  },
-  {
-    "company": "NVIDIA",
-    "title": "엔비디아, 오픈AI에 150조원 보증…“빅테크, AI ‘장부 밖 약정’ 눈덩이” [종합] - 이투데이",
-    "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE1lQWp0di1uaFVwaWMtczEzNG5yS1FLMnlJWDFTNTJQU2VRUnY3ZWMtbTZWUHFIdDhMaDZDOFdRdTlVMGczMmE4LXYydjlqNXl5bjZ0NA?oc=5",
-    "published": "2026-08-18 13:45",
-    "timestamp": 1787028300,
-    "summary": "엔비디아가 오픈AI에 150조 원 규모의 보증을 제공했다. 빅테크 기업들의 AI 관련 장부 밖 약정이 증가하고 있다."
   },
   {
     "company": "Apple",
@@ -782,14 +854,6 @@
     "published": "2026-08-18 13:28",
     "timestamp": 1787027280,
     "summary": "리벨리온의 NPU가 과학기술정보통신부로부터 혁신제품으로 지정되었습니다. 이를 통해 국산 AI 반도체의 공공조달이 본격화될 전망입니다."
-  },
-  {
-    "company": "NVIDIA",
-    "title": "LG전자, 엔비디아(NVIDIA)와 로보틱스 협업 가속화한다 - 사회적경제뉴스",
-    "link": "https://news.google.com/rss/articles/CBMiP0FVX3lxTE1KMEdid3U4X0duM3Fiak9rNm9rSmJXSEp0MUhpdTlSQ3JvbTl4T2lLYkdHTGF6ZWR0ZWtFakx0RQ?oc=5",
-    "published": "2026-08-18 13:26",
-    "timestamp": 1787027160,
-    "summary": "LG전자가 엔비디아와 로보틱스 분야에서의 협업을 가속화한다."
   },
   {
     "company": "딥엑스",
@@ -870,6 +934,14 @@
     "published": "2026-08-18 10:37",
     "timestamp": 1787017039,
     "summary": "AMD가 스페이스X와 뉴타닉스에 7.75억 달러를 투자하며 AI 생태계 확장에 나섰다."
+  },
+  {
+    "company": "리벨리온",
+    "title": "리벨리온 NPU, 정부 혁신제품 지정…공공조달 길 열렸다 - v.daum.net",
+    "link": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE9pU2hmdDRackFZcWoxRTFwQ1FZMzJBdlU2TDlndFl2QUMyQmNlSXhhLWI0c1c4ZGlFeU9jdjlmRjBYUHNvdkZ5aW83NA?oc=5",
+    "published": "2026-08-18 10:35",
+    "timestamp": 1787016911,
+    "summary": "리벨리온의 NPU가 정부 혁신제품으로 지정되어 공공조달 시장 진출이 가능해졌다."
   },
   {
     "company": "MediaTek",
@@ -1286,14 +1358,6 @@
     "published": "2026-08-16 23:54",
     "timestamp": 1786892040,
     "summary": "애플의 중국산 칩 탑재 계획이 무산됨에 따라 삼성전자와 SK하이닉스 등 국내 반도체 업계에 미칠 영향에 대해 분석한다."
-  },
-  {
-    "company": "Apple",
-    "title": "“중국산 메모리 쓰지마”… 美행정부, 애플에 제동 - v.daum.net",
-    "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE5EazZXMkUxUVBQSGJkVjVkMG9TNFJnR1NsY094eWJJVi1wR3Y2U1hSeUtKRG5NdEdaeTdLYUlxWFIxZ2x5VUQ1c2p1SkpPV0k?oc=5",
-    "published": "2026-08-16 21:58",
-    "timestamp": 1786885122,
-    "summary": "미국 행정부가 애플에 중국산 메모리 반도체를 사용하지 말 것을 요구하며 제동을 걸었다."
   },
   {
     "company": "Cadence",
@@ -2624,14 +2688,6 @@
     "summary": "오픈AI의 COO 출신 브래드 라이트캡이 퇴사했다. IPO를 앞두고 고위 임원들의 연쇄 이탈이 이어지고 있다."
   },
   {
-    "company": "Intel",
-    "title": "투모로로보틱스, 인텔 ‘인지니어스’ 프로그램 선정 - edaily.co.kr",
-    "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPSmZQR2o5eUlQSXFqTjVLdW1rY0NreXdjd1ZwWWZjYjhBeTlFdktja0c3d1pJNEt2QVlkN2N2V3VPbXN4a3dqeEdMS1B2dGlnUGZmSnpsVUY2R0pab2xVZnJXYmpGNVpoSURzRy0xbmJpbDJxQ3ZPQ2xiN3RsZm9BUg?oc=5",
-    "published": "2026-08-13 10:25",
-    "timestamp": 1786584334,
-    "summary": "투모로로보틱스가 인텔의 인지니어스 프로그램에 선정되었다."
-  },
-  {
     "company": "모빌린트",
     "title": "모빌린트, AI 반도체 '레귤러스' 공급 확대 - v.daum.net",
     "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE9SVjZ1NElqN1htX2VDQUV2bXlDa1RtSEJjMVpBLVQ5UlhLUVdoMWUxeVJaZXpEeGRNTTJodUc1d1o2Z2NteDAyYmZCZURQR0U?oc=5",
@@ -2646,14 +2702,6 @@
     "published": "2026-08-13 09:47",
     "timestamp": 1786582070,
     "summary": "모빌린트가 AI SoC 'REGULUS'의 양산 체계를 구축했다."
-  },
-  {
-    "company": "Intel",
-    "title": "인텔, 메모리 복귀 시사…인터포저 뺀 HBM 특허 공개 - g-enews.com",
-    "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNMU1iNnliUWpmVTl2Y05sOVVBZElDNkRPVkV5MjFkQ3ZxUjdjbnVVNFVFVjNiQlZhOUNsTlBlYjNKX0JJNzljazNDanJtTjZtWmhnVkpJcy05UWNNQkdXMGJvdnpzZ09ydUJiWm9nVTFWMmNKYUZJNnRLZGZlMlpGaHluWl95SlJs?oc=5",
-    "published": "2026-08-13 09:41",
-    "timestamp": 1786581684,
-    "summary": "인텔이 메모리 사업 복귀를 시사하며 인터포저를 제외한 HBM 관련 특허를 공개했다."
   },
   {
     "company": "모빌린트",
@@ -2678,14 +2726,6 @@
     "published": "2026-08-13 08:58",
     "timestamp": 1786579126,
     "summary": "모빌린트가 AI SoC 'REGULUS' 공급을 확대하며 온디바이스 AI 시장을 공략한다."
-  },
-  {
-    "company": "AMD",
-    "title": "자율주행 시장 진출하는 AMD…테슬라·엔비디아 겨냥(?) - dailycar.co.kr",
-    "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE9uX1lqblRfMElnVXRleW80NV9pWktTVWNnYVo5cE9aaGQyNVoxZ29kSWJ4dnQyMlFGdndNWWFWV20wblF0WElxQ3pfUjQ1cEp1SmlMQXpPc0pIc3lYanhZWTRJd3VjWURvNjBaNVNZTlVtZFhyZFE?oc=5",
-    "published": "2026-08-13 08:50",
-    "timestamp": 1786578603,
-    "summary": "AMD가 자율주행 시장에 진출하며 테슬라와 엔비디아를 겨냥한 사업 전략을 추진한다."
   },
   {
     "company": "Groq",
@@ -5848,14 +5888,6 @@
     "summary": "리벨리온이 공공 AI CCTV 분야에 국산 NPU를 처음으로 공급한다."
   },
   {
-    "company": "리벨리온",
-    "title": "[AI픽] 리벨리온, 공공 AI CCTV에 국산 NPU 첫 공급 - 연합뉴스",
-    "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9YUlQwQVM3OHVVU3JoSjRzWm1abHJCSGhxeHpLbEs0bUJSWDUtTlNWU2tKWGtiYkUxRHNlVzVjLTFhUlRnSndFbDdXYW1rNjA1eTB5Q2NGazFPZjDSAWBBVV95cUxOV21vRi1TM3JMdlJQS3lBWVFwb2xuVDNVQUkzZVdfdVBIQldhZm9taks3YVdNa0xJb2ZpMmVoemt6WXB6QXVZRzZfWkxGb01QYW10NXRHcTl3VmgxeENBV3U?oc=5",
-    "published": "2026-08-03 15:49",
-    "timestamp": 1785739752,
-    "summary": "리벨리온이 공공 AI CCTV 분야에 국산 NPU를 최초로 공급한다."
-  },
-  {
     "company": "Qualcomm",
     "title": "LB세미콘, 퀄컴 공급망 전격 진입 - 더스탁(The Stock)",
     "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5veDdrd09IMFpMeHlVcTcwaXR0aXBuUjdjVjdGbThycExUNGI4LVloaloyVzNOU0FwUEszamZFSGI2N19fNDVVeTdrSWo3WVROakIxeHdKRlpxclVNVHJxQl9iWVNTR3A5WUE?oc=5",
@@ -5880,14 +5912,6 @@
     "summary": "동운아나텍이 UCLA에서 진행한 D-Salife의 임상 결과를 9월에 공개할 예정이다."
   },
   {
-    "company": "리벨리온",
-    "title": "[Tech & Now] 삼성SDS, 2.5조원 '국가 AI 센터' 착공…리벨리온, 공공 관제용 NPU 공급 - ebn.co.kr",
-    "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE9xVXdRcEtpeEgtYmlKVk13aVJ6d0ZzOVA3WHVURGNGNG5FaGV1YWhvQnowaHlxNzhSa3c1cjZSeWVyaGREdjZaWlhVbFJxZ0dXU3lCV0RaVnl4YXY4aHJESHhMLWNJNVhI?oc=5",
-    "published": "2026-08-03 14:28",
-    "timestamp": 1785734935,
-    "summary": "삼성SDS가 국가 AI 센터를 착공하였으며, 리벨리온은 공공 관제용 NPU를 공급한다."
-  },
-  {
     "company": "Microchip",
     "title": "마이크로칩, GPU가 SSD에 직접 접근…AI 데이터센터 병목 줄인다 - etnews.com",
     "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTFBLOUx5bDlWRHhheEQ3Yk0xa0stUWlkanRnUTZJeGsySW9pRzdtUW9vMjdKUThWYXo0QVZvYTZhamNlZGZ4MUY5cV9LcDYxUQ?oc=5",
@@ -5910,14 +5934,6 @@
     "published": "2026-08-03 13:51",
     "timestamp": 1785732660,
     "summary": "자람테크놀로지가 66억 원 규모의 전환사채 전량을 소각했다."
-  },
-  {
-    "company": "리벨리온",
-    "title": "리벨리온, 국산 NPU 최초 공공 CCTV 전환 사례 구축 - 지디넷코리아",
-    "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9nMDd6SGZGSWZtUlo5c1B5eDE5QmNzck0tZ0NfTmJ2R2dnX2oxeG84WDZqSVFiZWg4TDNSdFN0NGtQWlZncHZDaFZfRGtjbXJ3MHpSQmR3?oc=5",
-    "published": "2026-08-03 13:47",
-    "timestamp": 1785732452,
-    "summary": "리벨리온이 국산 NPU를 활용해 공공 CCTV 전환 사례를 최초로 구축했다."
   },
   {
     "company": "Tesla",
