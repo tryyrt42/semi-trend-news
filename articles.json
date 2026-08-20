@@ -1,5 +1,29 @@
 [
   {
+    "company": "AMD",
+    "title": "정부·AMD 'AI동맹'… 亞최초 기술센터 한국에 설립 - 머니투데이 - 머니투데이",
+    "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE85Z2hRRWJJVnZQU2JuUTVZSW9OTE5tN0hNUXVlQUVQNk1OdVBUYm9kdEJ3Qm1wdDNCaFFtQTlBS1l6OHZJVHpiSTFrSVlTRDRUOV8zRmVHNUVQWkJYcHZkenlrOU5vNmfSAWxBVV95cUxQLVhTM3BMZU4yZEFXU2RQVVotazJrUUNhRHFBWUoxZUZjcGh2NDdzdHNxdjBWSlY3TnNlSmF1TGpXUEc5T2h0NXRfaHRaV2dsVE5tckdYTS1WX1hpYUh5akJxS1M1UzQwM1JiZzE?oc=5",
+    "published": "2026-08-21 03:30",
+    "timestamp": 1787250600,
+    "summary": "정부와 AMD가 AI 동맹을 맺고 아시아 최초로 기술센터를 한국에 설립한다."
+  },
+  {
+    "company": "AMD",
+    "title": "CXMT DDR5, AMD AM5에서 DDR5-9000 달성… 성능·수율 모두 가파른 상승 - 위클리포스트",
+    "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE8tNVp1Rk11ejZYdWgwTWJpNFdyN281R3hhSG1PT2tZMDIwejdDVnQ0cGVhMlZVZ3hnLTltSG1VOVRiYlZyWUZjaHhKZXRxZmRiaElNai1Mdk4yX2x4X1ZaOENGcUhZVTFVRVpv?oc=5",
+    "published": "2026-08-21 02:58",
+    "timestamp": 1787248694,
+    "summary": "CXMT의 DDR5 메모리가 AMD AM5 플랫폼에서 DDR5-9000 속도를 달성하며 성능과 수율이 향상되었다."
+  },
+  {
+    "company": "NVIDIA",
+    "title": "美는 H200 풀었는데 中은 본토서 막았다…엔비디아 못 놓는 베이징 - OBC 뉴스",
+    "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFB0R2FQWmlQY0tkZHFpRks4QU1FUUNmc2VTQ2U0TlNZS09TSWpobExudlJXRnl4eDlVeE9DYUdSeXh3VVhzWmNlcHJ0M1FmXzhOZFFKaU5aM0RxaEh0aVlPcFQ2V2Y2bFZT?oc=5",
+    "published": "2026-08-21 01:42",
+    "timestamp": 1787244152,
+    "summary": "미국 정부가 엔비디아의 H200 칩 수출을 허용했으나 중국 본토 내에서는 사용이 제한되었다. 베이징 당국은 엔비디아 제품을 지속적으로 필요로 하고 있다."
+  },
+  {
     "company": "Qualcomm",
     "title": "퀄컴 스냅드래곤 8 엘리트 Gen 6 Pro ES 샘플, 중국서 유통? - 위클리포스트",
     "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE9ITDZXODVGTG45eVhFM2FuWF83Z3NYZTE5TERfRS1hQWJ2ZU9pcFdnUlVqNS1pdmd2b2JKelN2VTRqRnktTGQ0VHJ2Ni1Xd0tNOGM2ZjBiTmxSV2V2a19aODBRaTFieWNZLThF?oc=5",
@@ -86,6 +110,14 @@
     "published": "2026-08-20 20:05",
     "timestamp": 1787223905,
     "summary": "메타가 애저 AI 서비스에 수천억 원 규모의 투자를 진행한다는 보도가 나왔다."
+  },
+  {
+    "company": "Intel",
+    "title": "[루머] 인텔 레이저 레이크, TSMC 2nm N2X 공정 사용 및 노트북에 bLLC 적용 예정 > CPU/MB/RAM - 쿨엔조이",
+    "link": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE5oUlJKbmY2UE5ud3ZvM3VLaE9oSlFlVmpiRTduZzZDYkoyQTFXN3phanFvc0FHbmh5bTRZM19xakVRd2Q4b185MkkxNFg?oc=5",
+    "published": "2026-08-20 20:01",
+    "timestamp": 1787223662,
+    "summary": "인텔의 레이저 레이크가 TSMC 2nm N2X 공정을 사용하고 노트북에 bLLC를 적용할 예정이다."
   },
   {
     "company": "Qualcomm",
@@ -489,10 +521,10 @@
   },
   {
     "company": "딥엑스",
-    "title": "딥엑스, 삼성전자·VOA·NIPA 출신 영입…홍보·대관 재정비 - news1.kr",
-    "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFBybnRHbGRzVjYyaWY0aEE1SWY4Y2gyaGRVZVNwakxZOXBkeXRvNm9kTjVrWG9SN1ZDUzNLby1VYjRGZHVpUHNyaWV6ckU5WlRrZ0R5d2Fybi03ZjJU0gFiQVVfeXFMT0tlaHROUUtlZl9xX2hxbFNlZER3c3JkZTRwYUdLaW9tcVQ4WTdIRWhHb09jbmhoVXRQb0dvNXZ4UEdwckpYSjdjSkFuVXhDWFczQzR1bTBDTElrel9xdl92akE?oc=5",
-    "published": "2026-08-20 14:01",
-    "timestamp": 1787202065,
+    "title": "딥엑스, 삼성전자·VOA·NIPA 출신 영입…홍보·대관 재정비 - v.daum.net",
+    "link": "https://news.google.com/rss/articles/CBMiRkFVX3lxTE1ZZk5kb0R0b0JMYlBQTWdHQzZxRW5DNE00LWk0NEVUckd5X2E3eHVLNzNzMGpVM1p4NmtyRWJIczVLQUlBQnc?oc=5",
+    "published": "2026-08-20 14:02",
+    "timestamp": 1787202159,
     "summary": "딥엑스가 삼성전자, VOA, NIPA 출신 인재를 영입하며 홍보 및 대관 조직을 재정비했다."
   },
   {
@@ -920,14 +952,6 @@
     "summary": "엔비디아의 데이터센터 GPU 점유율은 86%이며, TSMC 첨단 공정 매출의 77%를 차지한다."
   },
   {
-    "company": "NVIDIA",
-    "title": "원주미래산업진흥원, ‘NVIDIA Omniverse·Isaac Sim 워크숍’ 운영 - 치악뉴스",
-    "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE40Y0V0QV9TSWNZeUVubTBxRTd1VldBZ3hzcUdWVnFaemtwX2V3dDI1R0x2U2NzZ25UcWFscXVrdlRYODBSWHMwZkZMUUJfWmNiR0dVTGNIaU9ITGljLUF4SmJsQkE3TlVkQ3owMUxn?oc=5",
-    "published": "2026-08-20 07:54",
-    "timestamp": 1787180060,
-    "summary": "원주미래산업진흥원이 NVIDIA의 Omniverse 및 Isaac Sim 플랫폼을 활용한 워크숍을 운영한다."
-  },
-  {
     "company": "Cerebras",
     "title": "세레브라스, CS-4 공개… 웨이퍼 하나로 GPU 랙 추론 성능에 도전 - 위클리포스트",
     "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE05QlplUEc0OVAtRlY3MEZ2WE45TjdENDB4Y3JDNWlCc0pIOEE1OTNCemRjN2puQlJNZ0xKMk53aXJxelFkMlNzZ3JvTmRkWnVJVlVNVThmOHpZYXN1RDV2bWpyVFFwUWVhenpN?oc=5",
@@ -1264,14 +1288,6 @@
     "summary": "모빌린트가 해군 함정 50척에 NPU를 공급한다. 해당 제품은 해군 함정의 영상감시체계에 적용될 예정이다."
   },
   {
-    "company": "AMD",
-    "title": "AMD, 같은 전력으로 AI 연산 4배…2030년엔 '20배' 목표 - v.daum.net",
-    "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE93Uk9iOFRicjBsc0pwN1g1cE1tSUxCOWhydnBEV3pPbV92SUFlaE85N2tERDN1X1duOGVQVjRtS01CZU4zdnpWVjgxZ2dlMFE?oc=5",
-    "published": "2026-08-19 15:27",
-    "timestamp": 1787120847,
-    "summary": "AMD가 동일 전력 대비 AI 연산 성능을 4배 향상했다. 2030년까지 20배 향상을 목표로 한다."
-  },
-  {
     "company": "Qualcomm",
     "title": "퀄컴, 하노이 혁신 공간 조성을 위한 협력 확대. - Vietnam.vn",
     "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNYng5dHJHc3NybklkVlRkQXY3QVlVcEFTdzhYN01WLWZaeVQydUZHVFB0RXY3RTNmTUxTeFpKUzR3a0VlS1JVaHh4MVZ5TTBXNENhd2xmMDg4Z3lVTzk4bEFZdUFGSndPaVZ2Y0s3WHgtWVZjYzJsUDA2Z1NJaFdManVrUU4xVkNYVW9LMnA1TTZxeEdFSy1CTC1wVGFDRlloUkE?oc=5",
@@ -1454,14 +1470,6 @@
     "published": "2026-08-19 11:30",
     "timestamp": 1787106600,
     "summary": "삼성전자, SK하이닉스, 인텔 출신 인력들이 모여 설립한 AI 반도체 기업 iHW가 520억 원 규모의 투자를 유치했다."
-  },
-  {
-    "company": "AMD",
-    "title": "AMD는 자사 플래그십 제품의 가격을 최대 2500달러까지 책정하는 것을 고려하고 있다. Radeon RX 10800 XT - GameGPU",
-    "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNNk5WMHVMR0lPZk5FRXJ5SlFWcWNEUFRtVGIyRXQzSUlXSDEzTmlfNnN2cTJxSVFMSGZmWjMxUkZ5cUpTY2VBSkR3VmZBT3pxSFUyVzItMy04UG0xSzdJU2p3ek9IeEM2bUJyU281eGVCVWhobUp3emU0QlJpSnJyYTYyQXFPdENrRDhUenBzOEJhSnBnUmRYdzgzampkMVRhR05DUDdKQTA3Zw?oc=5",
-    "published": "2026-08-19 11:20",
-    "timestamp": 1787106049,
-    "summary": "AMD가 자사 플래그십 제품인 Radeon RX 10800 XT의 가격을 최대 2500달러로 책정하는 방안을 고려하고 있다."
   },
   {
     "company": "리벨리온",
@@ -2566,14 +2574,6 @@
     "published": "2026-08-16 06:05",
     "timestamp": 1786827934,
     "summary": "보스반도체가 차량용 AI 가속기 시장 공략을 위해 독일과 중국 완성차 업체를 대상으로 제품 평가를 진행하고 있다."
-  },
-  {
-    "company": "Intel",
-    "title": "ASUS TUF Gaming 16이 RTX 50 시리즈 그래픽 카드와 인텔 i7 칩을 탑재하고 베트남에서 공식 출시되었습니다. - Vietnam.vn",
-    "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOdlJSelVHQlZjNTFDaHc2NXh5SGc0NDZKa0xOQ0FXa3RKblZkYmFZanI2b3pKa2pIRmdLODlfMEFNbWFiR0xjbHoxaHZabDlVMFBYLWhoajNaQTdqQ211bjZ0Zngwc3hCQTNOLURWUW1oYVdXZl9zcVBUZFdVbF9INEZfM0NrV3drZjhreldONFo1SzV5Rm9aY3g2VGNwVktZMDM4OE0zN2NXMTZXMFMwZGJaTldUcmdP?oc=5",
-    "published": "2026-08-15 21:14",
-    "timestamp": 1786796060,
-    "summary": "ASUS TUF Gaming 16 노트북이 베트남에서 공식 출시되었습니다. 해당 제품은 인텔 i7 칩과 RTX 50 시리즈 그래픽 카드를 탑재했습니다."
   },
   {
     "company": "Groq",
