@@ -1,5 +1,29 @@
 [
   {
+    "company": "Broadcom",
+    "title": "브로드컴, AI 칩 금융 위해 700억~800억달러 차입 협의 - 네이트",
+    "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE5OUm5GcXNNQTRjdEM1UWhmYkRZTm42cWRQeXV0UE5yRC1Dd3RvNDY5WjJ5V29sUjVwSW5ndkxlZXJoY0Y4eXRMaUdURlhYSHFfbVk4?oc=5",
+    "published": "2026-08-22 06:40",
+    "timestamp": 1787348400,
+    "summary": "브로드컴이 AI 칩 사업을 위한 자금 조달 목적으로 700억~800억 달러 규모의 차입 협의를 진행 중이다."
+  },
+  {
+    "company": "Google",
+    "title": "Anthropic, 전 구글 칩 책임자 영입하며 자체 반도체 개발 추진 - Investing.com 한국어",
+    "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9sblBzTjR4LWdrRmYySnpvQUhuZ0RSQXNkVG1BbUJlcnhfTmxvZTBhY1JLS3JWZmpPNHdDd0NZY00tejItRV9BcGs4RGxYdWtlT3Q1aGsxeXZFM3dsNkJidk0zbmNtZHgxRmwzZnhod08?oc=5",
+    "published": "2026-08-22 05:45",
+    "timestamp": 1787345100,
+    "summary": "Anthropic이 전 구글 칩 책임자를 영입하며 자체 반도체 개발을 추진한다."
+  },
+  {
+    "company": "Intel",
+    "title": "국채 바이백의 이면은?…메모리 진출한다는 인텔[월가 백브리핑] - 한국경제",
+    "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBEVXZCQ1EySV8zRTR1RURaUlJ0Y2FSUXVuS3BSNXBoT01IcFMtVmg1VHEyV3JPMWxYLU9wNVV2Tk5yYjE4NUZOa19USGxnZjhmcHpOZHhKSGtyZw?oc=5",
+    "published": "2026-08-22 05:32",
+    "timestamp": 1787344350,
+    "summary": "인텔이 메모리 반도체 시장 진출을 추진한다는 내용의 보도이다."
+  },
+  {
     "company": "TSMC",
     "title": "샤오미 Xring O3, TSMC N3P냐 기존 N3E냐 두고 외신들 정반대 보도 - 위키트리",
     "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE05VGpLSVA2SmgtUVR1Uy04UzZVX0prcEtoemhhZVo2WkVycGkyVmFvVTB6cnBidmg2aFJIcW1LalRhdFpRd21rV3dvN2dGdWI2Rm1SLUlR?oc=5",
@@ -46,6 +70,14 @@
     "published": "2026-08-21 22:52",
     "timestamp": 1787320350,
     "summary": "엔비디아가 올해 말 중국 시장을 겨냥한 특별 AI 칩을 준비한다는 보도 내용을 부인했다."
+  },
+  {
+    "company": "NVIDIA",
+    "title": "NVIDIA, Cloverleaf Infrastructure에 소수 지분 투자 - Unite.AI",
+    "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPTWtGSWxhN3VBdno5bmgySTYwSmRTWnBPWHRUZ0pKc1FLeXZQc055cV9wbnR2ZzlqQld3RHZFSVJOVUZoRzlLSk9lRktONWVQMi0zVHZ2Tmpvc0l3WG9TekdBMTNmTXVPY0lsc3BpWk9lYkZaMUotanZHcGNHbkE5Nk54dVY0c2Q0?oc=5",
+    "published": "2026-08-21 22:46",
+    "timestamp": 1787319983,
+    "summary": "NVIDIA가 Cloverleaf Infrastructure에 소수 지분 투자를 단행했다."
   },
   {
     "company": "MediaTek",
@@ -688,6 +720,14 @@
     "summary": "울산의 제조 AI 솔루션 기업 마크로버가 엔비디아의 협업 트랙에 참여한다."
   },
   {
+    "company": "Google",
+    "title": "구글, 반도체 기업 마벨과 ‘AI칩 동맹’ - v.daum.net",
+    "link": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE8yYXFXUGE3WHBIQzl2aF9MWXVyS2o0eXVVY0dZTENHa1hZWG1fbHU3UkdvREFBSVpyc1I3WTh1cGZJSktoc25tNzRzcw?oc=5",
+    "published": "2026-08-21 00:32",
+    "timestamp": 1787239920,
+    "summary": "구글이 반도체 기업 마벨과 AI칩 개발을 위한 동맹을 체결했다."
+  },
+  {
     "company": "Groq",
     "title": "그록 4.6, 아마존 베드록에 일주일 만에 등재…4.5 건너뛰고 컨텍스트 반토막 - 위키트리",
     "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE91ZUczNjRCR05pTkp0eVdWVDB6eEE3ekVjSlNOaElEa2pSRzBzNXFsdTQzLVVacm1iaGt0SjY0aUl5TGMwdDlqODhibEpLNjBGc09DVmF3?oc=5",
@@ -944,14 +984,6 @@
     "summary": "배경훈 부총리가 특정 외산 GPU 의존 탈피를 강조하며 AMD와 퓨리오사AI가 반엔비디아 진영을 구축했다."
   },
   {
-    "company": "NVIDIA",
-    "title": "'엔비디아 의존 벗어나자'... 정부, AMD와 국산 NPU 실증 약속 - 한국일보",
-    "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE9tc25TMEstS2xiRjZKSGJENUJXN1l5X1VicFBHaW1yQ2FfRVhWQnNDbWdwRDVoRDNKSG5rNkNUaFpoaFhkQmxYODVSanRNclVTelF5Y2QyTDJRbWI4dXBBblNDVVZ1YkFlcmd3VVByUmpSWjjSAXNBVV95cUxPbXNuUzBLLUtsYkY2SkhiRDVCVzdZeV9VYnBQR2ltckNhX0VYVkJzQ21ncEQ1aEQzSkhuazZDVGhaaGhYZEJsWDg1Ump0TXJVU3pReWNkMkwyUW1iOHVwQW5TQ1VWdWJBZXJnd1VQclJqUlo4?oc=5",
-    "published": "2026-08-20 17:03",
-    "timestamp": 1787212980,
-    "summary": "정부가 NVIDIA 의존도를 낮추기 위해 AMD와 국산 NPU 실증을 추진한다."
-  },
-  {
     "company": "Intel",
     "title": "인텔 차세대 CPU, 이름까지 다 바뀌나… ‘울트라9 4950K’ 유출 - 아이러브PC방",
     "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTFAtaERRX1I0M19PQU9nQWJweHBTZEQwNGJhUVlVLWNWQ2hsa2ZQOFV5THIzay1kQkh0ZnJpd1BFVllZUjJiYUtfTnpWMGMzTFV6UFJaNzVOZ0lncFd6cnRSdWRJR090djBfLWpISzBxZw?oc=5",
@@ -1182,6 +1214,14 @@
     "published": "2026-08-20 15:03",
     "timestamp": 1787205798,
     "summary": "삼성전자가 미국 오스틴시로부터 애플 대비 2배 규모의 보조금을 확보했다. 현지에서는 삼성전자의 추가적인 보조금 지원에 대해 부정적인 기류가 형성되고 있다."
+  },
+  {
+    "company": "TSMC",
+    "title": "“대만 TSMC, 1.6나노칩 개발 성공…올해 4분기부터 양산” - v.daum.net",
+    "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE9uSmJ4OEl4RVE1QXFNSDlrR1dLQmM5aXN1M0F2QnVFVXlSM1FpS2ZIcWdFUUJkTVpFWV8ySy1obnpXN0tQLU1vc2xueGgzR0tXWTJIOQ?oc=5",
+    "published": "2026-08-20 14:54",
+    "timestamp": 1787205241,
+    "summary": "대만 TSMC가 1.6나노 칩 개발에 성공했다. 올해 4분기부터 해당 공정의 양산을 시작할 예정이다."
   },
   {
     "company": "Google",
@@ -1880,14 +1920,6 @@
     "summary": "모빌린트가 해군 지능형 영상감시체계에 AI 반도체를 공급한다."
   },
   {
-    "company": "TSMC",
-    "title": "아이폰 18 프로에 탑재된 A20 Pro 칩은 TSMC의 2nm 공정을 사용하여 성능이 18% 향상되고 배터리 소모량은 30% 절감됩니다. - Vietnam.vn",
-    "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxObk14eWg0c0dyckFVdHNTS3d1OHNOVXRpQjF1QlJWZlRvdGd5MkZaZzNkWmQwRW53RVBsc3duWEJKT2duQWtPa2dXY1c5TTRLSWpXWHAtX3hRam1NZ01SbmZTQzU4bGZUaGZJNWEtdFIwLWVXVndxUW1lSDEyZFlWYWVKbTlqWlpzZ1hCVm1ndUdQY1N0ZmxBa09xdVhQWTl4Ml9ITUs5cnJRc1M5SEFKeklFb20tTDgwSHpUcw?oc=5",
-    "published": "2026-08-19 14:52",
-    "timestamp": 1787118746,
-    "summary": "아이폰 18 프로의 A20 Pro 칩이 TSMC의 2nm 공정을 사용하여 성능 18% 향상 및 배터리 소모 30% 절감 효과를 냅니다."
-  },
-  {
     "company": "MediaTek",
     "title": "삼성 갤럭시 A08 사양 공개: 미디어텍 헬리오 G99 칩, 8GB RAM, 6,000mAh 배터리 탑재. - Vietnam.vn",
     "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOQzJIRVYwUTRmM2dLZXJ4SEZ4eVVMV2dvNXJpcy0waU1IZXhhSXRiNWd5dDZuNjk2dVIyU3ZFNzh6Sm92X3FLcV9IeVN2SkNoSG5rS0p0YmlCUkVRUS1lSmRDV1NjNVlsWVh5OGRrM1FXVmtiX3djTnZ1TUlweUNiM1AxU1dBWk1lN2c1SVVoYnl4aWhtWWk3YnVHdjBwQnhhNzlmU2s5YVdOTlFjb1E?oc=5",
@@ -2398,14 +2430,6 @@
     "published": "2026-08-18 16:19",
     "timestamp": 1787037578,
     "summary": "딥엑스의 NPU가 과학기술정보통신부로부터 혁신제품으로 지정되었다. 이를 통해 공공 및 국방 AI 시장 진출을 본격화한다."
-  },
-  {
-    "company": "Intel",
-    "title": "인텔 차세대 CPU 연내 출시 가능성↑ P코어에 신기술 탑재로 성능 향상 기대 - 아이러브PC방",
-    "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTFBUWm9fWnluWXh3Slh1THg3enB4Y2I5NktrNDl2aXlTLTJUbmlQejNLbXRlX1RxVGxBSWlKd29kYjJpYnBGU0ppeS1jX1p5SnlCNmlhTjRYMzRydVhGY083enlVZnhlU3hGWmtFZmlxZw?oc=5",
-    "published": "2026-08-18 16:10",
-    "timestamp": 1787037000,
-    "summary": "인텔이 차세대 CPU에 신기술이 탑재된 P코어를 적용하여 성능 향상을 도모한다. 해당 제품은 연내 출시될 예정이다."
   },
   {
     "company": "퓨리오사AI",
@@ -3080,14 +3104,6 @@
     "summary": "에이직랜드가 상반기 매출 273% 급증을 기록하며 영업이익 흑자전환을 달성했다."
   },
   {
-    "company": "Google",
-    "title": "[클라우드 월드] 업스테이지 '솔라 프로 4' 공개·KOSA '피지컬 AI 예산 확보' 요청·아이티센클로잇 '충청 유니버시아드 파트너십'·딥엑스 'DX-M1' 양산·아이티센CTS '상반기 흑자전환'·구글 '제미나이 3.7 플래시' 공개·오픈AI '게임 빌더스 서울' 개최 - 뉴스웍스",
-    "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE1rRGkzaGlFTDc4cGdVSlRmMzBfbG1TRWNtMXVPcWtnRUZaUDhJdEdYcGhGdzFWVnprN0FjSjZWNXhPQjlnTnRtdlF0UXlnT0JJbi1GQWZjcXdzeGpVeS1MamowVjJTckNSTTRHSkk5VdIBc0FVX3lxTE5FQ3h5NnZTR2xhX0VFS0RycUVhOTJPRzg0NS1vYkd6RUFDSGF2akV1OEx3OGF0bTlSdjd1dUpwc3B1dk9kNmtoS1k1SktMMHYyWHk3Y3BSTV83R016bTIyMVBieENHd3pJOEtPYjlUdk9qSHc?oc=5",
-    "published": "2026-08-14 17:29",
-    "timestamp": 1786696177,
-    "summary": "구글이 새로운 AI 모델인 '제미나이 3.7 플래시'를 공개했다. 해당 모델은 구글의 최신 AI 기술 제품군에 포함된다."
-  },
-  {
     "company": "망고부스트",
     "title": "위존, DPU 기반 AI·HPC 인프라 사업 강화…망고부스트와 전략적 파트너십 체결 - 테크월드",
     "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE1QWEpoenhoUF9YSGNyZlVzSkg3MWhHcTJfQ0ZEN25VOGhXTEhQSHQ2TXowTTBNdU14T3M0bDRvNzNEbm9WeXotUVg5NnV4VVRvRzNrM2xnSHNLcFd0VncxQWFXaGpTaFRw?oc=5",
@@ -3126,14 +3142,6 @@
     "published": "2026-08-14 16:29",
     "timestamp": 1786692540,
     "summary": "인피니언이 산업 자동화 애플리케이션에 활용 가능한 소형 솔리드 스테이트 아이솔레이터 제품군을 새롭게 출시했다."
-  },
-  {
-    "company": "Google",
-    "title": "[단독] SKT AI '에이닷', 구글 글래스 적용되나…PoC 진행 - MTN 머니투데이방송",
-    "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE1BdVFzMWNnenNFUi1oUnhoZXFXRWVlZF8zR3ZIdVJfYU1XMDFQMUlSSDc0SjlSUkhzcGU0SVFfWnZFamIxVFU1M20zZVViMTRuY05QWTdEaTJFRWpPU1BYMm52Tmo5aFprNnh1NE1lcHg5bVI4?oc=5",
-    "published": "2026-08-14 16:21",
-    "timestamp": 1786692119,
-    "summary": "SKT의 AI 서비스 에이닷을 구글 글래스에 적용하기 위한 기술 검증(PoC)이 진행 중입니다."
   },
   {
     "company": "세미파이브",
@@ -5686,14 +5694,6 @@
     "published": "2026-08-06 15:03",
     "timestamp": 1785996180,
     "summary": "ADI와 AMD가 통합 센싱·제어·컴퓨팅 플랫폼을 선보였다. 이를 통해 로봇 개발 복잡성을 줄이고 구현 속도를 가속화한다."
-  },
-  {
-    "company": "Broadcom",
-    "title": "중국산 부품 제재 카드 꺼낸 미국···엔비디아·브로드컴·마벨 공급망에 드리운 그림자 - Benzinga",
-    "link": "https://news.google.com/rss/articles/CBMixgJBVV95cUxOdzRHaHZQdGhiTGJEQ2ZmRFF2MzVQR0MyWWF5VWtiU3R4R1oxVWQtVW9yYjdOS2xOV1lkakVhbFdBR0JZUVBCNlhUSE41eFZmTDhRMUthZU0tdzdrTkZUdnk3Y2hPcS1KV0lrbzRHNWVsMERwaW9hVlhELV9uME9UcklVcGhZd3VwR0k3cmsyV2FRTnN6cXE4MUVRZTlYLWxiWWF3aVFha2IybUdmQmpYWGVmNTBMU1R5M19PRlZjSU1iTnVNbm1iSjFjSFJSaFJwZUR6Rmx2QmN1WWphMTJnRHg1c0tHSDVrZGE0Sy1pMnBFVEs3OTFFMmZQaXJsV2dTX3UtS0t3aFVpQ0VheE5XVVc4ck5lWFJHeFZpMG85NVJJc1VmMFY0UGQtSzlpTl9ZRlZRMXpUenNNNjlmU1NZb3BvWUhzUQ?oc=5",
-    "published": "2026-08-06 14:37",
-    "timestamp": 1785994669,
-    "summary": "미국 정부가 중국산 부품에 대한 제재를 검토하면서 엔비디아, 브로드컴, 마벨 등 주요 반도체 기업의 공급망에 불확실성이 커지고 있다."
   },
   {
     "company": "퓨리오사AI",
