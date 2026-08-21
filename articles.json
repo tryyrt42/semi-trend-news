@@ -1,6 +1,14 @@
 [
   {
     "company": "NVIDIA",
+    "title": "엔비디아, 풀사이드 “모델 팩토리”에 60억달러 쏟아붓고 직원 109명 영입한다 - 위키트리",
+    "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9jWWNFUHUtdW15dmNGaWE2UDZFUGYya0NnTGoxNG51ZTV6OEVkOVFYRTFqdzNpSkFOcVpqZ2ZQcUo4X3ZCeC1zQXRJSm1sZW0yQVNxOVB3?oc=5",
+    "published": "2026-08-22 02:24",
+    "timestamp": 1787333040,
+    "summary": "엔비디아가 풀사이드의 모델 팩토리에 60억 달러를 투자하고 직원 109명을 영입한다."
+  },
+  {
+    "company": "NVIDIA",
     "title": "웨이모, TSMC 5나노 자체 칩 첫 공개…1000TOPS로 엔비디아 토르와 맞선다 - 위키트리",
     "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5ONTNIcTlyRHlWRk5sVjJ5YW5MemRtR2M3enhXdWNZZEVLR0dQQ3VGYU9NUEFZcXpuN3dLV1hHb2NzR2l3d013cDlUREE0NWpqYmZKVHVB?oc=5",
     "published": "2026-08-21 23:30",
@@ -174,6 +182,14 @@
     "published": "2026-08-21 15:29",
     "timestamp": 1787293774,
     "summary": "AMD의 Adrenalin Edition 26.8.1 드라이버에서 절전 모드 오류 및 PC 재부팅 현상이 발생하고 있다."
+  },
+  {
+    "company": "AMD",
+    "title": "AMD Adrenalin 26.8.1 WHQL 드라이버 출시 > 그래픽카드 - 쿨엔조이",
+    "link": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE4yZDlkcnAyaVFLYzlQYzZpM3NqWnpZVVd5cHhQakhQZE8xa1B2cFdVSjRQVDA4dm16RUFlT09MR1ltdktOcFZ5TEhsOEE?oc=5",
+    "published": "2026-08-21 15:15",
+    "timestamp": 1787292909,
+    "summary": "AMD가 그래픽카드용 Adrenalin 26.8.1 WHQL 드라이버를 새롭게 출시했다."
   },
   {
     "company": "Qualcomm",
@@ -432,6 +448,14 @@
     "summary": "브로드컴이 600억 달러 규모의 부채 조달을 위해 대주단과 협의하고 있다."
   },
   {
+    "company": "Broadcom",
+    "title": "\"브로드컴, 84조원 부채 조달 협의중…엔트로픽 수혜\" - v.daum.net",
+    "link": "https://news.google.com/rss/articles/CBMiRkFVX3lxTE1xclNuZXVlWDhfVkI4cHUtVUtob2hSd2VrSHZWLUFBODNDWE9HczBlY3ljVnViVk1lWVBmTHRjV0hRNnVDNmc?oc=5",
+    "published": "2026-08-21 08:40",
+    "timestamp": 1787269245,
+    "summary": "브로드컴이 84조 원 규모의 부채 조달을 위해 협의 중이다. 이번 조달은 엔트로픽 관련 수혜와 연관되어 있다."
+  },
+  {
     "company": "NVIDIA",
     "title": "엔비디아, 700조 규모 펀드사업까지⋯고객사 GPU 구매자금 조달 - 엠투데이",
     "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE8weWItY1AzZF9jTTZrVmFEWUE2LU9MX2tJemNqdC1GeXFJRk9UTmZqM3JZLXpNbWhaODR6T2oyeWplaWttQmZfeGs2c29nNmo1NVI1SjZQbV9FYzhocGpQaV9YWlRQSHhZdUZ3VjdkMNIBc0FVX3lxTE5xZGI4a0NDdkNVR2paTURYSkQ5TENRZFo0OVdyRG94WlRlT00xY0IzSWpPZ3d5VzVJMUJIVjRwZkdZU0dqUmN2d21HSUptWGlCOUd6YjlVUmFqNUlOc2NwX3RlVE9tRjNkdW1MLTBSbXV2Qk0?oc=5",
@@ -446,14 +470,6 @@
     "published": "2026-08-21 08:28",
     "timestamp": 1787268480,
     "summary": "엔비디아가 중국 맞춤형 AI 칩을 출시할 계획이 전혀 없다고 공식적으로 밝혔다."
-  },
-  {
-    "company": "Broadcom",
-    "title": "\"브로드컴, 84조원 부채 조달 협의중…엔트로픽 수혜\" - 연합뉴스",
-    "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBjd2J0VWNNNFZsbFAtcUdYa2hUdFdvNExCN2QtYzd4c3llMjgxVllPdm44Zk1RbG9SZUcwRHVLMmFBUjcxazZaRl9UbUpfb3N3aEpnbVNYR0g4YmkwM0h4VNIBYEFVX3lxTFBjd2J0VWNNNFZsbFAtcUdYa2hUdFdvNExCN2QtYzd4c3llMjgxVllPdm44Zk1RbG9SZUcwRHVLMmFBUjcxazZaRl9UbUpfb3N3aEpnbVNYR0g4YmkwM0h4VA?oc=5",
-    "published": "2026-08-21 08:21",
-    "timestamp": 1787268075,
-    "summary": "브로드컴이 84조 원 규모의 부채 조달을 위해 협의 중이다. 이번 조달은 엔트로픽 수혜와 관련이 있다."
   },
   {
     "company": "Broadcom",
@@ -992,14 +1008,6 @@
     "summary": "AI 수요 증가에 따라 삼성 파운드리의 가치가 상승하고 있으며, 이에 따른 흑자 전환 기대감이 제기되고 있다."
   },
   {
-    "company": "NVIDIA",
-    "title": "[LGX엔비디아 로봇동맹 ①] LG전자, 제조 노하우로 휴머노이드 키운다 - 뉴스투데이",
-    "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFAwOE9NbW9faElYZzdzN1VVU1pUXzhjcFlwcnRsaEZGajR5NklJdk1nT29DV1FnYm5VYldTOC1tSDQ2RjhMUklmbl9aUGFGeUNrMGpNSzJxMXdNd3FBRHc?oc=5",
-    "published": "2026-08-20 16:19",
-    "timestamp": 1787210340,
-    "summary": "LG전자가 엔비디아와 로봇 동맹을 맺고 제조 노하우를 활용해 휴머노이드 로봇을 개발한다."
-  },
-  {
     "company": "TSMC",
     "title": "대만 TSMC, 1.6나노칩 개발·검증 완료…올 4분기 양산 - v.daum.net",
     "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE9SQS1uZkRKVGtBWXJnLXNsc3RINGhZbllpREY1ZmxVMGlUMUc1U2NDTTQ1eVlwcndqZElsb1lreFpBZTNqeGdTZjZOWkQ3VDVUaTJtaw?oc=5",
@@ -1382,14 +1390,6 @@
     "published": "2026-08-20 10:00",
     "timestamp": 1787187600,
     "summary": "정부가 AMD와 협력하여 국산 NPU 생태계 육성에 나선다. AI 시장의 중심이 학습에서 추론으로 변화함에 따른 조치다."
-  },
-  {
-    "company": "AMD",
-    "title": "AMD와 협력 후속 논의 나선 정부…국산 NPU 활로 찾는다 - 머니투데이 - 머니투데이",
-    "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTFB3S2NQMm4zcUx6aVFrcUFMLTNiWTJ4QllYc1BPeWRUZEhVN0JkQ29vREgtRmp4MzZITUdOMUlHSmZnbmtDQ1A1WERVSUlXSVNweURCTjZQb2cyN1JSc21RZExVS0JNTkpmVzRJV9IBbEFVX3lxTFB3S2NQMm4zcUx6aVFrcUFMLTNiWTJ4QllYc1BPeWRUZEhVN0JkQ29vREgtRmp4MzZITUdOMUlHSmZnbmtDQ1A1WERVSUlXSVNweURCTjZQb2cyN1JSc21RZExVS0JNTkpmVzRJVw?oc=5",
-    "published": "2026-08-20 10:00",
-    "timestamp": 1787187600,
-    "summary": "정부가 AMD와 협력 후속 논의를 진행하며 국산 NPU 활로를 모색한다."
   },
   {
     "company": "Google",
@@ -7942,13 +7942,5 @@
     "published": "2026-07-23 04:22",
     "timestamp": 1784748170,
     "summary": "아마존이 AI 조직 인원을 감축했다. 다만 AI 모델 구축은 여전히 중요한 과제로 유지한다."
-  },
-  {
-    "company": "Amazon",
-    "title": "아마존, AGI 조직 일부 감원…AI 투자 '선택과 집중' - 파이낸셜뉴스",
-    "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5LelVhYW1IeGhtaGh1aGVqR0Z0TnFmbWdrM1ppUlRCckkybjZFUTFDSGQ2TGVJVHhiSS1zVG1PTnRvTFdIdTZsWTlocDJaY0FhREFtNGVPYUF0dw?oc=5",
-    "published": "2026-07-23 02:38",
-    "timestamp": 1784741902,
-    "summary": "아마존이 AGI 조직 일부를 감원하며 AI 투자에 있어 선택과 집중 전략을 취하고 있다."
   }
 ]
