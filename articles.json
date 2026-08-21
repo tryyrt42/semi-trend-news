@@ -1,11 +1,43 @@
 [
   {
+    "company": "Qualcomm",
+    "title": "퀄컴, 세르지오 부니악 총괄 부사장 겸 AI 그룹 본부장 선임 - SR타임스",
+    "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE1fTThGWURBUEtPcVVCcFNXZzFiWVB3OUF2OTVWWUNQT0kxZzR4NFBRMVRXU211VXZBWlAxWVZlaE94T25ONnJOMTdFaFFDNGpYR1BzdVVRMXdEaWhnZ2FDWUVWTGd1c01t0gFrQVVfeXFMTjQyYzR1ckw0MzBpUHRxRHJINndZWU5PYzl5OTlfQjNhdWdYMkM1WFZBT213bGxPdEFOb09HR0lsYndvS3VBb2VlRU1NR1cyTVRla3ROT1d6OFZYTjBDa19FXzRpbFc1UEEweFE?oc=5",
+    "published": "2026-08-21 18:30",
+    "timestamp": 1787304628,
+    "summary": "퀄컴이 세르지오 부니악 총괄 부사장을 AI 그룹 본부장으로 선임했다."
+  },
+  {
+    "company": "Intel",
+    "title": "인텔 “전세계 기업, 로보틱스 도입에 관심 높지만 실제 운영 준비는 부족” - 디지털경제뉴스",
+    "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5qbmY3MWpPZkFHeW9xdE9nbTM0VjAwQ1pVX2prZGFQV25JaUI0VzFYRU1iR2FwUTV4b1hjUEpIRW5sZVpRR1VVaG43MUJTb3hxVXpoRDhWTWtQVjNlQlBCN3cxa0VJOXA3emc?oc=5",
+    "published": "2026-08-21 18:01",
+    "timestamp": 1787302891,
+    "summary": "인텔은 전 세계 기업들이 로보틱스 도입에 높은 관심을 보이고 있으나, 실제 운영을 위한 준비는 부족한 상태라고 분석했다."
+  },
+  {
+    "company": "Google",
+    "title": "구글, 마벨과 TPU 반도체 공동개발…최대 122억 달러 지분 옵션 - 와우테일",
+    "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE14YVdFYWFZZHlVcVBDb1EwbEhMNVpRdVFDR2FRd0tXMHk5ZzdOMHgxTmthY1JwRVMxM3U5NFdjc2NVT2p6YUlrVFVPOEdvNzA?oc=5",
+    "published": "2026-08-21 17:56",
+    "timestamp": 1787302587,
+    "summary": "구글이 마벨과 TPU 반도체를 공동 개발하며, 최대 122억 달러 규모의 지분 매입 옵션을 부여했다."
+  },
+  {
     "company": "NVIDIA",
     "title": "중국 맞춤형 AI 칩 재진출설에...엔비디아 \"중국 전용 LPU 로드맵 없어\" - AI타임스",
     "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBpaUo3ai1CaEVpU25JX1ZNTEd2OHRCTnhBM0NuSHJDNnh3UXpDY0tJajNNOTNlbDJkMHQ4ZjJTYVF6enVqNFVNbE9ndnl1a1FLQ2Z3MTEyRGJmYy10bEltcTdZZWIwX3B1dGc?oc=5",
     "published": "2026-08-21 17:22",
     "timestamp": 1787300537,
     "summary": "엔비디아가 중국 맞춤형 AI 칩 재진출설에 대해 중국 전용 LPU 로드맵이 없다고 공식 입장을 밝혔다."
+  },
+  {
+    "company": "NVIDIA",
+    "title": "엔비디아, 리벨리온과 기술협력·투자 논의… 인수 가능성도 거론 - IT조선",
+    "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5TYVA2YnJMTDkycW43azBHN0h3STBIbmZCVnVIeU5MSUpQU0dfc0ZyYThLMG9nQW5SX2kyT2hibUtIdU5BTW1XVHl3Mms3eXc3VzNudkxaRklBZF9LY3VIQWVkYjVMMGZFSVVYZWxpbGHSAXRBVV95cUxQdXpvZmUzOXhXamVfZmpnb1BNYS1VSkJkNEoxMkQzejduSEhOR2dSTVU3SFVHUlJfUXZRX05NR1NsZmw2bWNTbzlSMG5tZ29jVzZpV0dobHpzR3dWQkFBeEh0SWVvNEdybjFMUGI2VkRwVjd5QQ?oc=5",
+    "published": "2026-08-21 17:20",
+    "timestamp": 1787300423,
+    "summary": "엔비디아가 리벨리온과 기술 협력 및 투자 논의를 진행 중이며, 인수 가능성까지 거론되고 있다."
   },
   {
     "company": "Marvell",
@@ -30,6 +62,14 @@
     "published": "2026-08-21 16:08",
     "timestamp": 1787296080,
     "summary": "윕스가 삼성과 TSMC가 선택한 K-IP 기술력을 바탕으로 글로벌 반도체 기업들의 IP-AI 파트너로 선정되었다."
+  },
+  {
+    "company": "리벨리온",
+    "title": "라이너-리벨리온, 'K-AI' 풀스택 수출 동맹 - v.daum.net",
+    "link": "https://news.google.com/rss/articles/CBMiRkFVX3lxTFBLc0hTcFJLTFcyYnhlTEE3eEhncUUtTUVzY2c0dmNjc0ZrZ2lGSEZ2TzRVLXI1S0N2SFdNYWlpRU8tb1VyTWc?oc=5",
+    "published": "2026-08-21 16:01",
+    "timestamp": 1787295666,
+    "summary": "라이너와 리벨리온이 K-AI 풀스택 수출을 위한 동맹을 결성했다."
   },
   {
     "company": "Broadcom",
@@ -62,6 +102,14 @@
     "published": "2026-08-21 15:29",
     "timestamp": 1787293774,
     "summary": "AMD의 Adrenalin Edition 26.8.1 드라이버에서 절전 모드 오류 및 PC 재부팅 현상이 발생하고 있다."
+  },
+  {
+    "company": "Microsoft",
+    "title": "[위크픽 클라우드] 정부 ‘개방형 AI 인프라’ 육성 시동…MS, VM웨어 번들 종료 - 아이티데일리",
+    "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE1rd29ES3oxLUFCVUFtLVBQaWxXZ2J1bG5QWnQxWTJHdVEwYkxjLU5UVWJLa1VMYW5na3pZenQ5YmkxU25qRGpncmZqY3EyVlNIU1hucWYtMnQ4SThvX0tkNTJkMFNMQ3Bh?oc=5",
+    "published": "2026-08-21 15:01",
+    "timestamp": 1787292084,
+    "summary": "정부가 개방형 AI 인프라 육성을 시작한 가운데, 마이크로소프트가 VM웨어 번들 제공을 종료한다."
   },
   {
     "company": "NVIDIA",
@@ -966,14 +1014,6 @@
     "published": "2026-08-20 15:15",
     "timestamp": 1787206500,
     "summary": "엔비디아가 북유럽 지역에서 데이터센터 구축을 위한 매치메이커 역할을 수행한다."
-  },
-  {
-    "company": "NVIDIA",
-    "title": "\"엔비디아 종속 막자\"…정부·AMD·K반도체 '연합 전선' 구축(종합) - 뉴시스",
-    "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFAzSzVEUmt2cGJsWlBCWGJlQ05UV2t2WDhhRy1kV0xocVZVNkZyVG5yempFVHlhSTFkaEYyMWVpWjljVFBRUXdpdmxLYTN3TjVRR0FKajFYYXIxRUptT2NuZdIBeEFVX3lxTE9rWS0wRFlYVEJqMTVFVmtUb1Z3YnkzaS1kUnNoMFhVYjVvZUVEYVI4Zk0yTTFnOXRrWW9MOEFZdV9LRnBhZWtPWHc3Nkp1cjBWdkxPeGZvNml6dUFKR01YTW5TeDJ4TUxiWGZQSUpzRW9sb2hxclZJeA?oc=5",
-    "published": "2026-08-20 15:13",
-    "timestamp": 1787206391,
-    "summary": "정부와 AMD, K반도체 기업들이 엔비디아에 대한 종속을 막기 위해 연합 전선을 구축한다."
   },
   {
     "company": "AMD",
@@ -2552,14 +2592,6 @@
     "summary": "매그나칩이 신규 6세대 600V Super Junction MOSFET 2종을 출시했다."
   },
   {
-    "company": "Intel",
-    "title": "HBM 메모리, 대만 대신 말레이시아로.. 인텔 Project Pelican 가동 신호? - 케이벤치",
-    "link": "https://news.google.com/rss/articles/CBMiSEFVX3lxTFBXYTh6Rk9yc2ZlOUZCOHlUUzRHbl8zdnI4dGFJSmZ3S2NCOU05SjQyRnRPLTFIZVNzMnJBMkl4ZUxCeUZhUEpFSw?oc=5",
-    "published": "2026-08-18 09:49",
-    "timestamp": 1787014181,
-    "summary": "HBM 메모리 공급망이 대만에서 말레이시아로 변경되는 현상을 인텔의 Project Pelican 가동 신호로 분석하고 있다."
-  },
-  {
     "company": "리벨리온",
     "title": "리벨리온, 우수연구개발 혁신제품 지정…국산 NPU 공공조달 채널 열렸다 - Chosunbiz",
     "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNMC1kN2JXYVpqaDdmRHlZVDA4dkhQRlQ2ZnZhMlgybExMNnVLNGU2RXZPNGpCQ2llOHlsMlM3ZmMwZnliRUtEOGd5WDZLVkRXV21aT0xQcWNZanZ3ZGZjaXhPSW50aWRMeU5vZE02WGc5cTV4T3hMVUlNWkxtM2M0M1NB?oc=5",
@@ -3190,14 +3222,6 @@
     "published": "2026-08-14 11:18",
     "timestamp": 1786673904,
     "summary": "에이직랜드가 상반기 역대 최대 매출을 달성했다."
-  },
-  {
-    "company": "Google",
-    "title": "구글·오픈AI 초고속 AI 맞대결…제미나이 3.7 플래시 vs GPT-5.6 솔 울트라패스트 - 디지털투데이",
-    "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE5PTXU2UkxDUEY1alk5b0JmUzZ6aGstcXVHbVByTkVQNGdncVNyRWVVR1Rfc3FRbkdOZkE2dHJGdmdQa255aVZycVV0QXJUSjNrZDZCY1VqMnJCaWV6ejZWQVJzR2pFUFp3dkZNRThCMFFEaE0?oc=5",
-    "published": "2026-08-14 10:51",
-    "timestamp": 1786672260,
-    "summary": "구글의 제미나이 3.7 플래시와 오픈AI의 GPT-5.6 솔 울트라패스트가 초고속 AI 기술 경쟁을 벌이고 있다."
   },
   {
     "company": "Microchip",
@@ -4022,14 +4046,6 @@
     "published": "2026-08-12 09:45",
     "timestamp": 1786495500,
     "summary": "메가존클라우드가 AWS 생성형 AI 혁신 센터의 아마존 퀵 SI 파트너로 선정되었다."
-  },
-  {
-    "company": "리벨리온",
-    "title": "에스티엔인포텍, 리벨리온 NPU 기반 AI 클러스터 구축 - 전자신문",
-    "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTFBQR3o2UU0yNFJyckZBaTdyWlFPcTRac041bWp0UkVOaEpuTDZfeGl5QW40MmM3MGg5ZjZHd0NPS3J3WWF6MlNvX3YwNHVxUQ?oc=5",
-    "published": "2026-08-12 08:53",
-    "timestamp": 1786492405,
-    "summary": "에스티엔인포텍이 리벨리온의 NPU를 기반으로 한 AI 클러스터를 구축한다."
   },
   {
     "company": "Cadence",
@@ -5166,14 +5182,6 @@
     "published": "2026-08-08 04:02",
     "timestamp": 1786129320,
     "summary": "테슬라가 추진하는 테라팹 건설 프로젝트가 168억 달러 규모의 1단계 투자 계획이나, 구속력이 없는 상태임을 보도했다."
-  },
-  {
-    "company": "Qualcomm",
-    "title": "삼성 갤럭시 S26 FE, FCC 인증 획득: 엑시노스와 퀄컴 부품 조합. - Vietnam.vn",
-    "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOYkZYX29mSGN5RTV3TU13RkhhVU5kUmZ2QVZnTWhzODBGdmdIZVZHd1dqX2hDN1BzeFpoa2NMMkZxQ2VJcHZJWDFCRGRXU1pNdmVHWlJieGhFM3ZPUDB0Z3p3dzV5UDBsWVRTNjFJTUx1dVB5bGhKOUduckx1SGhhc0w4YUhZcWpIel9yMnQ3RW0yUXd6QmlIZ0kyYU1jampRUzNRSnB5RVBlT2dKZHM3VQ?oc=5",
-    "published": "2026-08-08 02:11",
-    "timestamp": 1786122679,
-    "summary": "삼성 갤럭시 S26 FE가 FCC 인증을 획득했다. 해당 기기에는 엑시노스와 퀄컴 부품이 조합되어 탑재된다."
   },
   {
     "company": "Infineon",
@@ -7654,14 +7662,6 @@
     "published": "2026-07-26 20:23",
     "timestamp": 1785065014,
     "summary": "SK가 엔비디아, MS, AWS와 AI 동맹을 확대하며 3대 메가 프로젝트의 글로벌 실행에 돌입했다."
-  },
-  {
-    "company": "Microsoft",
-    "title": "삼성, AI칩 생산 2000억弗 협력…SK는 HBM4 공급 MS로 확장 - 서울경제",
-    "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE1pc19aV3RucnFWZEthOEZLelVuanZtS1Eyc2doQkdWUElFSlZKZmNRd0xwc0lraG9JQ3gtb3loME5QdjhOcm9LZ3Q4ZVJ5UzY4TXfSAVNBVV95cUxOZTFBM2hwcFFsc2t1XzFPcFR2Mm5aYVl2bTE5bjR6ZHlIZl96Y0hTQXJ2VlVUVEpCN0pwWm42ZkVtblIyaVRjSUJsZjhkZ2pVMXRjWQ?oc=5",
-    "published": "2026-07-26 18:29",
-    "timestamp": 1785058178,
-    "summary": "삼성전자가 AI칩 생산을 위해 2000억 달러 규모의 협력을 진행하며, SK하이닉스는 HBM4 공급을 마이크로소프트로 확장한다."
   },
   {
     "company": "망고부스트",
