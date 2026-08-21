@@ -1,5 +1,21 @@
 [
   {
+    "company": "NVIDIA",
+    "title": "웨이모, TSMC 5나노 자체 칩 첫 공개…1000TOPS로 엔비디아 토르와 맞선다 - 위키트리",
+    "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5ONTNIcTlyRHlWRk5sVjJ5YW5MemRtR2M3enhXdWNZZEVLR0dQQ3VGYU9NUEFZcXpuN3dLV1hHb2NzR2l3d013cDlUREE0NWpqYmZKVHVB?oc=5",
+    "published": "2026-08-21 23:30",
+    "timestamp": 1787322600,
+    "summary": "웨이모가 1000TOPS 성능의 TSMC 5나노 자체 칩을 공개하며 엔비디아 토르와 경쟁 구도를 형성했다."
+  },
+  {
+    "company": "NVIDIA",
+    "title": "엔비디아, 올해 말 중국을 위한 특별한 AI 칩을 준비한다고 부인하다 - VOI.ID",
+    "link": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE5kc3htZFVwQko3dGd1UUxYZDhZVDFxOGhTd3hidXY0WmtUUFExUGRPMVBTcTBZa1RfUWxMbDdEVGNJUlhPVzYtYktnMNIBQkFVX3lxTE9ZQ2I4X2ZadDFCRGk0TjRrVzNVd2ZCdExDQ2NsSlR3ZXZoaVB0aVA2NEVZVjVBVS16VXZMUUZ3bFJpdw?oc=5",
+    "published": "2026-08-21 22:52",
+    "timestamp": 1787320350,
+    "summary": "엔비디아가 올해 말 중국 시장을 겨냥한 특별 AI 칩을 준비한다는 보도 내용을 부인했다."
+  },
+  {
     "company": "Broadcom",
     "title": "브로드컴(AVGO) CPO 선도 부각에 AI 데이터센터 광전환 속도 붙었다 - simplywall.st",
     "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxONTB0SVJyVTFWWmQ4QXFaclphTUJ3Y0Uycl9qcnN1cnJnZGg1TmoyUDZXMXNaUjdPTThlUlp1dWF3eEZGSm5NUFVEQXI0RXQ1SzJYU0tmVzV4RFhmaUFiLWJGbXJTNm1qYUdObHg3U2d1TV8tZmhNMHFYYk9ndFhBZFQ1ZFJuMHk4VWctMVI0aTZxcUsyZ2dISHpzWmjSAZwBQVVfeXFMTjUwdElSclUxVlpkOEFxWnJaYU1Cd2NFMnJfanJzdXJyZ2RoNU5qMlA2VzFzWlI3T004ZVJadXVhd3hGRkpuTVBVREFyNEV0NUsyWFNLZlc1eERYZmlBYi1iRm1yUzZtamFHTmx4N1NndU1fLWZoTTBxWGJPZ3RYQWRUNWRSbjB5OFVnLTFSNGk2cXFLMmdnSEh6c1po?oc=5",
@@ -936,6 +952,14 @@
     "summary": "삼성 파운드리가 파운드리 가격을 15% 인상한다. 이를 통해 만년 적자에서 벗어나 올해 흑자전환을 목표로 한다."
   },
   {
+    "company": "Cerebras",
+    "title": "새롭게 무장한 세레브라스 웨이퍼 스케일엔진, 엔비디아 독점 깰 수 있을까 [고든 정의 TECH+] - 네이트",
+    "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5mdms5MzU0cHc2YkNxN3BzenU1dTRZUV9kcjRiVHZzVnZQOEhHN2NQMTgwTFA4ejBWSWhnUmxrV01qNHIyVXJ1RXRGVUFsNTRwS2NSTDdnQ0Nobll4OThNWg?oc=5",
+    "published": "2026-08-20 16:25",
+    "timestamp": 1787210700,
+    "summary": "세레브라스가 새롭게 무장한 웨이퍼 스케일 엔진을 공개하며 엔비디아의 독점 체제에 도전한다."
+  },
+  {
     "company": "Samsung Foundry",
     "title": "AI 수요에 몸값 높이는 삼성 파운드리…흑자전환 기대감 - 메트로신문",
     "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9QWjRLVWVkYzZfVFFicFg1T0w3ME1zODE0M0t2b2p3eFpBTFlRRFlpa0MtOTBGcWZ4RWNhU3FzLVVLaFJpWHgxU0lhV0VfX01vUjY5QXB1UWg3OTM4ZFIzYQ?oc=5",
@@ -944,20 +968,20 @@
     "summary": "AI 수요 증가에 따라 삼성 파운드리의 가치가 상승하고 있으며, 이에 따른 흑자 전환 기대감이 제기되고 있다."
   },
   {
-    "company": "Cerebras",
-    "title": "새롭게 무장한 세레브라스 웨이퍼 스케일엔진, 엔비디아 독점 깰 수 있을까 [고든 정의 TECH+] - 서울신문",
-    "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1FWWVaWXpSV1ZXRTdYc1U5bFQ0ZzBxeHBzU2p3bU9SdFhCY0hOSzd4dGdzWDl0V0c1Tzd5Q3BHRmJ5ZDVkUXB3eHdJTnFOQnNBVkJGOGZGOWJadw?oc=5",
-    "published": "2026-08-20 16:22",
-    "timestamp": 1787210570,
-    "summary": "세레브라스가 새로운 웨이퍼 스케일 엔진을 공개하며 엔비디아의 시장 독점 체제에 도전한다."
-  },
-  {
     "company": "NVIDIA",
     "title": "[LGX엔비디아 로봇동맹 ①] LG전자, 제조 노하우로 휴머노이드 키운다 - 뉴스투데이",
     "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFAwOE9NbW9faElYZzdzN1VVU1pUXzhjcFlwcnRsaEZGajR5NklJdk1nT29DV1FnYm5VYldTOC1tSDQ2RjhMUklmbl9aUGFGeUNrMGpNSzJxMXdNd3FBRHc?oc=5",
     "published": "2026-08-20 16:19",
     "timestamp": 1787210340,
     "summary": "LG전자가 엔비디아와 로봇 동맹을 맺고 제조 노하우를 활용해 휴머노이드 로봇을 개발한다."
+  },
+  {
+    "company": "TSMC",
+    "title": "대만 TSMC, 1.6나노칩 개발·검증 완료…올 4분기 양산 - v.daum.net",
+    "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE9SQS1uZkRKVGtBWXJnLXNsc3RINGhZbllpREY1ZmxVMGlUMUc1U2NDTTQ1eVlwcndqZElsb1lreFpBZTNqeGdTZjZOWkQ3VDVUaTJtaw?oc=5",
+    "published": "2026-08-20 16:18",
+    "timestamp": 1787210280,
+    "summary": "대만 TSMC가 1.6나노 칩 개발 및 검증을 완료했다. 해당 칩은 올해 4분기부터 양산될 예정이다."
   },
   {
     "company": "AMD",
@@ -974,22 +998,6 @@
     "published": "2026-08-20 16:04",
     "timestamp": 1787209449,
     "summary": "TSMC가 1.6나노칩 개발 및 검증을 완료했다. 올해 4분기부터 양산을 시작할 예정이다."
-  },
-  {
-    "company": "NVIDIA",
-    "title": "하이퍼다인, 엔비디아·중기부 '엔업 프로그램' 선정 - 네이트",
-    "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9FMlFseVdqeXpvQXNiSV9yazhPQVJsYmRjcWM0NlYxZDZBU3dHMEZYbHJfT1FoblBEeEdRTnhlX20zVTh3WjFLZ05zTkJIeEs1NlBjWnlhZURxekdURXFuWQ?oc=5",
-    "published": "2026-08-20 16:02",
-    "timestamp": 1787209320,
-    "summary": "하이퍼다인이 엔비디아와 중소벤처기업부가 공동 운영하는 엔업 프로그램에 선정되었다."
-  },
-  {
-    "company": "NVIDIA",
-    "title": "하이퍼다인, 엔비디아·중기부 '엔업 프로그램' 선정 - 머니투데이 - 머니투데이",
-    "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE9ETDlTajFObzZ0aGtLdWNfSXVIZmdmT3Zmbkh1VFFjcVVMd1UxYkZLOUU5R01IN0lfUTZ6Q29PYkZrZ3h0UGE0b29uSElqUHpPTkFCOWtmeHAyd05ST2xZMDBiZEtQSV85bnJnY0oxRUdCUdIBckFVX3lxTE9ETDlTajFObzZ0aGtLdWNfSXVIZmdmT3Zmbkh1VFFjcVVMd1UxYkZLOUU5R01IN0lfUTZ6Q29PYkZrZ3h0UGE0b29uSElqUHpPTkFCOWtmeHAyd05ST2xZMDBiZEtQSV85bnJnY0oxRUdCUQ?oc=5",
-    "published": "2026-08-20 16:01",
-    "timestamp": 1787209309,
-    "summary": "하이퍼다인이 엔비디아와 중소벤처기업부가 공동 운영하는 '엔업 프로그램'에 선정되었다."
   },
   {
     "company": "AMD",
@@ -2158,14 +2166,6 @@
     "published": "2026-08-18 21:02",
     "timestamp": 1787054540,
     "summary": "애플이 아이폰과 맥북에 중국 업체가 생산한 메모리칩을 시험적으로 적용한다."
-  },
-  {
-    "company": "TSMC",
-    "title": "전력 20% 아끼는 반도체…TSMC가 먼저 해냈다 - 솔루션뉴스",
-    "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTFBGQ3l6WlA1aEhqQ0NlOXdnNk03NkhmMXJjaGJMRzFXOENtY2hWZGpPeWVCSWJmRlBabEJrcDhHdkx4ZGVsUDFmM0RGSUNZZDBnWjdxRDFQV1daSGFERnA1bjgwSGY4dVlzWXk4?oc=5",
-    "published": "2026-08-18 20:57",
-    "timestamp": 1787054224,
-    "summary": "TSMC가 기존 대비 전력을 20% 절감할 수 있는 반도체 기술을 개발했다."
   },
   {
     "company": "Apple",
@@ -7942,29 +7942,5 @@
     "published": "2026-07-23 02:38",
     "timestamp": 1784741902,
     "summary": "아마존이 AGI 조직 일부를 감원하며 AI 투자에 있어 선택과 집중 전략을 취하고 있다."
-  },
-  {
-    "company": "STMicroelectronics",
-    "title": "ST마이크로일렉트로닉스, 정확도 높인 자동차용 새 관성 모듈 공개해 - elec4",
-    "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE01Q3JaU1dLeDdIT0JnSE40U0ZIMkRlUVNMelRaUHV1SHZvTDFoNUJUNjctWVFXUjNUTkpXa0w1UG54NUh0UXYwZklfYXN1M2ZSQkRtVWEtWEpkcFAyNWsybnd0UEE3a3M3aUJwc1FVTUg3ak0?oc=5",
-    "published": "2026-07-22 22:41",
-    "timestamp": 1784727671,
-    "summary": "ST마이크로일렉트로닉스가 자동차용 관성 모듈의 정확도를 높인 신제품을 공개했다."
-  },
-  {
-    "company": "Cerebras",
-    "title": "크라우드스트라이크, 세레브라스와 AI 보안 협력 강화 - Investing.com 한국어",
-    "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE01TkhqcFJ1VmdVVTdsMWhWZGlSUEl5Z2xBZWU3RkhUVHZIM3NYU0VzNjJJTlNjX0ZlWDltNW9ZZFZRVEFiNGYtRnBpTjNZdUktWHdVb1NlYjJuQzB3cDJ6MW5teF9JM3NSdXA0a0MyeS0?oc=5",
-    "published": "2026-07-22 22:33",
-    "timestamp": 1784727180,
-    "summary": "크라우드스트라이크가 세레브라스와 AI 보안 분야에서 협력을 강화한다."
-  },
-  {
-    "company": "NXP",
-    "title": "NXP, 라디오·AI 오디오 하나로…차량용 프로세서 ‘SAF9800’ 공개 - 뉴스탭",
-    "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1rdHdlLWRCT3J6WVNHMTBUTElrM2VidXdmNjI5Ni11NUdHTXk0eUd4NEFTckZDc0tkS2FjUUk2c1ZSelVqdmhSVXp5eGMxSE1BdTFGbnlSbVY2dDFIY1FWQVFEdmNNSDdmTkx1NQ?oc=5",
-    "published": "2026-07-22 22:02",
-    "timestamp": 1784725335,
-    "summary": "NXP가 라디오와 AI 오디오 기능을 통합한 차량용 프로세서 'SAF9800'을 공개했다."
   }
 ]
