@@ -1,5 +1,21 @@
 [
   {
+    "company": "TSMC",
+    "title": "샤오미 Xring O3, TSMC N3P냐 기존 N3E냐 두고 외신들 정반대 보도 - 위키트리",
+    "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE05VGpLSVA2SmgtUVR1Uy04UzZVX0prcEtoemhhZVo2WkVycGkyVmFvVTB6cnBidmg2aFJIcW1LalRhdFpRd21rV3dvN2dGdWI2Rm1SLUlR?oc=5",
+    "published": "2026-08-22 05:22",
+    "timestamp": 1787343720,
+    "summary": "샤오미의 신형 기기인 Xring O3에 탑재될 칩셋의 공정 방식을 두고 TSMC의 N3P와 N3E 적용 여부에 대해 외신들의 보도가 엇갈리고 있다."
+  },
+  {
+    "company": "Google",
+    "title": "앤트로픽, 구글 칩 설계 주역 영입…'반도체 독립' 속도 낸다｜Global Money Club - 중앙일보",
+    "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1pTE41TjU2OEVTUWVhNVl1SHJOdml4WFBpYTd3bjlGdmQ1VEIwNV9oZlRNeTZpM05GaHlJYkYyVGpvdm5oYnFBVWR0S1kzMDNUU09VaUFFR29BYjg?oc=5",
+    "published": "2026-08-22 05:18",
+    "timestamp": 1787343480,
+    "summary": "앤트로픽이 구글의 칩 설계 주역을 영입하며 반도체 독립에 속도를 내고 있다."
+  },
+  {
     "company": "NVIDIA",
     "title": "엔비디아, 풀사이드 “모델 팩토리”에 60억달러 쏟아붓고 직원 109명 영입한다 - 위키트리",
     "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9jWWNFUHUtdW15dmNGaWE2UDZFUGYya0NnTGoxNG51ZTV6OEVkOVFYRTFqdzNpSkFOcVpqZ2ZQcUo4X3ZCeC1zQXRJSm1sZW0yQVNxOVB3?oc=5",
@@ -14,6 +30,14 @@
     "published": "2026-08-21 23:30",
     "timestamp": 1787322600,
     "summary": "웨이모가 1000TOPS 성능의 TSMC 5나노 자체 칩을 공개하며 엔비디아 토르와 경쟁 구도를 형성했다."
+  },
+  {
+    "company": "TSMC",
+    "title": "대만 TSMC, 1.6나노칩 개발 성공 - 모바일한경",
+    "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxObVVTNGZ1akg4QjB6MTAxcGlmVDNtd2xIamtfenFxcF9samhsUkktRzRiajFyalQ5VmRzMDZqeUxINDY3dGZnSmo5VzdYVTk1RWdFaDZybno3RnJHQ3RFUEZXbnJINGlOV2ZSVjdNSlBBcUFqYWVDMkdUMk1Ya2JzcmVKZkZoQmdDOV9vU1JfWENXUWFUdXpPUnhldDZfQ0l0UU1EVy1PMVJQNHZhN3c?oc=5",
+    "published": "2026-08-21 23:06",
+    "timestamp": 1787321163,
+    "summary": "대만 TSMC가 1.6나노미터 공정 기반의 칩 개발에 성공했다."
   },
   {
     "company": "NVIDIA",
@@ -337,6 +361,14 @@
   },
   {
     "company": "Broadcom",
+    "title": "\"브로드컴, 84조원 부채 조달 협의중…엔트로픽 수혜\" - supple.kr",
+    "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFBOc1ZmQk02Yy15UmpheUwxWWIwYkVoZDREbXBCWTRWT3N4NnpyUExzVWpPdXpBR0RvbnNYaHQ0eThabFdadjdYdDJCV29Ib2pIUkd4SF9FX1UxeTAz?oc=5",
+    "published": "2026-08-21 10:30",
+    "timestamp": 1787275845,
+    "summary": "브로드컴이 84조 원 규모의 부채 조달을 위해 협의 중이다. 이번 조달은 엔트로픽과 관련이 있다."
+  },
+  {
+    "company": "Broadcom",
     "title": "브로드컴, 84조원 부채 조달 협의중…엔트로픽 수혜 - SBS Biz",
     "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE5EM3lNQ1Zxc09lSUY2SkJESnoxQWVqdktIbHhIUlRXNEMxRlNsOHRoaGpqa3VmUzlMNWI2U1ZReGR6aUpZaGZwMkpqazFYczZScnJYdnZwTFPSAVhBVV95cUxORDN5TUNWcXNPZUlGNkpCREp6MUFlanZLSGx4SFJUVzRDMUZTbDh0aGhqamt1ZlM5TDViNlNWUXhkemlKWWhmcDJKamsxWHM2UnJyWHZ2cExT?oc=5",
     "published": "2026-08-21 10:30",
@@ -446,14 +478,6 @@
     "published": "2026-08-21 08:41",
     "timestamp": 1787269309,
     "summary": "브로드컴이 600억 달러 규모의 부채 조달을 위해 대주단과 협의하고 있다."
-  },
-  {
-    "company": "Broadcom",
-    "title": "\"브로드컴, 84조원 부채 조달 협의중…엔트로픽 수혜\" - v.daum.net",
-    "link": "https://news.google.com/rss/articles/CBMiRkFVX3lxTE1xclNuZXVlWDhfVkI4cHUtVUtob2hSd2VrSHZWLUFBODNDWE9HczBlY3ljVnViVk1lWVBmTHRjV0hRNnVDNmc?oc=5",
-    "published": "2026-08-21 08:40",
-    "timestamp": 1787269245,
-    "summary": "브로드컴이 84조 원 규모의 부채 조달을 위해 협의 중이다. 이번 조달은 엔트로픽 관련 수혜와 연관되어 있다."
   },
   {
     "company": "NVIDIA",
@@ -1480,6 +1504,14 @@
     "summary": "에이직랜드가 양산 매출을 가동하며 손익 구조를 개선했다. 하반기 개발 매출 규모는 500억 원에 달한다."
   },
   {
+    "company": "Google",
+    "title": "구글-마벨 AI 반도체 동맹…최대 17조원 신주인수권 계약 - 유니콘팩토리",
+    "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE50UVhZVUN3anV4RjNsQkMxVzJsM2hZMzlHWWZ5UUJYQ2YwXzI2THpYNGRYeHhoMmtLenpzNkxfVkRHQnNNTDNpMWlqQlZCYXBjcEpiemNTdUV2QUY3SnhhTGhseDVXM2N1SWF6eA?oc=5",
+    "published": "2026-08-20 08:01",
+    "timestamp": 1787180488,
+    "summary": "구글과 마벨이 AI 반도체 동맹을 맺고 최대 17조 원 규모의 신주인수권 계약을 체결했다."
+  },
+  {
     "company": "Cerebras",
     "title": "세레브라스, CS-4 공개… 웨이퍼 하나로 GPU 랙 추론 성능에 도전 - 위클리포스트",
     "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE05QlplUEc0OVAtRlY3MEZ2WE45TjdENDB4Y3JDNWlCc0pIOEE1OTNCemRjN2puQlJNZ0xKMk53aXJxelFkMlNzZ3JvTmRkWnVJVlVNVThmOHpZYXN1RDV2bWpyVFFwUWVhenpN?oc=5",
@@ -1558,14 +1590,6 @@
     "published": "2026-08-20 04:30",
     "timestamp": 1787167800,
     "summary": "구글이 마벨과 AI칩 동맹을 맺고 최대 17조 원 규모의 신주인수권 계약을 체결했다."
-  },
-  {
-    "company": "Google",
-    "title": "구글-마벨 AI 반도체 동맹…최대 17조원 신주인수권 계약 - news.nate.com",
-    "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE9hRHZVV1pCdy1zVkNoRmRIMDNyWmxVUTVSb1dGSThxUHk1TzloN1JPZC1CMFJzSVVCR01rdEVsRUdOZUdUWjA1WE93ZGJxbEp1Nk5B?oc=5",
-    "published": "2026-08-20 04:24",
-    "timestamp": 1787167440,
-    "summary": "구글과 마벨이 AI 반도체 동맹을 체결했다. 마벨은 구글에 최대 17조 원 규모의 신주인수권을 발행하는 계약을 맺었다."
   },
   {
     "company": "Google",
@@ -1944,14 +1968,6 @@
     "summary": "모빌린트의 AI 반도체가 해군 차세대 AI 경계체계에 공급된다. 이를 통해 국방 시장에서의 사업 영역을 본격적으로 확대한다."
   },
   {
-    "company": "TSMC",
-    "title": "대만 TSMC CoWoS 주문 폭주…경쟁업체 인텔과 '맞손'? - 초이스경제",
-    "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE1IZUtYZ3E4aDZnc0ZybUktZVNPREJmOFZ4MkJjTXMwakpPRWo5VXhXS1dFTGhwZFNwRUVWNkFUaHA0V1VnQ0ZEMEpZLWJRbGxSNDFCRjB6RXc4dEVZblpsMEpoaFlpOXhCUk5mWUJkOW9zZWPSAXNBVV95cUxNSGVLWGdxOGg2Z3NGcm1JLWVTT0RCZjhWeDJCY01zMGpKT0VqOVV4V0tXRUxocGRTcEVFVjZBVGhwNFdVZ0NGRDBKWS1iUWxsUjQxQkYwekV3OHRFWW5abDBKaGhZaTl4QlJOZllCZDlvc2Vj?oc=5",
-    "published": "2026-08-19 11:52",
-    "timestamp": 1787107951,
-    "summary": "TSMC의 CoWoS 주문이 폭주하는 가운데, 경쟁업체인 인텔과의 협력 가능성이 제기되었다."
-  },
-  {
     "company": "Intel",
     "title": "200억달러 증자 이후 첫 IR 나서는 인텔…26일 파운드리 메시지 시험대 - 데일리시사닷컴",
     "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE9mOFhJdHFtbWQ4THVIZzV2UDdzaFVhZ05kLS1GZVNJb2ZuTmFtRUJqZ2YzOFNYZGpvVlZ0czIyTUxfOHZnd3hubE5Lc05jT3JMQkYxSHY0ZHcxWjNkci1aM2VoTncyT3hRTDZn?oc=5",
@@ -2078,14 +2094,6 @@
     "published": "2026-08-19 09:00",
     "timestamp": 1787097600,
     "summary": "세레브라스가 AI 챗봇 성능 향상을 목적으로 설계된 새로운 서버 칩과 시스템을 출시했다."
-  },
-  {
-    "company": "TSMC",
-    "title": "씨피시스템, 대만 자동화 전시회 참가…\"TSMC 레퍼런스 앞세워 현지 공략\" - 네이트",
-    "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE1OUGxpRzlLbERIQjBfNnpzcC1LeExubG9YSmV6NDRmQWw1UGNiZk82OWU2LXZrRjV2T29LVThwQkw4Y2gyREdEX2dzeHlNZC1qbXVr?oc=5",
-    "published": "2026-08-19 08:52",
-    "timestamp": 1787097120,
-    "summary": "씨피시스템이 대만 자동화 전시회에 참가한다. TSMC 레퍼런스를 활용해 현지 시장을 공략할 계획이다."
   },
   {
     "company": "리벨리온",
@@ -3142,14 +3150,6 @@
     "published": "2026-08-14 16:00",
     "timestamp": 1786690800,
     "summary": "삼성 파운드리의 가동률이 회복세를 보이며 사업 전환의 가능성이 개선되고 있다."
-  },
-  {
-    "company": "Google",
-    "title": "구글이 TPU 두고 '제미나이만 돌아가는 칩'을 만드는 이유 - 티타임즈",
-    "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE5iSjVpeElSczZsd3NpaE0tMGZ6M2V0N3pFeTlQb3JPd0dlWmNoYjFJdTF6SDdBSy0yd2VJSFRDMmV6M1ljSjNDWGRFbkhfeWcwUE5FTXEwNlNzcXJUZ2xsOTBR?oc=5",
-    "published": "2026-08-14 16:00",
-    "timestamp": 1786690800,
-    "summary": "구글이 기존 TPU 외에 제미나이 구동에 특화된 전용 칩을 개발하는 이유를 다룬다."
   },
   {
     "company": "자람테크놀로지",
@@ -7918,29 +7918,5 @@
     "published": "2026-07-23 08:52",
     "timestamp": 1784764345,
     "summary": "아마존이 AGI 조직의 인력을 감원했다. 다만 AI 모델 개발은 지속할 예정이다."
-  },
-  {
-    "company": "Amazon",
-    "title": "아마존, 범용인공지능 조직서 인력 감축…AI투자 '선택과 집중' - v.daum.net",
-    "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE1SaWpOdTZsVzJPYzBzbC1MdE9xSm1jN3N6ZUx4bDk0ZFk1TzhWUW9mODNkUU1ZU0xlNjZETG1WUVFtLU01QjZVdFZ5MjVOM2d6R2ZSdA?oc=5",
-    "published": "2026-07-23 04:27",
-    "timestamp": 1784748420,
-    "summary": "아마존이 범용인공지능 조직 내 인력을 감축하며 AI 투자에 대한 선택과 집중 전략을 시행한다."
-  },
-  {
-    "company": "Amazon",
-    "title": "아마존, 범용인공지능 조직서 인력 감축...AI투자 '선택과 집중' - SBS Biz",
-    "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE1JcllRbUpiS2pMWVBCUi1yTm5LQkc5d1dQRnBHeWloMi1STk9mZU5FOTVrb2x1UlQzbmRzbUVJR0tXVEVYQllqeUNsY24zNkNmR1BZ0gFYQVVfeXFMTUVPbXdDX0tscTNsS0lISVQzdW1EeTNLdGdxS2VKMzdpbHZWOTZ1QTQ0c2w4UHZjbDRFbEJHYmlwX1c1VU9KeXlmOHQ2bjNMUy1qSXNGNUJhWQ?oc=5",
-    "published": "2026-07-23 04:25",
-    "timestamp": 1784748300,
-    "summary": "아마존이 범용인공지능 조직의 인력을 감축하며 AI 투자에 대한 선택과 집중을 단행한다."
-  },
-  {
-    "company": "Amazon",
-    "title": "아마존, AI 조직 인원 감축…\"AI모델 구축은 여전히 중요 과제\" - 연합뉴스 한민족센터",
-    "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE5KR3c5SWNFeWt3b3Njc2QtbGdybWJWSWp3RUFPWmpTU0VlR2hsWWcyd2RvaEtpLWlzWE50N3RHLUFOcGlTSlZTYkRqU0oxNmJ6M1NSakpFbVJJSFprczdPOEkydURqR2VJUlJzTjViQWxDUnBh?oc=5",
-    "published": "2026-07-23 04:22",
-    "timestamp": 1784748170,
-    "summary": "아마존이 AI 조직 인원을 감축했다. 다만 AI 모델 구축은 여전히 중요한 과제로 유지한다."
   }
 ]
