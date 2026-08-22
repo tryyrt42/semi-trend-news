@@ -1,5 +1,21 @@
 [
   {
+    "company": "TSMC",
+    "title": "TSMC 1.6나노 출격…삼성은 어디까지 따라왔나 - 콕스뉴스",
+    "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1ZdC1UbFVIZms0VE1pek4wSlJnSHNhdUxLNzJWbzJfeU9JTzVhd2xaMzQwd09wcVJldlhmaHRtZHkwZFFpX2JJbDl0Wm5JWWJpOVdGRG5Dc3FMdm5hcTlFNUktdFg5ckFyVUE?oc=5",
+    "published": "2026-08-22 12:28",
+    "timestamp": 1787369311,
+    "summary": "TSMC가 1.6나노 공정 기술을 공개하며 삼성전자와의 기술 경쟁 구도가 형성되고 있다."
+  },
+  {
+    "company": "NVIDIA",
+    "title": "‘K-엔비디아’에 손 뻗은 진짜 엔비디아…리벨리온 기술 뭐길래 - 이코노미트리뷴",
+    "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE04MXNGNUV3aGVaOFNoLVRadTI4UXVjWnNRMUd0Umt1MG5way1DLUJLRFkweU11S3VyU2U5ZmcxUVlZUWh6azFacEdjSk1UaU1rNjBUZkZTRFoxSnFzSjdmSDdLMXZ5VndLT19SY3ZWR203RjFULXlB?oc=5",
+    "published": "2026-08-22 12:00",
+    "timestamp": 1787367655,
+    "summary": "엔비디아가 리벨리온의 기술력에 주목하며 협력 가능성을 시사했다. 리벨리온은 이른바 'K-엔비디아'로 불리며 기술적 가치를 인정받고 있다."
+  },
+  {
     "company": "NVIDIA",
     "title": "엔비디아, 데이터센터 개발사 클로버리프 지분 투자… \"전력·부지부터 잡는다\" - AI타임스",
     "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5GRXA1TEUwellZVEE3QnZxSmsyV2RJT3FHd3BwaEVDZHlfY3BCakRLS243dzczWVVSOFZGcU9SbXVHcGZEUHVsN09HZDYtajVuYk1NZGRNa254S3IyRGxOcWhIZkV5dzRiLUE?oc=5",
@@ -14,6 +30,14 @@
     "published": "2026-08-22 10:56",
     "timestamp": 1787363773,
     "summary": "엔비디아가 국내 NPU 스타트업인 리벨리온과 인수 협상을 진행 중이다."
+  },
+  {
+    "company": "TSMC",
+    "title": "씨엠티엑스, 실리콘 파츠로 질주… TSMC 효과까지 본격화 - 핀포인트뉴스",
+    "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE50OFhuS2RPNUxlTXlNSjhiYld6UHJleWgxXzNMZ2U2X04wTXZPRVp5ZUp3UGQySHlybXdYbW5sSmx2bV9kOHRIOVdTeXZhd1VmbnFmbkdhN0ttLWhEVjZnR3ZOa1hUVF9mRFlYWmJuRGNvOUxwMDlv0gF3QVVfeXFMTnQ4WG5LZE81TGVNeU1KOGJiV3pQcmV5aDFfM0xnZTZfTjBNdk9FWnllSndQZDJIeXJtd1htbmxKbHZtX2Q4dEg5V1N5dmF3VWZucWZuR2E3S20taERWNmdHdk5rWFRUX2ZEWVhaYm5EY285THAwOW8?oc=5",
+    "published": "2026-08-22 10:55",
+    "timestamp": 1787363752,
+    "summary": "씨엠티엑스가 실리콘 파츠 사업으로 성장하는 가운데 TSMC의 파운드리 효과가 본격화되고 있다."
   },
   {
     "company": "Apple",
@@ -38,14 +62,6 @@
     "published": "2026-08-22 10:39",
     "timestamp": 1787362741,
     "summary": "앤트로픽이 구글 출신의 반도체 전문가를 영입하며 자체 AI 칩 개발을 본격화한다."
-  },
-  {
-    "company": "TSMC",
-    "title": "씨엠티엑스, 실리콘 파츠로 질주… TSMC 효과까지 본격화 - 핀포인트뉴스",
-    "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE5Qd1o1cWVQbDBLY2thNk05VkQ1aHRKblVtTnlJd05HaDM1MGgtNDFTUFB2Ti1tc2ZBWk9LZmg3Q1RzU08zZW91OGM2NS1xaWc4T3UwMDlXRWI3TXNIcHIyWkpUdUVQR3JfOUxmY2pUc051eGPSAXdBVV95cUxOdDhYbktkTzVMZU15TUo4YmJXelByZXloMV8zTGdlNl9OME12T0VaeWVKd1BkMkh5cm13WG1ubEpsdm1fZDh0SDlXU3l2YXdVZm5xZm5HYTdLbS1oRFY2Z0d2TmtYVFRfZkRZWFpibkRjbzlMcDA5bw?oc=5",
-    "published": "2026-08-22 10:20",
-    "timestamp": 1787361616,
-    "summary": "씨엠티엑스가 실리콘 파츠 사업으로 성장하는 가운데 TSMC 관련 효과가 본격화되고 있다."
   },
   {
     "company": "NVIDIA",
@@ -102,6 +118,14 @@
     "published": "2026-08-22 09:00",
     "timestamp": 1787356800,
     "summary": "그록이 3억 5000만 달러 규모의 투자를 유치하며 엔비디아 생태계 내로 편입되었다."
+  },
+  {
+    "company": "Apple",
+    "title": "엔비디아·애플 등에 업은 마이크론 … 韓 HBM 주도권 비상 - 한국농어촌방송",
+    "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE5za0FKRE8yR1JpdGdZalpsQmZsclJFZG9rR21xc3Rqd0ZHVWxTck1hd3NsTHdZMWphVy1kVy1RdndIQTZrSVRCZ3h5QThpdjQ1QXRuZk95SUVOQ2gyNWgyalY5MjV3UdIBakFVX3lxTFB5VWRjSWJNd25OdmtmVHJ6Q3phOFhHMjk1UnJ6VEoyMS00Z3pPcmdaeDNSSTR2eXRSMlg2QWNBZUM2YTRMQkxYNjRBTWNXSFRnOGdneUtNWVVMdUFnX1EwY203X2x4dm0xVWc?oc=5",
+    "published": "2026-08-22 09:00",
+    "timestamp": 1787356800,
+    "summary": "마이크론이 엔비디아와 애플을 고객사로 확보하며 HBM 시장에서 한국 기업의 주도권에 영향을 미치고 있다."
   },
   {
     "company": "TSMC",
@@ -174,6 +198,14 @@
     "published": "2026-08-22 02:24",
     "timestamp": 1787333040,
     "summary": "엔비디아가 풀사이드의 모델 팩토리에 60억 달러를 투자하고 직원 109명을 영입한다."
+  },
+  {
+    "company": "Samsung Foundry",
+    "title": "코로나19 유행 이후 3년 만에 오프라인 행사로 삼성 파운드리 포럼 2022이 3일(현지시간) 미국 새너제이에서 열렸다. 최시영 파운드리사업부장(사장)이 삼성 파운드리 사업 전략을 공개했다. - 전자신문",
+    "link": "https://news.google.com/rss/articles/CBMisgtBVV95cUxQdGVXeGw1MmhvOE1SMnVnOE1jMU55bGE5NkZJSE9ndTJhSjNCYVo3NzJIQTJBR3hPNWpjdk0za0pITkF5VmZ1cHB5ekltZXNYWk5zWGdzeXhEMTJheVlXTUVaV1NrbGtiZF9KLVoyS2pFbGx2TXo5bklaMFdvTEVacC1fV1pRbmRBZ094a28xaFdfdkNOdmJBS2xWOVBEcGUzMVpScXdiTjVoVVRqZ3RDRmZLYmRvWVNUMVl5dzlMLTZBSG5USElwZ0FWUGhEMXJWbFJ1LUE4akhFa3Y4UEJESWFmX1RyVHo2VURCZFVwQzZkOXQwNjE3ek5zRElLX3MwRFZXMjZEejEtUGRoMUsyM3NQbEY0aG9CQm5hVTdpYnR6QVk3THBuWDdpMUx5R255QmI2MERtQjI3NTVSUDZNTUw1VU5nVEZNXzJ0NkVwcmR1YV85ajFmVERreENmRTQ4Qm5MNjJJODcza0VFdmtXc0VIUXotSHlIQU50RkhFbTRFcDdiMnd5a1lZUkZhZG1xbmIzWGNlRmcyVk15UkZoci1kOVVTUEhNNTUxaVdfZ1RsdmpheG9sdU9GMGsya2RDQkYydlg0S0JOY2VQT1FVYVFCbHg1Vnd4VG9CWTBVMUk3MHo0a3g4TWVVcFp0NWQ4bEo0dkR1Rk5ma0N0VnJUQThQLVRYLWVDSzRtS21BWF95ODNmRHQ1OFBzMkZ6bHNrMTNROGNzX3ZnLWJrbE51SlF4NXlqV0ZfdWhZaUhaVUt3b2lTbEladzBFZEFEU1lXYThyVE5zYXFSaGdqZ1NYb2hlcTdFdURFaDh2Z1JiYklsVXpVTVlRM0YwRXIxTzVEREQzbmk4UEFxczJ0SkFjbHZmMElibmJQa1VmMTBXVzZpX2ktelgyZE01RWluZ25kN292b3VhRE9UTnRWWHVKMjhhTEtLZ084NlZBcHRySlNTOTA4MHBrMXpQRGRaTllaaFg5ZV90NUFFWTNtQnVHeTQxM2p0aURpUDZaRkUyd1FqeWlSdW1GQ1dmOXV1cGVvUk5MRFJ3WHdVZ1Z3U21rMEVzai02d0lraDBCTFU3bHdFTlZGSHpnTmxaMnJPUjRyTGhuSmlyYU56SExpQ3d1TEZPZ25ibTdfWVNyd2JnSmE2MFlYemw0UjRRTldlVExCRXF0QTJJbWY2eVFka3Z4a0FpZ3ZlT2ZHcXNGNEZQTXRVYmlPdkdibkh5b25mWVBzWDhQM1F6ejhtRjVyUkZrbXBDbzA5TDU2djdUeE9qRzdZYW0tTVBaa2FHeWU5NW5LUE9XMWdIMTY1VVE3cXMxdjBtTTBUNy1IcEViTG1jSmVuU2xDOFY1WHhnQi1oN3hwWGdma3dQcWU0czJoeWlNNE1YR1l1d0Rhd0RSQmNJYlRJWmJtX2hBZ1J2QzNSRTR4bS1jQ3NKVFVKamVJYldBRDg2ZHhfWFdBeW9sZ0Vtd0NUWWdWUDRCU0cyLUpjczlJbE5rNWtxTkhMSkc3Y2YzenB0OG5OSGV2RlI0cDg5Q2VTQUtWb2hLNExpYVlra3Eyb1ZLRE9VdUgtMW5xd2hPdl9wQVBGdXBQQURCY2dmNDg4WTZLZmRvVFktZTV2MzNQSjJpbloxRDBnOE9WUXFPWDR3ZFhtcUo4VElCbWNramdOUzU0eGNIdXBuZGxWM3UtbnRvNUc2NHNaUkFyT1ltdFZkdGF4Q3BfVTEtUlNnYjYxRzY2R3l3aUV0d1F4MkVpZ3ZVeTZsLXczV0ZXbFIwcVV6bUR1YVlYWjF3VlpmN21wNXRLQU90SF9iMkZ2UzJrRkRxWlJxejVobnc2R1lxOU1xXzlxRWxuMHFtT2RIM3g3c0xXYTVDbUVEOTVtR0h6VkZkUDlXdzhSWWNJY2VRbDQ0UnRpWDAxWmFQLWR0bXkzR1dEVDV6QVpmVEZFTTRMbVE?oc=5",
+    "published": "2026-08-22 01:23",
+    "timestamp": 1787329428,
+    "summary": "코로나19 이후 3년 만에 미국 새너제이에서 삼성 파운드리 포럼 2022가 개최되었다. 최시영 파운드리사업부장이 삼성 파운드리 사업 전략을 공개했다."
   },
   {
     "company": "NVIDIA",
@@ -342,6 +374,14 @@
     "published": "2026-08-21 15:53",
     "timestamp": 1787295184,
     "summary": "브로드컴이 앤트로픽 등에 AI 칩을 공급하며 최대 1000억 달러 규모의 자금 조달을 추진한다."
+  },
+  {
+    "company": "Apple",
+    "title": "[빅테크칼럼] “헤드셋은 냉각, AI 안경은 가속”…애플, 비전 인력 60명 감원설이 보여준 차기 CEO의 선택 - 뉴스스페이스",
+    "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE9WSlU1a3NSM2djbDRhVjlKUjktQXRGMzVwQ3Y4YmpOeF9oYmhreFgwc0MxblZBcE8zT0tqRVlRMEh0MzFYZktBWWFPOHljcTdPYTVlbm83a1UxTTVEZmNOWmxTSQ?oc=5",
+    "published": "2026-08-21 15:43",
+    "timestamp": 1787294619,
+    "summary": "애플이 비전 관련 인력 60명을 감원한다는 설이 제기되었다. 이는 차기 CEO의 전략적 선택과 관련된 것으로 분석된다."
   },
   {
     "company": "Apple",
@@ -846,14 +886,6 @@
     "published": "2026-08-21 01:18",
     "timestamp": 1787242718,
     "summary": "퀄컴의 스냅드래곤 8 엘리트 Gen 6 Pro ES 샘플이 중국 시장에서 유통되고 있다는 정황이 제기되었습니다."
-  },
-  {
-    "company": "NVIDIA",
-    "title": "울산 제조AI 설루션기업 ‘마크로버’ 엔비디아 협업 트랙 참여 - v.daum.net",
-    "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE56RldwbkZwNFdVTUZ6ekxPajlzaUk3MlRhamg1dHlTWlh6RERTTXpoMHRWYzhxdTlDWUpyT1dNei1SVzJ0dTdGUmp3ekRlMWc?oc=5",
-    "published": "2026-08-21 01:01",
-    "timestamp": 1787241694,
-    "summary": "울산의 제조 AI 솔루션 기업 마크로버가 엔비디아의 협업 트랙에 참여한다."
   },
   {
     "company": "Google",
@@ -1417,11 +1449,11 @@
   },
   {
     "company": "TSMC",
-    "title": "“TSMC, 1.6나노칩 개발 성공…4분기 양산 돌입” - v.daum.net",
-    "link": "https://news.google.com/rss/articles/CBMiRkFVX3lxTE5lMDIxejMxS0x5S1RtOTNTcHJDcUNLXzRrYU12am91aTN5T3dxNjhMRjNvdTJTZWZxQzV2M0J5SC01TWlRNEE?oc=5",
-    "published": "2026-08-20 13:32",
-    "timestamp": 1787200357,
-    "summary": "TSMC가 1.6나노 공정 칩 개발에 성공했으며, 올해 4분기부터 양산에 돌입한다."
+    "title": "“TSMC, 1.6나노칩 개발 성공…4분기 양산 돌입” - 미주중앙일보",
+    "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE12aG5PYUFjaHl5TkFpMl9wV3hVWFdMZ1VWWnJVUVNESnF5Nk00YkRpd25fUkIzN0RiSzdzU0dzaGZ0LXlDQ1dTRDEtOHZGTFdGN25nNklJWVIwc05EZ00wakRB?oc=5",
+    "published": "2026-08-20 13:43",
+    "timestamp": 1787200980,
+    "summary": "TSMC가 1.6나노 칩 개발에 성공하여 올해 4분기부터 양산에 돌입한다."
   },
   {
     "company": "Apple",
@@ -1878,14 +1910,6 @@
     "published": "2026-08-19 18:18",
     "timestamp": 1787131095,
     "summary": "OpenAI가 최첨단 AI 훈련을 중단한 이후 성장세가 둔화되는 조짐을 보이고 있다."
-  },
-  {
-    "company": "TSMC",
-    "title": "TSMC는 '동반 성장', K-칩는 '즉시 현금'…보상 격차가 가른 반도체 초격차 - v.daum.net",
-    "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE1aWXNjZzJLcVpBVEdZNWNlZWpQRjl0d3J6dG10OVBfU1ZNcVNYU1pTQmtTM0Q4ang0Z2lnbW04RWpVWS1fNy1HTi1aWGp6VFk?oc=5",
-    "published": "2026-08-19 18:00",
-    "timestamp": 1787130018,
-    "summary": "TSMC의 동반 성장 전략과 K-칩의 즉시 현금 보상 체계를 비교하며, 이러한 보상 격차가 반도체 초격차에 미치는 영향을 다루고 있다."
   },
   {
     "company": "Broadcom",
@@ -2728,14 +2752,6 @@
     "summary": "마우저가 미디어텍의 6nm 기반 IoT 플랫폼인 지니오 420 공급을 시작했다. 해당 제품은 생성형 AI 기능을 지원한다."
   },
   {
-    "company": "Apple",
-    "title": "[숏폼] 中 반도체 구매말라 트럼프 행정부, 애플에 경고 - SBS Biz",
-    "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE10TGhZWlQxa2ZiTDNqUEVrdGRlWXVXSkFIVkxNNWEwU0J6cDV6bGRVWUJod2pDZmE4Ykd1YUVCdVEzNHF5REdZQ09DREhmaFc2U0ZtSGt5VFPSAVhBVV95cUxNdExoWVpUMWtmYkwzalBFa3RkZVl1V0pBSFZMTTVhMFNCenA1emxkVVlCaHdqQ2ZhOGJHdWFFQnVRMzRxeURHWUNPQ0RIZmhXNlNGbUhreVRT?oc=5",
-    "published": "2026-08-18 10:18",
-    "timestamp": 1787015880,
-    "summary": "트럼프 행정부가 애플을 대상으로 중국산 반도체 구매를 중단할 것을 경고했다."
-  },
-  {
     "company": "엠씨넥스",
     "title": "엠씨넥스, 연말 인도 공장 짓고 체질 개선…車 반도체·로봇 센서로 정조준 - 네이트",
     "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE11ejhOSjNtUGFWOTNwVURwRlVocXMtSkZHQVZYa01jcUtwa0QxOUNvUHJCenBKVFNvZXQ1SkZtLUZRSXNfZmp6SEp2WUFuVFBXMWtj?oc=5",
@@ -2798,14 +2814,6 @@
     "published": "2026-08-18 09:22",
     "timestamp": 1787012542,
     "summary": "파두가 데이터센터용 SSD에 이어 차세대 CXL 시장 진출에 속도를 내고 있다."
-  },
-  {
-    "company": "Apple",
-    "title": "애플, 모듈개발위해 'CXMT와 협력 제한' 속타 [여의도 Pick!] - news.mtn.co.kr",
-    "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE1iQng5TzJ1NndiMmdUQklQM1B0eTRTdzA2ODBERmpCdlRVVFpjNFhkNWZJNVJacFBoWE1XOEdIOFN0dHc1am9ycnVJS0ZtdHh2SW1PdW5wZlI3dXkwNWp4ejF3OTU?oc=5",
-    "published": "2026-08-18 09:00",
-    "timestamp": 1787011249,
-    "summary": "애플이 모듈 개발을 위해 CXMT와의 협력을 제한하는 상황에 놓였다."
   },
   {
     "company": "OpenAI",
@@ -7552,14 +7560,6 @@
     "summary": "케이던스 디자인 시스템이 실적 호조를 기록하며 시간외 거래에서 주가가 3% 상승했다."
   },
   {
-    "company": "Samsung Foundry",
-    "title": "머스크 이어 젠슨황까지…\"TSMC 추격은 착각\"이라던 삼성 파운드리, '희망' 보인다 [테크로그] - 한국경제",
-    "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE14d2xKcEhNRjA1OVg5UERzMC1rOHFkdkJ1OHpUMHBjOEdwX2NXbEItWXdXX212RGljOXB5X1BHS0c4a3M2eWtwc05iVjB2R0w0NjJCMlZKZmsydw?oc=5",
-    "published": "2026-07-28 06:00",
-    "timestamp": 1785186008,
-    "summary": "머스크와 젠슨 황이 삼성 파운드리를 언급하며 TSMC 추격에 대한 희망적인 시각이 제기되었다."
-  },
-  {
     "company": "Lattice",
     "title": "래티스 세미컨덕터, AMI 인수 완료…\"2026년 말 연간 매출 10억 달러 목표 지원\" - 데이터투자",
     "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE1fOXg2VjBhTjNoREIzanNIZm1FN0JMaW4wS0FFQnlfZ0Fyb3NtajEzbGN5eUJvVjhpc2hWQkVtR0dwbVVNeEFtR2FOcG45ODRZSS1IZzFmN1cyc1o4T0ZjQWVMbmhFdkJvRGY1NmxmbVYtdm8?oc=5",
@@ -7926,13 +7926,5 @@
     "published": "2026-07-23 14:11",
     "timestamp": 1784783469,
     "summary": "망고부스트가 AAI 2026에서 GPU 유휴 시간 제로화를 구현하는 풀스케일 AI 데이터센터 인프라를 공개한다."
-  },
-  {
-    "company": "Amazon",
-    "title": "아마존(AMZN), 범용인공지능 조직 감원 쇼크 직격타...이틀 연속 '하락' - 코인리더스",
-    "link": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE8xMG9zRVRRbHliZzlRaGVVcFJXSGhwWV9Nb1Y0V1NsaHFvdVlxYTJlZ2prTGNzbC1VQlloZTJPN1BYS2p6Mzd4UURn?oc=5",
-    "published": "2026-07-23 13:30",
-    "timestamp": 1784781000,
-    "summary": "아마존이 범용인공지능(AGI) 조직의 인원을 감축했다. 이로 인해 주가가 이틀 연속 하락했다."
   }
 ]
