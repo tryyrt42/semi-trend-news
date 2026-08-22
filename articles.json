@@ -1,11 +1,43 @@
 [
   {
+    "company": "AMD",
+    "title": "AMD는 RDNA 4m 정식 출시를 앞두고 리눅스용 펌웨어 파일을 공개했습니다. - GameGPU",
+    "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQcmJLbThPOUZ1MGxlTldwVVpNclRDYkEzVVdpM1RmZ3d1d1BHdG9LcklXcV9YUWl0NEgxNWlPRWUxbEpVWXJvT1gwZVA2Mko4WXhpeGx3QWdDNDY5SEJmcU53V3VmRmxjdlpVM1BLT2VRT2lWMjU1QWc2eUFjYkwtV2NNaEpETmtyVnN0NWhabklkUzFUTGFXdFV5bjJBQ29uM1Y0aE11dl9yTnUtX0xXTw?oc=5",
+    "published": "2026-08-22 20:57",
+    "timestamp": 1787399857,
+    "summary": "AMD가 RDNA 4 아키텍처 기반 제품의 정식 출시를 앞두고 리눅스용 펌웨어 파일을 공개했습니다."
+  },
+  {
+    "company": "NVIDIA",
+    "title": "엔비디아, 중국 전용 AI칩 연내 출하설 부인 - tokenpost.kr",
+    "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9mcmZraklfYk52Vmg3VmZMSHctdkhZOUFtT3BhYkFVclV0aG5ZS1hvVkpJdG9hVVpOenByRGRSN2l2NzFwS1U1R0lvaDhLcG50N1pOeEpyaWRCWndtU1ZZedIBZkFVX3lxTE1neklnejRCZHZQZVA3SFRTUXZaZVhMaUhMeXlIQ2x1MFJpVEtBdHJnWElBdlVDRmN5V1lhSU1pRFJDLXRyZy1MN3kwQ2Jlc1o4V3VxOXBRdFhsTV9SZllWbjZwMDZHZw?oc=5",
+    "published": "2026-08-22 20:48",
+    "timestamp": 1787399285,
+    "summary": "엔비디아가 중국 전용 AI 칩의 연내 출하설에 대해 사실이 아니라는 입장을 밝혔다."
+  },
+  {
+    "company": "Qualcomm",
+    "title": "퀄컴, 갤럭시S27 울트라 탑재 칩 공식 티저 공개 - 콕스뉴스",
+    "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5qTVpWM2NRekJZWXVOekwzZ1NKWkhEUWRhTWY3ejI4UW5ua0ZHVkltTXl6c1BhckI1ZUNQR0NORktLZXJ6dTVtV0NQd1hBX3h6c0xPX0NQNVFZSDJuRzlrRUJhLUZUVUlmNGc?oc=5",
+    "published": "2026-08-22 20:43",
+    "timestamp": 1787399035,
+    "summary": "퀄컴이 갤럭시S27 울트라에 탑재될 칩에 대한 공식 티저를 공개했다."
+  },
+  {
     "company": "NVIDIA",
     "title": "엔비디아는 중국 시장을 위해 특별히 설계된 AI 칩을 출시한다는 소문을 부인했습니다. - Vietnam.vn",
     "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPYXFlOGlZa0F2dFJ6OUlJcWt5bk43X0ttYWM2anVRVUFmWktvbF9BSzNHRThmMGJDRGxfcV9RS0hNT1NDOURfNXRfYllPWnRaWVd6Z3FnQkEtbXNMd3hkTTgzZnZMejdwc1B2cVloUklzdG5QcTNrUVR2czBUYi1LQ3JGd3FSbUVlQ0hNYTZvRzQ?oc=5",
     "published": "2026-08-22 17:02",
     "timestamp": 1787385763,
     "summary": "엔비디아가 중국 시장을 겨냥해 특별히 설계된 AI 칩을 출시한다는 소문을 공식적으로 부인했습니다."
+  },
+  {
+    "company": "Google",
+    "title": "앤트로픽, 2조달러 IPO 승부수…구글 TPU 주역 영입 - 미디어펜",
+    "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFBGZElvdFpKT3NhWU94REI4QTNFNjI1TFY0dUFSUjJiRzhOTmZockNxME96VHA0bkp5Mnh6LUhXYzN1SGtVUFZhSE1oNFBzUHNnVkdBd9IBWEFVX3lxTE13NHY3WFFIRFlNS1ZGVWRRS1E3b2ZNQWZiaUcwSWJrb3BLTHdOd3dCMlg4Y1AwRmVmQzFqVGxKX0I2TVhzT3YzekJJaUYtejJPNFNQYjhMVHI?oc=5",
+    "published": "2026-08-22 16:19",
+    "timestamp": 1787383198,
+    "summary": "앤트로픽이 2조 달러 규모의 IPO를 추진하는 가운데, 구글의 TPU 개발을 주도했던 인물을 영입했다."
   },
   {
     "company": "Amazon",
@@ -16,12 +48,28 @@
     "summary": "메모리 반도체 비용이 급증함에 따라 아마존이 주요 하드웨어 제품의 가격을 기습적으로 인상했다."
   },
   {
+    "company": "Amazon",
+    "title": "메모리 비용 급증에…아마존, 주요 하드웨어 제품 가격 ‘기습 인상’ - 포춘코리아",
+    "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE9oVEc4N2NhVERGaFVIZlNwemFLWGpKRXh0NXkya29jRzVQdDZ6RGNEX01kY3ZJbG5Cd2NuQ0xZdkxXYVI4eEU3b2tZMnpSVklfQ0g2a0lxYWpxNzR3Zm90MDRrVnV2Sk40NzRYZGwySUlKQdIBdkFVX3lxTFBxY1pSakhST2NURGNqZDVBRmQwRHhnMEdvMHRMaG8zdTUyT3gwekI1SW1adno5X0RVNkgyaWtDNkNZMkh4M3p4bzdWT1VqVXhySmhybXYxeUZtRXY0NGZPNUtOcnlXbGpYM25fUm9WemdOYVNKTGc?oc=5",
+    "published": "2026-08-22 16:00",
+    "timestamp": 1787382000,
+    "summary": "메모리 반도체 비용이 급증함에 따라 아마존이 주요 하드웨어 제품의 가격을 기습적으로 인상했다."
+  },
+  {
     "company": "Qualcomm",
     "title": "유출된 정보에 따르면 갤럭시 S27 울트라는 퀄컴 스냅드래곤 8 엘리트 익스트림 6세대 칩을 탑재할 가능성이 있습니다. - Vietnam.vn",
     "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPbzdwejBQdXRfYVF6RkxPdVB2SmhNenR0MVhwamVmS3BvVU1obmhldUN5MjVuQWs1SThLaHNHdjBTbUQ5cm1MWmRVN0FDMmp2REl2MVVoSThMTHQzQlZqM3dkVjhaYnVJUm5qLWNCZmc3VFFGMm1FbWtXd0U3clZkX1RWbXdwQ3IxdHAtc3BuX0U5TXk1RnZFbmdELXNxUTdZWlFfWUgweWRfRWsyeDdMS2hkREl2YTA?oc=5",
     "published": "2026-08-22 15:08",
     "timestamp": 1787378895,
     "summary": "갤럭시 S27 울트라가 퀄컴 스냅드래곤 8 엘리트 익스트림 6세대 칩을 탑재한다."
+  },
+  {
+    "company": "AMD",
+    "title": "AMD(AMD), 팀 라이언 이사회 영입과 위원회 재편에 나서다 - simplywall.st",
+    "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOLUVMZFMwcHlFdmQzekttNXdCRlp2N2FFLThhWUlyRnh2ejR6WHBxV1A2cjl1OTFiRVQ1TVFIRFNYYmVheWxQal9mSUZpVkVfalhlZ1lNM091SkdnMTZCeU5RQ2tKZnpJaG1SczdzOG9XZHo2dkZ4VDkwMEJpUm9KOXU1b25OZ2J6V0RlZGpDUnRHNF9xTXFLRDV4cVl3dzdOR2x3aHhSTGPSAa4BQVVfeXFMUDBxZHhCUmZWTGVFVWktSUprdmtNaDFUa2sySTdJLTBSZmIyeTQtTGluUDlvRlRaYTQ4NHEzU0dJMkY0bl9kLU83d3QwREo2ZkVCdDR4VmJpZl84RVFZeDFvOUx3dGp2cjdhZmw1NEs0WTF6NFBrOE5yT2hmbWJCN0I3ME0yYWxwZTYxRVBvcTh0WS1GQTl0NTY1OEdpVGl6NTE4RThYejl5bjZySlpR?oc=5",
+    "published": "2026-08-22 13:27",
+    "timestamp": 1787372878,
+    "summary": "AMD가 팀 라이언을 이사회에 영입하고 이사회 내 위원회를 재편했습니다."
   },
   {
     "company": "TSMC",
@@ -806,14 +854,6 @@
     "published": "2026-08-21 05:32",
     "timestamp": 1787257953,
     "summary": "브로드컴이 AI 칩 분야에 139조 원을 투자한다. 앤트로픽과 협력하여 엔비디아를 추격할 계획이다."
-  },
-  {
-    "company": "NVIDIA",
-    "title": "[TODAY엔비디아]디인포 “엔비디아, 中 겨냥 AI 칩 소량 출하 계획” - edaily.co.kr",
-    "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxObWtualphNW5pRU5rZmJ2My1jcUFoTDBIVlBQME1UUVM5Y0Y1MHJRRjdIRzJBOWI0WmJtMFN3N2V0dktIS1FsTV9ERExVTkJ4YjRXOEJsdmlGSVRGV0UxY29jZWM3emhVLUhIaGRYSGlXZndTV21GZXlaSnhINXUyMg?oc=5",
-    "published": "2026-08-21 05:31",
-    "timestamp": 1787257883,
-    "summary": "엔비디아가 중국 시장을 겨냥한 AI 칩을 소량 출하할 계획인 것으로 알려졌다."
   },
   {
     "company": "Broadcom",
@@ -1608,14 +1648,6 @@
     "summary": "경운대가 SDT, 모빌린트와 양자 및 AI 드론 분야 협약을 체결했다. 이를 통해 글로벌 무인이동체 시장 선점에 나선다."
   },
   {
-    "company": "AMD",
-    "title": "AMD AI PC, 카이스트에 기증 - news1.kr",
-    "link": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE9fNmRtUmE0U3o1VnkzdVRUNHNMZVppS2U4eDZRVjEwUlJWckNDSkVyWmpvdGtQZDQzQ0FuNXY0bEpOYVk1azNJNFJzVQ?oc=5",
-    "published": "2026-08-20 10:35",
-    "timestamp": 1787189755,
-    "summary": "AMD가 카이스트에 AI PC를 기증했다."
-  },
-  {
     "company": "Qualcomm",
     "title": "퀄컴, 스냅드래곤 8 엘리트 6세대 2종 9월 22일 공개 - 케이벤치",
     "link": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE54VVNkNHgyNVBhTlAwTE51YW5qWWRqaXpmanZhMnNEcjhGLTVzWlBzVFRkUGFEeW8ya2IwMUxqMVhLTU1CdFpXRQ?oc=5",
@@ -1630,14 +1662,6 @@
     "published": "2026-08-20 10:20",
     "timestamp": 1787188846,
     "summary": "삼성 파운드리가 AI칩 주문 증가에 따라 파운드리 가격을 최대 15% 인상했다."
-  },
-  {
-    "company": "AMD",
-    "title": "AMD·퓨리오사AI, 배경훈 과기부총리 만났다···국산 NPU 확산 머리 맞대 - 이뉴스투데이",
-    "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE1XZE9ORTJFNW9FUzBxVlJoWlJOTFZ6VVZrSG5yVkRoUC1KMWs5VTQwTWhsTjdIM0lGa0VVQnBfTHdUaVVGQjYzdkUyZkFKbGdYUHpySmEzSE5RZnNNa3V3cnVyVkctZ1NVcVN5MmpjaDZiOXJr0gF0QVVfeXFMTVdkT05FMkU1b0VTMHFWUmhaUk5MVnpVVmtIbnJWRGhQLUoxazlVNDBNaGxON0gzSUZrRVVCcF9Md1RpVUZCNjN2RTJmQUpsZ1hQenJKYTNITlFmc01rdXdydXJWRy1nU1VxU3kyamNoNmI5cms?oc=5",
-    "published": "2026-08-20 10:10",
-    "timestamp": 1787188258,
-    "summary": "AMD와 퓨리오사AI가 과기부총리를 만나 국산 NPU 확산 방안을 논의했다."
   },
   {
     "company": "퓨리오사AI",
@@ -2390,14 +2414,6 @@
     "published": "2026-08-18 19:23",
     "timestamp": 1787048631,
     "summary": "딥엑스의 NPU가 과학기술정보통신부로부터 혁신제품으로 지정되었다."
-  },
-  {
-    "company": "Google",
-    "title": "서랍 속 구형폰 2000대를 서버로 재활용… 구글의 '데이터 센터' 실험 - 더퍼블릭",
-    "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE00YUUwbkVNWjBKdEJFVmRVYmlLVTJFZDctU1FNWjV1NTdJSF9GUlRyYUNLTGZaRFljb1lRbFRva05qMjhkWFZsZzkxekVWXzJ4Zk1fMUc2R2J2YXRueUd6MFQtbHNrMnhtVk5B0gFvQVVfeXFMUGxXTUNhZ18zNVJSc1BjdVNiaEVYZm5WMnQ3OWlZV2RGaC0tXzNQdFROcDJWV3hTNVc4TkZ4a2oxSndKNzhwdzdBa3NSQ3VVbk9RZFQ0ZG5zd3lNZ1RMYWdONUlBZTFTUGtRLURiTVJr?oc=5",
-    "published": "2026-08-18 19:08",
-    "timestamp": 1787047725,
-    "summary": "구글이 서랍 속 구형 스마트폰 2000대를 재활용하여 데이터 센터 서버로 활용하는 실험을 진행했다."
   },
   {
     "company": "Qualcomm",
@@ -4950,14 +4966,6 @@
     "published": "2026-08-10 09:47",
     "timestamp": 1786322826,
     "summary": "오픈AI와 엔비디아 등 글로벌 기업들이 한국으로 유입되며 한국이 9500억 달러 규모의 AI 시장 중심지로 부상하고 있다."
-  },
-  {
-    "company": "Qualcomm",
-    "title": "\"수동적 Q&A는 끝났다\"…퀄컴, 스냅드래곤 X 기반 '에이전틱 AI' 온디바이스 조명 - 네이트",
-    "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE53STlpQlB3Z19vUTJXOUk4WmdEMHpGRGxhWno1UWxaZzBOWjJsZzlLWm1wZGNtRFlHLTd5YU5HdDA2WElIZTlDVGIxVkZlVHVGUncw?oc=5",
-    "published": "2026-08-10 09:40",
-    "timestamp": 1786322400,
-    "summary": "퀄컴이 스냅드래곤 X 기반의 에이전틱 AI와 온디바이스 AI를 조명한다. 수동적 Q&A를 넘어선 AI 기술을 다룬다."
   },
   {
     "company": "파두",
@@ -7886,13 +7894,5 @@
     "published": "2026-07-24 05:38",
     "timestamp": 1784839080,
     "summary": "나비타스가 실리콘 카바이드 기술을 매그나칩에 라이선스로 제공한다."
-  },
-  {
-    "company": "Skyworks",
-    "title": "스카이웍스, AI 데이터센터용 네트워크 동기화 장치 출시 - Investing.com 한국어",
-    "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE96X0YyaTZkRFFuY0lfU1hYVy1GMXhMS0J3UmFYUGYxV2FXM09UQzB1ZW1FNEdPY3B3T1pBaG9helJfakRaNkwzVWFjc1lCVjhxSFIwOE1PUzEzLVg2WjdSZXVNQWtuMkFYLWhuRW5mTi0?oc=5",
-    "published": "2026-07-23 21:10",
-    "timestamp": 1784808600,
-    "summary": "스카이웍스가 AI 데이터센터용 네트워크 동기화 장치를 새롭게 출시했다."
   }
 ]
