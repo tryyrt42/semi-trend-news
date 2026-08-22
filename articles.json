@@ -1,6 +1,54 @@
 [
   {
     "company": "NVIDIA",
+    "title": "엔비디아, 데이터센터 개발사 클로버리프 지분 투자… \"전력·부지부터 잡는다\" - AI타임스",
+    "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5GRXA1TEUwellZVEE3QnZxSmsyV2RJT3FHd3BwaEVDZHlfY3BCakRLS243dzczWVVSOFZGcU9SbXVHcGZEUHVsN09HZDYtajVuYk1NZGRNa254S3IyRGxOcWhIZkV5dzRiLUE?oc=5",
+    "published": "2026-08-22 11:28",
+    "timestamp": 1787365685,
+    "summary": "엔비디아가 데이터센터 개발사인 클로버리프에 지분 투자를 단행했다. 전력 및 부지 확보를 위한 전략적 행보로 풀이된다."
+  },
+  {
+    "company": "NVIDIA",
+    "title": "엔비디아, 국내 NPU 스타트업 리벨리온과 인수 협상 중 - AI타임스",
+    "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE15a0o4aDdRNGViNlVoMjFDTjJxeEFBSV9nTmJvRmlDUlJGN2MxUTU3NnZjQV9vMDZSbGtfODF1RDd5MEtRd2E3d1JqajJEbkpNUkJ2RERUTVJWOXhjQnh5MDk4b1FLQzBFRlE?oc=5",
+    "published": "2026-08-22 10:56",
+    "timestamp": 1787363773,
+    "summary": "엔비디아가 국내 NPU 스타트업인 리벨리온과 인수 협상을 진행 중이다."
+  },
+  {
+    "company": "Apple",
+    "title": "[재계핫이슈] 삼전닉스가 '잔치' 벌일 때, CXMT는 '애플 문' 두드렸다 - 펜앤마이크",
+    "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE5OY3dtNkJ0TDhVQnhYV1plTDlESDJidWlHQ01kWjNuUWtOX0RJTU5La0pFRzJFbGJxeWN4RnB6ZzNUelA1aG1XaTcya29IUnVhVmlaQ0wzdDZqTjdIZTdZSDlLU0NGWlJ0RW840gFvQVVfeXFMTTdCd01vOWczUVczLVptY05NZUZRT3dMS2VSWTlPQlVPWjVYcGVHMElqTG5GZE9VNmF5UnFRWFVFUGJUWjhSZmJKbDBVXzQwQlZLeE1EMU1WZmJ0S01Gd3M3MEc5eXRaVGtDQVBBcmk4?oc=5",
+    "published": "2026-08-22 10:44",
+    "timestamp": 1787363074,
+    "summary": "중국 메모리 반도체 기업인 CXMT가 애플에 공급을 시도하며 문을 두드리고 있다. 삼성전자와 SK하이닉스가 시장에서 성과를 내는 가운데 발생한 움직임이다."
+  },
+  {
+    "company": "AMD",
+    "title": "AMD·앱티브 손잡은 스트라드비젼···글로벌 ADAS 영토 넓힌다 - 시사저널e",
+    "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE1vTzdONEtwRWxNeTd4NWxhekctTE5vS3pUaks3RVcta0NnS3JiWjlvVTA4XzRQd0J2SDB6bmpMTHZKSUo4WGlwZTJra2c3SWRHM0lQZVdCRWdOTGNjbVo2dFNhUUM4SHBGd25tRk5FVkw2bDRWNFHSAXZBVV95cUxNb083TjRLcEVsTXk3eDVsYXpHLUxOb0t6VGpLN0VXLWtDZ0tyYlo5b1UwOF80UHdCdkgwem5qTEx2SklKOFhpcGUya2tnN0lkRzNJUGVXQkVnTkxjY21aNnRTYVFDOEhwRndubUZORVZMNmw0VjRR?oc=5",
+    "published": "2026-08-22 10:40",
+    "timestamp": 1787362817,
+    "summary": "스트라드비젼이 AMD와 협력하여 글로벌 ADAS 시장 확장에 나선다."
+  },
+  {
+    "company": "Google",
+    "title": "앤트로픽, 구글 출신 반도체 전문가 영입…칩 개발 본격화 - v.daum.net",
+    "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE5tT0FrMm5tMkZJdXJySHFSQ3J1UVdvcEJkRUc3cTc4aENNcDFVQ3lRM2p5QjRvdTZhdk9kdTRkUmNtRnk4NVlObFNYSko3YXM?oc=5",
+    "published": "2026-08-22 10:39",
+    "timestamp": 1787362741,
+    "summary": "앤트로픽이 구글 출신의 반도체 전문가를 영입하며 자체 AI 칩 개발을 본격화한다."
+  },
+  {
+    "company": "TSMC",
+    "title": "씨엠티엑스, 실리콘 파츠로 질주… TSMC 효과까지 본격화 - 핀포인트뉴스",
+    "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE5Qd1o1cWVQbDBLY2thNk05VkQ1aHRKblVtTnlJd05HaDM1MGgtNDFTUFB2Ti1tc2ZBWk9LZmg3Q1RzU08zZW91OGM2NS1xaWc4T3UwMDlXRWI3TXNIcHIyWkpUdUVQR3JfOUxmY2pUc051eGPSAXdBVV95cUxOdDhYbktkTzVMZU15TUo4YmJXelByZXloMV8zTGdlNl9OME12T0VaeWVKd1BkMkh5cm13WG1ubEpsdm1fZDh0SDlXU3l2YXdVZm5xZm5HYTdLbS1oRFY2Z0d2TmtYVFRfZkRZWFpibkRjbzlMcDA5bw?oc=5",
+    "published": "2026-08-22 10:20",
+    "timestamp": 1787361616,
+    "summary": "씨엠티엑스가 실리콘 파츠 사업으로 성장하는 가운데 TSMC 관련 효과가 본격화되고 있다."
+  },
+  {
+    "company": "NVIDIA",
     "title": "엔비디아가 채간 라시움 지분, 오픈AI는 검토만 하다 놓쳤다 - 콕스뉴스",
     "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9oQnp6Y0VsckJBdkc5SGZtaXp3UHVLSFVsM0hZaHVHX0U4bFpBWEY3SlV1Ri10WmVsM3FJMlRJbl9DbFZ0TlVKTXdiQmM0SjlUVUJkd010ejZ4S1NDTEt2VFM5TVp6YkEzcEE?oc=5",
     "published": "2026-08-22 10:14",
@@ -848,14 +896,6 @@
     "summary": "9월 4일 베를린에서 열리는 IFA 2026에서 뉴라 로보틱스, AMD, 밀레가 로봇, 컴퓨팅, 가전 분야의 삼각편대를 구성해 기술을 선보인다."
   },
   {
-    "company": "NVIDIA",
-    "title": "엔비디아-LG, 피지컬 AI 협력 확대…GR00T 기반 휴머노이드 내년 공개 - 티뉴스",
-    "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE9qQVJNdlNtRTlNRkVzc1ZJbFJBMkFVaVVWbGZJN0dEOTZjTDVkTTFuS01uOHlNSC1XWGg3VV82RDhIdmkxZjVjeTYwVWR3STh2b29WdzBTSmR1dDN6bFNvUHZSWTM?oc=5",
-    "published": "2026-08-20 22:54",
-    "timestamp": 1787234078,
-    "summary": "엔비디아와 LG가 피지컬 AI 분야에서 협력을 확대한다. GR00T 기반의 휴머노이드를 내년에 공개할 예정이다."
-  },
-  {
     "company": "Qualcomm",
     "title": "퀄컴이 2nm 공정의 스냅드래곤 8 엘리트 6세대 및 6세대 프로 칩을 출시하며 안투투 벤치마크 신기록을 세웠습니다. - Vietnam.vn",
     "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNUVBQWWxYMGVHY1JNRlJHWlIzZExJNU4tVmRKa0tKTGFGQllkWURZSG12OElwOF9yNm5WZHh1R3hYVlNSVV92YVlINjZYUFNtaXljd196ZHpIZjZuamhlN3ZZYnh4bzhCWWdubUVBOTE4eFdqSDI3Tk0zRWhOcXQxYTZ3RGVtTzJQd25wQW05QTZPOEFnaHJCekRlS042WlF6ZHkyTWt2XzhkeHpKTGJMamFCSW5kTDVK?oc=5",
@@ -942,14 +982,6 @@
     "published": "2026-08-20 19:28",
     "timestamp": 1787221709,
     "summary": "퀄컴이 2nm 공정 기반의 스냅드래곤 8 엘리트 6세대 및 6세대 프로 칩 출시일을 9월 22일로 확정했다."
-  },
-  {
-    "company": "NVIDIA",
-    "title": "\"코드 수정 없이 최대 4배\"…클라우데라, 엔비디아 손잡고 AI 데이터 비용 낮춘다 - 지디넷코리아",
-    "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5MR3E1eHlJYTlIVEFMd1dfSUIwVGZMN1BQQlloLUtCRTlaMmczT0cwRmJOV0JzU0tMazNYdkZUTm9YZG1Sd1BlbDZFZ2pNb25jSlFmVGdR?oc=5",
-    "published": "2026-08-20 19:00",
-    "timestamp": 1787220001,
-    "summary": "클라우데라가 엔비디아와 협력하여 AI 데이터 비용을 절감하고 코드 수정 없이 성능을 최대 4배 향상한다."
   },
   {
     "company": "Intel",
@@ -1400,6 +1432,14 @@
     "summary": "애플의 팀 쿡 CEO가 소비자 기반 및 서비스 생태계로의 변신을 주도하고 있다. 후임자인 테너스 앞에 중국 시장과 반도체 관련 과제가 놓여 있다."
   },
   {
+    "company": "리벨리온",
+    "title": "라이너-리벨리온, ‘K-AI 풀스택’ 솔루션 사업 추진 - 바이라인네트워크",
+    "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFBXSy1aeFZNT1ZXeUxucW40SmprWnNHSEx5R1FLTnVCUzVxRS1zQm5NR3B5N3VmY3JncnZjRy0wNHlsWmZaNWZJUjdnRTBQTWs?oc=5",
+    "published": "2026-08-20 13:07",
+    "timestamp": 1787198851,
+    "summary": "라이너와 리벨리온이 협력하여 K-AI 풀스택 솔루션 사업을 추진한다."
+  },
+  {
     "company": "AMD",
     "title": "'학습'에서 '추론'으로 옮겨가는 AI 시장…정부, AMD와 국산 NPU 경쟁력 키운다 - 서울뉴스통신",
     "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTFBBNkRNOEhfZW5wcWR2ZUVnZjFfQlkyZ0tnX2U5OFBNMHRJWWp2NjJTS0NVeUFHcEpWWDFSZmE0emF1RVRyQzRZMnBlUjdhZDRGTlc0NHlzREpVM0dwQnF0dmlXMlllNzRrOHln?oc=5",
@@ -1526,14 +1566,6 @@
     "published": "2026-08-20 10:02",
     "timestamp": 1787187720,
     "summary": "AMD와 퓨리오사AI가 배경훈 과기부총리를 만나 국산 NPU 확산 방안을 논의했다."
-  },
-  {
-    "company": "AMD",
-    "title": "[AI픽] GPU 일변도 벗어난다…정부·AMD, 국산 NPU 실증 본격화 - 연합뉴스",
-    "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1qaVN4Z0JYSVdHeDF1R3AwcC1BNGIyRkdpcUtkZFlsZ0theDlGa05kY2EwM1hINHpBOUZJTlVNd2h2WFhuSW1pREVxeThiUExzbkVKakZGNWdLNknSAWBBVV95cUxOeWVma0VoWTR0RDBkV2hzNTRDenpWc0s4ZUpxOU1ZZTZLQm5fZEpIeloxYnpFMl9wdGZzOXRxeUhqVlNSc0ZiS1lyb0Zwd3h0U0dQSmNUdWZNMk0yTDZ6R0Q?oc=5",
-    "published": "2026-08-20 10:00",
-    "timestamp": 1787187604,
-    "summary": "정부와 AMD가 협력하여 국산 NPU 실증 사업을 본격적으로 추진한다. GPU 일변도에서 벗어나 AI 반도체 생태계를 다변화하려는 목적이다."
   },
   {
     "company": "Google",
@@ -1870,14 +1902,6 @@
     "published": "2026-08-19 17:49",
     "timestamp": 1787129348,
     "summary": "삼성 파운드리가 파운드리 서비스 가격을 최대 15% 인상했다."
-  },
-  {
-    "company": "TSMC",
-    "title": "TSMC는 동반 성장, K-칩는 즉시 현금…보상 격차가 가른 반도체 초격차 - 아주경제",
-    "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE5VQ19DMVFmcDRYX25UUDkwOEpvNjZrQlAxcEtEc1VpdU43dDVkSzlnR0JUMjNFSENha1FsbFc4QzlmWHIybnpEYlI0ZFZkLTkwMEZNVDV2RlfSAVhBVV95cUxOVUNfQzFRZnA0WF9uVFA5MDhKbzY2a0JQMXBLRHNVaXVON3Q1ZEs5Z0dCVDIzRUhDYWtRbGxXOEM5ZlhyMm56RGJSNGRWZC05MDBGTVQ1dkZX?oc=5",
-    "published": "2026-08-19 17:47",
-    "timestamp": 1787129224,
-    "summary": "TSMC의 동반 성장 전략과 K-칩의 현금 보상 격차가 반도체 초격차를 가르는 요인으로 분석되었다."
   },
   {
     "company": "Intel",
@@ -2600,14 +2624,6 @@
     "summary": "미 의회가 애플에 CXMT 반도체 사용 중단을 요구함에 따라 이에 대한 애플의 답변이 주목받고 있다."
   },
   {
-    "company": "Google",
-    "title": "구글 삼성전자·SK하이닉스와 메모리반도체 협상에 유리, AI 서버와 스마트폰용 '통합 구매' - 비즈니스포스트",
-    "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE9HQVNjRk1Cci04SzNrODRPMHZRWXItdXRZSEk1ZGVMekYwSzhhYjdmdXRPV0R0bVZyUklBbGZoVFRUR3RXaTVmemhUd2NzY3piZUs4VTJuX2J3UmVNNXVMWmVkanNPUlRvbkloQnZLMFFuYzA?oc=5",
-    "published": "2026-08-18 13:36",
-    "timestamp": 1787027784,
-    "summary": "구글이 AI 서버와 스마트폰용 메모리 반도체를 통합 구매하기 위해 삼성전자 및 SK하이닉스와 협상을 진행한다. 이를 통해 구글은 메모리 반도체 구매 협상에서 유리한 위치를 점할 것으로 보인다."
-  },
-  {
     "company": "리벨리온",
     "title": "리벨리온 NPU, 과기정통부 '혁신제품' 지정…국산 AI반도체 공공조달 물꼬 - 네이트",
     "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE5kRWtlZGxCMGNmblBPTzlreGxyWnAtZU9nSGZhdXZyQ1F0eTRLcnpnRWpwVVJwRjN0RGhPVm9BaFRkNXlNQ3ZfYVBDemNHLXEwM3k4?oc=5",
@@ -2814,14 +2830,6 @@
     "published": "2026-08-18 07:16",
     "timestamp": 1787005017,
     "summary": "RFHIC가 상반기 GaN 트랜지스터 매출을 확대했다."
-  },
-  {
-    "company": "Apple",
-    "title": "\"中 반도체 구매말라\"…트럼프 행정부, 애플에 경고 - v.daum.net",
-    "link": "https://news.google.com/rss/articles/CBMiRkFVX3lxTE5vQ0x3d1J3V3RFc0owZHBCN0tGUHRyeFZKOE1DamdoR1FhNHAybVB2S2t5WG01X2RiLXZqQ1U5UTBrLVVvMWc?oc=5",
-    "published": "2026-08-18 04:45",
-    "timestamp": 1786995910,
-    "summary": "트럼프 행정부가 애플을 대상으로 중국산 반도체 구매를 중단할 것을 경고했다."
   },
   {
     "company": "Groq",
@@ -4142,14 +4150,6 @@
     "published": "2026-08-12 10:34",
     "timestamp": 1786498448,
     "summary": "시높시스 문성수 대표의 사진과 관련 정보가 보도되었다."
-  },
-  {
-    "company": "리벨리온",
-    "title": "AI 기업 IPO 줄줄이 잡은 KB증권…클레온 이어 리벨리온 주관사단 합류 - 이코노미사이언스",
-    "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE9GTm1HQjJHLUs5aTVGSjBkcEQzRDBSck1DbHRPaDMzVGxHVVBHQ2pxQTEyU3ZGa3pkdEVPZ19OWXlaTVNBVnhMZ2V3SldTWU5lSnNVeloxMTlnYURlS0RpTjNmVE9IYXYzRUhwLUR1cw?oc=5",
-    "published": "2026-08-12 10:27",
-    "timestamp": 1786498073,
-    "summary": "KB증권이 클레온에 이어 리벨리온의 IPO 주관사단에 합류했다."
   },
   {
     "company": "Amazon",
