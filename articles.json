@@ -1,5 +1,13 @@
 [
   {
+    "company": "Microsoft",
+    "title": "[\"엔비디아도 못 버텼다\"… 메모리 가격 폭등에 AI 서버 최대 15% 인상 예고] MS·구글 등에 인상 통보… 삼성·SK하이닉스 등 메모리 반도체 업계 막강한 협상력 입증 - AI넷",
+    "link": "https://news.google.com/rss/articles/CBMiQEFVX3lxTE5rckt5RjREZmRDWE1NUVNkVV9tVkt3TGtycUdJTzVsSnkyRGhxUmdBT3NORnlMQW0yWENtVmV2WHo?oc=5",
+    "published": "2026-08-23 22:37",
+    "timestamp": 1787492235,
+    "summary": "메모리 가격 폭등으로 인해 AI 서버 가격이 최대 15% 인상될 예정이다. 메모리 반도체 업계는 MS와 구글 등에 인상 사실을 통보했다."
+  },
+  {
     "company": "AMD",
     "title": "새로운 GCC 컴파일러 패치로 AMD Zen 5 프로세서의 성능이 12% 향상되었습니다. - GameGPU",
     "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPQ000b3c2VEhZUzFaUEtIUW9uRGFVNUJqaTdsaVdrZDRuVllweEY1Y1A4R0lGZFA3dFZ2MTFUWkJ0VTcyWmxQblhIeVVVbUQ5OHdsOV84VUU0bEJ5dEMzVkVCZ244ekVlbS1tckc3aEt6bkpHT2s5NENDdkMzNzJNdHhOb2oxcUhEVlJyZFN3UFlhc2N1MlBPQTRNRzIzdE5vRFhPSWRkWUwtUGlCakhobi10QXVNaHpYQll5UA?oc=5",
@@ -10,10 +18,10 @@
   {
     "company": "NVIDIA",
     "title": "Hut 8 Stock Climbs After Securing Long-Term Nvidia AI Data Center Leases in Texas - TIKR.com",
-    "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQcnhmZ253cDVaLWQ4V1BEOGtWWnc3RzlrT1BaLXJuV21FTkZLbTlLN2RnMmk4Y0ROcW9Za0xSaVlpV3ltaEZfbnMtN3FBa3VLdW5UVGNFOHFrNGtvTHlCREM1VHkwTzJtQXZFekR6dW5mOEdjdWh2ZjNYb2tqM2w5ejltY1dTWVlzTlQw?oc=5",
-    "published": "2026-08-23 20:27",
-    "timestamp": 1787484453,
-    "summary": "Hut 8이 텍사스 내 장기 NVIDIA AI 데이터 센터 임대 계약을 체결했다."
+    "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxOQ0xLMERnejVxQnF4cWpUT3E1VkJ3SC1zbVNtRXpFTGlIWHJROUVGVExLNnNIbDQ2QWJseENvYmY0LWRKcm5uVklLdkoyd1lQSXp0YnN0X1BUSmdrMzRENFA0MjRQZklhVDJreW8wZkdicmhweEFTY2ZubFNlZ3VkVndVYVFlRm9YcEE?oc=5",
+    "published": "2026-08-23 20:37",
+    "timestamp": 1787485050,
+    "summary": "Hut 8이 텍사스 내 장기 NVIDIA AI 데이터 센터 임대 계약을 체결하며 주가가 상승했다."
   },
   {
     "company": "NVIDIA",
@@ -126,6 +134,14 @@
     "published": "2026-08-23 16:30",
     "timestamp": 1787470200,
     "summary": "첨단 패키징 PLP 기술의 상용화와 관련하여 한국 기술이 대만 TSMC에 종속될 우려가 제기되고 있다."
+  },
+  {
+    "company": "NVIDIA",
+    "title": "\"엔비디아, 韓 AI 반도체 기업 리벨리온과 협력 논의\"…젠슨 황·박성현 대표 회동 - 네이트",
+    "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE12OGZ2bWFXcWktRGViaklOTFhudVhoVjJ3Vms2Wk5vbmQ1WDExcEpWRnNTOWpYQnV2Y1l2ZjhnZjJaY0d4UGszQWpfYWpVT3FTOVlzLUY5aWVnZ0dLOEJrbXRuZ2dZX0FLR3dwRmNjWHJjdTFMLTNoQQ?oc=5",
+    "published": "2026-08-23 16:18",
+    "timestamp": 1787469480,
+    "summary": "엔비디아와 한국 AI 반도체 기업 리벨리온이 협력을 논의했다. 젠슨 황 엔비디아 CEO와 박성현 리벨리온 대표가 회동을 가졌다."
   },
   {
     "company": "NVIDIA",
@@ -622,14 +638,6 @@
     "published": "2026-08-22 12:00",
     "timestamp": 1787367655,
     "summary": "엔비디아가 리벨리온의 기술력에 주목하며 협력 가능성을 시사했다. 리벨리온은 이른바 'K-엔비디아'로 불리며 기술적 가치를 인정받고 있다."
-  },
-  {
-    "company": "NVIDIA",
-    "title": "Nvidia Expands Beyond Chips With New AI Infrastructure Bets - Radio Seoul",
-    "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBVSEVKSmNaRjk0SGdGZDVwbE1SSk0xWFpzV2lXZEJqNzdKbkpWR1B1SmtKckxzRGxSUnN2RkNxYmFOV3VLX0ROdERrTXV1bVJVYktreHJJZ1M1QQ?oc=5",
-    "published": "2026-08-22 11:51",
-    "timestamp": 1787367092,
-    "summary": "엔비디아가 새로운 AI 인프라 투자에 나서며 기존 칩 제조 사업 영역을 확장하고 있다."
   },
   {
     "company": "TSMC",
@@ -7686,14 +7694,6 @@
     "published": "2026-07-27 16:37",
     "timestamp": 1785137824,
     "summary": "샤오미의 보급형 스마트폰 '레드미 17 4G'에 스냅드래곤 대신 미디어텍 칩이 탑재될 예정이다. 해당 기기의 세부 사양 정보가 유출되었다."
-  },
-  {
-    "company": "Microsoft",
-    "title": "[실리콘밸리 K-AI] 'HBM 패권' SK하이닉스, 엔비디아·MS 연쇄 동맹…글로벌 AI 메모리 질주 - 위키리크스한국",
-    "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE5ESGxfQlZkam9sQ2RFeUU0c3JCR1YyUVFBekhTUEd6M3Z1bmhDMGFwY2dWenQyT3BaTW0yRHBrSEwwTUFRTWVGdW9VTThsUWF5Z0NUSzFJWTdFcnZYcXVpbnZfVHRXQ3FjUk13NHJ2QQ?oc=5",
-    "published": "2026-07-27 15:25",
-    "timestamp": 1785133500,
-    "summary": "SK하이닉스가 엔비디아 및 마이크로소프트와 연쇄 동맹을 맺으며 글로벌 AI 메모리 시장에서 질주하고 있다."
   },
   {
     "company": "제주반도체",
