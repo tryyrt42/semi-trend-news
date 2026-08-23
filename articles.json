@@ -1,5 +1,29 @@
 [
   {
+    "company": "NVIDIA",
+    "title": "엔비디아, 일부 고객사에 서버 가격 15%↑ 인상 통보｜Global Money Club - 중앙일보",
+    "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1tRU5ob0RBaEFkcTZuV3REeUZNbUZSdzcwM3ZWeGJJWkN4QjJRUkp1QmxmYXQ5UENzb1BlUXh5Ykc0WG5QdzZQazk0TFR4d2pSbTRXeDFrMUN3TTA?oc=5",
+    "published": "2026-08-24 07:05",
+    "timestamp": 1787522711,
+    "summary": "엔비디아가 일부 고객사를 대상으로 서버 가격을 15% 인상하겠다고 통보했다."
+  },
+  {
+    "company": "TSMC",
+    "title": "“TSMC, 초미세 파운드리 시대 열었다” 1.6나노 공정 기술 개발 성공…삼성 파운드리 전략 ‘비상’ - CEO스코어데일리",
+    "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE5sN1lhSTVCYkxqWjNkVFhOUlhtVmlmeTdFcTh1YWpXS2RPZzJIek1FczNfcjVpWmdBUTZTRmhhZG9wSmJzbDB5SWtGU0dGTHZIU3BzMWRaVS1sRDRHWFZNZ0owS3lqVTdj?oc=5",
+    "published": "2026-08-24 07:00",
+    "timestamp": 1787522400,
+    "summary": "TSMC가 1.6나노 공정 기술 개발에 성공하며 초미세 파운드리 시대를 열었습니다. 이로 인해 삼성 파운드리의 전략에 비상이 걸렸습니다."
+  },
+  {
+    "company": "NVIDIA",
+    "title": "엔비디아, 중국과 경쟁할 월드베스트 오픈웨이트 모델 개발 속도 낸다 - 디지털투데이",
+    "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE9ZbG5NZFJqSjAxVUd0OFpzY0pCZEdsS2RXdUE3VHh0WU5paF9KX1Q4MVZydHdBRjVSenQyRjBDalFiWi1ycjJaWXd2MXl6Nk1zWkpQc1dqMk44THRRQnUtWjhnemFEX2VybmFxdWNIcnRjZXc?oc=5",
+    "published": "2026-08-24 06:57",
+    "timestamp": 1787522242,
+    "summary": "엔비디아가 중국 시장과 경쟁할 월드베스트 오픈웨이트 모델 개발에 속도를 내고 있다."
+  },
+  {
     "company": "리벨리온",
     "title": "젠슨 황, 리벨리온 박성현 만났다…\"인수 논의까지\" - 머니투데이 - 머니투데이",
     "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE0tRVdsOVp1R251d2gyV01pYlBZLVJzRy1EcXotd3BJeVp2a0tfa3dkRkJhNks0SUZpMDI1LUIwdkVFbkFQbkM1dzd5NHkzOG9aLXFFOUE5dHlGenFRaGZQZ1k3anJsV2PSAWxBVV95cUxQNGhNQ1czRk45TUlmUU9vMWtsdUNpUk51TGFXNlZXMDFEYjViLTJKX212cGdkNWk4M1phTGZSRFI2US05eHFvTENsZmJ1b0lJZkJPM3oteHRxZ1FOTC12NWMwQkxCbkFzenVOWGI?oc=5",
@@ -30,6 +54,14 @@
     "published": "2026-08-24 04:08",
     "timestamp": 1787512080,
     "summary": "갤럭시 S27의 두뇌로 퀄컴 칩과 삼성전자 엑시노스 칩 중 어느 것이 탑재될지 결정될 예정이다. 해당 AP의 가격은 7조 4천억 원 규모이다."
+  },
+  {
+    "company": "Qualcomm",
+    "title": "AP 값만 7조4천억…\"퀄컴칩이냐 엑시노스냐\" 갤S27 '두뇌' 주인은? - 머니투데이 - 머니투데이",
+    "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBiVUNRMXdqWlZsZkhkUVRXT0Rldk1ibVJJMTZ6Sll4aER2RHFtcGlrc3BaTjF3ZDhSZTdvRlZZclRfTmZ5MDR3ZnI3ckdMeHp1ZFg3NS1ldEQzdDdKNS1ORTh2LWw1bHhtOTBrVtIBbEFVX3lxTFBiVUNRMXdqWlZsZkhkUVRXT0Rldk1ibVJJMTZ6Sll4aER2RHFtcGlrc3BaTjF3ZDhSZTdvRlZZclRfTmZ5MDR3ZnI3ckdMeHp1ZFg3NS1ldEQzdDdKNS1ORTh2LWw1bHhtOTBrVg?oc=5",
+    "published": "2026-08-24 04:08",
+    "timestamp": 1787512080,
+    "summary": "갤럭시 S27의 AP 탑재를 두고 퀄컴 칩과 삼성 엑시노스 간의 경쟁이 진행 중이다. 해당 AP의 가치는 7조 4천억 원 규모로 추산된다."
   },
   {
     "company": "NVIDIA",
@@ -480,28 +512,12 @@
     "summary": "데스크톱 CPU 시장의 20% 폭락세 속에서도 AMD가 신기록을 달성했다. 이로 인해 한국 메모리 반도체 시장의 판도 변화가 예상된다."
   },
   {
-    "company": "NVIDIA",
-    "title": "엔비디아, 中 맞춤형 AI칩 출시설 부인…“계획 없다” - 서울경제TV",
-    "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE4tNjdnckp3SHdITEdhRFNRcFEwQWlGSXVqS01yOHM4amFmTEN0OEJNb24xWGxTczdYSXBGeTJTaGpYNWxsckpCUDBLZHo3dHFrWXVtZHpZdzgtMGlHU3MyR095YXI?oc=5",
-    "published": "2026-08-23 08:00",
-    "timestamp": 1787439604,
-    "summary": "엔비디아가 중국 맞춤형 AI 칩 출시설을 부인하며 관련 계획이 없음을 밝혔다."
-  },
-  {
     "company": "Qualcomm",
     "title": "삼성전자 엑시노스 2700, 사내 테스트서 퀄컴 칩에 성능 우위 - 연합뉴스",
     "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9La3p3YWpNNm9yX2wzU0ZLMkdzQXBzYWFScm92MXVxMl8wNDBGcXA0dGV4WEZUOWxhbXBVWGpOZVl4ZUt2RHQzX29aTmd5RDdkTnFyU3o5TGljSUXSAWBBVV95cUxNZmNYZDFLc19UWTc4c082MzZTbXpoRVFMSzUyZVp5dWxRQUw0Mi1JM1YxMG5LZF9yTDQ3Qk1ZZ3J6VzhfR21wMmV6WnpQYTN4bHl1bDB3WVRWMGVuV1VtQ1M?oc=5",
     "published": "2026-08-23 07:07",
     "timestamp": 1787436421,
     "summary": "삼성전자 엑시노스 2700이 사내 테스트에서 퀄컴 칩 대비 성능 우위를 보였다."
-  },
-  {
-    "company": "NVIDIA",
-    "title": "엔비디아, 주요 고객 대상 AI 서버 가격 인상 추진 - 네이트",
-    "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE91ZHJQTk1UQ216UHFDNno4dVpjOGd5QVNEYmJhRm5wMEIzeWkzNFpHV0s5QjdQQ0NYQkp2WU4tM1poaWtPX3UyaUtOS3hEaGxueDhj?oc=5",
-    "published": "2026-08-23 07:01",
-    "timestamp": 1787436060,
-    "summary": "엔비디아가 주요 고객사를 대상으로 AI 서버 가격 인상을 추진한다."
   },
   {
     "company": "Samsung Foundry",
@@ -750,6 +766,14 @@
     "published": "2026-08-22 09:09",
     "timestamp": 1787357376,
     "summary": "LG전자가 레이저 직접 묘화 장비를 활용해 TSMC의 병목 현상을 해결하고 AI 칩 패키징 시장에 진출한다."
+  },
+  {
+    "company": "Intel",
+    "title": "기업 60% “5년 내 로봇 운영”…인텔, 전략·인력·인프라 ‘준비도 격차’ 지적 - 뉴스탭",
+    "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTFAydVl6MDd1Rl9LakxyV3BzVGlLRWVrLUtTNzJKSHpkOVo2Z0drVU10a2NqMFpnekpCMDJZMjY0by1ob1FtY1Y4b3BBVl9XdTVvNll2RlMzbVNHRWFoUFZudmhPMG00Nnc4MlRfeg?oc=5",
+    "published": "2026-08-22 09:06",
+    "timestamp": 1787357161,
+    "summary": "기업들의 로봇 운영 도입이 확대되는 가운데, 인텔이 전략과 인력 및 인프라 측면의 준비도 격차를 지적했다."
   },
   {
     "company": "Google",
@@ -2000,14 +2024,6 @@
     "summary": "라이너가 리벨리온과 AI 풀스택 솔루션 사업을 추진한다. 라이너의 AI 에이전트에 리벨리온의 국산 NPU를 결합할 예정이다."
   },
   {
-    "company": "Intel",
-    "title": "향후 5년간 AI 첨단 패키징만 2조 달러 전망…인텔, TSMC에 도전장 - 글로벌이코노믹",
-    "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPN003Ql94SzFsaUE4VC1uNkVJSzNaUmh4a3ZkY0xoV2czT3ZjTE1RcHp2QzB2V2g4RUVWeXFpcU9wX3JNUF9Ocl9sTERhYTY5LTZFenVzMVRzRkpnUS1pakpKTkU5Um81cGxEem1lSHh3YUs0dGtmc01oRTBaRUtqVnY0NmI?oc=5",
-    "published": "2026-08-20 11:11",
-    "timestamp": 1787191902,
-    "summary": "인텔이 향후 5년간 2조 달러 규모로 전망되는 AI 첨단 패키징 시장에서 TSMC에 도전장을 내밀었다."
-  },
-  {
     "company": "Google",
     "title": "구글, 마벨과 맞춤형 AI칩 협력 확대…최대 17조원 신주인수권 계약 - IT조선",
     "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE8yeV9rZUhEbmZ4NXFGR0NWSFRWVWp2UlhLTFFwTTYzXzdiaHNjYXZ5RDhBNUgtdXBkMlk4VXprYzBJYTJWTW5aOGRQVVpkTWJ4cGdMYzUwWVY2Rm9kSUVocEhUSXc0V3ZfMU56eTF0S0FtUzRq0gF0QVVfeXFMTzJ5X2tlSERuZng1cUZHQ1ZIVFZVanZSWEtMUXBNNjNfN2Joc2NhdnlEOEE1SC11cGQyWThVemtjMElhMlZNblo4ZFBVWmRNYnhwZ0xjNTBZVjZGb2RJRWhwSFRJdzRXdl8xTnp5MXRLQW1TNGo?oc=5",
@@ -2022,14 +2038,6 @@
     "published": "2026-08-20 10:36",
     "timestamp": 1787189811,
     "summary": "경운대가 SDT, 모빌린트와 양자 및 AI 드론 분야 협약을 체결했다. 이를 통해 글로벌 무인이동체 시장 선점에 나선다."
-  },
-  {
-    "company": "Qualcomm",
-    "title": "퀄컴, 스냅드래곤 8 엘리트 6세대 2종 9월 22일 공개 - 케이벤치",
-    "link": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE54VVNkNHgyNVBhTlAwTE51YW5qWWRqaXpmanZhMnNEcjhGLTVzWlBzVFRkUGFEeW8ya2IwMUxqMVhLTU1CdFpXRQ?oc=5",
-    "published": "2026-08-20 10:22",
-    "timestamp": 1787188921,
-    "summary": "퀄컴이 9월 22일 스냅드래곤 8 엘리트 6세대 2종을 공개한다."
   },
   {
     "company": "Samsung Foundry",
@@ -2206,14 +2214,6 @@
     "published": "2026-08-20 05:42",
     "timestamp": 1787172135,
     "summary": "울프스피드의 4분기 매출은 1억 5000만 달러를 기록했으며, 이는 전년 동기 대비 24% 감소한 수치입니다."
-  },
-  {
-    "company": "TSMC",
-    "title": "TSMC가 4분기 1.6나노 A16 칩 양산 준비를 마쳤다는 보고서 나와, 인텔과 삼성보다 앞서고 있나? - TradingKey",
-    "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQZnVMRlVpSEhVc29qWjFNNjFoRC1vRzZIUmJ2NUEtWmRVRWtoNXhMd3pZZF92UHQzS21ZT2xDWlM0eHFySmFWZmI0bWsyX1FkcGpLNnM0eFpyWFNPUUlBeDdFMTh4aE51NTQwUG1NX2Nwd1ltQl9MMlo4Y00zYkNiWTdSNEZmN1kyR3AyRThERjhVZkIyenFJSXFtbHppRWtMTXBKTVlRS2ZhMm5RNGhDenEzOU8yakN5bHZ5T2RJdXd5T1F1TEE?oc=5",
-    "published": "2026-08-20 01:52",
-    "timestamp": 1787158320,
-    "summary": "TSMC가 4분기 1.6나노 A16 칩 양산 준비를 마쳤다는 보고서가 나왔습니다. 인텔과 삼성보다 앞서고 있는지에 대한 내용입니다."
   },
   {
     "company": "Texas Instruments",
@@ -7774,13 +7774,5 @@
     "published": "2026-07-25 09:00",
     "timestamp": 1784937600,
     "summary": "배경훈 장관과 리사 수 AMD CEO가 AAI 2026에서 망고부스트와 모레를 방문하는 동반 투어를 진행했다."
-  },
-  {
-    "company": "Analog Devices",
-    "title": "브이시 헬스, ADI 및 M2B와 채무 불이행 분쟁 해결 합의서 체결 - 데이터투자",
-    "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9LMnhSRVlVeUtXWVBGajNSZENwTkhJbXRqZ3l1TTlmRmhzQ2hIeExDd1dHZ2dvY3dLcl9LdWNxNC1CS1ZVN0VBZWpRWmdFOWFkVk9ZUy11NUlUck0tZnViNkEwSmhILWlzdTdwcEFfaGY?oc=5",
-    "published": "2026-07-25 05:34",
-    "timestamp": 1784925264,
-    "summary": "브이시 헬스가 ADI 및 M2B와 채무 불이행 분쟁 해결을 위한 합의서를 체결했다."
   }
 ]
