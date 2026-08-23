@@ -1,5 +1,13 @@
 [
   {
+    "company": "NVIDIA",
+    "title": "Nvidia Bets $6 Billion on Poolside to Build U.S. Open AI Rival - Radio Seoul",
+    "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5YcFM2WWtlWGlQN3l2a1oyeTFoWFRFMEVuWlpPY2FoVFhUNXRrZE42aDF6OFNqQXBveWpiN0dfeWRRV3dMaDhkWmgtLVlYSHlFaV9CYVZkMTIwdw?oc=5",
+    "published": "2026-08-24 00:55",
+    "timestamp": 1787500509,
+    "summary": "NVIDIA가 미국산 오픈 AI 경쟁력을 확보하기 위해 Poolside에 60억 달러를 투자한다."
+  },
+  {
     "company": "AMD",
     "title": "100억달러 이상 타이완 투자, 에이엠디 공급망 확장 - tokenpost.kr",
     "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9kSkhFMURIUlNUX0g0SmstVGh3b2ZBdEpYd1VOOWlHRTY5TzZHdjBoM3hhZlFwbkNDUUJYX2piR3NtQVdaa042YXVSNzRYYjBsZjVMUnNrRkplRi1Gczl4Z9IBZkFVX3lxTFAyU3dKekpYVFVLNXM3YlVLUDRkaU1sRGdKZXNCNlk0V0ZoZHFmVXkzUWl3dkpRYmI4OW04QzY4bzl5T2lGOW9KaEhJb043Zk5PWm92Z2xMMFE1VDQyQ3ZjUXczYTNGQQ?oc=5",
@@ -14,6 +22,14 @@
     "published": "2026-08-24 00:34",
     "timestamp": 1787499240,
     "summary": "앤스로픽이 자체 칩을 개발하고 엔비디아는 AI 모델 개발에 나선다. 양사의 사업 영역이 교차하는 현상을 다룬다."
+  },
+  {
+    "company": "NVIDIA",
+    "title": "엔비디아 “AI 서버값 15% 이상 인상” 예고 - 동아일보",
+    "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFAtWlNRQmxha2ptYzFXVHV6ZVZXNDlGMzhLMlRNR2RwRG00VU9KcFFsQzNPSmdNT1VZdTIyRXNQMk1HSGV0SVpyR184YWM1WXlvV1VjRnNVblhBazZ5WVJkTTcwSFdYd9IBZkFVX3lxTFAtWlNRQmxha2ptYzFXVHV6ZVZXNDlGMzhLMlRNR2RwRG00VU9KcFFsQzNPSmdNT1VZdTIyRXNQMk1HSGV0SVpyR184YWM1WXlvV1VjRnNVblhBazZ5WVJkTTcwSFdYdw?oc=5",
+    "published": "2026-08-24 00:30",
+    "timestamp": 1787499000,
+    "summary": "엔비디아가 AI 서버 가격을 15% 이상 인상할 계획을 예고했다."
   },
   {
     "company": "AMD",
@@ -552,14 +568,6 @@
     "summary": "AMD가 RDNA 4 아키텍처 기반 제품의 정식 출시를 앞두고 리눅스용 펌웨어 파일을 공개했습니다."
   },
   {
-    "company": "NVIDIA",
-    "title": "엔비디아, 중국 전용 AI칩 연내 출하설 부인 - tokenpost.kr",
-    "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9mcmZraklfYk52Vmg3VmZMSHctdkhZOUFtT3BhYkFVclV0aG5ZS1hvVkpJdG9hVVpOenByRGRSN2l2NzFwS1U1R0lvaDhLcG50N1pOeEpyaWRCWndtU1ZZedIBZkFVX3lxTE1neklnejRCZHZQZVA3SFRTUXZaZVhMaUhMeXlIQ2x1MFJpVEtBdHJnWElBdlVDRmN5V1lhSU1pRFJDLXRyZy1MN3kwQ2Jlc1o4V3VxOXBRdFhsTV9SZllWbjZwMDZHZw?oc=5",
-    "published": "2026-08-22 20:48",
-    "timestamp": 1787399285,
-    "summary": "엔비디아가 중국 전용 AI 칩의 연내 출하설에 대해 사실이 아니라는 입장을 밝혔다."
-  },
-  {
     "company": "Qualcomm",
     "title": "퀄컴, 갤럭시S27 울트라 탑재 칩 공식 티저 공개 - 콕스뉴스",
     "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5qTVpWM2NRekJZWXVOekwzZ1NKWkhEUWRhTWY3ejI4UW5ua0ZHVkltTXl6c1BhckI1ZUNQR0NORktLZXJ6dTVtV0NQd1hBX3h6c0xPX0NQNVFZSDJuRzlrRUJhLUZUVUlmNGc?oc=5",
@@ -598,14 +606,6 @@
     "published": "2026-08-22 17:16",
     "timestamp": 1787386614,
     "summary": "인텔 코어 울트라 7 270K 플러스 모델이 공개되었다. 높은 성능을 제공하며 가격 경쟁력을 갖춘 제품이다."
-  },
-  {
-    "company": "NVIDIA",
-    "title": "엔비디아는 중국 시장을 위해 특별히 설계된 AI 칩을 출시한다는 소문을 부인했습니다. - Vietnam.vn",
-    "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPYXFlOGlZa0F2dFJ6OUlJcWt5bk43X0ttYWM2anVRVUFmWktvbF9BSzNHRThmMGJDRGxfcV9RS0hNT1NDOURfNXRfYllPWnRaWVd6Z3FnQkEtbXNMd3hkTTgzZnZMejdwc1B2cVloUklzdG5QcTNrUVR2czBUYi1LQ3JGd3FSbUVlQ0hNYTZvRzQ?oc=5",
-    "published": "2026-08-22 17:02",
-    "timestamp": 1787385763,
-    "summary": "엔비디아가 중국 시장을 겨냥해 특별히 설계된 AI 칩을 출시한다는 소문을 공식적으로 부인했습니다."
   },
   {
     "company": "Google",
