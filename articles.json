@@ -1,5 +1,29 @@
 [
   {
+    "company": "Intel",
+    "title": "인텔, 데이터센터 뒤흔들 ‘차세대 AI 프로세서’ 공개 - Benzinga",
+    "link": "https://news.google.com/rss/articles/CBMiwwJBVV95cUxPckg4WDJ4R1BZUFRUb0hNN3FhMlJGRzNOQm5aSjZqbFpEUnNoNC1MTHN0MXh2NkJHbjBHMjlBNVlxTkFvQkc2eUE5c0tEY2s0T1J2WlpzU1dYMkhPNHpoQXhSWG5Qc085ellSYk9jT3hXTFotbkJSdjBpQ1AtU25VWnFobFFYSHk5YVhLWTRlSGY1YWhyQzN5Nm8tT2NuSVpzclJhdmNEbFRJXy12QzVPSnlGZEpTbnlWbDFvUjdvUFJZNUNXZzFvaC1lR095TmViYXRfSEJzanlITjdaZHJVcDk2emFEc3BLZE9LWTEtTEIzVEdZWW54SlhPWnNrYXNqZzNtYTI4VDEtREt5QS1HT2ZFTnpVVzNodTA1RHl4bHo3MlN2LWtVbEo3YUJnbjJSelpzR0VWR2piV0R6c3c2aFVfbw?oc=5",
+    "published": "2026-08-25 21:06",
+    "timestamp": 1787659612,
+    "summary": "인텔이 데이터센터 시장을 겨냥한 차세대 AI 프로세서를 공개했다."
+  },
+  {
+    "company": "NVIDIA",
+    "title": "엔비디아 ‘그록 3 LPX’, 긴 컨텍스트 AI 추론 초당 3431토큰...에이전틱 AI 응답 지연 줄인다 - 지티티코리아",
+    "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTFAtdWotTDhTZlNUdGxQdm4tMmJXRGUxZ0VjVGpoUVBLV1RpaFlEdVlNUjluOGtQVDJTVURvVkhCd0lsZlV2TG10elJhV0ZPdGtaX1gtUzVOV2FfTXhTeE5qZ3dZQ0hWUlBwb0E?oc=5",
+    "published": "2026-08-25 20:15",
+    "timestamp": 1787656516,
+    "summary": "엔비디아의 그록 3 LPX가 긴 컨텍스트 AI 추론에서 초당 3431토큰을 기록했다. 이를 통해 에이전틱 AI의 응답 지연을 줄인다."
+  },
+  {
+    "company": "NVIDIA",
+    "title": "엔비디아, 200억달러에 인수한 '그록' 칩 본격 양산 - 머니네버슬립",
+    "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTFBubUVZM1ZULXdDdFIwa0ZBSmhjNXBqaUs3aDdRTVBzeDVNWXgtWE94WEU4NnRNR2R5a3ZkWXVva3k5UTFyem9MSnRDQlo4U3ZQSXJKT0JqYXJxUEJlX0pRWGxVcm1mMzlOSTg0ODkybDBINlRDVkxF0gF3QVVfeXFMUG5tRVkzVlQtd0N0UjBrRkFKaGM1cGppSzdoN1FNUHN4NU1ZeC1YT3hYRTg2dE1HZHlrdmRZdW9reTlRMXJ6b0xKdENCWjhTdlBJckpPQmphcnFQQmVfSlFYbFVybWYzOU5JODQ4OTJsMEg2VENWTEU?oc=5",
+    "published": "2026-08-25 19:14",
+    "timestamp": 1787652861,
+    "summary": "엔비디아가 인수한 그록의 칩을 본격적으로 양산한다. 인수 금액은 200억 달러 규모다."
+  },
+  {
     "company": "NVIDIA",
     "title": "엔비디아, 스페이스XAI에 베라 CPU 등 공급 - 디일렉",
     "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE1KSGNfUGV5Y1N6Wml0TGFxN3hHUDh1cGpSSW5IaVdnNUI5SUtVUDJpWVBWRzFLX2ZCQUdHOXFwd0FUaDdSUHE0WFpLZmR5bkNjSzF4YTE3dXl5ZjVOT3Q5WTdtQnYwQQ?oc=5",
@@ -14,6 +38,14 @@
     "published": "2026-08-25 18:58",
     "timestamp": 1787651880,
     "summary": "삼성 파운드리가 엔비디아의 차세대 AI 칩인 '그록3'의 양산을 시작했다."
+  },
+  {
+    "company": "Apple",
+    "title": "[MOVIEW] ‘짧고 넓게’ 폴더블 판 바뀐다…삼성·애플·샤오미 3파전 - 디지털데일리",
+    "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTFBpQ04wZXlmQlh2dnRWdi1GMG1Na1ROSWFrTmdTcmlVNkVZcDg3aEJaZDVDa21tSVZPaHptZ0NwcWppM3U3WVU2ekpGTkxoa0J4cXROd3R1ZTAwTV91N2RWXzhR?oc=5",
+    "published": "2026-08-25 17:54",
+    "timestamp": 1787648078,
+    "summary": "삼성, 애플, 샤오미 3사가 폴더블 시장에서 경쟁을 펼치며 시장 판도가 변화하고 있다."
   },
   {
     "company": "NVIDIA",
@@ -240,6 +272,14 @@
     "summary": "웨이모가 인간의 눈만으로는 부족하다며 테슬라의 자율주행 기술을 정조준했다. 반도체 학회에서 관련 입장을 밝히며 기술적 차별성을 강조했다."
   },
   {
+    "company": "Tesla",
+    "title": "통나무도 못 피한 테슬라 FSD…완전자율주행, 아직은 먼 미래기술일까 - 녹색경제신문",
+    "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFA4UXpKdnRvZS1zWHpNUVZvTUlPUWh6ZzRnNk4yLWt3UDNnUkF3U0paejRxSFJPZ2gtNGRuaWcwVFphdXhncjc4RF8yNXZKQ3hCVkxkMmI1OFJwcHdvN3I3bm5TbTZHWkRt?oc=5",
+    "published": "2026-08-25 14:54",
+    "timestamp": 1787637281,
+    "summary": "테슬라의 FSD 기술이 도로 위의 통나무를 회피하지 못하는 사례가 발생했다. 이를 통해 완전자율주행 기술의 현재 수준에 대한 의문이 제기되고 있다."
+  },
+  {
     "company": "Apple",
     "title": "삼성 ‘세계 1위 탈환’ 청신호…애플, 2000달러 ‘접는 아이폰’으로 격돌 - 더퍼블릭",
     "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE41dUQwa0p4M1ZCb2dVYi13WmhJZk5hWmFPWngtZXVTX1I3aGxITURIXy0xbWlPX0hGdks4TUlUVy1BcUZzYl9POW9DQUZYVzEwbVkwdmlpRkJSdEhDMXUybFF0SE40YUlHNno4?oc=5",
@@ -280,6 +320,14 @@
     "summary": "엔비디아가 스페이스X의 그록 AI 인프라를 기가와트급 컴퓨팅 규모로 확장한다."
   },
   {
+    "company": "Samsung Foundry",
+    "title": "삼성 파운드리 설비투자 확대 신호…4나노 풀가동에 엔비디아 그록3 양산 - 데일리시사닷컴",
+    "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTFB5ZlNZM3VHMUkzUUNLNGFFd3htNjd3d2FVTHo2RVI5bks3NzUzb3NWM0lQX0pMLTFfTW5FaTRwaG8tSFhmUG5LYk55SUdXX3NWMzlqbUhFS29UY05yWi1HY094dGQzQUpEMWlF?oc=5",
+    "published": "2026-08-25 14:09",
+    "timestamp": 1787634597,
+    "summary": "삼성 파운드리가 설비투자를 확대하며 4나노 공정을 풀가동한다. 엔비디아와 그록3의 양산을 진행한다."
+  },
+  {
     "company": "NVIDIA",
     "title": "머스크 “엔비디아 기반 AI 위성, 내년 4분기 첫 발사” - 조선비즈 - Chosunbiz",
     "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNWU5lcUxISTFua2xOLXRIOHhYVlpzSnlGaFRHWUhKWGZxcklGNWE1MVk3XzlQZ2IwNnNoR0NfMVhPUG92QmFyaEdxTVpDdF9xZ1dlSVE0TG1GYUktQkVSREI3QTNSTUFBRGdVNUw4M2FOSWdCV1RZQzJFRUhRYXFHcVBraXhjdHlnMXkwVdIBoAFBVV95cUxPUEN2UGw5b3Z5WmZjUUVzNjc5clpFMkNSb1NGUGVsYld4Z245eUY2cWhwOHMwT0hWQUxHckpzRFFzaFhmQ0Z2VXFnUHhJanJrQTBRbW5MTmJjVnI5YTRVcEJ1ZGY0Q1ItbU1BdEdNOHVPTC1ZUlFlWmFmVl9JWHF4cl9pbkpsOG9FV0NYSTJvRWlvQWg0bGpHbk9Landhd0kt?oc=5",
@@ -310,6 +358,14 @@
     "published": "2026-08-25 13:46",
     "timestamp": 1787633203,
     "summary": "SpaceXAI가 대규모 에이전틱 AI 가속을 위해 NVIDIA의 Vera CPU를 도입한다."
+  },
+  {
+    "company": "NVIDIA",
+    "title": "엔비디아, 삼성 생산 AI칩 ‘그록’ 첫 상용화 - 매일경제",
+    "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE5jUzRKT1Zyc214NTFrNGNDWnVialJBekE4X01rV2J0Tmg1QUhENWx6c3l5bS15V2p3Mi1QYjJOZFZ1ZTgybXkxQ0tuaU5Pdw?oc=5",
+    "published": "2026-08-25 13:46",
+    "timestamp": 1787633165,
+    "summary": "엔비디아가 삼성전자가 생산한 AI 칩인 그록을 처음으로 상용화했다."
   },
   {
     "company": "Google",
@@ -456,14 +512,6 @@
     "summary": "엔비디아가 추론용 칩인 '그록 3'의 양산을 시작하며 삼성 파운드리를 생산처로 선정했다."
   },
   {
-    "company": "NVIDIA",
-    "title": "엔비디아, 추론용 칩 ‘그록 3′ 양산 돌입...삼성 파운드리 생산 - 조선일보",
-    "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQV28tbDhJYjBQeFJzTFgxUVBVOWYzNHNYYnRmeFZIaS1QTHRLeTZqSm13Nk5UbjFXbFctcE5QaGJjaDJIRm9VU2RMcXVlN3pUT29UUDUxcGlEUW5ENlE4RHhnbmF6N2hQejBMWXExNVNMaTZ0Tk04RDBURVVRLUNjcHhpVQ?oc=5",
-    "published": "2026-08-25 11:21",
-    "timestamp": 1787624460,
-    "summary": "엔비디아가 추론용 칩인 그록 3의 양산을 시작했다. 해당 칩은 삼성 파운드리를 통해 생산된다."
-  },
-  {
     "company": "AMD",
     "title": "AMD, 기업 AI 도입 비용 분석 ‘토크노믹스 계산기’ 공개해 - elec4",
     "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE1FbzhPczNkZ05ScDVVaEZaQnZyT2hUOFQ5S0pOVkRNYjRMZGFCUkpxRGxIT1h4eWhvWUU2RFhvSEFqWDR3NUdLSFpxOG05YV9Fb1V1aHFJMjJKVnNTWnl5dmJnMjFjRDB6cFBMQ3ZR?oc=5",
@@ -494,22 +542,6 @@
     "published": "2026-08-25 10:55",
     "timestamp": 1787622915,
     "summary": "인텔이 반도체 국제학회에서 에이전틱 AI를 위한 3종의 아키텍처를 공개했다."
-  },
-  {
-    "company": "NVIDIA",
-    "title": "토큰 단가는 내려가는데 하드웨어는 오른다…엔비디아 15% 추가 인상의 역설 - cio.com",
-    "link": "https://news.google.com/rss/articles/CBMiyAJBVV95cUxNUTBGTmh3OTVnYlZkc2FkbFc3bGxxczU0YUYxdEZsN3FnVFdoanRTbHgtSG5TSEt3MThTQmc1SXJqWGMtY1FMRlQ5bnNjZVdFSHZMckF6SFJiNHpHcnBGcXNtMmR3RW1aNUhlTWRMcHk5NUFvQjhmXzdoNjFuTnBFVGc0MDJYUmtaTi04R3JUbjFEOEo1UEF6Q2xLYXpBTXZlM0ZJaVhwUlozank1S2NhWV9uZzZZMEg3Z2JHQjZ2Y0hFRHlnNElVMEdnNmpUTy1jRm4tOTFGNzY0VkFja0NMTmFUOHE2TGtMR3lVRktqN3ZYaGJPNkFxTmsySk9ha2wwZHVwa0JQVkYxd1FjaEZ6bnFjMmFxWGJDdWZwTDJ4TlY5clRwZHdOQ1NzNmQ2LXM3d29oQjVMaWpnUjlMOVhfQ2tJa05Rekw4?oc=5",
-    "published": "2026-08-25 10:48",
-    "timestamp": 1787622492,
-    "summary": "엔비디아의 하드웨어 가격이 15% 추가 인상되었다. 토큰 단가 하락과 대비되는 하드웨어 가격 상승 현상을 다룬다."
-  },
-  {
-    "company": "NVIDIA",
-    "title": "엔비디아 추론칩 양산 본격화…삼성 파운드리 수혜 기대 - mstoday.co.kr",
-    "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9IRVR5bEczdml2SlZLekVYNGJGY1I0Umd2Zk9iSjNuOUJGSHc0cUhFTnF5bExUa1Jmd1U2MV9aWVU3YmQ3bjhxQTZ1U3dtYU1xekhocGdVNlAwV1Y1VlVLZEZDeWMwclNlNE5fMA?oc=5",
-    "published": "2026-08-25 10:46",
-    "timestamp": 1787622412,
-    "summary": "엔비디아의 추론칩 양산이 본격화됨에 따라 삼성 파운드리가 수혜를 입을 것으로 기대된다."
   },
   {
     "company": "Intel",
@@ -2320,14 +2352,6 @@
     "summary": "퀄컴이 모토로라 사장 출신인 세르지오 부니악을 총괄 부사장으로 영입했다."
   },
   {
-    "company": "Intel",
-    "title": "인텔, “로보틱스 투자 의향 60% 실제 전략 보유는 40%” - e4ds news",
-    "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE4yRjhnMUFORkdROC02Q1R6bXgwV2dvaVM0NDlTSGFOWVNMcGJrYTFubmp1cEJjNGN4MkFrWjlnaTB0NTlrbFNoSjJ5Y25QQlNOS09VMG9HVGNwZUFjUEs1QWpXTQ?oc=5",
-    "published": "2026-08-21 12:41",
-    "timestamp": 1787283660,
-    "summary": "인텔이 로보틱스 분야에 대해 투자 의향은 60%를 보였으나, 실제 전략을 보유한 기업은 40%에 그친다고 분석했다."
-  },
-  {
     "company": "Broadcom",
     "title": "브로드컴, 최대 1000억달러 AI 금융 승부수 - mstoday.co.kr",
     "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5Qc1JBRlVlUU4wVENfLWpzSEMwbzEzeHBTLVZBU2JWSDdNV0s1LUttcUFJYnVXMWpqVEh1eGdXbE1ZNEt2TDZKbTFrT2pCTFg1cF92NDhleWl6MEhJWWFLVkh6QzI5SjFOTjdldA?oc=5",
@@ -3302,14 +3326,6 @@
     "published": "2026-08-18 21:02",
     "timestamp": 1787054540,
     "summary": "애플이 아이폰과 맥북에 중국 업체가 생산한 메모리칩을 시험적으로 적용한다."
-  },
-  {
-    "company": "Apple",
-    "title": "[기자수첩] 애플이 탐내는 中 CXMT - v.daum.net",
-    "link": "https://news.google.com/rss/articles/CBMiRkFVX3lxTE9vLW5xUFRjaGxubHJwNHJTRUUwVmFqUVdJcm0tRnpqUlpJWkI3dkpyMGpOc242Y0hHOG8zY3c3RlF3ZThzU1E?oc=5",
-    "published": "2026-08-18 19:40",
-    "timestamp": 1787049642,
-    "summary": "애플이 중국 메모리 반도체 기업인 CXMT에 관심을 보이고 있다."
   },
   {
     "company": "딥엑스",
@@ -5976,14 +5992,6 @@
     "summary": "테슬라와 스페이스X가 AI 칩을 직접 개발하기 위해 텍사스주에서 '테라팹' 프로젝트를 본격적으로 추진한다."
   },
   {
-    "company": "Tesla",
-    "title": "스페이스X·테슬라, 미국 텍사스 AI 반도체 공장에 23조원 투자 - 포커스온경제",
-    "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5HQUk1ZWxySVR6c29UaVdSQndiSkdXQWFHOHpTWVVYQjJBbWRrY2ZLSURJa2x2bl9paVctQzBsVlRGam9yWFM2a2lXSWhWTUlrMHVOYi1EdDlMQ24wdVpmRQ?oc=5",
-    "published": "2026-08-07 07:12",
-    "timestamp": 1786054321,
-    "summary": "스페이스X와 테슬라가 미국 텍사스주 AI 반도체 공장에 23조 원을 투자한다."
-  },
-  {
     "company": "Silicon Labs",
     "title": "실리콘랩스, 업계 선도적인 전력 효율·보안·통합성을 갖춘 초저전력 블루투스 LE SoC ‘BG2B’ 공개 - 미디어데일",
     "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9RWnc0LU1zbTlWRVZ5U0t2SVQwcnhHTENCNmNNWVRBcjZSRWw1RHR0QVpKUGNZTTlBQVdmMEpDOTdpeTBscUNJOTI1dzhfQktuT0FzY2ozUHVBaDlpQ0NFdEg2UVBqRW5XclhoZQ?oc=5",
@@ -7230,14 +7238,6 @@
     "published": "2026-07-31 08:07",
     "timestamp": 1785452870,
     "summary": "아마존이 역대급 매출을 기록하며 AI 인프라 투자를 확대하고 있다. 이로 인해 반도체 시장이 급반등했다."
-  },
-  {
-    "company": "Samsung Foundry",
-    "title": "삼성 파운드리 적자탈출 속도전…메모리와 쌍끌이 전략 [biz-플러스] - 서울경제",
-    "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE1uWTJMa19XajhGY2JwM3VmTFgtalpHa2p4M3ljSmFGRmswU0hHWFRIa2psODk0b1FDY0ZTN2pwbXlGMmlKUmFlbS1mU1ljRlBQUVHSAVNBVV95cUxQa3VreU5wcnZCbHRsT0ZoVE5jQVpWOHVRdnhGR2xWWTJXMXVRZElsYzBMR0FZRGlYeW80YTlFb01BNDZhcmJ0eXg0VEhvOVhoZjhXYw?oc=5",
-    "published": "2026-07-31 07:00",
-    "timestamp": 1785448800,
-    "summary": "삼성 파운드리가 메모리 사업과 함께 쌍끌이 전략을 통해 적자 탈출을 위한 속도전에 나섰다."
   },
   {
     "company": "동운아나텍",
