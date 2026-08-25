@@ -1,11 +1,43 @@
 [
   {
+    "company": "OpenAI",
+    "title": "OpenAI, 첫 자체 AI 칩 ’할라페뇨’ 초기 성능 데이터 공개 - Investing.com 한국어",
+    "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE12ZDVuekgtZUVPd1JsYzI0WEprNzBtYWZMOXVZUmJTLW5rUzVhUjBPd1RQZG1HSHRkZTZxZWUtcHU4SHpMNWtvNXYtM3JPZFRsRTNER2dHdHhGSGw5TU05VGh0OGVsYWptcFBNc0ljN08?oc=5",
+    "published": "2026-08-25 23:15",
+    "timestamp": 1787667300,
+    "summary": "OpenAI가 자체 개발한 첫 AI 칩 '할라페뇨'의 초기 성능 데이터를 공개했다."
+  },
+  {
+    "company": "NVIDIA",
+    "title": "슈퍼마이크로, 시스코와 손잡고 NVIDIA AI 인프라 공급 나선다 - 매일경제 마켓",
+    "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBZQ2sxd3NWWWJ4enlOMFZJMENhX1ZFbDBjTnBpUFgyVWJNbzVWa0RxZGFnRHRrNElKNlJCWGtSNDJvSHVaSnFBVlQ0bmhiamNfaHc?oc=5",
+    "published": "2026-08-25 23:00",
+    "timestamp": 1787666415,
+    "summary": "슈퍼마이크로가 시스코와 협력하여 NVIDIA AI 인프라 공급을 추진한다."
+  },
+  {
+    "company": "NVIDIA",
+    "title": "엔비디아, 그록3 양산 본격화…삼성 파운드리 수혜 - 뉴스토마토",
+    "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTFBPR1hoTlVGNUJGOVpsS2lrWWtPVTFvVHNnaXU4UkxCQ0RZak5ST094VzA4c0NrRGw4a05NOVhvOTBIV3JSZDVCRUZtaC01c1A2OW9VVDFGNk9nQzhOLXdwS2w4UGtjTUZQTDAw?oc=5",
+    "published": "2026-08-25 22:13",
+    "timestamp": 1787663584,
+    "summary": "엔비디아가 그록3 양산을 본격화하며 삼성 파운드리가 수혜를 입을 것으로 보도되었다."
+  },
+  {
     "company": "Intel",
     "title": "인텔, 데이터센터 뒤흔들 ‘차세대 AI 프로세서’ 공개 - Benzinga",
     "link": "https://news.google.com/rss/articles/CBMiwwJBVV95cUxPckg4WDJ4R1BZUFRUb0hNN3FhMlJGRzNOQm5aSjZqbFpEUnNoNC1MTHN0MXh2NkJHbjBHMjlBNVlxTkFvQkc2eUE5c0tEY2s0T1J2WlpzU1dYMkhPNHpoQXhSWG5Qc085ellSYk9jT3hXTFotbkJSdjBpQ1AtU25VWnFobFFYSHk5YVhLWTRlSGY1YWhyQzN5Nm8tT2NuSVpzclJhdmNEbFRJXy12QzVPSnlGZEpTbnlWbDFvUjdvUFJZNUNXZzFvaC1lR095TmViYXRfSEJzanlITjdaZHJVcDk2emFEc3BLZE9LWTEtTEIzVEdZWW54SlhPWnNrYXNqZzNtYTI4VDEtREt5QS1HT2ZFTnpVVzNodTA1RHl4bHo3MlN2LWtVbEo3YUJnbjJSelpzR0VWR2piV0R6c3c2aFVfbw?oc=5",
     "published": "2026-08-25 21:06",
     "timestamp": 1787659612,
     "summary": "인텔이 데이터센터 시장을 겨냥한 차세대 AI 프로세서를 공개했다."
+  },
+  {
+    "company": "NVIDIA",
+    "title": "슈퍼 X AI 테크놀로지, 일본서 3,880만 달러 엔비디아 B300 서버 공급계약 체결 - 매일경제 마켓",
+    "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE9LMkZQYm1iVmdVc3J1Qi1yN0RZdmRvd3VkaDhSZVptclJWUXozVm9rRndxam1UR1B2LXJ6b3h5NUN2RDYtaGZ5MzdwdE1vZXdaYXc?oc=5",
+    "published": "2026-08-25 21:04",
+    "timestamp": 1787659475,
+    "summary": "슈퍼 X AI 테크놀로지가 일본에서 3,880만 달러 규모의 NVIDIA B300 서버 공급 계약을 체결했다."
   },
   {
     "company": "NVIDIA",
@@ -70,6 +102,14 @@
     "published": "2026-08-25 17:36",
     "timestamp": 1787646967,
     "summary": "스페이스X와 엔비디아가 협력하여 우주용 '베라 루빈'을 개발하고 2027년 궤도에 투입한다."
+  },
+  {
+    "company": "Intel",
+    "title": "인텔, ‘핫 칩스 2026’에서 에이전틱 AI용 아키텍처 세가지 선보여 - 디지털경제뉴스",
+    "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBCdDhzaWV5aDJYMFJxNVljSHBlNTRzZlRLbllMeFhBTUNEbHZ5eENoNW9JamtDLUNRZXZMbk41aHhLVV8wZUNEeGlBbU5XbDdhTk52dVFDeG9OY2F1dUd3TnRlcU9kdllTX0E?oc=5",
+    "published": "2026-08-25 17:29",
+    "timestamp": 1787646585,
+    "summary": "인텔이 '핫 칩스 2026' 행사에서 에이전틱 AI를 위한 세 가지 아키텍처를 공개했다."
   },
   {
     "company": "NVIDIA",
@@ -254,6 +294,14 @@
     "published": "2026-08-25 15:17",
     "timestamp": 1787638639,
     "summary": "엔비디아가 메모리 가격 하락이 어렵다고 판단하여 AI 서버 가격을 인상했다."
+  },
+  {
+    "company": "Synopsys",
+    "title": "시높시스 코리아, 대학생·대학원생 대상 시뮬레이션 경진대회 '시뮬레이션 챌린지 2026' 성료 (사진=시높시스 코리아) - 전자신문",
+    "link": "https://news.google.com/rss/articles/CBMi3AhBVV95cUxNa1dWdTBWZ2tmV3pYLUxuTWVWM1ZDM0RYMFU2SWFjQ1QxR0hXSVB4djVDNTdTc2VtSG0tRUk4alR3VGJWMFdaRkJpd2FNR0EteGlWVjRUMERtdXlEa2QxVVFoNHJ5ZHJPTU8ycXZqN1BxOHF5S2NBVW1GZjI0YU13SWlBdkthX0pjSUs2ZWpnZnlVNmFNU0JnN2xkU2NUcjZBYnk3WVRreThEcEYwVUs1aThvWVhDX2JodEs2WGxvUVdJd0UzaVJqbnE3U3ZMMjVzb1VNcnd4dXhHX1picEdsbmMybUdZYktJcG1ZQjdDc2tYdERnbC1fWmZsMG4yNXBzd0FKeVh1UVppYU1Gc01XVldaeldINnI4MjVsUDd0bTFVM2lFSlRXV3IzMXVhb09EbnI5VHROZ3dBeHY2eXBBdEMyTTVRalNQWmJaaHJCRE5XekJJdm9mU1lYcmluLTZPbHVGWGRGb3VmLWtYcjI2VFFRdmlraXhhZmhVOTliMUE5WHVSdmtrMkJpZlFhV3JSR0hRZFV5RG5rWDBkc0YzX0NuMnA1Wml2NmZ3dG50d2NrZ2trTWpmOG41VmRlNjlsM3FuRWpmQ01qdmV1N0pxM0ZScmRPQzRLUWpvTWw2ZlNmbExkMkJvZU5Kci0xb2YxME1DZmN3a3E2V0g0RlFQR1gxbXhDclQzbURPT1VheTBIb05sMy1HWU5qZ1hESmxlYmtoamxhMFh5RXVHalRJOFBMV2dSNGRwQTU4S2ktSTlBY1BVakRPT1p0TXp4YUxaZUJZbFlFcldZREp5NmlRanhSZ0ZPaTZmcDVhRTRySkZPS2MtZFdWS19qazR0UTZmZXVEMVpuMTdsWW5EcEQtaUpzUGNRWFRWejdNQzI5YkNNRGZ3UzZTRWVvWkV6dFNBaGtRSVdrQkhEdF9PNkQybFFQTWpRZ3hJSHNlUGNhdkhlRzd0U1h2SzJuMVNmaWZRVVE1d3FHN3JQMVhESzI0M2RMRjZzbHJKQ2l1Vk9IWWpmbi1tYTR4UUtpRUUtNnA0VnI0MzNtVTE2WXB6UDFobzFDX2dUX2YzY1Z2UUxOclo0cVJITXBtSi1udVNibWNuY3ZLQXZCMThKNUJLdE1Pd0JicW5raHhHeHo4QWoxcDk5UzFfSWM4SUJKbVc1U0c1Nm80aFJyTHVBaE93WXNNZ3JWM1Y1bTY5S0dJdEN5RUluajh3cFd5TlFQekctdkY4bFByTFljWkhMYlVwUEhsU3FXaV8ySW5UQXBnMWFOcWUxaXgxb1ZBRG5GSEI2YzVYelBSVEVWYS1OY0xjZVFWSkI2ZVJKVWY0OU5ST3FSMDZIek9VVXlaeVdEUDI0YVhzUTMtbFlUcHVrYk84ZFpVS01id3FReUgwUzRSX1Z4Z2lfRnNKZDhCVV9OYXh0R0tqcnEzNzlxbzljVDJISW41WmI4M2ZEam5TZmVSZWYwZVNYU2haN3FaQUMwYnU?oc=5",
+    "published": "2026-08-25 15:02",
+    "timestamp": 1787637769,
+    "summary": "시높시스 코리아가 대학생 및 대학원생을 대상으로 한 시뮬레이션 경진대회 '시뮬레이션 챌린지 2026'을 성공적으로 마쳤다."
   },
   {
     "company": "리벨리온",
@@ -472,20 +520,12 @@
     "summary": "정부가 삼성, SK, 구글, ASML과 함께 재생에너지 조달을 위한 해법을 논의했다."
   },
   {
-    "company": "NVIDIA",
-    "title": "러시아, 엔비디아 칩 장착 드론… 우크라 전장에 투입 - 문화일보",
-    "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE1OMXdVMkxVTzdtTEpWaURYWjVHYkVySWRoUDRfWWJDVjZPX3MweDUteENtRDdxZFNJQ2lJYkJfTUZoY2JuUkF4eVZGeWYzWUpI?oc=5",
-    "published": "2026-08-25 11:56",
-    "timestamp": 1787626573,
-    "summary": "러시아가 엔비디아 칩이 탑재된 드론을 우크라이나 전장에 투입하고 있다."
-  },
-  {
-    "company": "NVIDIA",
-    "title": "엔비디아, '삼성 생산' 추론칩 '그록3' 양산 돌입…네비우스 첫 고객 - 아이뉴스24",
-    "link": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE8tMDVtLW1UeV84TDZpQ01Ldk5uSVhra1dkQjI5cVU2aXNhejJrdDEwQl9CblhNdkxpRmJ4QjYyMkdXdkk5SVc5Qy1Jaw?oc=5",
-    "published": "2026-08-25 11:37",
-    "timestamp": 1787625472,
-    "summary": "엔비디아가 삼성 파운드리에서 생산하는 추론칩 '그록3'의 양산에 돌입했다. 네비우스가 해당 칩의 첫 고객사로 참여한다."
+    "company": "Intel",
+    "title": "“데이터센터에서 엣지까지…인텔의 ‘AI 풀스택’ 전략 본격화” - 테크데일리",
+    "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE0tSml4aG5QVURBMDN3eGR6OVhyLXppWFZUOFNLMWFENk94SkRqNU9tNWZvT2RGYUpkVEh6WXBXU0p2anJITVcxVUtEekd4SWItTU9jVVhyWi0xQzFqV21KNnc0d2dUTjV3cHZiZG9n0gFyQVVfeXFMTkh4V1dEXzhjV24yYWcxVEhFYUJxal9ramx1Nmg4ME1EWGdqdFZrR0V2NkpfX0VxVHA2NzNUblVxV2lzXzhTYmE0NHdrUEtCaUJ1djVjVVhnNkVSc2JBc29lWXhZNklxVEJQSEg2X1VBUzFn?oc=5",
+    "published": "2026-08-25 11:51",
+    "timestamp": 1787626307,
+    "summary": "인텔이 데이터센터부터 엣지까지 아우르는 AI 풀스택 전략을 본격적으로 추진한다."
   },
   {
     "company": "TSMC",
@@ -502,14 +542,6 @@
     "published": "2026-08-25 11:26",
     "timestamp": 1787624816,
     "summary": "인피니언이 인도 전력반도체 스타트업 C2i를 인수했다. 이번 인수를 통해 AI 데이터센터의 전력 관리 역량을 강화한다."
-  },
-  {
-    "company": "NVIDIA",
-    "title": "엔비디아, 추론용 칩 '그록 3' 양산 돌입…삼성 파운드리 생산 - 네이트",
-    "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFA5X2pIVVRqcWlCZ2dib2Vjd3k1M1hxLUdqRjZ4SnNWMkdCaVpWbktsU1hhSlk4bVpBTUxUa1RaMzI1VlFTVGlFQnEtRzNRWjg5VjVr?oc=5",
-    "published": "2026-08-25 11:23",
-    "timestamp": 1787624580,
-    "summary": "엔비디아가 추론용 칩인 '그록 3'의 양산을 시작하며 삼성 파운드리를 생산처로 선정했다."
   },
   {
     "company": "AMD",
@@ -966,6 +998,14 @@
     "published": "2026-08-24 15:42",
     "timestamp": 1787553720,
     "summary": "샤오미가 TSMC와 협력하여 새로운 자체 칩을 출시한다."
+  },
+  {
+    "company": "Qualcomm",
+    "title": "\"퀄컴을 압도했다\" 삼성 엑시노스 2700 성능 테스트 결과에 업계가 경악한 이유 - YouTube",
+    "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE1zNGJMSUFCRGJUTC1VT3RaMDRqc2lLQTZ0N19pSWE1Z3NGTThNY0xES1BoaVA5NmoyTVJCbzZLY0hOUVNxUW8wdDhEaW9nTHlGMjh2aHlkai1RSzNM?oc=5",
+    "published": "2026-08-24 15:39",
+    "timestamp": 1787553595,
+    "summary": "삼성 엑시노스 2700이 퀄컴 칩 대비 우수한 성능 테스트 결과를 보였다는 내용의 영상이다."
   },
   {
     "company": "파두",
@@ -2264,14 +2304,6 @@
     "summary": "오픈AI와 앤스로픽은 대답할 때마다 비용이 발생하는 구조이며, 구글은 수익이 발생하는 구조를 가지고 있다."
   },
   {
-    "company": "Intel",
-    "title": "인텔, 게이밍 노트북용 확장 캐시로 AMD에 대응 - Foro3D",
-    "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOSlMyd1BpTXVsRzQ0czFWOFdxdTFnSWZMcWpUVHZuYzVfSDBZeXM3LWVEZzA2dnJnZmpwT3BxaTdjdEp2WnNWSzVFVGdIbjRVWkVqSDZTZUNkRzhycWV4UG5MaDFnZUNhVDVxRlFtLV9qeHpQWW1kNnVQaDFQUThmSTlDd1psQXlwbHJ5WXJnSWJxWDhSNVRKY0lxZmxyN0xHNlpV?oc=5",
-    "published": "2026-08-21 16:00",
-    "timestamp": 1787295600,
-    "summary": "인텔이 게이밍 노트북용 확장 캐시를 도입하여 AMD에 대응한다."
-  },
-  {
     "company": "Broadcom",
     "title": "브로드컴, 앤트로픽 등에 AI 칩 공급… 최대 1000억달러 조달 추진 - IT조선",
     "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9iUGVMYUx3X2E1cndvTzRwNC13YnhENDdUaFRsaDhNUWl3ZEdOaUJqbVRKZ2NDV0V6eFRJLWQzTlZqNkxqb0tNc1o4cjZDSVJiOXRNeldPdzZDZzZxZk55REdWZVVlNWhURFFYUkNHck7SAXRBVV95cUxQSG56RW0tb2MtSHNscTBtc21WeVNYRHpFSlNmbXhKajB3MmtMRE1iTnRwQUdwWHM4MDFfRDlsWkw4TFJjbjQ0cVlwMGNTWkVUZlJacGxJZEZDSjdPY2JEOUk1RXlIcS1yY01BSFlIQU9KVjgwUw?oc=5",
@@ -2334,22 +2366,6 @@
     "published": "2026-08-21 15:01",
     "timestamp": 1787292084,
     "summary": "정부가 개방형 AI 인프라 육성을 시작한 가운데, 마이크로소프트가 VM웨어 번들 제공을 종료한다."
-  },
-  {
-    "company": "Intel",
-    "title": "인텔 내부 파운드리 모델 구조도(오른쪽) - 전자신문",
-    "link": "https://news.google.com/rss/articles/CBMiwAVBVV95cUxOSmk0d1AzMWtQOV93VEpycEt2YV8wdEZqUVF2RHNqUlZMQXhfS1B2cjgwZGE4a1k4RjJvM1VTTGI5b2J2RTZnaXFFUmViT3JNZWs5Y1VuX3M0NG1aMEI3UmxCazBJc0J3bVVzbHR3MGtEVjVST0FqV2ZxeUhTd2hvbEdpcTBrN1VBcjd1UU5nQnpETUd4UWpoQUZyaHhZR2pJRl9pdmV3cDdwcWxOWklXOVlBSkdQZ2ZELXU4VC10cVFpci1iVFVMNWNtTnlNNVRYVGJ1RkhmeEFGeGlUVlJBZ08yM2ljUDNRN0dGdmowVFB2THcweFh0VlotRy1PUkUwS1VYU0V4LWlnRzJlSVF2cjJHWXhIYnpRb3hhWENYSDFnMWJaUzZSUl9QS2M5T3JlWnpuYWZBZXNCc2l5TEVsOTZOaFFnd3JYMFZfZlRiZ0VXd2xHQW1OUkpneGdWcTV2QmstLUtndXFXNkJOdXJXYWtsNWRiM1ExR3UtS1NSVnlNNURuenJmSjVNbEtraGoxaTM5dkc1Z25KdmtQZTdRaVlPdm8yV1ZCT2p2c2RmVlhiZ1hqc29NTzVHTllJZUpDT2NUNUxNYVBXWG0zZVI1X044cmhETUVRTElrVlNpb0JCYVIzajc0VWUtd1MtYTVXSkZIVTJVZWRhRGg0ekhKQ3YwSGRJdmJ5d0EyX0JtcDdaUUhnTktJdTJHeGFCX2N4V084WnZwQTdVd0xSbml4THItR2xkNjd4WllFTTNYVE13QmVRYjZpeGR3OUNvZnNKMWw1SFI4b1FId1BPclVHRGpvOHI0Z25NOWR4Q1dwXzNvZ20xTkNtWWY1dnRpSnNtM1dMdHNndjVTS2VQcnhnTk1Da29tOTFVR1pfWEVxVHJFTk1oT1BlMFJvSFFaRld5eENSNDdJZVI0RWRBTjI1bQ?oc=5",
-    "published": "2026-08-21 13:17",
-    "timestamp": 1787285878,
-    "summary": "인텔의 내부 파운드리 모델 구조도를 다루고 있다."
-  },
-  {
-    "company": "Qualcomm",
-    "title": "퀄컴, 총괄 부사장으로 세르지오 부니악 모토로라 사장 영입 - 데이터넷",
-    "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5sckEzM3c3MjREb0t0M1pSOUYyLXVDQkNXYzQxWkJsTktQOGlaOURCeEh5bVF4TFFnSFgxX1BLb0F3Qm5ycGg2Yy1TQTZON2loQXhvVFNKMTFPM19kLVEzRm1ES0o1N05SbkZkZQ?oc=5",
-    "published": "2026-08-21 13:15",
-    "timestamp": 1787285719,
-    "summary": "퀄컴이 모토로라 사장 출신인 세르지오 부니악을 총괄 부사장으로 영입했다."
   },
   {
     "company": "Broadcom",
@@ -5398,14 +5414,6 @@
     "published": "2026-08-10 19:13",
     "timestamp": 1786356780,
     "summary": "파두가 시스템 반도체 분야의 인재 채용을 진행한다."
-  },
-  {
-    "company": "OpenAI",
-    "title": "미국 상원의원, AI 거물에 개발 중단 최후통첩… 의회 개입 가능성 (BTC, AI, OpenAI, 버니 샌더스) - 민심뉴스",
-    "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1HdDBYQTVTMUZYcVJaLWxnd0YzTUNmUl91ZU1UWGthTWZILWxPSGtIZWs3RlRmZmF5aDZ4T2pvc0tWZWI1dkVWZkpvMEVJeUJVTjM3NFFzcmxqbElmZTRYejhFOGpQY1Q5eUhvSw?oc=5",
-    "published": "2026-08-10 18:47",
-    "timestamp": 1786355234,
-    "summary": "미국 상원의원이 OpenAI를 포함한 AI 기업들에 AI 개발 중단을 요구하며 의회 개입 가능성을 시사했다."
   },
   {
     "company": "파두",
