@@ -1,11 +1,75 @@
 [
   {
+    "company": "TSMC",
+    "title": "TSMC, 1.6나노 검증 완료… 삼성 1.4나노 로드맵과 1년 시차 - 글로벌이코노믹",
+    "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPdjlMeS1nNWU0TnBxeUpOaUtPZ0Nnbm5yQk5PRVJMMjREUzJibXRETlR2OTlSOGJjT0JVbk5sUnZWNC1qemx3Z21yQ0dNQm1Gd2tzeHBtNWdtQ2hvZThvSkNBY0JWeDZNcUlzY2JTRlhra3lpdmxRM09NbVE3bUVpZUhjRVktN3BI?oc=5",
+    "published": "2026-08-26 07:27",
+    "timestamp": 1787696868,
+    "summary": "TSMC가 1.6나노 공정 검증을 완료했다. 이는 삼성의 1.4나노 로드맵과 1년의 시차를 두고 있다."
+  },
+  {
+    "company": "OpenAI",
+    "title": "엔비디아 독주 흔드나…오픈AI “자체칩, GB300 제쳤다” - edaily.co.kr",
+    "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQVGkyMXNudkFpRlFaZkFnS05VUUl5XzhWbmQtTG1GX3RHLWRibUpyUm1JOVJLZkZTcWg1WXZHOGphb215U3hya3E1VnFGY3d6b2xMZFZTSHlDNk1aYm9Jb1NsLVdKOFpwcndZbjVRbUhyQ051ZGtycko4LW9RemJERA?oc=5",
+    "published": "2026-08-26 07:17",
+    "timestamp": 1787696275,
+    "summary": "오픈AI가 자체 개발한 칩이 엔비디아의 GB300 성능을 넘어섰다고 발표했다."
+  },
+  {
+    "company": "NVIDIA",
+    "title": "엔비디아, ‘젯슨 오린 나노 2’ 공개…78TOPS로 엣지 생성형 AI 공략 - 뉴스탭",
+    "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1idjA2OVgyOXJEZ3EzaWUxeHhjVkZwQldBQTBJdlhXUkJDRnl4ZEVVVElnOTFSYUYyRGdOcEd1Wl9EdmhDMms0dFUzUHBLekN1RTFuMEpoTlpqa0ZYWUZwQzFXU0dEM0xhMElrZw?oc=5",
+    "published": "2026-08-26 07:15",
+    "timestamp": 1787696112,
+    "summary": "엔비디아가 78TOPS 성능을 갖춘 엣지 생성형 AI용 칩 젯슨 오린 나노 2를 공개했다."
+  },
+  {
+    "company": "OpenAI",
+    "title": "오픈AI, 700W 독자칩 승부수... 엔비디아, 블랙웰 넘고 비용 낮춘다 - 글로벌이코노믹",
+    "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxObkU4QW9KMGpVRWhUZ0V1clBmeXNQQ2E3WEY3UFFSQ1VzY2lQYXdFRmdyZDJQMXFPVVVBOF9BdTBwbjZxM1RTRk1ZSFhqTXo5eFR6QmVUTWpzTWVtYzlQS2pKRHVSRFc5d1RsSWZZU0o0RC1aUV9zcG9KSTYySnFkQ083WW9pd2xt?oc=5",
+    "published": "2026-08-26 06:53",
+    "timestamp": 1787694786,
+    "summary": "오픈AI가 700W 독자 칩을 개발 중이며, 엔비디아는 블랙웰을 넘어 비용을 낮춘 칩을 준비한다."
+  },
+  {
+    "company": "Amazon",
+    "title": "아마존, 기기값 최대 60% 인상…메모리 대란 소비자 전가 - 글로벌이코노믹",
+    "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNYXdJOUEyVkl6LW5INDRhZ1RMXzZFdGY0eUktZEhVNy1RNi1fdmxFRlJGUkRJN3FOY1VKWXhrSEFReUc3cndEVjd3amJ2REE1bG1GVkpPNXBhUGYwZGk5RmJCVDVfU3FDU3JOblFVSFhOZWMtODZtSWNjaFNkM1hvYlpaY1VWenJv?oc=5",
+    "published": "2026-08-26 06:41",
+    "timestamp": 1787694072,
+    "summary": "아마존이 메모리 대란으로 인한 비용 부담을 소비자에게 전가하며 기기 가격을 최대 60% 인상했다."
+  },
+  {
+    "company": "NVIDIA",
+    "title": "엔비디아, ‘그록3’ 양산 돌입…삼성 파운드리 '전담' - 서울경제TV",
+    "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE44cUdpRld2MTRBZndRYXVSOWVXOXlLSDBSMUNVN3JvazVWQXU3SUg5UWdWQllYZkRJWG9GUHl5ZkhUTkl3cTlzaG1TMVpYNUIzVHlxRDZxcFRyODh5TVRRQmZORi0?oc=5",
+    "published": "2026-08-26 06:15",
+    "timestamp": 1787692525,
+    "summary": "엔비디아가 그록3 양산에 돌입했으며, 삼성 파운드리가 이를 전담한다."
+  },
+  {
+    "company": "OpenAI",
+    "title": "오픈AI, \"자체 개발 칩 `할라피뇨` 엔비디아 GB300 앞질렀다\" - 디지털데일리",
+    "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE1jSkUtOE1TUkN5NWZLV0U1Um5kVmt0RWRURXlVQlNKaFlNUUhiaGdqRnVkNHJ5WDBoOWtzSEFlak40cWs0UjFJUUZkSTRHXzBRNFBsajRaR2IyOE5OMHdYUDlXTDU?oc=5",
+    "published": "2026-08-26 06:08",
+    "timestamp": 1787692095,
+    "summary": "오픈AI가 자체 개발한 칩 할라피뇨가 엔비디아의 GB300 성능을 앞질렀다고 밝혔다."
+  },
+  {
+    "company": "AMD",
+    "title": "에이전틱 AI 격돌에 AMD 패키징 급증… HBM 공급망 분산 - 글로벌이코노믹",
+    "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOeHJveERwaTEwcTRKOHhMbmpsalF0WUFVd2s3VmtMTWpqdlNHOGs3c0xSS0VkUnhwaWlKZHBOaGhBZGc0cjhtS1RpbVlqQWVZU1c2b2RON0dnLUtMbmc2em5zcmN2RFp6a3V2bnlsdkRLOTQ3dC1DRkJQX0JYS2V6b0phVmpSMXc?oc=5",
+    "published": "2026-08-26 05:49",
+    "timestamp": 1787690964,
+    "summary": "에이전트 AI 시장 확대에 따라 AMD의 패키징 수요가 급증하고 있다. 이에 대응하여 AMD는 HBM 공급망을 다변화하고 있다."
+  },
+  {
     "company": "리벨리온",
-    "title": "젠슨 황, 리벨리온 박성현 대표와 산타클라라 회동…기술 협력부터 완전 인수까지 폭넓게 타진 - 유스연합",
-    "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE81TUZQZEZxdDl0bWpJVS1NZzM5MWYwUHBBcHRaVlpYczZJdFYxU1duZGI4OVlqbWtId3JfeUhfVlZnWXFPUWFVZ3V2Y3Z2eFZsbVE?oc=5",
-    "published": "2026-08-26 05:26",
-    "timestamp": 1787689616,
-    "summary": "젠슨 황 엔비디아 CEO가 리벨리온 박성현 대표와 산타클라라에서 회동했다. 양측은 기술 협력부터 완전 인수까지 폭넓은 방안을 논의했다."
+    "title": "젠슨 황, 리벨리온 박성현 대표와 산타클라라 회동…기술 협력부터 완전 인수까지 폭넓게 타진 - 뉴스N연합",
+    "link": "https://news.google.com/rss/articles/CBMiSkFVX3lxTFBJMEZRbEFrVDc5S3hSaDVmQmpuVXMtSWdTTTlEampBLXV6OW9nVDV2WTNEcEs5WVdUSFpaV2NyeXlOUlloQVpEQy13?oc=5",
+    "published": "2026-08-26 05:31",
+    "timestamp": 1787689881,
+    "summary": "젠슨 황 엔비디아 CEO가 리벨리온 박성현 대표와 산타클라라에서 회동했다. 양사는 기술 협력부터 완전 인수까지 폭넓은 방안을 논의했다."
   },
   {
     "company": "Wolfspeed",
@@ -432,14 +496,6 @@
     "summary": "인텔이 핫칩스 2026에서 차세대 추론 시장을 겨냥한 차세대 서버 CPU와 GPU의 세부 정보를 공개했다."
   },
   {
-    "company": "NVIDIA",
-    "title": "엔비디아 업은 LG CNS…'피지컬AI'로 대표 LG그룹주 노린다 - 한국경제",
-    "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1mTGhTZHhvQmJJandIQnUxbURGTHRhWTA1YjU3SHpjODFUbHBHUVFWOFBXNXJxbHAwSlVXN3JaQm5Fb2t4Wm40VThLZ09ST01BTkp2LTdGcEhmUQ?oc=5",
-    "published": "2026-08-25 15:54",
-    "timestamp": 1787640841,
-    "summary": "LG CNS가 엔비디아의 기술을 활용해 피지컬 AI 사업을 전개한다."
-  },
-  {
     "company": "TSMC",
     "title": "삼성 ‘원스톱’- SK ‘TSMC 동맹’…HBM4E 이후 승부처는 ‘발열과 양산’ - 뉴스퀘스트",
     "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE10eDdVb3Zjdmd4YUMwV01FbGtXSElSc3Zpd0gzN1RwT21vUU9adTBmc0hROGd1OFpLbU9yZExjR0txSlo0NWdWY2dkbS1nWnZxV0lmQ2dQaEdrQUs1SzFLZE94NWd6NFNzcGY3U0h4UdIBc0FVX3lxTE4wZHVlazIzd1ljVXhjd2dXTjBKVFdrQnhRUFd2MGIwSm9tNE9nYVdDcTdpMGxJaktUZHZBSDlFcGJIUEhESjg2Nm9wVkgybEVDYW1rQ3NwYTZOSmlSSGs0eHNNNVlZMDBWTmpQOVJ4SmVacVE?oc=5",
@@ -462,14 +518,6 @@
     "published": "2026-08-25 15:43",
     "timestamp": 1787640214,
     "summary": "메모리 가격 상승과 함께 퀄컴 칩 가격이 인상될 예정이다. 삼성전자는 성능을 높인 엑시노스를 통해 갤S27 탑재를 추진한다."
-  },
-  {
-    "company": "NVIDIA",
-    "title": "엔비디아, AI서버 가격 인상 배경은…메모리값 당분간 하락 어렵다 판단 - 글로벌이코노믹",
-    "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPbzV2MTA0aXpHNmtGZG5aaU1Tcnl6WDBoNGI4R3ZvR2RYTDY1dlZmMzZBQmYyWlVDWUZFZVQ2NGVLelVHUDNRa2ZtbGlXX1FKbnB3Q2JTSXcyckFXTWRoSElKWGItQXhKX2x6TG5LQjdmTzNOR3Byc2MxSlZYbW9UcDdJOW9tdw?oc=5",
-    "published": "2026-08-25 15:17",
-    "timestamp": 1787638639,
-    "summary": "엔비디아가 메모리 가격 하락이 어렵다고 판단하여 AI 서버 가격을 인상했다."
   },
   {
     "company": "Synopsys",
@@ -2208,14 +2256,6 @@
     "summary": "앤트로픽이 구글 출신 인력을 영입하며 자체 AI 칩 개발에 나선다."
   },
   {
-    "company": "TSMC",
-    "title": "\"TSMC 병목 뚫는다\"… LG전자, '레이저 직접 묘화' 장비로 AI 칩 패키징 시장 진출 - 글로벌이코노믹",
-    "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQS1RyOXFoX1JFZ21aYnllVENhUWF3OEsxa0w2MGdIOW5vRDNSSTQ5dGh1TDQ5WUx6Y0FNN21MSHJ4Wm1pdmFLaTZJeFZ0NTRHNDFtd0NJTXVnTVg1ZHB4MjZITk50NEpCdmE5ZW1xZDNXUXhPY3JrWmJPLWNFVTZacFhncGlpcHZR?oc=5",
-    "published": "2026-08-22 09:09",
-    "timestamp": 1787357376,
-    "summary": "LG전자가 레이저 직접 묘화 장비를 활용해 TSMC의 병목 현상을 해결하고 AI 칩 패키징 시장에 진출한다."
-  },
-  {
     "company": "Intel",
     "title": "기업 60% “5년 내 로봇 운영”…인텔, 전략·인력·인프라 ‘준비도 격차’ 지적 - 뉴스탭",
     "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTFAydVl6MDd1Rl9LakxyV3BzVGlLRWVrLUtTNzJKSHpkOVo2Z0drVU10a2NqMFpnekpCMDJZMjY0by1ob1FtY1Y4b3BBVl9XdTVvNll2RlMzbVNHRWFoUFZudmhPMG00Nnc4MlRfeg?oc=5",
@@ -2670,14 +2710,6 @@
     "published": "2026-08-21 02:58",
     "timestamp": 1787248694,
     "summary": "CXMT의 DDR5 메모리가 AMD AM5 플랫폼에서 DDR5-9000 속도를 달성하며 성능과 수율이 향상되었다."
-  },
-  {
-    "company": "AMD",
-    "title": "과기정통부, AMD와 손잡고 ‘개방형 AI 컴퓨팅 생태계’ 구축 나선다 - 테크데일리",
-    "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE9QUVNSZjVPbm8tb2dIYkw5czZUdUlJTDVpY2ItUER0YnEwM3pueU1mVV83NDlwUFpGbGg5RWZ5cElNaHJFTU00VnJwYVNpUXBsX0RiZk9SbWFETDBpRHI0QjAzZnptU3ZSUG1jaDhR0gFyQVVfeXFMTllXYUxpbHVvM3pncGFPVkhvZFhyMEQ3MHVoSWc2OUxubUJTZGdpYkhSMzZhdlRjZ2NUMUh6QUg1S0ZfWEVVYURnQTUtYUpGajlGOGEzRDNqZnNyTlZNSGJqYUIwNHg4Q0lHSUxjSEFwZEl3?oc=5",
-    "published": "2026-08-21 02:51",
-    "timestamp": 1787248285,
-    "summary": "과기정통부가 AMD와 협력하여 개방형 AI 컴퓨팅 생태계를 구축한다."
   },
   {
     "company": "Groq",
@@ -4936,14 +4968,6 @@
     "summary": "오픈라이트와 타워 세미컨덕터가 PH18DA 포토닉 설계 환경을 확대하며 케이던스의 EDA 지원을 받는다."
   },
   {
-    "company": "OpenAI",
-    "title": "오픈AI, IPO앞 임원 줄퇴사…윤리책임자 이어 前COO도 - 전자신문",
-    "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTFBHbGktMUZ3bHhqdVgwQU92Y05UenNuTlZLRzU0S3picmszMERrdkI0WVhUcTdDQWQxRGVpRDU5RTR5ZEJmZE9WOEV0dmFxZw?oc=5",
-    "published": "2026-08-12 07:33",
-    "timestamp": 1786487617,
-    "summary": "오픈AI가 IPO를 앞두고 윤리책임자와 전 COO 등 주요 임원들의 퇴사가 이어지고 있다."
-  },
-  {
     "company": "제주반도체",
     "title": "제주반도체, IDM 3사 레거시 메모리 중단 '독점적 수혜'…\"CXMT 우려는 시장의 오해\" - 프라임경제",
     "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5HNzNCRENXR1hsRjhLQmE3bGRHb2JLTnlaU3B6bFRLNmZFb1dzTFBnQl90dFF4QmdxUVF5dmF4aDV6bFNCZXNyMGppSTZLbkNfaGI3ZkNtSm44bkd1SWstaFhfTjNvWnQyVUpzSQ?oc=5",
@@ -5000,14 +5024,6 @@
     "summary": "머스크가 팀처럼 협업하는 기능을 갖춘 AI 봇 '그록'을 공개했다."
   },
   {
-    "company": "OpenAI",
-    "title": "오픈AI 핵심 인물 브래드 라이트캡, 특수 프로젝트 책임자 자리 떠난다… 향후 행보는? (OpenAI, Sam Altman, Y Combinator, JPMorgan Chase) - 민심뉴스",
-    "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5qS0x1ZWxzUVZjZk10bEtjTFFHcklISGZaUm9IWHJPQmtJcEV2MHJBQzA3OTNjRVFkTnAtQUlmTl9QbnFmRUtKSE5QMldZYWlnc21xb1FIeV9tQzJ4MlBXZ1drdUNiYThqd09lRg?oc=5",
-    "published": "2026-08-12 01:52",
-    "timestamp": 1786467140,
-    "summary": "오픈AI의 핵심 인물인 브래드 라이트캡 특수 프로젝트 책임자가 해당 직책에서 물러난다. 그의 향후 행보는 아직 알려지지 않았다."
-  },
-  {
     "company": "코아시아",
     "title": "3D IC 구조의 예시 (사진=코아시아세미 제공) - 전자신문",
     "link": "https://news.google.com/rss/articles/CBMiwAVBVV95cUxQZjlPNmpsTHJKV3FpU0tJTzMzbUkyR0l2NDRocGN5aVpSTjNsMGdITWpwTnpUV0xYODhySzRxX1hkR2FjY1RVV1lfTXptY19oSjVJY3R3eVlTM3daMjAzaDJVTGF3RjYtV2xxZEJPTmlNS0tXNk5tZ2lVS0RtbXM5V19YTE1tUDJHZWNSaExERmdnMXNVQjZRTmVyOXByUE9BNHpWbDBUN0xwYVlTSVVOWHJoUmd3bUVZQXFxbkFZZkxDVTlWRVc0WkNjRkRnX1dnMk1WTlFlU2Y3UHIzejdvVDI3dkhWa0dBb0Nsc1dPOTNOdlZWTF9TOGZ1ZTVGQzZsWTRERUhqeTZlQ3NzYVpoXzNLeWt3UURmaVJ2YUpCaGhOZ2ktMU8tQW5VNFd6aTFpa3lxRUJJWFNkanBESUdPUVJoV1Jhc3Bfb2JfNnk3WnFEWHRWTldqWGJYb2wxZDFEckQwYmdKTzRVaGhzY3pfeVBWOWF4UzByTlg0cW9QMXJ4cUZQNEtUTVNUZGd5dFZmZklPWDFTanpwdU5HRGU4c05KZzhISC0xZ2gyRXdnVjQ5d1hqU3Bna2gxV0haZEdtcGNJakZtdW9vMFQ5SGRERWY4bUduV1UycE13MDRPQ3kxekJKMUVpVXB0RVNqNlU4Qk1fUV9xLXduUFktVks3c0gzZ0NxaDdkaEhPbXBJYnZLM0JXSnJkYTBhai1hMTl3dXFSQ1F1Y29iUWxzRkVlT0dvU19TWFI5SkRneGdKSlhvQnFncE5ocHVROEZTZFRvQjVVaks0NlhlTl9WZXNWaXVacXBmdC1JYVM3cjlCYjAwYk4yMzhTT1J1ODNwME1LNnVoaVZVUkl1eC1ldnlsZGF6XzliNzZJTnI0SG5JZTZteGlLZjVEb0ZJV0FMY1VxY1kxVkpMNS0wM1B5OXFVaw?oc=5",
@@ -5046,14 +5062,6 @@
     "published": "2026-08-11 17:55",
     "timestamp": 1786438550,
     "summary": "IUH가 마이크로칩 및 반도체 분야의 인재 개발을 위해 CTW Technology와 파트너십을 체결했습니다."
-  },
-  {
-    "company": "OpenAI",
-    "title": "'AI 안전 브레이크' 끊어지나…오픈AI, 유일한 'AI 윤리 책임자' 사임 - AI포스트",
-    "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE5DdENGWU9OekYzZk9PTlhMVGVMbm5Lb2JoNXZ6WXFacUR0Q0hYMXlYSmNzbERWeVZKX2Jjb2x0b2pERk9XR1dxd1QzcnlDYlBlcTlaWGczUXFWQ1hjS1VJUXdLZWxVRW9BU09nbDF30gFyQVVfeXFMT3l3U1M4TF9EREZUZEpWcExwLWJwNnMtTm1IXzVhU09Qa05TMVE5NkxlVHl2NTIwa2xtd29adnZvNlNZTGtLcGZtNU9aMmlCaWxGX0NJRHR5em1rbGhmcE43Tm1jZ3lPREF6SmMzREMxc3BR?oc=5",
-    "published": "2026-08-11 17:48",
-    "timestamp": 1786438116,
-    "summary": "오픈AI의 유일한 AI 윤리 책임자가 사임했다. 이로 인해 오픈AI의 AI 안전 브레이크가 끊어질 것이라는 우려가 제기된다."
   },
   {
     "company": "Siemens",
