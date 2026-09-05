@@ -1,5 +1,53 @@
 [
   {
+    "company": "OpenAI",
+    "title": "[숏폼뉴스] OpenAI가 가격을 80% 내린 진짜 이유 - kihoilbo.co.kr",
+    "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTFBrR0lhOXRhdzFGV0szSjc1TkVucnEzcC10RS16T2JkcmIyWHV3SHltVTA1LW5MYW03bFJROS1jd0tZRWpSeVotem1HYm80N3g5ejFvaHhVeEFsZmg4UkYxTDhOS1JQdWNsQS1aRU5SVQ?oc=5",
+    "published": "2026-09-06 08:28",
+    "timestamp": 1788650912,
+    "summary": "OpenAI가 서비스 가격을 80% 인하한 배경에 대해 다루고 있다."
+  },
+  {
+    "company": "NVIDIA",
+    "title": "[위클리반도체] HBM 점유율 추격하는 삼성전자…엔비디아와 삼성·SK 협력 강화 - 디지털데일리",
+    "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE1RcW02RjQ0cE01T2JYWTJxNXZvcnkxRlI0QWZVTEFyaENmU1VtSHlzWXp2N0ZHOVg5dExoRTdicVgyN2ZkMWRKbF9SZzJId1VKMk9VeWVQYVprVUlURVkwYmdIZWE?oc=5",
+    "published": "2026-09-06 08:22",
+    "timestamp": 1788650522,
+    "summary": "삼성전자가 HBM 점유율 추격을 시도하는 가운데, 엔비디아와 삼성전자 및 SK하이닉스의 협력이 강화되고 있다."
+  },
+  {
+    "company": "Google",
+    "title": "[WHY뉴스] 구글,한국 반도체•조선 현장 노하우 습득 인력 배치 충격 - 저스트 이코노믹스",
+    "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE1kdHE3Q09kaU5NeE9iekdaakNTRUJYZy1EOVd5WUJ2VHlhcXQ4UmpQYlBzSWluQm5vSjhZSGtCbmZwU09ZemFlemFzOVJ6S29fR2tGd1Z2ZDlmX3d3Tndr?oc=5",
+    "published": "2026-09-06 08:16",
+    "timestamp": 1788650160,
+    "summary": "구글이 한국의 반도체 및 조선 분야 현장 노하우를 습득하기 위해 관련 인력을 배치했다."
+  },
+  {
+    "company": "AMD",
+    "title": "AMD, ‘라이젠5 7500’ 추가하나…젠4 AM5 라인업 확대설 - 글로벌이코노믹",
+    "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNZ2trSEJWWkxOUmRXdGZyQVBKeXN6azJFb2pWd1dNWlhoc1ZySmg3bnI0WkJiV0hka0RrNHRfT0xiUm5XRWJJRWVvdTNySlJfeklGVzM1TzBLSDlOckd0bjFJc0Q3SWs0cVNScUlRcHlISTZFRzZjcDVtN0ZpM1ZwaUpmQjljQldk?oc=5",
+    "published": "2026-09-06 08:13",
+    "timestamp": 1788650008,
+    "summary": "AMD가 젠4 AM5 라인업 확대를 위해 라이젠5 7500 프로세서를 추가할 것으로 보인다."
+  },
+  {
+    "company": "Qualcomm",
+    "title": "EarFun Wave Pro X 헤드폰 출시, 퀄컴 ANC와 오라캐스트 지원 - mixing.co.kr",
+    "link": "https://news.google.com/rss/articles/CBMiP0FVX3lxTFAxUXNjQmxMdDZkNzktZ1JOb25OaG5nV1pWSlZtbmxmZVlwT1A1cEwxaEphbHpyVGNRRURUMHVmNA?oc=5",
+    "published": "2026-09-06 07:04",
+    "timestamp": 1788645876,
+    "summary": "EarFun이 Wave Pro X 헤드폰을 출시하며 퀄컴의 ANC 기술과 오라캐스트 기능을 지원한다."
+  },
+  {
+    "company": "Apple",
+    "title": "“이러다 K-반도체도 LCD꼴 난다”…中 CXMT, 애플 업고 삼성·SK 흔드나 [칩칩팹팹] - v.daum.net",
+    "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFBvczFpNDFlUUxSMmp3SWVTajRxNEFlbHVDVklaa2Nxa1FtZDZueUI1Z2FJd3Z4M0RMQWc2YTF4TnBXdUpVazhpMExsYm10UEE?oc=5",
+    "published": "2026-09-06 06:32",
+    "timestamp": 1788643920,
+    "summary": "중국 CXMT가 애플을 고객사로 확보하며 삼성전자와 SK하이닉스의 시장 지위를 위협하고 있다. K-반도체 산업의 경쟁력 약화 우려가 제기된다."
+  },
+  {
     "company": "Apple",
     "title": "[CPU 대란 주의보 ⑥] 애플·엔비디아 싹쓸이에 밀렸다…TSMC 3나노·기판에 갇힌 서버 CPU - 네이트",
     "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE5BQVpPTG1WMVJvdUcwZlVzNno4UzM0ZlNmVzBVNllXb0hLWmwwOTI0Nkk4NUJIeU9DSXdtSTg1WkZPLXRIR2Z6SjBWaEpuRmFDYy1V?oc=5",
@@ -46,6 +94,14 @@
     "published": "2026-09-05 23:17",
     "timestamp": 1788617820,
     "summary": "AMD가 IFA 2026 개막 무대에서 개인형 AI 시대를 위한 미래 컴퓨팅 비전을 제시했다."
+  },
+  {
+    "company": "AMD",
+    "title": "AMD, AI 모델 실행용 슈퍼컴퓨터 출시. - Vietnam.vn",
+    "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNMHBxLUVUYTRzYmx5UUp3MUwySDhJVl91YXFHQkhkcnFyX2p5aGlwYTFHZFlZOWhjVmp2dURCTGJpQVpxZ1p2eW1QM243WnFuQ1dWWGZMeG5IRlp6YjNLaV83Wm1ydEt3eEpXakFZZ3I1Q3dUMHdTdzdGTUt1VDV0eWhPT1pEX0FtM0JVVw?oc=5",
+    "published": "2026-09-05 22:13",
+    "timestamp": 1788614004,
+    "summary": "AMD가 AI 모델 실행을 위한 슈퍼컴퓨터를 출시했다."
   },
   {
     "company": "AMD",
@@ -97,11 +153,11 @@
   },
   {
     "company": "NVIDIA",
-    "title": "마곡에 엔비디아·MS 모인다…LG, 미래 기술 총집결 - 비즈워치",
-    "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTFB2d2hjejhLbmd5VWtQZjRxZTdETVQyaHVBT1BSSUZJaWpuNXVmMF95bWdsMHVrTlZONlo1NUlSbUtiODhMZlN4Q2k4MmdNcGNmbENTRmhpQ2xMNXlKbFUxU2F0RVR2TGQ4bDZwdA?oc=5",
-    "published": "2026-09-05 15:00",
-    "timestamp": 1788588002,
-    "summary": "마곡에 엔비디아와 MS가 모이며 LG가 미래 기술을 총집결한다."
+    "title": "마곡에 엔비디아·MS 모인다…LG, 미래 기술 총집결 - v.daum.net",
+    "link": "https://news.google.com/rss/articles/CBMiRkFVX3lxTE9lT2QtS0xVall0eHZxWjhacnlvSlNsbnRna3NkQkE4U0dPaGhuMEdsS1E3T2xCblRueEVBamFiVUEweU5mM0E?oc=5",
+    "published": "2026-09-05 15:01",
+    "timestamp": 1788588087,
+    "summary": "LG가 마곡에 엔비디아와 MS를 포함한 미래 기술 역량을 결집한다."
   },
   {
     "company": "NVIDIA",
@@ -584,14 +640,6 @@
     "summary": "온이츠AI와 퓨리오사AI가 RNGD 기반의 프라이빗 AI 어플라이언스를 공동 개발하기 위해 협력한다."
   },
   {
-    "company": "NVIDIA",
-    "title": "엔비디아, IFA서 '로컬 AI 생태계' 공개 - 매일일보",
-    "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE11WlBNYlhPRGJQc0tWZnR5R1NwVWtqa0FscnJIdm5KbUZrTzJYZTRVODlPUVlWMVozSC0tOENONmxsZFBmSWY1MGg4aVBVbG42bFEzRF9Mc3M5MG9ZRTlxei1xcTHSAWhBVV95cUxPQk1YQlBGVjZocTR5UHMwRkFDM2p6TjNiYmFxVklWMGpZT0FtdXZHemVvbGRJYzNLaFlpNkI0aG1paHhOWFJEenFQSUpfMElhOVp1NlN4bnlFMU44akt1QmlSQUVDdnRjag?oc=5",
-    "published": "2026-09-04 13:27",
-    "timestamp": 1788496067,
-    "summary": "엔비디아가 IFA에서 로컬 AI 생태계를 공개했다."
-  },
-  {
     "company": "Qualcomm",
     "title": "[경제+] 퀄컴 COO \"AI 시대 고성능·저전력 기술 중요...中과 6G 협력 확대 기대\"-Xinhua - 신화망",
     "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE9HbDdjdzJEeG5IdGg3UG1qVzM5YUFjUDdBWU9BQmNGcHhRUDZzaHVDZUx4X1dibVRjcmp2WFR2NExPUWg3SXdrTUllMnNtMXpWeVZzT1JlV0k5OGlWVldET05yNlBqTFlyX2VLSmg4dzNEbTdiTUE?oc=5",
@@ -718,6 +766,14 @@
     "published": "2026-09-04 10:00",
     "timestamp": 1788483600,
     "summary": "LG가 엔비디아, 구글, MS 등 빅테크 기업들과 AI 기술 교류를 위한 'LG 스파크 2026' 행사를 개최한다."
+  },
+  {
+    "company": "Groq",
+    "title": "‘AI 3사 동시 먹통' 챗GPT는 라우팅, 클로드는 인프라, 그록은 데이터센터 - 뉴스피릿",
+    "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE5DakZkMHNOeWc3aFJncXpmSkJ1Z1NrWUJxSXRPYXJ6NFQtZmNLSGQzVWlvQXp3ZHg3alA0OWJLNnBYaUdiV0NSd2ktdWNIdThxRUtGSmdjUXBxQnBFbnU0Y2dxeW5ZRE01blVj?oc=5",
+    "published": "2026-09-04 09:59",
+    "timestamp": 1788483544,
+    "summary": "챗GPT, 클로드와 함께 그록의 데이터센터가 동시에 먹통이 되는 장애가 발생했다."
   },
   {
     "company": "Apple",
@@ -2272,28 +2328,12 @@
     "summary": "미국 국방부가 군용 챗GPT와 그록을 도입하여 민감 데이터 보호를 강화한다."
   },
   {
-    "company": "AMD",
-    "title": "'AI 시대, 성능만 높여선 안돼'...레노버, 수랭식 AMD 워크스테이션 '씽크스테이션 P4' 승부수 - 테크M",
-    "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE5zVU9WaHY3Q3dwUFNCbTVZUjJIcGw2a2xOYW0tdkhTVEsyc0ZWbEpSa3dESFl4Rm5BY0VwUUIzY3VLQkNnOHRDSEhKMVpkVFg0VzhRN1h4ZzlqUzBqZW0yRXE0VTJ2QdIBakFVX3lxTE0wQ3NueDE5cndTNFplSDh4VUFaVmhDcG1ER3M1YmN4WXRhZFh5dDVITHJRV1hQWXpKMHJBRmNsRjlRR3doT3RUSVdEbHlyUndVRkpFRGdleTVUNVhLQzdiaHo4ekhqWkxxN2c?oc=5",
-    "published": "2026-09-01 14:14",
-    "timestamp": 1788239699,
-    "summary": "레노버가 수랭식 냉각 기술을 적용한 AMD 기반의 워크스테이션 '씽크스테이션 P4'를 출시했다. 성능 향상과 함께 효율적인 냉각 솔루션을 강조한 제품이다."
-  },
-  {
     "company": "딥엑스",
     "title": "딥엑스, AWS 마켓플레이스에 NPU 배포 솔루션 등록 - platum.kr",
     "link": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE1LQWRJTEgwdUo2cHA5RmtPemhCbXN3X1NXTmNCczBwWkJOcFpPWEx2eExHZEFxNTRncjBsXzY3bHBSNDJpOHZScw?oc=5",
     "published": "2026-09-01 14:03",
     "timestamp": 1788239004,
     "summary": "딥엑스가 AWS 마켓플레이스에 자사의 NPU 배포 솔루션을 등록했다."
-  },
-  {
-    "company": "AMD",
-    "title": "\"TSMC 칩렛·자체 공장 가동\"…레노버·AMD, 공급망 불안 차단 - ddaily.co.kr",
-    "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE5pNFEzLU1LNUhpZmxwTlpGUTlMSl90cW5NUE1oUnNlYjlxLVFEd3F3MG9oSWJLRmxWa3lXVldpYlJ4Nkhla0Y4SEFqM0dZZUlTSWhUd1FkY0RBaDZrQ3BZMXA0cWc?oc=5",
-    "published": "2026-09-01 14:00",
-    "timestamp": 1788238854,
-    "summary": "레노버와 AMD가 TSMC 칩렛 기술과 자체 공장 가동을 통해 공급망 불안을 차단한다."
   },
   {
     "company": "세미파이브",
@@ -2454,14 +2494,6 @@
     "published": "2026-09-01 09:24",
     "timestamp": 1788222240,
     "summary": "퀄컴이 '퀄컴 드래곤윙 IoT 데이'를 개최하여 국내 고객사 및 협력사와 함께 첨단 기술을 시연했다."
-  },
-  {
-    "company": "Qualcomm",
-    "title": "퀄컴, ‘퀄컴 드래곤윙 IoT 데이’ 개최…국내 고객사·협력사 첨단 기술 시연 - 조선비즈 - Chosunbiz",
-    "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxOZmFNbzhCYXBtWU5yTXRsZ0t3a1o2UVBScV9ualotbm93UW5YdXRNQzA3SUg1RlNJeFhUbFBTVlVzZy13dlRicXlMMXZyQ1R4ZkVUb05lREpQbkUtYzZJQ1B3MTA1ZE9uMFZwczNLM0FnMkxaX1p6cGI1dHFLdHFfN1FB0gGWAUFVX3lxTE4xbFVpUlJKT1hOcVZEYTd2Uk9Ddi1FUE9SLWZnUVRyUDE4LTBKQ09EV2NEVlZRTHg4YTdTNUgzRTRxWEJZdlV4NWR1Rm1xajVwTFFpWXpEWjJzYWd6cVIyZE4xdFYweHBheVBhRG5WQV9VbExwNTYxcU1VQU9CWDdvYTJ4VllwU0hLM2tNOFhjVkJJTGRzUQ?oc=5",
-    "published": "2026-09-01 09:23",
-    "timestamp": 1788222180,
-    "summary": "퀄컴이 국내 고객사 및 협력사를 대상으로 첨단 기술을 시연하는 '퀄컴 드래곤윙 IoT 데이'를 개최했다."
   },
   {
     "company": "Apple",
@@ -3112,14 +3144,6 @@
     "summary": "삼성, 애플, LG, 폭스콘을 고객사로 둔 기업의 대표가 수원시 투자유치 홍보대사로 위촉되었다."
   },
   {
-    "company": "Apple",
-    "title": "애플, 엔비디아발 메모리 비용 압박 커졌다 - tokenpost.kr",
-    "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1GcjlxRGZFN0M4cGVtZW1rR2dfX2xfLVM1MXpFNTJKeTZIQUV1ZHo3WEUweTFEUzlxWDc2WTNXcF9IZlExcjh4ZHpFUTM0N2JFRXctMFZR0gFbQVVfeXFMUEZyaFZQSVZ1eGpSYml0dE5JYWRvNkU5V2lZdXpwV3dwLWRjT0tQSl85ZFMxbVFIejhwb1dqOTZXT3Z0bHgxM0FMemo2WkxTc01FLXh0eG1FRnVWWQ?oc=5",
-    "published": "2026-08-28 09:02",
-    "timestamp": 1787875361,
-    "summary": "엔비디아의 영향으로 인해 애플의 메모리 비용 부담이 증가하고 있다."
-  },
-  {
     "company": "Kioxia",
     "title": "SK하이닉스, 키오시아와 낸드 공동개발 검토 - tokenpost.kr",
     "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFBxb0xaR3l0clBKUkRnZ0tQSElwV0V4NUhpMEttblRXX01MM3RMV3NaMnVzZlBBN1FQck9RbGNoSVR5MzczajdpM1l0UW9TS1BWNEZv0gFYQVVfeXFMT2lwRFR6aXVXN0pQYUExTmRFTjlacWZsZGs5Z3JxRE1WY3hrTFRqZnNrWkV6bjRNUi0wR1N4eXpnYThuUzFhRm1hcFZSbGpJVTNEekttQUNPaQ?oc=5",
@@ -3534,14 +3558,6 @@
     "published": "2026-08-26 16:55",
     "timestamp": 1787730955,
     "summary": "리벨리온과 칼로섬이 AI 인프라 구축을 위해 협력한다. 정부 투자 1호 기업 간의 맞손이라는 점이 특징이다."
-  },
-  {
-    "company": "OpenAI",
-    "title": "삼성전자, 오픈AI 자체 AI칩에 HBM4 공급…‘빅3’ 고객사 확보 - 한국경제",
-    "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1oOENzY2FDRnltQ2hyX3R6Z1JxaU1WTTRoemdHMEdYdWsxT3lXTzJvR01faEJRVVV4VnJvTldVNUhKRldqTzNDX1hnMmFTRHpJb0RyVVJJaUNZdw?oc=5",
-    "published": "2026-08-26 16:49",
-    "timestamp": 1787730599,
-    "summary": "삼성전자가 오픈AI의 자체 AI 칩에 HBM4를 공급한다. 이번 계약으로 삼성전자는 빅3 고객사를 확보했다."
   },
   {
     "company": "STMicroelectronics",
@@ -4502,14 +4518,6 @@
     "published": "2026-08-23 15:07",
     "timestamp": 1787465228,
     "summary": "삼성전자의 메모리 반도체가 구글 웨이모의 자율주행차에 탑재된다. 양사의 협력 확대가 주목받고 있다."
-  },
-  {
-    "company": "Google",
-    "title": "앤트로픽, 구글 TPU 핵심 인재 영입…자체 AI 반도체 개발 속도 - v.daum.net",
-    "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFBrdnR1SFJKYzRZUzYtTmxqZnVQaDZibWhIRDZzSXY2WFp4OERRd0Jad3ZWU3UtZURqSFBHSnN5MDZxZllFOTRyOGVUcF9veU0?oc=5",
-    "published": "2026-08-23 11:31",
-    "timestamp": 1787452308,
-    "summary": "앤트로픽이 구글 TPU 핵심 인재를 영입하며 자체 AI 반도체 개발에 속도를 내고 있다."
   },
   {
     "company": "Amazon",
@@ -6096,14 +6104,6 @@
     "summary": "모빌린트가 AI SoC 'REGULUS' 공급을 확대하며 온디바이스 AI 시장을 공략한다."
   },
   {
-    "company": "Groq",
-    "title": "머스크 “스페이스X 직원이 AI 부모…그록이 생각 물려받을 것” - 전자신문",
-    "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE9RcGg1czNOYmtCTmgzR0JjQy1YMGN5Nzduam9NZ2JCMjZ2NjRBc3BfeHlnX3NScGw0V3FWX1RFT0t6b29IRmJESUtIbW8tdw?oc=5",
-    "published": "2026-08-13 07:21",
-    "timestamp": 1786573280,
-    "summary": "머스크는 스페이스X 직원이 AI의 부모 역할을 하며, 그록이 그들의 생각을 물려받을 것이라고 언급했다."
-  },
-  {
     "company": "알에프에이치아이씨",
     "title": "RFHIC 웃고 케이엠더블유 울었다…통신장비 브랜드평판 희비 - 핀포인트뉴스",
     "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTFBsNVo5STBhaXppYjRzV3FuaEEyWkE0aVJwM2MxM085ajhjMkVtT0liNUk4VmJUd2ltRmNDanJOSWZ2Sy12TkZvc09yN0loYjMyQWE4cVd5ekgteVkwbFBXb0xUenFobmFEZXpfYjFEUENoampuMXFV0gF3QVVfeXFMUGw1WjlJMGFpemliNHNXcW5oQTJaQTRpUnAzYzEzTzlqOGMyRW1PSWI1SThWYlR3aW1GY0Nqck5JZnZLLXZORm9zT3I3SWhiMzJBYThxV3l6SC15WTBsUFdvTFR6cWhuYURlel9iMURQQ2hqam4xcVU?oc=5",
@@ -7238,21 +7238,5 @@
     "published": "2026-08-07 09:12",
     "timestamp": 1786061544,
     "summary": "실리콘랩스가 초저전력 블루투스 LE SoC인 'BG2B'를 공개했다."
-  },
-  {
-    "company": "퓨리오사AI",
-    "title": "이스트시큐리티-퓨리오사AI, AI 보안 인프라 개발 협력 - 네이트",
-    "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE96YXZHb2wwMEo0czh5WTNESmVrZkg4bTUtSDdvSllrTFlEODlKa3RvZ0JGNDdtMUszTHl5RjVxWHFLVHU3dHlXQThuamFUSURDWkN3?oc=5",
-    "published": "2026-08-07 08:38",
-    "timestamp": 1786059480,
-    "summary": "이스트시큐리티와 퓨리오사AI가 AI 보안 인프라 개발을 위해 협력한다."
-  },
-  {
-    "company": "Silicon Labs",
-    "title": "실리콘랩스, 업계 선도적인 전력 효율·보안·통합성을 갖춘 초저전력 블루투스 LE SoC ‘BG2B’ 공개 - 미디어데일",
-    "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9RWnc0LU1zbTlWRVZ5U0t2SVQwcnhHTENCNmNNWVRBcjZSRWw1RHR0QVpKUGNZTTlBQVdmMEpDOTdpeTBscUNJOTI1dzhfQktuT0FzY2ozUHVBaDlpQ0NFdEg2UVBqRW5XclhoZQ?oc=5",
-    "published": "2026-08-07 07:12",
-    "timestamp": 1786054320,
-    "summary": "실리콘랩스가 전력 효율과 보안, 통합성을 갖춘 초저전력 블루투스 LE SoC인 BG2B를 공개했다."
   }
 ]
