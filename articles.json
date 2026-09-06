@@ -1,5 +1,45 @@
 [
   {
+    "company": "리벨리온",
+    "title": "'공공 CCTV·유럽 DC·로봇'…K-NPU, 리벨리온·퓨리오사·딥엑스 '3색' 승부 - v.daum.net",
+    "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE1ickl4MHhobDRGZWM4N2dxa1p1YWFXeGhkZzFwS0RNM2Nfa1BEVkc2NlZTV3ROVmMteEpacTF4cFNvU3hRd3R2ekhrU3dGUlE?oc=5",
+    "published": "2026-09-07 06:11",
+    "timestamp": 1788729094,
+    "summary": "리벨리온, 퓨리오사, 딥엑스 등 K-NPU 기업들이 공공 CCTV, 유럽 데이터센터, 로봇 분야에서 각기 다른 전략으로 시장 경쟁을 벌이고 있다."
+  },
+  {
+    "company": "AMD",
+    "title": "[정구민의 톺아보기] AMD, IFA서 개인용 슈퍼컴퓨팅 시대 선도 - v.daum.net",
+    "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE9iak9ITkVNV1VObDl5SUFweUZZUGdpWXBmbEhrN0czVEs2Y3JyT3Z5cnFrdl9fZHNldWVXYUxGYjJIb2lOdHJmeHdCQWFwam8?oc=5",
+    "published": "2026-09-07 06:02",
+    "timestamp": 1788728559,
+    "summary": "AMD가 IFA에서 개인용 슈퍼컴퓨팅 시대를 선도하는 기술을 선보였다."
+  },
+  {
+    "company": "NVIDIA",
+    "title": "SK바이오팜 신약개발 '글로벌 스텝'···엔비디아 GPU 도입 - 메디칼업저버",
+    "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE51dC10Uks1MjZGX1I5NlpkT2FoaVJ2UUVkT0RBTG5NMzBjM3ZiOHJTMXBScnFBR1JjcnhGc1JaREg0TTNTUEtVazF5QXpvUTMtMUxVcVhoQ3FRdzRDcllWUXc0ZllyOVFIM3pR?oc=5",
+    "published": "2026-09-07 06:02",
+    "timestamp": 1788728523,
+    "summary": "SK바이오팜이 신약 개발을 위한 글로벌 스텝의 일환으로 엔비디아 GPU를 도입한다."
+  },
+  {
+    "company": "NVIDIA",
+    "title": "엔비디아, 그록 3 엘피엑스 랙 양산 본격화 - tokenpost.kr",
+    "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1RZmc5Q3lGbllIRjNFQUZTU0JNN0ladFN0azFnRV9CWVlTRjlpNVZEVk9VYmhGdmRHQTJIeEhrSHpWLTB3cVZNcjNDMDg4bGE2MVVrRWdn0gFWQVVfeXFMTVFmZzlDeUZuWUhGM0VBRlNTQk03SVp0U3RrMWdFX0JZWVNGOWk1VkRWT1ViaEZ2ZEdBMkh4SGtIelYtMHdxVk1yM0MwODhsYTYxVWtFZ2c?oc=5",
+    "published": "2026-09-07 04:42",
+    "timestamp": 1788723763,
+    "summary": "엔비디아가 그록 3 엘피엑스 랙의 양산을 본격적으로 시작했다."
+  },
+  {
+    "company": "NVIDIA",
+    "title": "딥시크, 화웨이 AI 칩 도입...엔비디아로부터 '독립' - v.daum.net",
+    "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFBPU3NWSUhyVkdsOXcwQ19fX1J4c0FqQjhwaWZTQ2I5eFk2SmlEX18xemFBZ3l5UWVYU3dHbHlNbUVnVEZjTFlWZ1N4aDNlN3c?oc=5",
+    "published": "2026-09-07 04:42",
+    "timestamp": 1788723720,
+    "summary": "딥시크가 화웨이 AI 칩을 도입하며 엔비디아로부터의 독립을 추진한다."
+  },
+  {
     "company": "Cerebras",
     "title": "세레브라스 254억달러 수주잔고, 오픈AI 계약이 매출의 32%까지 채웠다 - 위키트리",
     "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1vdWxlQW5heEtZVjlRYWFEM0Y0R0FjcUNjcktEV1ZfejlJQnJuOHlxelZQeHFIbW9DY214a2NFQmJ3TVE1dERUbVUxT25MVXo5TEpDSWNR?oc=5",
@@ -16,6 +56,14 @@
     "summary": "NVIDIA의 신형 RTX 스파크 제품이 2026년 10월에 출시될 예정이다. 해당 제품의 사양 정보가 공개되었다."
   },
   {
+    "company": "NVIDIA",
+    "title": "엔비디아 \"美서 4년간 5000억달러 투자\" - 미주조선일보",
+    "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNTlc1Xy11NlVOTmFXZTd5MElIZmxFZFB2SzVsMThoNDBqSkRpTHctZW1VUVZQU1pjVXBTSklWT0s5WWJOcFktSkJaeHBfWmFCcFdfVlA0UTRGcEtWYnE2MEhfU05KZHRiN0hDb3ZyQTRkVm1sTWp0UVFvbTREbVhCS2Rjc2s5RS1DSm5kd0FHMXRwWmhRdlNTNFFXWXBLZUhWZ25IX05iaElRdFJTTUoyVmdYWVlxTWd1SXlDZkZ6VVhfTkk?oc=5",
+    "published": "2026-09-07 00:13",
+    "timestamp": 1788707620,
+    "summary": "엔비디아가 미국에서 4년간 5000억 달러를 투자할 계획이다."
+  },
+  {
     "company": "Amazon",
     "title": "[김대호 진단] 반도체 열전 (51) 아마존... AWS 클라우드 혁명의 비밀 - 글로벌이코노믹",
     "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQMXczMjMzcUs3dTZlVDdCbnZzY2FpNUxFNkM0UC1PNjdGbU9qLTc3Y200SkFnNmJTMmdmUVJzTVZFYTlvWVAtaFA4S3FtcFdNclMyRmtWMWFBNHdQeHFsdmdHRE14UHNrMWVMSmg4RXVzc3RWVXFrVm5jeXBQdS1FTEM4RFE?oc=5",
@@ -30,6 +78,14 @@
     "published": "2026-09-06 22:37",
     "timestamp": 1788701832,
     "summary": "엔비디아가 IFA 2026에서 RTX PC와 연결해 추론 속도를 최대 1.9배 높이는 로컬 AI 확장 기술을 선보인다."
+  },
+  {
+    "company": "딥엑스",
+    "title": "'전자신문 TECH SUMMIT' 2일차 행사가 19일 서울 서초구 양재동 엘타워에서 전자신문 주최로 열렸다. 김정욱 딥엑스 R&D 총괄부사장이 '어디에나 인공지능이 있는 시대를 향해'를 주제로 발표하고 있다. 김민수기자 mskim@etnews.com - 전자신문",
+    "link": "https://news.google.com/rss/articles/CBMilg1BVV95cUxQVE84bzhUcVFTM2dYRnYtZTVsTGNtMEtKOE8tSWRjWXlMaTBtQXdVekM4T1lWOUliTDRiSEJ6ai1CMFFwa1ViNzgxMGU3OE1SU2dKTVNSSDhGeVRfTG9RMDJzM3FMaU5kNENfWENYQUdGYlRQZ3dhdWpFSEFkSUZxdEtUcGd5M2dlX1hjamFrbmRTa2U3OHJfRzdMUmJkdW1acmNYdTBpTWhmSHg3SlBhOUVJWTNyMm9ZT2s0ZlVQUjlFTzVubzh1ZlJLSGVmLXU2RHNNYktvdHZzU1k4aVlpOWtCaFFScER5YkRCbVhodFBQMmk2a2VyejNoQldfbVVYelpwdWxJLURJT3FvX19PdHJhLUdnam9wbThzbW5WbzBXRzFoTG9NR21aRUM1RmZnR1NIRlpiZHlsUHhVTlJrR2pCVkVKZ0xndE9wLUNHa1oxbUk3LThlMW5MOG5FV2YzT19hdDB0WmRsM0ExaWdwVXYxdkw3LVI2ZEw0Nm5UdmxWS0FTZmhMcmF3TGtVUWtxOGwxSmh0cWxhUzNhVk4zQjlGQ2tjYU1uekVvSVVNQWpReDNiQTRFVWNUQ29Ram5obk96RFdJSU9SdUYtS2RSalpGblJGMmtFYVRZcUs4Q2JMcklPNG9OSjR1enhIZWE4Ym1lYTluUEpzV3hRWVg0OVlJd194RE5LZUJfTTJ5RW5ZS1JjTVZqUHpEelRzb2JJTHBXNVktdHRUUzFqVVF1VnFsdGhTUzFRbl9GQTJZeFVtY0ZKZGhEbFlCcWc2Zk1wam9sWW5aNm50ZS1PaUh6dk1MRGRpYlgzeW9HQldxc3BkZ0FaSHhCdmpweldaN3k1WXJnQXRlLUotWl83WnU2bk11ZVF2alk3RGRGVlJzV0Y0WVI4SVEwWEJwcmFYRzlwQVh0SWhVR0RnTjAwdHBvWkU5eGdXa21zNzF4cUcyS1BrNlN3ZV84VXRBMTdHTHJoZF9fRFVJUHBSTzRxVWZSNFBPSk96djJWam55b1RldXJyQVNwdy1INFVUaWhLUjFpamZ4T3owdmU2MU9wWDJxUGthWTFJdzB1NnNhRWZxYkVpUERSY3lTVFoxajBQVHVVbzlUS05JZnM1VDJySkNMMnRnSlNZNVpFTUR2andTRXlsLWJfc2kyemtJZFdiVll4SWxac1NELURCVnNidWtLV1pDNVY1aWpfSGlMcXhxYUpjMWc1NG50dU04cUpodFZUSVlBcFB5TXpkdU5Va2RTd0VNQ2EyS0hURVBYOHVGTlBCMzRneUlWT0xha2NoRFFWcTNyM3lpOTNnbDBqZUJUVlNMenJ6bDdnanF4cUwwMzRybTUzdWpWOHZJbnNvbjc0UzdYOFkwb2hCdThzTncwd3lTQTVPLWJPQWQwYVZBMVVELXJ1SjBYTmd0YUlSb0JCLUtnOVc3bzZZdjA1MjA2bzdYM1JtZFdqZmo1eFdwQkVFYXF5Q2ZsNkNEamExMHVNU0txZlcybGFGY1FMaWlmZWVvVUtkUHF4cUcwMzQtLXgxXzloQ2tnMVpUM0ZlSGk0dVhraU16M0NNQmRyRVJMWTJCdTF5UEo2WjJJMDdkM0Y4VDRoTk83eFNURXphUk9oWHM3QjFfSjdma3pVbHhtMG5rbVY2a21Xc3NSYmFJWk8yY194Vm9odWVDSEQzbG9lVWZ5S0htcXBSeW5nZjI5UlpTZ083SThTam5oWGkyT055VXg5ZmhOZ0hzdVZKaWVUQ2hTMkZmZWVGWFdnNnNzZ2d3NFlhbEpCWUNCTUhVVFNpVWh0TmZUekVQdXdsN0NyelVKZ1NscEpkOG1pb0JGRUxZb25SOFhWY1BlTUJnT1o3SU12S25wSWpSOWJKaUdKSXFpTlZIUjVyeHZFMjJyRHB1WUVFbUZtOW9XNlluNWJNSDA0M2FZSjFmNUtwZGVRSTJaeDZrQmg3eWZUaFVTYmFhMlc4Tmdmdlk3SW9xMXRxZ0Ezc3RlQ09LdWdlNmFIdjJUTTlubTNXbkgtTENMTmJuR0dndFl3YVFZbzlZNFZZRjdSbHNSSzJ2a3JxMmVaUEk4YlltbnBXZThMVGlESmxObWZRYXlJWE45N0Nuemd5Mk15SWpIMlZDRnJGanlnekRfamYydFBfYklrUHNSUzhGaHJ6S1VXWnBEdVZyOEM3cHZ6SDhsUW5Jak1fc3daTVZuaExnV2lNb1VpUTlCTm5NWU1zZ3JvRW5leWlqY01CcUNMYmc?oc=5",
+    "published": "2026-09-06 19:46",
+    "timestamp": 1788691577,
+    "summary": "전자신문 테크 서밋 2일차 행사에서 김정욱 딥엑스 R&D 총괄부사장이 '어디에나 인공지능이 있는 시대를 향해'를 주제로 발표했다."
   },
   {
     "company": "TSMC",
@@ -78,6 +134,14 @@
     "published": "2026-09-06 16:26",
     "timestamp": 1788679619,
     "summary": "Microsoft가 AI 개발자를 위한 윈도우 11 '프로젝트 제니스'를 공개했다. 해당 프로젝트는 30B 모델의 로컬 실행을 지원한다."
+  },
+  {
+    "company": "Intel",
+    "title": "인텔, 독일 반도체공장 신설 물 건너가 - 미주조선일보",
+    "link": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxObzQ5VkpMNDM2SlFEUHM5ajNCTFF1aWtvb2FuYlBYeHZndEtlLW9VWUktTzFtVHdaYkxFMk1ZUHJBNnhiaUlFNGM0NjNxd1EwbnJPNzVvTjVZeFlxRm5NYk84dTUtNFRvRUxNSVNscld6NF9ld3BnRVBGVS1XNW1yWG9sZVdLRFctSnh6UWxDZGJ6RjJaV2RfdEhrelRiUWlMUVdJVjlmNWVaOG4xZkhPaWUtZWJtMnBMVUV5QzNEQXdORjZ5X1VEeThuT0lIWHU0WXlMendMTQ?oc=5",
+    "published": "2026-09-06 14:12",
+    "timestamp": 1788671521,
+    "summary": "인텔이 독일 반도체 공장 신설 계획을 철회했다."
   },
   {
     "company": "NVIDIA",
@@ -142,14 +206,6 @@
     "published": "2026-09-06 11:25",
     "timestamp": 1788661500,
     "summary": "윈도우 10 운영체제와 인텔 9400F 프로세서의 지원 종료 및 교체 시기가 도래했다. 해당 제품들에 대한 세대교체가 필요한 시점이다."
-  },
-  {
-    "company": "Intel",
-    "title": "인텔, 독일 반도체공장 신설 물 건너가 - chosundaily.com",
-    "link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxOWmdFTVJINkhfMl9XNlltX3NTN2t2RXdfZlZacWpRTDlDYmxqM3FtV3EzcEIycUhVbl9PWEtCUGp1YXlNX3RHQ3dQSzFqWXVqaFp4aG10aWRzT3VMWHBTeXlDdjYxVG1jQ2hTUmNRWHZhWDZ5OUYxczZvM25ZQXBhVXZHYmxKZVdfcUw1SkUwNU5VUXVTUDBtNUdsMTB2cXZjRHlsNGttODE4X0E5by1jU1l6cUlvUHBQNEVtZXItUTZkTFQwUDhLWnM4d1dBYUZtcmlQX1VR?oc=5",
-    "published": "2026-09-06 11:07",
-    "timestamp": 1788660445,
-    "summary": "인텔의 독일 반도체 공장 신설 계획이 무산되었다."
   },
   {
     "company": "NVIDIA",
@@ -464,30 +520,6 @@
     "summary": "엔비디아가 노트북에서 90GB 용량의 3차원 도시 구현이 가능한 로컬 AI용 칩셋을 선보였다."
   },
   {
-    "company": "NVIDIA",
-    "title": "[GAM]엔비디아-미디어텍 35억달러 동맹 ① AI 칩 생태계 장악 노림수 - 뉴스핌",
-    "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE92dmIyX0xxTzB1NVFfZjBKdS1QSU1GTlFiRFVEYVRLbHNxM0J0MUVjajVjWTFLb1FUNW5ESjQ1aU15ZGJsSlFLQ3RxaEs1R0dDenVrNzN6dkxHOGQ3?oc=5",
-    "published": "2026-09-05 08:06",
-    "timestamp": 1788563162,
-    "summary": "엔비디아와 미디어텍이 35억 달러 규모의 동맹을 체결했다. 양사는 AI 칩 생태계 장악을 목표로 협력한다."
-  },
-  {
-    "company": "NVIDIA",
-    "title": "[GAM]엔비디아-미디어텍 35억달러 동맹 ② '신의 한 수' 두 배 랠리 예고 - 뉴스핌",
-    "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE45MGJrUkt1ckxCaWdkNDU1OXFrZnkzZGpabnk2eEpkVFFybEhJbldFR1g2cmJOZ3RvVmNicjBzWVd4Mm5VTHdINUgwV0U5MHJZNktmcnJFX2Fva0dF?oc=5",
-    "published": "2026-09-05 08:01",
-    "timestamp": 1788562860,
-    "summary": "엔비디아와 미디어텍이 35억 달러 규모의 동맹을 체결했다. 이번 협력을 통해 양사는 AI 칩 생태계 확장을 추진한다."
-  },
-  {
-    "company": "NVIDIA",
-    "title": "AI 신약개발 '승부수'…SK바이오팜, 최근 엔비디아 GPU에 연 170억 투자 - 청년일보",
-    "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFAyWnNNT056aTdkRmhZUWk4NDRBeEZ2dXR0NzIyYjJJeE9VaFYwbkozazdURWIwbEFTWm5xZnhMdURGLTFyMHdkZG9zNDhPLWt3d1dzS1VqX21fMUdlcTBCcTBtWjJmNU0?oc=5",
-    "published": "2026-09-05 08:00",
-    "timestamp": 1788562803,
-    "summary": "SK바이오팜이 AI 신약 개발을 위해 엔비디아 GPU에 연간 170억 원을 투자한다. AI 신약 개발 분야에서의 승부수를 띄운 사례이다."
-  },
-  {
     "company": "Microsoft",
     "title": "MS 프로젝트 제니스, 64GB 메모리·300억 파라미터 AI 조건 - digitalfocus.news",
     "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE95aUJ2RElNYm9LVm1uOEZTQTJuTXA3Q21tQnp2enNvNzZfZjFsS2M1SjZIZnJNU29LT1gtZmFpLUhmbWRibmZBaVIxcWlVc2ZNdEY1TUhlZW9DTWhwYXl2ZFJRNFNDeTNGOE1HSWNjbWg?oc=5",
@@ -505,11 +537,11 @@
   },
   {
     "company": "OpenAI",
-    "title": "오픈AI 모델 1200개 말 트이자…곧장 반기 들었다 [테크토크] - news.nate.com",
-    "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE5kOGFHOGVrbG4yOTM3M1loWE5lRmRjeGpRS0tRemRuWkx0VGtXWXdvMUoyNVhoT2tqY0s3SkE0VzBqdFZsV0Zqc09YX2RZNkdDZmdV?oc=5",
-    "published": "2026-09-05 07:01",
-    "timestamp": 1788559260,
-    "summary": "오픈AI의 모델 1200개가 공개된 이후, 해당 모델들이 반기를 드는 현상이 발생했다."
+    "title": "오픈AI 모델 1200개 말 트이자…곧장 반기 들었다 [테크토크] - v.daum.net",
+    "link": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE14WFM0ZnRGWmQ0TDZqOHlCM3Z5d1hhN2hIaTJlUUNDM2JKbkxRMG5Ec0RKUEVxUHNEQ0RNb01jLTg2VFVwTHNiME9MOA?oc=5",
+    "published": "2026-09-05 07:03",
+    "timestamp": 1788559407,
+    "summary": "오픈AI의 모델 1200개가 활성화된 이후, 해당 모델들이 반기를 드는 현상이 발생했다."
   },
   {
     "company": "TSMC",
@@ -518,14 +550,6 @@
     "published": "2026-09-05 06:53",
     "timestamp": 1788558802,
     "summary": "TSMC가 구리선 한계를 극복하기 위해 광엔진 기술을 도입하여 반도체 판도 변화를 시도한다."
-  },
-  {
-    "company": "NVIDIA",
-    "title": "[AI세계속으로]오픈AI에 뚫린 허깅페이스 17조원에 산 엔비디아, 왜? - 아시아경제",
-    "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1NQVlzRERMYWR0eGozbTBZRnNrbmk0SEpmczFnbkJXY0duNXRDZTBWVHBValBaNERudU0tWU5vVFVqM1FwUXhWOGhBNDdwbjMzLUhzNlhMdkJLMi0teEpyOA?oc=5",
-    "published": "2026-09-05 06:30",
-    "timestamp": 1788557400,
-    "summary": "엔비디아가 허깅페이스를 17조 원에 인수했다는 내용의 기사이다. 오픈AI와의 관계 속에서 해당 인수의 배경을 다루고 있다."
   },
   {
     "company": "Intel",
@@ -2270,14 +2294,6 @@
     "published": "2026-09-01 17:43",
     "timestamp": 1788252230,
     "summary": "포트웰이 AMD 라이젠 임베디드 8000 기반의 PCOM-B65C를 출시하여 엣지 AI 및 산업용 시스템에 대응한다."
-  },
-  {
-    "company": "AMD",
-    "title": "레노버, AMD 손잡고 기업용 AI PC 공략 확대…씽크스테이션 P4 국내 출시 - 아주경제",
-    "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE5kR0hhNlNDZ1ktbnBJM0RsU1diUUc3TkJwWkZXdHhRVlFjWHZ5WWp4OFVuaWVYaGxuSU5DZUp0aTBDREw1RlBHbm5CUHVDOUdSTmZrUXVibznSAVhBVV95cUxOZEdIYTZTQ2dZLW5wSTNEbFNXYlFHN05CcFpGV3R4UVZRY1h2eVlqeDhVbmllWGhsbklOQ2VKdGkwQ0RMNUZQR25uQlB1QzlHUk5ma1F1Ym85?oc=5",
-    "published": "2026-09-01 17:43",
-    "timestamp": 1788252197,
-    "summary": "레노버가 AMD와 협력하여 기업용 AI PC 시장 공략을 확대한다. 이를 위해 씽크스테이션 P4 모델을 국내에 출시했다."
   },
   {
     "company": "LX세미콘",
@@ -4272,14 +4288,6 @@
     "summary": "BNK금융이 퓨리오사AI의 국산 NPU를 도입한다. 이는 금융권 최초의 도입 사례이다."
   },
   {
-    "company": "리벨리온",
-    "title": "비투엔, 리벨리온 IPO에 투자자산 주목 - 뉴스핌",
-    "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFBaZmtUV0RYenJ4UUFmencyMFQ5Z2JKWGNhU1preFM3NDN3U3VlRDBRUmhuMjVpelNpSnoxaVN5Y0hBRUtvMTZtY0RnMGZHZGx4T2lPcmRyVG41VEc5?oc=5",
-    "published": "2026-08-24 14:36",
-    "timestamp": 1787549760,
-    "summary": "비투엔이 리벨리온의 IPO 추진과 관련하여 투자자산으로서의 가치에 주목하고 있다."
-  },
-  {
     "company": "파두",
     "title": "[클라우드 월드] 아이티센 CTS '자준청 후원'·GS네오텍 'AI 서밋 서울' 참가·파두 'AIDC 비전' 공개·메가존-핑거 '금융 AX 파트너십'·EDB ' AI 서밋 서울' 개최·GS ITM 'SKY-POS 구축' - 뉴스웍스",
     "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE1CWTNKSGcweGtmUWVlT2FaODJLRWlKT2JoeldZTUdvbG5XWnlwMGIwOGFWa1N2U1AwZ1NQb09qWDZJZ3BFNUpHc2VmQ2VSODJWTlNoeVlYNTlsWGRScG9XOHUtWmRCUmxYQjREWGJmVV8wVGPSAXNBVV95cUxNQlkzSkhnMHhrZlFlZU9hWjgyS0VpSk9iaHpXWU1Hb2xuV1p5cDBiMDhhVmtTdlNQMGdTUG9Palg2SWdwRTVKR3NlZkNlUjgyVk5TaHlZWDU5bFhkUnBvVzh1LVpkQlJsWEI0RFhiZlVfMFRj?oc=5",
@@ -5270,14 +5278,6 @@
     "published": "2026-08-18 23:09",
     "timestamp": 1787062166,
     "summary": "추론 클라우드 기업 그록이 3억 5천만 달러 규모의 시리즈A 투자를 유치했다."
-  },
-  {
-    "company": "딥엑스",
-    "title": "딥엑스 NPU, 과기부 ‘혁신제품’ 지정 - 데이터넷",
-    "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTFBLUm54Rm93bEViVkd2Qk96enBIdUNldHI2M2ZBc3JyODIwMmxqVnk2bDFZdkxjTE4xenpoNWtvZjVYeXZMUTloZURUX3Y4NFhJd1lMUW9xTExZbG1OVVg1cjZEc1o0NktQZ3Z3?oc=5",
-    "published": "2026-08-18 19:23",
-    "timestamp": 1787048631,
-    "summary": "딥엑스의 NPU가 과학기술정보통신부로부터 혁신제품으로 지정되었다."
   },
   {
     "company": "Texas Instruments",
@@ -7070,21 +7070,5 @@
     "published": "2026-08-08 14:17",
     "timestamp": 1786166228,
     "summary": "텔레칩스가 4분기 연속 매출 성장을 기록했다. SoC 용역 사업이 실적 상승을 견인했다."
-  },
-  {
-    "company": "Kioxia",
-    "title": "키오시아·샌디스크, 10세대 QLC 3D 플래시 메모리 기술 공개 - 위클리포스트",
-    "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE1hSGZDYmlHTkxQVUtFcExlMktId3dZTzNqeEVyR0pvc1dfSGc0aHkxdmtKNGhHQmpaMV9UeV83dHJMRUJQQmNjYmExOWxrVUVGWmhLbWZmX2ljckdiWFFRSE1pX3hERGJSWkY0?oc=5",
-    "published": "2026-08-08 04:35",
-    "timestamp": 1786131314,
-    "summary": "키오시아와 샌디스크가 10세대 QLC 3D 플래시 메모리 기술을 공개했다."
-  },
-  {
-    "company": "Kioxia",
-    "title": "키오시아 GP 시리즈 SSD, FMS 2026 베스트 오브 쇼 수상 - 위클리포스트",
-    "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBkeVlJd0JnV3JYMHpYZkdvMXNxUkpCQlI0QUZ6M1k2RjNTblZnUEpoOFlZZDYyNFNreWw4T1VESnJHZUpDOWg4TDJOQjNOcTBrSGhDNmM4RGR6amJYdWpIX1hXRjhPeXlnNUE?oc=5",
-    "published": "2026-08-08 04:32",
-    "timestamp": 1786131159,
-    "summary": "키오시아의 GP 시리즈 SSD가 FMS 2026에서 베스트 오브 쇼를 수상했다."
   }
 ]
