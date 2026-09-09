@@ -1,5 +1,61 @@
 [
   {
+    "company": "TSMC",
+    "title": "ASML·TSMC, 12인치 포토마스크로 전환 추진…삼성전자는 2028년 D램 양산에 High-NA 도입 - AI 매터스",
+    "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE1FckZ0eTlHSGx3YWxoWVM5V0VZR2c0a3BkSjNxLUFCclgydHJjV2w2MmdiYUFNRFhxcmFiNnVPLUZrY1hNZ2RvMU9paHYtbWtlWWY2Sg?oc=5",
+    "published": "2026-09-09 08:47",
+    "timestamp": 1788911245,
+    "summary": "ASML과 TSMC가 12인치 포토마스크로의 전환을 추진한다. 삼성전자는 2028년 D램 양산에 High-NA 도입을 계획하고 있다."
+  },
+  {
+    "company": "Microchip",
+    "title": "FPGA·AI 가속기 ‘1.2V 클럭’ 고민 줄인다…마이크로칩, SY757xx 출시 - 뉴스탭",
+    "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5kUmtuYXN4VV9nYzc4bU5nOU1fZnRDNVRkSDh0dDQ2VFhSX0FaS2dYNmYtNHNXaWp1MGZwTjVuc2RjU0h1SzV2UzJJWW1jMng2S3d0UktkdkhvaHRzWDZYXzNJWENzQWtaU1FlbQ?oc=5",
+    "published": "2026-09-09 08:21",
+    "timestamp": 1788909714,
+    "summary": "마이크로칩이 FPGA 및 AI 가속기를 위한 1.2V 클럭 제품인 SY757xx를 출시했다."
+  },
+  {
+    "company": "Meta",
+    "title": "카이스트·파네시아·메타, AI 데이터센터를 ‘하나의 거대한 칩’처럼 움직이는 새로운 구조 제시 - 한국강사신문",
+    "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE41MW1DeTVZWnBCYi1MZmZodS1raEJwTHhBZURsSjRHVnlFVURfdllKX2NBbDRFQV9Wd3VlZ29Ba21fQ0o3bTNoMlFNNDFwV1ZiOFlzeHhqSW9kbm5HVWhLM1ZyYnotU2NpWW9uQ3JlT1g?oc=5",
+    "published": "2026-09-09 07:49",
+    "timestamp": 1788907759,
+    "summary": "카이스트, 파네시아, 메타가 AI 데이터센터를 하나의 거대한 칩처럼 움직이게 하는 새로운 구조를 제시했다."
+  },
+  {
+    "company": "TSMC",
+    "title": "칩 커지는데 렌즈는 줄었다… TSMC가 12인치 꺼내든 속사정 - 글로벌이코노믹",
+    "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQeEFycUdxX2YyOER6ZmdmN0MtU0tMOWoxamg3Q1dNTHN5MmFuSUtibkZxeFRXU3RSdWhlVFZKQnJvSFZ3UURMUDNVX3dkR0p5VjBVak5KQl9YaHVKMUlCbFBJa0xvVFktU205UzNsTE1Ua3ZsS3VEejBaWXI5Yk9UcW85UElXTnFp?oc=5",
+    "published": "2026-09-09 07:16",
+    "timestamp": 1788905797,
+    "summary": "TSMC가 칩 크기 증가에 대응하여 12인치 포토마스크 도입을 추진한다."
+  },
+  {
+    "company": "Qualcomm",
+    "title": "[외신 헤드라인] 퀄컴-아마존, 80조원 차세대 AI칩 동맹 - v.daum.net",
+    "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE1RNUVINEVHOVFmY1BhV2F0LUV6WlZBVWpKR0dyMGh4OGwwcmpyYzh1dFp0bnJrTFU0cUNCbzZSbkhKY3FEVExpNFBKbGlsd3c?oc=5",
+    "published": "2026-09-09 06:37",
+    "timestamp": 1788903438,
+    "summary": "퀄컴과 아마존이 80조 원 규모의 차세대 AI 칩 개발을 위한 동맹을 체결했다."
+  },
+  {
+    "company": "퓨리오사AI",
+    "title": "한글과컴퓨터, 한컴이노스트림·퓨리오사AI와 손잡 - globalnewsagency.kr",
+    "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE5XM1RfX2JKb29jRGFfSDh2LW9LMVhVeTRJbDRKU3I5Q1VJRERqaFRxVjFJelVZUjg1YWQtUS01Vi1VWXU4aTNBdVRLbnZtbS05LTJWNk1NWGVmNGdwTGowMHBBSHYycUV6aXF1cFk5T3lwTWQz?oc=5",
+    "published": "2026-09-09 06:28",
+    "timestamp": 1788902935,
+    "summary": "한글과컴퓨터가 한컴이노스트림 및 퓨리오사AI와 협력 관계를 맺었다."
+  },
+  {
+    "company": "TSMC",
+    "title": "대당 5,000억 장비에 AI 운명 걸었다… TSMC·삼성·인텔, ASML '하이 NA EUV' 도입 - 글로벌이코노믹",
+    "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPUzBfSVBsY3FwOWFlVk1rRFdmbHZHdlZQSWtmdE1LN1BiMkZHa29EcE1nVFRhSTFEZGU5MWtWY3E3VnMwNmM2ZHhHOGxOeW1qRkdzSXBtb2QtY0Rhc1JrbTVBV0NoeUNzZ2FkRl9FTEJ2UHFQRkhqUjJFWnEtSWVleDh6UmVIbEtH?oc=5",
+    "published": "2026-09-09 06:05",
+    "timestamp": 1788901500,
+    "summary": "TSMC, 삼성, 인텔이 ASML의 하이 NA EUV 장비를 도입한다. 해당 장비는 대당 5,000억 원 규모다."
+  },
+  {
     "company": "Intel",
     "title": "인텔, 9% ‘불기둥’…마진 개선·첨단 파운드리 쌍끌이 호재 - 글로벌이코노믹",
     "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQNFl0THJNS3dMQkpJak9tZ185dGEzXzBJT3Jub0tCVlpyOUJCLWJCRjZ2a0dsVzlDV1VIWUxBcGJWaXdVMlYwV0U4SjRGa3V5MW11eUoybmdQLVE4cXlkU1h2RTlEOTFWRFRYS3k0bTdZXzNQV1d5UVJkblRTSnpNYUV2WG14akhC?oc=5",
@@ -14,6 +70,14 @@
     "published": "2026-09-09 05:15",
     "timestamp": 1788898539,
     "summary": "오픈AI가 AI 인프라 구축과 함께 돌아와야 한다는 내용을 다루고 있다."
+  },
+  {
+    "company": "Broadcom",
+    "title": "브로드컴, 골드만삭스 콘퍼런스서 AI 성장과 공급 제약 언급 - Investing.com 한국어",
+    "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE1pX2paQmZuMWRIMTJMaC0xOEJrNVVMTG9IeDZoeGNwRVJmdmxsMHlIXzMyMU5OM0d6NjB1aGJXbUF6SXVQRW9NclNWbFNTaWRrY3RGblBTN3RLLW93aUpDZGlnUmQwaFhIb2FaSkxucw?oc=5",
+    "published": "2026-09-09 05:15",
+    "timestamp": 1788898500,
+    "summary": "브로드컴이 골드만삭스 콘퍼런스에 참석하여 AI 성장세와 현재 직면한 공급 제약 상황에 대해 언급했다."
   },
   {
     "company": "TSMC",
@@ -200,6 +264,14 @@
     "summary": "ASML이 개장 전 3% 상승했으며, 삼성전자와 TSMC가 최신 노광장비를 도입한다."
   },
   {
+    "company": "AMD",
+    "title": "美반도체 기업 AMD, 새 AI 칩 공개 - 미주조선일보",
+    "link": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxPTzdFcTJaazdsZldXTE0wYllxbmhETDY3Zm5HZnl1R1BXa08zTFU0M3ZLOGlwNC1DWXZTaHF3TEZnWVBWY1c0RGI0OC1EazlYR1FZVDNNN21wNHJNb2JwR29WRFlqSURNOWpUdk85aXVJTkhrSGRoOHlYX2puYnRqN0hMN2J4Tzl6cmRBR0E2TElRUlJ5Zjg1Rkg5QVhvZklyeEl5OU9fQ2R0eV90dlp1aUNmU2l5WFBsOEtpOTVaOEVQZWZzdGtwY09yRExvcE5DQUhyOTg4OUFLXzZFWUdNdW5ERno?oc=5",
+    "published": "2026-09-08 19:47",
+    "timestamp": 1788864435,
+    "summary": "미국 반도체 기업 AMD가 새로운 AI 칩을 공개했다."
+  },
+  {
     "company": "Synopsys",
     "title": "앤시스 품은 시높시스, 칩부터 시스템까지 설계 통합 - 디일렉",
     "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFBka1dSRU1yMDV3dkt4Z3ZVVVI1MHBtdWQ2MlFVbnBWSHVfTlNzRUluTk11NGNnQy1aN1RBZHh3dEhhUUtncWxqQ3NlQmtxOG9DV3RTQjZJd19kbXRyMDAwZlpVSGRKUQ?oc=5",
@@ -242,9 +314,9 @@
   {
     "company": "리벨리온",
     "title": "'AI 독립' 외치는 리벨리온에…엔비디아는 M&A 손 내밀었다 - 모바일한경",
-    "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQaHlaTHpRM1hISFVteUdjaUdlSk5SN0M1b2UzbHp0Q3oxYnhfem5PbjlRc2t2eFZlMVc1M3NlUW5sMjhna05MVHlRSlh6TkxSa3JSUUd0WDRKQUNEZGxsdWRPTi1yLXYzV0xoRXpCRTJaajFrYm5KUjNUU0ZKVHFOWGRsbHRNcEpFdkZtenZRNDdPVC1YMUZTa3B5TENrVHZSYU5qQzVwcWhuUGlZbFE?oc=5",
+    "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNSEFfZVlKQzJfeXUxM2ZZSFN5Tm9wUzJReXhFb2FPZzA5VDhMVnBXaGwwVklsY3FsUS1aRXNqOEFQYUJqWEpUcnVuV1Q4QW1OcU1zNTlsUlVheG0yYnJQZXVqaGltVFZSVFIxX1h4eVhheEtpMGtFSWZKdnNWOHVEZUhLb2ZqamJyN1poVi1rRXJSVnhjRVNUOF9rZmR2bWlHUTQ1NGszbWthSFEtaWc?oc=5",
     "published": "2026-09-08 18:55",
-    "timestamp": 1788861328,
+    "timestamp": 1788861329,
     "summary": "AI 독립을 표방하는 리벨리온에 엔비디아가 인수합병(M&A)을 제안했다."
   },
   {
@@ -888,14 +960,6 @@
     "summary": "머스크가 한국의 반도체 인재들을 대상으로 테슬라 합류를 공개적으로 요청했다."
   },
   {
-    "company": "AMD",
-    "title": "美반도체 기업 AMD, 새 AI 칩 공개 - 미주조선일보",
-    "link": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxNNmhGdWRMVU1PRzdDbVBPMERoMTVWTjhyWVAtd1Nidm1zMlVndG9xZlUtY2g5eUdyQjdPb00xMWhjTzJrNm5KT0ZiaExMN1RneXV0a3pBdnU5amRFcnJkbUN2X0FQckJXb1VvSi1xQzRlcGxDMkY1dnRyNzRCd2pWUTBLNlBHdG82OS0wc2E5MXhzSFFPczRGNm04elJhNW44SEMwVEtSTkplNDR6X2V6dGtQS0prR1lmcXJid2g5aEZrVzNFbHNKTEoyQjZSVUJtdXJuaW4xUQ?oc=5",
-    "published": "2026-09-07 20:35",
-    "timestamp": 1788780940,
-    "summary": "미국 반도체 기업 AMD가 새로운 AI 칩을 공개했다."
-  },
-  {
     "company": "TSMC",
     "title": "TSMC 등 대만 반도체 ‘빛의 동맹’…AI 데이터 전송 한계 넘는다 - v.daum.net",
     "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFBWN3lxOFhJOThHM2tNRlBsbXVlMGY4NmdFYURGTWhtdG5wYnZPV19sNUNvYXdvN3BFY2ZZeElxN1J4ZEpPem1nandVbnAxV0t1SzVCTlpJaXVoN3ln?oc=5",
@@ -1136,28 +1200,12 @@
     "summary": "대만 신주시가 네이버웍스를 공공 협업 툴로 채택하였다."
   },
   {
-    "company": "TSMC",
-    "title": "TSMC 등 30여곳 뭉친다…대만, AI 반도체 ‘빛의 전쟁’ 선점 나서 - 핀포인트뉴스",
-    "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE85cXJaM1AwOW1SNlhvY1l2ZS16TWRmQnZiSlIycmIzaXBkUThtY281di1wejI4MHpBX3VWNVhKd0VfbDFCWktmNXdLVTNfa19wcW1jZUVSWExNYzlpMVR0ZnZJV0lCcGxEVWpWc0VORGxrQmfSAXdBVV95cUxQcG1vZTRVZk1ycjlTVUFRZnVURmsyTV8tOUFyQ3B0cVZ6dllfUnE4b3dzNkRYY1IzWG9CaHdKN0UzNUZOTzhaaFh5T0RIRU1sTFFpNVc2NzdTQnVGcGZtUUxiWFdTS29PTllJV1RBQmZET3hWYlI1Yw?oc=5",
-    "published": "2026-09-07 12:47",
-    "timestamp": 1788752852,
-    "summary": "TSMC를 포함한 30여 개 기업이 대만에서 AI 반도체 빛의 전쟁 선점을 위해 협력한다."
-  },
-  {
     "company": "Apple",
     "title": "애플, NAND LTA 계약 체결한 것으로 알려져, 키옥시아가 후보일 수 있어 - TradingKey",
     "link": "https://news.google.com/rss/articles/CBMi9wFBVV95cUxON2xiME9LRFlic0Y1Slo3bXo5YTBxRFVFWjB4Q21iSnZsNWh0NnJjcXdXVy1CZUdONmY5SEY0WTl5TkJsWmxZZnh1bEVQYnVicV8ydEIwVmxkQlhnU1BHMW1wVFZ2STFqNW1Yd1h1ZXRUanR1ZHJTbTR1RUFlcVNQeXJHQWJXajhSZTVtNkZ1NDBSNzVlN0c0dlNxaXloa1hRN3lkczk0d2RCSFczQnZEd2hLaDBTTHpQdC1QQ19fOWNNMFcwT0Y4ZDIwQzZvWXhDa0JxRy1Wa21saUJVYjNxWjFncGlqcUw3TUIwX2QydGNUbFlaWjBz?oc=5",
     "published": "2026-09-07 12:39",
     "timestamp": 1788752340,
     "summary": "애플이 키옥시아 등을 후보로 NAND LTA 계약을 체결한 것으로 알려졌다."
-  },
-  {
-    "company": "TSMC",
-    "title": "TSMC 등 30개사, 차세대 기술 '실리콘 포토닉스 연맹' 설립 추진 - 연합뉴스",
-    "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9ZbFhSejhRNDhUcnA4dkVzR2hJdk9rSTNZbDdHWGhYeC1jblBjWGUySHd6WnVGSlpsOHFSTk1ONkx6U1ZFOGtVYk1GY1BYQWtxellQaUJhX296NjjSAWBBVV95cUxNMnE1aUgyMXNVODVYcDlXM0E0bi11ZDRhZ3U0UVRIaDZ3Tml5Yko5QWNsZElaNW5remdKZWtVMkhMVGFDQ3hBVE1aOWJXZWozc29xdElpR1BQSFZoQTZ1bUQ?oc=5",
-    "published": "2026-09-07 11:53",
-    "timestamp": 1788749593,
-    "summary": "TSMC를 포함한 30개 기업이 차세대 기술인 실리콘 포토닉스 연맹 설립을 추진한다."
   },
   {
     "company": "OpenAI",
@@ -1174,14 +1222,6 @@
     "published": "2026-09-07 10:57",
     "timestamp": 1788746270,
     "summary": "아이비전이 습도지시카드의 아마존 US 출시를 앞두고 있다. JEDEC 표준의 본고장인 미국 시장을 본격적으로 공략한다."
-  },
-  {
-    "company": "TSMC",
-    "title": "폭스콘 8월 매출 52% 급증⋯TSMC와 함께 달아오른 'AI 대만' - 포커스온경제",
-    "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE1YN2p5R04wTEZrUDZMOXpXREFteGVpUGFBTkpCUWVDSjk4YUF2ejV1Z2FBZXVORnZkTUpBaXN5Tm5WNmRJLXU5eHdmVHkxcFphcHRDUUVQS1VrUm90b1E?oc=5",
-    "published": "2026-09-07 10:56",
-    "timestamp": 1788746208,
-    "summary": "폭스콘의 8월 매출이 52% 급증하며 TSMC와 함께 대만의 AI 산업 성장을 견인하고 있다."
   },
   {
     "company": "Apple",
@@ -2840,14 +2880,6 @@
     "summary": "애플의 신임 CEO 존 터너스가 800억 원의 연봉을 받게 되었다. 그의 첫 번째 주요 과제는 폴더블 아이폰 개발이 될 예정이다."
   },
   {
-    "company": "Qualcomm",
-    "title": "퀄컴, 드래곤윙 프로세서 2종 공개…가전·산업 엣지 AI 확장 - IT조선",
-    "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTFBTTHJUREJET090Y1RnUjlFekQ2RGpoRGdIVTY3a0JWS2hxYXhYSXI3WXc3M05CVktHMEZpQUxsdVNvYU91SkRMczdsRlZfT0JOTlctYzF3S2lUdlRUelFqZk83dVBDUXMzenhnNERLTXFnbzdf0gF0QVVfeXFMUFNMclREQkRPT3RjVGdSOUV6RDZEamhEZ0hVNjdrQlZLaHFheFhJcjdZdzczTkJWS0cwRmlBTGx1U29hT3VKRExzN2xGVl9PQk5OVy1jMXdLaVR2VFR6UWpmTzd1UENRczN6eGc0REtNcWdvN18?oc=5",
-    "published": "2026-09-02 11:07",
-    "timestamp": 1788314859,
-    "summary": "퀄컴이 가전 및 산업용 엣지 AI 확장을 위해 드래곤윙 프로세서 2종을 공개했다."
-  },
-  {
     "company": "Broadcom",
     "title": "삼성전자, 브로드컴과 292조원 AI 반도체 동맹…HBM부터 2나노까지 - 테크월드",
     "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE9taS1TSmZKbVNKLTZzcGhKcllNYk5ENXV0Y2J4cmtRREJpMVpuRGs3S1BIQ1pWNzZ3X0piZEJaM0hCckpTdy0wUEQxemNydWJYeTA3eU9EVUhkWnhPVGNTM2lnY3ppazIx?oc=5",
@@ -3086,14 +3118,6 @@
     "published": "2026-09-01 15:12",
     "timestamp": 1788243120,
     "summary": "딥엑스가 AWS와 협력하여 공장 및 로봇을 위한 AI 원격 관리 환경을 구축했다."
-  },
-  {
-    "company": "Broadcom",
-    "title": "브로드컴, 엔비디아 없는 ‘AI 팩토리’ 솔루션 출시 - 바이라인네트워크",
-    "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE04OFhpOER4NmZZblRBdW5EQzB3X2hPRnpJQjFMenV4SXhOVEdLZ281Y2l0bVJoYVJMSnp2R2NzVHpERlFEYzhaMV9rdXNhLVU?oc=5",
-    "published": "2026-09-01 15:09",
-    "timestamp": 1788242990,
-    "summary": "브로드컴이 엔비디아의 기술을 배제한 새로운 AI 팩토리 솔루션을 출시했다."
   },
   {
     "company": "딥엑스",
@@ -7270,29 +7294,5 @@
     "published": "2026-08-10 09:10",
     "timestamp": 1786320600,
     "summary": "키오시아의 초고 IOPS SSD가 'FMS 2026'에서 베스트 오브 쇼를 수상했다. 이는 AI 인프라 스토리지 분야의 혁신 사례로 선정되었다."
-  },
-  {
-    "company": "GlobalFoundries",
-    "title": "반도체 칩 품귀 사태와 GTC 21 행사 개최 | #제너럴모터스 #글로벌파운드리 #그래픽카드 Beatles (MlC03U3CiR) - Mshale",
-    "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9DRlBKbGNKQkZUcHN5U3ZJeGxRU1N1NDc2bWFaaHZYQ0l5Z0c3enh5ZjNIV1IwMVVsNV82NDlYeU80SC1XVjJYQTdZVmU5MDMyUXV2UEVpek15WHM?oc=5",
-    "published": "2026-08-10 08:54",
-    "timestamp": 1786319655,
-    "summary": "반도체 칩 품귀 사태 속에서 GTC 21 행사가 개최되었다. 해당 행사에는 제너럴모터스와 글로벌파운드리가 언급되었다."
-  },
-  {
-    "company": "NXP",
-    "title": "NXP, BMW 그룹 차량에 트리멘션 UWB 솔루션 탑재한다 - elec4",
-    "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE1ZNzRJSkFyc3gwY182OW5hQ2ZudWY3QzduQXN0Y1N0ZWlQbndJeUoyUUMwRGdWRk5fd0FZT0d2UjZQaUlWS1N1b2UzaEkxMTNRaGt2X3hTVzNpZWlRNGFRdS1LNmJsWTNzLTQzdUNR?oc=5",
-    "published": "2026-08-10 08:52",
-    "timestamp": 1786319524,
-    "summary": "NXP가 BMW 그룹 차량에 트리멘션 UWB 솔루션을 탑재한다. 해당 솔루션은 차량용 무선 기술로 활용될 예정이다."
-  },
-  {
-    "company": "망고부스트",
-    "title": "망고부스트, 글로벌 웹사이트 오픈…'AI 풀스택' 사업 힘준다 - 지디넷코리아",
-    "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBuejNYQ2RDUHM1MUloUFFZN2IxbUEtXzVCanNzdlVYeTYxM0lfaklJMml3UmptWVVGR3R2TG1wdndrNmJRR3JLY2FDUHpDRUxnQ0g2dmJn?oc=5",
-    "published": "2026-08-10 08:30",
-    "timestamp": 1786318201,
-    "summary": "망고부스트가 글로벌 웹사이트를 오픈하며 AI 풀스택 사업 확장에 나섰다."
   }
 ]
