@@ -1,5 +1,45 @@
 [
   {
+    "company": "OpenAI",
+    "title": "오픈AI 해킹·폭주 경고에…주요 빅테크 \"개발 속도 조절\" - 청년일보",
+    "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE12WVJRNHQyRS1uTWRtOV9xT19QVTZHMFBtX0NvRlhBS3ktUUZodUhkMndTWVdubmR4Wml5QXFpMHc1RnJHemxnelpvMU9YWVpCczJmbDY0SjJiU1BoM2phU0VUZzZqb0E?oc=5",
+    "published": "2026-09-14 08:31",
+    "timestamp": 1789342311,
+    "summary": "오픈AI가 해킹 및 폭주에 대한 경고를 받음에 따라 주요 빅테크 기업들이 AI 개발 속도를 조절하고 있다."
+  },
+  {
+    "company": "NVIDIA",
+    "title": "엔비디아(NVDA.O), 앤트로픽 IPO에 역대급 투자 나서나…최대 14조원 투자 검토 - alphabiz.co.kr",
+    "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE9qa2c4UW02MWNwekotLWltMWlVREdxUmMtMHpya0JrV2pqbFIwQXJIVXVjTDJTekcyeWJkcEdaSHBiNzNmNWR1RGxWTUtxVGhpZmFqWUdlVkJKU0RXbi1qMm01U1FTTlZoZVNzT3Vn?oc=5",
+    "published": "2026-09-14 07:28",
+    "timestamp": 1789338491,
+    "summary": "엔비디아가 앤트로픽의 IPO 과정에서 최대 14조 원 규모의 투자를 검토하고 있다. 역대급 투자 규모로 주목받고 있다."
+  },
+  {
+    "company": "NVIDIA",
+    "title": "중국 AI랩, 엔비디아 칩 제한에도 어텐션 연산 줄여 비용 5분의 1로 미국 추격한다 - 위키트리",
+    "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5HV1FVQjlUajBkN3pLRGRFYkRxYm5yUXluclYxUnlyemp0blpHYmFNalQ5R2x6UEJHNmFHdFhCSzROTzdvWXU3RzZzQnQyenNORm1XNVdB?oc=5",
+    "published": "2026-09-14 07:03",
+    "timestamp": 1789336980,
+    "summary": "중국 AI 랩이 엔비디아 칩 도입 제한 상황에서 어텐션 연산을 줄이는 방식으로 비용을 5분의 1로 절감하며 미국을 추격하고 있다."
+  },
+  {
+    "company": "TSMC",
+    "title": "삼성전자, 日 패키징 R&D 거점 문 열어…TSMC도 택한 '소부장 강국' - 아이뉴스24",
+    "link": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE85YTVva3NxQTQyWjV3bnduN3VvNl9hdDVxWS0xaUlIbklBUmFVSzFHRi1icUp5MTZKNFk4cm9tdi1jSUphREJ4RHREZw?oc=5",
+    "published": "2026-09-14 07:00",
+    "timestamp": 1789336801,
+    "summary": "삼성전자가 일본에 패키징 R&D 거점을 개소했다. TSMC 또한 일본을 소부장 강국으로 평가하며 협력하고 있다."
+  },
+  {
+    "company": "NVIDIA",
+    "title": "AI 서버값 인상, 엔비디아도 예외 아니었다!⁸ - dailycar.co.kr",
+    "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE9jSllBblZPQm04MjMxYWs3Wmg1WlM1UHhkQTdzbmhJdWlXb2VmdjhiOWJKTmJNelhSRy1hb25BOVNVY3ZXY1FQM3RGUnNhOWIzM1ppYnJfZW84U25DSk96QlRKX2hpeDU1aWpOT1VlZE9DR0NhNFE?oc=5",
+    "published": "2026-09-14 06:22",
+    "timestamp": 1789334553,
+    "summary": "AI 서버 가격 인상 흐름에 엔비디아 역시 포함되었다. 엔비디아의 제품 가격 정책이 시장 변화의 영향을 받고 있다."
+  },
+  {
     "company": "AMD",
     "title": "\"인텔·AMD 독점 깬다\"… 日 후지쯔, 2나노 AI CPU '모나카' 내년 美·亞 수출 - 글로벌이코노믹",
     "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxORjF6eFFESFlSSk90MHU4Q0IwVmdhQXU5Q2szM3o5UjRWSk1tem5FejJMc3B0SnRLSXBMaUt0Qk1UWlZsa2xVSDhWUm92WmtnT3ZCQktkeWRUVjVodjdDVzJZZDNOQTZja0xzeU5QWFN4SEJkUlpYTUtQdHZRdDBRWGFOV1doRmNw?oc=5",
@@ -672,14 +712,6 @@
     "summary": "AMD의 Radeon RX 470, 570, 580 그래픽카드에서 발생하는 게임 충돌 문제를 해결하기 위해 드라이버를 23.8.2 버전으로 롤백하는 방법을 안내합니다."
   },
   {
-    "company": "NVIDIA",
-    "title": "옴니사, ‘엔비디아 vGPU’와 ‘옴니사 호라이즌’ 결합한 활용 사례 공개 - 디지털경제뉴스",
-    "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBaeHAyaDM4WGdWRHVyUTczcEJIVS1aZW9iZzc3N0h4bjZoblFMSjJ3REFGTXBnb0tJVFNvelY2eVliNXdEampVX21WNXp1bDdtYnB1N2hWcE9HaTVFRzRHallnV1hLdFYwOVE?oc=5",
-    "published": "2026-09-11 22:03",
-    "timestamp": 1789131812,
-    "summary": "옴니사가 엔비디아 vGPU와 옴니사 호라이즌을 결합한 기술 활용 사례를 공개했다."
-  },
-  {
     "company": "Analog Devices",
     "title": "아나로그디바이스, 알리프 세미컨덕터 13.5억달러에 인수...AI 네이티브 프로세싱 플랫폼 확보 - 인공지능신문",
     "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9FSEZMZi1NZTRRaTFUUXRSbUt0NlZwWTBSOVBxWFNOUGZ1MEJNMFFENU5WVEdCeThzaW53bHdyVGZjSV9yVC1udmhzTVpLM2tySVZpZHBEQUNwYjZGZFl4Z203dkRCcms?oc=5",
@@ -718,22 +750,6 @@
     "published": "2026-09-11 18:39",
     "timestamp": 1789119562,
     "summary": "퓨리오사AI가 싱가포르에 법인을 설립했다."
-  },
-  {
-    "company": "NVIDIA",
-    "title": "엔비디아, AMD, 인텔: AI 칩 경쟁은 더 이상 하드웨어만의 경쟁이 아닙니다. - Vietnam.vn",
-    "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNVEw1V1NqWUc3TGJzdV9lSEVVS0YxQmlrdjZranBxWGVyTWpaOGJGdVVkbTd5RGxPVndjc0xaSC0zck9wVGQ5QlFJZGNuWnBMTXVaOGVaakNlTE03NXM1M0doUHRRN0JfU0ZhUkR4UTdfbUpfX1A0dlNVaDBCNXNTTE1UUlpXSm5Tc2FxNmdNRWhjRDNWRG1F?oc=5",
-    "published": "2026-09-11 18:37",
-    "timestamp": 1789119441,
-    "summary": "엔비디아, AMD, 인텔 간의 AI 칩 경쟁이 하드웨어 영역을 넘어 확장되고 있다."
-  },
-  {
-    "company": "NVIDIA",
-    "title": "LG·엔비디아 합작 ‘AI 팩토리’ 시동… LG CNS, 3814억 베라루빈 확보 - sedaily.com",
-    "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE13UHRRcU52bmoyM0Q4d3I3cE5nLURIdEk0eUc0ZFAtOWY5ajd3TFZSSHpJeHczRnl0MWV3M0ZHU1dxa3FQZ3l2ME9ueDVMaElHQ0HSAVNBVV95cUxOYU5DOEcydGcya08wWXliZEhwR3MtYTg5SlBROWVZa3FreEVmMWJRX2d1NF9hQnVZVmdPa255eGdRcXVyZVkzdy1YUzlrbm8tcmJmVQ?oc=5",
-    "published": "2026-09-11 18:19",
-    "timestamp": 1789118392,
-    "summary": "LG와 엔비디아의 합작 AI 팩토리 사업이 시작된다. LG CNS는 이를 위해 3814억 원 규모의 베라루빈을 확보했다."
   },
   {
     "company": "TSMC",
@@ -1784,14 +1800,6 @@
     "summary": "애플이 첫 번째 폴더블 기기인 아이폰 듀오를 공개했다."
   },
   {
-    "company": "TSMC",
-    "title": "2분기 전세계 파운드리 매출 11.5%↑…TSMC·삼성 격차 확대 - 세계일보",
-    "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFBUSmRrVkhzN3RVcVVHUW43ZHNHaWVhR21VNEg0QXNpQ1pzbGszVGNheWt2N1FLaWFjTFNHOWtZdmE2cElneDFiU01EVGJwd0lnNnZFUVZ1OGjSAVRBVV95cUxOc3ZTMmQ5cU5ZOElwY2M0aS1RdlI0d2RVUC11ZlNIOXRuSjduanV3ai0tMHRNQkE4ZkRFTWFVXzJLU1E4MklTZzk4VG1VaXFrbnhwRHI?oc=5",
-    "published": "2026-09-10 07:45",
-    "timestamp": 1788993928,
-    "summary": "2분기 전 세계 파운드리 매출이 11.5% 증가한 가운데, TSMC와 삼성전자 간의 매출 격차가 확대되었다."
-  },
-  {
     "company": "Apple",
     "title": "애플, 아이폰용 첫 2나노급 SoC 'A20 프로' 공개 - 지디넷코리아",
     "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1JT0NQVjhGSDNFcnJZTUoyaHVRRlY4TUhJMHNrOHFrRXcxckJHWlItcmJGRzdxZjlfVTRsYjF1NkZETEY0OHRMd0VfX2kyaGxBS1hJaVlR?oc=5",
@@ -2478,14 +2486,6 @@
     "published": "2026-09-08 23:53",
     "timestamp": 1788879232,
     "summary": "한컴이 퓨리오사AI와 협력하여 NPU 기반의 AI 전환(AX) 어플라이언스를 개발한다."
-  },
-  {
-    "company": "OpenAI",
-    "title": "오픈AI, 삼성과 차세대 AI 칩 협력 강화, 앤트로픽도 파운드리 지원 모색 - TradingKey",
-    "link": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxNNVBfYlh4YnFoOGREaHEyQVBEZFZvbHpRc1ZvZ2EzY2lNbjBuWXdfanh2aWdneHo5c1RONnEyRjFYSU55SHdnVEZkU1kwMklHTVc4bFhUSDlZS1R2OWxidU5nWmZ1Y1p2NzNKQ1dPY3Zjc2hUWHcycEJIWkV5OHRvVE8tM0Z0clR2MGxkNktCQTFEVVRyOFpxYzV5QTRGZThFSDdjZ0JMdlU2bEViNno0SVQ5aHduc1RYR1psQVJrOWhoaEdUdWN3Y2p2dC1PYlBpMl9LSjBKOGtLTE5uSTIyeFhNSGVMTEhjTDdHUkhIcElNcThl?oc=5",
-    "published": "2026-09-08 23:50",
-    "timestamp": 1788879000,
-    "summary": "오픈AI가 삼성전자와 차세대 AI 칩 개발 협력을 강화하고 있다. 앤트로픽 또한 파운드리 지원을 모색 중이다."
   },
   {
     "company": "AMD",
@@ -6662,13 +6662,5 @@
     "published": "2026-08-15 20:00",
     "timestamp": 1786791600,
     "summary": "테슬라가 반도체 분야에 24조 원, 태양광 분야에 14조 원을 투자하며 대규모 자본을 투입하고 있다."
-  },
-  {
-    "company": "LX세미콘",
-    "title": "손보익 LX세미콘 사장(뒷줄 왼쪽 네 번째), 최호열 LX세미콘 선임(뒷줄 왼쪽 다섯 번째) 등 임직원이 ESG 경영실천을 다짐하고 있다. - 전자신문",
-    "link": "https://news.google.com/rss/articles/CBMiughBVV95cUxPYjZTX2lWUUxpYXlrWjdhdHB3Ny1EczJ0aUtjNERzYlpIcXlJTkd4QjBnWUNEYWdFNjN2RjAxclZWZ1k4Q1U2eTVvZ3BFZlZaNGJ0TGpWZ2I5LXNnZzFRaHJTVGp1aTl3UWVpUHFqN0plZ3pCS2lSUE5xUHNDdzBmRFhMQlBxWi1VWXBUb2otZ29WNlVuMDRNUEc3TGxNSjdLMGRHbmt0amVMS1ZoSTFNUm1rMTlBT0JZa0NQMFFjQkowUWhlcFFJcldmbmQ0MXUyN2hZV2FNdEctLTVKNGNpUHc1dnQ3TDB6dk41bVVDZXUxYkIydGJaazhmRmVzZlBCMTJqYVJ4MFRzZXU4Ny1zSDZCaC1ZczZqcVpla1VhMVFoQll1c2dlMlVUZ0ZLaHRKcC1maHpWTlB2bmxPbzFUVlQ3em1FRGoxdEVRTGlVYW5NNm5MMmhOMTJLdF9JVmRMNkxvZ3RuN2lrbFRuQktoUVY4N0tMdmQwcXlPbFNKdzNMUVdhQWQtTGl4RXVxY1V5MkRJQ2Y3ckRMRzBhcXBWM19PdFc2NU9tUE94dmFfTGtMbWpKODlVQWJSS2I4MXZtNlN3eTlxY3FKM0dPb1djOU85bHFWcG82ZXNsQkVKWmpsellzblJCMEs2Vm9yZmRKdlV3N01kNnNHc2ZnSUlrUS1XQWlFT2J2eWtIaG1FMzhmcXNBM3BmMXZaMHlsT0Q2c0RKaUZiRy1DQWx1SFNUSGxaY1hfSTdLZzEwdFV2cS1UaW85ZkdKOVNfRlpoVjNDZ3E0Z1oxTnlwUlE4Z201NElqQlBOalJaZ3U0NnBlVEdLMnFKaTQ4SHhKWXlDV3NFRXhUemxsYzI4RXpkNFV6U3JCMEswNnkzWVoxTWFMLU9MYnBKWDhhbnFKekFvVEhsNEdsTVRYeFpLWDRJcy1UeXZ6R2ZpNU1HZWVmbUo5Q0pYWHExN29ISmhDVE5lM2VhWFNpZFF6bkRkaHJzSzUxSU9DcHdpYmlHX1RFSHdzd2UtMTdmbGYxdXJNUnd2TzFadU9mNm12el80Tzg0enhjLWlHMExXblVJb3luOXBZNG8zaGRKMS10Vnk5anR3SmE0bEhvMHFKRC1PUklrci1nbldjZ1VBSlhjNnVnWWRYTGJBZjhWRm1OdW04ejZ2N2RqNUtPNTJPTk1ieTNQZU51REt1WUNNQUdWOXpOYkY1NWVVS180R2s2c1FSRmt2Wm1FM1FDcnM0YUhzZHREcF9Gc0VzUkZ6LW94R2VETHVVUXhSMDZPcUFhei1ZUHRYa1hiZTE4OUNRdEs0c0oyMGZsVzN0d3RiZmZLcHBISVkxUnRwZlgzZF9NZW1Ea3hzeVlmMGNWU29pbGhNZ1lWMU1aaG9weTBPMEE4WFBJSFRLbFhJbGstV1ROUTY5SmRwcWdqVWdsTWlLUW01UQ?oc=5",
-    "published": "2026-08-15 07:14",
-    "timestamp": 1786745672,
-    "summary": "손보익 LX세미콘 사장과 임직원들이 ESG 경영 실천을 다짐했다."
   }
 ]
