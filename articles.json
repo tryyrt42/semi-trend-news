@@ -1,6 +1,62 @@
 [
   {
     "company": "NVIDIA",
+    "title": "NVIDIA, DSX AI 팩토리 플랫폼에 대한 초기 생산 결과 보고 - Unite.AI",
+    "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNTDBCdVRndzcxSFBYazE4Sk1rYU5UY3BPbnIyN1V0b0pnYU5hcjR5aURzVmxOY2t0MDBxVTJwaHR4VUVKVzhLeEdkZXN6dmZFeEQxNUFkRHVTV0NZNTJ6N3JCejFyTUhPVHQ2RGpNTTRzWU93N1hyM04wSUF4SmplZlAyVnlCUkhialRMbHJ0bU4tQWxpcTZr?oc=5",
+    "published": "2026-09-16 02:39",
+    "timestamp": 1789493965,
+    "summary": "NVIDIA가 DSX AI 팩토리 플랫폼에 대한 초기 생산 결과를 보고했다."
+  },
+  {
+    "company": "NVIDIA",
+    "title": "Cisco, 새로운 NVIDIA 가속 AI POD로 Splunk AI를 온프레미스로 제공 - Unite.AI",
+    "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOOVhqSUNjYW9XdXFUa2FZNkJ2a0sxZTRNamdJaUxEaEVQUFZiWEEtOXRTWGtJcWRPamlLMUlGeVFjSVNpMUFER0ZOX09KbXZKT0JERkNQQmxub3JCai05Ml9OaGU1V25KNWhxd1ZydTFrb3luYUQtbTNqYlB4LVB1YldWODJfazI1RUdXSW1WeEs5WG1WdElXUjBn?oc=5",
+    "published": "2026-09-16 01:11",
+    "timestamp": 1789488686,
+    "summary": "Cisco가 새로운 NVIDIA 가속 AI POD를 통해 Splunk AI를 온프레미스로 제공한다."
+  },
+  {
+    "company": "Apple",
+    "title": "‘싸구려’ 옛말, 애플도 줄 세웠다… 韓 턱밑 쫓는 ‘中반도체 굴기’ [글로벌 인사이트] - 서울신문",
+    "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxOaWpzbTBzbnhoNGhpVFVyTHVlcXREbUQ4ZThLY09sTlM2Z2oyd3R3M2RkSldOZ2tSc2padHk4ZEJxU1MxZlBERmVJeEtEdkN5aUg4QjdNc0VqWUFOLVJtclNmUWdxSXdCWlJUSXFBanB2ZHVNZ3dzN0JVV0xINFppeEVtQUdBUEl3a0dz?oc=5",
+    "published": "2026-09-16 00:33",
+    "timestamp": 1789486410,
+    "summary": "중국 반도체 산업이 기술적 성장을 통해 애플을 포함한 글로벌 기업들의 공급망 내에서 입지를 강화하고 있다."
+  },
+  {
+    "company": "Intel",
+    "title": "인텔, TSMC 2나노 빌려 쓴다..그 이유는? - dailycar.co.kr",
+    "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTFBUVjV1bTFFLVI2UVgwWXhqbElEN3NFX1dGaGs5SE44c19XdW5QbnplSTBUVFEtV1EwZTBIb1ZkQkNMemlNRXFmRU5NVE5LZUwzbUZJZVVzVnRyZkFENXRCLWIxWEpRUkhSdmlVYk9uODZHOER5Wnc?oc=5",
+    "published": "2026-09-16 00:02",
+    "timestamp": 1789484535,
+    "summary": "인텔이 TSMC의 2나노 공정 기술을 활용하기로 결정했습니다. 해당 공정 도입의 배경에 대해 다루고 있습니다."
+  },
+  {
+    "company": "NVIDIA",
+    "title": "[드림포스 2026] 엔비디아 네모트론 기반 첫 CRM 추론 모델, 코아 등판의 행간은? - ER 이코노믹리뷰",
+    "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9PTUNLNUJBZDdVM0M2N2ozLXVmNHBjNnlxSTBkR0lsZFhGQnE4TFNzWmJjcWdxZjdIZXBDU2VWWVpqMUhYSjhTZWg4TE0yaTNLYmRUWlllVm9RU01aM1Z2ZVNxaERHVzFCelY4cQ?oc=5",
+    "published": "2026-09-15 23:46",
+    "timestamp": 1789483599,
+    "summary": "엔비디아 네모트론 기반의 첫 CRM 추론 모델이 코아에 등판했다."
+  },
+  {
+    "company": "Meta",
+    "title": "메타, 내년 상반기 자체 AI 칩 배치…엔비디아 의존도 낮춘다｜Global Money Club - 중앙일보",
+    "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5jakZybVAxZzg5Tl9KWTBKa3lCUEhEOGgyRXk0UENKcEFzbFJyNTB5R0JYTnRqT2ZNMzU1TUlBNUtHN0RjYWRIdlNVbEdNZElwaDJ0a0NZVVVSV1k?oc=5",
+    "published": "2026-09-15 23:21",
+    "timestamp": 1789482099,
+    "summary": "메타가 내년 상반기 자체 AI 칩을 배치하여 NVIDIA 의존도를 낮출 계획이다."
+  },
+  {
+    "company": "AMD",
+    "title": "AMD는 FSR 5 뉴럴 렌더링을 특정 용도로만 개발하고 있습니다. Radeon RX 10000 - GameGPU",
+    "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNZk1GaksxSUhwRW9HRVdwZWdhY1BGV09jZlJaSFFRY1c2T19aWHc3OXJXRk1JczhpdElUalZNS3RSZkhOWDJjVU84YkhmV2tZOVN0N2RMZnpJdHdTbmN0VTZ1bGNWWjZvSTRINmk5NTJxUUROazZJODc2LWxlbTRxY1ZOb2FjNEk4Q05yYUQ4VWJFLUEweGxfN1Fia1BmY1J4Vk9TNVp2SQ?oc=5",
+    "published": "2026-09-15 23:02",
+    "timestamp": 1789480921,
+    "summary": "AMD가 특정 용도를 위한 FSR 5 뉴럴 렌더링 기술을 개발하고 있다. 해당 기술은 Radeon RX 10000 시리즈와 관련이 있다."
+  },
+  {
+    "company": "NVIDIA",
     "title": "세일즈포스, 엔비디아 기술 기반 CRM 추론 모델 출시 - Investing.com 한국어",
     "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9VRGFCYkNNS1ljbnNhVjV5RWQ1enBJTEpMSngwcnlfX1YzMGJtdDF2aktCZ0gyWjNMYnN5UC1YbzZMTE9uVzVuUXkzSGZiVlRCVHpRWTlEVlhmUlU3Q2lCSXFSZ0xtUmExZGxvUGVwQ1Q?oc=5",
     "published": "2026-09-15 22:13",
@@ -33,10 +89,10 @@
   },
   {
     "company": "Microsoft",
-    "title": "MS도 ‘AI 속도조절론’ 동참, 반도체로 불똥… 업계 “가속은 있어도 감속은 없다” - 국민일보",
-    "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1QN2RlWHd5RW9pc3BkVVh0SnBYQzh6YnR0MmlkODFuU21wMmZNVWZHdXgyM0psLW9KTkZ6ZE15dTczaVVRcE1fOGk4WU1JSXlDcFNYUlF4ZEFZUm5fbG14OXo5cWdsbHMzekhiZtIBbEFVX3lxTE1QN2RlWHd5RW9pc3BkVVh0SnBYQzh6YnR0MmlkODFuU21wMmZNVWZHdXgyM0psLW9KTkZ6ZE15dTczaVVRcE1fOGk4WU1JSXlDcFNYUlF4ZEFZUm5fbG14OXo5cWdsbHMzekhiZg?oc=5",
-    "published": "2026-09-15 18:55",
-    "timestamp": 1789466100,
+    "title": "MS도 ‘AI 속도조절론’ 동참, 반도체로 불똥… 업계 “가속은 있어도 감속은 없다” - v.daum.net",
+    "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE9hdFU2eDg2Qm56eW1EaEx3c2FXNERnOFh3OFZXYmVOMHNOdS1kZVJCMFREbm1SUE84ZGt2Und3QVRUOFNmemZTUjFGUldFLVk?oc=5",
+    "published": "2026-09-15 18:56",
+    "timestamp": 1789466160,
     "summary": "MS가 AI 속도조절론에 동참하며 반도체 업계에 영향을 미치고 있다. 업계는 반도체 시장의 가속은 지속될 것이라는 입장을 보이고 있다."
   },
   {
@@ -46,6 +102,14 @@
     "published": "2026-09-15 18:30",
     "timestamp": 1789464657,
     "summary": "CHOP이 오픈소스 NVIDIA AI 도구를 활용해 어린이 심장을 모델링했다."
+  },
+  {
+    "company": "MediaTek",
+    "title": "MediaTek, 2nm Dimensity 9600 Pro 공개… 멀티코어 전력 61% 감소 - Unite.AI",
+    "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQbGUwV3g2TUl5bkpzcHVXOGxwbzU2N3FXd1BkaFR1RlBtS0JVaHN1Z2o0SFFNTTJaTkh5QkNueC0zOVpYUDQ1ZU96OWpucjdnd1VveWpOX25VX1FCd1FEQnNDSm1kb19qTW44MjdOTXhIVDV0VjF6ZGk5LWZsQ2V1U3h2T3ZnejNwbUEwNDFLcVd1Y0w1TllJS3ViYw?oc=5",
+    "published": "2026-09-15 18:06",
+    "timestamp": 1789463162,
+    "summary": "MediaTek이 2nm 공정 기반의 Dimensity 9600 Pro를 공개했습니다. 해당 칩은 멀티코어 전력을 61% 절감하는 성능을 갖췄습니다."
   },
   {
     "company": "NVIDIA",
@@ -102,6 +166,14 @@
     "published": "2026-09-15 16:24",
     "timestamp": 1789457040,
     "summary": "인피니언이 2A/mm² 전력 밀도를 구현한 AI 가속기용 스마트 파워 스테이지를 출시했다."
+  },
+  {
+    "company": "OpenAI",
+    "title": "OpenAI 새 모델 효과에 반도체 웃고 빅테크 울었는데 - 중기이코노미",
+    "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE56WTlNUWZwc2pndW1FU05lalo5anFCWnhodVVWdk92c3AxUzZNMWh0eWRkVDVQODgxVjNrQVlLMnpuWXoxNFpodU5mRS1xTkxRZVp0ZnpLNjE2VFNhQUhSUmE4Vm9JZjZVUHc?oc=5",
+    "published": "2026-09-15 16:11",
+    "timestamp": 1789456277,
+    "summary": "OpenAI의 새로운 모델이 반도체 시장에 긍정적인 영향을 미친 반면, 빅테크 기업들에는 부정적인 영향을 주었다."
   },
   {
     "company": "퓨리오사AI",
@@ -408,6 +480,14 @@
     "summary": "케드마가 엔비디아의 쿠다-Q에 큐이셈을 통합하여 양자 오류 완화를 지원한다."
   },
   {
+    "company": "Meta",
+    "title": "메타 플랫폼스, 엔비디아 의존도 축소 목표로 상반기에 신규 자체 개발 아르케 칩 도입 계획 - TradingKey",
+    "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxPX2FtSGQ0NjA2dllUUUU3RnhCWC00NXRtM2RjYy1GeEdVUVB2Z0k4S05tZy0tUllucGVORnprdGZBelBzZHRxV0NOY25oNEtmazdLYXNDSlNLOHZySms2QzZ3RlE0ejlhQkZPakgxN0RhY0lNNXktSkdvN1dmSE5qYUd5Qi0xSmlhTEVGdllNRGxqdUpOU2ZneDRDVS03LS1PNEEyRS1QSHFKX1NZUkNZR2NPTTRSWDFrckQ3R0RIOFNMMEUtcnFHc2hPNWdPSUY5Rmc?oc=5",
+    "published": "2026-09-15 08:35",
+    "timestamp": 1789428900,
+    "summary": "메타 플랫폼스가 엔비디아 의존도를 낮추기 위해 자체 개발한 아르케 칩을 상반기 중 도입할 계획이다."
+  },
+  {
     "company": "NVIDIA",
     "title": "인플렉션, NVIDIA 쿠다-큐 로지컬에 qLDPC 통합…고율 양자 오류 정정 코드 검증 - 양자신문",
     "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE1tejZEeUcySWxoMUNLSTBNSVZFMV9iN1F5QmhtMF9TZFN4ajlvR0tHQVg2TzRZNDBlNzhWaDgwTUJiQW1fU1Myb21LeHNGOWpxSDlPYTFOTVdKZEl0THlmMlRSUXVnR2RPSUxIUWZxWQ?oc=5",
@@ -600,36 +680,12 @@
     "summary": "딥엑스가 저전력 AI 추론 기술을 통해 녹색기술 인증을 획득했다."
   },
   {
-    "company": "NVIDIA",
-    "title": "엔비디아, 내결함성 계층 추가해 양자 플랫폼 확장 - Investing.com 한국어",
-    "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTFA2ZEZDZDlsRjJaN1JSNmFjUGZ3MzlIek50YTF0N3B1S2p1Wm8yUUZTYTVia05wdFEtdDc1QkoybFNVMkxLZ2ZhZXQwZFBGLUxZRTUwLWJtNktiU3diSDQ3cGtTTTdjdG5vek9hZkhaOEM?oc=5",
-    "published": "2026-09-14 22:13",
-    "timestamp": 1789391580,
-    "summary": "엔비디아가 내결함성 계층을 추가하여 양자 플랫폼을 확장했다."
-  },
-  {
-    "company": "NVIDIA",
-    "title": "Infleqtion, 엔비디아 CUDA-Q Logical에 qLDPC 라이브러리 통합 - Investing.com 한국어",
-    "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1oZWxjWnNYLXZuMWQ2UV9OMWZCRElSYi1qX3FYMjE5cDJLVmxTUV9iN29mTHpUdGVwUk1pUl9faWlLN3V0ZVpKSWN6QzRHZGV3OXVIMFZhaDNvNnJBckpHdV9wMjlFaDA1NVk5TnRUckM?oc=5",
-    "published": "2026-09-14 22:13",
-    "timestamp": 1789391580,
-    "summary": "Infleqtion이 엔비디아의 CUDA-Q Logical 플랫폼에 qLDPC 라이브러리를 통합했다."
-  },
-  {
     "company": "STMicroelectronics",
     "title": "ST마이크로, 고집적 역률보정 컨트롤러 출시 - zdnet.co.kr",
     "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1HWWNhM3VnOGRDSVVvUXRDNk5GU0YycEtpelh3WFBCcXEwMjducUNnWFlTOHk3UG9TV3dDYTZ3Y0FDalV0RTI3clg4dDRUVEJ4WTBhMHV3?oc=5",
     "published": "2026-09-14 20:07",
     "timestamp": 1789384047,
     "summary": "ST마이크로가 고집적 역률보정 컨트롤러를 새롭게 출시했다."
-  },
-  {
-    "company": "NVIDIA",
-    "title": "일론 머스크 “스페이스X, 2027년 엔비디아 AI 컴퓨팅 우주 배치 확신” - Benzinga",
-    "link": "https://news.google.com/rss/articles/CBMi0gJBVV95cUxPMF8zR0pIcFVPLUNhT0FsMm1pNzk3WUt6bk56VldmWHZkRjNHeGtUTlFuM29fTDVKbGw4bzBEZjFreUtvYm81VTcwVFZCSjliNnpORjNwQlBYV0kyTUowU0NBXzFOZnNXN3hoV3M2MjdzQWtOSjRyRUhyanhIdUN1QThOelVmMlMwWjA3X1BucVNkN256aV84Q2dRa2FubUh1MUM4MEpxN1dYQjNxajRHYkF3Tl9FTm1YNzR4dl9VczBlRGlRbFBaUTJ2bVVBQ09nMy1ibzlyQkZXU0xVRDE4akt0aDIycWc3d2toX3A5M2hZdWFveWpOZEwydFZmdjJSaVBPUlNDQzAwZ2p0aWlnM2pLaFB1RWx6YWVqMnhGNWd5ZTFKVTc5Nm50YmZZOVd1VnlNMGdZSFA4bnNvQkZCeUx5d29lQ2NxdEFpQVdUclVDQQ?oc=5",
-    "published": "2026-09-14 19:31",
-    "timestamp": 1789381895,
-    "summary": "일론 머스크는 스페이스X가 2027년 엔비디아의 AI 컴퓨팅 기술을 우주에 배치할 것이라고 밝혔다."
   },
   {
     "company": "자람테크놀로지",
@@ -881,11 +937,11 @@
   },
   {
     "company": "TSMC",
-    "title": "삼성전자, 日 패키징 R&D 거점 문 열어…TSMC도 택한 '소부장 강국' - 아이뉴스24",
-    "link": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE85YTVva3NxQTQyWjV3bnduN3VvNl9hdDVxWS0xaUlIbklBUmFVSzFHRi1icUp5MTZKNFk4cm9tdi1jSUphREJ4RHREZw?oc=5",
-    "published": "2026-09-14 07:00",
-    "timestamp": 1789336801,
-    "summary": "삼성전자가 일본에 패키징 R&D 거점을 개소했다. TSMC 또한 일본을 소부장 강국으로 평가하며 협력하고 있다."
+    "title": "삼성전자, 日 패키징 R&D 거점 문 열어…TSMC도 택한 '소부장 강국' - v.daum.net",
+    "link": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE9jY3hVcTdmQ3c0TXFEWS0zcVZIb01ldGszNlE2RXZoNjU5b0tGTFlNaGpDRW5zVlE0MVA0MlRKNGVRT1c5bGhlQnBWdw?oc=5",
+    "published": "2026-09-14 07:02",
+    "timestamp": 1789336920,
+    "summary": "삼성전자가 일본에 패키징 R&D 거점을 설립했습니다. 해당 지역은 TSMC 또한 선택한 소부장 강국으로 언급되었습니다."
   },
   {
     "company": "AMD",
@@ -2528,14 +2584,6 @@
     "summary": "조강원 모레 대표가 엔비디아 외에도 AMD 등 경쟁자들에게 AI 시장의 기회가 열려 있다고 언급했다."
   },
   {
-    "company": "AMD",
-    "title": "AMD \"서버 CPU 하반기 80% 이상 성장\"…공급은 수요를 못 따라간다 - AI 매터스",
-    "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE1zT2lPOU90RktYOW1hckFBWk5vYUJfc19rSGNZUzM4anFURzdXNjQyY1ROUnNiU09lTHE1MWFqQWxjQXBYeTlyVmFpa3BCVW1zQXlDLQ?oc=5",
-    "published": "2026-09-09 16:07",
-    "timestamp": 1788937656,
-    "summary": "AMD가 하반기 서버 CPU 부문에서 80% 이상의 성장을 예상했다. 현재 수요가 공급을 초과하는 상황이다."
-  },
-  {
     "company": "OpenAI",
     "title": "오픈AI 한국 진출 1년…기업 챗GPT 사용 28배 늘어, 추론도 국내서 추진 - 경향신문",
     "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE02dHg2VEFrLUFZSHNPN2RKLXRSMjZ5Y2pUaV9QVzlMcmNMMzZZVWJyMU43Q3RuN2dNV3dJMkVhc1Z4Vjl1eXJNbUNYVWNTVFRyNE5oTm9lWFRzUmVndzU40gFfQVVfeXFMTTZ0eDZUQWstQVlIc083ZEotdFIyNnljalRpX1BXOUxyY0wzNllVYnIxTjdDdG43Z01Xd0kyRWFzVnhWOXV5ck1tQ1hVY1NUVHI0TmhOb2VYVHNSZWd3NTg?oc=5",
@@ -2550,14 +2598,6 @@
     "published": "2026-09-09 15:47",
     "timestamp": 1788936422,
     "summary": "인텔과 ASML이 하이 NA EUV 양산 적용을 가속화하여 100만 장의 웨이퍼를 처리한다."
-  },
-  {
-    "company": "Apple",
-    "title": "애플, 첫 폴더블폰 공개 임박…'존 터너스 체제' 시험대 - ebn.co.kr",
-    "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE1sTG5wWDQ5WEs2R05DTnBsVV9NanBTakNkSjhsa1Z1SlNJcUlWcy1idWFTY1NLaXZqbi1zQzlGendfQmxBTDVOdGw3eFFtanhWZjREMTdMN05qSDQtNV9DOHVSOVlaRXgw?oc=5",
-    "published": "2026-09-09 15:28",
-    "timestamp": 1788935328,
-    "summary": "애플이 첫 폴더블폰 공개를 앞두고 있으며, 존 터너스 체제에서의 기술적 역량을 시험받게 되었다."
   },
   {
     "company": "Meta",
@@ -2896,14 +2936,6 @@
     "summary": "한글과컴퓨터가 한컴이노스트림 및 퓨리오사AI와 협력 관계를 맺었다."
   },
   {
-    "company": "Intel",
-    "title": "인텔, 9% ‘불기둥’…마진 개선·첨단 파운드리 쌍끌이 호재 - 글로벌이코노믹",
-    "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQNFl0THJNS3dMQkpJak9tZ185dGEzXzBJT3Jub0tCVlpyOUJCLWJCRjZ2a0dsVzlDV1VIWUxBcGJWaXdVMlYwV0U4SjRGa3V5MW11eUoybmdQLVE4cXlkU1h2RTlEOTFWRFRYS3k0bTdZXzNQV1d5UVJkblRTSnpNYUV2WG14akhC?oc=5",
-    "published": "2026-09-09 05:56",
-    "timestamp": 1788900975,
-    "summary": "인텔이 마진 개선과 첨단 파운드리 사업의 호재에 힘입어 주가가 9% 상승했다."
-  },
-  {
     "company": "OpenAI",
     "title": "[박래혁의 테크오딧세이] 오픈AI(OpenAI), AI인프라와 함께 돌아와야 한다. - 알티케이뉴스",
     "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5vRTRGbmI0QkVVeEpoU1VfcnRmNUVqTG9yODlWMFVnNTQtWE5PUDZCMlpnWVFGX2dWM0duRFZYTFhJdTZZYTFPcXBJcmpPQUdhOGNLTkhoT2NYelotc1hSVzRNenFocUNoZk5CNw?oc=5",
@@ -2942,14 +2974,6 @@
     "published": "2026-09-09 01:03",
     "timestamp": 1788883438,
     "summary": "세미파이브가 삼성 4나노 공정을 기반으로 한 LLM AI 추론 가속기 '베르다'의 첫 대규모 양산을 시작했다."
-  },
-  {
-    "company": "OpenAI",
-    "title": "[김대호 진단] 반도체 열전 (53) 오픈AI 아스트라... 메모리 2차 폭발 - 글로벌이코노믹",
-    "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNQjU2cFJZMWhDc1ZubVM4NXJQeFdFbG9xdU9vRU5ySU5mV3BvM0RNVHYxWkd0d2dSS1VJS1JXS3dPVXZ0VlR6NmJ6dmt3cWpxRTBMeWRCTDlxWldwZ1JFSHNXZGd2U1hScVRRVWM4MnR0bk5VRUpTU2N1SkNOeXhXcUg0aWk?oc=5",
-    "published": "2026-09-09 00:00",
-    "timestamp": 1788879600,
-    "summary": "오픈AI의 아스트라 공개가 메모리 반도체 시장에 미치는 영향을 분석한 기사이다."
   },
   {
     "company": "퓨리오사AI",
