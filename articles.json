@@ -1,6 +1,46 @@
 [
   {
     "company": "TSMC",
+    "title": "TSMC, 2나노 주도권 굳혔다… 미디어텍 물량 확보하며 삼성 파운드리와 격차 - biz.chosun.com",
+    "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxPdEluSTViT19SOGVUdzV5bzJqdlpsWWx3WlhHMmZmdnhkNTROUlFwVnVZWmZxSDQxaGVQeERuM05sak94bWtQS1c1X2xsSUY2Y1VZZjNGbm83akFKSng0cE9ERmVtMkFyNExheEpqUXhKU0M4Vkp5MWprR3JsWF9ncFp3?oc=5",
+    "published": "2026-09-17 06:00",
+    "timestamp": 1789592400,
+    "summary": "TSMC가 미디어텍의 물량을 확보하며 2나노 공정 주도권을 강화하고 있다. 이를 통해 삼성 파운드리와의 격차를 벌리고 있다."
+  },
+  {
+    "company": "Intel",
+    "title": "[글로벌 비즈 브리핑] \"SK하이닉스, 인텔과 美서 메모리 생산 논의\" 外 - v.daum.net",
+    "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE51SXZVSjc2eDFkM09HM21LU3dIODNMeTFyN2ZqbDJtMzEtanhuaDNCbjlDUTlmX21UcXpGS29jYlNOQVhkb2VhUV9HWkl5OTQ?oc=5",
+    "published": "2026-09-17 04:51",
+    "timestamp": 1789588260,
+    "summary": "SK하이닉스가 인텔과 미국 내 메모리 생산을 위한 논의를 진행 중이다."
+  },
+  {
+    "company": "Apple",
+    "title": "[TODAY애플]자체 칩 기반 AI 서버 개발 검토…장중 상승분 반납 - edaily.co.kr",
+    "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQU3JldnY1dHgyX0Q3bEVILWJOUjlNc1hiREp6Q2NEWTFVWS1EMlVuOU9DTVBwQ1JRd1JnTzlWTUdpQzZvdldWWWNQZEJiOEsxa0d6cDhkMmdFRnFGZ2JqemtZcWhhRjdpTmRwUm1aN2U4Vkc4R05PTXhLT3daZGY0VA?oc=5",
+    "published": "2026-09-17 04:19",
+    "timestamp": 1789586384,
+    "summary": "애플이 자체 칩을 기반으로 한 AI 서버 개발을 검토하고 있다."
+  },
+  {
+    "company": "NVIDIA",
+    "title": "엔비디아, 메가와트에서 토큰까지 AI 팩토리 생산성 극대화 - 올포칩",
+    "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9ROUtyRHlhUHlsdXA1cWdyRDRJNFVHY1ZVN19lRWc3UXhBUTBHV2NZWE9la2dJTGNUZWVxa0UwWFZTNFZIX0wxRmIySHBpQjNwY3hPd1N5MHZ0QzFxN3o1cw?oc=5",
+    "published": "2026-09-17 03:48",
+    "timestamp": 1789584480,
+    "summary": "엔비디아가 AI 팩토리의 생산성을 극대화하기 위한 기술적 전략을 제시했다. 메가와트 단위의 전력 효율부터 토큰 생성까지의 최적화 방안을 다룬다."
+  },
+  {
+    "company": "Intel",
+    "title": "인텔 14A, 2027년 월 6000장 전망…18A 수율 80% 관측 - 글로벌이코노믹",
+    "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQVG1IeW10T0FJb2ZUM2pGUU5MakhEQWl0cURfeV9GNkFEMWx6NFRaSGZmalhhNWE1aWV5MEk2V1p0THhMNkpNR1E5UmpWb09CZHk5RlhsNkladi0ydlNJWnVqcHlrREYxaEF4Q1NCem92Z245RWlRYzdkQnZBekR0bUI1ZURWTzdz?oc=5",
+    "published": "2026-09-17 02:00",
+    "timestamp": 1789578000,
+    "summary": "인텔의 14A 공정은 2027년 월 6000장 생산이 전망되며, 18A 공정 수율은 80%로 관측된다."
+  },
+  {
+    "company": "TSMC",
     "title": "美 징역 20년… 中 사형·무기징역… 대만, TSMC 기술 유출에 10년형 - v.daum.net",
     "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFB0TWVadExTeWpfVjhkRzJyenJTWi01T2tvTnJzc2ZxcHk3Ni1FQzBMemE3c0U1NktvQUl5VkVyckRGYzVob2Y3Tkk5SXp3ZjQ?oc=5",
     "published": "2026-09-17 00:53",
@@ -360,6 +400,14 @@
     "summary": "딥엑스의 저전력 AI 추론 기술이 정부로부터 녹색기술 공식 인증을 획득했다."
   },
   {
+    "company": "Renesas",
+    "title": "TASKING, 르네사스 RH850 컴파일러를 포함한 디버깅·테스팅 툴체인 출시 - 글로벌 비즈 뉴스",
+    "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE4xX3RkRlVwYXRQM3hCMnF2RXlfNDZkMlVDTF9sd1BwUm1GZHpJQVdRNktEYnhRNVAzel81XzlYY1VrMkhxMi1pa3JDVGZSZ2dkMEFaNUJqRWgwZ3dVRGN2Tl9YaWhhak1X0gFoQVVfeXFMTjFfdGRGVXBhdFAzeEIycXZFeV80NmQyVUNMX2x3UHBSbUZkeklBV1E2S0RieFE1UDN6XzVfOVhjVWsySHEyLWlrckNUZlJnZ2QwQVo1QmpFaDBnd1VEY3ZOX1hpaGFqTVc?oc=5",
+    "published": "2026-09-16 14:05",
+    "timestamp": 1789535151,
+    "summary": "TASKING이 르네사스의 RH850 마이크로컨트롤러를 지원하는 디버깅 및 테스팅 툴체인을 출시했다."
+  },
+  {
     "company": "Intel",
     "title": "인텔 CEO “내년 메모리 부족 더 심해져… 일부 가격 5~7배 상승” - 조선비즈 - Chosunbiz",
     "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxPQ0M4clJKcXE1Uzh2YmROR1FuLVo0MGZfSWJ2V3BIZThuZjFQX2piVGdTdlBhbExMamVxX2ZqYkZPWF9NZUY4X2ViSWlYU2VJM1pUWWx4TmJLY29sU0l5VldYZWJnSlhlNm5MeVowUkJkd1A5RGxjbTZ6QzFVZjhzSUJn0gGWAUFVX3lxTE1DbTVyYUk0bGRoMXJveWJ6UUNvbjNwRmE5X2E2ekxyc2NOZlV6Tksxbm5FczNoeG1jakt2SFRCbGxEMG1CZnVoNXRKV2pMRURwNU94Y1Z3d2lqQnRwOXplTFlPMldOazl1U2NZMko5R0ZnbjNxeTBEYjU3M3FEYnhnV0V0Njl3MDQtSjBxZVJraDRZLTc1dw?oc=5",
@@ -374,14 +422,6 @@
     "published": "2026-09-16 13:52",
     "timestamp": 1789534363,
     "summary": "NVIDIA가 AI 팩토리의 생산성을 극대화하기 위한 메가와트 단위의 전력 및 토큰 처리 효율화 방안을 제시했다."
-  },
-  {
-    "company": "Renesas",
-    "title": "TASKING, 르네사스 RH850 컴파일러를 포함한 디버깅·테스팅 툴체인 출시 - 글로벌 비즈 뉴스",
-    "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFBhd2pUeUE3amVzRzRtU1hrQXlWckx4Rk5NNlVWTDFmN1pvNXJwZ1RxX1dpV3drWjc4NHlaRmloR1pKWE1ZUVN2aGE1cEVubzE0M3dlTE12Y1ZVc0RVTU5ndkpjQnN0UdIBaEFVX3lxTE4xX3RkRlVwYXRQM3hCMnF2RXlfNDZkMlVDTF9sd1BwUm1GZHpJQVdRNktEYnhRNVAzel81XzlYY1VrMkhxMi1pa3JDVGZSZ2dkMEFaNUJqRWgwZ3dVRGN2Tl9YaWhhak1X?oc=5",
-    "published": "2026-09-16 13:41",
-    "timestamp": 1789533660,
-    "summary": "TASKING이 르네사스의 RH850 마이크로컨트롤러를 지원하는 컴파일러를 포함한 디버깅 및 테스팅 툴체인을 출시했다."
   },
   {
     "company": "TSMC",
@@ -424,6 +464,14 @@
     "summary": "엔비디아가 AI 인프라 서밋에서 베라 루빈 DSX 기반 AI 팩토리의 전력 효율 혁신 기술을 공개했습니다."
   },
   {
+    "company": "Broadcom",
+    "title": "브로드컴, VM웨어 이전 막나…핵심 마이그레이션 SDK 다운로드 차단 - cio.com",
+    "link": "https://news.google.com/rss/articles/CBMixgJBVV95cUxNUWIyRFVXdUNPX0RaRnB5X216X2doeXhpeXFmTXNTSFQyYWNNc1RuWktqVzhYUE9ORXBmYmtYbWExNGs2c0J4TXAwNF9DeXdkTkxtWWtoZF9iMXlEeE84Z0JQN29KN0czbjF6YzFWMnpkWUtINDdfNk5YVzVLNkMyZkJiaWlCc1hoMjI5QXVJUWJUQUY1bFBYUEhMc1lQdGk0WFptQ2toNlBMN0Rtand2Zkc3dlA1NmFPai1NWkxhcHVoMkZOZFY5NXVsLWc4Mmd4WE9BRU9GdUZDM2NCVHNzMEtaMXlRWDJyMEpmQ2NTQlhLalRXeEZWS2JPa085MXpiX29IR1l4TTVsbS1Jc3l1N3NDWTNXUjgyZXpMZW1CY1JNS241VmFsbHo1VXZ1bHVQOXlIdHFDLThObFc0STNOT09Ka1ZlUQ?oc=5",
+    "published": "2026-09-16 12:08",
+    "timestamp": 1789528138,
+    "summary": "브로드컴이 VM웨어의 핵심 마이그레이션 SDK 다운로드를 차단하며 이전 작업을 제한하고 있다."
+  },
+  {
     "company": "NVIDIA",
     "title": "엔비디아 '베라 루빈' AI 추론 작업에도 우위, 삼성전자 SK하이닉스 메모리반도체에 긍정적 - 비즈니스포스트",
     "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE50c2ppU2ZVZjcxWUwxT3Z6RTE1dFRMSHRuZHpWYmhGUGpJZ1JqV2JNM1Z0b2cxZno4cHlrVkVwNG10dlZLV21ubDJkLThyWDNmaHphbmZVc0NoSXZwNHFyN2gzNFpMNjBxWk56UGozbGt0bWs?oc=5",
@@ -440,20 +488,20 @@
     "summary": "화웨이가 엔비디아를 목표로 삼고 AI 인프라 제공에 집중하겠다는 전략을 밝혔습니다."
   },
   {
+    "company": "Meta",
+    "title": "메타, 자체 개발 저비용 칩 내년에 순차 투입 - v.daum.net",
+    "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE9wSmlxcVlCX3BzNHVkMEdTRkowTlhaNkFOZGM4aVRXNnhKbFgwbGlmMWdXTGwzblVGYU9aMS1sTFVnZnNlQThaSEtIdWtwUU0?oc=5",
+    "published": "2026-09-16 11:10",
+    "timestamp": 1789524605,
+    "summary": "메타가 자체 개발한 저비용 칩을 내년부터 순차적으로 투입할 예정이다."
+  },
+  {
     "company": "AMD",
     "title": "AMD Radeon RX 9000은 FSR과 프레임률 문제로 비판을 받아왔습니다. - GameGPU",
     "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQbW1fYmxHcUZwQks5MzJpOGdtc1BLS2pSZEs2aV95VGRucHk1bFQ0aWdBbG1Gbk1TNUdiZ0JLWUNvWUs4VGpJV2pyWVB5RG5qVkJwNXlIU1MzRm45UE52MmVZYlk0YUduS1JKM0kySXZ3a2RoN1lReTBEMFgtNVVNZ2Q4WFAwN3FzMHMwdTZQcHFodmo5NlphYmtFWXlSbDJUZU8yYkpZTGRsa2pZLWpyMVlfNEZNb3VGVW5halk5VWo?oc=5",
     "published": "2026-09-16 11:08",
     "timestamp": 1789524517,
     "summary": "AMD의 Radeon RX 9000 시리즈가 FSR 기술 및 프레임률 문제와 관련하여 비판을 받고 있습니다."
-  },
-  {
-    "company": "Meta",
-    "title": "메타, 자체 개발 저비용 칩 내년에 순차 투입 - 매일경제 마켓",
-    "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE96M3FuTmNBck9YSzRRd1padG1NbENhMkwySjZhYU93WXVjbmhtUmRTUWlQVEltekNpd3A2UHpyZHdaMjRrcXljU2dDTlpXOVRNSHc?oc=5",
-    "published": "2026-09-16 11:07",
-    "timestamp": 1789524475,
-    "summary": "메타가 자체 개발한 저비용 칩을 내년에 순차적으로 데이터센터에 투입할 예정이다."
   },
   {
     "company": "NVIDIA",
@@ -518,6 +566,14 @@
     "published": "2026-09-16 10:10",
     "timestamp": 1789521045,
     "summary": "케이던스가 기존 대비 1.5배 속도가 향상된 3나노 HBM4E용 메모리 연결 IP를 개발했다."
+  },
+  {
+    "company": "리벨리온",
+    "title": "리벨리온, 日 ai&와 맞손…도쿄 데이터센터에 '리벨랙' 100대 이상 공급 추진 - v.daum.net",
+    "link": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE5JM05MVUozUXpzVHVyOVp6bGlsel9iYlVQdmhibXlUUHh3eGJQdUo0X2hVREM2Zmh0d0ZneHFiWlFCN0ZfMElIQUJkaw?oc=5",
+    "published": "2026-09-16 10:07",
+    "timestamp": 1789520847,
+    "summary": "리벨리온이 일본 ai&와 협력하여 도쿄 데이터센터에 자사 AI 칩인 '리벨랙' 100대 이상을 공급할 계획이다."
   },
   {
     "company": "리벨리온",
@@ -590,14 +646,6 @@
     "published": "2026-09-16 08:45",
     "timestamp": 1789515927,
     "summary": "아날로그에이아이가 마이크로칩의 SST memBrain SAGE 기술을 채택했다. 이를 통해 1W 이하의 엣지 AI 시장을 공략할 계획이다."
-  },
-  {
-    "company": "NVIDIA",
-    "title": "앤트로픽 \"AI 속도 늦춰야\" vs 엔비디아 \"공학적 해결 가능\" 정면충돌 | - 글로벌E",
-    "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE1MSzNZMkx4MEtIcTcxMDJZc3B0QTNYVXFhd1BrRWFMQUhkVnZtVmpWYkhURlp0LTAyWC05eldwQWFpZ0RWTFRvSXc2QkNBTHlSbUkzcVZ5UGlXTXJNcWtJMUpsdThxWm5ZYTJxZHhxRQ?oc=5",
-    "published": "2026-09-16 08:30",
-    "timestamp": 1789515008,
-    "summary": "앤트로픽의 AI 속도 조절 주장과 엔비디아의 공학적 해결 가능 주장이 정면으로 충돌했습니다."
   },
   {
     "company": "Infineon",
@@ -742,6 +790,14 @@
     "published": "2026-09-15 21:37",
     "timestamp": 1789475858,
     "summary": "삼성전자가 테일러 파운드리 공장을 본격 가동하며 테슬라의 AI5 칩을 수주하여 생산한다."
+  },
+  {
+    "company": "Microchip",
+    "title": "아날로그AI, 엣지 AI 프로세서용 마이크로칩 IP 라이선스 계약 체결 - Investing.com 한국어",
+    "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1PUElsb2RyZmVBbDA3OXU5Qi1qcVBnTWsyRGE3OUZaLXktX0VYQ2I4d1N2QWtoOTNBajBwWnMzX0h5WXVIbUNWMnp4OHVfbU12OHVRZWR6cFVmQW9qaWUtVEhvSFI2SnU5UHZBMExCNUQ?oc=5",
+    "published": "2026-09-15 21:17",
+    "timestamp": 1789474620,
+    "summary": "아날로그AI가 엣지 AI 프로세서에 탑재할 마이크로칩 IP 라이선스 계약을 체결했다."
   },
   {
     "company": "TSMC",
@@ -1592,14 +1648,6 @@
     "summary": "크래프톤이 하이퍼엑셀에 500억 원을 투자했다. 하이퍼엑셀은 이번 투자 유치로 기업 가치를 8,000억 원으로 평가받았다."
   },
   {
-    "company": "TSMC",
-    "title": "후지쓰, AI 반도체 美·아시아 공략…TSMC가 생산 - 네이트",
-    "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE5XRVl2MHJubzhTc1UtRzAzNTRBS2VDRjBNTFF0SDRIYUZTQ0xRTFZkTGZrdEpiZGNjc0tsY1lBLVNFV0VwcnRmYWJ3NjJkTlBHRmNN?oc=5",
-    "published": "2026-09-13 08:58",
-    "timestamp": 1789257480,
-    "summary": "후지쓰가 AI 반도체의 미국 및 아시아 시장 공략을 추진하며, 해당 반도체의 생산을 TSMC가 담당한다."
-  },
-  {
     "company": "Qualcomm",
     "title": "퀄컴, 차세대 NPU '헥사곤' 공개…에이전틱 AI 상시 구동 최적화 - 디일렉",
     "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE96RU9aN3ZqWVpVOHBRNjAxZVhRcmdnSUpEQ1VHU0pnYXhiaDFocEV0SjY4YVEtM2tOQ0dLTEVRZjA1bGxmZE42Ulp3S0JmdHVram8zOWJ2QnlmX1AyYWVfUllxNmxxZw?oc=5",
@@ -2232,14 +2280,6 @@
     "summary": "텔레픽스가 국내 기업 중 유일하게 구글 딥마인드의 AI 액셀러레이터 프로그램에 선정되었다."
   },
   {
-    "company": "Intel",
-    "title": "AI 반도체 패키징 난이도↑...인텔 EMIB· TSMC CoWoS 경쟁 재점화 - 지디넷코리아",
-    "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE81T3p4SzRuRndLdm5FSTQyUUUtaUkxT2M0QVNpYWdJcGszcklqY19TRHEyQks1UnNJWnFHUDE3d2RDVW95QXFQdnk1bWY2WnlmUXdwNTlR?oc=5",
-    "published": "2026-09-11 10:18",
-    "timestamp": 1789089508,
-    "summary": "AI 반도체 패키징 기술 난이도가 상승함에 따라 인텔의 EMIB와 TSMC의 CoWoS 간의 경쟁이 재점화되고 있다."
-  },
-  {
     "company": "알파칩스",
     "title": "AI 데이터센터 확산 수혜 기대감...광통신株 '알파칩스·우리로' 주목 - 뉴스핌",
     "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE9fbjh3V1V3UmJkczdRVUtRSnFGeURVVlZvQV9LZnlmM0FibXQyX1hFNjJxTFJRYkJzd1had3hKa1RRTy1tcURKYlVJcDdKYVZvSnJkTU95Z1c4MGJ5?oc=5",
@@ -2350,14 +2390,6 @@
     "published": "2026-09-11 00:37",
     "timestamp": 1789054634,
     "summary": "머스크가 한국의 반도체 인재들을 대상으로 테슬라 합류를 공개적으로 요청했다."
-  },
-  {
-    "company": "Intel",
-    "title": "인텔은 대규모 구조조정 속에 CPU 가격을 인상할 예정이다. - Vietnam.vn",
-    "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxObl9QUkNib09CcjZ5UVFlVU1MbEJodTVRWUtQNktGSXYyRGhmNGRxMk85eEdPSmhTVWN6azRvMHRPRTFhbGE5S1BUNzg3RDZmNV9ud0VSZFV0SlNObUZxODN4bzJFTHdhY0dsX0JiUFVjTWdvZ2VacGVFbXpIX180a0pibE9TUQ?oc=5",
-    "published": "2026-09-10 23:48",
-    "timestamp": 1789051686,
-    "summary": "인텔이 대규모 구조조정을 진행하는 가운데 CPU 가격 인상을 계획하고 있다."
   },
   {
     "company": "Google",
@@ -2758,14 +2790,6 @@
     "published": "2026-09-10 08:16",
     "timestamp": 1788995760,
     "summary": "오픈AI가 삼성과 차세대 AI 칩 공동 개발 및 생산을 위해 협력한다."
-  },
-  {
-    "company": "Apple",
-    "title": "[뉴스핌 이 시각 PICK] 애플, 첫 폴더블 '아이폰 듀오' 공개 外 - 뉴스핌",
-    "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFBTMEFGMDNONmpud3BxY1hVTFZvc3VWRjE3dl9CVHRMRXdhMGZNenRaU3RWLWhsaVVBV0VPNGs4VEJMRklFRTVxQjdCekdNQXZMTXRhUksxazFjcTRw?oc=5",
-    "published": "2026-09-10 08:02",
-    "timestamp": 1788994920,
-    "summary": "애플이 첫 번째 폴더블 기기인 아이폰 듀오를 공개했다."
   },
   {
     "company": "Meta",
@@ -4192,14 +4216,6 @@
     "summary": "브로드컴이 호실적을 기록하며 빅테크 맞춤형 AI 칩 사업을 본격적으로 추진한다."
   },
   {
-    "company": "Broadcom",
-    "title": "브로드컴 \"2027년 AI 칩 매출 2배\"…엔비디아 독주 흔들까 - IT조선",
-    "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBLTTUxNGZnbEhzdE5sbF84U1hTZzlTVTRGSE0tN28wTXZsVFN3cTlaU0Q5eHJIbGVsa3FPdzBtVEJvcnc5Q1B6M0pJbTFTbFdaVm4yYnEwNTdWMjFseHFTbmt3azBIVjZvcHhTeHVCcFY?oc=5",
-    "published": "2026-09-03 14:45",
-    "timestamp": 1788414347,
-    "summary": "브로드컴이 2027년까지 AI 칩 매출을 2배로 늘리겠다고 발표하며 엔비디아의 독주 체제에 변화를 예고했다."
-  },
-  {
     "company": "라온텍",
     "title": "라온텍, 마이크로LED 백플레인 기술 AI 데이터센터 광통신으로 확대 - 디일렉",
     "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFAyNjlLY2d4ZngxTC0xNjd3ZldjUU01eDhrcDBaUmFsX0JSNEJOdl9fTFpYUzNoaFRTUV9iOVZlTWEyLXJIYVhoUWJoZHk5QkpEa0RIN2pwazgzUVZId3c0ZzAzbzAzQQ?oc=5",
@@ -5502,14 +5518,6 @@
     "published": "2026-08-26 15:42",
     "timestamp": 1787726520,
     "summary": "일론 머스크 CEO가 그록이 시장에서 뒤처져 있으며 앤트로픽이 AI 선두를 달리고 있다고 언급했다."
-  },
-  {
-    "company": "리벨리온",
-    "title": "리벨리온, 칼로섬과 유럽 AI 시장 공동 진출 - 한스경제",
-    "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9UaFRGdWtMMnhrYzVqeFFsaUlXckprNmROd0wxRElsa1BVb012bk5ncU1iVVhXVlF0QmVEUGNHdjZYbWxXMER3UEhrbTRVVTY1VUUxb3F2cnJqZHlzZXIxOERfWjRWbkxOOHEzcw?oc=5",
-    "published": "2026-08-26 15:41",
-    "timestamp": 1787726460,
-    "summary": "리벨리온이 칼로섬과 협력하여 유럽 AI 시장에 공동 진출한다."
   },
   {
     "company": "Microchip",
@@ -6878,13 +6886,5 @@
     "published": "2026-08-18 07:16",
     "timestamp": 1787005017,
     "summary": "RFHIC가 상반기 GaN 트랜지스터 매출을 확대했다."
-  },
-  {
-    "company": "Groq",
-    "title": "그록, 몸값 9.8조서 4.95조로 반토막…엔비디아는 인재 빼가고 투자자로 합류 - 위키트리",
-    "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBScXlSTHBaUzZEeWl4eENqMUdZYXdUWmx0d21zenJpYjNBYXRYZDZZX2ZwcFVGOWV3bVJlNWRqZTRSV0JMelZoNnNOczFrTzlKb1pKeV9n?oc=5",
-    "published": "2026-08-18 04:28",
-    "timestamp": 1786994880,
-    "summary": "그록의 기업 가치가 절반으로 하락한 가운데, 엔비디아가 그록의 인재를 영입하고 투자자로 합류했다."
   }
 ]
