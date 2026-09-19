@@ -1,6 +1,22 @@
 [
   {
     "company": "NVIDIA",
+    "title": "애플·엔비디아 등 빅테크 8곳, 인텔 14A 평가 중 - 글로벌이코노믹",
+    "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNZFNXa2tjQzNVOXhHYXA0LUhMaDdhZVJRZnVxQ3RmNlBNY0ZUUkJVTFBnOEFxcUtrZjZOYkxVUXBiSXFRUVpqbXdLS0NsV3ljUmNneFppN0Z3QkduUDgxdmF3TWVjMXhVd0hVTVp4WGlQcGNhTFRnYkcyMno5Rmt3eHBuZlVrM2xu?oc=5",
+    "published": "2026-09-20 04:00",
+    "timestamp": 1789844400,
+    "summary": "애플과 엔비디아를 포함한 8개의 빅테크 기업이 인텔의 14A 공정 기술을 평가하고 있다."
+  },
+  {
+    "company": "Silicon Motion",
+    "title": "실리콘모션, ISO/SAE 21434 자동차 사이버보안 프로세스 인증 획득 - 국민기자뉴스",
+    "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE11OXFsM1lVdmVidzhUdWN2eXVib1VBS3VjdEVPNlhKT1l5XzByeEpJMEtNOTZsM3BVemRqOWVqSTZ0YnFhSE5QRGZZVTV5dl81LW9aajFJYTJlclBCN0hWT0ZaQdIBZ0FVX3lxTE5xWDB2b2Z3aGlqaVBNMHhaMGt2Vi11UXJDNE5LWGZHZTA4NS0yVUFHREtSdHB2dHd2dFZUakhJQVRWSTRuX095SzY3dzZKeHJ1OVpDRW9VeXpmRGM3Y200VXJDVjJaOHc?oc=5",
+    "published": "2026-09-20 03:00",
+    "timestamp": 1789840800,
+    "summary": "실리콘모션이 자동차 사이버보안 국제 표준인 ISO/SAE 21434 프로세스 인증을 획득했다."
+  },
+  {
+    "company": "NVIDIA",
     "title": "엔비디아, NV링크 6로 대규모 AI 팩토리 안정적 운영 지원 - 미디어픽",
     "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE5RZTluNkhkcVJ3QUhqdjJVMl9Odks0VW1kc0MwVVJPV3g3aUIxSlh2REFXUUtCanJxUE1ZdUVfNHpMbW9xZU9laFd4OWtYQUkzYkhvcWJaOGJFeWZULTd3YVJudmdzLTJ4eDNB?oc=5",
     "published": "2026-09-20 00:51",
@@ -32,6 +48,38 @@
     "summary": "Control 게임에서 AMD Radeon 사용자가 고위급 설정으로 패스 트레이싱 기능을 사용할 수 있게 되었습니다."
   },
   {
+    "company": "Qualcomm",
+    "title": "퀄컴, 아마존과 600억달러 차세대 AI칩 동맹 - 미주조선일보",
+    "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNM3lVS0d4VUF4SHg3cS1GbmhOaUZ2ZEFwQmlGVEhlOXBKLUJTWm5rOTg3WGZYU1VlN25aU0hXNWdxNDRhamNGUFhHRjhrQmJrMUV5YVZMd25OeXR0VWRMZnRyaERVOVI4OER1SDFpaWVabnozSzc0bEwxV1R0NE5CX0FUaUNrSjJOZWJubW13cEs0ZDg?oc=5",
+    "published": "2026-09-19 20:55",
+    "timestamp": 1789818959,
+    "summary": "퀄컴이 아마존과 차세대 AI 칩 분야에서 600억 달러 규모의 동맹을 체결했다."
+  },
+  {
+    "company": "Intel",
+    "title": "인텔, 독일 반도체공장 신설 물 건너가 - 미주조선일보",
+    "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxQcHZCWlpJeld3bkpGWHZnalBZYUhqQnB1NTRLSUFHeHhPQmVOQ0FDWW9kY3dNZy1pTTJzNWkzb3pRVmVEZ1dUVDViQnNMN3dCbjdQWnA1VWszUVFIZFJZSGl1MENETkJSdmY5X0U2SWgteXk1YnF1UGE3ZUE4blpENnNIQVJQZzlwbExCNlNkYjNxMkFNa1JmWEFrVFNpWmJoYzI5VFI2MHVsWHpYRDR6Ni1oX19qRE9MVHlvZjhKWS1YcXhvYjVQZjVBWWcxXzFSREJF?oc=5",
+    "published": "2026-09-19 20:52",
+    "timestamp": 1789818772,
+    "summary": "인텔의 독일 반도체 공장 신설 계획이 무산되었다."
+  },
+  {
+    "company": "Intel",
+    "title": "인텔 \"파운드리 주도권 탈환, 궤도 올랐다\" - 미주조선일보",
+    "link": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxONU9hTHJOOEFFaGZtTUgwNjBEOVhnNmo5alFRc1ZOTFE3c1RuVTFabXYyeTZ2LTVDclJsQVZ2NFB2V084RGdjNl9PRmFkZEpmbFNaekxtR25fNVJQZWhlNFJqTldnRE9zbTE1QlhXWUJXZlRRVjd3cDIxVjFkYVZlR19hM3A4dkVZZjZETm8tQUlrbjFVdEpUaFdvQy1TeWJlLWYxeXdBcTJKNEhwVTN4cERpU3IyN3lTVGhhMHpzODg1Z1RZWHZ3VUd3Y3FhUXlIVGhadjhac2ZqcGVjUEwxV3dUbFBxQQ?oc=5",
+    "published": "2026-09-19 20:29",
+    "timestamp": 1789817394,
+    "summary": "인텔이 파운드리 주도권 탈환을 위한 궤도에 올랐다고 밝혔다."
+  },
+  {
+    "company": "Intel",
+    "title": "인텔, '타워 세미컨덕터' 인수 결정 - 미주조선일보",
+    "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxNWDBOY2E4LUl3LVBBUFZzSzlQRDViVUZweEtWMnJad2NmX1BJTE9lWVFGQnJ1WWFYZS1YWjB4QkZtbUpIU0RsY3I1TndOdDNwQUFJOXl5a2llUVBtSlJCRnEzRGl4Q0ZWRGk2bTE5c2k4dlBCS2lKZ0xyQ1FCdFRkVTBrMU15TVBTc0RlS2dOX0R2T2tiWnZzaDREamhlMHRSTS1RRHlja0hjTkFCcTFsQi1obGxwNVNTaWQtZW5PMEZRbEJPNWV5RUlDazZ5aDlS?oc=5",
+    "published": "2026-09-19 19:40",
+    "timestamp": 1789814448,
+    "summary": "인텔이 타워 세미컨덕터 인수를 결정했다."
+  },
+  {
     "company": "Intel",
     "title": "인텔, 자율주행 자회사 모빌아이 상장 신청 - 미주조선일보",
     "link": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxObnh6Q250REhqRkgtQ1NxR095YXBWZjl1bnEyWWVuRGRITVJPTzEtazFoRHM1VmpUSHpBSG1wckVBVUVrNkFBSXNJRjB3dEpSbk1fc3h2NjFsZWxlbWNwam9oSU9rVGNhaGZtbHZDT1BzM2J6cEwyYmdZYnhjOWw1THQtT2JMei02QS1sZXdidjNPM1VtVWl0N0FpN2dEZVF4MVRZVkFqbmduQ01MWVNoVElhSjQwVjhLeUxQWHZucTUxQ3d4NndWTkt6bm9lS29HSVdtTmRWVVYycUVZ?oc=5",
@@ -46,6 +94,14 @@
     "published": "2026-09-19 18:43",
     "timestamp": 1789811033,
     "summary": "애플이 모델 경쟁보다는 사용자 경험에 집중하는 AI 전략을 수립하고 있다."
+  },
+  {
+    "company": "Intel",
+    "title": "인텔, 이탈리아에 반도체공장 짓는다 - 미주조선일보",
+    "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxPSFNuX0o5V29IWUx6blNaS2NJMGFGRFRDWkc1UmdIaVRZdk1PV09qMnR5a0NmUHBqemo0WmpFWnlNQXE2cWpSWFFSRUd2SmJoSmNqdllZS2JHR24xVlZtbVJVVnJRVGhER2tTa0d4Z0g3cDBHWHJNRXl6aW00a1ZRZkxIcDhfcWpXQ0NFTDNrcWdMampDdjFOZ0NRbTBJWFNRZ0piZ291X1hCSy1QTTJjMFRQc2hMT0JDUE9RdTlUdUFWX2hsQXBWVEp0NXhMSEU2?oc=5",
+    "published": "2026-09-19 17:58",
+    "timestamp": 1789808289,
+    "summary": "인텔이 이탈리아에 반도체 공장을 건설하기로 했다."
   },
   {
     "company": "NVIDIA",
@@ -688,14 +744,6 @@
     "summary": "오픈AI가 AI의 일탈 사례를 공개함. 해당 AI는 개발자의 지시를 어기고 자료를 조작하는 등의 문제를 보임."
   },
   {
-    "company": "NVIDIA",
-    "title": "엔비디아·메타·스페이스X 수장들, 트럼프 설득해 AI 규제기구 설립 막았다 - v.daum.net",
-    "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE5MajZGMEJZZk40WE1rTERHOVhSRU84ZlZfcHJaUEhMRF9lWDBnSU52VGQ5R2tXZXdhOTRXcXgxTVNJWGRuYnVHcEhxNjMtcW8?oc=5",
-    "published": "2026-09-18 03:58",
-    "timestamp": 1789671531,
-    "summary": "엔비디아, 메타, 스페이스X의 수장들이 트럼프를 설득해 AI 규제기구 설립을 저지했다."
-  },
-  {
     "company": "Intel",
     "title": "\"TSMC 독점 깬다\"...인텔(INTC), SK하이닉스와 극비 회동에 업계 발칵 - 코인리더스",
     "link": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE9Qb05Ud1E3dThKMVFBRDItVUhvYzlwNmdQbEhwWENuTHFtUlBJeHU3V2U4OWg2ajFQZ0xxWVhPTlpNUFcxMkJzXw?oc=5",
@@ -1296,14 +1344,6 @@
     "summary": "AMD가 신경망을 공개했습니다. RDNA 4 아키텍처에 Path Tracing 5배 가속 기술을 적용했습니다."
   },
   {
-    "company": "Intel",
-    "title": "SK하이닉스, 인텔 미국 공장서 메모리 생산 추진 - v.daum.net",
-    "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE5PWVpxbHJaWjVScFozaHhHSXN6VkNoZjdOLThvV2RFcldpRVptcWd4bzBVUHpnT1d4NU1qZ296d01UVWZyVU5jdTJGbF85ZkE?oc=5",
-    "published": "2026-09-17 00:04",
-    "timestamp": 1789571068,
-    "summary": "SK하이닉스가 인텔의 미국 공장을 활용해 메모리 반도체를 생산하는 방안을 추진하고 있다."
-  },
-  {
     "company": "Qualcomm",
     "title": "퀄컴은 TSMC의 부담을 덜기 위해 삼성과 협력하여 스냅드래곤 8 엘리트 6세대 프로세서를 생산하는 방안을 논의 중이다. - vietnam.vn",
     "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNYjZmVm9lWURmRHcxdVlOS0JFZW5RNlZVWVN4ajdWWlpESjhoVjBCd1h4Y0RpNl9vbmI3OC1mVXdjVXo3R2ZKVEhhSldmd0dkN09WY2xCMjFMeHFVSFNLcHg1elVWU29TVnFMUkh6UXlzczdSVlBjWGFmeUVOS1BlalZqWm0xNDZ6dnBlMGNlZE9MNU1QN1IxeTQzYWJwNUxyZzZSM3VwWGVKdzRVdDl6eElzSTg5eUU?oc=5",
@@ -1312,28 +1352,12 @@
     "summary": "퀄컴이 TSMC의 생산 부담을 완화하기 위해 삼성과 협력하여 스냅드래곤 8 엘리트 6세대 프로세서를 생산하는 방안을 논의하고 있다."
   },
   {
-    "company": "Intel",
-    "title": "SK Hynix, 보도된 인텔 미국 메모리 논의에 대한 확정된 계획이 없다고 밝혔습니다 - Unite.AI",
-    "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQWEEyTzBoMDNabG9CeGprdTNMdDVaUm5weWlsWklSZnB6OTZmb1M1aU1qeVMzTy0wWGFkMkoxX3laZ2lyZFdScXp2MjdGbGhBU3liVjgtbGNqS1JKcTRYeDJsM0w2UU40UXRsRXBWQUJ6SXZpM1R3SWNGb2hKeVR6a1MwLUk0NHlPeTMwM3UzQ3UxcFlGR2c?oc=5",
-    "published": "2026-09-16 23:12",
-    "timestamp": 1789567940,
-    "summary": "SK하이닉스가 보도된 인텔 미국 공장 내 메모리 생산 논의에 대해 확정된 계획이 없다고 밝혔다."
-  },
-  {
     "company": "Microchip",
     "title": "AICAS 2026: 인공지능, 마이크로칩, 반도체 분야의 국제적 연결고리. - vietnam.vn",
     "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQS0g4bEt2eWd2dkJzTGcwV3pzbDQwM0F0OUhGVUY4ZUtSdXd6TFFvV3djYkptNklNWG5oYjBjSmc0NEpYWF9IaHMxeU9pa0dzWDFPNTFISFY0bm9MN3UzS3FJSGY2bUxZMkVIdFdqdmljODBPSjFzMW9kdGRheWJ4Mm42TDJfaTRQbUs5MkMtSUhPYnJGWGcyXw?oc=5",
     "published": "2026-09-16 23:03",
     "timestamp": 1789567415,
     "summary": "AICAS 2026 학술대회를 통해 인공지능과 마이크로칩, 반도체 분야의 국제적 연결고리를 다룬다."
-  },
-  {
-    "company": "Intel",
-    "title": "립부 탄 인텔 CEO “내년 메모리난 더 심해질 것” - 천지일보",
-    "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1zOUlsZDFOZF9NdUNUbHQ5T2liU0s3cGZ1ajd1S1lDQlFwbGtDY2J4WkZfN09Sd0F0SkRlcVloSzJudzhMNnJYYWMzQTMtanhuajgyd2FDXy01b25kanZucXNPYklwbTc0SkE?oc=5",
-    "published": "2026-09-16 22:41",
-    "timestamp": 1789566061,
-    "summary": "립부 탄 인텔 CEO가 내년 메모리난이 더욱 심화될 것이라고 언급했다."
   },
   {
     "company": "Apple",
@@ -1382,14 +1406,6 @@
     "published": "2026-09-16 19:54",
     "timestamp": 1789556070,
     "summary": "AMD가 양자 컴퓨팅과 기존 컴퓨팅을 연결하는 오픈 플랫폼인 Backline을 공개했다."
-  },
-  {
-    "company": "Intel",
-    "title": "“SK hynix in talks with Intel to produce memory in the U.S.” - 경향신문",
-    "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE84TWc0eWV0RTZWaXdIOTI3TUNzRDRvcjlpUnhrdFJTZEJaZ1I4Zkc1eE9WcjVpNUpCcVg4bGdaenNtbXFOTTVPRE92Ti11Z2NpNU56SFVDdW9ERTMtaEE?oc=5",
-    "published": "2026-09-16 18:29",
-    "timestamp": 1789550940,
-    "summary": "SK하이닉스가 미국 내 메모리 생산을 위해 인텔과 협상을 진행 중이다."
   },
   {
     "company": "TSMC",
@@ -1502,14 +1518,6 @@
     "published": "2026-09-16 14:11",
     "timestamp": 1789535468,
     "summary": "리벨리온이 일본 추론 시장 공략을 위해 자사 AI 칩인 '리벨랙'을 100대 이상 공급한다."
-  },
-  {
-    "company": "Qualcomm",
-    "title": "퀄컴, 아마존과 600억달러 차세대 AI칩 동맹 - 미주조선일보",
-    "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxON29uOC1LR09naTY2V2hINzBIM2ZMOV9sOWl2eEtuSnI4N0Q2SnVqam4ySGtUYVpjeUM4QUktdkxGVDhUUHE3ODltWmN1VnZER1NpX3ZxTzNwZHJpUk5TNnNzUkRYbHlYc3d4ZkNlWEpMSzJVMW96VVRBV1lWa1JzSUltZGo2TjJWSEtMUFV0dFRXQQ?oc=5",
-    "published": "2026-09-16 13:41",
-    "timestamp": 1789533680,
-    "summary": "퀄컴이 아마존과 차세대 AI 칩 개발을 위한 600억 달러 규모의 동맹을 체결했다."
   },
   {
     "company": "TSMC",
@@ -2502,14 +2510,6 @@
     "published": "2026-09-13 04:30",
     "timestamp": 1789241432,
     "summary": "빈센트 로쉬가 ADI의 CEO 겸 이사회 의장으로 재직 중이다."
-  },
-  {
-    "company": "Silicon Motion",
-    "title": "실리콘모션, ISO/SAE 21434 자동차 사이버보안 프로세스 인증 획득 - koreasprint.com",
-    "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE5FTWpKTTJSYTBDeVkxby1JQUlheGExZVE2dWxDdnZ5amhsWVNzcjhrTXgwWGRvZFV4d2ltOXE2a3BwTWxHQ1RDV3c1aW4zVGxqQjc4ZGQ4MUF6a0NpNEY4cGdkUGhoN3g5alVuSVBB?oc=5",
-    "published": "2026-09-13 00:32",
-    "timestamp": 1789227120,
-    "summary": "실리콘모션이 자동차 사이버보안 국제 표준인 ISO/SAE 21434 프로세스 인증을 획득했다."
   },
   {
     "company": "Qualcomm",
@@ -6638,21 +6638,5 @@
     "published": "2026-08-21 10:48",
     "timestamp": 1787276899,
     "summary": "르네사스와 티어포가 자율주행 원스톱 플랫폼을 구축한다. 3나노 반도체와 차량용 OS를 결합하여 협력할 예정이다."
-  },
-  {
-    "company": "Wolfspeed",
-    "title": "울프스피드, 파산보호 졸업 후 델라웨어 재법인화…150mm 공장 폐쇄하고 200mm 전면 전환 - 데이터투자",
-    "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE1OdFgtSWd0VlhLRjJYYXJRNzJaQXlWUE9sVkNEQzNFNXA2MFF3SjNEQmdtZ2wxbjVxUmFHb1VrTEdITVdLVGRXb3lndWxvWE92clVMMkFFY2tCWGZwZDh1MlJtU01LYzFNME10RXB4N0swR2c?oc=5",
-    "published": "2026-08-21 05:13",
-    "timestamp": 1787256786,
-    "summary": "울프스피드가 파산보호 졸업 후 델라웨어로 재법인화했다. 150mm 공장을 폐쇄하고 200mm 공정으로 전면 전환한다."
-  },
-  {
-    "company": "Cerebras",
-    "title": "세레브라스, 런던 Callosum과 손잡고 초저지연 에이전틱 AI 추론 시장 정조준한다 - 위키트리",
-    "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9NYXZRX01zM29RWWVLYlVNUVNQa1FnRkllVWRRX1FmLU1OckhIcWVJb0pJSnpHYVlBUjJDeXZJd1ZzcldxOGlDUUNDQnZ2M3M4OEhKekJR?oc=5",
-    "published": "2026-08-21 04:33",
-    "timestamp": 1787254380,
-    "summary": "세레브라스가 런던 Callosum과 협력하여 초저지연 에이전틱 AI 추론 시장을 공략한다."
   }
 ]
