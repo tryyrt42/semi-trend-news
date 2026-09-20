@@ -1,5 +1,29 @@
 [
   {
+    "company": "AMD",
+    "title": "회원 Radeon AMD가 게임에서 Radiance Caching 기능을 제공하지 않는 것에 불만을 가지고 있습니다. - GameGPU",
+    "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQdjJ5aHYyZi03TERqQkozQWJBWHJlOEhsRkhyNVRTX2EtMFQ3cHFxMFZtVUJvRUFKeEkyMVNyS3ZoZjV3TE9SV1hwNlc0cG9yZ21GT28xa3AtR2hqS2U3b1M4aVdoNUNFTWJtd1NFQkMyVC1uWnRrdUV0QVBBSDJVNldkc19aY280bS1fbFNFYkFRSjBWbjBkdDNNQ0k3ZHpkT2R5QVhNZDVuX1FWVVo3ZTVn?oc=5",
+    "published": "2026-09-21 02:14",
+    "timestamp": 1789924456,
+    "summary": "AMD의 Radeon 그래픽카드 사용자들이 게임 내 Radiance Caching 기능 미지원에 대해 불만을 제기하고 있다."
+  },
+  {
+    "company": "AMD",
+    "title": "AMD, 엔비디아 베라에 ‘2.24배’ 성능 자신…삼성전자·SK하이닉스 서버 D램 주목 - 중앙이코노미뉴스",
+    "link": "https://news.google.com/rss/articles/CBMickFVX3lxTFBFbVNkT0FuOTRzeWE1V0F1am8ybHB4YWZNLXJ1RXBrRG5VbTJXbjJoM0x4ZFhLM2plWlVVMkdvUUlRdS0xZ3FJYXdGam8zRGtwbTZ1a18wTU9lSVg5TS1sdVNZNTl6WnZiTUtURE0wSWNxQQ?oc=5",
+    "published": "2026-09-21 01:32",
+    "timestamp": 1789921957,
+    "summary": "AMD가 엔비디아 베라 대비 2.24배의 성능을 자신했다. 이에 따라 삼성전자와 SK하이닉스의 서버 D램이 주목받고 있다."
+  },
+  {
+    "company": "Intel",
+    "title": "[마켓인사이드] SK하이닉스는 왜 인텔을 선택했나 - 뉴스투데이",
+    "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE1LWXEzUDIzc2ZXbm1va0ttREh2X3V5NnZKdDlKRnhTckhPbVVsY2xsQ2htUlN2clRFNTBBbjB3cHVZOF9MeGNXenRHSkgxWXpkSDNIVFJCVi1YS2JneEE?oc=5",
+    "published": "2026-09-20 23:14",
+    "timestamp": 1789913640,
+    "summary": "SK하이닉스가 인텔을 선택한 배경을 다룬 기사이다. 양사 간의 협력 및 사업적 관계를 분석한다."
+  },
+  {
     "company": "NVIDIA",
     "title": "[현장] 경남 중기들 ‘엔비디아 GPU’ 빌려 쓴다…그것도 공짜로 - 한겨레",
     "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE9seW0ySTJaQko3d3F1dU83Mk5ZaGF3cHRpbE03LVhKS3MyZjR6YjJBQ1pQNy1nRmNLWG05cDI1MXJPSXNoU0xsTHZBTW1DVGNFS3Q2OHZxRUNKWENzY19mRHdMTkE?oc=5",
@@ -22,6 +46,14 @@
     "published": "2026-09-20 19:29",
     "timestamp": 1789900177,
     "summary": "애플의 자체 모뎀 탑재 예상과 달리 아이폰18 프로맥스 모델에 퀄컴의 모뎀이 적용될 예정이다."
+  },
+  {
+    "company": "Apple",
+    "title": "애플 자체 모뎀 'C2', 미국판 아이폰18 프로맥스서 빠져…퀄컴 X80 탑재 확인 - 콕스뉴스",
+    "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTFB3WHI2ajRVWmlfdlBMZkRRTHZNelh1VXhhWXFHQXdDeWdKeUxmYmtWOFNHc3RGenl6LW1oWHRoWWFvTlpNRlVJZjctcS1NckdJd2QtMnJGN1RoNTl2VHRPdWx3WGh3VGRTM0E?oc=5",
+    "published": "2026-09-20 18:54",
+    "timestamp": 1789898083,
+    "summary": "애플의 자체 모뎀 C2가 미국판 아이폰18 프로맥스에 탑재되지 않는다. 대신 퀄컴의 X80 모뎀이 탑재되는 것으로 확인되었다."
   },
   {
     "company": "NVIDIA",
@@ -174,6 +206,22 @@
     "published": "2026-09-20 06:37",
     "timestamp": 1789853873,
     "summary": "TSMC를 중심으로 대만의 반도체 생태계 전반을 분석하는 기사이다."
+  },
+  {
+    "company": "NVIDIA",
+    "title": "엔비디아의 업계 전반 R&D 둔화 반대 속 젠슨 황, 트럼프 AI 정책 동맹으로 부상: 보도 - TradingKey",
+    "link": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxQNlN5TVBEQlZvZ3F4VHRpZ05telBlUEVEc3B1bWdsNm9iRFZqQTdSc2piSUowSmU5U2Y2OFhwcUFhXzhhaWVfYnhQNlpLMG9vZV94aFgyM054Z0t0bG9yeHVBSjhkQnMzaFJONDBGWUNCVU1zY1pHUm8ta2JFanlYX09YamNpUVEwc1d6OGFvUUVxcXZ1V1hvR0pSWGJMNFZ4QVlFWkg2amdfMFJPSk4wSDkxYWNNZzRzcXpTaXZVbXFKcHRYVVBzSUtfQ1VMU21uU18tYWlUTVRkOUV3TW03SzA0QVoxM3BLdUJoZ3hB?oc=5",
+    "published": "2026-09-20 06:32",
+    "timestamp": 1789853520,
+    "summary": "엔비디아의 젠슨 황 CEO가 업계 전반의 R&D 둔화에 반대하며 트럼프 AI 정책 동맹으로 부상했다는 보도가 나왔다."
+  },
+  {
+    "company": "NVIDIA",
+    "title": "엔스케일 IPO: 엔비디아가 지원하는 AI 클라우드 제공업체 미국 상장 추진, 기업가치 350억 달러에 달할 수도 - TradingKey",
+    "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxObk1GendKUFp4Y0RFOV8yRGx1VVVzeDNCNXlfeUt0OEpmNjNUbDYycU9FaDFPdFd2am41SmcyVDkzZWlzWjB5TEw2UXZYN2prYWxqVmluY0xDdG8xbWhZWTJEYnFxS1p0MHctVFppQl9fdE5ITmRQSm16SGZOczNFZHZkTlN5MmV5d1Yzb1pnQTMzUUVzdWplcThCQmdwREsxdkE5R0VrdkNsQ1k1OW1XMmVCNTdTYkQ4cnQzLXZIOFVfb2VGdFZURW0wLXFldEN5MXc?oc=5",
+    "published": "2026-09-20 06:23",
+    "timestamp": 1789852980,
+    "summary": "엔비디아가 지원하는 AI 클라우드 업체 엔스케일이 미국 상장을 추진한다. 기업가치는 350억 달러에 달할 것으로 예상된다."
   },
   {
     "company": "Synopsys",
@@ -366,6 +414,14 @@
     "published": "2026-09-19 08:00",
     "timestamp": 1789772402,
     "summary": "TSMC가 2028년까지 AI칩 패키징 시장에서 독주 체제를 유지할 것으로 보도되었다."
+  },
+  {
+    "company": "AMD",
+    "title": "AMD(AMD), RISC V 데이터센터용 ROCm 최적화 협력으로 AI 생태계 넓힌다 - simplywall.st",
+    "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOekVSNERNdWNtM0hYdnM3Y2d2Ykx2RDBkVEVDeU4tLUdBRmloOWtxNzRlTEdBSEtTcjF3cVZhQVpueG96TEh1c2FTNEFCa18wQUlzakh6bHk0SWFqQkhCWEtOLUhzeXJTLUh4bEV5aTkxRk5BZlBnVUNXSmdiZzlkdTVSc0dLYVhxc1BOTmRDNm9nbU1ZZXJ0U2NYR0R0djhDUkc0NGZQQWNMc09KbUHSAa4BQVVfeXFMTnpFUjRETXVjbTNIWHZzN2NndmJMdkQwZFRFQ3lOLS1HQUZpaDlrcTc0ZUxHQUhLU3Ixd3FWYUFabnhvekxIdXNhUzRBQmtfMEFJc2pIemx5NElhakJIQlhLTi1Ic3lyUy1IeGxFeWk5MUZOQWZQZ1VDV0pnYmc5ZHU1UnNHS2FYcXNQTk5kQzZvZ21NWWVydFNjWEdEdHY4Q1JHNDRmUEFjTHNPSm1B?oc=5",
+    "published": "2026-09-19 07:28",
+    "timestamp": 1789770505,
+    "summary": "AMD가 RISC-V 데이터센터용 ROCm 최적화 협력을 통해 AI 생태계를 확장한다."
   },
   {
     "company": "TSMC",
@@ -600,14 +656,6 @@
     "summary": "TSMC의 웨이퍼 가격 인상으로 인해 AMD가 4분기 칩 가격을 10% 인상할 가능성이 제기되었다."
   },
   {
-    "company": "NVIDIA",
-    "title": "화웨이, 차세대 AI 칩 출시 앞당긴다...\"대규모 연결로 엔비디아 추격\" - AI타임스",
-    "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE51NE9JWlBENGlFUnVuV1lQTzVBSDdTbFVUZjJ6N3NwX0FldldpT3JYMXJqdkVTcE1naDFQZm5VNmc2WHItZXBuX25zcnB2a2l2UG1rUUU3REtTZDVMUG1paUFzT3pxd01ESVE?oc=5",
-    "published": "2026-09-18 14:56",
-    "timestamp": 1789710984,
-    "summary": "화웨이가 차세대 AI 칩 출시를 앞당기며 대규모 연결 기술을 통해 엔비디아 추격에 나선다."
-  },
-  {
     "company": "Lattice",
     "title": "래티스반도체, 보안 제어 FPGA ‘마크-N2’ 공개 - IT비즈뉴스",
     "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1BX2FMWEVuTjJGNzRSOUpXdDNmbEFXbXBKR1JEcld2dEdWSWxpU0JiVU1IRk5hYWgtaDlwWHJJanBpUjdGMW1nbXFzUzQ2eUowbER4aDRpQ2lkek1BZkdPOHc2R1ZoS1JLZXNpVA?oc=5",
@@ -686,14 +734,6 @@
     "published": "2026-09-18 11:57",
     "timestamp": 1789700235,
     "summary": "TSMC의 웨이퍼 가격 인상 여파로 인해 AMD가 제품 가격을 10% 인상한다."
-  },
-  {
-    "company": "NVIDIA",
-    "title": "화웨이, \"AI 속도 조절 아닌 가속\"‥엔비디아 도전장 - 아시아경제",
-    "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5tb2p1ZGVLZnR1SDRiNE55NmZ3bzR2empyMDVLRmxGZldxOGcxQjl3UDZ4UTNrYlBuUHQ5eU5WRzd3MTcwWElCQVRhS0d1UUpRUWlDTi1RY1M5NjZfTHY3aw?oc=5",
-    "published": "2026-09-18 11:55",
-    "timestamp": 1789700148,
-    "summary": "화웨이가 AI 기술 개발 속도를 가속화하며 엔비디아에 도전장을 내밀었다."
   },
   {
     "company": "Intel",
@@ -1358,14 +1398,6 @@
     "published": "2026-09-17 08:02",
     "timestamp": 1789599768,
     "summary": "SK하이닉스가 미국 내 메모리 생산 및 인텔과의 협력설에 대해 결정된 바 없다고 밝혔다."
-  },
-  {
-    "company": "Intel",
-    "title": "[비즈 나우] SK하닉·인텔 맞손…\"美 생산 논의\" - v.daum.net",
-    "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE45S09yUGxFV1FRVTdub0otQ0JXYnBHNG5ZMWJrRVp1Sm10czFlWksyVGZueWhpaS1ZU0JlZFdpUXk1Yncwdk9wUVBwVGZ1aGc?oc=5",
-    "published": "2026-09-17 07:51",
-    "timestamp": 1789599070,
-    "summary": "SK하이닉스와 인텔이 미국 내 메모리 생산을 위한 협력을 논의하고 있다."
   },
   {
     "company": "Samsung Foundry",
@@ -2496,14 +2528,6 @@
     "summary": "AMD와 인텔의 ACE 기술이 GCC 17 개발 트리에 반영되었다."
   },
   {
-    "company": "AMD",
-    "title": "OptiScaler에 Intel XeSS 기능이 추가되었습니다. Multi Frame Generation 비디오 카드용 AMD Radeon 그리고 NVIDIA GeForce - GameGPU",
-    "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPMGZDQkxIVlMxSFRGZVhtS0k3RWFVZzRUbTlJWC0yT1R3RnhoREk1Nnd5Wnl1cVJLbFZwRlBqanlNOGNBQk5RM3ljMnBFdEdQYkxYcG1JYU1XcDNSNnoxdFZSR3JsYl9DVklSUGZtdFVyOThndnhSclNvYnlqZDZwNlZibEZ1NzhySVBoVDBLS1ZMUGVONTYyUEdqY1U0b193eDlBX1JzMV9CMmY4THBMODJWeHM4Z1E2YlE?oc=5",
-    "published": "2026-09-14 00:33",
-    "timestamp": 1789313638,
-    "summary": "OptiScaler에 Intel XeSS 기능이 추가되었습니다. 해당 기능은 AMD Radeon 및 NVIDIA GeForce 비디오 카드를 지원합니다."
-  },
-  {
     "company": "OpenAI",
     "title": "\"이대로 가면 인류 위험\"…앤트로픽 제안에 오픈AI·xAI·구글도 AI 개발 속도 조절 선언 - AI포스트",
     "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE5XVmtHMVpsZ1pDT3J4NTRaZ1pFMC1tTnloRzBMMmlobURxbkg1ZjRrSHM4UGtHQllKcVpXTDROWUhuM3FWYmM2bWJCc2RXNFN3ODI2RzNjV2R0MmY2MXNyMWJ3YnFaVzctd3R3MGVB0gFyQVVfeXFMT3pJTUpya2l3aUVyRVFncXkzT1BPdXZzMF9hS28xUHdWaG03enVZMm8zdC1jSHNQUXVuRlZsX2d0QVdPZ3VWWmllTkRzcDBod3lGbUZ0cGloUHVkSTYwN2ZLcUtpb0NSM0dDMVFnM29lZ0tn?oc=5",
@@ -2534,14 +2558,6 @@
     "published": "2026-09-13 14:12",
     "timestamp": 1789276375,
     "summary": "아나로그디바이스가 알리프 세미컨덕터를 인수했다."
-  },
-  {
-    "company": "AMD",
-    "title": "컬러풀, FPS 게이머를 위한 AMD B850 시리즈 메인보드 3종 출시 - 미디어픽",
-    "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE0tMi1ySmg0RllVVXpMTkE2R3ZuSjJDYWFzVEIyaGFBZlFwWDY5RkcwR1lpTmVMaWNraUJVNW1ZOUppTDlQZVk4cDgtbFdrSllwblp6U2FXQU9QNmMwWVlfbGh2RExRQmtMS1VF?oc=5",
-    "published": "2026-09-13 12:47",
-    "timestamp": 1789271262,
-    "summary": "컬러풀이 FPS 게이머를 위한 AMD B850 칩셋 기반의 메인보드 3종을 출시했다."
   },
   {
     "company": "Qualcomm",
@@ -2632,14 +2648,6 @@
     "summary": "브로드컴의 고객사 한 곳이 전체 매출의 50%를 차지하고 있으며, AI 반도체 부문에서 167억 달러의 매출을 기록했다."
   },
   {
-    "company": "AMD",
-    "title": "컬러풀, FPS 게이머를 위한 AMD B850 시리즈 메인보드 3종 출시 > 뉴스 - 대출몰.net",
-    "link": "https://news.google.com/rss/articles/CBMiTEFVX3lxTFBpcEo1RWZqUW40RDZ2a2wtYXp3STZGRy1BMVh0dXk2RkpIa2RNZFlETUpRSWVjS2NRRXo4WFM5YnFqeW43NnJYalRfbjE?oc=5",
-    "published": "2026-09-12 19:23",
-    "timestamp": 1789208602,
-    "summary": "컬러풀이 FPS 게이머를 겨냥한 AMD B850 칩셋 기반의 메인보드 3종을 새롭게 출시했다."
-  },
-  {
     "company": "OpenAI",
     "title": "오픈AI의 할라페뇨 칩, 엔비디아 중심의 AI 하드웨어 판도를 바꿀 수 있다 - Yellow.com",
     "link": "https://news.google.com/rss/articles/CBMi0gJBVV95cUxNU2lWT2oyVG1kdGlhTFNneDhLemtpWnFpeVFwTzZ5VnZQaFRQdDdKS1hWT2oyenBfblpCYXVNUWNFWTlLRXQ2RFF5bWlZV3Bqa3F1cXlJX195WGFwNlBMc3Z2WHJRRUpYMDdhZjRtTWVHbkI3clFZVDdaNWhFUjFJYWt2VXowa2loNFV5Q3R2SGRfRDVCQmtRczhOdFltYUdtU3RoRGUzZjVnamJDUGlPeTMyVjdtX1JLRENUaEE1bXJPaENlMUM3d2FhYVRRUnRnZEFwMXAxY0dVZEVtak9OaFhDZGJaQUk0aEZuWjV3MkRacUh4ZWF1Zk9mSTdFMGctV2xDZzU2bTBfNUxoTjNUeHIzY21Jb1BELWpvMVd1eEhXenM5T0ZjYjNoZjdXTlVVNGtLUnpZOTlhYTFMaWtxUFAtZzFFUUNuLUktT3dCd3ZqQQ?oc=5",
@@ -2670,14 +2678,6 @@
     "published": "2026-09-12 14:40",
     "timestamp": 1789191649,
     "summary": "ADI가 Alif를 13.5억 달러에 인수하는 계약을 체결했다. 센서와 추론 기술을 연결하는 사업을 추진한다."
-  },
-  {
-    "company": "Apple",
-    "title": "329만원짜리 ‘아이폰 듀오’…애플은 왜 7년 늦게 접었나 - ebn.co.kr",
-    "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE9DYnhCbDVjYVZpalBRV3B5dXZ5a25RMWdhUVpBbkZBMmI3MzFGNmtWenBhVl9XcHVRZ0t2UFdCTmhtY1lvajRpaDFNOEE5bVNaRF9mRTJSRWxFcjNvWEl2OVNISURfWTJB?oc=5",
-    "published": "2026-09-12 11:14",
-    "timestamp": 1789179282,
-    "summary": "애플이 329만 원 상당의 폴더블 아이폰을 출시했다. 시장의 예상보다 7년 늦게 폴더블 시장에 진입한 배경을 다루고 있다."
   },
   {
     "company": "OpenAI",
@@ -6598,21 +6598,5 @@
     "published": "2026-08-22 09:00",
     "timestamp": 1787356800,
     "summary": "그록이 3억 5000만 달러 규모의 투자를 유치하며 엔비디아 생태계 내로 편입되었다."
-  },
-  {
-    "company": "Marvell",
-    "title": "구글과 AI칩 동맹 … 마벨, 10% 쑥 - 모바일한경",
-    "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNM2FoUmUwcnR4WkFzTk1HckpMRFlFUV9kdGVBVVNnY1ZNd0dyazNfMkdGRnY4MHlycXdBR2VkMTB4SGw4NmEwQkd4VkdMMzhUMGZHMlozaFlWS0Z3a0lkYWhYX2NiNjBQSFROWUVmTWp3MHVkWG5RVUtkYWxxbGdKcDhjSFpkMVlpbEFVbEhzeEwwV3J5YUZ1czNZN2FIZmpma0FWU2NLNXNNVWhpRFE?oc=5",
-    "published": "2026-08-21 23:37",
-    "timestamp": 1787323069,
-    "summary": "마벨이 구글과 AI칩 동맹을 맺었다는 소식에 주가가 10% 상승했다."
-  },
-  {
-    "company": "MediaTek",
-    "title": "유출된 vivo X500 Pro 실물 이미지에서 2nm 미디어텍 칩과 200MP 카메라 시스템이 확인되었습니다. - Vietnam.vn",
-    "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOTkZPRVNiUHF4WTNJV1pEUlJnTzZYOGJLZEs5LURHRGpJVHJnbmpNZHM0cC1wcWUxWU1ITnprTGU4QjJsT1I3YXVNRDhCNlEtbFRaQnAwSmdDN3NtV2FsMS1OOUlKeVVPdXFta1dVZjFROFZlZEkweWFReVJLcC13LWZYUEZYVGFxZVlPMU1mSHV3VjhZY29SMzg0N1VCZ1pzVURoaG01Q1pmZHQ3ZHFZVkJpVQ?oc=5",
-    "published": "2026-08-21 22:26",
-    "timestamp": 1787318764,
-    "summary": "유출된 vivo X500 Pro 실물 이미지에서 2nm 미디어텍 칩과 200MP 카메라 시스템이 확인되었습니다."
   }
 ]
