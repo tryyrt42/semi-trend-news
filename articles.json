@@ -1,5 +1,93 @@
 [
   {
+    "company": "NVIDIA",
+    "title": "엔비디아 GPU 쌓아두고도 전기 없어 발동동…K-전력기기 43조 잭팟 터졌다 - 스마트투데이",
+    "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE9JWlhPQU8zaHNpN29PRy1PUGVuX3hJbGFSTGJ2d2VBMEZxY1pwMm5UUUJLWkRQZXU5V0FXZTlKQXpNMm9nd0JUejVFUF8yRHJUeEtHNzFJcTZuanFrLWVn?oc=5",
+    "published": "2026-09-21 08:58",
+    "timestamp": 1789948680,
+    "summary": "엔비디아 GPU를 확보했으나 전력 부족으로 가동에 어려움을 겪는 사례가 발생하며 K-전력기기 산업이 수혜를 입고 있다."
+  },
+  {
+    "company": "NVIDIA",
+    "title": "[머니네버슬립] 젠슨 황 “내년 엔비디아 칩 판매량 두 배로 늘어난다” : 네이버 블로그 - Naver Blog",
+    "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxOOVFBVTVWYXMzT1NlQzJJWkxfTURxM1dubTl6N3NnTXNVUzBmOHVDTGxWVTZfLUY2aEJJX0QwZEctajlmd1NlTFJiNUdWZ3E4QVBkOUctclhqTDVEVTRCTkIxNWNPMlc3cDNUVTA2RGIwMWNQd0R3dXE3YUtjRjA5YlZXNzYxY0E1cDFud0NKaw?oc=5",
+    "published": "2026-09-21 08:45",
+    "timestamp": 1789947912,
+    "summary": "젠슨 황 CEO가 내년 엔비디아 칩 판매량이 두 배로 늘어날 것이라고 밝혔다."
+  },
+  {
+    "company": "리벨리온",
+    "title": "[Tech & Now] 리벨리온, SKT 주요 AI 서비스 4개에 NPU 확대 적용 등 - ebn.co.kr",
+    "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE9kRlZZTUlCQUNCZ2hicjNCUkctek8tMW1qRDdZeUp2R01PQ2tzdGh1NTQwbHJVcGl4aWtNckc5c1oxYmpwRE9KeDVMVzlzT1dGVlRRTWtfeENCNGFYeTlGOEp5Z3FfaVJK?oc=5",
+    "published": "2026-09-21 08:27",
+    "timestamp": 1789946876,
+    "summary": "리벨리온의 NPU가 SKT의 주요 AI 서비스 4개에 확대 적용되었다."
+  },
+  {
+    "company": "에이직랜드",
+    "title": "에이직랜드, TSMC 포럼서 'AxHub·양산 레퍼런스' 공개 - v.daum.net",
+    "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE9HMW16NUZaSy13ellPcmJXMHhVa1N6NHVSVDZkV0g3UzBJNy15M0FsNXNBekloTS0yXzB6WG90UlFCd1MwNzcyQUtuY05vOEE?oc=5",
+    "published": "2026-09-21 08:22",
+    "timestamp": 1789946560,
+    "summary": "에이직랜드가 TSMC 포럼에서 자체 기술인 AxHub와 양산 레퍼런스를 공개했다."
+  },
+  {
+    "company": "퓨리오사AI",
+    "title": "오케스트로·퓨리오사AI 손잡았다…국산 NPU 기반 ‘K-AI 인프라’ 상용화 - newstap.co.kr",
+    "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE4yakZLMk1QVGVXUHR2YXVDQW03UU5OOTdiY21KWncySDVWelBTT2d1dGgxVDlmcUZHV3JmNkhBLVdQRnEzWkEyWHotWFZzZ25rei10VkVqeEQwRi1PXzc4TVRHMklCTG45OHN0bA?oc=5",
+    "published": "2026-09-21 08:20",
+    "timestamp": 1789946439,
+    "summary": "오케스트로와 퓨리오사AI가 협력하여 국산 NPU 기반의 K-AI 인프라를 상용화한다."
+  },
+  {
+    "company": "Meta",
+    "title": "메타서 엔비디아까지…AI 인프라 ‘장부 밖 보증’ 확산 - 한국경제",
+    "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE52ekFTRGFJTGRuWFNIdV9ycnRMZTFaZGdtX214cEo5TXN5elM3OEl5R2tJN1puLWZLVXJKWk85Sm1WUm1jc29ZcTVYay1NSUVNTHNBMnRPdUVCQQ?oc=5",
+    "published": "2026-09-21 08:13",
+    "timestamp": 1789946026,
+    "summary": "메타부터 엔비디아까지 AI 인프라 분야에서 장부 밖 보증이 확산되고 있다."
+  },
+  {
+    "company": "Intel",
+    "title": "인텔 공인대리점 3사, 인텔 정품 CPU ‘추석에도 풍성하게’ 프로모션 - 위클리포스트",
+    "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE8wb29Tb1o4Umh2a3kzTUVSRUEyR2YydG1ZazYtQjRQakVzUGVuRG5uQkRuZ1llM2JSVGNjU2VmbG5GXzRnTjg3eGdkX2ZSaS0tN29nNWxVMWdUOFpOVUVJcWEyZkptOWlrN0Ew?oc=5",
+    "published": "2026-09-21 07:03",
+    "timestamp": 1789941789,
+    "summary": "인텔 공인대리점 3사가 추석을 맞아 인텔 정품 CPU 프로모션을 진행한다."
+  },
+  {
+    "company": "딥엑스",
+    "title": "딥엑스 김녹원 \"AI 승부처는 제품 구현…스마트글라스 두뇌 노린다\" [K-챌린저] - v.daum.net",
+    "link": "https://news.google.com/rss/articles/CBMiRkFVX3lxTFBCQ0hOLUs3M0Y1NlZhSTRaQVlwS05BQV9RNFRteUFDSUVERTlBbUNPYWR1bEx3SkZTTVJFc25ENDQyUGY1SVE?oc=5",
+    "published": "2026-09-21 06:11",
+    "timestamp": 1789938709,
+    "summary": "딥엑스 김녹원 대표가 AI 반도체 제품 구현의 중요성을 강조하며, 스마트글라스용 두뇌 칩 시장 진출 의지를 밝혔다."
+  },
+  {
+    "company": "리벨리온",
+    "title": "리벨리온 6400억·퓨리오사AI 4000억…'K-NPU' 육성에 몰린 벤처자금 - 뉴스1",
+    "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE9Kei1aS1VMQXFrX2NobFk5SDBhX3JQRnI4bEd2NWdIWmJtQjhZUjMxWEJpQzlrVXVvY0tieEVVbzZWamExMkp4MVotbE1yVVhWOHJhaEdTV3VxSWlL0gFiQVVfeXFMT3cwQTAwM20xTjV1enExS3BmZnpIRVVaTHE2ZFFIVmVHanhlWTVrOGJPc29ZRHFrX0FIRzZ4TEh1QS1sX05mcmJzdGs4ZHZIMHJDM3FhSDhTQzdvOEN6RzMzZmc?oc=5",
+    "published": "2026-09-21 06:10",
+    "timestamp": 1789938600,
+    "summary": "리벨리온과 퓨리오사AI가 각각 6400억 원과 4000억 원의 벤처자금을 유치하며 K-NPU 육성을 위한 투자를 확보했다."
+  },
+  {
+    "company": "딥엑스",
+    "title": "[단독] 딥엑스, 美 스마트글라스 선도기업 PoC…'K-NPU' 탑재 검증 - 뉴스1",
+    "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE9zMzNoYnN0Y2wyQjV2N2JiSnhkdmtvNzR2LVhjYkVEdDJCZUlUU2VDRERXUHNvamVleFlkWkc0bkp0SnJscWQwUHVCZ25mb1Bna1ozRHVMNVpXNUFt0gFiQVVfeXFMUF9MZjgzQlRWZm1WMmFxNXc2eWJiRFJxYm8yMGZBRmRMT0xpWFRQNGVaSnVWVHJwYnhMakpKT29uUzg2eUxRSGw3MEEtWm5KT3ZzZDM4cFRiM2VqMEF0U1F2Wmc?oc=5",
+    "published": "2026-09-21 06:00",
+    "timestamp": 1789938000,
+    "summary": "딥엑스가 미국 스마트글라스 선도 기업과 PoC를 진행하며 자사 K-NPU 탑재에 대한 기술 검증을 시작했다."
+  },
+  {
+    "company": "Intel",
+    "title": "GPU CPU 다음은 양자칩...양자컴 시대 예고한 인텔 CEO[김창영의 실리콘밸리 룩] - 서울경제",
+    "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBickk3RHhHYnRnOUplVDhESUFFNkpBNVhic0xOa2xoNldrMXB0WUtzVC04ZmthQWtRWnNaUWRwaWVrdm1LeURBUEFRc0ZqZFdoQmfSAVNBVV95cUxNeVB1VjNZbGU0d1dGRGZKRkxHWFFud1JPZTJOa1UtOW5aMzZNdjY2U2NYd2RYemEtazRoZ0hKcFZGdFg1QW5QN2FabU5xWlVOUTRYUQ?oc=5",
+    "published": "2026-09-21 05:57",
+    "timestamp": 1789937851,
+    "summary": "인텔 CEO가 차세대 기술로 양자칩을 언급하며 양자컴퓨터 시대를 예고했다."
+  },
+  {
     "company": "TSMC",
     "title": "TSMC, 1.4나노 이후 공정 준비 본격화… 2030년 차세대 팹 가동 목표 - 위클리포스트",
     "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTFAwZHhkblhIZTBpTEV0STE4aEY2VzlMMEVBYkZUT3Z5UUJVR2lKaGRwWTN1WC1yWjZlZUNzMHVfXzdDQ0VqdzZaeFQxZFV4UDBmaHlyOFc0aGdRcUZLckJhS0JVUk9mWExUTFE?oc=5",
@@ -401,11 +489,11 @@
   },
   {
     "company": "Intel",
-    "title": "인텔, 이탈리아에 반도체공장 짓는다 - 미주조선일보",
-    "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxPSFNuX0o5V29IWUx6blNaS2NJMGFGRFRDWkc1UmdIaVRZdk1PV09qMnR5a0NmUHBqemo0WmpFWnlNQXE2cWpSWFFSRUd2SmJoSmNqdllZS2JHR24xVlZtbVJVVnJRVGhER2tTa0d4Z0g3cDBHWHJNRXl6aW00a1ZRZkxIcDhfcWpXQ0NFTDNrcWdMampDdjFOZ0NRbTBJWFNRZ0piZ291X1hCSy1QTTJjMFRQc2hMT0JDUE9RdTlUdUFWX2hsQXBWVEp0NXhMSEU2?oc=5",
-    "published": "2026-09-19 17:58",
-    "timestamp": 1789808289,
-    "summary": "인텔이 이탈리아에 반도체 공장을 건설하기로 했다."
+    "title": "인텔, 이탈리아에 반도체공장 짓는다 - chosundaily.com",
+    "link": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxQN0Z6MVplWXdPNWhNczdWektJSG9xaHVEUzFjb2JnOUcyb1FMUk4yU0FMWjJ2QkdTblJ5aEVpS2xVVzBoM01hdzRlZm0zSi1FS2pTa2V4WmFrajN3UHJaeWFzc3VNbEpXRllJVnpsbGwzR0JNSW1VSHJDdjNvOFpRQjJCU2ZvNG51eHVfMXpmYU1iaTZuU2hGQ2NtaHVOVlhOMzJGb3RZUE9GdVlrcXJnWUFZWGpvemYwQWUyakVRUGpGaUtOQXVjbURiYUZCak45U1VVY3NrSWk2dWQ2cUE?oc=5",
+    "published": "2026-09-19 18:15",
+    "timestamp": 1789809345,
+    "summary": "인텔이 이탈리아에 반도체 공장을 건설할 계획이다."
   },
   {
     "company": "NVIDIA",
@@ -654,22 +742,6 @@
     "published": "2026-09-18 16:32",
     "timestamp": 1789716779,
     "summary": "화웨이가 100만 개의 AI 칩을 연결하여 엔비디아를 추격하고 있다. 화웨이의 AI 칩은 공급 부족 현상을 겪고 있다."
-  },
-  {
-    "company": "NVIDIA",
-    "title": "\"어떤 영상에 광고 붙일까\" … 엔비디아가 주목한 파일러 오재호 대표의 '영상 AI' - 뉴데일리",
-    "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE9LcnNIREQ2WE1laG8yOUZSYnpBZHJWUDRvY1o4UEs1bTNwWXUyb0Jyc3JrZ1JUb2JhR3I3TG1CUUI4ZWxtdDJ5U2EySzFrNV9oYlFOVHFHR19nUVpjOU5wUmFiNk8yTEdIRUJvR0FaZVlJQ0Vwb3E4NHkyTdIBgAFBVV95cUxQcldjYVEyenh6cFZEbjhzZlo2ZDlweTBmOGlzU3pwQkZjTzhZVmNib24yRGpVa24yWE84MUZjQ2xqaVUwaUhfUUt2a00yRkZTamlvazkzSmh0Mm90dTB2bmJzN2tzRmRUQ3NNQjd5bE5hWUhYaDdfLXlPUEZzVkRVNg?oc=5",
-    "published": "2026-09-18 16:08",
-    "timestamp": 1789715304,
-    "summary": "엔비디아가 파일러 오재호 대표의 영상 AI 기술에 주목했다."
-  },
-  {
-    "company": "NVIDIA",
-    "title": "엔비디아, 내년 칩 판매 2배 전망…젠슨 황 “AI 수요 전세계 확산” - erountv.com",
-    "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE4yVFl6d0d2SEE4d3cxNm5MblA5LWp3NFQ0dVdhUlRnNUoxZjlZblhJOUVyWV9qdlVDUHlGdVlQdFBQYm9POFpoQXRJRmhKaEhXdU5XalVFNzFvUm5KRHVPWjJyOThKSTg?oc=5",
-    "published": "2026-09-18 15:56",
-    "timestamp": 1789714572,
-    "summary": "엔비디아의 내년 칩 판매량이 2배 증가할 것으로 예상된다. 젠슨 황 CEO는 AI 수요가 전 세계적으로 확산되고 있다고 밝혔다."
   },
   {
     "company": "Google",
@@ -1112,14 +1184,6 @@
     "summary": "노타와 인텔이 협력하여 노타 비전 에이전트와 B70을 결합한 패키지 제품을 출시했다."
   },
   {
-    "company": "Intel",
-    "title": "인텔 美 오하이오 팹, 일정 지연에도 건설은 지속 - v.daum.net",
-    "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFBMNmpKNVkxMUVtbktxM2FzOEdmX2Z3Zk5OLWRkSHR5N3VTOW85M1RueGhZTXBJMEtzNEZLajE5UzFtQUdNa1lFSjNGVF84WnM?oc=5",
-    "published": "2026-09-17 16:42",
-    "timestamp": 1789630971,
-    "summary": "인텔의 미국 오하이오 팹 건설이 일정 지연에도 불구하고 지속되고 있다."
-  },
-  {
     "company": "리벨리온",
     "title": "리벨리온 리벨랙(RebelRack) (사진=리벨리온) - 전자신문",
     "link": "https://news.google.com/rss/articles/CBMilgVBVV95cUxOUG1kVklOdTN3TlBTYjZJQUs4b1pZY1ZGVUhpZ2ZQYTZmR0o2TV8zaHV5RTlZSU1OZUNSZExVQ0dYQk9yLXk1UlpiX1RWT2NWV2I5UTRyM2FxV1podk1fSEY3eGZQbG14OExKSEFURVIzcDJfQXJZVERxaV9NQzlaekJPZXE0dGNuYW81Q29DQjlBOGxOSF9Id3dsemtHR25YRzBESDczc1dGUmRlZVhtTTZ3N1h6anhEakhzQjQtcEhLQ3B3TWxaamVFVURIMUpibTNyZTFpbC1wdmFsSHltT3ZFWVlFQ1FHRFhzV3ZYQ0E3VHc1WmtIZ0t1NmVHQkYtNkxaS2VfRm1zaDRqdUNSVVNJRUJSTnVpNUFfTmNnekdOUmg0LUpVS1NPODVMX3BzNjEzeC1yWTVMRERsU0Nva0R3RXlsMDUtUHFvV3NYQzBwOTlZcThBY1NUYm9VSnNZbHUxZjJaZHBSRG8zYnczMzhnTkx3a3dMWElGTWlieFR6NnNMZXpYV2xNMnY2S2dlSHh3bm9WZVpxanlEOTZZUGx0NG5oWjEwUnpqTXJuVTVTRkpOaXR0V0llaTM0SEJxS25vSTMtaUE0MzdrQ2pfbm80NnNibDVtTFBuSU5IMkJTVmxHQVg1NndCRkNScWZTbUZNTGVzNVZWWmxHR1pOV3NqcUZ0M181LWpxRUltVTB4Y3JSek4wclpndFd6QkdScWlnSjQyZkp2bjlnMkIzTlZlOHVZLUw0azl6UzJ1SzFvRGk0ZXZtQnV0MmNzWFVaVDc1UkJHY3lQSER2b3NRUHc5MWNuTFJkdGdZVUx0TVRfMWYzdEltUGs0SzBJakc1VVc2ZXByckhIOWF6N09XTVBzZHBqQQ?oc=5",
@@ -1230,14 +1294,6 @@
     "published": "2026-09-17 13:05",
     "timestamp": 1789617914,
     "summary": "래티스가 AI 기반 FPGA 개발의 새로운 표준을 제시하는 '래티스 프롬프트'를 발표했다."
-  },
-  {
-    "company": "Intel",
-    "title": "노타, 인텔과 'AI 영상관제 패키지' 출시...\"GPU 1개로 CCTV 32개 감시\" - AI타임스",
-    "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5TaDgtZGxnMGk0amRsbERLS0FiUUVsc0p4TzVKOGtFOGZuTnNBX2R3eEpaMi1GWE9KTHFGV2VzNTByZlEyb3pyZUNVRS1HOFZKNWdCSXdrNWs4SkVDSzZhXzBraGhma0ZvcVE?oc=5",
-    "published": "2026-09-17 12:52",
-    "timestamp": 1789617127,
-    "summary": "노타가 인텔과 협력하여 AI 영상관제 패키지를 출시했다. GPU 1개로 CCTV 32대를 감시할 수 있는 솔루션이다."
   },
   {
     "company": "AMD",
@@ -4112,14 +4168,6 @@
     "summary": "국산 NPU 수출 확대를 위해 리벨리온, 퓨리오사AI, 딥엑스가 국회에 모여 논의를 진행한다."
   },
   {
-    "company": "퓨리오사AI",
-    "title": "한컴·퓨리오사AI 에이전틱 운영체제 기반 어플라이언스 개발, AX 시장 공략 - 비즈니스포스트",
-    "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTFBpVkF1bjhneXd0Y1BXY1lkNHZ0ZHF2QVNISlRTa0hoY1dwUUFhekJaSDVGQmhvUjdGSlZGbHhibll6R1ZRdFdWV1JCeHV5WXpEVGtCTGJLT2VIdkpKb1Y0RFZWR0Q1Mml2Q3FTaWs3ZmpHYWs?oc=5",
-    "published": "2026-09-08 09:36",
-    "timestamp": 1788827804,
-    "summary": "한컴과 퓨리오사AI가 에이전틱 운영체제 기반 어플라이언스를 개발하여 AX 시장을 공략한다."
-  },
-  {
     "company": "Meta",
     "title": "[글로벌] 엔비디아론 부족하다...메타, 자체 AI칩 '아이리스' 생산 돌입 - techm.kr",
     "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE5hZG1qUjNCLTlBWFJmT1NlaDVfdkY3QUlkSTRXNV9CSDAtMEZCSmszcVFwc1dVSXA1WFNqbzVuZGxIU1R6a0MxN3phbzdFNGw0ay0xVTZ3NER3cE1WTDdTS2hKTW1Jd9IBakFVX3lxTE95d0NadktfZ205RFVBS0xQcGR5Qk1YOUlFSkI3bnZtVXM1aHJ1OVluckFyQmFwRkh1Qm9rakd3RnFqNVRERFYwZ3pFYkYydlhqdjFFUGlPbEpkRVNFeHEtVzBBWkFPY0xaWnc?oc=5",
@@ -4920,14 +4968,6 @@
     "summary": "오진욱 리벨리온 공동창업자가 젠슨 황 엔비디아 CEO를 만나 엔비디아에 대한 반란을 언급했으며, 이에 대해 황 CEO가 공감을 표했다."
   },
   {
-    "company": "리벨리온",
-    "title": "오진욱 리벨리온 공동창업자 \"젠슨 황 만나 '엔비디아에 반란'…황도 공감\" - 네이트",
-    "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE0wTjVGT241UkFCaFViWUdWS3FoTVJuQzc3UXhkeFM1ZkYzMVJTSDc4bl9CUVRpdVAzNkZ5N1N0ZGpTX3RDOUNBSmZFdWM3dFlmRVlLck95UUFtRWdOanh3cg?oc=5",
-    "published": "2026-09-02 18:11",
-    "timestamp": 1788340260,
-    "summary": "오진욱 리벨리온 공동창업자가 젠슨 황 엔비디아 CEO를 만나 반도체 관련 대화를 나눴다."
-  },
-  {
     "company": "Kioxia",
     "title": "최태원 SK 회장 “일본 키오시아와 반도체 공동 생산도 하나의 선택지” - 한겨레",
     "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxQMWFwajEwaGZPSXFVTjZtS2VCOV80a0w2UmhsLXVPa004SHQyaU1NUGlMVXllZFNjTEZ4S2tlTDB4VldYVmo4dEJYZWVvVUgwRV8tbWRhOVRvTUcxVUY2RzVmd0VIaTFWWmdfUXQ0cGRtbmlrMlNaaWcxbHVqUk9KaWh3?oc=5",
@@ -4958,14 +4998,6 @@
     "published": "2026-09-02 16:06",
     "timestamp": 1788332791,
     "summary": "에이스테크놀로지가 한국항공우주연구원으로부터 저궤도 위성통신용 핵심 안테나 개발 사업을 수주했다."
-  },
-  {
-    "company": "리벨리온",
-    "title": "퓨리오사·리벨리온·업스테이지 뭉쳤다…사우디서 'K-AI 풀스택' 실증 - 지디넷코리아",
-    "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9qYmFBQi1WenNTZ0R0VGRYaG5ZR0hZendJRXpKa3g4WUFlaHZaekVyN0V0YTl0cm45cV93UXlBOFhFTklqS3NPWE5pc3dHb0d3NW8yWjhB?oc=5",
-    "published": "2026-09-02 15:25",
-    "timestamp": 1788330340,
-    "summary": "퓨리오사, 리벨리온, 업스테이지가 사우디아라비아에서 K-AI 풀스택 기술 실증을 진행한다."
   },
   {
     "company": "넥스트칩",
@@ -5360,14 +5392,6 @@
     "summary": "제주반도체가 베트남 FPT와 1억 달러 규모의 계약을 체결하고 하노이에 OSAT 공장 건설을 추진한다."
   },
   {
-    "company": "딥엑스",
-    "title": "‘3조 몸값’ 딥엑스, 민간에서만 자금 유치 배경엔 국민성장펀드 투자 불발 - 조선비즈 - Chosunbiz",
-    "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPSWFNZ3FpWEw0MTU1cVFTS0xBOXEzTTdsa3Z1c1NxWE9NNjZJSFF4ZEFaVnF6ekI2aEotUzA0VmNyZHlJaDgwaFVMNmFuazVSTThFRXNPQS0yOHBQMHFlQk5haUpGa0lOcXltVF82YmZEZEFNUGFqQzNScFdTdXV4aXRSOV9WQ03SAZsBQVVfeXFMTjRSUmxtVVhEbG0yMmVyYlg1ZHMtYjhuVVBHSFJCMVFFRk1xaXNYZTVLSTZaQ2FUYXFhRFRCc2loUjF1UUYtNzBuWTBzZDFHR1BQMERwNVo5UHAwMXpZa1lkRG1lSWtLeUdtUEMyelNISXA0WWx0X3JsQld0andlZk51SUI3SEtGRDQxQnJncGpjTzJ3UjR2VTV5SDA?oc=5",
-    "published": "2026-08-31 06:00",
-    "timestamp": 1788123600,
-    "summary": "딥엑스가 민간 자금 유치에 집중하는 배경으로 국민성장펀드의 투자 불발이 거론되었다. 기업 가치는 3조 원으로 평가받고 있다."
-  },
-  {
     "company": "Amazon",
     "title": "젠슨 황 \"AI, 변곡점 도달\"… 아마존에 GPU 200만개 추가 공급 - 금강일보",
     "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTFAwUXdOLTFNN2NBTTdRM0luZzU5S0pMdVlWY0dVWG9vNk1DSkZRc2U3VmlGNUVRZno5aGFHRGhhc1VxLXlTVjBQLTY5a1lsaU5qbFU4TW40eDFWQUNkNTd6RHVnSjdmNWpqc3c?oc=5",
@@ -5654,14 +5678,6 @@
     "published": "2026-08-28 06:04",
     "timestamp": 1787864660,
     "summary": "삼성전자 갤럭시S 시리즈에 대만 미디어텍의 칩을 도입하는 방안이 논의되고 있다."
-  },
-  {
-    "company": "딥엑스",
-    "title": "\"피지컬AI 여는 '퍼스트 무버' 목표\"…딥엑스, 'K-NPU' 상용화 시험대 [K-챌린저] - 뉴스1",
-    "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE9palJaeGFyU0MyVEFxTXRETm9iOWlFSGh5bGM1UjFuVm5KamRhM3c1UDlhbFNIcGJtcVR2REpYajl0S18xSFlBUFVLZy1JR1F1SUM1Q0xJREJ5Ukx20gFiQVVfeXFMTjJpcHFpcGFxNTR5TklCcjBjU1dFNVdMTHphMzdDS2tiRy1tOThWWV9tdVljczJneW14SklfSndvd2FvQ0NZd2l4c2RMbDdKRjBDdjQ4dEdVVkdQZTFhZUdabEE?oc=5",
-    "published": "2026-08-28 06:00",
-    "timestamp": 1787864400,
-    "summary": "딥엑스가 피지컬 AI를 선도하는 퍼스트 무버를 목표로 K-NPU 상용화 시험에 나선다."
   },
   {
     "company": "Marvell",
@@ -6590,13 +6606,5 @@
     "published": "2026-08-22 09:44",
     "timestamp": 1787359486,
     "summary": "시놉시스가 3D 적층 PCIe 6.0 검증 기술을 선보였다. 이를 통해 HBM4 시장의 판도 변화를 예고했다."
-  },
-  {
-    "company": "Groq",
-    "title": "그록, 3억 5000만 달러 투자 유치…엔비디아 생태계 내 편입 - 스타트업레시피",
-    "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTFA1d19jUVhXMWFVZHJGNVpNMm9FVm9NM3k3dFZjZFZlYkNOQTdFbUZLT21QSjlKWkFGNzZDSVM2LU9xdVpqMmNuaUFWYjdSWEk0X2EwMXlNOA?oc=5",
-    "published": "2026-08-22 09:00",
-    "timestamp": 1787356800,
-    "summary": "그록이 3억 5000만 달러 규모의 투자를 유치하며 엔비디아 생태계 내로 편입되었다."
   }
 ]
