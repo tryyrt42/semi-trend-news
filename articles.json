@@ -1,5 +1,93 @@
 [
   {
+    "company": "리벨리온",
+    "title": "SKT는 국산 NPU를 어떻게 상용망에 넣었나…리벨리온 아톰맥스의 경우 - 디일렉",
+    "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE9LY2UwT1JuQmlyck5RbDF6N08tQVZjNnViTzR4ckdlTzREQ2N1cFFJOWs3dUl6WVVHVy1sbENMaWxSTjc0aU1MbGtjbEQ3SXppcjhKWTA0bFRmZVZ5UTBMZzFRVlZNZw?oc=5",
+    "published": "2026-09-22 09:13",
+    "timestamp": 1790036024,
+    "summary": "SKT가 국산 NPU인 리벨리온의 아톰맥스를 자사 상용망에 도입했다."
+  },
+  {
+    "company": "Microsoft",
+    "title": "LG-마이크로소프트, AI 전략적 파트너십 확대…AIDC·피지컬AI 협력 - ebn.co.kr",
+    "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE11LU1ZcExRcWJkWGRSaVFYUXU3dUsyMHp4a2YtVnhtWFVvcDRyVHYyY19lc1BuaDFqT1NFeXk5OC1mMy0wSkNDX245NmxNUVlnVVM3OFQySUQtLUxwcXlMWlFnWTU3LWdy?oc=5",
+    "published": "2026-09-22 09:11",
+    "timestamp": 1790035895,
+    "summary": "LG와 마이크로소프트가 AI 전략적 파트너십을 확대한다. 양사는 AIDC 및 피지컬 AI 분야에서 협력할 예정이다."
+  },
+  {
+    "company": "Qualcomm",
+    "title": "노타, 퀄컴 NPU 기반 피지컬 AI 최적화 기술 실증 - 데이터넷",
+    "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE82TE1YR2N1T09fbTd0S2dKMkYxcnFhWlFWaGlYOWQ5X29uVGVHYlpjdmZ1R0VGTWpYNy1RVmZWTmlDQTVLWi1VQWd3MmE3dkk4VnB6bE94cXRGLWtTMU9vSm1pa2l3eVZ4cUo2Sg?oc=5",
+    "published": "2026-09-22 08:50",
+    "timestamp": 1790034615,
+    "summary": "노타가 퀄컴의 NPU를 기반으로 피지컬 AI 최적화 기술을 실증했다."
+  },
+  {
+    "company": "Google",
+    "title": "구글, AI 특화 노트북 '구글북' 내달 정식 출시...시작가 899달러 - 지디넷코리아",
+    "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE84a0t0TVhuV1Zja1VtdUQ2REpPODZWRV9ESTFRZVVhd283d0xZTXdJNDFSeTRZMWNuM1hGZ2pFM3lHX0JuVl92YkNKLWVLcWl2TGZYQ0p3?oc=5",
+    "published": "2026-09-22 08:40",
+    "timestamp": 1790034018,
+    "summary": "구글이 AI 특화 노트북인 '구글북'을 내달 정식 출시한다. 해당 제품의 시작가는 899달러로 책정되었다."
+  },
+  {
+    "company": "모빌린트",
+    "title": "모빌린트, AI 가속기 최초 TTA Verified 인증으로 엣지 NPU 객관성 확보 - 헬로티",
+    "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE5lSHlNMGE5c1dNLUFaQWhZWG96UF83RDZEeFd4UFNvU1p3VEZ0WGVxNEdNOVdmVTBfTDFsY1NOZy1HUFpBVlR0UzMyU2hMeHhzSkJOakFWMW1aVDZRZFlz?oc=5",
+    "published": "2026-09-22 08:27",
+    "timestamp": 1790033222,
+    "summary": "모빌린트가 AI 가속기 중 최초로 TTA Verified 인증을 획득하며 엣지 NPU의 객관성을 확보했다."
+  },
+  {
+    "company": "Apple",
+    "title": "애플, 구형 아이폰까지 100파운드 인상…삼성전자·SK하이닉스 메모리값 ‘힘’ 세졌다 - 중앙이코노미뉴스",
+    "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE5Kd3RZUXJiTWlXZVRMU0ttVjFxeTJaME01NUNGbmxOZHdOZ2t1am1lLU9KUVBqV1hTQ21BY2pXWXVRVmlYcGlQVnpzUFBWaUVidW9NbFVWTjdtd1BKUzFuS1hiY0FEYW9NMnJYMlh5V3lVQQ?oc=5",
+    "published": "2026-09-22 08:00",
+    "timestamp": 1790031600,
+    "summary": "애플이 구형 아이폰 가격을 100파운드 인상함에 따라 삼성전자와 SK하이닉스의 메모리 반도체 수요 및 영향력이 강화되었다."
+  },
+  {
+    "company": "Qualcomm",
+    "title": "퀄컴 스냅드래곤 X 엘리트, 구글북 두뇌로 탑재 - 디일렉",
+    "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE93UUgyYndXZ0F0d0c2bUdkN19fRmlzNkJoUnJaZnRqUmJpQUl4Uldja0FlOE04OW8zNHluak5xX3ZCbGFZVkNmcUExczk2aVlMQWdlZWt0RHBPaDd4V3BRTk5NMURfZw?oc=5",
+    "published": "2026-09-22 07:49",
+    "timestamp": 1790030973,
+    "summary": "퀄컴의 스냅드래곤 X 엘리트가 구글북의 프로세서로 탑재된다."
+  },
+  {
+    "company": "Lattice",
+    "title": "래티스 반도체가 발표한 AI 기반 FPGA 개발 툴 래티스 프롬프트(Lattice Prompt) - 전자신문",
+    "link": "https://news.google.com/rss/articles/CBMisgZBVV95cUxQYmJEX0JHanhLMm1icVhhM1lXbS1GdzRsQWFsYWs0S0NHSWpkYTc5X3lEQTVTeXlBX2RhM0xCa0lXb3NTa0p4VU5vNmJ3c1U0MjlyaFJ5VmU2bnBBY1VmcGZ6dnQ2V3hsa0tCeTB5MTU2VGlpLW1sWTdvd09hVjlyX1JweHRTWVhZdlNiYk1sOC1fbFpGMVhuTTVVbUM5UXZfTlYzNDRkWHRrUG5hQ3dRN1h5ZVZxWkNvVzkxek9xUnFyaUYzUEdlM0lBSnplOGlDTWhWRXNCYVlCTWhtc1ZLdmtfNWlBd2stcmR3VE5VOW10c2RvcHVNenBjUlJLZzd6TjNOWDNROXg0bVdydE9CZDlRbjFJbU5QbDc1dUFkUG5IeFBjTjhDeGRIVF9Db2dZZUdYSk1nLWw2R21BZGRXOEphbmRkc3RtY3JmNmVqVnBfNk9hYlRFVlBiM3RJdnVLSVJyQlJDV0E3YWl0d2tjMk1ULWppQnBnSDR6dU4wTUdQX2YycExtUWhUTXRNTk1BckF5a0VPd0JET21jSmYxOW0tTVZEZXh6V0V4MFFiMVFhVllZMWFUVm9UTEFZcVBzTkJwRXFLSW1mTzUzTm43NVJHRElUQVR6WUlCcVduMXY5T1BaUmVkbEFhY0RycUp2V3dsZkRJZzNNVmJ0ZDZuTUtnYjNBQU5CMkFzWUhnMmxlRmNQMjBXbkNRZ0p3dHpqdFVDWHBjVW1RVWtibEYtTE9QVGh3Ml9vR3J6MmZNbHhYX2xFeTJIZ0hPU09tZDloQnhyWm80dWUyNG95Q0hHUnB4dEJqVmlxMXV1Z3g1SjQtWENkTGdmUkstSFVuckNfVGUyR0xDUG5TejctY0NVVjNwc0thWGliN2NOZDVJUnVKOWphYnU3dHRwYnNuQzdXYXJlakVZal9TNWlLbUdFOHlaYWR5ejlhRGN6UmlzcFBtYW8yZFRWUzFhWlF4ajM1YnRlSWpneTVhSjc4OF84UEY4dFVQOVZyTXNfMVBnR1ZtTnM2S05CeF94YV9BdUNEUmVqZFFQNzhMWlZPUEJmTU1VbU5XcG4tQ3VrODM0QXVxUQ?oc=5",
+    "published": "2026-09-22 07:33",
+    "timestamp": 1790030037,
+    "summary": "래티스 반도체가 AI 기반 FPGA 개발 툴인 래티스 프롬프트를 발표했다."
+  },
+  {
+    "company": "에이직랜드",
+    "title": "에이직랜드, 자체 AI 플랫폼 ‘AxHub’ 및 양산 칩 전격 공개 - 더스탁(The Stock)",
+    "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTFByNC1BeHFuSGtOVHdFanZteXl5Z2hOM1NHcGpWaTkyV2V2cjQxcGNINnFGZlBMMWE3eFZWbmVqclNPUWtFMHpvdk1TX180R243R2JWR0RQaTBUdmVHLXY1VzVwQllTY0VFUmc?oc=5",
+    "published": "2026-09-22 06:00",
+    "timestamp": 1790024400,
+    "summary": "에이직랜드가 자체 AI 플랫폼인 AxHub와 양산 칩을 전격 공개했다."
+  },
+  {
+    "company": "에이직랜드",
+    "title": "에이직랜드, TSMC OIP 포럼 참가…ASIC 설계·양산 역량 공개 - 디지털데일리",
+    "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE5DUHBZZHBYRlRsZzhCRmY5MWZwaDJpQUw4aXE3ZTUtcUE1Yk05bU9XQ0dOenExa3VNOXNFdlY2OTFPVm9SVTlBdzZTZjRlV002V2ZjQXJOZUVNRDk4QzAxMDlwV2k?oc=5",
+    "published": "2026-09-22 05:37",
+    "timestamp": 1790023071,
+    "summary": "에이직랜드가 TSMC OIP 포럼에 참가하여 자사의 ASIC 설계 및 양산 역량을 공개했다."
+  },
+  {
+    "company": "Google",
+    "title": "구글 '터보퀀트' 기술로 메모리 사용량 줄여 - 미주조선일보",
+    "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOQlFuYTByQ1FBd3JiUzI2UWF6MFFhbXB6VzRJcjNsZjdTRmlaU1NYTFNpZVhFVjJVSlg3TV9hYXhrWEM2SnEtU3NtOGE1ZGFHc0lHODRKMDVTT2hrTGcydVR2d1NnWFFoa3VFaTVnNk5tWFBaZTM4V21WTHQ0M2ptSzBmYzI2NUwwbGtlZjZnRG1WZDRsdG45dm13ekhfbUxpTk5KWTBUNk5qYUNUYWN4VHZRbGN0U2QxdGc?oc=5",
+    "published": "2026-09-22 04:27",
+    "timestamp": 1790018854,
+    "summary": "구글이 '터보퀀트' 기술을 도입하여 메모리 사용량을 절감했다."
+  },
+  {
     "company": "TSMC",
     "title": "애플·엔비디아 몰려간다… TSMC, 1.4나노 공장 4곳 2028년 출격 - 글로벌이코노믹",
     "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQY3ZTRXJDTFBheExwU1JjNjBmajhnbm5PTndkcEJBYV9wNDRxd2Y1c25KRThnX1lJMWQxa3Z2ZVZpNW1tR3JSb3EzbWN5SUFSbVFUMk8yWnRvREt2a1BWSFNYNlVFdTJ4MTNia1Z1QW1hSVAxclNHR3BGUjR4eGJhN0hmQkpCc2s?oc=5",
@@ -310,6 +398,14 @@
     "published": "2026-09-21 15:00",
     "timestamp": 1789970454,
     "summary": "대만이 TSMC를 중심으로 한 첨단 패키징 단지를 착공했으며 2029년 가동을 목표로 한다."
+  },
+  {
+    "company": "리벨리온",
+    "title": "하루 1400만건 AI 트래픽 처리…리벨리온 NPU, SKT AI 서비스 4개에 확대 적용 - v.daum.net",
+    "link": "https://news.google.com/rss/articles/CBMiRkFVX3lxTFAtakpMZDlVRFFBSTAtX0lFOHdMN0VYNUhhNml3X2xqLWRReVN2UkEyZ1g1T0p4c0tZcHpPUF8yYjIwS0ZwNGc?oc=5",
+    "published": "2026-09-21 15:00",
+    "timestamp": 1789970400,
+    "summary": "리벨리온의 NPU가 하루 1400만 건의 AI 트래픽을 처리하며 SKT의 AI 서비스 4개에 확대 적용되었다."
   },
   {
     "company": "OpenAI",
@@ -2312,14 +2408,6 @@
     "summary": "MediaTek이 2nm 공정 기반의 Dimensity 9600 Pro를 공개했습니다. 해당 칩은 멀티코어 전력을 61% 절감하는 성능을 갖췄습니다."
   },
   {
-    "company": "Apple",
-    "title": "삼성전자, 내년 1분기 메모리 가격 30~40% 인상..애플도 수용 - 아주경제",
-    "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE45bEF5ZWJZaV9reWNTSWVfLVJiVFZaLW9lX0ZVQ2ZrUmRyRWtsOUl1d3FyUlhlRVN0NWZvYnR4NzluOGc0c2Vnb3F3Y1EyZkpvS1hMVVFhcVjSAVhBVV95cUxOOWxBeWViWWlfa3ljU0llXy1SYlRWWi1vZV9GVUNma1JkckVrbDlJdXdxclJYZUVTdDVmb2J0eDc5bjhnNHNlZ29xd2NRMmZKb0tYTFVRYXFY?oc=5",
-    "published": "2026-09-15 17:40",
-    "timestamp": 1789461609,
-    "summary": "삼성전자가 내년 1분기 메모리 가격을 30~40% 인상하기로 결정했으며, 애플이 이를 수용했다."
-  },
-  {
     "company": "Infineon",
     "title": "인피니언, AI 가속기용 스마트 파워 스테이지 선보여 - elec4.co.kr",
     "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE9GQTRQQXpKNVFOUmN1eVY1R1NfeFFpS0VVaGNIaExGZ1M3WTV0d3U3N0dUSTI5M1dNTmk5anZfQXNkdGFISksxb0JiVmJwQXJMQ3BlaFhMcUxDWFJ6SktFa0tVeTgtak9tV2JHSV9R?oc=5",
@@ -3344,14 +3432,6 @@
     "summary": "NXP 반도체가 피지컬 AI 중심의 전략 전환을 추진한다. 이를 통해 데이터센터 부문에서 5억 달러의 매출을 기록할 것으로 예상된다."
   },
   {
-    "company": "Google",
-    "title": "구글 '터보퀀트' 기술로 메모리 사용량 줄여 - 미주조선일보",
-    "link": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxOWHhTWEliVUk5RzBpVGNqckhFa0hBNEVtMUVlYWY4MzdpUHVfUzFiYWg4V3d3ZTN5TlRGNHdYTHY5V09nX2JaWlZOcXMtbHJrSk82c2R3NC0yc3M5UVUwWjV4WDRNVDRROE5la1dfYnp4X0YySnBacExYSmlNQWV0QlJJVzJkTzRCMmZmeGc5ZXItdi15MkxZMWcwNlpLeFUtQ0lpYWFFenFTWWZYRGNNbVhCQV84c01GbTBoeXpuRU53cE5oQ3ZEcHdpUHFSbUlvYVVUZzVydE0?oc=5",
-    "published": "2026-09-10 22:35",
-    "timestamp": 1789047343,
-    "summary": "구글이 터보퀀트 기술을 도입하여 메모리 사용량을 절감했다."
-  },
-  {
     "company": "Qualcomm",
     "title": "퀄컴과의 악수부터 훙옌 반도체 공장까지: 베트남 반도체 기업의 꿈이 서서히 현실로 이루어지고 있다. - Vietnam.vn",
     "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNc3REcTlWUnZKZUgxYmJJYTBBcDZNLW15Qzgzd3AzdXFLZ243UVlxSG9oaFBUWlluVWs2M0JpMkN2RE00UXNWTWZuMkRJLU1JaWhIUkpzYnlld0E5cDNnOFRaR3NpcERSczJnQXYtbnJxLXJ5QzZCRmZsNHVjc1BUTDNGVWpIdldIMk1yQ250ZWdCUXFNc3lsS3FpemxoSzhXY2Qtc0N1RW1xUGhzTEVheDVMOHA?oc=5",
@@ -3688,14 +3768,6 @@
     "summary": "글로벌 파운드리 시장이 2분기 역대 최고치를 기록한 가운데, SMIC가 삼성 파운드리를 추격하고 있다."
   },
   {
-    "company": "Qualcomm",
-    "title": "퀄컴, AWS와 4조원대 AI 데이터센터 다세대 계약 체결 - 디지털포커스",
-    "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1wNUpQQ1lIS2Q3YWY1ZENVdHEtS2Z6Rm9iZnYwM2hCTnJLRWM3M2tuRTRQLUoxRDhXWmtxbkpELXpFNndJNTkzMm1WUFNkMWpYc0t0RWZMWHBnT2lrcVdyX05UNkxzX2VmdjBhLXBJcUw?oc=5",
-    "published": "2026-09-10 05:33",
-    "timestamp": 1788985992,
-    "summary": "퀄컴이 AWS와 4조 원 규모의 AI 데이터센터 다세대 계약을 체결했다."
-  },
-  {
     "company": "Cadence",
     "title": "Cadence, 골드만삭스 콘퍼런스서 AI·칩 수요가 성장 견인 밝혀 - Investing.com 한국어",
     "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE1fekN0aGh0c2lPNGJzS1VIZmhDdkNwUmV3UVJLZ1RkMy1ubFZCX1lXek11UHdWSjlVQ0NoMm85VURWbjhEUGdncDJRUTlaWGlwVVliRDJVMG5BR1dxRk9xY3hWeEhlMWU5bTZtc3pYMA?oc=5",
@@ -3742,14 +3814,6 @@
     "published": "2026-09-09 23:29",
     "timestamp": 1788964197,
     "summary": "Analog Devices가 Alif Semiconductor를 전액 현금으로 인수하기로 합의했습니다."
-  },
-  {
-    "company": "Qualcomm",
-    "title": "퀄컴·아마존, 최대 600억달러 연계 AI칩 협력…엔비디아 독주는 흔들릴까 - koreabizreview.com",
-    "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPM0s1amdGblNzZ01EOXBZTjk3TTloc3RiVmhMblVhcE43TldUbVlUMXlyTWl2d01vRF9WbVFLMDZfal9hdDNfcTQxVXFvdEZReXlWX2duVlFHVGhkTjNtazlOZ2J4TktsTUdwMGE2YzQyblhrWFhRMkJxaGZKaFBBRVptYkhGVjQ0?oc=5",
-    "published": "2026-09-09 20:53",
-    "timestamp": 1788954821,
-    "summary": "퀄컴과 아마존이 최대 600억 달러 규모의 AI 칩 관련 협력을 진행한다. 이번 협력으로 엔비디아의 시장 독주 체제에 변화가 생길지 주목된다."
   },
   {
     "company": "LX세미콘",
@@ -4096,14 +4160,6 @@
     "summary": "국내 반도체 스타트업이 메타와 공동으로 네이처 자매지에 논문을 게재했다."
   },
   {
-    "company": "리벨리온",
-    "title": "'AI 독립' 외치는 리벨리온에…엔비디아는 M&A 손 내밀었다 - 모바일한경",
-    "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNSEFfZVlKQzJfeXUxM2ZZSFN5Tm9wUzJReXhFb2FPZzA5VDhMVnBXaGwwVklsY3FsUS1aRXNqOEFQYUJqWEpUcnVuV1Q4QW1OcU1zNTlsUlVheG0yYnJQZXVqaGltVFZSVFIxX1h4eVhheEtpMGtFSWZKdnNWOHVEZUhLb2ZqamJyN1poVi1rRXJSVnhjRVNUOF9rZmR2bWlHUTQ1NGszbWthSFEtaWc?oc=5",
-    "published": "2026-09-08 18:55",
-    "timestamp": 1788861329,
-    "summary": "AI 독립을 표방하는 리벨리온에 엔비디아가 인수합병(M&A)을 제안했다."
-  },
-  {
     "company": "MediaTek",
     "title": "SK하이닉스가 넘긴 특허, 2년 뒤 대만 반도체사 미디어텍 겨눴다 - 산학뉴스",
     "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE0xVHNSOXlHZjNNNUlJYzctUGVzU0lZOXdmbFRtb3lVWWpjYlBFZHg0ZTIwX1hUSGV6LVpUa0hPS1NUM0NPd0ZWLURTejFsUnJBUi1hT21EMGhWTFdRNTVHbFFFd2dLUW9TY0Iw?oc=5",
@@ -4286,14 +4342,6 @@
     "published": "2026-09-08 09:47",
     "timestamp": 1788828431,
     "summary": "노타가 LG전자, 모빌린트와 협력하여 국산 NPU를 활용한 휴머노이드 AI 최적화 기술을 선보였다."
-  },
-  {
-    "company": "리벨리온",
-    "title": "국산 NPU 수출길 넓힌다…리벨리온·퓨리오사AI·딥엑스 국회 모인다 - 스트레이트뉴스",
-    "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTFBpRFZyZFpPQnh1LXpiWnlvZ0kxNjdtWjVUTUZFYi04anhXMHl1NUR2UGxpRExuY0tCZWFJcHA4MlkxcVhLZDYtaUlqM0hGdkVvNy1GOFlGb3RfRjhHZk5lTHhMdm9pYzhSa3FIS2VkNkpkaFdzNjBJ0gF3QVVfeXFMUGlEVnJkWk9CeHUtemJaeW9nSTE2N21aNVRNRkViLThqeFcweXU1RHZQbGlETG5jS0JlYUlwcDgyWTFxWEtkNi1pSWozSEZ2RW83LUY4WUZvdF9GOEdmTmVMeEx2b2ljOFJrcUhLZWQ2SmRoV3M2MEk?oc=5",
-    "published": "2026-09-08 09:41",
-    "timestamp": 1788828087,
-    "summary": "국산 NPU 수출 확대를 위해 리벨리온, 퓨리오사AI, 딥엑스가 국회에 모여 논의를 진행한다."
   },
   {
     "company": "Meta",
@@ -5862,14 +5910,6 @@
     "published": "2026-08-27 12:24",
     "timestamp": 1787801069,
     "summary": "TI가 800V 전동화 시장을 겨냥한 다축 전류 센서 'TMCS2100-Q1'을 공개했다. 인버터 정밀도 경쟁을 위한 신제품이다."
-  },
-  {
-    "company": "Google",
-    "title": "“HBM만으로는 AI 못 돌려”..구글이 주목한 차세대 메모리는? - dailycar.co.kr",
-    "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE91V2Z4elNEcnlDXzlHQnE5TjhJQUlZOFJnZ2xLRV9EWExKejI3RnE5QVJ1ZmxiRmZKcDM2MHlwdlJVNWp3QVctUGVxTXR4bkdlRkpPeXNfR2xhR2dsSWVEUEZGaGMzNndSZTRyMjhpc1N4RkpuTUE?oc=5",
-    "published": "2026-08-27 10:05",
-    "timestamp": 1787792727,
-    "summary": "구글이 HBM 외에 주목하고 있는 차세대 메모리 기술에 대해 다루고 있다."
   },
   {
     "company": "Texas Instruments",
