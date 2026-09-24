@@ -1,6 +1,30 @@
 [
   {
     "company": "Qualcomm",
+    "title": "퀄컴, 아마존과 AWS용 AI 칩 다년 공동 개발 - 토큰포스트",
+    "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFB0akN3NEhYYzlzS3I3OEFJNU1MU29Rb2Q2aXU3UWlwN0U5aXNDMW5qdFBqRU5YbVNPWE5BT3NHTFlNUTdnV1VuY2ZRUkFvd0xMSVBFNmZvYmI?oc=5",
+    "published": "2026-09-24 21:44",
+    "timestamp": 1790253850,
+    "summary": "퀄컴이 아마존의 클라우드 서비스인 AWS에서 사용할 AI 칩을 다년간 공동 개발하기로 했다."
+  },
+  {
+    "company": "NVIDIA",
+    "title": "엔비디아 다음은 브로드컴…中, 국유 데이터센터 ‘90% 의존’ 네트워크 손본다 - 중앙이코노미뉴스",
+    "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE8xN3BqZVlvU0J6Qy1EbTZOekg4SG00U2d6ZGZ1V2Y1dG1WWDAtTjNPTkxiVHJiRXotMk5tb052ZHV3WTV5SmZIdXh2dFR4MWE4X1lnNzM5aWF6czRIV1ZPRzR6UHk3cHFRaFlQY1R3YWQ2UQ?oc=5",
+    "published": "2026-09-24 17:00",
+    "timestamp": 1790236800,
+    "summary": "중국이 국유 데이터센터의 네트워크 장비 의존도를 조정함에 따라 엔비디아의 다음 대안으로 브로드컴이 거론되고 있습니다."
+  },
+  {
+    "company": "Qualcomm",
+    "title": "[스냅드래곤 서밋] 모듈러를 품은 달 \"엔비디아 CUDA 성벽 무너트려라\" - ER 이코노믹리뷰",
+    "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBaaGx2WThBcllYT3ZwdlRuU1lNR0VHc3dKamp3MndFRS1nM3NpSFlESVlnTnE4bHFDZFFDYUNRU1RyYnJJamJIV0pkVDVFTmtya3B6RTA0NjVXWlB6NnE1X3NQMlZIU2pZZE91WQ?oc=5",
+    "published": "2026-09-24 16:27",
+    "timestamp": 1790234825,
+    "summary": "스냅드래곤 서밋에서 엔비디아의 CUDA 생태계에 대응하는 개방형 AI 생태계 구축 전략이 논의되었습니다."
+  },
+  {
+    "company": "Qualcomm",
     "title": "[스냅드래곤 서밋] 퀄컴이 이어버드에 카메라와 1비트 AI를 넣는 이유는? - ER 이코노믹리뷰",
     "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5qNTJnN0NQVzVwdURSRjAweFAtT3VmQUFabFhvdjRHeDRndnl3LVhjZG1LMWI4TW95UGpUX1l1ZmE0V240N2haSllZdU1ucnpZaUlYcWlpNEg0UVEwakVWM1VDQThfRzkyQ0JCYg?oc=5",
     "published": "2026-09-24 16:20",
@@ -361,6 +385,14 @@
   },
   {
     "company": "NVIDIA",
+    "title": "NVIDIA DSX Ready 인증을 통해 테슬라, LG, 히타치 배터리와 버티브, 리퀴드스택, LG CDU가 AI 팩토리 인증을 획득했습니다. - StorageReview.com",
+    "link": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxNNFY1TFNlQW91eFZfWml3Zm1HcTZOclZQNTVKUVFOVFN0LTJHTl9oa1l2enlsLXlBUDg1cHcyQW1VWHJXQWtJbkM1RENVeEtyVF84aDZtc3ZLWkIwdXJyb3A0SEM0T1VMVUVXMFA2UFdWdUdHZTM3N1F6SFJOdl82S2xrSFRTRjlCOEZwZ09WT2Y1Z0x3SGZhZG9ZUWVPWXFBM0dzTFoyRUhJcGljWUZOT1RpdE5tejJ2eDlHRFlmV0VIWVlFbFAzMUNqRFhLZmRfcnJuXzRiSzdQT3lGWTNHZ1B4ZmhNd9IB5gFBVV95cUxNNFY1TFNlQW91eFZfWml3Zm1HcTZOclZQNTVKUVFOVFN0LTJHTl9oa1l2enlsLXlBUDg1cHcyQW1VWHJXQWtJbkM1RENVeEtyVF84aDZtc3ZLWkIwdXJyb3A0SEM0T1VMVUVXMFA2UFdWdUdHZTM3N1F6SFJOdl82S2xrSFRTRjlCOEZwZ09WT2Y1Z0x3SGZhZG9ZUWVPWXFBM0dzTFoyRUhJcGljWUZOT1RpdE5tejJ2eDlHRFlmV0VIWVlFbFAzMUNqRFhLZmRfcnJuXzRiSzdQT3lGWTNHZ1B4ZmhNdw?oc=5",
+    "published": "2026-09-24 01:39",
+    "timestamp": 1790181585,
+    "summary": "NVIDIA DSX Ready 인증을 통해 테슬라, LG, 히타치 배터리와 버티브, 리퀴드스택, LG CDU가 AI 팩토리 인증을 획득했습니다."
+  },
+  {
+    "company": "NVIDIA",
     "title": "NVIDIA, Nemotron 3 Diarization 오픈 웨이트 스피커 모델 출시 - unite.ai",
     "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPR3dvYXFRZVNKNmpER1U4WnNBdnZYWFNpRlpJU1N6MW9FTXE0amNFWW5JWFlPU2hIakhRNFYwd0tXY2dBLXVGNV9LOGRMSl9KY29wVE1qV05rVDBRTWxYS3VjdVRsSVNncmdpdmc0akRFcEkwdVNCM0haUVNrc0I3VHJGekoxSGdyOWVTNXBEbG05b2c?oc=5",
     "published": "2026-09-24 01:21",
@@ -528,14 +560,6 @@
     "summary": "딥마인드 출신들이 설립한 AI 과학자 기업 패러데이가 오픈AI와 앤트로픽의 대형 모델 성능을 넘어섰다."
   },
   {
-    "company": "Qualcomm",
-    "title": "[르포] 사진 찍자 내 얼굴이 캐릭터로…일상 파고든 퀄컴 '스냅드래곤8 엘리트' - v.daum.net",
-    "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE1VQllPVnhvZzFYWlllVC1VVl81VWVRQ3pIUEMtSFdRVHhsNk5yMGhBbk5xTklrRlNZLV9VTFJMcy1ISHJmRzEtWEYtSWtQakU?oc=5",
-    "published": "2026-09-23 16:23",
-    "timestamp": 1790148180,
-    "summary": "퀄컴의 스냅드래곤 8 엘리트를 탑재한 기기에서 일상적인 AI 기능 활용 사례를 소개했다."
-  },
-  {
     "company": "NVIDIA",
     "title": "NVIDIA, RTX Spark 출시 - 윈도우 PC에서 애플 실리콘을 위협할 순간인가? | Phonegram - iphoneislam.com",
     "link": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxPVkh6MFhETWY4UnRQUE40RVl5MmNYQVNncWppcW9rZEhiZHZIbFFzZVFjeXFreUxuN3B2U0ZHWWFaZHhSVmJEeFFnQmhnbVlWeEpYenUyNGdyVlJjZ19KYnBOX29mSWc3NmdFUXBTR1BuMFdUaTVzSVo4R1JmeU02YzBIZk5pajh0cjNiNExyM0pvT0JGSTlpZ3pZTUNCZ0RyQ211TXV1YmQ1aGpnVEl2cF9FS0ZQak9UdEhEa29PcjhfUEltcVRQdTdfSmFPZ1hJZkpLTVFzWHJLTzRIZlQyNi1n?oc=5",
@@ -550,14 +574,6 @@
     "published": "2026-09-23 16:16",
     "timestamp": 1790147812,
     "summary": "중국 정부가 국유 데이터센터 내 브로드컴 제품 사용 실태를 조사하고 있다. 이는 AI 인프라 국산화를 위한 조치로 풀이된다."
-  },
-  {
-    "company": "Qualcomm",
-    "title": "[스냅드래곤 서밋 2026] 퀄컴 \"삼성·TSMC 모두 중요한 파트너…2나노 신제품은 TSMC\" [Q&A] - 아이뉴스24",
-    "link": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE9CeDlWcmlSVVMxeWItUFhJQXJCODJ3RWRySWh2enRQelFCYkpyQUJSMjF1bmtoZmZvaXlUOVNFMkhJQlVKSUxOMzBiNA?oc=5",
-    "published": "2026-09-23 16:05",
-    "timestamp": 1790147106,
-    "summary": "퀄컴이 스냅드래곤 서밋에서 삼성과 TSMC를 파트너로 언급하며 2나노 신제품은 TSMC에서 생산한다고 밝혔다."
   },
   {
     "company": "AMD",
@@ -582,6 +598,14 @@
     "published": "2026-09-23 15:21",
     "timestamp": 1790144486,
     "summary": "오픈AI와 엔비디아가 협력하여 실리콘밸리에 AI 대안학교를 설립한다."
+  },
+  {
+    "company": "Groq",
+    "title": "샤오미, 오픈소스 AI 'MiMo-V2.6' 공개…그록·제미나이 제치고 오픈웨이트 세계 1위 - AI포스트",
+    "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE9IT29TdndCUVYzeGI1QWp1YWY0LVM3bWVUMHhQT19nUXYzampVdGJMUUpjSDB3eUtrMG9uSFVGNXFfb05WRVBjWl80S1g5dGt2ZXpUbkVISU5YTjN2Z0xoVVBMSjJ4aWdFeC1xMnFB0gFyQVVfeXFMTVFmcEZSSzhJOXRTa2Njc0toeUZjRWkyOTZnOTlZRElhbWVtM2ZXdWtSQk5aNkEtZjNaVUNySklSSmRpNkI3MHZLMFltN1NBWEY3eUJxM0RaQnV2d082Z0NJLVJLNFdoLTVRSlBKVDhVVDZR?oc=5",
+    "published": "2026-09-23 15:20",
+    "timestamp": 1790144400,
+    "summary": "샤오미가 공개한 오픈소스 AI 'MiMo-V2.6'이 그록과 제미나이를 제치고 오픈웨이트 부문 세계 1위를 기록했다."
   },
   {
     "company": "Intel",
@@ -784,22 +808,6 @@
     "summary": "오픈AI가 GPT-6 라인업을 확장한다. 성능에 집중한 '솔'과 비용 효율성을 강조한 '루나'로 구성된다."
   },
   {
-    "company": "NVIDIA",
-    "title": "엔비디아 '픽' 받은 국내 AI 보안기업…1만곳 뚫고 '톱10' 진출 - 한국경제",
-    "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5PcHdONUt1WktXeGRhdlN3VWx6dVhzcGZ1WDdxZ1RDenNqeDk1V2RBZjBpZU1pVzVnMENTQ1ZKVG0yX19Na2dQUFVlcXZoUi13U0dadkQydDdVZw?oc=5",
-    "published": "2026-09-23 10:40",
-    "timestamp": 1790127642,
-    "summary": "국내 AI 보안기업이 엔비디아 인셉션 프로그램에서 1만여 곳의 경쟁을 뚫고 톱10에 진출했다."
-  },
-  {
-    "company": "NVIDIA",
-    "title": "엔비디아 RTX 60 시리즈, 내년 아닌 2028년 출시설 확산…메모리 부족 변수 - 디지털투데이",
-    "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE9PbFdGVFVLUS1LVjlaMmU0enhoRHZxdXdZREU0cVZSTnFCdnhmZHM3VFZUaElSVzVWdFh5Z1dtbk5FbUxFaHFDWnRMamZKZVJXbTQ3M2FyUFNZS0ZaeGY3QmJ3NFZDS2E4QU4yOHFiZDRSdUk?oc=5",
-    "published": "2026-09-23 10:26",
-    "timestamp": 1790126809,
-    "summary": "엔비디아 RTX 60 시리즈의 출시가 2028년으로 연기될 것이라는 설이 확산되고 있다."
-  },
-  {
     "company": "TSMC",
     "title": "에이치케이, TSMC 1차 벤더 추가 공급 추진 - 뉴스핌",
     "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE5DS3VUUUpfUzNtTHExcUdzWk5vUHIwLVJ4ZFNZdkhtRnFwR0ZkVEpacVZsQWQwdURJcjg2d3JHMXVlam5SV05LNWtjeGd5dmxNOWVjVXBZbml3RHQ0?oc=5",
@@ -998,6 +1006,14 @@
     "published": "2026-09-23 07:16",
     "timestamp": 1790115413,
     "summary": "구글은 에이전틱 AI 구현을 위해 퀄컴과의 깊은 협력이 필수적이라고 밝혔다."
+  },
+  {
+    "company": "Broadcom",
+    "title": "FT 보도에 따르면, 중국이 국영 데이터 센터 내 브로드컴 스위치 사용 현황을 조사하고 있다 - TradingView",
+    "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE9GSlhDV1U0Sk4yR2RXbVpIcHdCWjJpQmpMQURRTzM0U1pLNnE1MklyV01xb183ZjlVX0l0U1ZEVnBHdXIwN2ZiNkxicWtDdkxrQkVtSWF1ZHhHbnk5bGtDRmZpeUNTRzhwSkk0YkgzLU1jeThmRmtJ?oc=5",
+    "published": "2026-09-23 07:07",
+    "timestamp": 1790114820,
+    "summary": "중국 정부가 자국 내 국영 데이터 센터에서 사용 중인 브로드컴 스위치 현황에 대한 조사를 진행하고 있다."
   },
   {
     "company": "TSMC",
@@ -5488,14 +5504,6 @@
     "summary": "동운아나텍이 UCLA에서 타액을 이용한 혈당 측정 가능성을 확인했다."
   },
   {
-    "company": "Broadcom",
-    "title": "'한국형 브로드컴' 노리는 LG전자, SK하이닉스와 협력 무산 - 지디넷코리아",
-    "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE83U09CUmtxZW9iZVpfNU5CdHVqb2VmVURFbEZLdEt3ZFk2ckszdUxiME16V0p5OVNkMFRXdjBLMXA3Zk1BcDFoZHpfX0RmeWtVcXdJNGpR?oc=5",
-    "published": "2026-09-03 16:20",
-    "timestamp": 1788420017,
-    "summary": "LG전자가 한국형 브로드컴을 목표로 추진하던 SK하이닉스와의 협력이 무산되었다."
-  },
-  {
     "company": "라온텍",
     "title": "라온텍, 마이크로LED 백플레인 기술 AI 데이터센터 광통신으로 확대 - 디일렉",
     "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFAyNjlLY2d4ZngxTC0xNjd3ZldjUU01eDhrcDBaUmFsX0JSNEJOdl9fTFpYUzNoaFRTUV9iOVZlTWEyLXJIYVhoUWJoZHk5QkpEa0RIN2pwazgzUVZId3c0ZzAzbzAzQQ?oc=5",
@@ -6552,14 +6560,6 @@
     "summary": "삼성 파운드리가 엔비디아의 추론 가속기 '그록3' 양산에 돌입했다."
   },
   {
-    "company": "Groq",
-    "title": "그록3 수율 2~3배 뛰었다…삼성파운드리, 4나노 경쟁력 입증 - 서울경제",
-    "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE4zWlhDSFRrOGpmV1o5TU1kV29yb0JpWFVrT20wWVo5SlhnY2JSUXZqVUlZQldBUzFmbjdEeVBzSkRkMnM1WDNkMXB6OXZjb3BHT2RJ?oc=5",
-    "published": "2026-08-26 07:55",
-    "timestamp": 1787698558,
-    "summary": "그록3의 수율이 2~3배 향상되었으며 삼성 파운드리가 4나노 경쟁력을 입증함."
-  },
-  {
     "company": "Amazon",
     "title": "아마존, 기기값 최대 60% 인상…메모리 대란 소비자 전가 - 글로벌이코노믹",
     "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNYXdJOUEyVkl6LW5INDRhZ1RMXzZFdGY0eUktZEhVNy1RNi1fdmxFRlJGUkRJN3FOY1VKWXhrSEFReUc3cndEVjd3amJ2REE1bG1GVkpPNXBhUGYwZGk5RmJCVDVfU3FDU3JOblFVSFhOZWMtODZtSWNjaFNkM1hvYlpaY1VWenJv?oc=5",
@@ -6622,21 +6622,5 @@
     "published": "2026-08-26 00:00",
     "timestamp": 1787670000,
     "summary": "텍사스인스트루먼트(TI)의 기업 역사와 반도체 산업 내 위상을 다룬 기사입니다. 실리콘밸리 사관학교로서의 TI의 역할을 조명합니다."
-  },
-  {
-    "company": "세미파이브",
-    "title": "[2025년 11월]세미파이브, AI 반도체 기업과 182억원 규모 공급계약 - 데이터투자",
-    "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE5LWmRUcmd0OHJpNGI3b2F2eDJCQTVaVDEyVHZnbFBMT0k2T0p4VGx0Y0VqeDcxTjNfQl9hMUNySF81cm1VRXdLZVptSVBRLXc4QTJuNC1PZ0VBMUk3OUhGQTVvY0dBdkNRX01zbnUtXy1paTA?oc=5",
-    "published": "2026-08-25 17:37",
-    "timestamp": 1787647041,
-    "summary": "세미파이브가 2025년 11월 AI 반도체 기업과 182억 원 규모의 공급 계약을 체결했다."
-  },
-  {
-    "company": "Infineon",
-    "title": "인피니언, AI GPU 전력제어 승부수…인도 스타트업 C2i 인수 - 디일렉",
-    "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE1nb1NFdG02UFlCbERVeDQ4QTduNHdyRHR1UXpObmNSN1FWWmdHTTZwdENEamRYZ0h5aDQxR1VmTjRYSHpsamo5WndyZVR0bWZhOWl2ZEVGaVBkOUdyVXdwaERUbWd2QQ?oc=5",
-    "published": "2026-08-25 16:57",
-    "timestamp": 1787644669,
-    "summary": "인피니언이 AI GPU 전력 제어 역량 강화를 위해 인도 스타트업 C2i를 인수했다."
   }
 ]
