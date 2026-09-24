@@ -1,11 +1,75 @@
 [
   {
+    "company": "OpenAI",
+    "title": "OpenAI 전 데이터센터 총괄, Nvidia 부사장으로 합류 - Investing.com 한국어",
+    "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5YN1JjNk84MTJXN3B1dGNDam9YZHdXZlVXejZha09IY1NkUHI0aFRqMWlTcno5N2dmTWpGWFk4WU10RUExRWFyWmxMRHZ3alVYS3Aydnk2Ympqd1RNdDBnZ2NoSXVJWjBia2xBNTN5WXQ?oc=5",
+    "published": "2026-09-25 03:11",
+    "timestamp": 1790273460,
+    "summary": "OpenAI의 전 데이터센터 총괄 책임자가 엔비디아의 부사장으로 합류했다."
+  },
+  {
+    "company": "Qualcomm",
+    "title": "퀄컴, AI 웨어러블 시대 연다…스냅드래곤 사운드 엘리트 2세대 공개 - aitimes.kr",
+    "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBDZXNSR2tEcllyOENINjhJVzlZc1lkWF9NcmRSbFM4aEd5aE5yby1DX2tqVG0tdlRsY1hlbWthelI3Z2NjcDNVa1d5TlE5a3NpRDI5emZWSFBfbDZRM2dqOU55QzV5REE?oc=5",
+    "published": "2026-09-24 23:20",
+    "timestamp": 1790259654,
+    "summary": "퀄컴이 AI 웨어러블 기기를 위한 스냅드래곤 사운드 엘리트 2세대를 공개했다."
+  },
+  {
+    "company": "NVIDIA",
+    "title": "아이온큐,양자오류정정 분야 진전에 엔비디아에 양자컴 공급 - 한국경제",
+    "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9uekNSRjFUUUN6Rkhzckd5cmpzbnpPbXh4TW0zZmQzTkY1ZUpQeXFKbURhOGs4VFIxZG4ySmt2eVotbnFtNVYyRVhYZjB3QVNXQTY0VEd6OTZYUQ?oc=5",
+    "published": "2026-09-24 23:12",
+    "timestamp": 1790259152,
+    "summary": "아이온큐가 양자오류정정 분야의 진전을 바탕으로 엔비디아에 양자컴퓨터를 공급한다."
+  },
+  {
     "company": "Qualcomm",
     "title": "퀄컴, 아마존과 AWS용 AI 칩 다년 공동 개발 - 토큰포스트",
     "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFB0akN3NEhYYzlzS3I3OEFJNU1MU29Rb2Q2aXU3UWlwN0U5aXNDMW5qdFBqRU5YbVNPWE5BT3NHTFlNUTdnV1VuY2ZRUkFvd0xMSVBFNmZvYmI?oc=5",
     "published": "2026-09-24 21:44",
     "timestamp": 1790253850,
     "summary": "퀄컴이 아마존의 클라우드 서비스인 AWS에서 사용할 AI 칩을 다년간 공동 개발하기로 했다."
+  },
+  {
+    "company": "NVIDIA",
+    "title": "엔비디아, \"AI 기업에 반독점·면책 특혜 안 돼\"…젠슨 황 소신 발언 | - 머니네버슬립",
+    "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTFAxbWQ4ZW93MUQxWGV4anF1Vm9FeENaTGJFTkZMdmNXbHp4aXZJWDluOEdRWS1rME94ZUJLQTYtanBsRkU4S3lVWmh2WW9Wd2xwU3daUHBpeksxclFjQ0s4YWFneFdLZWY4bWRnWngwX3FIYnpmVG9j?oc=5",
+    "published": "2026-09-24 21:18",
+    "timestamp": 1790252285,
+    "summary": "엔비디아의 젠슨 황 CEO가 AI 기업에 대한 반독점 및 면책 특혜를 반대한다는 소신을 밝혔다."
+  },
+  {
+    "company": "TSMC",
+    "title": "TSMC 하나로 도시가 이렇게 바뀐다고? 대만 신주 직접 가봄 I 스튜디오경향 - 경향신문",
+    "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE1yeGNlcHBFMFhiZUdMZk8tV3dFQldkX0thZkhPNjhDNW92M3F3QVBBNkJDVjJOaFRMblh2Y284WDJ1OXJzWVVOZ0toWWRacnZpVkNZQjNhRml5bm5VZHdaaE13?oc=5",
+    "published": "2026-09-24 21:03",
+    "timestamp": 1790251438,
+    "summary": "TSMC의 생산 거점인 대만 신주 지역이 기업의 영향으로 어떻게 변화했는지 현장을 직접 취재한 기사이다."
+  },
+  {
+    "company": "Qualcomm",
+    "title": "퀄컴, 로봇 팔 제어 소프트웨어 ‘무브잇’ 개발사 픽닉 인수…오픈소스는 그대로 유지 - AI 매터스",
+    "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE9NNzlMOUViVWh1dzlKN091VDFLejUzODZmZWd4WVlZVV9TVEFSVXl0b196MUZtdHc3UnREbTBUTmt5dVZtVkxqSDRwVlJfckNRMUQ2dA?oc=5",
+    "published": "2026-09-24 19:09",
+    "timestamp": 1790244567,
+    "summary": "퀄컴이 로봇 팔 제어 소프트웨어 무브잇 개발사인 픽닉을 인수했다. 오픈소스 정책은 유지된다."
+  },
+  {
+    "company": "Qualcomm",
+    "title": "[스냅드래곤 서밋] 퀄컴 \"스냅드래곤 윈도PC 호환성 걱정은 옛말\" - 디일렉",
+    "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE01V19Ld2tMaXFDdzJwWEtaZXBTTmdhaGFKYnRNaThzWjhNVG1mb0M1OXV4Y19FZzh1VDd5amNvNTZYZjNqdGhYams0QlA4bXlvMV9GU2FxM2lJZDdIS1prTjRIN25zUQ?oc=5",
+    "published": "2026-09-24 18:07",
+    "timestamp": 1790240865,
+    "summary": "퀄컴이 스냅드래곤 서밋에서 스냅드래곤 윈도 PC의 호환성 문제를 해결했다고 밝혔다."
+  },
+  {
+    "company": "Intel",
+    "title": "인텔, 자율주행 자회사 모빌아이 상장 신청 - 미주조선일보",
+    "link": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxPa1R6MVVkNWlwLWxCdG5SaDY1c0VuV2h4X1lGV1dna3loWTFnZnlWTWxuQVdYRlBkS2F3eEdZTW9GYi1NQUM2cnBiZWdUQk5pVnZVODBtT0RSQlZ0ZnlXWnJMWU9WREVWOUJpdGdHaFd1aVkzcUd4UTc5WDZtOFhDenhLN251dXE3XzU4bFVSWnJUV3FWYURQSWx1VUc5X1hiVFJhUEwzeEc0Ti1NX21wTnBJRFlvYnlPYkpsQnN2alVwaWpVMDJNX2ZieThoWEhhbi1BR3VnanJvMENtVXJmY0Jmcw?oc=5",
+    "published": "2026-09-24 17:41",
+    "timestamp": 1790239319,
+    "summary": "인텔이 자율주행 자회사인 모빌아이의 상장을 신청했다."
   },
   {
     "company": "NVIDIA",
@@ -17,11 +81,19 @@
   },
   {
     "company": "Qualcomm",
-    "title": "[스냅드래곤 서밋] 모듈러를 품은 달 \"엔비디아 CUDA 성벽 무너트려라\" - ER 이코노믹리뷰",
-    "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBaaGx2WThBcllYT3ZwdlRuU1lNR0VHc3dKamp3MndFRS1nM3NpSFlESVlnTnE4bHFDZFFDYUNRU1RyYnJJamJIV0pkVDVFTmtya3B6RTA0NjVXWlB6NnE1X3NQMlZIU2pZZE91WQ?oc=5",
-    "published": "2026-09-24 16:27",
-    "timestamp": 1790234825,
-    "summary": "스냅드래곤 서밋에서 엔비디아의 CUDA 생태계에 대응하는 개방형 AI 생태계 구축 전략이 논의되었습니다."
+    "title": "스마트폰·안경·이어폰이 하나의 AI로… 퀄컴이 그리는 ‘퍼스널 AI’ 청사진 - 조선비즈 - Chosunbiz",
+    "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxPQ3BPMjZ3OEZSRHVWczV5MWRObmh0enBCaG1LRnpTcFFTQXZMd2xrSHRWN3VBV2N2YU1zazVpdkRwNnZHU0xTdmRKekhIVTR3NUtXYkNaYUZPOHVRdVcweFg3S1pvandaSElBNzNiczlNZU9jVTV6REt2aVU1dUlCeHZR0gGWAUFVX3lxTE1Jd19ZSFlaNXRvd1MzSkd2ZUJiUjAtdXF0UlRHc3lsNG1Fdl9mSFNtZEo0S00zSk96dmJVRTBFRWpzbndiZ1g0QTdqTmJva3laZXlsZWJSMjhlUVNjelBEWlcycTVfTjd3RnZGM3BIdmY0TDg4aGp4UDBSTzBtVVdueVZfWFlQaFAxbXdyQzFXb2xVSnoyUQ?oc=5",
+    "published": "2026-09-24 16:43",
+    "timestamp": 1790235780,
+    "summary": "퀄컴이 스마트폰, 안경, 이어폰을 통합하는 퍼스널 AI 청사진을 제시했다."
+  },
+  {
+    "company": "Qualcomm",
+    "title": "퀄컴, 윈도 넘어 구글·리눅스로…AI PC 영토 넓힌다 - 조선비즈 - Chosunbiz",
+    "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxQWUtIMGVaRVg2U3dGaG9TU3BFWTVyaV9HNy1HREtPWi1MWXgxcmNxWm1YbXdOZ1h3LXVYNWIxMjJTbTh2WFlDSmhFaGh3OGc1U2pFZDQ3ak1abUxZNUszX0dQZFdyZnlWZ0JnVFNsYzV5QjZaMmRHb1hJZDlEcjBwejFR0gGWAUFVX3lxTFA5R2ZGa1dybDZzSUw5V09MTm9TUjNnZnZtYTNBT1lOaGIyOTZmWE55TEVvT0FGTVUyWGM3MGNwS2dobVJHZktLZ0hLM3QzSnJ6ZXRiZ0lkQTdBbGtrU3Mtek9jMk00aDlQdzFqdWVsUnRVX3hzclhKR0RrZFN0Rk1Oak9acF9NVHdJNHg2T083ZzVXQ1NKQQ?oc=5",
+    "published": "2026-09-24 16:39",
+    "timestamp": 1790235540,
+    "summary": "퀄컴이 윈도를 넘어 구글 및 리눅스 운영체제로 AI PC 생태계를 확장한다."
   },
   {
     "company": "Qualcomm",
@@ -41,11 +113,11 @@
   },
   {
     "company": "파두",
-    "title": "“HBM 부족이 오히려 기회”… 파두, AI 데이터센터 타고 실적 폭발하나 - 핀포인트뉴스",
-    "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTFAydEEySjFHWGk2ektMeXlBcFoxX1Z4Vk1xRC01NzYzUkdpN2F0WEJ6ZTRXcHVGQ0h4ME9zMU1TNThhQTgwTURUZFRfLXZhS0k5eTFoODZzX3ZRMmpiZlJ6dktRLWZpaVFUY2JkTWVvOGZ0TjjSAXdBVV95cUxObXpmdzFUQTNGUlhmMmJ4a2Rab2hEUzFZZm00NnhVaDZ1aHlMTnpKOFRXR1RVdVpDQkRQR285Mm1xQmUxRURsaFhUUVF2VTM5ajNRZ0diaGlBc1lldGdlb1dyYU1tNzk0Z3QwU1ZHZGh2MjJPRVNSSQ?oc=5",
-    "published": "2026-09-24 15:08",
-    "timestamp": 1790230125,
-    "summary": "파두가 AI 데이터센터 시장 성장에 따른 실적 개선 기대감을 받고 있다. HBM 부족 현상이 오히려 파두에게 기회로 작용할 것이라는 분석이 제기된다."
+    "title": "“HBM 부족이 오히려 기회”… 파두, AI 데이터센터 타고 실적 폭발하나 - pinpointnews.co.kr",
+    "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE5temZ3MVRBM0ZSWGYyYnhrZFpvaERTMVlmbTQ2eFVoNnVoeUxOeko4VFdHVFV1WkNCRFBHbzkybXFCZTFFRGxoWFRRUXZVMzlqM1FnR2JoaUFzWWV0Z2VvV3JhTW03OTRndDBTVkdkaHYyMk9FU1JJ0gF3QVVfeXFMTm16ZncxVEEzRlJYZjJieGtkWm9oRFMxWWZtNDZ4VWg2dWh5TE56SjhUV0dUVXVaQ0JEUEdvOTJtcUJlMUVEbGhYVFFRdlUzOWozUWdHYmhpQXNZZXRnZW9XcmFNbTc5NGd0MFNWR2RodjIyT0VTUkk?oc=5",
+    "published": "2026-09-24 15:11",
+    "timestamp": 1790230318,
+    "summary": "HBM 부족 현상이 파두에게 기회로 작용하며 AI 데이터센터 관련 실적 성장이 기대된다는 분석이다."
   },
   {
     "company": "Qualcomm",
@@ -54,6 +126,14 @@
     "published": "2026-09-24 13:50",
     "timestamp": 1790225401,
     "summary": "퀄컴이 스냅드래곤 X2의 지원 범위를 MS 윈도와 구글 크롬에 이어 리눅스까지 확대했다."
+  },
+  {
+    "company": "Qualcomm",
+    "title": "[스냅드래곤 서밋 2026] \"폰·노트북 경계 허문다\"…구글·퀄컴 '구글북' 출격 - v.daum.net",
+    "link": "https://news.google.com/rss/articles/CBMiRkFVX3lxTE9jcDdHalZnZXdNN1ZGQThzNFVQVVpyaWg2U2hHUE9QdXlpWmpuWnh5eHV3ZG9CWDBjZmw3bTE0bDAyX2FocXc?oc=5",
+    "published": "2026-09-24 13:31",
+    "timestamp": 1790224288,
+    "summary": "퀄컴과 구글이 협력하여 스마트폰과 노트북의 경계를 허무는 구글북을 출시한다."
   },
   {
     "company": "Google",
@@ -65,11 +145,11 @@
   },
   {
     "company": "Qualcomm",
-    "title": "[스냅드래곤 서밋 2026] 퀄컴 \"AI 다음 전장은 PC\"…'에이전틱 PC' 전면에 - 아이뉴스24",
-    "link": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE8xcFVobjE0YWV5SzUzNTlSdmcxSzQ2YUxWOUJhNjBTeS1uejE5ZFl3Mm9MbnVNZTRfYXpzYlNJVFFsRk5TU2RxNmk2VQ?oc=5",
-    "published": "2026-09-24 13:17",
-    "timestamp": 1790223473,
-    "summary": "퀄컴은 스냅드래곤 서밋 2026에서 AI의 다음 전장으로 PC를 지목하며 에이전틱 PC를 전면에 내세웠다."
+    "title": "[스냅드래곤 서밋 2026] 퀄컴 \"AI 다음 전장은 PC\"…'에이전틱 PC' 전면에 - v.daum.net",
+    "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFBVTE4wcWhQMUlrZUo0LXA5SHAxM1ppcnBfcFNIU1EwMkV0QkQ2cW0xU2pDQWViVGJJcmwzalh5RUE2emlFd1RxbVFQXzI3LTQ?oc=5",
+    "published": "2026-09-24 13:19",
+    "timestamp": 1790223568,
+    "summary": "퀄컴이 스냅드래곤 서밋 2026에서 AI PC 시장을 겨냥한 에이전틱 PC 전략을 발표했다."
   },
   {
     "company": "Google",
@@ -78,6 +158,14 @@
     "published": "2026-09-24 12:00",
     "timestamp": 1790218800,
     "summary": "구글의 TPU가 엔비디아의 시장 지배력에 미칠 영향에 대해 다룬다."
+  },
+  {
+    "company": "Qualcomm",
+    "title": "[스냅드래곤 서밋]'AI 글래스' 시장 겨냥한 퀄컴, AR·XR용 스냅드래곤 공세 - 전자신문",
+    "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTFA2eV9XSTJBMVF1OGdyR29yTzV2RUdzdEltZnh5NERfRTF1YnhENi1id05xdzBuZjFVZjlMcmhmY1hSNkNGN2NHR2VVNW5aQQ?oc=5",
+    "published": "2026-09-24 11:26",
+    "timestamp": 1790216785,
+    "summary": "퀄컴이 AI 글래스 시장을 겨냥해 AR 및 XR용 스냅드래곤 제품군을 선보였다."
   },
   {
     "company": "Qualcomm",
@@ -94,6 +182,14 @@
     "published": "2026-09-24 11:00",
     "timestamp": 1790215200,
     "summary": "메타의 AI 모델 '뮤즈'가 시장에서 큰 관심을 받으며 CPU 관련 ETF의 상승세를 견인하고 있다."
+  },
+  {
+    "company": "Qualcomm",
+    "title": "퀄컴·MS·맨유 뭉쳤다… 스냅드래곤 품은 `맨유 한정판 서피스 랩탑` 깜짝 공개 - 디지털데일리",
+    "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE1HRThfdFlYOEl2NEQtODV2N0czS05QUkxrS0s0YUpNWGFCa3RIbzBrNUU1SlNTVUJVMWkxTVRKdnItT3dJczlGOEN6SGdzeTEtem5jbmU5amQ3RzM4ZjNRVWRSa2c?oc=5",
+    "published": "2026-09-24 10:38",
+    "timestamp": 1790213890,
+    "summary": "퀄컴, MS, 맨유가 협력하여 스냅드래곤을 탑재한 맨유 한정판 서피스 랩탑을 공개했다."
   },
   {
     "company": "Qualcomm",
@@ -217,6 +313,14 @@
   },
   {
     "company": "Qualcomm",
+    "title": "\"개발 4개월 만에 상용화\"… 퀄컴-인스펙스, B2B 스마트 보안경 깜짝 등장 - 디지털데일리",
+    "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE9NTlltREdiSmpQX1FxOUJLNEs1SUtGT1ZWb1dfQzZ5MDhKTTdOcE9MbEY1THJTQlZvNTl5QnViWFBEVjQ1UF9zTW1lNGF3ejg1NEo0NE9Sck5QMFAzRjFGcHh0X2Y?oc=5",
+    "published": "2026-09-24 08:52",
+    "timestamp": 1790207577,
+    "summary": "퀄컴과 인스펙스가 협력하여 B2B 스마트 보안경을 개발 4개월 만에 상용화했다."
+  },
+  {
+    "company": "Qualcomm",
     "title": "\"아이디어만 가져오세요\"…퀄컴, AI 글래스 가속기 `스냅드래곤 스타트` 공개 - ddaily.co.kr",
     "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE11NlZpVnpub01NUGlFQTlKWE1fLTdBbnBMc2lRVmRuMkxSMUtVeURKYVRRZ0Q3NEVFaFBUUkRPNVhwRFhJcVJOZHI1LTk2dXlHcmJDWl9JYmFlN3Q4TEMycktVZ20?oc=5",
     "published": "2026-09-24 08:52",
@@ -246,6 +350,14 @@
     "published": "2026-09-24 07:16",
     "timestamp": 1790201772,
     "summary": "NVIDIA가 AI 기술을 활용한 지능형 공급망 관리(SCM) 솔루션을 다룬다."
+  },
+  {
+    "company": "Qualcomm",
+    "title": "퀄컴(QCOM) ECOC 2026서 AI용 D2D 광 인터커넥트 공개 예정 - simplywall.st",
+    "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOZlV6U0hPV0JxVGlYWko3N0t6WHViWTRRd29KOVEzOW9KeDFzeUprYU5nMXB6U1BEUzN1NlpmYlZHVHFyWGcwSUlwbFpJUC1LcjBwMThTWkV3dnFUMVZqYnN3TVhiRms3NDk5UEJSdzJpV2h3SHF4VXJqWWoyUEl2SkRVczdzaDV1UVpOOHltMElLVWNJT29KMkd4eWzSAZwBQVVfeXFMTmZVelNIT1dCcVRpWFpKNzdLelh1Ylk0UXdvSjlRMzlvSngxc3lKa2FOZzFwelNQRFMzdTZaZmJWR1RxclhnMElJcGxaSVAtS3IwcDE4U1pFd3ZxVDFWamJzd01YYkZrNzQ5OVBCUncyaVdod0hxeFVyallqMlBJdkpEVXM3c2g1dVFaTjh5bTBJS1VjSU9vSjJHeHls?oc=5",
+    "published": "2026-09-24 06:49",
+    "timestamp": 1790200158,
+    "summary": "퀄컴이 ECOC 2026에서 AI용 D2D 광 인터커넥트를 공개할 예정이다."
   },
   {
     "company": "Qualcomm",
@@ -280,44 +392,12 @@
     "summary": "퀄컴, 삼성, 구글이 스마트폰 이후의 차세대 폼팩터인 XR 시장을 겨냥한 3자 연합을 구축했다."
   },
   {
-    "company": "Qualcomm",
-    "title": "[스냅드래곤 서밋 2026] 퀄컴, 스냅드래곤 엘리트·익스트림 동시 출격...플래그십 시장 분화 수요 겨냥 - 디지털투데이",
-    "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE1RaDBqX3pfRTZoWTI5cXNTNzNKUTBKWlFNOUxBYlVGQ0dROHBaTm5zTnF5ZkxyUXJLaTlUTjVuSE9KQmdiTk1GUGktOWV6cHYtcnZ3dEFxVnl4MFZDNk5TQnZiZVl1YnJ1Y1NDZDhCc0ptU28?oc=5",
-    "published": "2026-09-24 05:29",
-    "timestamp": 1790195340,
-    "summary": "퀄컴이 스냅드래곤 엘리트와 익스트림을 동시에 출시하며 플래그십 시장의 분화된 수요에 대응한다."
-  },
-  {
-    "company": "Qualcomm",
-    "title": "퀄컴 “삼성, 퍼스널 AI 핵심 파트너”…스마트폰 넘어 XR·AI 안경 협력 확대 - 조선비즈 - Chosunbiz",
-    "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxPSm10WVZrVF9wV0FOV0xFSlFiV2JGZDFoMzR0ZFprYWdRb05fUkRjLXpwRzdtekVsZmJLMnZ1MFpsZ1VlMExiU0RiU1V6MGxyS29KNG5GeEJEQlZTVVhmT2xZMElGczQtb2tuZEhCOU0tRDJlRTRwMWdjVmpycVBhV3p30gGWAUFVX3lxTFBTNVlwUWJrZ1pXMHZyeEFBOGNzbVFJbTFwanNuYXVadzUxaE9XZTUweTlVTEhuTWxjWGJSZ0hYaHJDWHh1MVdMTi1zdFFEd3dnMXlqSWU4d3U3NEd1dVBrd2tDMjFvOGZLTm8waTZ4bHM3c2NtMEhxTk1tcVJWbkZkV1d5ZGR5dGlSejJhb2pkaUdodXNYdw?oc=5",
-    "published": "2026-09-24 05:17",
-    "timestamp": 1790194620,
-    "summary": "퀄컴이 삼성전자를 퍼스널 AI 핵심 파트너로 지목하고 스마트폰을 넘어 XR 및 AI 안경 분야로 협력을 확대한다."
-  },
-  {
     "company": "NVIDIA",
     "title": "Grid Dynamics, 엔비디아와 피지컬 AI 서밋 공동 개최 - kr.investing.com",
     "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9fc2xmX3JwRDhub1J2Sl9odU9ZWmN2ZHZEYk1XTUY4ZmN1ajN5VVVNbWxVVDNfanlZbW1KdmdZUEJuNEhzYnVqQzdIVW9Rd01OZzZHaWhKdFpvYWpWT2d1QnMwYnk0SDVncWZLVG5wTlU?oc=5",
     "published": "2026-09-24 05:13",
     "timestamp": 1790194380,
     "summary": "Grid Dynamics가 엔비디아와 피지컬 AI 서밋을 공동 개최한다."
-  },
-  {
-    "company": "Qualcomm",
-    "title": "[스냅드래곤 서밋] \"클라우드 쏠림 끝내고 로컬 AI로\"… 퀄컴·리퀴드 AI, `에이전틱 메모리 동맹` - 디지털데일리",
-    "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE9OeHJmMmViMVd3VVBTYU9GTElqZjNBYnVGZlFENGViMWxwWFp1TzFuWXRZcmJNcGlva1RKRlh2TjRPYzA5dmZMd1BLNTI0T1VQZnJlZFJaOTZhM1pCVTVmZXJR?oc=5",
-    "published": "2026-09-24 04:56",
-    "timestamp": 1790193404,
-    "summary": "퀄컴과 리퀴드 AI가 클라우드 의존도를 낮추고 로컬 AI를 강화하기 위한 에이전틱 메모리 동맹을 맺었다."
-  },
-  {
-    "company": "Qualcomm",
-    "title": "퀄컴, AI 성능 2배 높인 ‘스냅드래곤 사운드 엘리트 2세대’ 공개 - 조선비즈 - Chosunbiz",
-    "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNOW1tU1Z1a0htNGdaUDRoM0V3azU0RzJIN2c5OGVyLV9nVVNaMHY5ZEp6aW8temNRTlNHYW0xbW9oV0gwVjFMUGdVUG1RRWJUOE84dlR2bUx6d3BVNlNSNE5kVkZjM0ktODQ0cU04czdHSWdmMHltdlVDMlpkUno1UjB6VzRGak5UZk9xYURNS3BPX3dCSGfSAZYBQVVfeXFMTTltbVNWdWtIbTRnWlA0aDNFd2s1NEcySDdnOThlci1fZ1VTWjB2OWRKemlvLXpjUU5TR2FtMW1vaFdIMFYxTFBnVVBtUUViVDhPOHZUdm1MendwVTZTUjROZFZGYzNJLTg0NHFNOHM3R0lnZjB5bXZVQzJaZFJ6NVIwelc0RmpOVGZPcWFETUtwT193Qkhn?oc=5",
-    "published": "2026-09-24 04:31",
-    "timestamp": 1790191903,
-    "summary": "퀄컴이 기존 대비 AI 성능을 2배 높인 스냅드래곤 사운드 엘리트 2세대를 공개했다."
   },
   {
     "company": "Synopsys",
@@ -393,6 +473,14 @@
   },
   {
     "company": "NVIDIA",
+    "title": "NVIDIA의 기밀 컴퓨팅 환경에서 규제 대상 데이터에 대한 AI 모델 실행을 지원하는 VAST DataEnclave, 2027년 1분기 출시 예정 - StorageReview.com",
+    "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxQMTFheTNKLXpRdlQzeFRBejhGSnh0TjdzUlROWHNqb3NEZG1HVEZtR3o0MFpjR1o4d2JKbHFxdEZTNHRabGkxZVZEdm14b2t1THM5RzBETXJOaXA4SHhOc3VTQjdOcVAwM04tUVdpUmxURW1pQ1F2TjdXVFNhR1FjemZCNF96cTl1eXdmbUxWWjVVbVpMeW1IZ2RtQnNjVi14Z2JGcy1GQzVIdWxzMDljQmtSTURFdTQ5QzEwMG9DRUk0WkVveXdZb3JIX0dDZVdCTnBRQ9IB2gFBVV95cUxNZDdvbGVrNVpJWm4wV0ZsUDUwelZ5NWRYVzNsSzNHb3Rmb1lmeU9XY0lCQVh5NmVoUVY3SzlzTFUtTGMtYVh0LTktMW45Mk9KM0lIWEo1UDU4U056WVNnRk5FTFFLZEg5LWloQmtYUjRpSHdWVHlJREx2eFM4QWdSLUo2UHVwdUNDaDdvTzdDaHhyMmI1QnNqUzc0WUhrbGN3eVpoUU0zaFRkMlNQVFhtNUo5cVdaYVNfQkhLSzFuMTFuaF92S182QUVCaDVIcDJ2RVlmRDh0R2ltQQ?oc=5",
+    "published": "2026-09-24 01:37",
+    "timestamp": 1790181471,
+    "summary": "엔비디아의 기밀 컴퓨팅 환경에서 규제 대상 데이터를 처리하는 VAST DataEnclave가 2027년 1분기에 출시될 예정이다."
+  },
+  {
+    "company": "NVIDIA",
     "title": "NVIDIA, Nemotron 3 Diarization 오픈 웨이트 스피커 모델 출시 - unite.ai",
     "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPR3dvYXFRZVNKNmpER1U4WnNBdnZYWFNpRlpJU1N6MW9FTXE0amNFWW5JWFlPU2hIakhRNFYwd0tXY2dBLXVGNV9LOGRMSl9KY29wVE1qV05rVDBRTWxYS3VjdVRsSVNncmdpdmc0akRFcEkwdVNCM0haUVNrc0I3VHJGekoxSGdyOWVTNXBEbG05b2c?oc=5",
     "published": "2026-09-24 01:21",
@@ -406,30 +494,6 @@
     "published": "2026-09-24 00:06",
     "timestamp": 1790175960,
     "summary": "앤트로픽과 오픈AI가 종말론적 우려에도 불구하고 새로운 AI 모델을 지속적으로 출시하며 AI 개발 경쟁을 이어가고 있다."
-  },
-  {
-    "company": "Qualcomm",
-    "title": "샤오미·모토로라, 퀄컴 차세대 스냅드래곤 선점…플래그십 신작 공개 [스냅드래곤 서밋 2026] - IT조선",
-    "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9NT25ZZlBFdkZJeDlyU1doTXVKLUEyYVdSZ2piVGdCeF90UW1HYTh0Y3ZwWGV2SVF0U1B0Uy1NNnNPbUdrWElJQXV2LWpReHpWaHpSTEY5NnNhaUVGc3dtUjc1YUtTSEllX2NBeGtDQzbSAXRBVV95cUxQWVlTT3MtX2lvN2owcnhtbHhaSVBVTTZNT3Nhb2dnRGxqRV8tNHhpMXd4UXN5T05oQkpiNk5telJsTjNXN1hjUUtwMm04aEJfM1Z6czZOVm5pYnZHTlZuTWVIbkZtbmR1aUc1TlpVN2Npb0ZISw?oc=5",
-    "published": "2026-09-24 00:00",
-    "timestamp": 1790175600,
-    "summary": "샤오미와 모토로라가 퀄컴의 차세대 스냅드래곤을 탑재한 플래그십 신작을 공개했다."
-  },
-  {
-    "company": "Qualcomm",
-    "title": "삼성 “AI폰 메모리 초격차”…퀄컴 손잡고 ‘차세대’ 선점 - 서울신문",
-    "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE1TV1RWVlRSeHZkZ2hpZkt5ZE5VRzVRekxaMkdBZ1dkMFg3cU1DNEN2Um0tZkdxNWU2QXpzanlhX3NuWTA1SWVEaDV2QVVOcVNQVklaUFdrY0VFZEJIUmRTcFJmM2tvSnczc1BuYXRwUVQ3bUlpM1VaOHhWbw?oc=5",
-    "published": "2026-09-23 23:09",
-    "timestamp": 1790172559,
-    "summary": "삼성전자가 퀄컴과 협력하여 차세대 AI폰 메모리 시장 선점에 나섰다."
-  },
-  {
-    "company": "Qualcomm",
-    "title": "[스냅드래곤 서밋] 퀄컴 스냅드래곤 전량 TSMC 생산…삼성 파운드리 여지 남겨 - 디일렉",
-    "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE5haGVwYlBfRkZDWm1KeTA0WmZTRVZxTDNnRVZBTVE1bnJZYVlBVlhtd0FzUkc2dGlFUFBFOTY1SFVhMWh2ZzA3bmNXdnBHeGlPMDUzSURNbHFEc0pRR2V5VW5Hd0g3dw?oc=5",
-    "published": "2026-09-23 22:45",
-    "timestamp": 1790171137,
-    "summary": "퀄컴이 스냅드래곤 전량을 TSMC에서 생산하기로 결정했으나, 삼성 파운드리에 대한 생산 가능성은 여전히 남겨두었다."
   },
   {
     "company": "NVIDIA",
@@ -488,6 +552,14 @@
     "summary": "서울창조경제혁신센터, 업스테이지, 퓨리오사AI, 아이티동아가 국산 AI 소버린 생태계 구축을 위한 협약식을 체결했다."
   },
   {
+    "company": "Meta",
+    "title": "메타 AI 비서 '뮤즈'가 불붙인 반도체주…AI는 이제 인간을 대신해 행동한다 - 시사프리즘",
+    "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE51M3B3ZXpWSHdHYk1sLWV5RlZTTHdIamx3MTcyTkxwTUx1TUZpR25Gd19pamZJU1hBQVlJRFplYm1yN3FLYVRvNWo3VDJKQnFUUHJTTmVWSXNKWUtwMEphaUQ3RXZOaHRQ?oc=5",
+    "published": "2026-09-23 19:41",
+    "timestamp": 1790160113,
+    "summary": "메타의 AI 비서 '뮤즈'가 반도체주 상승을 견인하고 있다. AI가 인간을 대신해 행동하는 기술적 변화가 반도체 시장에 영향을 미치고 있다."
+  },
+  {
     "company": "NVIDIA",
     "title": "'엔비디아 챌린지'서 탑10 오른 K-스타트업…현장 청중투표 '1위' - 머니투데이 - 머니투데이",
     "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTFBjVVBwOHdOSWdqOHJmV2pvbVRia1MzZ19hSG9Lei16RDQ1MzY2MHhaU012aURUSU5RY19uODlQU1hhTi1BNVBGUlFuUVNRS0I1TXVfM3ZENFNUUkFQb3pINUxYdVhZMjVnSS1ORWhma9IBb0FVX3lxTFBjVVBwOHdOSWdqOHJmV2pvbVRia1MzZ19hSG9Lei16RDQ1MzY2MHhaU012aURUSU5RY19uODlQU1hhTi1BNVBGUlFuUVNRS0I1TXVfM3ZENFNUUkFQb3pINUxYdVhZMjVnSS1ORWhmaw?oc=5",
@@ -504,28 +576,12 @@
     "summary": "SB에너지가 미국 IPO 로드쇼를 준비하며 엔비디아의 30억 달러 투자가 부각되고 있다."
   },
   {
-    "company": "Qualcomm",
-    "title": "“폰 안 만져도 일 끝낸다”… 퀄컴, 앱 시대 종언 선언 - 천지일보",
-    "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5LRlpFdlpLZ3pPZlBreUxYMTI2RUJaZjRnWTFOLVc1R3YtZkxjS0hqRkt3cWhoUXh2UUZraC1GMEhha2pGUGJrNS13aXVIQTFVRkFCa2xFOFpNMnB1RHVsTmVmamNidjVKMEE?oc=5",
-    "published": "2026-09-23 17:13",
-    "timestamp": 1790151202,
-    "summary": "퀄컴이 앱 시대의 종언을 선언하며 스마트폰의 AI 기능을 강조했다."
-  },
-  {
     "company": "NVIDIA",
     "title": "AI 모델 회사가 메모리 ‘직구’…앤스로픽 내년 D램 수요 ‘엔비디아급’, 20% 직접 산다 - 조선일보",
     "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPelVKd2hCWEREeXlJeGFnR1ZhRk1uMTV0Mk9fMUE3VHNQYWkwNUVyLTB6WkVRNHVzQTlnTGpsQzRvNEx5NnhwNk1iOXV2NnMwUGVpa1RGYWFoa29KMjVoVlFvcXVQMno1R0hRQ21FX2RWTUlHbGd4a1cyY1pPWlF3VWJtaw?oc=5",
     "published": "2026-09-23 17:10",
     "timestamp": 1790151021,
     "summary": "앤스로픽이 내년 D램 수요의 20%를 직접 구매할 계획이다."
-  },
-  {
-    "company": "Qualcomm",
-    "title": "\"수율 따른 급 나누기 아니다\"…퀄컴 익스트림 칩, 다이부터 달랐다 - 지디넷코리아",
-    "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1XdVF6UXFvekVQUUtWZDRwc0F1bTVOdkpYZnMwVVg5Z3ZtNHIzdlgzSXpMYzNBOV8zSmpieTdEWWtHU0ZvZXdFUzJDOUQtMk9vZnMxX3VB?oc=5",
-    "published": "2026-09-23 16:54",
-    "timestamp": 1790150097,
-    "summary": "퀄컴의 익스트림 칩이 다이 설계부터 차별화된 구조로 제작되었음을 밝혔다."
   },
   {
     "company": "TSMC",
@@ -760,14 +816,6 @@
     "summary": "에이직랜드가 미국 TSMC OIP 포럼에 참가하여 AI ASIC 턴키 솔루션을 통한 글로벌 시장 공략에 나섰다."
   },
   {
-    "company": "NVIDIA",
-    "title": "“서울대·엔비디아, 피지컬 AI 공동연구 과제 구체화 단계” - 헤럴드경제",
-    "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE50SHo0cF9aN2VONXdGTFQ5WWFYVkd1aVgyTmNvT2psTGFTNmNVd2tfVFhlMzZ6SkxlOVUxOE95MFFSY3IxV01sck1zQ3hwendnVndkaDVn?oc=5",
-    "published": "2026-09-23 11:19",
-    "timestamp": 1790129953,
-    "summary": "서울대학교와 엔비디아가 피지컬 AI 공동연구 과제를 구체화하는 단계에 있다."
-  },
-  {
     "company": "딥엑스",
     "title": "딥엑스 김녹원 대표, 美서 \"CES 2027, 피지컬 AI 중심 무대 될 것\" - v.daum.net",
     "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE9oSjA0YVc0TXh3amYzZGRCaW9qNnBvUmV3b2VvbV91NXRONTRLN0JaWFRTaG90ZllWczB3M0laZGxEUUZWX29tZDh6cmtIMGc?oc=5",
@@ -776,12 +824,12 @@
     "summary": "김녹원 딥엑스 대표가 미국에서 CES 2027이 피지컬 AI 중심의 무대가 될 것이라고 언급했다."
   },
   {
-    "company": "NVIDIA",
-    "title": "\"MS와 파트너십, 엔비디아 승인\"…LG, AI 생태계 구축 '속도'(종합) - 뉴스1",
-    "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE14Q1pjQWFLR3lsOVBKYTh4dEE0OEsycWh3UG15TFRQT05QSExSTmptN3Axd2l3RVN2UnJfRkwyYmM4MVA4em1GbkgtczN2LW5fd0tmR25NMzgwWmhTSk01cndFam_SAWpBVV95cUxQcklhUmpNeUowbmZkSWdkMndwTGFJbFl6eE9GTzVoU2pLNEtXdHBLUGF5enl6bHNfLUR4Qlp4b0ZYZDZ6T1p4V1NSSTZXMTFHMmR5Z0JKWDNJakEtazFJNFFKM3pDZDM5ZFdB?oc=5",
-    "published": "2026-09-23 11:03",
-    "timestamp": 1790128981,
-    "summary": "LG가 엔비디아의 승인을 받은 MS와의 파트너십을 통해 AI 생태계 구축에 속도를 낸다."
+    "company": "AMD",
+    "title": "리눅스 패치에 AMD GPU의 GDDR7 지원 포착, 차세대 라데온에 탑재? - 보드나라",
+    "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTFBkU2s1V0RLZjRabXB3YkNQUWtnTWEzQVZxQllNbUp5TUg3TzZIQ0VMOWhHUERjMTlSblNILUF2WFRzcFJOYnN0WWZ4RUxvZlQ3ZW5JOXVQM20zRW9KWUktems5WQ?oc=5",
+    "published": "2026-09-23 10:56",
+    "timestamp": 1790128577,
+    "summary": "리눅스 패치를 통해 AMD GPU의 GDDR7 지원이 확인되었다. 차세대 라데온 제품에 해당 기술이 탑재될 것으로 보인다."
   },
   {
     "company": "MagnaChip반도체",
@@ -790,14 +838,6 @@
     "published": "2026-09-23 10:52",
     "timestamp": 1790128369,
     "summary": "미국의 전력반도체 기업 나비타스가 매그나칩에 500만 달러 규모의 지분 투자를 단행했다."
-  },
-  {
-    "company": "NVIDIA",
-    "title": "팀스파르타, '엔비디아 인셉션 그랜드 챌린지 2026' 톱20 선정 - v.daum.net",
-    "link": "https://news.google.com/rss/articles/CBMiRkFVX3lxTFAyT1p1SlNvbXNEU0VfTTc4b3V0X1JhSzVLeUhSSUJIZmYyMVFSd2NBa2ZMNFIzWENXYjRsUHhWcE9RcXAwcEE?oc=5",
-    "published": "2026-09-23 10:48",
-    "timestamp": 1790128087,
-    "summary": "팀스파르타가 '엔비디아 인셉션 그랜드 챌린지 2026' 톱20에 선정되었다."
   },
   {
     "company": "OpenAI",
@@ -1126,14 +1166,6 @@
     "published": "2026-09-22 17:21",
     "timestamp": 1790065265,
     "summary": "AMD가 AI 붐에 힘입어 시가총액 1조 달러를 돌파했다. 이로써 반도체 기업 중 네 번째로 1조 달러 클럽에 이름을 올렸다."
-  },
-  {
-    "company": "Intel",
-    "title": "인텔, 자율주행 자회사 모빌아이 상장 신청 - chosundaily.com",
-    "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxNeDFWOUwyRlVGWlZyNFdpU01YX2cwZE9lYjhsZmJlSzRNN0hUcXlYTXVwM1ZfOUhJY0cyeVpNbXVuYTNFNlhnaFBiZ1BEcnBKNTlKUEVHU01WWTZESy1hQ2c1Q1VXUFlNckhIVEdUV0NMTTVZdjAxRjhrTVNsVzNlZFBNeTJjc0ZhS3ZJSUw5MXA0SW02MTNnUW1FS1pOTEdLZjNmMU5UNlBVOXMtV3hjbGVWaEYyWTFENHQ2S2pScGtqYXA4MEw2Y3d0Q0xBek9tTnc?oc=5",
-    "published": "2026-09-22 17:02",
-    "timestamp": 1790064131,
-    "summary": "인텔이 자율주행 기술 자회사인 모빌아이의 상장을 신청했다."
   },
   {
     "company": "모빌린트",
@@ -2400,14 +2432,6 @@
     "summary": "마이크로소프트의 Auto SR 기술이 인텔 코어 울트라 시리즈 3 프로세서를 지원한다."
   },
   {
-    "company": "TSMC",
-    "title": "삼성전자 16일 HBM 다이 TSMC에 개방 - 공감신문",
-    "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE93b2hwVV9oNEdJcGNzX3p3emNidEJGZjNJaTQ1WmY4cl85MkJFQUFFU1Juc05tVFZuY3YzWnM0b0x3Z2ZyQWNFa1ltQVo2ZXE5Y3kyZXk4ZnVyTXdibWhNVjdOQkVnSU44?oc=5",
-    "published": "2026-09-18 11:57",
-    "timestamp": 1789700238,
-    "summary": "삼성전자가 16일 HBM 다이를 TSMC에 개방한다. 양사 간의 협력 체계 구축에 관한 내용이다."
-  },
-  {
     "company": "AMD",
     "title": "AMD 가격 10% 인상 TSMC 웨이퍼값 여파 - 공감신문",
     "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE5hN19HeUZnZHcyTC1VdUFzblFoVXRaRWxwcGhHRkwzSEQzYkVNU3NoUjVvZWRtRE5iNTNTYXJaRjNpTDFOUGdlX2pDVTlyZ1VNOEE4MXNoSnJxejY4b0Z5SS13U0h4UktQ?oc=5",
@@ -3190,14 +3214,6 @@
     "published": "2026-09-16 09:24",
     "timestamp": 1789518283,
     "summary": "메타가 내년 상반기 중 자체 개발한 AI 칩을 데이터센터에 배치할 예정이다."
-  },
-  {
-    "company": "AMD",
-    "title": "씨에스글로비즈, AMD 탑재 러기드 태블릿 ‘Getac G140’ 국내 선봬 - v.daum.net",
-    "link": "https://news.google.com/rss/articles/CBMiRkFVX3lxTE9aeHVkTHJ0VFJSWHZUNDVqekROQjZvN3MtUGxwMVRhSnJDNWxxNHh3UGVIaHRTbVBHVUwtZThxaHM4UE1oMUE?oc=5",
-    "published": "2026-09-16 09:02",
-    "timestamp": 1789516927,
-    "summary": "씨에스글로비즈가 AMD 프로세서를 탑재한 러기드 태블릿 모델인 Getac G140을 국내 시장에 선보였습니다."
   },
   {
     "company": "MediaTek",
@@ -4280,14 +4296,6 @@
     "summary": "박성현 리벨리온 대표가 국산 NPU 성장을 위해 정부의 지원이 절실하다고 언급했다."
   },
   {
-    "company": "OpenAI",
-    "title": "OpenAI·삼성 '차세대 칩' 협력 진전…파운드리까지 손잡나 - 글로벌이코노믹",
-    "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNeXNJeWdzbk56MXBuSVVVR29jdE1UN3B4NU5qanpTOFo2ZUI4MTdsQWlNRVJ1aTNvcUhsR3VNUmk3MGhRcFNzUzl3ZU5yTHJqTVh0Z2puN01pVGEwMU5VTDBhc3BtbkNPek1CQlFad21OeTM0SFJCQTd1UWdrSXhQazFVX3lWdw?oc=5",
-    "published": "2026-09-10 16:10",
-    "timestamp": 1789024240,
-    "summary": "OpenAI와 삼성전자가 차세대 칩 개발을 위해 협력을 진전시키고 있으며, 파운드리 분야까지 협력을 확대할 가능성이 논의되고 있다."
-  },
-  {
     "company": "Lattice",
     "title": "a16z, Lattice Jolt 출시: 양자 공격 저항은 물론 증명 속도도 3배 빨라져 - 深潮TechFlow",
     "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE5RR1RWdDV0MVRYNm5ZNGR5NU9pVWZkeE9fR3gtcUYxV1pnZ1BhUVVGXzJ2cU9NUkhRandoLXJxRmoyWXo3aWxyNFNlUUNlTzRCQnA0dzlZQTBpMGxY?oc=5",
@@ -4934,14 +4942,6 @@
     "published": "2026-09-08 09:47",
     "timestamp": 1788828431,
     "summary": "노타가 LG전자, 모빌린트와 협력하여 국산 NPU를 활용한 휴머노이드 AI 최적화 기술을 선보였다."
-  },
-  {
-    "company": "Meta",
-    "title": "[글로벌] 엔비디아론 부족하다...메타, 자체 AI칩 '아이리스' 생산 돌입 - techm.kr",
-    "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE5hZG1qUjNCLTlBWFJmT1NlaDVfdkY3QUlkSTRXNV9CSDAtMEZCSmszcVFwc1dVSXA1WFNqbzVuZGxIU1R6a0MxN3phbzdFNGw0ay0xVTZ3NER3cE1WTDdTS2hKTW1Jd9IBakFVX3lxTE95d0NadktfZ205RFVBS0xQcGR5Qk1YOUlFSkI3bnZtVXM1aHJ1OVluckFyQmFwRkh1Qm9rakd3RnFqNVRERFYwZ3pFYkYydlhqdjFFUGlPbEpkRVNFeHEtVzBBWkFPY0xaWnc?oc=5",
-    "published": "2026-09-08 09:01",
-    "timestamp": 1788825716,
-    "summary": "메타가 엔비디아 칩의 부족을 해결하기 위해 자체 AI 칩 아이리스 생산을 시작했다."
   },
   {
     "company": "Google",
@@ -6614,13 +6614,5 @@
     "published": "2026-08-26 04:30",
     "timestamp": 1787686200,
     "summary": "멜렉시스가 비야디와 협력하여 유통 단계를 없애고 글로벌 전기차 반도체 시장 공략에 나선다."
-  },
-  {
-    "company": "Texas Instruments",
-    "title": "[김대호 진단] 반도체 열전 (47) 텍사스 TI ...실리콘밸리 사관학교 - 글로벌이코노믹",
-    "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQTkhlVFpYX25SN0RYWTlYMkV0Q0dVajRWcGE1dnNBa3JJZWgwNjVHeDlDR1RNUzdwclRiMl9NUjBrZjFwX1ZSd25jczhsb0JzV3R6N2tFMzFMeVR5NTM1aGVoYy1mUWI1TmtmZ2Y1bTBfVWYwRl9ZUmQtNmNtSGJKV3hIX2E?oc=5",
-    "published": "2026-08-26 00:00",
-    "timestamp": 1787670000,
-    "summary": "텍사스인스트루먼트(TI)의 기업 역사와 반도체 산업 내 위상을 다룬 기사입니다. 실리콘밸리 사관학교로서의 TI의 역할을 조명합니다."
   }
 ]
