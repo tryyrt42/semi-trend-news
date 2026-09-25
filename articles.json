@@ -1,5 +1,45 @@
 [
   {
+    "company": "AMD",
+    "title": "AMD는 플레이스테이션 6용 단일 칩 개발을 완료했습니다. - GameGPU",
+    "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOVE1XRHpWaEZsZjctRFhOdk5jX3AwY0ZJb3pKWHE3dnZ4QzFSSGVmbGptbEZsYk1pcGFLd1djUC1RUzBHOGU2T2l3RlB4YWttWEdFVXJ3ZzhOZV80ZW9DekFqQjUyejN1aGgwLVdQRlduYzJJd2I5eGNpMm9ycE80NXdVaUNIVnIxSzk1dlJtbmtRMUJTNTdZOWFTM2hwM05VejNJS2xzWC1vTHNEMlNQcm1n?oc=5",
+    "published": "2026-09-26 06:21",
+    "timestamp": 1790371285,
+    "summary": "AMD가 플레이스테이션 6에 탑재될 단일 칩 개발을 완료했다."
+  },
+  {
+    "company": "Qualcomm",
+    "title": "[스냅드래곤 서밋 2026] 퀄컴 아드레노 뉴럴 퓨전 직접 재보니…프레임 늘고 전력은 1W대 - 디지털투데이",
+    "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTFBwa2s5THdzR0Rrc3ZybmVkZXJTVF9Xdk81STdQWmhFMk56MXZQUUkxSzc4UG5DYUdObGtUM0ZRSUw1Q1B1V2hSNnBkRG5MVWVvUmNoMDllME9iU01tTFNoVGd3NUNuTG1YcG1tYVJaUlpwUzQ?oc=5",
+    "published": "2026-09-26 06:14",
+    "timestamp": 1790370840,
+    "summary": "스냅드래곤 서밋 2026에서 퀄컴 아드레노 뉴럴 퓨전 기술이 공개되었다. 해당 기술은 프레임 향상과 1W대의 낮은 전력 소모를 기록했다."
+  },
+  {
+    "company": "AMD",
+    "title": "Rubin과 AMD에서 RTX 6090 사용 RDNA 5 개봉 연기 루머에도 불구하고 2027년에 출시될 예정입니다. - GameGPU",
+    "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPZjU3TEU3VnR2X0VyRmdnYUQ3TDhQY0Zpb2V3YjhtU2xZVkFBNEFSR2pnSGNIVzR6WHZSQjNqRURGcTlORW95eG1BYzlTUDlmUE9rR0sxVHJUV0RvSnc3aFhaWHJITjR6LWY3Znhhbi1KdmRLVzVGUG13N3lCS3RmNFNCZjQ0SU5vOU1tVFhxQlB6Uk5LVVREVFluZkJPbEg0LVh2ZmFlaEFwd1RwelN1eDBB?oc=5",
+    "published": "2026-09-26 06:12",
+    "timestamp": 1790370778,
+    "summary": "RDNA 5 아키텍처 기반 제품이 출시 연기 루머에도 불구하고 2027년에 출시될 예정이다."
+  },
+  {
+    "company": "Qualcomm",
+    "title": "[스냅드래곤 서밋 2026] 퀄컴 칩 기반 MS 서피스, 로컬 AI 추론 80% 빨라져 - 디지털투데이",
+    "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTFB4c3gwODdHNi1OQzZnR29XYTl6d3kzQlhYX0lkLUJ0RjhGYmoyeVpoZ0dWZUVVdGVkeThGT3hRTG5pMDNlUFNnWVhKWm5EY3Y0QzhhZzBFT1B0OGV6ZlJ1YzEyUzNjUkxJVmdOSzRyQ2x6TTA?oc=5",
+    "published": "2026-09-26 06:12",
+    "timestamp": 1790370720,
+    "summary": "퀄컴 칩을 탑재한 MS 서피스의 로컬 AI 추론 속도가 80% 향상되었다. 스냅드래곤 서밋 2026에서 공개된 내용이다."
+  },
+  {
+    "company": "Google",
+    "title": "구글, 우주 AI 데이터센터 첫 실험…스페이스X 로켓 탑재 - 디지털데일리",
+    "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE8yMThEVHBKMGo2ekN0bHZ1X0J3b3RzbFZxeThxSXZZZ3dBVDk1TjQtV0VWTWNGSXg2OXZXVndsaFh0U1VCYk5tYTc2T0dIQm82Wk51Ylg4MkVqakxzRlZ2bXhiS2c?oc=5",
+    "published": "2026-09-26 05:02",
+    "timestamp": 1790366542,
+    "summary": "구글이 우주 AI 데이터센터 실험을 진행한다. 해당 실험을 위해 스페이스X 로켓에 관련 장비를 탑재한다."
+  },
+  {
     "company": "NVIDIA",
     "title": "MeetKai, NVIDIA 기반 6개국 주권 AI 롤아웃을 발표 - Unite.AI",
     "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNOTJnU05iOFRPS1dScFRxbUkxV2MtM29hMXJnNHZycWtxZUt6MUp6NzFMT2JTOF84a0JvUDZ1NlFrZGMtTlJTZDZHaTFHR3JVTDlhZDJKRHRrcVZ6d2NzSmY1VWtQRFpMUXQwclV4dGdBZ2tfSno1a0FRaFY2b00zTUxZTWNQUW9DTnZCMmxoOE1GOHdUMkE?oc=5",
@@ -496,14 +536,6 @@
     "summary": "퀄컴과 애플이 특허 라이선스 계약을 갱신했다. 해당 계약은 2027년 4월부터 적용된다."
   },
   {
-    "company": "Qualcomm",
-    "title": "퀄컴, AI 웨어러블 시대 연다…스냅드래곤 사운드 엘리트 2세대 공개 - aitimes.kr",
-    "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBDZXNSR2tEcllyOENINjhJVzlZc1lkWF9NcmRSbFM4aEd5aE5yby1DX2tqVG0tdlRsY1hlbWthelI3Z2NjcDNVa1d5TlE5a3NpRDI5emZWSFBfbDZRM2dqOU55QzV5REE?oc=5",
-    "published": "2026-09-24 23:20",
-    "timestamp": 1790259654,
-    "summary": "퀄컴이 AI 웨어러블 기기를 위한 스냅드래곤 사운드 엘리트 2세대를 공개했다."
-  },
-  {
     "company": "NVIDIA",
     "title": "아이온큐,양자오류정정 분야 진전에 엔비디아에 양자컴 공급 - 한국경제",
     "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9uekNSRjFUUUN6Rkhzckd5cmpzbnpPbXh4TW0zZmQzTkY1ZUpQeXFKbURhOGs4VFIxZG4ySmt2eVotbnFtNVYyRVhYZjB3QVNXQTY0VEd6OTZYUQ?oc=5",
@@ -518,14 +550,6 @@
     "published": "2026-09-24 22:35",
     "timestamp": 1790256925,
     "summary": "딥엑스가 CES 2027에서 피지컬 AI를 전면에 내세우며 저전력 AI 반도체 상용화 사례를 공개한다."
-  },
-  {
-    "company": "Qualcomm",
-    "title": "퀄컴, 아마존과 AWS용 AI 칩 다년 공동 개발 - 토큰포스트",
-    "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFB0akN3NEhYYzlzS3I3OEFJNU1MU29Rb2Q2aXU3UWlwN0U5aXNDMW5qdFBqRU5YbVNPWE5BT3NHTFlNUTdnV1VuY2ZRUkFvd0xMSVBFNmZvYmI?oc=5",
-    "published": "2026-09-24 21:44",
-    "timestamp": 1790253850,
-    "summary": "퀄컴이 아마존의 클라우드 서비스인 AWS에서 사용할 AI 칩을 다년간 공동 개발하기로 했다."
   },
   {
     "company": "NVIDIA",
@@ -3088,14 +3112,6 @@
     "summary": "그록이 음성 API 서비스를 제공한다. 이용 가격은 초당 0.00083달러로 책정되었다."
   },
   {
-    "company": "AMD",
-    "title": "AMD는 신경망을 공개했습니다. Path Tracing 5배 가속을 적용한 RDNA 4의 경우 - GameGPU",
-    "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNMzRIcWpBbjNpbjQzUkpRZ0RaOFplVUp5dDFFS2xiQ1o5U3NBV3gzV2NyUm82VkhLNXkzZm1fbHpSNDlYOVlrQ1NiM3JIQ3ZIZUsycmVzd1htVTFqUTQ0eTBOcWlybkl2a18tZ2tkUnp3WWZFTDV1aVJiNTlGNklUbHpWaWczNHZCbC1zbU0tSXFLNWw5TVpiUkVSOU5UTUlKMkZnWS1JVHZYbjd5clg2ZTAwNHZuUzBk?oc=5",
-    "published": "2026-09-17 00:27",
-    "timestamp": 1789572434,
-    "summary": "AMD가 신경망을 공개했습니다. RDNA 4 아키텍처에 Path Tracing 5배 가속 기술을 적용했습니다."
-  },
-  {
     "company": "Microchip",
     "title": "AICAS 2026: 인공지능, 마이크로칩, 반도체 분야의 국제적 연결고리. - vietnam.vn",
     "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQS0g4bEt2eWd2dkJzTGcwV3pzbDQwM0F0OUhGVUY4ZUtSdXd6TFFvV3djYkptNklNWG5oYjBjSmc0NEpYWF9IaHMxeU9pa0dzWDFPNTFISFY0bm9MN3UzS3FJSGY2bUxZMkVIdFdqdmljODBPSjFzMW9kdGRheWJ4Mm42TDJfaTRQbUs5MkMtSUhPYnJGWGcyXw?oc=5",
@@ -3134,14 +3150,6 @@
     "published": "2026-09-16 19:59",
     "timestamp": 1789556361,
     "summary": "오픈AI가 IPO를 미루고 대규모 자금 유치를 추진하고 있다."
-  },
-  {
-    "company": "AMD",
-    "title": "AMD(AMD), 양자와 기존 컴퓨팅 잇는 오픈 플랫폼 Backline 공개 - simplywall.st",
-    "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNS1JOVlVpdXRVVEJvT29rTmRuYjIzZDJVYjY4bkVrWWJXTDI1UUVBVnZxT0czTjYzT1g5VjFVMXVmb01ocmF5ampvYnVDeUxjM0lsVzE4OUhHZHlqb1YtdnV0bHlMVmdPX3owT3lrcDdQaWdGZWxmOGYtYkVTODMyMmRoOHo1ZkhSemQxVGpUTjJ6blR1ZGIxaFRWaDFMY2hadW9XdHR1RWRudUdXQ2fSAa4BQVVfeXFMTUtSTlZVaXV0VVRCb09va05kbmIyM2QyVWI2OG5Fa1liV0wyNVFFQVZ2cU9HM042M09YOVYxVTF1Zm9NaHJheWpqb2J1Q3lMYzNJbFcxODlIR2R5am9WLXZ1dGx5TFZnT196ME95a3A3UGlnRmVsZjhmLWJFUzgzMjJkaDh6NWZIUnpkMVRqVE4yem5UdWRiMWhUVmgxTGNoWnVvV3R0dUVkbnVHV0Nn?oc=5",
-    "published": "2026-09-16 19:54",
-    "timestamp": 1789556070,
-    "summary": "AMD가 양자 컴퓨팅과 기존 컴퓨팅을 연결하는 오픈 플랫폼인 Backline을 공개했다."
   },
   {
     "company": "Samsung Foundry",
@@ -5408,14 +5416,6 @@
     "summary": "브로드컴의 XPU 출하량이 3.5배 증가하며 엔비디아의 GPU 시장에서 경쟁 구도를 형성하고 있다."
   },
   {
-    "company": "Google",
-    "title": "LG 엔비디아·구글·MS 빅테크와 AI 기술 교류, 'LG 스파크 2026' 개최 - 비즈니스포스트",
-    "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE1BNGdOWUVqMXBZOUQtZ2ZHLXRaZXRBX3c5aDZjVThGT0NrNllQYVBuUXFCVWtGbDF3UGRZSDFHbTFyYThYaEV6YmtaNzQxY1ZxaDBRQ1VYcnpwQ0wwYVl5SG45MzllV3h6MGUweEtJdFc1UEk?oc=5",
-    "published": "2026-09-04 10:00",
-    "timestamp": 1788483600,
-    "summary": "LG가 엔비디아, 구글, MS 등 빅테크 기업들과 AI 기술 교류를 위한 'LG 스파크 2026' 행사를 개최한다."
-  },
-  {
     "company": "Groq",
     "title": "‘AI 3사 동시 먹통' 챗GPT는 라우팅, 클로드는 인프라, 그록은 데이터센터 - 뉴스피릿",
     "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE5DakZkMHNOeWc3aFJncXpmSkJ1Z1NrWUJxSXRPYXJ6NFQtZmNLSGQzVWlvQXp3ZHg3alA0OWJLNnBYaUdiV0NSd2ktdWNIdThxRUtGSmdjUXBxQnBFbnU0Y2dxeW5ZRE01blVj?oc=5",
@@ -6390,29 +6390,5 @@
     "published": "2026-08-27 08:51",
     "timestamp": 1787788283,
     "summary": "아마존이 생성형 AI 수요에 대응하기 위해 엔비디아 AI칩 200만 개를 추가로 구매한다."
-  },
-  {
-    "company": "Synopsys",
-    "title": "시놉시스, 3분기 매출 24억 7682만 달러…전년비 42% 급증 - 데이터투자",
-    "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE1jbHhxMW4xSTNwRGxTNHBBSGJBOWpuRDItUHpGdWQtUEh6SXZZMUFsT2ZMZnViY3lPMVUzak5WRkhTbGZHQVhleDRTVVdNa0NCTEZBMnVRdmUtWWFWOWdTSGFXVl8tRmViVlhkREdtOW5XQzA?oc=5",
-    "published": "2026-08-27 06:04",
-    "timestamp": 1787778295,
-    "summary": "시놉시스의 3분기 매출이 24억 7682만 달러를 기록하며 전년 대비 42% 급증했다."
-  },
-  {
-    "company": "LX세미콘",
-    "title": "LX세미콘, 전장·OLED 앞세워 미래 성장엔진 장착 - 네이트",
-    "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5nLVdDQ0hUYzIyb2V3T0xZS1U0WkFvQXphN2Z6b1BjSnZKVlhiOTFLaW5sTUNWWjdaSGliYndacVRWcnpvSWJVenVRdEw5eFhGMHBKbEI5WE45MzF3UkRRSQ?oc=5",
-    "published": "2026-08-27 06:01",
-    "timestamp": 1787778060,
-    "summary": "LX세미콘이 전장 및 OLED 사업을 중심으로 미래 성장 동력을 확보하고 있다."
-  },
-  {
-    "company": "Cerebras",
-    "title": "세레브라스 CS-4: 3개의 WSE-3 터보 웨이퍼, 750 PFLOPS 성능, 그리고 GPU 랙 대비 30배 향상된 성능을 자랑합니다. - StorageReview.com",
-    "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxORm81MFI1SmNnY2h5TGhkbFhia1Q3TWRMazJzWFByT214TERzblIyNFA1X2tHQ2JCOFI3NTc0cHJBZU5iSVVDS0RjeUNNaFdFWGZrWEtfVUlIS1dCUWtab3lvcUFEQS00MzlVSnRaYmpDc3AwMGhtNzFoSHpFblFZRUlqZDV2NFEzSm9VMjRCaVJzVnBzYUZlLThfM0Z4aTZWMi1BSXZFMUwxUlppUHg4ZGR0OXJHcXVvNU1SOEZGc1Zmd9IBwgFBVV95cUxORm81MFI1SmNnY2h5TGhkbFhia1Q3TWRMazJzWFByT214TERzblIyNFA1X2tHQ2JCOFI3NTc0cHJBZU5iSVVDS0RjeUNNaFdFWGZrWEtfVUlIS1dCUWtab3lvcUFEQS00MzlVSnRaYmpDc3AwMGhtNzFoSHpFblFZRUlqZDV2NFEzSm9VMjRCaVJzVnBzYUZlLThfM0Z4aTZWMi1BSXZFMUwxUlppUHg4ZGR0OXJHcXVvNU1SOEZGc1Zmdw?oc=5",
-    "published": "2026-08-27 02:24",
-    "timestamp": 1787765081,
-    "summary": "세레브라스의 CS-4는 3개의 WSE-3 터보 웨이퍼를 탑재하여 750 PFLOPS의 성능을 구현합니다. 이는 기존 GPU 랙 대비 30배 향상된 성능입니다."
   }
 ]
