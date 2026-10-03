@@ -1,5 +1,21 @@
 [
   {
+    "company": "AMD",
+    "title": "AMD Adrenalin은 FSR 4 업데이트 대신 AMD Install Manager용 새 테마를 받았습니다. - GameGPU",
+    "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPcFNPOGJ3QVJjZTdMeGY1ZjFwd1UtRjNiMUg4OUxyTEhWbGR5cTQtUHdwWkdiR2U0ZlNyY29vMWRwTmdTMmdGZWR6VEtoY2cxRlFYTkpiclE4dExONmZnTlo4dzduZVA5bmdtWXZhNzFwODVSbDdzajN0YUh6ejRNQ1pfOExfdnRRMThqRERtblI3MkV4MTZpTnFQRE5XLThHV2IyUF9kUWZkNkJlWWNBeDJwWnNFR0M3Ync?oc=5",
+    "published": "2026-10-03 18:05",
+    "timestamp": 1791018348,
+    "summary": "AMD의 소프트웨어인 AMD Adrenalin이 FSR 4 업데이트 대신 AMD Install Manager를 위한 새로운 테마를 적용받았다."
+  },
+  {
+    "company": "NVIDIA",
+    "title": "NVIDIA Ray Reconstruction은 AMD RDNA 4 아키텍처에 맞게 조정될 수 있습니다. - GameGPU",
+    "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQYnk0VHdzcmNSYTQtQmRfWWU0VGFRMHNIWnN0YlJLNUROSm5hR2hfTENxcnU5djZmMmVlZmtoZlhuaFNrX2F2aWpic3FOVWVISmJYQzV1V3ByWjZienR6b0pPSmlqemNPZm43eGptcjN5RHJQX0tuUy1VQ3hDRmNwd283Z3JUY05GS3k0ZXJ3RjFpZjUwMDJNN0VvaEZRbEdIdzcwb3A5T0ZPQQ?oc=5",
+    "published": "2026-10-03 16:25",
+    "timestamp": 1791012343,
+    "summary": "NVIDIA의 Ray Reconstruction 기술이 AMD RDNA 4 아키텍처에 맞게 조정될 수 있다는 내용이다."
+  },
+  {
     "company": "TSMC",
     "title": "차세대 PSP 3는 전력 효율성과 슬림한 디자인을 위해 3nm TSMC N3P 칩을 탑재할 예정입니다. - GameGPU",
     "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQUFNyRHZoTDJtdFNmd1VZRzZneUY0TmpNM0RVRTZQd1h1Wmt2SmFqczRIdE5yYkpfdnBXZDNxeDdtNXpPbEtKM3VfNXhwM0dKbm1CaElXdzdHMGVTbUd2RkZRMDdta2N5Z1N3N19Td3NzTURvMndFY3NkYnFnNHdoQ2NUSnZ3aEU2TktaTkxWNG5teGlmQ0tEQ3N6TmN3NlNuTVJ1ckwzZEp1RjN1bG5XUUNoTmRXcklCMUE?oc=5",
@@ -14,6 +30,14 @@
     "published": "2026-10-03 11:56",
     "timestamp": 1790996184,
     "summary": "한전, 리벨리온, TTA가 국산 NPU 기반 전력 분야 AI 영상 분석 기술 협력을 위한 업무협약을 체결했다."
+  },
+  {
+    "company": "Broadcom",
+    "title": "빚내서 칩 빌려주는 브로드컴… 56조 원 대출로 앤스로픽 묶어둔 속사정 - g-enews.com",
+    "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPV1diQ19xV3VWMnVJbWFCa2dhSV9VRHZxNVVMaFp3VGdTclpZUEpPelVvc1FtT2lsdFljNU9sMnEtQVdfZkRfTmM4bktGelAxdDRxSjN1ZzFDODVLT0oxaGRweDJvdFBWSGJrdUxIajJyRUIzSjhoSGJRTGJ1Mk9YSQ?oc=5",
+    "published": "2026-10-03 11:26",
+    "timestamp": 1790994399,
+    "summary": "브로드컴이 56조 원 규모의 대출을 통해 앤스로픽을 고객사로 확보했다. 칩 공급과 관련한 전략적 관계를 맺은 것으로 보인다."
   },
   {
     "company": "Broadcom",
@@ -38,6 +62,14 @@
     "published": "2026-10-03 10:31",
     "timestamp": 1790991119,
     "summary": "엔비디아 칩을 중국으로 밀수한 혐의로 미국 IT 기업 CEO가 체포되었다."
+  },
+  {
+    "company": "NVIDIA",
+    "title": "[AI 머니게임] \"약속했던 82조 원 전액 꽂았다\"…엔비디아·소프트뱅크, 오픈AI에 '실탄 완납' - CBC뉴스",
+    "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFAxUnhOdEtPbVdYSDZzUFc2MUU0TnU0QnNKenVLNUtNTlZvVjFIQTBIYWxxUlF2SW82cmtabGE2NVNBXzY1Z2Y5LVJVZHFQdVN3OWRxTk5YVkREU1JkaE12WDRuaVR0azk5?oc=5",
+    "published": "2026-10-03 10:20",
+    "timestamp": 1790990400,
+    "summary": "엔비디아와 소프트뱅크가 오픈AI에 약속했던 투자금 82조 원 전액을 납입 완료했다."
   },
   {
     "company": "Groq",
@@ -102,6 +134,14 @@
     "published": "2026-10-03 06:47",
     "timestamp": 1790977662,
     "summary": "디램 가격 급등에 대응하기 위해 엔비디아가 메모리 구성을 변경하는 고육책을 시행했다."
+  },
+  {
+    "company": "TSMC",
+    "title": "TSMC의 중국 내 제조 거점 및 사업 전략 분석 - 브런치",
+    "link": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE1TTzF6QVBjbXhoVnF6MmZ5VEk1emhPQ3dKUlRxY1Nqd1dOR3V2dFFMY3Zsb1pNTWZ0QVBNZUhaVWdYUlNvZWVHRw?oc=5",
+    "published": "2026-10-03 05:50",
+    "timestamp": 1790974227,
+    "summary": "TSMC의 중국 내 제조 거점 현황과 관련 사업 전략을 분석한 내용이다."
   },
   {
     "company": "NVIDIA",
@@ -182,6 +222,14 @@
     "published": "2026-10-02 20:28",
     "timestamp": 1790940505,
     "summary": "용인특례시가 TSMC의 공장이 위치한 일본 구마모토시와 반도체 산업 분야에서 교류하기로 합의했다."
+  },
+  {
+    "company": "Amazon",
+    "title": "아마존은 엔비디아 칩을 80억 달러에 매각하려 한다. - Vietnam.vn",
+    "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPYUlVMnRHenN2RHl3dGhzd192TWdYcWJ2M0w5VTY4dnRHSjl2RTd5aFUyRGJVaEpWMWNINzVIc0s4eVFEMEFyTmJpam12T1h0S2dRQm9pZzJEQ3dRNUM2MmJtQ0xHMS1WYUxHYWNXUDczQ1RiY3hjSVhWa05wVjVnbkUwdUZQS1M3YlMtZ2dfV3k?oc=5",
+    "published": "2026-10-02 19:52",
+    "timestamp": 1790938347,
+    "summary": "아마존이 엔비디아 칩을 80억 달러 규모로 매각하려는 계획을 가지고 있다."
   },
   {
     "company": "AMD",
@@ -448,6 +496,14 @@
     "summary": "미디어텍이 갤럭시 탭 S12 시리즈에 탑재될 신형 칩셋인 디멘시티 9500을 공개했다."
   },
   {
+    "company": "Infineon",
+    "title": "인피니언, 태국 방콕에 신규 후공정 제조 시설 문 열어 - elec4",
+    "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTFBoN0kxaW01b2VMakRLT1ZNYW1VdFFCOWUxYXBubW9URXB5bHRlbUlJT3RYTVlLazNydHhhVW1IeTlxQV9ZdHZBUHotMXNpMFN3WjBIaTJuRU1wdWZSX1Z1RXk2QWxSMktHeVNGRy13?oc=5",
+    "published": "2026-10-02 11:36",
+    "timestamp": 1790908599,
+    "summary": "인피니언이 태국 방콕에 신규 후공정 제조 시설을 개소했다."
+  },
+  {
     "company": "NVIDIA",
     "title": "스튜디오프리윌루전, 엔비디아 지원 ‘엔업’ 선정…AI 영상기술 고도화 - IT조선",
     "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5Mbklydm5tSnRvMlh1V3hPQmdJbmNrVWdjRDU5ZEJRTnVRVjhpbHA2d2Y3cElOUmpUYzVOWFBjdzcta3FSQWQtUmlkMVdPdVhNRjBBc3NndW1sMC0wdVJvOVl4Sm5HaEN5RnZfSTZwTnjSAXRBVV95cUxPYkd5RzVQTHJuUzRQakIxallVOEVnRWh6M2lGcW9qc0FQSmNlNUpzdVNSOHo3THlZVll1MTdqQjZUWWZtY2Y1SXRJSmtWVkc5RWpNQnVabUNHZkpUak16a1NsV21VNERMaFc5ZzdKQ2lBbS13VA?oc=5",
@@ -616,14 +672,6 @@
     "summary": "아이렌이 엔비디아의 공인인증을 획득하며 풀스택 인프라 기업으로 도약한다."
   },
   {
-    "company": "NVIDIA",
-    "title": "LG전자, '엔비디아' 냉각 파트너 등재...로봇·HVAC로 밸류에이션 레벨업 - 신한 - 버핏연구소",
-    "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTFBNU0J0Z3ByQk9IdWZOUkQ1aldLRk1NRnFSdklGeEhCZGlfQ2U4RXE3cXNxcFluYjNhRi1VT1pyNHlYZlhld0hKeU5zUXZRcWJCTEJMUnRQNTBVTFZnaEZIUkZ3?oc=5",
-    "published": "2026-10-02 08:21",
-    "timestamp": 1790896866,
-    "summary": "LG전자가 엔비디아의 냉각 파트너로 등재되어 로봇 및 HVAC 분야에서 밸류에이션을 높인다."
-  },
-  {
     "company": "Infineon",
     "title": "인피니언, 태국에 신규 후공정 제조 허브 개소…“미래 성장 위한 안정적 생산 역량 확대” - 테크월드",
     "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE90RFZ6RlNiMkJrSkR5NlpBcGhuZ0FWRzNOLUhVRmREV3J5STlYUC1SeHJmR1c5QTBfcjB6YkRLZ1ZlRlFCUmlfaXJ5SnJpRXRzWHVzODdaV1J3UXA3ME5QM09WdHVZLXlW?oc=5",
@@ -678,14 +726,6 @@
     "published": "2026-10-02 07:00",
     "timestamp": 1790892021,
     "summary": "브로드컴이 앤트로픽에 최대 420억 달러를 대출하며 AI 칩 투자를 확대한다."
-  },
-  {
-    "company": "NVIDIA",
-    "title": "중국 국영 펀드, 수출 제한된 엔비디아 AI 칩 구매 지원 - Investing.com 한국어",
-    "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9VUGtGcEZKSmF4OVY0NUdMRGlkeDVuUFYzNTd3Wkg0dWpMbWVHSzdteTlFLXFnMFFOM3VqM3BOT1Bib0xOU3pnTS1DRFBsNG9XcV9vQmhSZENRTFhxUGlYTWwxU3k1TF8yS25zS0pxLWE?oc=5",
-    "published": "2026-10-02 06:29",
-    "timestamp": 1790890140,
-    "summary": "중국 국영 펀드가 미국의 수출 제한 조치 대상인 엔비디아 AI 칩 구매를 지원하고 있다."
   },
   {
     "company": "Broadcom",
@@ -774,6 +814,14 @@
     "published": "2026-10-01 23:00",
     "timestamp": 1790863254,
     "summary": "구글의 AI 칩인 TPU가 스페이스X 로켓에 탑재되어 우주로 발사되었습니다. 이는 우주 데이터 센터 구축을 위한 첫걸음입니다."
+  },
+  {
+    "company": "세미파이브",
+    "title": "세미파이브, 모빌린트와 K-온디바이스 AI 로봇 반도체 상용화 나서 - 데일리포스트",
+    "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE9sS3lxZE1wQ0JNeE9ITXhhQnFjRUh5eEMtaTF6ZHZPMXpZaThjSkxJQW42OVQ3dUYtZ2o5SnN5VmdfUmFWWEZNaGNLOG9IanV0VGlVU1FzOTh2LVlHSnBOMTE5bHo4WjhPV083SEJBd25PN0XSAXNBVV95cUxPbEt5cWRNcENCTXhPSE14YUJxY0VIeXhDLWkxemR2TzF6WWk4Y0pMSUFuNjlUN3VGLWdqOUpzeVZnX1JhVlhGTWhjSzhvSGp1dFRpVVNRczk4di1ZR0pwTjExOWx6OFo4T1dPN0hCQXduTzdF?oc=5",
+    "published": "2026-10-01 22:57",
+    "timestamp": 1790863029,
+    "summary": "세미파이브가 모빌린트와 협력하여 K-온디바이스 AI 로봇 반도체 상용화를 추진한다."
   },
   {
     "company": "TSMC",
@@ -2152,14 +2200,6 @@
     "summary": "TSMC가 대만에 최첨단 패키징 공장 5곳을 추가로 건설한다."
   },
   {
-    "company": "TSMC",
-    "title": "SK하이닉스, TSMC 행사서 차세대 메모리 공개…HBM5 패키징 협력 성과 공유 - 인더스트리뉴스",
-    "link": "https://news.google.com/rss/articles/CBMickFVX3lxTFBpOEZ0bENPZW9QZjVubzBxM3ZGTUNZT1VSUE5SblFBTVl2MXpKSEVsSzVLUks1a3ZGaG5tRERLQzBYWHBDNFNBUldsM1pDUTJkbU5IUWZoWFM3YWxDQ3AyX2I5MHRoeWJKR3lkRDRKT0ZhZw?oc=5",
-    "published": "2026-09-28 17:11",
-    "timestamp": 1790583068,
-    "summary": "SK하이닉스가 TSMC 행사에서 차세대 메모리인 HBM5를 공개하고 패키징 협력 성과를 공유했다."
-  },
-  {
     "company": "모빌린트",
     "title": "모빌린트 “LG·두산·대동 로봇 맞춤형 온디바이스 AI 반도체 개발할 것” - AI타임스",
     "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE0xY1M0V0lEMC1fTVVvVTk4aE9wUDg0TkFDNGF5WGlseGw4TnRoc2psQ0hmaE5DaGtEZ3NiVVhRUHJwLXoyeGJrOGNLTm1MOUdhaG5yYzA3SGxGeDVRMTd5LXY4WmlnMGtRSlE?oc=5",
@@ -2542,14 +2582,6 @@
     "published": "2026-09-27 11:14",
     "timestamp": 1790475258,
     "summary": "인텔 코어 프로세서가 탑재된 PC Ultra 패키지가 코스트코에서 1100달러에 판매되고 있습니다. 해당 패키지에는 RTX 5060과 32GB DDR5 메모리가 포함되어 있습니다."
-  },
-  {
-    "company": "AMD",
-    "title": "AMDNR Launcher는 AMD 그래픽 카드용 신경망 렌더링 관리자가 되었습니다. - GameGPU",
-    "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPOWRBcTQxMVY0c3NHdEdzZk81ZEZIVVpaV203TFBkX2w4SXNhZFp5cFA1QlR6SjBNeFlMMmE2U3ppdkhua2VBaGg4a2tkSy05SS1TVzg0ZkdPSmh4WjI0N0Rva1dFQmNDa1dLeEc1TnRMNk5iRkhyLXpjWFgxTW51Y0NKazFpS3V0eDhQeFdMZVNCWDlsdnFCS2dkdk9RamZCY0NPV2ZZYlhqUW5FMVpiUw?oc=5",
-    "published": "2026-09-27 11:08",
-    "timestamp": 1790474923,
-    "summary": "AMD 그래픽 카드용 신경망 렌더링 관리자로 AMDNR Launcher가 지정되었다."
   },
   {
     "company": "Tesla",
@@ -5392,14 +5424,6 @@
     "summary": "서울 강남 파이낸스센터에서 브로드컴 미디어 브리핑이 개최되었다. 폴 사이모스 브로드컴 소프트웨어 부문 아시아 총괄 부사장이 발표를 진행했다."
   },
   {
-    "company": "Broadcom",
-    "title": "9일 서울 강남 파이낸스센터에서 열린 브로드컴 미디어 브리핑에서 김정환 브로드컴코리아 지사장이 발표를 하고 있다. 〈사진=강성전 기자〉 - 전자신문",
-    "link": "https://news.google.com/rss/articles/CBMinApBVV95cUxQTjdlZV9BWFBTdzlOYnNmZ1diZjJHa0tCVWYyRGl3ZTZhTm9iZ0ZhM2xFRjU4RHFFRUdyaFFUaWg1Q20yN09rUHBobE1YUTJqakxtY0lLOFN4dHQ5S3B1RmNRcjdESVAyNlpQeGlSVlNNRncxSG1MQW1WOWI2cEZHTUxSYlNqMkkxUUFRd181Y1F3NElnLVdKbDU1c1NqbUpmREY0OVFpR2JVS2ZSVzJjdld1NzByM25qX24wODc4TXJwZ1lia1VBbnVWVlFvcFpkWG52a0xmN2FZblREdkZmSEl6VDFTR05HNWFGOVgtc1VmcGtpeTYwaGVQcVAyNEtIdm1ZMTdKd2M4S3B6ZXo2ZmNJU01OMmk2NHBGWDM0VW95SDgyd1dKZHVLMkk0MV8xVGlPOGo2Nmt2eG43M2hwekxqX3VtZWhrRklhTHBLNy13aEhVSzdIT2U3MXlwVWRQRXlsVWdPS0FVWmMwX3VRLUYyOGpZY1hEWjhrcXFJN09ZampobkZOMkJVei1rNi1PZXozd3o0d3RYcWJ0WUs2ejhxeTF2YURrU1h3ZWNiaDdWU0c1U1BXdG05cnZlS2VuQXlaUVVGb0E2M0Y1UU1ibHBYektoQ1o1QlFrNy1naThta3BuSVBHdGhkTlpaekJ1S2hyRVBGUlRLU3NBc1FROWNXZEJRZkdPNGlzc2RRT2RPSVphNWl4VVBTRnFpQWQ5MWJQc0Y5dVJMMWtwWlBKaE1hU2JiMGlaa0lrSGlDMGJoZ2xTaGVNbGdTaEVRTkRjNFBPN3QtTFdnOG85VGxreFB3UjJILXRfU0NfdHFvWmdwNDRmbVRoQ2hxZWZOc1dVd01mOFlNdFN1bm1nUF9icDZHaVlwYjVBR0l1VHE4RlhvZTYyY3gzZTl6SFNZSUJ6cDVYajVndUpraUR0NVl0TFJIUkVRWlQ3Z0pVemVQMFA1OEJVVkwyVzZ4RmxVUjNtUEFOZ1JFNjFLckxfWHdzcHV1T0stdHpfX0diYUpvZ0tPZEk1WE1qd3I5Tk9DZ2RtNXBKQmpFN0w2YjdGVzNic0haMFFnSW44QTR4bGR0NmRSRXZGaldoRjhEblRNTE9VSU5TeUxMeGsxMzRZdlRENXVheU1wYUc3U3QxN3ZTdXFPTjRYLTg4OVVvV0owZjVyWUpHMGU4MUNwSEdzQW1lNmF2UTN3MWJNelVBdVhVLS11dHlBem44NXFMck9ZSFB4ajJ4emhfc3hMLWF2THNOTFJmZUtBdFhIOGY2eEpmZV84X1hKSjdzUENvelJmbTduQjNLZ3NzQV83OEoxSS0wQXpzX2FBSWlkaVlOOWJhYzloZ2lDdVp2ZG5TM3JWdzhyOFk0Qk5oYkpIQlE1TWlnSXNTRU1tOUh6ZUt0cWE1WVdMcGVTWFhxai1lcldmcnREWlo3M3lNTHRRdWMtQTMzenlJd2s1amNBXy1DRkVZY1E4QzJDWVBGbEQtaWpJQ3lZSzcxZVVKcVlERTdoZnliWDZSeFdEZ3VUS3U5VllhQktEZzBhVVlxS3hvNmYwT0dBaV9xZFZkN3N0c0RjbnFyR0VmTmRkUTAxLU01bjVwb0VHYi11YVYydWNkdFBGTnBwV2tYWlN3aWFRS3YwLUZOU2s2T2IyWEFMbGV0SHNzNHljeWkyUnFwSm1Db2N1N0lwdF9hbHEzbFB3TE5Fck9UV1duNXBtVDFaZ0t0TmxoY19LR29qc3Vfd1pNbmQ?oc=5",
-    "published": "2026-09-11 15:49",
-    "timestamp": 1789109373,
-    "summary": "9일 서울 강남 파이낸스센터에서 브로드컴코리아의 미디어 브리핑이 개최되었다. 해당 행사에서 김정환 브로드컴코리아 지사장이 발표를 진행했다."
-  },
-  {
     "company": "Analog Devices",
     "title": "ADI, 알리프 인수 ··· AI 네이티브 프로세싱 플랫폼 확보 - autoelectronics.co.kr",
     "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE0yWDZpSzk0bnhNdFJGang4Nkg5aFN5d29YdWt6WFRqOFg4YVYxTGlPc2k5RGdmZllyN3p3UXptWWZCbHlpWFQ1cWxWVHB6TzhyaTY2M0xvUHQ0aHpRUjl5WndLQlZMUDUtajFrV0ptNXFaTEJS?oc=5",
@@ -6438,21 +6462,5 @@
     "published": "2026-09-03 22:50",
     "timestamp": 1788443438,
     "summary": "김보은 라온텍 대표가 대만 타이베이에서 열린 2026 마이크로 LED 기술 포럼에 참석하여 찰스 리 플레이나이트라이드 CEO와 기념 촬영을 했다."
-  },
-  {
-    "company": "동운아나텍",
-    "title": "동운아나텍, UCLA서 타액 혈당측정 가능성 확인 [현장+] - v.daum.net",
-    "link": "https://news.google.com/rss/articles/CBMiRkFVX3lxTFBzaHpHMmMtTWtyaTJleDFwZVh2SEh2MFBUZjJOeWpuU3Z5MXRIUUhqM0Y0MklWU2MySU8yRlExc3pIdTM0N2c?oc=5",
-    "published": "2026-09-03 16:21",
-    "timestamp": 1788420088,
-    "summary": "동운아나텍이 UCLA에서 타액을 이용한 혈당 측정 가능성을 확인했다."
-  },
-  {
-    "company": "라온텍",
-    "title": "라온텍, 마이크로LED 백플레인 기술 AI 데이터센터 광통신으로 확대 - 디일렉",
-    "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFAyNjlLY2d4ZngxTC0xNjd3ZldjUU01eDhrcDBaUmFsX0JSNEJOdl9fTFpYUzNoaFRTUV9iOVZlTWEyLXJIYVhoUWJoZHk5QkpEa0RIN2pwazgzUVZId3c0ZzAzbzAzQQ?oc=5",
-    "published": "2026-09-03 14:00",
-    "timestamp": 1788411609,
-    "summary": "라온텍이 마이크로LED 백플레인 기술을 AI 데이터센터 광통신 분야로 확대 적용한다."
   }
 ]
