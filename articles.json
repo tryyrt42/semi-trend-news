@@ -1,5 +1,45 @@
 [
   {
+    "company": "NVIDIA",
+    "title": "GMI 클라우드, 6억 6800만달러 조달… 엔비디아·KB인베 참여 - 한국클라우드신문",
+    "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTFBtVUNpVTNFSnVLWnRzSjN5WkxqdXlTaVhmZXhBZklmNkd6MzRfRlR5aXptZFBFc2lVNzVDdFFjUTJaV25kc3ptaVBveUpNTnAtSzhrbEdmYkE3OHBteWV0SXp0aW9tRGZMOS1Wd1RsellaLWfSAXNBVV95cUxQbVVDaVUzRUp1S1p0c0ozeVpManV5U2lYZmV4QWZJZjZHejM0X0ZUeWl6bWRQRXNpVTc1Q3RRY1EyWlduZHN6bWlQb3lKTU5wLUs4a2xHZmJBNzhwbXlldEl6dGlvbURmTDktVndUbHpZWi1n?oc=5",
+    "published": "2026-10-04 21:27",
+    "timestamp": 1791116877,
+    "summary": "GMI 클라우드가 6억 6800만 달러 규모의 자금을 조달했으며, 엔비디아와 KB인베스트먼트가 투자에 참여했다."
+  },
+  {
+    "company": "NVIDIA",
+    "title": "통제 벗어나는 AI 에이전트, 엔비디아의 이중 안전장치로 막아낼 수 있을까? - 동포저널",
+    "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTFBtXzRia2hRRzk3VTFCSDVwT243Sk1XUkp2ZzRObndJT1NEWVNqU3hnRFc1VndDaWRhQ0pDaTNlaUJvWlhCbEV3bVlyV0RELWZuTF9pa0FlQkVNb0ZxV255S3ZPR01mN3VKT1p1ZVFaQTMyM0U?oc=5",
+    "published": "2026-10-04 19:28",
+    "timestamp": 1791109710,
+    "summary": "AI 에이전트의 통제 불능 문제를 해결하기 위해 엔비디아가 이중 안전장치를 도입하는 방안을 다루고 있다."
+  },
+  {
+    "company": "Intel",
+    "title": "[경영전략 써밋 2026] 문종민 인텔 상무 \"에이전틱 AI, 반도체 지정학 바꾼다\" - Naver Blog",
+    "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNZVlkTU8tYm91UXE2N3UxYkNlTWZZOGxXT0lpRHZCaktkZDRyd2tOWXM0d1Z5bWNsem9qbWNHSFRwVW5Ea2RESDAxVEFodFhCVHVXNXJQLXdKVkVmZ3hYNGtCQVdXd2VaWWZKTExHaU45aUNOczY2MTVwdVkwUm9PNFZTZjYyRXQtR21RSHlEbw?oc=5",
+    "published": "2026-10-04 19:00",
+    "timestamp": 1791108026,
+    "summary": "문종민 인텔 상무가 경영전략 써밋 2026에서 에이전틱 AI가 반도체 지정학적 환경을 변화시킬 것이라고 발표했다."
+  },
+  {
+    "company": "리벨리온",
+    "title": "한전 변전소에 리벨리온 NPU 투입… AI영상분석 성능 검증 - 파이낸셜뉴스",
+    "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5BNW91Vi16V2JXRE1NUnVwSEpOSjM3b01PVVl6VWY3XzluemZlUEtkSXJ0NjNVNnA1VG5FM2hrc2ZIT19rbDVtYXlrNWNSYi1hQl9MY2Zvc3BoQQ?oc=5",
+    "published": "2026-10-04 18:37",
+    "timestamp": 1791106635,
+    "summary": "한전 변전소에 리벨리온의 NPU가 투입되어 AI 영상 분석 성능 검증을 진행한다."
+  },
+  {
+    "company": "세미파이브",
+    "title": "[Weekly Issue] 세미파이브, 역대 최대 703억원 규모 북미 AI 추론칩 수주…모빌린트와 로봇용 반도체도 개발 나서 - KIPOST",
+    "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE40aHJmbW9GaURLVlJPMHhHU2VvZExyMmM0U1IxLWhDRktWTHlmekExTUNtTExQVHdjaDgxbmlTdGdzTi1hVVExRHhsNXdRRTA5UmVMTjdRak1CRWM0d0U2TG9wWExDYWlpMkEwbdIBbEFVX3lxTE40aHJmbW9GaURLVlJPMHhHU2VvZExyMmM0U1IxLWhDRktWTHlmekExTUNtTExQVHdjaDgxbmlTdGdzTi1hVVExRHhsNXdRRTA5UmVMTjdRak1CRWM0d0U2TG9wWExDYWlpMkEwbQ?oc=5",
+    "published": "2026-10-04 17:36",
+    "timestamp": 1791102966,
+    "summary": "세미파이브가 703억 원 규모의 북미 AI 추론칩을 수주했다. 또한 모빌린트와 협력하여 로봇용 반도체 개발에 나선다."
+  },
+  {
     "company": "TSMC",
     "title": "[위클리반도체] TSMC 2나노 인상⋅마이크론의 2028년 품귀 경고…삼성전기 4조원대 기판 투자의 의미 - 디지털데일리",
     "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFBKeUszWTR2NmFKU0lCVngtSUoydGtPLU8zQVVUaUJMb1BVcWRFMFowMTFYSDZ0TGhRRkw2dTZGQ3FLOVNKYXdXa19MRjlZQTVpRzdDcUozUldSY2hpLTVjeGZRSkY?oc=5",
@@ -48,6 +88,14 @@
     "summary": "머스크가 TSMC와 테라팹 칩 생산 협력을 논의하고 있음을 확인했다."
   },
   {
+    "company": "TSMC",
+    "title": "美 찾는 대만 외교장관…TSMC 공장 등 참관 예정 - 서울경제TV",
+    "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE1POExSekhjR2VBelJtUmhBYVNMOHVqMV83bVFHWHpEeGhIVkk0T3dnWmJxVUxUN0YwVEh2dTBrbHYtRENOeHZjX2FPSWVqNjNsRzNpaEp6c3NsUHN4aGM3UF9hTEI?oc=5",
+    "published": "2026-10-04 15:29",
+    "timestamp": 1791095340,
+    "summary": "대만 외교장관이 미국을 방문하여 애리조나에 위치한 TSMC 공장을 참관할 예정이다."
+  },
+  {
     "company": "Tesla",
     "title": "머스크, 메모리 부족에 테슬라 AI 칩 용량 줄였다 - 조선일보",
     "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxOZXJScHJOR1JVaXJxWjRzTTRkVkp3UnkxWkU5WE1KQkgzQ2piRkpHeGQtTVEzOVpmM0g5Q000aFd1andxZklNY0pESVhSbFJsQTZ5bmluRGY2bGZXRDlVcE9SVkZwUk5sbVdnSnU1THZnREhJczB3VGF2cHhZQUlBU3QzWQ?oc=5",
@@ -65,11 +113,11 @@
   },
   {
     "company": "Google",
-    "title": "메모리 가격 인상에…구글 ‘픽셀 10a’, 13만원 비싸졌다 - 지디넷코리아",
-    "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9BdGdrZk1fVU80NkRWYWhoa0ExV1VWUkp4UXFERjFnREUxOHpubkhEYVhyS044UThYVlI5Y3JUeXhNQUlhUWNEY2lreUdlLWRXQjNHZG5R?oc=5",
-    "published": "2026-10-04 14:45",
-    "timestamp": 1791092731,
-    "summary": "메모리 가격 인상으로 인해 구글의 차기 스마트폰 모델인 픽셀 10a의 출고가가 기존 대비 13만 원 인상되었다."
+    "title": "메모리 가격 인상에…구글 ‘픽셀 10a’, 13만원 비싸졌다 - v.daum.net",
+    "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE51bi1yZjlrazJFc3VZMVdNMnl4M3ZiMXR4YjJER2t6a0VaZzRHUnJ2U2pORlA3MmNFRmY4UXdFYzYyS2N2b2NEMWtsZUpRbWM?oc=5",
+    "published": "2026-10-04 14:46",
+    "timestamp": 1791092813,
+    "summary": "메모리 가격 인상으로 인해 구글의 신제품 '픽셀 10a'의 가격이 기존 대비 13만 원 인상되었다."
   },
   {
     "company": "AMD",
@@ -134,6 +182,22 @@
     "published": "2026-10-04 09:19",
     "timestamp": 1791073145,
     "summary": "모빌린트가 LG 및 두산의 로봇 AI칩 개발을 위해 세미파이브와 상용화 협력을 진행한다."
+  },
+  {
+    "company": "OpenAI",
+    "title": "美 AI 개발사 직원 또 회사 떠나며 경고...이번엔 오픈AI - choicenews.co.kr",
+    "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5QNEhCY2pQSEJRdzg1dnFmZHBESUlTUUFjY214a3d2aDl0ZjFRbUp6LW1Ub0hsSm8zcFltTjEzN1FkV2tvM3lIa1BxTG1pYndDcHA3LTNyeERCUUNqYTZNT0VKbkZfN0lOQ3I2dlhJdTDSAXNBVV95cUxPTWh5WGd2VmNpZ3lDWlNlU3hIeWFRTGotT0FGdlpVd0tHenFGQl9md2NCbXhOZ2xLS2J3Q3o5Y2ZMakMxRmd2Ty1sWmF6RmNaWHo0dWxJOTZ4V1RSUWF3ZWJaeU5xTlJ5MVdQMU0zWk95eFow?oc=5",
+    "published": "2026-10-04 08:46",
+    "timestamp": 1791071175,
+    "summary": "오픈AI의 직원이 회사를 떠나며 경고 메시지를 남겼다. 이는 최근 미국 AI 개발사에서 발생한 인력 이탈 사례 중 하나이다."
+  },
+  {
+    "company": "Amazon",
+    "title": "\"누가 좀 사가세요\"…11조 규모 '엔비디아 칩' 파는 아마존 - v.daum.net",
+    "link": "https://news.google.com/rss/articles/CBMiRkFVX3lxTE9TSnFmM0ZQSER6ZEFDNTlUSmcwZS1qMEFUaHo3b21HSmhKNTc3REN4bW1UVlpiNHRXVzVKVUtqZjJjX19sR0E?oc=5",
+    "published": "2026-10-04 07:54",
+    "timestamp": 1791068093,
+    "summary": "아마존이 11조 원 규모의 엔비디아 칩을 매각하려는 상황을 다루고 있다."
   },
   {
     "company": "NVIDIA",
@@ -302,6 +366,14 @@
     "published": "2026-10-03 10:20",
     "timestamp": 1790990400,
     "summary": "엔비디아와 소프트뱅크가 오픈AI에 약속했던 투자금 82조 원 전액을 납입 완료했다."
+  },
+  {
+    "company": "Google",
+    "title": "[AI브렉퍼스트: 제미니 4호 아르곤] 새로운 개척지인가? 구글이 제미니 4호를 발사하고, 미국 연방거래위원회(FTC)는 소환장 초안 작성에 착수했으며, 브로드컴은 앤트로픽의 투자은행이 되었다. - AI넷",
+    "link": "https://news.google.com/rss/articles/CBMiQEFVX3lxTE92Z1RjNUlSTE52RVloS1ZtVHM3eXJHb0V4RFdkRWluM0JNLWs4RmIwYmZleVRTUjViNFdNd0dVS2c?oc=5",
+    "published": "2026-10-03 09:50",
+    "timestamp": 1790988600,
+    "summary": "브로드컴이 앤트로픽의 투자은행 역할을 맡았다. 구글의 제미니 4호 출시와 미국 연방거래위원회의 소환장 작성 소식이 함께 보도되었다."
   },
   {
     "company": "Groq",
@@ -744,14 +816,6 @@
     "summary": "엔비디아가 주목한 3D AI 기업 엔닷라이트가 로봇 학습 시장 공략에 나선다."
   },
   {
-    "company": "NVIDIA",
-    "title": "Arm, 엔비디아와 에이전트 보안 구조 제시…CPU는 실행, DPU는 감시 - AI 매터스",
-    "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFBzdkh6cVptd1IwcTdGY2pQYlZzVEkwWFp4VFE1QVl6ZnAwV2lVazhCVmc0RlBtdWgwTEw5NTZxenpHMlhsbjF3NldpTmd2cVJINjJUVg?oc=5",
-    "published": "2026-10-02 12:02",
-    "timestamp": 1790910144,
-    "summary": "Arm이 엔비디아와 협력하여 CPU와 DPU를 활용한 에이전트 보안 구조를 제시했다."
-  },
-  {
     "company": "MediaTek",
     "title": "미디어텍, 갤럭시 탭 S12 시리즈 탑재 '디멘시티 9500' 공개 - 케이벤치",
     "link": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE5acHRCX09jN0pUbU1Rb3ZRRGZfTVgyVklDdFZUekdSLTdYUG9EeEtUU2hXa3g5Q2NTd1JJajlwRG1HVzZvd0ZPTg?oc=5",
@@ -766,14 +830,6 @@
     "published": "2026-10-02 11:36",
     "timestamp": 1790908599,
     "summary": "인피니언이 태국 방콕에 신규 후공정 제조 시설을 개소했다."
-  },
-  {
-    "company": "NVIDIA",
-    "title": "스튜디오프리윌루전, 엔비디아 지원 ‘엔업’ 선정…AI 영상기술 고도화 - IT조선",
-    "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5Mbklydm5tSnRvMlh1V3hPQmdJbmNrVWdjRDU5ZEJRTnVRVjhpbHA2d2Y3cElOUmpUYzVOWFBjdzcta3FSQWQtUmlkMVdPdVhNRjBBc3NndW1sMC0wdVJvOVl4Sm5HaEN5RnZfSTZwTnjSAXRBVV95cUxPYkd5RzVQTHJuUzRQakIxallVOEVnRWh6M2lGcW9qc0FQSmNlNUpzdVNSOHo3THlZVll1MTdqQjZUWWZtY2Y1SXRJSmtWVkc5RWpNQnVabUNHZkpUak16a1NsV21VNERMaFc5ZzdKQ2lBbS13VA?oc=5",
-    "published": "2026-10-02 11:34",
-    "timestamp": 1790908446,
-    "summary": "스튜디오프리윌루전이 엔비디아의 지원 프로그램인 '엔업'에 선정되어 AI 영상기술을 고도화한다."
   },
   {
     "company": "Texas Instruments",
@@ -902,14 +958,6 @@
     "published": "2026-10-02 07:42",
     "timestamp": 1790894540,
     "summary": "메타가 내년부터 자체 개발한 AI 칩을 투입할 계획을 밝히며 엔비디아에 대한 견제에 나섰다."
-  },
-  {
-    "company": "Intel",
-    "title": "[경영전략 써밋 2026] 문종민 인텔 상무 \"에이전틱 AI, 반도체 지정학 바꾼다\" - 딜사이트",
-    "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFA3bEZfMkQwWnFCdDhnVjRVMktkNkVLODU4ZjY0ZHlIZEh3ZFZhT2xocXJLMXdSTk4wcFpYa0JONXdNbF9YT2hkczNoeDQtWUU?oc=5",
-    "published": "2026-10-02 07:38",
-    "timestamp": 1790894310,
-    "summary": "문종민 인텔 상무가 에이전틱 AI가 반도체 지정학적 환경을 변화시킬 것이라고 언급했다."
   },
   {
     "company": "Broadcom",
@@ -2134,14 +2182,6 @@
     "published": "2026-09-29 10:30",
     "timestamp": 1790645403,
     "summary": "서울대학교 AI반도체 혁신연구소가 개소하였으며, 사피온의 초대 CEO였던 류수정이 소장으로 선임되었다."
-  },
-  {
-    "company": "TSMC",
-    "title": "SK하이닉스, 엔비디아 베라 루빈용 HBM4 실물 첫선…TSMC 파트너상 2년 연속 수상 - 스마트투데이",
-    "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE9IS2lwdjA5SmFmdENETVFJai1VUEhral9KYjBkcWotejlMV0pBaHJfcm1wbXExOVdfcWthMW40T2NyMDNlWmlONGRVQlBoOFdnekdLcDU5amlqSXRFSmlJ?oc=5",
-    "published": "2026-09-29 10:29",
-    "timestamp": 1790645340,
-    "summary": "SK하이닉스가 엔비디아 베라 루빈용 HBM4를 선보이고 TSMC 파트너상을 2년 연속 수상했다."
   },
   {
     "company": "Tesla",
@@ -3776,14 +3816,6 @@
     "summary": "LG와 마이크로소프트가 AI 전략적 파트너십을 확대한다. 양사는 AIDC 및 피지컬 AI 분야에서 협력할 예정이다."
   },
   {
-    "company": "Google",
-    "title": "구글, AI 특화 노트북 '구글북' 내달 정식 출시...시작가 899달러 - 지디넷코리아",
-    "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE84a0t0TVhuV1Zja1VtdUQ2REpPODZWRV9ESTFRZVVhd283d0xZTXdJNDFSeTRZMWNuM1hGZ2pFM3lHX0JuVl92YkNKLWVLcWl2TGZYQ0p3?oc=5",
-    "published": "2026-09-22 08:40",
-    "timestamp": 1790034018,
-    "summary": "구글이 AI 특화 노트북인 '구글북'을 내달 정식 출시한다. 해당 제품의 시작가는 899달러로 책정되었다."
-  },
-  {
     "company": "모빌린트",
     "title": "모빌린트, AI 가속기 최초 TTA Verified 인증으로 엣지 NPU 객관성 확보 - 헬로티",
     "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE5lSHlNMGE5c1dNLUFaQWhZWG96UF83RDZEeFd4UFNvU1p3VEZ0WGVxNEdNOVdmVTBfTDFsY1NOZy1HUFpBVlR0UzMyU2hMeHhzSkJOakFWMW1aVDZRZFlz?oc=5",
@@ -4656,14 +4688,6 @@
     "summary": "글로벌파운드리가 차세대 광 연결 수요에 대응하기 위해 마벨과 SiGe 기술 생산 능력 확대를 위한 파트너십을 체결했다."
   },
   {
-    "company": "OpenAI",
-    "title": "오픈AI·인텔 \"CXL, HBM 대체 어렵다\"…삼성전자·SK하이닉스 주도권 이어지나 - 중앙이코노미뉴스",
-    "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE9aZm15RW9hVXFMNXJFSUJiclhMN2czTFFwWUdzZHJDNHR1YnE4M1FhYmtrSHhmcnVoVVNhODBreDg5NjVmY21JMi1xQkdGMXIwREZ6N21VODY4ZWp2azhhclNOX19IcWxQcDZKaFR4Tl9tdw?oc=5",
-    "published": "2026-09-17 08:45",
-    "timestamp": 1789602302,
-    "summary": "오픈AI와 인텔이 CXL 기술로 HBM을 대체하기 어렵다는 견해를 밝혔다. 이에 따라 삼성전자와 SK하이닉스의 HBM 시장 주도권이 지속될지 주목된다."
-  },
-  {
     "company": "퓨리오사AI",
     "title": "엑스페릭스, 공공 AX에 퓨리오사AI NPU 적용…AI 풀스택 구축 : 네이버 블로그 - Naver Blog",
     "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNcTJtOVNsUjNPcnhJdmlwR2ZWZ24tTlR5V1FoWlRwNnFxX3ZaRHNrbVRIUTlZWC1FNXJIQXExS19QN0xNazJNMlpKRjB6TWNaYWZUZVd3WWdSTk5xUnhWeW9TTllDenpfeUJtUXZzWVl3YXVNUHdNZ1c5WTIzc1FXbzI5QkYwVEpONDFaUVJ3TQ?oc=5",
@@ -4830,14 +4854,6 @@
     "published": "2026-09-16 10:28",
     "timestamp": 1789522135,
     "summary": "피지컬 AI 선도주자인 딥엑스가 글로벌 거래소 5곳으로부터 플립 제안을 받는 등 유치전을 벌이고 있다."
-  },
-  {
-    "company": "리벨리온",
-    "title": "리벨리온, AI 기업 'ai&'와 맞손…일본 데이터센터에 '리벨랙' 공급 - v.daum.net",
-    "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE5LVl96dXhmRnl4MW1DSHVCRTZuYUhOTTREYi1UQS00Z1cwNXRSOVhCWVlBRDdIUHlJQU8wZU4tcEQtdTNkTjlLQ2FFdFJ4WnZDOUtLdw?oc=5",
-    "published": "2026-09-16 10:17",
-    "timestamp": 1789521471,
-    "summary": "리벨리온이 AI 기업 ai&와 협력하여 일본 데이터센터에 리벨랙을 공급한다."
   },
   {
     "company": "Cadence",
@@ -6254,13 +6270,5 @@
     "published": "2026-09-05 00:48",
     "timestamp": 1788536923,
     "summary": "글로벌파운드리가 통신 인프라 부문에서 매출을 62% 성장시켰다."
-  },
-  {
-    "company": "Groq",
-    "title": "챗GPT·클로드·그록, 한때 일제히 '먹통' - 네이트",
-    "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTFBZb2x6OUxaZldPcF9HZ1pvOENfMWcyNS1BSnJUM056dWtOZEZXbzk0UHgtRWZNNWpWR2dwYi0tMWxKNVhlb3VBMjhQNUtZUkNvdkdUUXdydGJIOUN4bDRKNjRabm90NTVRZ2tYWWhfdjByTEFJa01aQQ?oc=5",
-    "published": "2026-09-04 20:49",
-    "timestamp": 1788522540,
-    "summary": "챗GPT, 클로드, 그록 서비스가 일제히 먹통이 되는 장애가 발생했다."
   }
 ]
