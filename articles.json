@@ -1,5 +1,21 @@
 [
   {
+    "company": "AMD",
+    "title": "AMD는 리눅스용 준비 작업을 시작했습니다. RDNA 5 GFX12.1 및 SMU 15 지원 - GameGPU",
+    "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPVFhaa3ZNUWJqcUc3LWZVeHh4MENJLS14OEFFMTZFMldRQmY1VGM5SjdRVGNyS2dCWUVmYlRlcXNERVlya0ZBTS0xSk5LRXRhYmVLVmRkc2ZETkFPUl9PeXZrY19tZHU5aThYLVd1ZHZaN01wWEs3c3hHei1YQTVsN1ZQUkhPcG8zM0J6NzA0MUw0SHh5QlkxcklvdTU2S2dvWDlkZThNdw?oc=5",
+    "published": "2026-10-05 04:00",
+    "timestamp": 1791140442,
+    "summary": "AMD가 리눅스 운영체제를 위한 준비 작업에 착수했습니다. RDNA 5 GFX12.1 및 SMU 15 아키텍처 지원을 포함합니다."
+  },
+  {
+    "company": "AMD",
+    "title": "В The Witcher 3 Remastered AMD MFG의 미래에 대한 단서가 발견되었습니다. - GameGPU",
+    "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOakkxZ3FPZHF2eXZtdkVFVkc3bUxSd3V6YktLVFpGYVpKOXVwdElxUTNHZ2JFUG1FX24zZ0NHUG40amhBazVUZVVKQ0ZhcEY3dkt3OERucVR2eFZlOFJncERqNjM3S1JZRDRaLXExLW44T1lzLWdZRlNhU19fVGtkT0ZYNXk1SHZBRnZ3bVNoalBXRTdhbklLbFh5SzVsVDFoRjFyLUk3MWJCWVhhdkw2dg?oc=5",
+    "published": "2026-10-05 01:26",
+    "timestamp": 1791131204,
+    "summary": "더 위쳐 3 리마스터 버전에서 AMD의 프레임 생성 기술인 MFG의 미래에 관한 단서가 발견되었습니다."
+  },
+  {
     "company": "NVIDIA",
     "title": "GMI 클라우드, 6억 6800만달러 조달… 엔비디아·KB인베 참여 - 한국클라우드신문",
     "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTFBtVUNpVTNFSnVLWnRzSjN5WkxqdXlTaVhmZXhBZklmNkd6MzRfRlR5aXptZFBFc2lVNzVDdFFjUTJaV25kc3ptaVBveUpNTnAtSzhrbEdmYkE3OHBteWV0SXp0aW9tRGZMOS1Wd1RsellaLWfSAXNBVV95cUxQbVVDaVUzRUp1S1p0c0ozeVpManV5U2lYZmV4QWZJZjZHejM0X0ZUeWl6bWRQRXNpVTc1Q3RRY1EyWlduZHN6bWlQb3lKTU5wLUs4a2xHZmJBNzhwbXlldEl6dGlvbURmTDktVndUbHpZWi1n?oc=5",
@@ -48,6 +64,14 @@
     "summary": "TSMC의 2나노 공정 가격 인상 소식과 마이크론의 2028년 품귀 경고, 삼성전기의 기판 투자 소식을 다룬다."
   },
   {
+    "company": "OpenAI",
+    "title": "빅테크 넘어 OpenAI·앤트로픽 까지…SK하이닉스 메모리 수요 더 커진다 - 핀포인트뉴스",
+    "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTFAwZUExTjlSOXBCVWF1RGk0M2pzb2p1Z0ptTkVsdk5zWFAtdFUyaXQ1T19hbGtLRlYtWjZEVVFYU04tSWU4MzlRckFCd0trQzhzN1lISFB4VW9WUEoyN2p1UXJ2YmFDSjY4R2dYTG1maFRtTUZkaGFV0gF3QVVfeXFMUDBlQTFOOVI5cEJVYXVEaTQzanNvanVnSm1ORWx2TnNYUC10VTJpdDVPX2Fsa0tGVi1aNkRVUVhTTi1JZTgzOVFyQUJ3S2tDOHM3WUhIUHhVb1ZQSjI3anVRcnZiYUNKNjhHZ1hMbWZoVG1NRmRoYVU?oc=5",
+    "published": "2026-10-04 15:59",
+    "timestamp": 1791097192,
+    "summary": "OpenAI와 앤트로픽 등 빅테크 기업들의 성장으로 인해 SK하이닉스의 메모리 반도체 수요가 증가하고 있다."
+  },
+  {
     "company": "NVIDIA",
     "title": "美, ’4천억 원’ 상당 엔비디아 AI 서버 中 밀수 혐의 기업인 체포 - 연합뉴스TV",
     "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5oMHhtVHFPSHVRQUlZMm5fNVRYN1pZVnQwZE9oVFhEUng0b0hJUFVLdFNEZlI1dWlzNUZIaEZ6aGNKaTBPeTUtYUF0Z0xiSWlUUnM0bm41M0Q1cnRseXBxbjlzN3d4dVk?oc=5",
@@ -62,14 +86,6 @@
     "published": "2026-10-04 15:54",
     "timestamp": 1791096897,
     "summary": "티냅스가 창업 1년여 만에 '엔비디아 인셉션 챌린지 2026' 톱10에 선정되었다."
-  },
-  {
-    "company": "OpenAI",
-    "title": "빅테크 넘어 OpenAI·앤트로픽 까지…SK하이닉스 메모리 수요 더 커진다 - 핀포인트뉴스",
-    "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTFBDYlBFbHA5REN2ODlTWXhucUUwV0tmS0tnVnI4VGxxTS12ekJra2xOd3pqWW5ITHpUOHpEenhvblBnMXBaV2hKTmZmQ283SG45THpMQ3gwVXl3N2ZEeDRRSkstRjJ6S1RDb3JEeE5DeVFwbVHSAXdBVV95cUxQMGVBMU45UjlwQlVhdURpNDNqc29qdWdKbU5FbHZOc1hQLXRVMml0NU9fYWxrS0ZWLVo2RFVRWFNOLUllODM5UXJBQndLa0M4czdZSEhQeFVvVlBKMjdqdVFydmJhQ0o2OEdnWExtZmhUbU1GZGhhVQ?oc=5",
-    "published": "2026-10-04 15:46",
-    "timestamp": 1791096413,
-    "summary": "OpenAI와 앤트로픽 등 빅테크 기업들의 수요 증가로 인해 SK하이닉스의 메모리 반도체 수요가 확대되고 있다."
   },
   {
     "company": "Intel",
@@ -129,11 +145,11 @@
   },
   {
     "company": "리벨리온",
-    "title": "한전에 리벨리온 NPU·AI칩 성능지표 'K-Perf' 첫 적용 - 파이낸셜뉴스",
-    "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1obWp1N0pXWm9FdG5OekJVNlF2empTUWljOW41eTlFbHNGeU1DTXJKaWtwZ1N3VEJ1ZThLVVQzeGFKamJKel9OMHBpaGstU0poMHZIOFRuTnljdw?oc=5",
-    "published": "2026-10-04 12:23",
-    "timestamp": 1791084188,
-    "summary": "한국전력공사에 리벨리온의 NPU 및 AI 칩 성능 지표인 'K-Perf'가 처음으로 적용되었다."
+    "title": "한전에 리벨리온 NPU·AI칩 성능지표 'K-Perf' 첫 적용 - v.daum.net",
+    "link": "https://news.google.com/rss/articles/CBMiRkFVX3lxTE50dHFjT1hpWDE2TVBsbms0TlJLdkRSMEpWS2l0akxySlc0R3gyQjE1SHR3VHlxaXMzcjd4eTd4UFR6NWdQTVE?oc=5",
+    "published": "2026-10-04 12:25",
+    "timestamp": 1791084313,
+    "summary": "한국전력공사에 리벨리온의 NPU 및 AI 칩 성능 지표인 'K-Perf'가 최초로 적용되었다."
   },
   {
     "company": "Qualcomm",
@@ -200,6 +216,14 @@
     "summary": "아마존이 11조 원 규모의 엔비디아 칩을 매각하려는 상황을 다루고 있다."
   },
   {
+    "company": "Qualcomm",
+    "title": "퀄컴, 스마트폰 칩 판매로 역대 최대 매출 - chosundaily.com",
+    "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxQcl9weDJadkxrSjF4UVhHMWxMVEFMeVRYU1ZiWVpVU1VUOUtEeE9RQ1UwS0Yyc0Y3d1I5WUFJVzdod21JQ2dYXzdVLVB2Qm9SWWdQaEJZVEJYaFhkbUZSNEpBeHd1bnJCcG9EenVSWFFnTkNNMHhNanFtc3ZjNE9RZlg2RjlBM3pDQ09iY29VR1B0UE1qU0M3TjBHdXZ0SE9kWHY5T1VhQ3lUTl91X3BDMUN6SlI2Mk1VX05zd2F1emg1QWwzODV1OE5VZWZsUzA?oc=5",
+    "published": "2026-10-04 07:27",
+    "timestamp": 1791066428,
+    "summary": "퀄컴이 스마트폰 칩 판매를 통해 역대 최대 매출을 기록했다."
+  },
+  {
     "company": "NVIDIA",
     "title": "광인터커넥트 씨스케일, 1억4500만달러 투자유치…엔비디아·인텔 참여 - 와우테일",
     "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE1lWk0xck9vZEt4LUN5eXZNaXYzQmh6ZTk0eVNyUkNnNHdpbFZJLW15cGpNOGZmdzl3b2ZIMHIycFloYlBPZENJb3Vya3FfTGM?oc=5",
@@ -230,6 +254,14 @@
     "published": "2026-10-04 02:31",
     "timestamp": 1791048674,
     "summary": "NVIDIA의 차세대 그래픽 카드인 RTX 6080이 첫 번째 제품으로 출시되며, 기존 RTX 6090을 대체할 수 있다."
+  },
+  {
+    "company": "NVIDIA",
+    "title": "SiMa.ai, 1억 5,000만 달러 규모 Series C 유치…Nvidia 도전의 시계는 2028년을 향한다 - remio",
+    "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQNkxveEk0T0Q2X1RyX2wtUS1RQVoxNkFZMF84WE5TWHFEUG1DMUdJdkw4dy1nSE05aUNfVnhzOXFqYjNvZEtpeGJoVTBRZzFwdjhTMGtYMGdUMDFHQ044Y3VHOTBzcVBPbW1kUUtvOHg0M0ZqZlFma01YNDA1T0tKa2dQcnFlN0xmZU83d1RmbnBscG1wQWxXYVpBdklUeFBxdThENmRDdUk?oc=5",
+    "published": "2026-10-04 01:51",
+    "timestamp": 1791046260,
+    "summary": "SiMa.ai가 1억 5,000만 달러 규모의 Series C 투자를 유치했다."
   },
   {
     "company": "NVIDIA",
@@ -808,14 +840,6 @@
     "summary": "엔비디아와 소프트뱅크가 오픈AI에 대한 투자 잔여분 27조 원을 최종 집행했다."
   },
   {
-    "company": "NVIDIA",
-    "title": "엔비디아가 점찍은 3D AI…엔닷라이트, 로봇 학습 시장 공략 - 서울경제",
-    "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE9xSHJLWWtlYVJVYVg3UXdIMVlqQVFXRktZbWIxTW1IaXJpbEhuSkJZaExCWVpWSEJTNFE5RmtOeGVaaHpFZmtuVUNmclJERmUtVlHSAVNBVV95cUxQU1A4b3JCWURDMW1jZWlrcTFtd3hXNHN4TVlBT21Ua1BUREUyWGJ2QVhmOGt5OXFnR1I0djJPekdQcmdiYzVRSG9IUUdmdVhrd29kOA?oc=5",
-    "published": "2026-10-02 12:07",
-    "timestamp": 1790910422,
-    "summary": "엔비디아가 주목한 3D AI 기업 엔닷라이트가 로봇 학습 시장 공략에 나선다."
-  },
-  {
     "company": "MediaTek",
     "title": "미디어텍, 갤럭시 탭 S12 시리즈 탑재 '디멘시티 9500' 공개 - 케이벤치",
     "link": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE5acHRCX09jN0pUbU1Rb3ZRRGZfTVgyVklDdFZUekdSLTdYUG9EeEtUU2hXa3g5Q2NTd1JJajlwRG1HVzZvd0ZPTg?oc=5",
@@ -1374,14 +1398,6 @@
     "published": "2026-10-01 02:49",
     "timestamp": 1790790542,
     "summary": "ST마이크로일렉트로닉스가 'ST 지속가능한 기술'을 적용한 첨단 상황 인식 센서를 출시했다."
-  },
-  {
-    "company": "Qualcomm",
-    "title": "퀄컴, 스마트폰 칩 판매로 역대 최대 매출 - 미주조선일보",
-    "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxQMGN0Um1odGFfU09qazVzam5XYlhBdmthamR1cjBqZzA1SjNqNHI0RkVieDlsdWh2N01qREY2RUJwSlY2Q3lMV3pkTmZTN1diNl81UEpxXzFucGZSQ1F0c2tWYWZkNENwZnYyY3Jhck56QXhNU2VWVl9vME5haTJUcTNMeDFJMHdZTS1sSmFTazJFTzZqNEpDWGVVaTFZcFlmbHRQNHlHZ3hVT1pjWDZrQ2JhaFBvRnN5SlVDRlZ2SUkxZWp2c2lUcFVpQzNkWndk?oc=5",
-    "published": "2026-10-01 02:43",
-    "timestamp": 1790790204,
-    "summary": "퀄컴이 스마트폰 칩 판매를 통해 역대 최대 매출을 기록했다."
   },
   {
     "company": "Amazon",
@@ -2160,14 +2176,6 @@
     "summary": "서울대 AI연구원이 AMD와 AI 및 고성능 컴퓨팅 분야에서 협력한다."
   },
   {
-    "company": "AMD",
-    "title": "AI 에이전트 시대 겨냥한 AMD 에픽 9006…256코어로 서버 성능 경쟁력 강화 - 뉴스탭",
-    "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE96N2NtTnFwMHg2a1FJdUs0MnI3OWRwY1JXSlJsemJvTl9vZTRXbXNUZWpxenFKZzZ3eGVSTGJfekdUYlEzbHpuU0VsZWRBcjJzUXNVRDZyR3NsRUFmUEVwSi1xR3FWOWNNZVJkYg?oc=5",
-    "published": "2026-09-29 10:35",
-    "timestamp": 1790645755,
-    "summary": "AMD가 AI 에이전트 시대를 겨냥해 256코어를 탑재한 서버용 프로세서 에픽 9006을 선보였다."
-  },
-  {
     "company": "퓨리오사AI",
     "title": "한국벤처투자, 퓨리오사AI·업스테이지와 국산 AI 챗봇 구축 - 뉴스톱",
     "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTFBlT1FJcktMRGFjdWxtYkpDSGJkUDdsRExyU2NTc0Y1eHBJRU1zWUdxbXc5RjVMUHNLMklVZU9nNzFEV2VpVW5kN00zNFBFYlNwWUNVQkR1bEsySUZIVFZybzF3NG5rSGJ5d3NMcmJpOA?oc=5",
@@ -2206,14 +2214,6 @@
     "published": "2026-09-29 10:00",
     "timestamp": 1790643615,
     "summary": "아우토크립트가 미디어텍 칩셋에서 보안 취약점을 발견하여 CVE 2건을 식별했다."
-  },
-  {
-    "company": "AMD",
-    "title": "'AI 대모' 페이페이 리, AMD에 합류한다 - 지디넷코리아",
-    "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1zNnVnQUtWcUFwVTViMWtlMWZOYVNJQk5YSUtkTjYxaERndkpEY0NScXg2eUprRFlOcFBNQm15bU1XTmpSbnRUZ2V4SDk4MkI3ZnNwY1JR?oc=5",
-    "published": "2026-09-29 09:41",
-    "timestamp": 1790642503,
-    "summary": "AI 분야 전문가 페이페이 리가 AMD에 합류한다."
   },
   {
     "company": "Meta",
@@ -6262,13 +6262,5 @@
     "published": "2026-09-05 07:45",
     "timestamp": 1788561922,
     "summary": "라온텍이 디스플레이를 넘어 AI 광통신 분야로 사업을 확장하며 누적 수주액이 전년 대비 8배 증가했다."
-  },
-  {
-    "company": "GlobalFoundries",
-    "title": "통신인프라 매출 62% 늘린 글로벌파운드리 - tokenpost.kr",
-    "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE1IQzdRTDdpT3poS3JmejNRTGpBWGRyYWY0YVRpOWhHRjNjRjNYMlJSUkdBMTU4enFGWkdTaDc5Q3VuZTQyNjM2VEJOMFI4QXN0ZlNNaUQ4aTB5TkhRRUNGa0FrVVNwY3A5OW1MMzZR0gFYQVVfeXFMTXh2V3I0TzBXdXV1aDhnS2JNaEdGSFY2WkFzRTJycmNHUGdKZnNSd3ZOa282YjZaNEFOY0kySTJrclY2SmZmdlVpc3RlMkE1TDFZaUVha2pBcQ?oc=5",
-    "published": "2026-09-05 00:48",
-    "timestamp": 1788536923,
-    "summary": "글로벌파운드리가 통신 인프라 부문에서 매출을 62% 성장시켰다."
   }
 ]
