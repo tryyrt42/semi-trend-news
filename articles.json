@@ -1,5 +1,61 @@
 [
   {
+    "company": "Tesla",
+    "title": "[영상] 반도체 대란에 백기든 머스크⋯테슬라, ai5칩 ‘메모리 감소’ - 더구루",
+    "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE5SUjNIMWNZTUZadklfT3B2cjV3U05WTFBnaXBJcXFTYUxNNmM5eS1CTVNRb3F2bHJHU3U0LVYwS0EwZ3Vtdjl0eWd6Y0dhdGVYZzRMOFFIVnRVU29oaE5LTHZMcw?oc=5",
+    "published": "2026-10-10 08:00",
+    "timestamp": 1791586833,
+    "summary": "테슬라가 반도체 수급난에 대응하기 위해 AI5 칩의 메모리 용량을 줄이는 설계를 채택했다."
+  },
+  {
+    "company": "Synopsys",
+    "title": "시놉시스, 中 AI 연구소와 반도체 설계 협력 추진 - 지디넷코리아",
+    "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBBM0s0aElZNGI4S2ZqY3hHdUVwYXVqdGNVRTh3YllaT1Rrbl8zQmNlSXN0bXBtYndRamowV24xYnRwNlB3S0ZIMW1UcHBmM2p5dEw2ZzVB?oc=5",
+    "published": "2026-10-10 08:00",
+    "timestamp": 1791586804,
+    "summary": "시놉시스가 중국 AI 연구소와 반도체 설계 분야에서 협력을 추진한다."
+  },
+  {
+    "company": "NVIDIA",
+    "title": "엔비디아 업은 바이오 기업 아이암빅, 나스닥 IPO 추진…최대 2140억 원 조달 - 초이스스탁US",
+    "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFAxMW9VVnpudmJ3LVBxczd1Sk55eUlDS29hZ0t4ZDFUQmZ1enFWbTdJb0sycXBvdHhyamJNSXZqd0g5TFdYYWxmNFJJQkwtZEFjSzJRQUR4VWVHTGhDVnA5VVdHc0NiY0k?oc=5",
+    "published": "2026-10-10 07:01",
+    "timestamp": 1791583260,
+    "summary": "엔비디아와 협력 관계인 바이오 기업 아이암빅이 나스닥 상장을 추진하며 최대 2140억 원을 조달한다."
+  },
+  {
+    "company": "NVIDIA",
+    "title": "\"한국 AI 생태계에 기여\"…엔비디아·AMD, 韓 연구거점 구축 - 아이뉴스24",
+    "link": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE1uSG1abm95aFd5bjNVUjYwMEdjSjNOdGM1QXk3bmFfTExHejg1dnFXWVQ3VjFvX3M3SzgzVWRfdW9SZEp6UkdjTW14Q0Q?oc=5",
+    "published": "2026-10-10 07:00",
+    "timestamp": 1791583201,
+    "summary": "엔비디아와 AMD가 한국 AI 생태계 기여를 위해 국내에 연구 거점을 구축한다."
+  },
+  {
+    "company": "Qualcomm",
+    "title": "퀄컴과 ARM 간의 계약 분쟁 소송, 배심원단 다음 주 심의 재개 - TradingView",
+    "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTFBGTHVORE0zcDVxUk1KenM1Q21LYUNVLURrQkpfVDdYZDMwNEJ0WU4xVDlxV0haNm42VURaeG52em8wX0x1WmMxbmhvcEdmMkhYQS1OTTV6dFNRN0ZteWhrSnU4azJPZGtrSmY4elFxcHJmMHVSZ3RtVg?oc=5",
+    "published": "2026-10-10 06:39",
+    "timestamp": 1791581974,
+    "summary": "퀄컴과 ARM 간의 계약 분쟁 소송이 진행 중이며, 배심원단이 다음 주 심의를 재개할 예정이다."
+  },
+  {
+    "company": "NVIDIA",
+    "title": "‘엔비디아 파트너’가 뭐길래…전자회사 뿐 아니라 유통·건설사까지 진입 경쟁 [비즈360] - 헤럴드경제",
+    "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9uNGtxSnJmcnFfd2x3c2tCZ21tTmJhWlZmTG4xeW5LSkJRNDRfbEJ5d0lTbXU4aWVDUXA1bVAyTUQ2WVN5MFJIaGlIRHVLcFV1ME1zQWhB?oc=5",
+    "published": "2026-10-10 06:30",
+    "timestamp": 1791581400,
+    "summary": "엔비디아 파트너십을 확보하기 위해 전자회사뿐만 아니라 유통 및 건설사까지 진입 경쟁을 벌이고 있다."
+  },
+  {
+    "company": "AMD",
+    "title": "AMD FSR 4는 2026년 말 이전에 Xbox Series X 및 Series S에 탑재될 수 있습니다. - GameGPU",
+    "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPbUMwV0tEcUFwNVROZW9Jb1BEWmY1TnAwYl82dWdzclVJbkNPZzdQZVVIeGtzN20zRXp4RkR5RGZsN1pDSV9idDNVOE55LUM3ZUZWSlZpcFk4YnFoc3lkYTEtV29kbE5sS19fRDRoaGtnbElDNGo2LVFUMmM3UnRjRFg2ZHFZdlNoS2cxbVUzVnR5XzZYUFlKb19GbDR5czZrVjU0ekxOVFZCdkE3SzJrMQ?oc=5",
+    "published": "2026-10-10 03:53",
+    "timestamp": 1791571984,
+    "summary": "AMD의 업스케일링 기술인 FSR 4가 2026년 말 이전에 Xbox Series X 및 Series S에 탑재될 수 있다."
+  },
+  {
     "company": "NVIDIA",
     "title": "NVIDIA DLSS 5는 2004년 게임인 심즈 2에서 특이한 결과를 보여주었습니다. - GameGPU",
     "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPYW1HdE45anp2ekd5OE1idmhSNWlCX0oxV1p0Ny1tNjVjTTVyNE1wMTBGeUVubU43RF81bEZBYnhrZ3VWdmtlQU9ZelZfdloya0FyUmRkVnNQNzNWQ3cwdGlSa09QcEZrZG9INjM1TzN3dWF0dUk1bEwwd0FzZEVSMVJELWFIWnNlelYycVFLTEJMdmpkTHVJemkxTktKc044NEVjQVNpbw?oc=5",
@@ -78,6 +134,14 @@
     "published": "2026-10-09 20:09",
     "timestamp": 1791544144,
     "summary": "엔비디아에 이어 앤트로픽이 AI 보안 판을 짜는 명단에 포함되었으나 한국은 제외되었습니다."
+  },
+  {
+    "company": "Apple",
+    "title": "애플, 아이폰18 프로 10월 부품 주문 15% 넘게 줄였다…메모리값에 막힌 '가격 인상 카드' - 콕스뉴스",
+    "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1SRDFpYk9mcXdOYThtSnJpbS1rSE9zZVp6T0t3c1pyZ19tSUgyTTYybkJIUWpSSzYwcUFhLUJEV3I0RXJGNmJzbVVUNEhrdDd6bnk0OG8yaFRWaTRMeWhnSUtETHJRVUFqSkE?oc=5",
+    "published": "2026-10-09 19:44",
+    "timestamp": 1791542681,
+    "summary": "애플이 아이폰18 프로의 10월 부품 주문량을 15% 이상 축소했다. 메모리 가격 상승으로 인해 제품 가격 인상 전략에 차질을 빚고 있다."
   },
   {
     "company": "TSMC",
@@ -816,14 +880,6 @@
     "summary": "한국 AI 반도체 기업들이 AMD 리사 수 회장을 만나 글로벌 진출을 논의했다."
   },
   {
-    "company": "NVIDIA",
-    "title": "씨어랩, 엔비디아 AI 인프라 31억원 공급계약…작년 매출 29.7% 규모 - 이데일리",
-    "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQZzdHOU82Qkt4d1pWXzgyT05zOVIyT2RMOUFMbGhvcEJiWVhQZDd1S1pXb3hXTnRMOWhPZTAwWGEzSFc4TDRJMnJSTFdpa3o2clJVQlNaSDlScEdjaVE2b05aZHhYSXExel95UjJOeFFrWFg5N05zUTZpd25SVkQ3aA?oc=5",
-    "published": "2026-10-08 14:48",
-    "timestamp": 1791438492,
-    "summary": "씨어랩이 NVIDIA AI 인프라 공급 계약을 체결했다. 계약 규모는 작년 매출의 29.7% 수준이다."
-  },
-  {
     "company": "Qualcomm",
     "title": "구글·퀄컴 기술 집약…엑스리얼, XR 글래스 '아우라' 韓 가격 공개 - 한스경제",
     "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE94Q1NrVE5takszMmtiTDVtQWpwV051aVRPckZwSk4tMGl4TTFhR0dZSUJ5eEhYVkU1T3NFTk5tZElwMnEwckVCQlNSZTN2SGVZcnNiMXFreXFXS0ptbllzcHFxei1RdWVhVkw4?oc=5",
@@ -880,14 +936,6 @@
     "summary": "HPE가 6세대 AMD 에픽 프로세서를 탑재한 프로라이언트 Gen13 서버 4종을 공개했다."
   },
   {
-    "company": "NVIDIA",
-    "title": "엔비디아·MS, 윈도우 PC에 AI 에이전트 심는다 - 한스경제",
-    "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5ZSXY1OWo0MkFqZ01iWXliVHRSeWc1bG0zcW1ZWnowaXotUF8ycmoyd0ZEWklnQ3daR2lSY2xwazVVdUo4TnZ6bl94ZmlTanI0M0pkMFlDTDNuTW5yYjlBa0l4RHRWYXNiQjVQU9IBb0FVX3lxTE1pMldBOHhwd3o4OURsdUE4Ykg1TDFLZHlFNHM1ZzJ4NHBGcTNUbUJCT3M5enQ0SmNaeEdpdVc1cjVYOTA0anNFa0RBZFduTHFocDYxOW05ZnBvNUgwVk9SM0p2YURVQ3kyRmRvSlZLVQ?oc=5",
-    "published": "2026-10-08 13:39",
-    "timestamp": 1791434374,
-    "summary": "마이크로소프트와 엔비디아가 협력하여 윈도우 PC에 AI 에이전트를 탑재한다."
-  },
-  {
     "company": "모빌린트",
     "title": "모빌린트, 누리호 5차에 AI 반도체 탑재...“궤도에서 AI 연산” - 더에이아이",
     "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBOZUVJTHJWeTRMRDEyT3o2cURRakV0ekZ4UmlFLU1VMXVEbU1rOWs3MXZqT3hXdDJFcndOaWpJZmlMOGVUQmpmcVYzVlA1R1NaX3NMelpBMjBIZXhUaHZRY2VsdkgyTGFJb3c?oc=5",
@@ -942,14 +990,6 @@
     "published": "2026-10-08 12:18",
     "timestamp": 1791429481,
     "summary": "MS가 엔비디아 RTX 스파크를 탑재한 서피스 랩톱 울트라를 공개했다."
-  },
-  {
-    "company": "NVIDIA",
-    "title": "로컬 AI 시대 겨냥한 XPS 첫 시도… 델 테크놀로지스, 엔비디아 RTX 스파크 탑재 '델 XPS 16 크리에이터 에디션' 공개 - 에이빙",
-    "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTFBGUHJWZlAwbXVHUng4MjdQTnB2Y0V3cGltSHBGRGlxY2E0T0dTR3VWNmN6TzVYd01WMXBNbEdpbWFEQU53VmZHZ2R4d21SUVIwTHVvMnp1YjNKMV9tNWlaZ0V0M3ZpaVBzQWZR0gFrQVVfeXFMUEZQclZmUDBtdUdSeDgyN1BOcHZjRXdwaW1IcEZEaXFjYTRPR1NHdVY2Y3pPNVh3TVYxcE1sR2ltYURBTndWZkdnZHh3bVJRUjBMdW8yenViM0oxX201aVpnRXQzdmlpUHNBZlE?oc=5",
-    "published": "2026-10-08 12:09",
-    "timestamp": 1791428984,
-    "summary": "델 테크놀로지스가 엔비디아 RTX 스파크를 탑재한 델 XPS 16 크리에이터 에디션을 공개했다."
   },
   {
     "company": "Broadcom",
@@ -1126,14 +1166,6 @@
     "published": "2026-10-08 04:00",
     "timestamp": 1791399600,
     "summary": "리사 수 AMD CEO가 한국에 AI 연구센터를 설립하고 수백 명의 인재를 채용할 계획을 밝혔다."
-  },
-  {
-    "company": "AMD",
-    "title": "AMD AI칩 공급망에 삼성·SK하이닉스 합류... HBM4 경쟁 본격화 - 테크데일리",
-    "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE56NVZ6MWlXWUpXb1hjblR0T1l1ajJLUS1VV3doTUt4SmlZX0tQWHpHWFdCUmI4Mkk4UFJCOTJNN01zOWM0YmcwVXNEVWRFY012a01lQXlqTVg3OEFoWGxFVVVGVWVEQlcxdzBETUZYdjVEd9IBckFVX3lxTE56NVZ6MWlXWUpXb1hjblR0T1l1ajJLUS1VV3doTUt4SmlZX0tQWHpHWFdCUmI4Mkk4UFJCOTJNN01zOWM0YmcwVXNEVWRFY012a01lQXlqTVg3OEFoWGxFVVVGVWVEQlcxdzBETUZYdjVEdw?oc=5",
-    "published": "2026-10-08 03:03",
-    "timestamp": 1791396203,
-    "summary": "삼성전자와 SK하이닉스가 AMD의 AI 칩 공급망에 합류하며 HBM4 경쟁이 본격화된다."
   },
   {
     "company": "Infineon",
@@ -3896,14 +3928,6 @@
     "summary": "모빌린트가 LG, 두산, 대동과 협력하여 로봇 맞춤형 온디바이스 AI 반도체를 개발할 계획이다."
   },
   {
-    "company": "Qualcomm",
-    "title": "퀄컴, 오픈소스 로봇 소프트웨어 기업 '피크닉 로보틱스' 인수 - 티스토리",
-    "link": "https://news.google.com/rss/articles/CBMiS0FVX3lxTFBWbklLSTU0ZjhGbE42U0ZfV3h2ZkpqMjQxWHMwVXhsZTY4TWtjRkRjVXZieHdhTzFSNGxwYzV4TU56S2Z6MlpJY1VVbw?oc=5",
-    "published": "2026-09-28 16:00",
-    "timestamp": 1790578806,
-    "summary": "퀄컴이 오픈소스 로봇 소프트웨어 기업인 '피크닉 로보틱스'를 인수했다."
-  },
-  {
     "company": "Infineon",
     "title": "6mm 칩 하나로 120A…인피니언, AI 가속기 전원칩 샘플 공급 - 디일렉",
     "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE15LVlOblFyOG4ySU9oTHR3cEV4d0ctLXlLSURHeWVGckl5ZkxSeEpIdGFhd0hjT1Y3VEpKXzRRSGhxYnpkeDQ1UWpSTHhsN3JRd21nMFJCZTJocDV5YmowejBOUXBPZw?oc=5",
@@ -5360,14 +5384,6 @@
     "summary": "애플의 자체 모뎀 탑재 예상과 달리 아이폰18 프로맥스 모델에 퀄컴의 모뎀이 적용될 예정이다."
   },
   {
-    "company": "Apple",
-    "title": "애플 자체 모뎀 'C2', 미국판 아이폰18 프로맥스서 빠져…퀄컴 X80 탑재 확인 - 콕스뉴스",
-    "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTFB3WHI2ajRVWmlfdlBMZkRRTHZNelh1VXhhWXFHQXdDeWdKeUxmYmtWOFNHc3RGenl6LW1oWHRoWWFvTlpNRlVJZjctcS1NckdJd2QtMnJGN1RoNTl2VHRPdWx3WGh3VGRTM0E?oc=5",
-    "published": "2026-09-20 18:54",
-    "timestamp": 1789898083,
-    "summary": "애플의 자체 모뎀 C2가 미국판 아이폰18 프로맥스에 탑재되지 않는다. 대신 퀄컴의 X80 모뎀이 탑재되는 것으로 확인되었다."
-  },
-  {
     "company": "동운아나텍",
     "title": "동운아나텍, OIS로 벌고 전장·라이다 노린다…AI 시대 새 성장판 - 핀포인트뉴스",
     "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE90UkdkWGhSV0FWNWlHNHBqWjZDU0ZMLU9lNndzQlZ6bFJia2NEWXIzdm91VUJHNDJ2WG9uRlBDNHdndUdjbWJ2eHlsTXMxNGNpSEFDd0tqV3lwSW5ObExOWnFac0J1ZncwMXlVSUFfbU5WYUhQRnU40gF3QVVfeXFMT3RSR2RYaFJXQVY1aUc0cGpaNkNTRkwtT2U2d3NCVnpsUmJrY0RZcjN2b3VVQkc0MnZYb25GUEM0d2d1R2NtYnZ4eWxNczE0Y2lIQUN3S2pXeXBJbk5sTE5acVpzQnVmdzAxeVVJQV9tTlZhSFBGdTg?oc=5",
@@ -6518,37 +6534,5 @@
     "published": "2026-09-10 09:36",
     "timestamp": 1789000584,
     "summary": "미국 법무부가 엔비디아와 AI 스타트업 그록 간의 라이선스 계약에 대해 조사를 진행 중이다."
-  },
-  {
-    "company": "Kioxia",
-    "title": "Kioxia Rules Out Joint Production Talks With SK Hynix Despite SK Chairman’s Cooperation Proposal - 알파경제",
-    "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE10eVlBa3ljYlhUZEJ3T1NGT1U5VnlsS2UzQVg4dVpzYXdRcVRLLWxRVlJyUUJDRDNWcnVmX1JvRVZWR1VjSGhqc2tFTkVOVzdtS1J3VVcyTURvUGtFcW5ZY1ZrSW9EUHRkQUVWb19R?oc=5",
-    "published": "2026-09-10 06:00",
-    "timestamp": 1788987600,
-    "summary": "키오시아가 SK하이닉스 회장의 협력 제안에도 불구하고 공동 생산 논의를 배제했다."
-  },
-  {
-    "company": "Samsung Foundry",
-    "title": "SMIC Closes In on Samsung Foundry as Global Market Hits Record High in Q2 - 알파경제",
-    "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE50S005OWhESFNUU0FUSGFwWFVjdmlzWG1iTG1RMnBuYW9JcnRONERNNzgtS01BaEhuR0I3TFlrSWVoRFhGNlVSZmhUdTd0TUdEM1RKNmlUWXNhWUwyamx2ZVRNZmdqaXBzek1jZE9n?oc=5",
-    "published": "2026-09-10 06:00",
-    "timestamp": 1788987600,
-    "summary": "글로벌 파운드리 시장이 2분기 역대 최고치를 기록한 가운데, SMIC가 삼성 파운드리를 추격하고 있다."
-  },
-  {
-    "company": "Cadence",
-    "title": "Cadence, 골드만삭스 콘퍼런스서 AI·칩 수요가 성장 견인 밝혀 - Investing.com 한국어",
-    "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE1fekN0aGh0c2lPNGJzS1VIZmhDdkNwUmV3UVJLZ1RkMy1ubFZCX1lXek11UHdWSjlVQ0NoMm85VURWbjhEUGdncDJRUTlaWGlwVVliRDJVMG5BR1dxRk9xY3hWeEhlMWU5bTZtc3pYMA?oc=5",
-    "published": "2026-09-10 05:12",
-    "timestamp": 1788984720,
-    "summary": "Cadence가 골드만삭스 콘퍼런스에 참석하여 AI 및 칩 수요가 기업의 성장을 견인하고 있다고 밝혔다."
-  },
-  {
-    "company": "MaxLinear",
-    "title": "MaxLinear, Citi 2026 TMT 컨퍼런스서 데이터센터 성장세 강조 - Investing.com 한국어",
-    "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE9TSWZicUxNWktaS0hyNlY1UW90b1l2Q1JBLVJ5WHJMVFZGTm5SdFJDTzluZGlSSl9QUkszZkZCTndpOUp4QmdmWERoYjZ4UGxaaUl2SFUyWDNtekF4MWJFVmFndjVjRG9LSGM5NWJpcw?oc=5",
-    "published": "2026-09-10 04:33",
-    "timestamp": 1788982380,
-    "summary": "MaxLinear가 Citi 2026 TMT 컨퍼런스에 참여하여 데이터센터 부문의 성장세를 강조했다."
   }
 ]
