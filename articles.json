@@ -1,11 +1,35 @@
 [
   {
     "company": "NVIDIA",
+    "title": "\"엔비디아, AI 스타트업 리플렉션에 추가 투자·인수 협상중\" - 연합뉴스",
+    "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9xWWU4RWlpeEV5N1QySHR0UjBWZjhFUzVUd3BVc01ZM05WbWJ2TkJzeGZ6a2JGaGRNOUpIM3pDRHU1dHpHb0g5bTFMLWZVSWsxZG5BdnlZNHBZZXfSAWBBVV95cUxPaGM3dEJVLWNTbk1aRkxkOXYwNW1Fb0dQbk5ZS3lFUkt2MTVJdXpONEE4M2FpUi11TmhTSjVIRUt6RXNOVDE5aGRZVWR4emNHTDlaY3o5Nlk4anFVM1BaWE4?oc=5",
+    "published": "2026-10-11 05:13",
+    "timestamp": 1791663229,
+    "summary": "엔비디아가 AI 스타트업 리플렉션에 대한 추가 투자 및 인수 협상을 진행하고 있다."
+  },
+  {
+    "company": "NVIDIA",
+    "title": "NVIDIA DLSS 5는 게임 엔진에 기본적으로 통합될 경우 최대 60%의 성능 향상을 보일 수 있습니다. - GameGPU",
+    "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOQUlFR1N3NGlQNlNtRG45OHVxdnd0TWx1QUlLQ2UyWEgzX2xVVURVbWhXTHNyRkx5bkdOQnFveHoxRWZraVRQRXpVWjNyX2JaZ0pYREFfYWlvRGhxNXRuLTNCMjNSaE1xUUtiMGh4NzYzZHZYcnppU0Y5ZFdUUzNXcERCVHhtN2UwVmk3RzZQMXB0Sjd0anhxNUE5NmZoQk1tMy1tVDJ1TmZNTE1FejhqLWhFdVhtb29UVThr?oc=5",
+    "published": "2026-10-11 02:29",
+    "timestamp": 1791653355,
+    "summary": "NVIDIA DLSS 5가 게임 엔진에 기본적으로 통합될 경우 최대 60%의 성능 향상을 보일 수 있다."
+  },
+  {
+    "company": "NVIDIA",
     "title": "[김대호 인물] 니코 카프레즈(Caprez) ...엔비디아 젠슨황 후계자? - 글로벌이코노믹",
     "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPM1BnRkdmamZkUlllbDdFdEVKM3E3MUotTUsybWJwbkhqc21pbjlhRTNVYVh0VHpmY2puMG15RlltNGNXUjBkR3ppS25qRHRtanJILXF5MFJ2VGJoaGNLdmVydE4tZEJYV3Z6QVM5ZDhqSnlLOVluVHhBeVpVWHRieXpxLXkzV1ZU?oc=5",
     "published": "2026-10-10 23:55",
     "timestamp": 1791644100,
     "summary": "엔비디아의 젠슨 황 CEO의 후계자로 니코 카프레즈가 거론되고 있다. 해당 인물에 대한 인물 분석 기사이다."
+  },
+  {
+    "company": "AMD",
+    "title": "HPE, AMD 6세대 EPYC 탑재 서버 4종 공개 - 칸(KHARN)",
+    "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1jdy1XeWQ2dzluTTN6VTFlS2xKamhRWWVzeWtKY3JjUmFsck91R0pSYTdnaU5UQnBjeHY4ZVRIUEY0ZUdKLWd1cUpKaHg3cGhYbjBLU1dn?oc=5",
+    "published": "2026-10-10 21:02",
+    "timestamp": 1791633723,
+    "summary": "HPE가 AMD의 6세대 EPYC 프로세서를 탑재한 신규 서버 4종을 공개했다."
   },
   {
     "company": "NVIDIA",
@@ -472,6 +496,14 @@
     "summary": "AMD 수뇌부가 13곳의 기업과 회동을 가진 후 노타AI를 전격 방문했다. AI 관련 기술 협력 및 생태계 확장을 위한 행보로 풀이된다."
   },
   {
+    "company": "OpenAI",
+    "title": "“오픈AI 연매출 500억달러 근접”…시장 예상보다 27조원 적었다 - 서울경제",
+    "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5MNFRWMU1nSWJmbVlxaW1iN0RCZnlYZ0NRc0lUMmxXWUJ5VThfRDNidTZfLVE4NGxzQ09jUFVuRUh5d0lPWWpEMkFrdzVCZGtxQmfSAVNBVV95cUxPZmo4N09iMHFWQlA4QnRRbVZCS3JISUxlLTgwUW9IQWJYRDZ5TXVxRkFYMV9Qc2o0SnVhNmo4X2h0eWtEOUZhMTh5bXFBdXdEZXpGNA?oc=5",
+    "published": "2026-10-09 11:15",
+    "timestamp": 1791512124,
+    "summary": "오픈AI의 연매출이 500억 달러에 근접했으나, 시장 예상치보다 27조 원 적은 수준으로 나타났다."
+  },
+  {
     "company": "Microsoft",
     "title": "\"맥북보다 6배 빠르고 400달러 싸다\"…MS, 엔비디아 품고 애플에 선전포고 - CBC뉴스",
     "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE9GMml3NnZ0d3R0QXdxQWdFQTVuR0FxQzBFQlZvZXZkRGVSLTJyV2l0X0k5ZDhLNVkzb29HWlA3SDhsd1pjOG0zRVhyWDlDcGRwX0xVN3lPa1lGN3hPRWp4d0dLUm4zTEE4?oc=5",
@@ -704,14 +736,6 @@
     "summary": "HPE가 AMD 기반 서버를 발표했습니다. AI 추론 및 HPC를 포함한 워크로드별 인프라 전략을 강화합니다."
   },
   {
-    "company": "NVIDIA",
-    "title": "Nvidia, 미국 과학 연구에 5년간 10억 달러 투자 약속 - Investing.com 한국어",
-    "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE92MnJaeE1TNExqZ2FMemprVHFUbW1wTllFQ2cyOTZZYjJDRW9mQXlSUjcyTzFsYVk0OXNBSDJXQnlDUUpDekM4M2J4Q1c0bkQ5N1lkcWRQaTIxb3dqUWlkZDItVFNxdGNoSnBYalhnUzI?oc=5",
-    "published": "2026-10-08 23:41",
-    "timestamp": 1791470460,
-    "summary": "NVIDIA가 미국 과학 연구를 위해 5년간 10억 달러를 투자하기로 약속했습니다."
-  },
-  {
     "company": "Siemens",
     "title": "지멘스 앳 슈퍼컴퓨팅 2026 - Siemens",
     "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE04QWc2QzVHS05TYUhud3ZjanhPUHU1aXRQMFlodnV0NjQ4QTVjamI4Sldmc0NPczlqMWVETVdBdXlnZkhZMFQ1SFNfeTRIY25yUC1XcGFzcHVOekZDOElQZlF3?oc=5",
@@ -726,14 +750,6 @@
     "published": "2026-10-08 22:51",
     "timestamp": 1791467491,
     "summary": "AMD가 RDNA 5 아키텍처를 통해 서버 및 게임용 제품을 생산할 예정입니다. GPU 하나의 수정 위에 제품을 구현합니다."
-  },
-  {
-    "company": "NVIDIA",
-    "title": "NVIDIA는 Wayland 기능이 향상된 Linux 드라이버 615.78.08을 출시했습니다. - GameGPU",
-    "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQbE9TbEJnUnl5MDV3LW9Eb3ZZck4zVlJCRjd0dk8wekdxWW40RzYxcU9XdVo5UEx1ZWFpb2hUal9RMnd4ZUZpVDZ3RXZFdk0xOE42bmNiNk1vdW9VbEJCdnNfc2Rhb3Q2R1ZGVTNsZHAyZWptX1drYTBGTmtnMzNUSFpsNmJHcDdmTlQyQ09LWTU5UDk0ZVNFal9pcjBPSlR3c19KZW93M0x0ZzVh?oc=5",
-    "published": "2026-10-08 22:15",
-    "timestamp": 1791465345,
-    "summary": "NVIDIA가 Wayland 기능이 향상된 Linux 드라이버 615.78.08 버전을 출시했습니다."
   },
   {
     "company": "GlobalFoundries",
@@ -1110,14 +1126,6 @@
     "published": "2026-10-08 12:26",
     "timestamp": 1791429960,
     "summary": "AMD 리사 수 CEO가 삼성전자 및 SK하이닉스와 회동하며 장기적인 협력을 논의했다."
-  },
-  {
-    "company": "AMD",
-    "title": "플렉스데이터, 구로서 AI 스토리지·서버 세미나 열고 PROMISE·MSI·AMD 제품 공개 - 스페셜타임스",
-    "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE9aM2pmbUJMcGs2ZlJDdHQ4Vk1pRmppQkhlaTNfZ1dpR3RQaWRpeWVTai1WX2pjaVJyb2tBQkw1ZHFmSTYxUTdYQ1hQTmxwbmJNQzVQS1VsYlRXWHRMUmZkUHZjMUlXXzIwQW1OVmVtREhvbEE?oc=5",
-    "published": "2026-10-08 12:19",
-    "timestamp": 1791429542,
-    "summary": "플렉스데이터가 세미나를 통해 PROMISE, MSI, AMD 제품을 공개했다."
   },
   {
     "company": "Microsoft",
@@ -5272,14 +5280,6 @@
     "summary": "테슬라가 옵티머스 양산을 앞두고 중국 공급망 내 공장 심사에 착수했다."
   },
   {
-    "company": "OpenAI",
-    "title": "15조 빚내 오픈AI 쏜 소프트뱅크… 사채 발행 승부수 던졌다 - 글로벌이코노믹",
-    "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQdWVMVmFLT3BGakxidjBMQ09zajBYTzllalgzRXQwdjdtRnUtbGxsNnRtSXJJZ1ItbHNFdk5JZVFIdDF2M0NNVjRzbm5aWWZTajRFcnBfYjVwc294ZnhmcFJ0UnhCeDRMTDJYLVNUM3JYS0RxN1FveGNzYVhvSEVBanNSMVhyNng2?oc=5",
-    "published": "2026-09-21 13:32",
-    "timestamp": 1789965142,
-    "summary": "소프트뱅크가 오픈AI에 대한 투자를 위해 15조 원 규모의 사채를 발행했다."
-  },
-  {
     "company": "리벨리온",
     "title": "리벨리온 AI칩, SKT 서비스 4곳에 확대…하루 1400만건 처리 - 아이뉴스24",
     "link": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE8tN2hfY1JBUXoxMlh0cFYxejVWTWZ2b1NwTDNwNFRXY1c0cVhSU3JWQ2h6VkRXZV9zWmI4Zko5UUljUU41MGRrVGh0cw?oc=5",
@@ -6342,37 +6342,5 @@
     "published": "2026-09-11 09:20",
     "timestamp": 1789086051,
     "summary": "파두의 상장 관련 3차 공판이 진행된 가운데, 파두와 SK하이닉스 양측의 의견이 엇갈리고 있다."
-  },
-  {
-    "company": "알에프에이치아이씨",
-    "title": "[브랜드평판] RFHIC, 통신장비 상장기업 9월 1위... 쏠리드, 케이엠더블유 상위권 - 이넷뉴스",
-    "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTFB5RC1kbHJSbGJCeF9TMDlqV0hnZUo5RDNuZ1pibmhzdGtLTE4tcEx6d2VHRDVsSXROM2tkd3J0aXY0TER3UkE2UjR3RmQxeWE4aVc5MHg4VjdscFRpRUxrVVhLVWlCR2FJYXRRetIBcEFVX3lxTE1hbkNDMHJpTnA5eXZLYzJzOTl5NjJJdkVUQTBOcF9lTG1JTGE2eXFWMlR4NWxRRm9jT1BSQ0RJTmhIVkR5amNaOG1uR09tMVFDdmprMFdMUW85MVU2bnFZS1VPRTZ3dTNHNDVCbE5ZVEI?oc=5",
-    "published": "2026-09-11 06:31",
-    "timestamp": 1789075912,
-    "summary": "RFHIC가 9월 통신장비 상장기업 브랜드평판에서 1위를 차지했다. 쏠리드와 케이엠더블유가 그 뒤를 이어 상위권에 이름을 올렸다."
-  },
-  {
-    "company": "Silicon Motion",
-    "title": "실리콘모션, 자동차 사이버보안 국제 프로세스 인증 획득…SDV 시대 공급망 신뢰 경쟁 가열 - 한국데이터경제신문",
-    "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE92cUJ1bVluRXBCYnlvWGR1QkhDY0lrWWQ5emRFWXRCaWktTVhjLWlELWMxSGdXTldOR3RramFzc3hwX3ZENWx2ZndtdXgtbzVJTTd0akREUWV6UzRFdmphelU3Rkl4ZVJ2MDJ0VTgyTk4zU1NC0gF0QVVfeXFMT3ZxQnVtWW5FcEJieW9YZHVCSENjSWtZZDl6ZEVZdEJpaS1NWGMtaUQtYzFIZ1dOV05HdGtqYXNzeHBfdkQ1bHZmd211eC1vNUlNN3RqRERRZXpTNEV2amF6VTdGSXhlUnYwMnRVODJOTjNTU0I?oc=5",
-    "published": "2026-09-11 05:03",
-    "timestamp": 1789070580,
-    "summary": "실리콘모션이 자동차 사이버보안 국제 프로세스 인증을 획득했다. 이를 통해 SDV 시대의 공급망 신뢰 경쟁력을 강화했다."
-  },
-  {
-    "company": "Analog Devices",
-    "title": "ADI 글로벌 디스트리뷰션, 제프리스 산업 컨퍼런스 2026에서 스핀오프 이후 재설정 발표 - Investing.com 한국어",
-    "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE9iVU93WjJqUGgxVTY1WWExblBuZV9xSVVnbFBnUUNscjJzSVpybjIxV1dPOUNldF9OQUphekJWZk56bUl0Zm9RbjE2Si1vblNuVzdOVXBZUmZZTE1IUTkxVDdtWHl5MWtadUJBWTNWcw?oc=5",
-    "published": "2026-09-11 04:39",
-    "timestamp": 1789069140,
-    "summary": "ADI 글로벌 디스트리뷰션이 제프리스 산업 컨퍼런스 2026에서 스핀오프 이후의 재설정 계획을 발표했다."
-  },
-  {
-    "company": "NXP",
-    "title": "NXP 반도체, 피지컬 AI 중심 전략 전환… 데이터센터 매출 5억 달러 전망 - 글로벌이코노믹",
-    "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOeXZ1T2NJZzhmeVl0Y2NtT05ULWc4NEc3VVJNVDJpaXdKOXdYSnpaNVE0dG1UODM1STNhWHpRdFV5Q1lBRC1DZnJ1X1FnRW5rQTMwYklQdnRBT0dORXJHR0hWQS1MdWxRZmV4YklCMVFXZng4WHNKVFY2RVpVS3VPbFJqQlhQcmpB?oc=5",
-    "published": "2026-09-11 04:00",
-    "timestamp": 1789066800,
-    "summary": "NXP 반도체가 피지컬 AI 중심의 전략 전환을 추진한다. 이를 통해 데이터센터 부문에서 5억 달러의 매출을 기록할 것으로 예상된다."
   }
 ]
