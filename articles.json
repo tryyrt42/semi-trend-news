@@ -1,11 +1,83 @@
 [
   {
+    "company": "Marvell",
+    "title": "[GAM] 마벨 ① MS '마이아 300' 날개 달고 맞춤형 반도체 수혜 기대 - 뉴스핌",
+    "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE14WUdJd1NmSTBEUERvMWJkUjJrS3l1OXFUUnVyXzFmLVB1NjllTW1xXzF2UV9jOTJ0bV9FdjdyamFRT0hycmNhcy1LVnEyZXFfMkowbVVheWUwcGto?oc=5",
+    "published": "2026-10-15 02:43",
+    "timestamp": 1791999780,
+    "summary": "마벨이 마이크로소프트의 맞춤형 반도체인 '마이아 300' 개발에 협력하며 수혜가 기대된다는 내용이다."
+  },
+  {
+    "company": "Cerebras",
+    "title": "\"엔비디아만 독식 못 해\"…세레브라스 CEO \"상장으로 직원 1천명 백만장자\" - CBC뉴스",
+    "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE1DMFAyU1l0TF96WEJFZ1l2SElzdHpVUzFBaUxYUlFlaXVsU2xVZi04QjFmcWtvTnY5VGhtTjFMYjlkYnRCUTR5T211aE5yVVdhN09YdS1RTlNkODlzSWVUaG5Id0oyZ3hx?oc=5",
+    "published": "2026-10-15 01:30",
+    "timestamp": 1791995400,
+    "summary": "세레브라스 CEO가 기업공개(IPO)를 통해 직원 1천 명을 백만장자로 만들겠다고 밝혔다. 또한 엔비디아의 시장 독식에 대해 언급했다."
+  },
+  {
+    "company": "Kioxia",
+    "title": "키오시아, 엔터프라이즈 SSD용 직접 액체 냉각 지원 도입 - 스포츠 피플 타임즈",
+    "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE52X1k4amFaWlBTNy1UNUtiX3pqSXdjOG9FWW4tQm9jZjdRQl8xcTNtODlmVHF4MEFDVE1Ebk5HNGY0Vl84WjdaNnRDMHlROUIxWGhtaHhKUnctdlVCWVhLSHRJR1dFM1BGam0wYmVfQThWNTlUamRj0gF3QVVfeXFMTnZfWThqYVpaUFM3LVQ1S2JfempJd2M4b0VZbi1Cb2NmN1FCXzFxM204OWZUcXgwQUNUTURuTkc0ZjRWXzhaN1o2dEMweVE5QjFYaG1oeEpSdy12VUJZWEtIdElHV0UzUEZqbTBiZV9BOFY1OVRqZGM?oc=5",
+    "published": "2026-10-15 00:53",
+    "timestamp": 1791993193,
+    "summary": "키오시아가 엔터프라이즈 SSD 제품군에 직접 액체 냉각 지원 기술을 도입한다."
+  },
+  {
+    "company": "Intel",
+    "title": "존 힐리 인텔 부사장 “CPU·GPU·NPU가 맞물린 이기종 컴퓨팅이 피지컬 AI 가속의 열쇠” - 동아일보",
+    "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE9STmRWY0dqRzgteHNqWnNDTXBfRnpudTVKbFlNQW84N3JwYnNfNlJkbmMwNlN2d1JKUjQyV3ptNVFCcHR0T19Dd1Bjb2dQME5RcjlqeEdyWEl4S19yWTVUZnNYMG1mQdIBZkFVX3lxTE9STmRWY0dqRzgteHNqWnNDTXBfRnpudTVKbFlNQW84N3JwYnNfNlJkbmMwNlN2d1JKUjQyV3ptNVFCcHR0T19Dd1Bjb2dQME5RcjlqeEdyWEl4S19yWTVUZnNYMG1mQQ?oc=5",
+    "published": "2026-10-14 23:10",
+    "timestamp": 1791987029,
+    "summary": "존 힐리 인텔 부사장이 CPU, GPU, NPU가 결합된 이기종 컴퓨팅이 피지컬 AI 가속의 핵심이라고 밝혔다."
+  },
+  {
+    "company": "에이직랜드",
+    "title": "에이직랜드, 2나노·첨단 패키징으로 AI 반도체 시장 공략 - 데일리경제",
+    "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1mbDJZZVd5WHZVeDVRSk9jMVhsNVprUUFrVzk1T3NJczdDeXRKRTdDSmpLYWVnTk14UDhEaFFSN3dReUJjNEdIVm5DVnpmUG85M0t0Y2ZUeEdiVl9Bdm1kczY2MktQVF9KX1o4TQ?oc=5",
+    "published": "2026-10-14 22:40",
+    "timestamp": 1791985256,
+    "summary": "에이직랜드가 2나노 공정과 첨단 패키징 기술을 활용해 AI 반도체 시장 공략에 나선다."
+  },
+  {
+    "company": "에이직랜드",
+    "title": "SK하닉 'HBM' 보는 삼성 사장…에이직랜드의 TSMC 발언도 경청 - 아이뉴스24",
+    "link": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE5wXzRobm5aLXFfbFd0UHk1NnpKVlQ4N19UbkY1dndhUVBQT2ZiOU5UU0ROV0w0WVBWTVJ4SmdnVUd5ekFkNzFPZnlnSQ?oc=5",
+    "published": "2026-10-14 22:17",
+    "timestamp": 1791983857,
+    "summary": "삼성전자 사장이 SK하이닉스의 HBM을 언급하는 자리에서 에이직랜드의 TSMC 관련 발언을 경청했다."
+  },
+  {
+    "company": "Cerebras",
+    "title": "[세레브라스 CEO, AI 종말론에 반박… “AI 리더들, 공개 발언 자제해야 할지도”] AI에 대한 부정적인 인식의 일부가 데이터센터 산업이 AI 수요로 인해 만들어진 새로운 구축에 접근하는 방식과 관련이 있다고 - AI넷",
+    "link": "https://news.google.com/rss/articles/CBMiQEFVX3lxTFBQcll5LXF3QzN6d2t0Uk9reGNsODVSQWtOalM4Nm1lV2x5U0Z5MjdMMDZpS0FKYnFSeFd3ZXZYX2U?oc=5",
+    "published": "2026-10-14 21:58",
+    "timestamp": 1791982715,
+    "summary": "세레브라스 CEO가 AI 종말론에 반박하며 AI 리더들의 신중한 발언을 촉구했다. 또한 AI에 대한 부정적 인식이 데이터센터 산업의 구축 방식과 관련이 있다고 언급했다."
+  },
+  {
+    "company": "Siemens",
+    "title": "IBM·Siemens, nanostack 트랜지스터 개발 협력 - Investing.com 한국어",
+    "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTFB4aEIxMmlXR2VjY1g5MUp1clVOeEtfZjAwYTRaVWhVMGVMNGwwdzUzdUtLdEtpczJaTjFOZk5oc2RNNnA0NFQxMGhQb3NNdXRMdWo3NzRWRGp0eGJjc3FzNnlBcDNwNjZwd3ptUnRjTVk?oc=5",
+    "published": "2026-10-14 21:25",
+    "timestamp": 1791980700,
+    "summary": "IBM과 Siemens가 nanostack 트랜지스터 개발을 위해 협력한다."
+  },
+  {
     "company": "패러데이",
     "title": "패러데이 퓨처, 로봇 사업 FFR 매각 본계약 체결…사업가치 약 2억 달러 - 데이터투자",
     "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTFBseldSLXIxRzgwV2ljRHNOcjBKZktGMlZkNDcyV2pZckNsTG84am05SEMyT0ZRUUpyQ3FyU3dXTzlDQTlXVzg0a2pfc3BtV002dlVlQXY0UG5FaTNfT09QczJVa0dhQi1ZZHJmTHlxUk1JZmM?oc=5",
     "published": "2026-10-14 20:41",
     "timestamp": 1791978116,
     "summary": "패러데이 퓨처가 로봇 사업 부문인 FFR을 매각하는 본계약을 체결했다. 해당 사업의 가치는 약 2억 달러로 평가되었다."
+  },
+  {
+    "company": "Samsung Foundry",
+    "title": "하정우 AI 부위원장 ＂삼성 파운드리·피지컬 AI 기대＂ - 한국경제TV",
+    "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE5scktLOFVsd0hDcHUtcEkwYkRHRklTR3F3NzFBc2F5UjE4ZlBrV0o2b3BxV1ducllJWmNQeUVRekNqaXZpaWJ3MnRDVDdNWlE1RG5yZnFoM0V2RVhsVXhGYWNnUU0xLVlSNnRmb180QW9kNUFRaDZJ?oc=5",
+    "published": "2026-10-14 20:25",
+    "timestamp": 1791977100,
+    "summary": "하정우 AI 부위원장이 삼성 파운드리와 피지컬 AI 분야에 대한 기대감을 표명했다."
   },
   {
     "company": "NVIDIA",
@@ -46,6 +118,14 @@
     "published": "2026-10-14 19:13",
     "timestamp": 1791972805,
     "summary": "엔비디아 AI 기술센터의 송도 유치 가능성에 대한 관심이 높아지고 있다."
+  },
+  {
+    "company": "에이직랜드",
+    "title": "에이직랜드, AI 반도체 설계부터 양산까지…‘SEDEX 2026’서 기술력 뽐낸다 - 리드경제",
+    "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE4wcXE3VXJQd3UxT2V0YUtaU3lvXzBBQUYzc3d3UXVUcnUwaWZLZFIyU2JqQkxBSzlJTUc2NzhLa2FFT3pxc01wS3QwZ3dqS04xVVpRa2ZPWEVyQU1mMXZkVFJPTjYwR3RGZzVaazFtcXk?oc=5",
+    "published": "2026-10-14 18:30",
+    "timestamp": 1791970224,
+    "summary": "에이직랜드가 SEDEX 2026에 참가하여 AI 반도체 설계부터 양산까지의 기술력을 선보일 예정이다."
   },
   {
     "company": "NVIDIA",
@@ -222,14 +302,6 @@
     "published": "2026-10-14 15:30",
     "timestamp": 1791959400,
     "summary": "키오시아가 엔터프라이즈 SSD를 위한 직접 액체 냉각 지원 기능을 도입했다."
-  },
-  {
-    "company": "Kioxia",
-    "title": "키오시아, 엔터프라이즈 SSD용 직접 액체 냉각 지원 도입 - press.theleader.kr",
-    "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE1WT0t4TmZGUnJWLUp0WGl0dF8zRjJDRWJNY2lVUG15R01tNDhBbDh5NTljODNTeDV1WjFsQnNtUkZOTWFuM1NfWlZmRFRhRnBQYmlKOWRlQ0xOajdzNGNN?oc=5",
-    "published": "2026-10-14 15:30",
-    "timestamp": 1791959400,
-    "summary": "키오시아가 엔터프라이즈 SSD 제품군에 직접 액체 냉각 지원을 도입한다."
   },
   {
     "company": "NVIDIA",
@@ -830,6 +902,14 @@
     "published": "2026-10-13 22:09",
     "timestamp": 1791896940,
     "summary": "마벨 테크놀로지가 AI 인프라 구축을 위한 연결 칩 2종을 새롭게 출시했다."
+  },
+  {
+    "company": "Broadcom",
+    "title": "하원, 도박꾼에 경고…브로드컴 탄 CEO 발언에 반도체株 출렁 - Cryptopolitan",
+    "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE5zVFB3bWgweDJ1aXJVUUxqazcwTnluRExNNVhrc3AzQ3VYQVJ1SXRVNXdwZjkwd3hhWFBnUXhwV3ZRR1FPMzZONXU0SFdOV1BCQ09kdUxaLUMzaG9rZmlpU2EtamlrRlpHM0dzRGJzOWdCbXRFd3c?oc=5",
+    "published": "2026-10-13 21:47",
+    "timestamp": 1791895672,
+    "summary": "브로드컴 CEO의 발언으로 인해 반도체 주가가 변동했다. 해당 발언은 하원 도박꾼에 대한 경고와 관련이 있다."
   },
   {
     "company": "AMD",
@@ -1446,14 +1526,6 @@
     "published": "2026-10-13 04:41",
     "timestamp": 1791834075,
     "summary": "Broadcom CEO는 AI가 빠르게 확장됨에 따라 대규모 자본 제약이 발생하고 있다고 밝혔다."
-  },
-  {
-    "company": "Intel",
-    "title": "인텔, OCP 서밋서 AI 추론용 GPU D-시리즈 공개 - Investing.com 한국어",
-    "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1MMkt4bTRwTUs2MkNka3VJOVdmWFhVM1FQWGhTTWlOc2dWb3ZqeU8xYjR6Q3lVcC1zb3ZZOVZTYlVua2hUdUtiODltaXBrMmhnVkhTUGUtRVFPeXhCUWNEVHRwcHdYQVFEaU1pelYteUs?oc=5",
-    "published": "2026-10-13 04:37",
-    "timestamp": 1791833820,
-    "summary": "인텔이 OCP 서밋에서 AI 추론용 GPU D-시리즈를 공개했다."
   },
   {
     "company": "Microsoft",
@@ -4086,14 +4158,6 @@
     "published": "2026-10-02 07:42",
     "timestamp": 1790894540,
     "summary": "메타가 내년부터 자체 개발한 AI 칩을 투입할 계획을 밝히며 엔비디아에 대한 견제에 나섰다."
-  },
-  {
-    "company": "Broadcom",
-    "title": "브로드컴, 앤트로픽에 최대 420억달러 대출…AI 칩 투자 확대 - 포커스온경제",
-    "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE1EcDhvcTlNSG5razZkalNvWUFVVjFydjFJZEZZVWQwVllzaGFhVkxrcXRLZTdUSGlYOHZoaVQxOUx1V2JIdVNVYS1lYnE3UVFjUi1YWFNpNzZ2T21acHc?oc=5",
-    "published": "2026-10-02 07:00",
-    "timestamp": 1790892021,
-    "summary": "브로드컴이 앤트로픽에 최대 420억 달러를 대출하며 AI 칩 투자를 확대한다."
   },
   {
     "company": "Synaptics",
@@ -6782,13 +6846,5 @@
     "published": "2026-09-15 05:55",
     "timestamp": 1789419300,
     "summary": "중국이 AI 에이전트 EDA 기술을 통해 시놉시스가 독점하고 있는 시장에 대응하고 있다. 이를 통해 칩 설계 기간을 기존 대비 1/4로 단축하겠다고 밝혔다."
-  },
-  {
-    "company": "STMicroelectronics",
-    "title": "ST마이크로일렉트로닉스, 연속 전도 모드 설계를 간소화하는 고집적 역률 보정 컨트롤러 출시 - 올포칩",
-    "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBIOWRYNHJIdnJOcFJsMXFvUGkxdVFqT1QwWmRsenVpMEJiYVA1bFktYWFPbVRXTG5xNkpUYkZvYlR5Wk9Cc1llVE1SeWxtS0k2am9sM3R5ZUJsbFE1bV9nLQ?oc=5",
-    "published": "2026-09-15 02:47",
-    "timestamp": 1789408041,
-    "summary": "ST마이크로일렉트로닉스가 연속 전도 모드 설계를 간소화하는 고집적 역률 보정 컨트롤러를 출시했다."
   }
 ]
