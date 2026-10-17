@@ -1,11 +1,59 @@
 [
   {
+    "company": "Intel",
+    "title": "인텔은 2028년까지 레이저 레이크 AX 프로세서를 출시하기 위한 로드맵을 공개했습니다. - GameGPU",
+    "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxONnBxeGJCdWZMZm5kb2NSa2cxbU9qQjIxdWZhcVNBN05aazFsS0VvZ0RRU1FXRGZPZ3pnb2pVWFdLREdDdjdBN1hFZDN0bFl6UlVBdWZxZ2l3U1dGVTg2UE04YXBZdlRCRmVwemQ4UUtYN1NBVXJvdHgzcmJnOTFwMmVoRndpOG5wTWZOR3lZNWdqNmd1UXR5UVlvR0lmanVCN25pM2NScm13Zk9aWDEzZjVZU1N5MkdJ?oc=5",
+    "published": "2026-10-18 08:51",
+    "timestamp": 1792281071,
+    "summary": "인텔이 2028년까지 레이저 레이크 AX 프로세서를 출시하기 위한 로드맵을 공개했다."
+  },
+  {
+    "company": "딥엑스",
+    "title": "[만나보니] 딥엑스 김녹원 \"인텔과 기술협력 본격화…AMD와도 논의\" - 연합뉴스",
+    "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE00RHlBMW1Tc19CQzBnNDhjS2NudTUxUmhqM1A3WE9Zb0h0UzFuZzBhOGQ5SDdOcjZjbW9xLWVHVGxrWjN4bWlNQ0xHRjUzdUR4bG9oQTBSNW1iN2VWTThSVdIBYEFVX3lxTE00RHlBMW1Tc19CQzBnNDhjS2NudTUxUmhqM1A3WE9Zb0h0UzFuZzBhOGQ5SDdOcjZjbW9xLWVHVGxrWjN4bWlNQ0xHRjUzdUR4bG9oQTBSNW1iN2VWTThSVQ?oc=5",
+    "published": "2026-10-18 07:00",
+    "timestamp": 1792274409,
+    "summary": "딥엑스 김녹원 대표가 인텔과의 기술 협력을 본격화하며 AMD와도 협력 방안을 논의 중이라고 밝혔다."
+  },
+  {
+    "company": "NVIDIA",
+    "title": "HBM 넘어 HBF까지…SK하이닉스-엔비디아 동맹 빛난 차세대 라인업 - 파이낸셜포스트",
+    "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE5nQjlWb2JYUW5IQW80OHhjdHpITUUzakROQ2swSzRFYzIydlV3a2k5ZEtreVhPbHlIS2J1NTgtb2JjUlVQd25fNGtQRW4wZV90aTdGVHRObVA0SVdMRzZDb1pqQ09rWTc2ZDRiRkJZZ0RyTHNO?oc=5",
+    "published": "2026-10-18 07:00",
+    "timestamp": 1792274400,
+    "summary": "SK하이닉스와 엔비디아가 협력하여 HBM을 넘어 HBF까지 아우르는 차세대 라인업을 선보인다."
+  },
+  {
+    "company": "Apple",
+    "title": "머스크 이어 애플 CEO도 \"중국산 검토\"… K메모리 가격 주도권 흔들리나 - 핀포인트뉴스",
+    "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE5SZVNsdjFaN1hYQmc3UVRYTjJkb29nSENPWXZqQ3lsaVlaSjF3MlJaZ0dsLUQzcjBGTFJSYjFFYTAtdUlYeEFHdWhfOUhwMV9sV0hiRk1qRlpPaWgyWkN1UEs5cHBENHJWcXdvWXRHcWgzaG8?oc=5",
+    "published": "2026-10-18 06:57",
+    "timestamp": 1792274272,
+    "summary": "애플 CEO가 중국산 메모리 사용을 검토하고 있다. 이로 인해 한국 메모리 반도체의 가격 주도권이 흔들릴 가능성이 제기된다."
+  },
+  {
+    "company": "NVIDIA",
+    "title": "NVIDIA, 전 세계 6개 도시에서 RTX Spark 출시 기념 행사 개최 - Unite.AI",
+    "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPTy1nbjRHSzhHeXZCWWhmcVlMaWZ4M3NtZUZybmd1LW5CM0JjamxvZ2xXUHJySkpvTFMxcUZKYnctTS1GSGxseXhnb1ExeWxNN1pqek9FNUh3eEx4MDNSbzdHMHpWT0pqMFE2b0l0eEl0SHFDUDRSZGZCUU15YWhrTVN0a0wtQkpOa1BDdA?oc=5",
+    "published": "2026-10-18 06:34",
+    "timestamp": 1792272870,
+    "summary": "NVIDIA가 전 세계 6개 도시에서 RTX Spark 출시 기념 행사를 개최한다."
+  },
+  {
     "company": "파두",
     "title": "파두, 227억원 기업용 SSD 컨트롤러 공급 - 비건뉴스",
     "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFBOMHRfbjlQUk9uazJyZXhkRE5jMG94OERuYmpoeGxBOFVIREJKZkJKZVdjNy03MEJ0N3FwS0l3X1ppZkowOTdFTGd4VDg4MDAtbnhGeGhmODNJNVN2a1pHRjRVamhNZw?oc=5",
     "published": "2026-10-18 05:07",
     "timestamp": 1792267664,
     "summary": "파두가 227억 원 규모의 기업용 SSD 컨트롤러 공급 계약을 체결했다."
+  },
+  {
+    "company": "Qualcomm",
+    "title": "퀄컴, Arm 라이선스 위반 평결…배상액은 2달러 - 토큰포스트",
+    "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE1OZUhVTVRjMmpzcmh6YTZYZ0tiN3NoTjkzcEQ5OVkyWUJOdVo1R2dsNEM1NTVNVjV4Rk9hemRtcVR4dWJrQ0cxbW1kZHNJQXAxU0d6R3pRWVI?oc=5",
+    "published": "2026-10-18 03:05",
+    "timestamp": 1792260302,
+    "summary": "퀄컴이 Arm과의 라이선스 위반 소송에서 평결을 받았다. 해당 사건의 배상액은 2달러로 결정되었다."
   },
   {
     "company": "NVIDIA",
@@ -46,6 +94,14 @@
     "published": "2026-10-17 21:35",
     "timestamp": 1792240500,
     "summary": "엔비디아가 128GB 메모리를 탑재한 'RTX 스파크'를 한국에 출시하며 로컬 AI 시장 공략에 나섰다."
+  },
+  {
+    "company": "라온텍",
+    "title": "라온텍 에스엔디스플레이 - 김보은 라온텍 대표(오른쪽)와 이태우 에스엔디스플레이 대표가 15일 업무협약을 체결한 뒤 기념촬영하고 있다. 〈사진 라온텍 제공〉 - 전자신문",
+    "link": "https://news.google.com/rss/articles/CBMijwtBVV95cUxNVHAtRG1qSEVvdG54NUlnVzh6MFlteFdMeXpsdFpkbXFXcUFIYURCUUY3NzNrZGp1S3ljamJHU19ubUNhY3BKaU50ekx5LVVreGY0OW9nczdkNHR4RFZ5bmYyUHU2cWlNRmZJUGk5Y044NTJONi1EVWl0QTJQcXEtRHZWc0FnOHhHd2NqcmZwbHBGMEhjQjZmRmRVWV9DZTY2cDJza19oT1hkNGtWS21kTUJiRGlNa0hWRTBhb1E2N096Vlo5UzBRS0g3MHM3SF93RDhJdVVuand6bDVwQmVKQnRiNnRyOE9DSkpYU3lxZGhzUkpsbTV2TnJybGdjU3o5VDV1TjFLb1Jxdmg4V3dLaTNKQ1VCMUdxSEotc1Z2N3VLYmxEUnp2QVdTN2JPYUZoZlZmdXlQYlZvQmhVRVJaWlpTdDNPMmNEa2hFbFEzM0x3OHpXOW9xYW9LbDBGY2ZUN3FLR2tCWVZhTFJEOWZsa3g5Zmhrai1mb2dIdDdnX3NtR0EzZ3FDMXRCNVlKS0t6bUpqa0Y2bjg4R1U4eG5UWEdnZm1FdVNPalhWcWNKMlFYSGZrZXlsczVoOUZkN1ZuNWhFSEhfTzltUU9BRHdyNWhmRU5yUDVTSXFoMXBsMTR6SHc3VlZWR3FOZ3NGcGVyWFotRmZ4M0c3Tm91bjQ1dGw2VDkzYVhQR21rSVlmSTc5V2lkdWt3LXpwTTNqRWVLR1NqMV80emszYmdlREp6SktfMTVoNmhHZzRYUW9kYldWNTAyR19ybHdydmlkM2hLcGM1bk41djQtR2FDZHdsdFFDZzdpcV84aEp2dWF2dWRjWHVhN1JxREVnYk5pbHpLcmUtNGRocm52bE9mZkx3MUhlTlFNVk1OWHptZEdlY3ZJVTdRQmNPUFd1YVRidnB3NmIteHFVLXZtX1JmTkFBemJwdWx0NC1ZeUZ1d2NiZDNfU29TVnVJU08tcjJyWHdaSVhfZGxKNVRrZTBXM0ljR25DcVkzRjlqRFdQUEd4NXdYMlgtZXVoTnh0ejctamY1QW1nRVlRa3ZjZ1FPczdvc1BoTWVUdGR4ekh6eGk4M2JIcnM0VXBPc3pkclp3WkRremd1dlYwV044YnZvNXI4WmZrY1hFRWd6THRCLTk2eFdRSHZyWEVCNjJET1YzVW96dDZ3NXJWVXc4YzNXWWhvREd3N2x3S0J0VUplMHZ6cWV1MnRfUlk1UXU5aEpLTmlaYkRCTFYyeHF1RlBJZnIxWHp2ak40Y0JiZ0hrX2x1ZU1DZTdtRjdKNVdGZTNONmp0VXRjTnF4NWxxWnQtbVFKcGtYYUxRM2pJNnM1aGRKVmJLbEZFZFB4alc0UnhKWi1lbTJSWmtoZHU0bXctemJTTVJkWWNPbWtwX0RWOHYtdEYtdFc5NlFoM2c4UmN3ajFFQWNqZk5pQUJiWUVuUTNhRE5ISHFGNTVETXdJMHlwNVRUbTkwcVNaTGdGUVprS3I3SnhLa0hBREc2WFNRODBLcVY3QmY4ck9CVHlNSVZISVdwYlUzbC1KdkQ2TXlpQ0hZQU1SM01PbXBaSkQxZWxiMnpxa25xMGZCd3loVC1aeVJWSzV2dTU5OXRpUDRQOTVWNzZtSmZpbzZVUy00dklmVGdKdGRYSl9wVEstdC1wZnpieUNia25GX1lhRW9ud0tYMUNDR3Y3dWNxOFppOUgzVklJUXBCcVhqa2FwZ3RRd1Zja0F5cW5UdDZETE0taURWeFdzV05DaWxPRldVYXpfWjNYdVFja1BOT1g2Z180QWxJZE1lc0hNTWo5a3F4bUZLS09OV3dFRnd6cHZRdXB6T1E4NE8xTE40MS1JX29kRkYtczByOHlfU0YzTGl2MGdMV0ctNUJwR0htMzEzZmFF?oc=5",
+    "published": "2026-10-17 20:40",
+    "timestamp": 1792237235,
+    "summary": "라온텍과 에스엔디스플레이가 15일 업무협약을 체결했다. 양사 대표가 참석한 가운데 기념 촬영을 진행했다."
   },
   {
     "company": "TSMC",
@@ -606,22 +662,6 @@
     "published": "2026-10-16 14:59",
     "timestamp": 1792130344,
     "summary": "인텔이 휴머노이드 로봇용 시스템온칩(SoC)인 '레이저 레이크 AX'를 출시했다."
-  },
-  {
-    "company": "NVIDIA",
-    "title": "엔비디아, 비전베이 차세대 AI 팩토리 설계 공개 - elec4",
-    "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE5YczlET3Bac0ZNdmotN2V3eUV6Rlk2RWl5dHRNQTJ2NWg3SmEtT2RVQ2hWRTV4VHFQTUYtTXR6bEFLTWdzLTFtVVZUdzkzZW5lNUNJdU9qNVlKXzJYTWFGNVBiX1NqYlZfaFExY0FB?oc=5",
-    "published": "2026-10-16 14:51",
-    "timestamp": 1792129892,
-    "summary": "엔비디아가 비전베이의 차세대 AI 팩토리 설계를 공개했다."
-  },
-  {
-    "company": "NVIDIA",
-    "title": "엔비디아, AI 데이터센터 ‘운영체제’ 되려는 승부수 던졌다 - e4ds news",
-    "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE82NlhnODFqMmJZMUxwT294dWJyb2JucTV6YXkzS0NOZFBJWkNtVGpRdFNOT1M4d3JQeHFPbTJHVFduU3MwaXJheHdQWGRROVFzbGZJazJn?oc=5",
-    "published": "2026-10-16 14:26",
-    "timestamp": 1792128367,
-    "summary": "엔비디아가 AI 데이터센터 운영체제 시장 진출을 위한 전략을 추진한다."
   },
   {
     "company": "TSMC",
@@ -2062,14 +2102,6 @@
     "published": "2026-10-14 15:20",
     "timestamp": 1791958826,
     "summary": "인텔이 단일 SoC와 오픈비노를 활용해 피지컬 AI 시장을 공략하며 로보틱스 상용화를 가속화한다."
-  },
-  {
-    "company": "Intel",
-    "title": "인텔·KAIST, 다크팩토리 상용화 추진… \"공장 전체가 로봇\" - 머니투데이 - 머니투데이",
-    "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBGTmoyR1VDN1kzRHZrUGcyZVZkakpoM0l0TXh4bmExNHllLTFFbUpSM196SEcyYjJwaXpzOTYwODl1bUdQRWF5dTR2eFdmUHBzTFpGRWpyVDd5ZUxfUzNOdzZ2RWhkQXPSAWxBVV95cUxOREZLVW5vSV9KMTBtQ19sbHpVdkJYcWh3QkVib2JfbjltZW42eW1wTzRQRHh2d1VScUtlb1dqdHdfWU9DSFFBMDlfY19vRVZRRW5hVEx1VkUycXZZbHc5cTl5bGlURFNuQzNHdmQ?oc=5",
-    "published": "2026-10-14 15:13",
-    "timestamp": 1791958421,
-    "summary": "인텔과 KAIST가 공장 전체를 로봇으로 운영하는 다크팩토리 상용화를 추진한다."
   },
   {
     "company": "가온칩스",
@@ -3808,14 +3840,6 @@
     "summary": "일론 머스크가 테라팹을 테슬라와 스페이스X가 직접 운영한다고 밝혔다. TSMC의 참여 가능성은 일축했다."
   },
   {
-    "company": "Qualcomm",
-    "title": "로봇 학습 데이터 기업 메카, 803억 원 유치…삼성·퀄컴 참여 - AI 매터스",
-    "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE1zQ2xkaVM0YTAyTi10VjhnVFR6bkpDS2d1NGNvRnFMblJJOVFKSGRVM0tRNVF2QXI5dGFfMF9HQ1VfLTUzd19VRGp1bUN5Q3I4ZUFaZA?oc=5",
-    "published": "2026-10-08 14:12",
-    "timestamp": 1791436338,
-    "summary": "로봇 학습 데이터 기업 메카가 803억 원 규모의 투자를 유치했으며, 삼성과 퀄컴이 해당 투자에 참여했다."
-  },
-  {
     "company": "가온칩스",
     "title": "가온칩스, 76억7300만원 규모 주문형 반도체 설계 개발 계약 체결 - 디지털투데이",
     "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE9NTERjRnVGM3JkR1hVeFVNN2VEcE9oYlhpTFdEUExldG1vanM0STZnU1VKMVg5dTRyTVNvWWhjZDI3WVFVdTM1ZjNId3lPSHgweDRPQ3ZmWUNoSlhvTW9fS2J5dWNkY1pTdmNFUk54aXlESl9PdE5VTVYwSQ?oc=5",
@@ -4622,14 +4646,6 @@
     "published": "2026-10-05 08:36",
     "timestamp": 1791156990,
     "summary": "퓨리오사AI가 레니게이드 양산과 유럽 시장 검증을 병행하며 8,000억 원 규모의 투자 유치 마무리를 앞두고 있다."
-  },
-  {
-    "company": "Apple",
-    "title": "\"공급망의 왕\" 애플의 위기…터너스의 애플은 어떤 모습일까 - v.daum.net",
-    "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFBWZllpN25pbXdSOU1UYjlBdjBqQ0R0NU1abzVreFJNcWdIWDZmSkJ5bXd4VkhmZUQ4ZXpud1VBOFpPTkJsbUhzSTUtSkZuV28?oc=5",
-    "published": "2026-10-05 08:02",
-    "timestamp": 1791154931,
-    "summary": "애플의 공급망 관리 위기와 관련하여 터너스의 향후 경영 방향성에 대한 분석을 다룬다."
   },
   {
     "company": "OpenAI",
@@ -6192,14 +6208,6 @@
     "summary": "메타의 AI 에이전트 '뮤즈'에서 취약점이 발견되어 보안 경고가 강화되었다."
   },
   {
-    "company": "딥엑스",
-    "title": "“NYSE·나스닥 러브콜 받아도 한국 먼저”…딥엑스, 내년 IPO 준비 검토 - v.daum.net",
-    "link": "https://news.google.com/rss/articles/CBMiS0FVX3lxTFAwUlhtVVU5azVZRVc2WVBHaURXRklyMDlzTTdCaU1QUGs1QllrWV9NaUtrRTFjdkhpQXp2TmU5Wm1FSWJUcThxVVQxMA?oc=5",
-    "published": "2026-09-26 21:30",
-    "timestamp": 1790425800,
-    "summary": "딥엑스가 NYSE와 나스닥의 상장 제안에도 불구하고 한국 증시 상장을 우선적으로 고려하며 내년 IPO 준비를 검토하고 있다."
-  },
-  {
     "company": "Tesla",
     "title": "4억 짜리 전기 트럭 테슬라 세미, 공개 9년 만에 첫 고객 인도, 연 5만대 생산 목표 - 엠투데이",
     "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE5jVDhYcEZsMV9TS3lmZE1uaWtUc3h3dkpRTWtJaDBDQmpBUWdMSGpFcl9XNzVZQ3pmcDI4ck00YWUwQ196VmlMUnprZUhtbTJYcmZwelNUdjlQYkhQZWVvc1RuczlpQy1UME9NVVlkRQ?oc=5",
@@ -7006,29 +7014,5 @@
     "published": "2026-09-18 09:51",
     "timestamp": 1789692664,
     "summary": "미디어텍이 신형 모바일 프로세서인 디멘시티 9600M을 공개했다. 해당 제품은 기존 디멘시티 9500의 사양을 재활용한 것으로 알려졌다."
-  },
-  {
-    "company": "Groq",
-    "title": "스페이스X, 파산 위기 스타트업 데이터 인수 논의…그록 학습에 쓸까 - 디지털투데이",
-    "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE9DSW96cGJwX3ZfSkJ4ZVdkekhlTXhZUHExWVNseG1UM0ZBNHY2MzlCNUV3WnlTcEllNVdEa3ctVTRmZ3lxMXRBakJka0czaWJBcDlqWlo0emwzckhjN0Y2ZEpqZEJidHZrWnVINHVPRjFEWms?oc=5",
-    "published": "2026-09-18 08:32",
-    "timestamp": 1789687969,
-    "summary": "스페이스X가 파산 위기에 처한 스타트업의 데이터를 인수하는 방안을 논의 중이다. 해당 데이터는 그록의 학습에 활용될 가능성이 거론되고 있다."
-  },
-  {
-    "company": "Renesas",
-    "title": "르네사스, ADAS 카메라용 SW 개발 한 번에 해결 - 전자신문",
-    "link": "https://news.google.com/rss/articles/CBMizwRBVV95cUxPN1N1cTVDUTdiYkZkQXVZdlNwMlVicUoyRm9yTmhPbzhpRGJIWkk1aVd6RlpDaW5nSTlmMFFyYV91MWxuSWJwQXlkOU5SdVB3SkU0V0o0d0NTb0ZJWlFMQWM4Y2VVYUdQSllNLTB0QWtoTFFwS0xvakpaaGtRVTlxYkxvYTVmczVQR3B6dXV4MENiYjVQdjhfZ3BSeUdkTUxoNFdJRm5XTlRtTHFsRHg2ZTl0QmxsMUhOQUI4b1RqVElhcGlJdUFqbFozU2Z4TUhsSThmcnc2WlVoM2FUanBydGF5dEdBMURieDhoQVUyV3hGOGI5X3UtLTBDMjh4Wkp2c0V0NDVhYnRic1VSVURiZDVKUHNZZ251TmVWM2JzM09zb0dla25GUmh5ZzhIRko0dGNOZjdkV3o1QU5FSFg2aXhlY2s0c0VRd1VaT0pTc0haSFBpWk50T3V1NWxlRnRoTjRYMS1Bcjdnb2VkbXJ1OWlYd3VkY3NUQlNCaWRQR1FoOVB4NTE3YlQ0YWVpYzlOQXVaMlptQkNTSUhZN1c4bi1wc2Qtc2pteUQ0UExiNEdyQktwODRBQVphSTB5Z0pZcWk3WEsxOWtXRDNxLXBkQ0pFcm9fdlVEVjF6SnVxZ1VmZEM4LVZrUWhlSFdoSWxzLTlQZU5JaF9vbGt4dVloelRvaUd3NGxJWVVWam1kVmJXcFdvNEdLSXVsVjV5VG8xcXFVSTBXcUdzamlseHFkYkdoTm1YQ0FvdExtcFZXLTNtZmtjY0lDME1sNEMxLU0?oc=5",
-    "published": "2026-09-18 08:11",
-    "timestamp": 1789686686,
-    "summary": "르네사스가 ADAS 카메라용 소프트웨어 개발 과정을 통합적으로 해결하는 솔루션을 제공한다."
-  },
-  {
-    "company": "Samsung Foundry",
-    "title": "잡힐 듯 안 잡히는 TSMC…삼성 파운드리, 빅테크로 추격 - v.daum.net",
-    "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE1DSEVqbmFUeTl5T0pCN3gwNXNBNFpmOXc3WjJVYXpIam5idzNGWnJKNWZ3Q0REYnYzXzFvVFBTS3FjdTBPc2FEdDVjV3A4b0E?oc=5",
-    "published": "2026-09-18 06:01",
-    "timestamp": 1789678919,
-    "summary": "삼성 파운드리가 빅테크 기업들을 고객사로 확보하며 TSMC를 추격하고 있다."
   }
 ]
