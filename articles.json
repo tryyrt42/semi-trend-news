@@ -1,5 +1,37 @@
 [
   {
+    "company": "Intel",
+    "title": "인텔 레이저 레이크-AX 700 TOPS, 팬서 레이크의 3.88배…정밀도 기준은 미확인 - 위키트리",
+    "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5GZVl4X2w2NUpVeUk4TkdmUW11Ump6NEpSZnZBUU55Q3BudXlqWk43d2NmV2ZZOXRrMmVRWGFuRnN4MThXTU1BSmh3VGZaU3NLemQwbEtB?oc=5",
+    "published": "2026-10-18 23:24",
+    "timestamp": 1792333440,
+    "summary": "인텔의 레이저 레이크-AX가 팬서 레이크 대비 3.88배 높은 700 TOPS 성능을 기록함. 다만 정밀도 기준은 아직 확인되지 않음."
+  },
+  {
+    "company": "NVIDIA",
+    "title": "NVIDIA, GTC 베를린을 향해 유럽에 상륙하다 - NVIDIA",
+    "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE5ZLVJ3MXQxM0N2SGlwdE1WOVpubV9vYWFXNUkybU9HTkhBQTd2Yzc1VlpJN1VRZ21fUmxwZ2lqWGo0YVR2emU4a0gxbU9YT19WRjI1enp0dHRmWFgwM1lMWGJlOA?oc=5",
+    "published": "2026-10-18 22:25",
+    "timestamp": 1792329957,
+    "summary": "NVIDIA가 GTC 베를린 행사를 위해 유럽 시장에서 활동을 전개한다."
+  },
+  {
+    "company": "NVIDIA",
+    "title": "혁신적인 NVIDIA RTX Spark 플랫폼을 탑재한 ASUS ProArt P16은 인공지능(AI) 분야에 특화되어 있습니다. - Vietnam.vn",
+    "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNS05LdFdvMDg2Rno3VEJDX0YtV0dVamw4bnlscko0YnR2VWhRd2xwbjhVN01SekdWT2tnbEFRNjRiaEY2R1FET0E1T1V1MTlPUWpvVHI4MmVPM2dFXy1UQUYxQkVJbnZVcW1NVkh1cExWSHQxNmZlUG9jZ2JIS0dlZnhmb2owRDRiZUZadGN0SGdPRG13WHE0Vkdn?oc=5",
+    "published": "2026-10-18 21:32",
+    "timestamp": 1792326746,
+    "summary": "ASUS의 ProArt P16 노트북이 NVIDIA RTX Spark 플랫폼을 탑재하여 AI 분야에 특화된 성능을 제공한다."
+  },
+  {
+    "company": "Intel",
+    "title": "이스라엘 인텔 Fab 28 폭발로 2명 사망—반도체 공장 안전 사각지대를 짚다 - 유스연합",
+    "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE9UUWZ2a2pEM0h4UEpOTHNuZDh4SFBXQWxHdWRjdkNvN0labU9WWmhXLXRETld3eENDT015MTRFa01xdnpob0p6cUNmU3MzU1RsV1Bj?oc=5",
+    "published": "2026-10-18 21:27",
+    "timestamp": 1792326465,
+    "summary": "이스라엘 인텔 Fab 28에서 폭발 사고가 발생하여 2명이 사망함. 반도체 공장의 안전 관리 문제가 제기됨."
+  },
+  {
     "company": "NVIDIA",
     "title": "[반도체포커스] 삼성전자도 TSMC 3나노 수용…엔비디아, NVHBM 앞세워 차세대 메모리 규격 주도 - 이코노미트리뷴",
     "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTFB1TXYtby1Gcmo4TmY1WDZET0RjOXB6LTJQTXNLOG5FdENqWGtWMlAzSExFeGdmcEc1Q3VxUWxqY3JXRk1fNnhzY1pQVVZ4SVg2T0t4ZGE4djctQ0c5d1p0MU90bC1WOTRKZEMteEs2clVpYlhSUjJF?oc=5",
@@ -174,6 +206,14 @@
     "published": "2026-10-18 09:28",
     "timestamp": 1792283280,
     "summary": "엔비디아가 국내에 출시한 RTX 스파크는 맥북 프로 대비 2배 빠른 AI 작업 속도를 제공한다."
+  },
+  {
+    "company": "NVIDIA",
+    "title": "엔비디아 품은 현대차·기아⋯ ‘피지컬 AI’로 공장 ‘판’ 흔든다 - 브릿지경제",
+    "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9rUjVXdWpwSUFpVkkwOGZBRE1JNWY3ZGlwbDBWUjBQM3E5U3BZeUVaanBSRWNjU0d2UWpwRVlTNk1MclpMLVRLVXNZV200OWRfLXlsSWsxbTZndw?oc=5",
+    "published": "2026-10-18 09:07",
+    "timestamp": 1792282020,
+    "summary": "현대차와 기아가 엔비디아의 기술을 도입하여 피지컬 AI 기반의 공장 혁신을 추진한다."
   },
   {
     "company": "NVIDIA",
@@ -504,14 +544,6 @@
     "summary": "독일 정부가 엔비디아와의 AI 협력을 확인했다. 젠슨 황이 약속한 20억 달러 규모의 유럽 투자 계획이 베를린에 적용될지 여부가 주목된다."
   },
   {
-    "company": "NVIDIA",
-    "title": "NVIDIA ‘RTX Spark’ 정식 출시, 새로운 윈도우 PC 시대의 시작 - NVIDIA",
-    "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPOVBwYzQ0SzR2QXh4QkI3U2FwX3lMNkZyZGV5d0oyaXNVWlRTRklnZ2tmUU81emdPNzU5LVZMZXF6UjBQMGNJU0FyXzBHYkpTT2F1MzU5dk9uOUJid3hRemxTZC1vY3l4UXROYUJsMlE4WWFGcTk5QnZzekZtdE1DaUdSdnNxVTdXVGtPWnU1Q1BtR25GYzk4bnJjai1GZ0tJUnM0?oc=5",
-    "published": "2026-10-17 04:04",
-    "timestamp": 1792177453,
-    "summary": "NVIDIA가 새로운 윈도우 PC 시대를 여는 'RTX Spark'를 정식 출시했다."
-  },
-  {
     "company": "Microchip",
     "title": "마이크로칩, 데이터센터 솔루션 포트폴리오 확대 - elec4",
     "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE1VbWFFRmFzNGdQeUpQUUY4VDJhbXBoeXNDV21XODRqZkdVdVJRa2dnYTRWTXdQN3dPcEdrXzhIeUNhcFMwNmtkX2trbDM0MkJsbW92YkdNV0xhdG1fd0JxaGNvczNSYVdPRzhTcjBR?oc=5",
@@ -528,14 +560,6 @@
     "summary": "AMD RDNA 3 아키텍처에서 Ray Regeneration 1.2를 사용할 수 있게 되었으며, Crimson Desert의 FPS가 두 배로 감소했다."
   },
   {
-    "company": "NVIDIA",
-    "title": "엔비디아, 시스코와 차세대 AI 팩토리 위한 광 트랜시버 폼팩터 USFP 개발 추진 - elec4",
-    "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE9BWDJXWkxoRGhyYmE5TWgzTUY3NnlBT0kxUUJXYjAtdVpSSl9HVWpiY1p1VXBiSDRiVEtZMUpvNWtyaEVwcktZZVdEZEpnUFhoWHd0NG1VM3h6NVlpOWJiQTI2aW5QNFZ1Nk5VTWZn?oc=5",
-    "published": "2026-10-17 02:47",
-    "timestamp": 1792172829,
-    "summary": "엔비디아가 시스코와 차세대 AI 팩토리를 위한 광 트랜시버 폼팩터인 USFP 개발을 추진한다."
-  },
-  {
     "company": "TSMC",
     "title": "TSMC Record Quarter Highlights Unprecedented Demand for AI Chips - TIKR.com",
     "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE9QSVlDckJXOHhTd25oem9lV055ZndrUVFyNnVDaloxTHlXWVJxbzBtVHV2X0VXV0RNd0Vkc3ZtdjRoamdvbnRVOFJGOVlFbV9mT1hfdW5iMFVMbWpXOFphZ1BzdUxoaWlzclRncWVSTzJYZDhNTWdTX3AtQUxtQQ?oc=5",
@@ -550,14 +574,6 @@
     "published": "2026-10-17 01:03",
     "timestamp": 1792166598,
     "summary": "중국 지리자동차가 2027년 하반기부터 자사 글로벌 모델에 구글의 제미나이와 맵스를 탑재하기로 결정했다."
-  },
-  {
-    "company": "NVIDIA",
-    "title": "NVIDIA는 NVIDIA 마켓플레이스에서 GeForce RTX 5050과 RTX 5090을 삭제했습니다. - GameGPU",
-    "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOakhlbjlqc09qdS1FeVRJZDY1VmxLQmU4cFBIcEpwalNFeTN1YmdfNHB5SEhTOG00bWxvaWJHQlN6cERQUHFtWHVoMG02WTJELU9BMHppRDFSLWpNMnc2NzRTMGt0WVJFekhvQlRwZGNkQ2hydjZCYkNqV2dWejlyUXhoRGtIeElzek5nSU9sanhxOEhIZHpaR3ltXzNsY1JhaDRwLXhGb1dPVjNkM1VfdlFvYmc1UQ?oc=5",
-    "published": "2026-10-17 00:50",
-    "timestamp": 1792165806,
-    "summary": "NVIDIA가 마켓플레이스에서 GeForce RTX 5050과 RTX 5090 제품을 삭제했다."
   },
   {
     "company": "Apple",
@@ -2230,22 +2246,6 @@
     "published": "2026-10-14 15:45",
     "timestamp": 1791960317,
     "summary": "세코닉스가 렌즈 제조 기술을 바탕으로 차량용 조명 사업으로 영역을 확장하며 전장 부품 시장에서의 경쟁력을 강화하고 있다."
-  },
-  {
-    "company": "Intel",
-    "title": "인텔·마이크론 뚫고 HBM4까지…기술 앞세워 '고군분투' K소부장 - 글로벌이코노믹",
-    "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNZXpZVU14VjZkWGRLeS1FUHYxYjZUaDVzMHNuV3BMb0RUVnpWZkJMVzh1aERCRVdkcEVVa205V3hkbHlmSG02eGVELU9Zb0Y5eDhVaG1QNVplamZ3T1RvLVphaFN2ZEU5TTNLX3FwcXBvX3NkUWt0a1RCR1pqTHpZX2ttb3dxQQ?oc=5",
-    "published": "2026-10-14 15:42",
-    "timestamp": 1791960178,
-    "summary": "인텔과 마이크론을 상대로 HBM4 기술을 앞세워 한국 소부장 기업들이 고군분투하고 있다."
-  },
-  {
-    "company": "Intel",
-    "title": "휴머노이드 열풍 속 인텔의 승부수... '로봇 두뇌'로 韓 제조업 공략 - 데일리안",
-    "link": "https://news.google.com/rss/articles/CBMimAJBVV95cUxQRVFoQVNlRFZfZm5PNm1VOVBvLXpOODNMWEN3NWxiOC1raU1DRmttbU02TkE0Vml1dElZdkxMaUZFNDQ3eVIwUGRZUGE0RDdzektEbG9iT0x3bnhKNE9nbUV1NnlHSEd3WFZuOE1pdDdzbUVEa1E3M1pkUkVka2IzQVZONzl4cmU2aXNDSmowNENNOUQ1ZHhKdWdWbE5FbmVRcDV1VHpGbWRIRWxoeUlZVEVMM01maU1tX3VRVy1tbGkzcDBxQ1NrYm9KY3U0Q01QVGprSWk2ZEdpbkNCTlhSRFltN3JNeS1DVWdma3BiQkpLZDFpTEhtM2Juc0xpcVg0bHlibDJFSl81LW1PckxpT29PUmFYZzdw?oc=5",
-    "published": "2026-10-14 15:38",
-    "timestamp": 1791959880,
-    "summary": "인텔이 로봇 두뇌 기술을 앞세워 한국 제조업 시장 공략에 나선다."
   },
   {
     "company": "Kioxia",
@@ -7014,13 +7014,5 @@
     "published": "2026-09-19 02:37",
     "timestamp": 1789753020,
     "summary": "그록이 정확도를 향상시킨 보이스 트랜스크라이브 2.0을 출시했다."
-  },
-  {
-    "company": "Amazon",
-    "title": "앤트로픽, 아마존과 최대 5GW 계약…연말까지 약 1GW 가동 - 토큰포스트",
-    "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE9CTjlGdUpMUFZKWTEtT2ZGZEtCUnVLcjNjUkJvWi1jZmlnQ0NnYTJpcW1nM2xjT2hrSmlQeHp0OUlsTGtLWVRHSUQ3VUZXUXNkenNHU0Q0aG0?oc=5",
-    "published": "2026-09-18 21:42",
-    "timestamp": 1789735340,
-    "summary": "앤트로픽이 아마존과 최대 5GW 규모의 계약을 체결했다. 연말까지 약 1GW를 가동할 예정이다."
   }
 ]
