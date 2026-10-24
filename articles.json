@@ -1,5 +1,53 @@
 [
   {
+    "company": "TSMC",
+    "title": "\"HBM 잘 팔려도 안심 못 한다\"…삼성전자가 TSMC에 내줄 수 없는 핵심 시장 - 뉴시스",
+    "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE1XbjdTYnJfbDZYcEY4MkluRkUyd3c3Mjc5ZGZ0emtaSzZXMlJ3aXdqUzJzV21kTVdUWkVPcHJaMnJ4aUFGUjZYTEp4TkV4dVJBMm1FMk5OZkN1bFBqT3pvQ25Ed1NtNVh1c2g5QmZoNnJHbWo2WW94UdIBeEFVX3lxTE1XbjdTYnJfbDZYcEY4MkluRkUyd3c3Mjc5ZGZ0emtaSzZXMlJ3aXdqUzJzV21kTVdUWkVPcHJaMnJ4aUFGUjZYTEp4TkV4dVJBMm1FMk5OZkN1bFBqT3pvQ25Ed1NtNVh1c2g5QmZoNnJHbWo2WW94UQ?oc=5",
+    "published": "2026-10-25 00:00",
+    "timestamp": 1792854000,
+    "summary": "삼성전자가 TSMC에 내줄 수 없는 핵심 시장에 대해 다루고 있다. HBM 판매 호조와 별개로 삼성전자가 TSMC와의 경쟁에서 사수해야 할 시장을 언급한다."
+  },
+  {
+    "company": "NVIDIA",
+    "title": "[김대호 인물] 엔비디아 젠슨황 \"CXMT 메모리 도입\" - 글로벌이코노믹",
+    "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPVnI1Rl9SemVlanV5N0lOWUNkTnlybUljSjlZOWZsUFUzYkt0STNuX3RfU0pJbjNLQjA3TVZUeER1a0s4YWNGdUtQVENYOFg2YllCQjNERXlkSVQ2cml4S3g2OXd5alQ4bkQyWWhmMWt4MjYyM0IwU1YtcEN1LXpqRnNmd3BPRms0?oc=5",
+    "published": "2026-10-24 23:55",
+    "timestamp": 1792853700,
+    "summary": "엔비디아의 젠슨 황 CEO가 CXMT 메모리 도입 계획을 밝혔습니다."
+  },
+  {
+    "company": "AMD",
+    "title": "FSR 4.1은 AMD 그래픽 카드에서 서로 다른 컴퓨팅 모델을 사용합니다. - GameGPU",
+    "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQRk1YRURRNm1VTC15RzRJOGtnMG55U2ZlMmUwYU12UVFFMU5QY0VZTkljY0xxRENrY0lCVF9PdHdVbDByVW5JaGlZZ080bFhtdHktWE1kVXhUSW5nS2RjMHZLalBPQV9oQ05Ob25UTDJRdTJ4M1Z1a1Zua3V3a3dxR1JIdVdiTkpwQ21DQ3JkZzlGMXFTVW12LVVyMS1zOGNj?oc=5",
+    "published": "2026-10-24 23:44",
+    "timestamp": 1792853041,
+    "summary": "AMD 그래픽 카드에서 FSR 4.1 기술이 서로 다른 컴퓨팅 모델을 활용한다."
+  },
+  {
+    "company": "NVIDIA",
+    "title": "NVIDIA는 GeForce 621.01 드라이버에 심각한 오류가 있음을 공식적으로 인정했습니다. - GameGPU",
+    "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNR1REbDZlZWtMZ3U1NVZTY1k5RUt6Q2tudDI4YmNMX2RqcEN1NGNJY0pjTW5DdTRreE1FczJnakY0Vzc5b2Yxc3ZzRmJDcl9XSFltQ3EwTWxhb1EzSUNUY29icHUyeFRlQkRvWTluOV80SlVOX3Z5SmM3eDM4QmVaX2d2Vk5HdkN0UHhPRXR1c0FILWszNG5vTkFKbVZMZXdGUkRKbng4R2NCTTFIQ250SWFaaExKZw?oc=5",
+    "published": "2026-10-24 21:11",
+    "timestamp": 1792843883,
+    "summary": "NVIDIA가 GeForce 621.01 드라이버에 심각한 오류가 있음을 공식적으로 인정했습니다."
+  },
+  {
+    "company": "AMD",
+    "title": "AMD FSR 4는 화질 면에서 NVIDIA DLSS 4.5에 거의 근접했습니다. Cyberpunk 2077 - GameGPU",
+    "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOVVdGX2lhZWZpaUljbVVyT1NOQlBsX3FPMXhMWDlLVmRRWmZZOVh1eUZUZjNUekdMSEc3Vk1LY2dkS0Z5bldhOUZwemM3QnNuTTV4V1RmRFpJWEllRVM1X1N4dlNOWGtrV0NqeS1hekdNaVdYUW1VSU1HRm12U3pBYlRYVWpWN2VZdUlydTZnNkVydzhtWlFEeHBqX3dJNjR2S3QyOWdwblFSVDlkLUowbTlQTTZZT1Vu?oc=5",
+    "published": "2026-10-24 20:12",
+    "timestamp": 1792840371,
+    "summary": "AMD의 FSR 4 기술이 화질 면에서 NVIDIA의 DLSS 4.5 수준에 근접했습니다."
+  },
+  {
+    "company": "NVIDIA",
+    "title": "다쏘시스템-버티브, 엔비디아 AI 팩토리 설계 구축 협력 - 바이라인네트워크",
+    "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFBTWG9FTDd5OVJrRFN0NzY1MVYwREhqSV9WMDJTc3dHSFgxblBfOWhRRnlwNkhLa19ieFRPcUpyeWtzTmV0UmQzejIzY1luREE?oc=5",
+    "published": "2026-10-24 19:57",
+    "timestamp": 1792839422,
+    "summary": "다쏘시스템과 버티브가 엔비디아 AI 팩토리 설계 구축을 위해 협력합니다."
+  },
+  {
     "company": "NVIDIA",
     "title": "쿠카, AI 융합 2D·3D 비전 ‘iiQKA.AI 비전’ 전격 공개… 로봇 컨트롤러에 ‘엔비디아 젯슨 오린’ 내장 - 헬로티",
     "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE9QS2Nvb1JGMDF0eEs2dm9JZDQtakZFV1ZoY1YtbTBKNkQ0cmU5M3VaSGxIeTc0czlvS3ozakM0U25XTzhHUkM2dTd1anIza2hDNDR5MHByb3V1UWFfX0FR?oc=5",
@@ -16,6 +64,14 @@
     "summary": "삼성전기가 테슬라와 엔비디아의 AI 기판 증설에 대응한다. 삼성전기는 테슬라 자율주행차 옵티머스용 기판을 공급할 예정이다."
   },
   {
+    "company": "Tenstorrent",
+    "title": "텐스토렌트 15억달러 유치…테더 투자 참여, Whop도 2억달러 조달 - 토큰포스트",
+    "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5taDFMQTVFcDZmRjdoTGZzVi01TS1ENWI1MWwzRlZGRDhsUzBnVUQ2OEVCZWVfcENnSW5hcWpoQVJ1VkRFN3BsQjdnUjdvOUtqUTJQVGxn0gFWQVVfeXFMTm1oMUxBNUVwNmZGN2hMZnNWLTVNLUQ1YjUxbDNGVkZEOGxTMGdVRDY4RUJlZV9wQ2dJbmFxamhBUnVWREU3cGxCN2dSN285S2pRMlBUbGc?oc=5",
+    "published": "2026-10-24 18:41",
+    "timestamp": 1792834898,
+    "summary": "텐스토렌트가 15억 달러 규모의 투자를 유치했다. 이번 투자에는 테더가 참여했다."
+  },
+  {
     "company": "NVIDIA",
     "title": "삼성전기·엔비디아 전략적 파트너십 공식화…AI 기판 생산 확대...차세대 패키지기반 다년간 공급... - 재경일보",
     "link": "https://news.google.com/rss/articles/CBMiS0FVX3lxTFBuWkxHdzhZTjlyQ0V0Rk84TmFqaUVFZnRsemVOSjJoN1pOUEVId2dZVi0xdVpCMXdJb09kRDJsYUlrbS1tYThZWUF4UQ?oc=5",
@@ -30,6 +86,14 @@
     "published": "2026-10-24 17:00",
     "timestamp": 1792828824,
     "summary": "아마존이 배송한 AMD Ryzen 7 9800X3D 프로세서에서 금이 간 흔적과 써멀 페이스트 자국이 발견되었다."
+  },
+  {
+    "company": "NVIDIA",
+    "title": "중국 국영 통신망서 수출 금지 엔비디아 칩 또 포착…첨단 'B300' 32개 확인 - AI타임스",
+    "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE11Y0hQMWxqMVFIMGRJT2pvdWJIQjBkRGtpTkhBNDlPdGZSakNnOVRhWXpjcUE4V0tuU19hTU42OE9lT1hqcnhNUEZaaVdPLVUzZXplUEc4LUZidWROSzJKTXh4Y3JBcFB3TFE?oc=5",
+    "published": "2026-10-24 16:55",
+    "timestamp": 1792828500,
+    "summary": "중국 국영 통신망에서 수출 금지 대상인 엔비디아의 첨단 칩 B300 32개가 포착되었습니다."
   },
   {
     "company": "NVIDIA",
@@ -360,44 +424,12 @@
     "summary": "마이크로칩이 베트남에서 패키징 및 테스트 실습 워크숍을 개최했다."
   },
   {
-    "company": "NVIDIA",
-    "title": "중국 텔레콤 네트워크에서 수출 통제 대상 Nvidia Blackwell Ultra B300 GPU 32개 발견 - Mezha.net",
-    "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOLXQ3d3pGQTdydElKdmVQQ3lmQzRFYmhjcEk2WGZwbDJEa1RsdUd4TS1QbW9UcjQycmFpQjFMQ2EtY2JRUTN3bnhub25ZV2pTUmo4bG95cnpIQjVsd0VMV1dPTU9yMEJ3WFloVi1TUEZfQWh1emFtM1RLUjktUWpGcV9zTS11d0xKeXRKMzVTX1NuQXNrMHc0M0lOSTJUWEdnYXFF?oc=5",
-    "published": "2026-10-23 15:33",
-    "timestamp": 1792737180,
-    "summary": "중국 텔레콤 네트워크에서 수출 통제 대상인 Nvidia Blackwell Ultra B300 GPU 32개가 발견되었다."
-  },
-  {
     "company": "OpenAI",
     "title": "나스닥 흔든 AI 투자비…오픈AI도 몸값 눈높이 낮췄다 - 지디넷코리아",
     "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5sUkVjWlhYc01EZkNXMTVJOFFVMFdpTFl0Z2UxR2czRUlQZ2dSY1VkM09VUjdsbVpYUW11ci13Vk5fQlJnNnZHUnV0aEdfZjNHSFZ1bWJB?oc=5",
     "published": "2026-10-23 15:31",
     "timestamp": 1792737110,
     "summary": "오픈AI가 최근 투자비 부담과 시장 상황을 고려하여 기업가치 눈높이를 낮췄다."
-  },
-  {
-    "company": "NVIDIA",
-    "title": "자다라, 엔비디아 검증 통과…AI 클라우드 경쟁력 강화 - 지디넷코리아",
-    "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1hY0p2NElFWGVBZGNBVmRLejN3MTY3b0hPSm8yZjBKb0JnWlk3Rk14SlMxNjllTHpQZ2dsM0tkR1V3QUpxNFRiQndwYW1BbGZJZFdVbUJn?oc=5",
-    "published": "2026-10-23 15:21",
-    "timestamp": 1792736461,
-    "summary": "자다라가 엔비디아의 검증을 통과하며 AI 클라우드 경쟁력을 강화했다."
-  },
-  {
-    "company": "NVIDIA",
-    "title": "메르세데스-벤츠 x 엔비디아, 국내 시험차 운영 중… 핸즈프리 지원하나? - 오토뷰",
-    "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE5zaThnajJQZzR4MjVEd29uM3Bnd1BEdTVicjEydDlzRTdyMUNDckNjcmZnRVBIa2xHeWFhZ1RyenBVNFVHdHhTT1pDQ0VzRUhaUTVtNnc0Zmh4elRj?oc=5",
-    "published": "2026-10-23 15:16",
-    "timestamp": 1792736160,
-    "summary": "메르세데스-벤츠와 엔비디아가 협력하여 국내에서 시험차를 운영 중이며 핸즈프리 기능 지원 여부를 확인하고 있다."
-  },
-  {
-    "company": "NVIDIA",
-    "title": "다쏘시스템·버티브, 엔비디아 DSX 기반 AI 팩토리 설계·검증 고도화 - 더에이아이",
-    "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTFBBajNxaGFrQ1gtYUI5QVlXT1JoMVhZR3RIVGF2OUswWWtBSGZRSWw0b3FZMDg0MHJXRXRFUGdVeWJocHBNaENzaXZVZlV4Z3dIckUyRlcyTS15aDB0a19pSzdkeFlDUzFjb2lF?oc=5",
-    "published": "2026-10-23 15:14",
-    "timestamp": 1792736082,
-    "summary": "다쏘시스템과 버티브가 엔비디아 DSX 기반의 AI 팩토리 설계 및 검증을 고도화한다."
   },
   {
     "company": "TSMC",
@@ -2560,14 +2592,6 @@
     "summary": "퀄컴 임원이 스냅드래곤 8 엘리트 Gen 6의 발열 문제에 대해 다시 한번 부인했다."
   },
   {
-    "company": "TSMC",
-    "title": "삼성전자, NVHBM 베이스다이 TSMC 3나노로…코어 D램은 이미 1c - 이포커스",
-    "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTFB5aXhQMFhzZWZPekVXcmhGUk9QaDJMSUp5d3VTMXhIQ1VZSE1pdXdvdm0wS3BzaXlKSTdGaFFxSnRLY20yNkhGSFJwejV2bWlTNU8wZkxlVDFJUG9TU0VPTHpDRlhmdng3NnIxZExR?oc=5",
-    "published": "2026-10-19 10:41",
-    "timestamp": 1792374077,
-    "summary": "삼성전자가 NVHBM 베이스다이에 TSMC 3나노 공정을 사용한다. 코어 D램은 이미 1c 공정을 적용했다."
-  },
-  {
     "company": "Intel",
     "title": "인텔 CEO \"중국 반도체 기술, 미국에 크게 뒤처지지 않아\" - 조선일보",
     "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxOOWxlWURCNXFKdlFOelFDdkItQVlDRnF5ak9DM1FKVURGUW9mSEh2VktiNmdxemtwWXlVdHdYeHpXWWc1aUd4ZTN6VEY5RXh5MnNaSHlSUjNYZGh2MTJwbUlGeWpXMHF2RnljVm1jZXZKT0M4Q2E0aHVNdjZKUUJ5Ull4VQ?oc=5",
@@ -2928,14 +2952,6 @@
     "summary": "마이크로칩이 데이터센터 솔루션 포트폴리오를 확대한다."
   },
   {
-    "company": "AMD",
-    "title": "Ray Regeneration 1.2가 AMD RDNA 3에서 사용 가능합니다. Crimson Desert FPS가 두 배로 감소함 - GameGPU",
-    "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNZjZBUDc1dTBLbER1Z3pTN3owZFpLc3JuRzlmUWMyZ19nOUg5QWpYc2p4UmZMQVBoRTlfMVhMRWg1bm0za1NNb0hsblU0RHl1aWZQank0UHJCb3hfZkRiV1JlTHhINTU2MUlXSGVtd0lYMnNxZ2VtdGFvTUZzWkphX3ZfNDJLbzMyYlhBczU1Q2xVY0tyQTMxWkFZZ1VQMzNyeHJTNmxYN3hTRmEzMnZ4RGg2cGRTV0tBalNzYWJPVQ?oc=5",
-    "published": "2026-10-17 03:09",
-    "timestamp": 1792174177,
-    "summary": "AMD RDNA 3 아키텍처에서 Ray Regeneration 1.2를 사용할 수 있게 되었으며, Crimson Desert의 FPS가 두 배로 감소했다."
-  },
-  {
     "company": "Google",
     "title": "中지리차, 2027년 하반기부터 글로벌 모델에 구글 제미나이·맵스 탑재 도입 선언 - 스타뉴스",
     "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9QZEVqTEZOWWNKc3ZUZG9zbDgzNjZYZG53ZmpnMENkMi1BOHJ5eFFpOEVTYzREUzFNWFhDYWRXQ1FQVlZDUlJ4elJvQmZKNWZwdFlGRklScGtFb2FKTlA5RlltQXFPdVg2MlNsM3dxdUFjUEg4TEk0a1J6ZE1hOE0?oc=5",
@@ -2966,14 +2982,6 @@
     "published": "2026-10-16 23:14",
     "timestamp": 1792160057,
     "summary": "Meta가 개발자와 코딩 에이전트를 위한 오픈 웨이트 모델인 'Muse Spark'를 공개했다."
-  },
-  {
-    "company": "AMD",
-    "title": "AMD는 저가형 그래픽 카드 및 RDNA 2 기반 장치용 FSR 4 Lite를 출시할 수 있습니다. - GameGPU",
-    "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNMXBJeVk5SEx3TkV0SUt2bTFZaDNRNUdILVVFSXRDQWtNYk0zSTFEa3Q2Sm1HbVpOLXpLVVBvYktRTHFaN3E5ZjVDX21WY1JPS3BRZXczUjRyMmRiQVFabW13SEhKNHJ1UUJjdWNFeDk5YkMwUzJ4ZDVaRTZsaG04LUE4dkRpV1ZSbXM4NkRhc1huaEhMamFHSkdsdC1Wa2paT3AyaS1NZ0pjemozOFhnbm0tS2FNWE0?oc=5",
-    "published": "2026-10-16 23:02",
-    "timestamp": 1792159353,
-    "summary": "AMD가 저가형 그래픽 카드 및 RDNA 2 기반 장치를 위한 FSR 4 Lite 출시를 검토하고 있다."
   },
   {
     "company": "Apple",
