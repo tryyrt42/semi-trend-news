@@ -1,5 +1,13 @@
 [
   {
+    "company": "Microchip",
+    "title": "마이크로칩 \"헤일로 AI 가속기와 결합한 턴키 솔루션으로 승부\" - 지디넷코리아",
+    "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1FbzV3ZktzZDltVlV0QXh5TUcwNnQ5c2VGTTN3dFcyYUgzRDYyU1BGeGJhV3g1RnVtXzFiSmZQZkRSRmQ1MHhUMkpUNzBGQzluNC14ZGRB?oc=5",
+    "published": "2026-10-25 07:00",
+    "timestamp": 1792879201,
+    "summary": "마이크로칩이 헤일로 AI 가속기와 결합한 턴키 솔루션을 통해 시장 공략에 나선다."
+  },
+  {
     "company": "NVIDIA",
     "title": "베어로보틱스, 엔비디아와의 엔지니어링 협력을 통해 KINO-2 출시 - https://www.koreasprint.com/",
     "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE4yTWI4QjBPU3MzaVBPZWFHN3ZWVnd6RExzdnhDRVhxNEtwSFpOLV9aaVBCQnNGVi12OXZoenZpYW5uZUxmSHRvTVYtNFY1X1lKZmRsQzJMejM5YmRWcHdkeVRmc1lybG5YcUFDZE1R?oc=5",
@@ -46,6 +54,14 @@
     "published": "2026-10-24 23:44",
     "timestamp": 1792853041,
     "summary": "AMD 그래픽 카드에서 FSR 4.1 기술이 서로 다른 컴퓨팅 모델을 활용한다."
+  },
+  {
+    "company": "NVIDIA",
+    "title": "슈나이더·엔비디아·HPE, '공장형 AI 에이전트' 전격 등판… 플랜트 엣지에 ‘피지컬 AI’ 심는다 - 헬로티",
+    "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE5KcVo0ZGxibmJDVUdmTkJKNnZWampiYlI4Q1d6Zy1oZEhNaG1hRGxnV2lDNldtMXptcnlzM0FjTzZzWGd2XzRtX0wzUkNzSGVEa19kQXlVVGtnQ3hUVmg0?oc=5",
+    "published": "2026-10-24 21:48",
+    "timestamp": 1792846106,
+    "summary": "슈나이더, 엔비디아, HPE가 협력하여 공장형 AI 에이전트를 도입합니다. 플랜트 엣지에 피지컬 AI를 적용하는 기술 사업입니다."
   },
   {
     "company": "NVIDIA",
@@ -248,6 +264,14 @@
     "summary": "메타가 쿠다 생태계에 대응하기 위해 구글과 협력하여 전용 칩을 개발하고 출시했다."
   },
   {
+    "company": "Microchip",
+    "title": "마이크로칩, 우주 방사선 견디는 초소형 오실레이터 ‘LX-820’ 출시 - 한스경제",
+    "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE1wdWZkMkJEcGFsb0pBN0JuOUZRdVl1OTh1ZlU3RnlHTnpIM1c2cU4zdlRnTXdyOHBCYl91TTFCaGFHSnNJOFFScTliWjdvY2s0cm1ZS2JKa21yWDJGay1wdlZWV1VZQTl6eWFN?oc=5",
+    "published": "2026-10-24 10:30",
+    "timestamp": 1792805400,
+    "summary": "마이크로칩이 우주 방사선 내성을 갖춘 초소형 오실레이터 신제품 LX-820을 출시했다."
+  },
+  {
     "company": "NVIDIA",
     "title": "딥시크, 화웨이 칩에 쿠다 대신 자체 소프트웨어 얹었다…\"엔비디아 격차 좁혀진다\" - 솔루션뉴스",
     "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTFBIZndaMnRzbWV0UHJ6Z0FZYVlqUlJkNmluR2VkYW8yZkVYcUJ0c05lOENmdVFfSlVrS1E5SlRHSW1Lb0Z4UU5WdDBsSFR5REQ3N0JTdTFtRHk2V010dkttNFF1NUVtNWJVaXV3?oc=5",
@@ -310,6 +334,14 @@
     "published": "2026-10-24 07:36",
     "timestamp": 1792794985,
     "summary": "AMD와 인텔이 x86 AI 소프트웨어 생태계 통합을 추진한다. 이는 Arm 진영의 공세에 공동으로 대응하기 위한 조치이다."
+  },
+  {
+    "company": "Apple",
+    "title": "앤커, 자체 AI 반도체로 프리미엄 이어폰 공략···삼성·애플과 경쟁 - 시사저널e",
+    "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE85cjFmRzFXeEVtMWpYQ2xFclNJRy1uQjBCTGs0WHZ2N2E2eUJKYVo1Wjh0d0lsX0czUF9iWFA5M2FMbl9rT2VWVVJlc0VMdE94SlpFX0VUTi0tdnB3MEtIcVNWSEVwVExabmpOUzRrZ2F2QdIBdkFVX3lxTE1IdW9qMnAxUTRXVVRzbERhS1VKY1JQd0hsNUNHNGZ5SHJNMDJkb1ZXWkl3YmNERllsMWlEcXRrTTFtNHRCVzhTbGYtQ2MxZFZwUFJfal9Hc1ZMb0txMEZEc1ZOYU1sWnZDTllkMl96YXRRMjFXS3c?oc=5",
+    "published": "2026-10-24 06:30",
+    "timestamp": 1792791000,
+    "summary": "앤커가 자체 AI 반도체를 탑재한 프리미엄 이어폰을 출시하며 삼성 및 애플과 경쟁한다."
   },
   {
     "company": "Marvell",
@@ -400,6 +432,14 @@
     "summary": "NumsAI가 젠슨 황의 NVIDIA GTC 기조연설에 등장했다. 구조화 데이터 AI 모델인 Kosilo에 관심이 집중되었다."
   },
   {
+    "company": "Tesla",
+    "title": "테슬라, 국토부에 ‘FSD 승인’ 신청서 제출…검증 일정 미정 - 블로터",
+    "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFBLN3ExXzVFMUVoSzFuZ2hYczFkUWEwWVRwYzFXVDBOTnktWjdpQ2xZVnE0enpsSVM5amFPWHRkeVRxR2REd2pLWTdHWHpDLTNUd0NzVEtWZWMzekhORm1UamZxRW9vbTFs0gFsQVVfeXFMTUs5d0cwT0ZOa2xGd1VpTUItSlQ0eXVfR2dXbE5wT3VET0NhWFFWbDNvSHBzOV83SkxWcXIzTlZ5enZJaVljLXJvQ29Ycmx3R2dYRVl0dXBkZnlrRVhXSVpESV9ZZTNrNDJNQktm?oc=5",
+    "published": "2026-10-23 19:43",
+    "timestamp": 1792752208,
+    "summary": "테슬라가 국토교통부에 FSD 승인 신청서를 제출하였다. 현재 구체적인 검증 일정은 정해지지 않았다."
+  },
+  {
     "company": "NVIDIA",
     "title": "스페이스X, 엔비디아 등 130여개사와 기업 AI 공략…그록 도입·연동 지원 - AI타임스",
     "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE94WDY3Ml9EcklienR3Nl91bFZNdFpYVVUzblhhLVFDWVNnc2MwUUtMNG9mcVlYR2xNM3VlbXc1Z0Jwa3p1VFdvZWpaQzRlajdqRjk5ZTB5S2dEZTkxSGpQQ0MtSElrUEphQXc?oc=5",
@@ -414,14 +454,6 @@
     "published": "2026-10-23 18:51",
     "timestamp": 1792749107,
     "summary": "KT와 Microsoft의 클라우드 전환 사업에 대해 데이터 주권 차원의 접근이 필요하다는 우려가 제기되었다."
-  },
-  {
-    "company": "NVIDIA",
-    "title": "엔비디아, 韓 기업에 잇단 러브콜…삼성전기·LG이노텍과 손잡은 이유는 - 쿠키뉴스",
-    "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE93eEVrSjEycmhXT3RKRy05S00xRDcyakFWMUdtLUxKSjMtSjMwSkFVeV9tZkM0RkZ5eTNHUnNtdVlzVHVLZmMtTm9RQVJiX0J3M3NLTlQwRTRUck5yOHpqRk5XYw?oc=5",
-    "published": "2026-10-23 18:21",
-    "timestamp": 1792747261,
-    "summary": "엔비디아가 삼성전기 및 LG이노텍과 협력 관계를 맺고 공급망을 강화하고 있다."
   },
   {
     "company": "Microsoft",
@@ -3912,14 +3944,6 @@
     "summary": "세레브라스 CEO가 AI 종말론에 반박하며 AI 리더들의 신중한 발언을 촉구했다. 또한 AI에 대한 부정적 인식이 데이터센터 산업의 구축 방식과 관련이 있다고 언급했다."
   },
   {
-    "company": "Apple",
-    "title": "애플 두뇌가 LG 가전 움직인다···AI홈 7종에 숨은 반도체 연결망 - 여성경제신문",
-    "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTFBzelNjZVh6NUdreHJYZjdXakNfV3FxMjBpU3dOTUFwRFdXNFk4djJRbzJjTm41UXhzdV80UHR2aDJweU83dURGTkZUTFJsR1Y2U3UxVVhIaTlGSFpMbGI1cGM3Q3J6SXpWcmp3UGprb1dSZzEzOVRR0gF3QVVfeXFMUHN6U2NlWHo1R2t4clhmN1dqQ19XcXEyMGlTd05NQXBEV1c0WTh2MlFvMmNObjVReHN1XzRQdHZoMnB5Tzd1REZORlRMUmxHVjZTdTFVWEhpOUZIWkxsYjVwYzdDcnpJelZyandQamtvV1JnMTM5VFE?oc=5",
-    "published": "2026-10-14 21:48",
-    "timestamp": 1791982095,
-    "summary": "애플의 반도체가 AI 가전 7종에 탑재되어 기기 간 연결망을 구축한다. 애플의 기술이 가전 제품의 구동에 활용되는 사례다."
-  },
-  {
     "company": "GlobalFoundries",
     "title": "GlobalFoundries, 미국 반도체 공장 2곳 운영사로 선정 - Investing.com 한국어",
     "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9JcENnTE1vd3JFUDdUaEkzUkxlRjZNcGsyVWNSVGU3ZHRNTnIzWHhQMjBSN0o0R3FDUlllU1JBNGItY0ltSU1yMWI2anloOE5WOTQ4RXpjd0lsbXc5Y04tQy1uUkZlSlVIZi1EcUN6eDU?oc=5",
@@ -5262,14 +5286,6 @@
     "published": "2026-10-08 17:57",
     "timestamp": 1791449855,
     "summary": "모빌린트의 NPU가 누리호 5차에 탑재되어 국산 AI 반도체 최초로 우주 실증을 수행한다."
-  },
-  {
-    "company": "Tesla",
-    "title": "[데스크 칼럼] 테슬라 자율주행을 따라잡으려면 - 한국경제",
-    "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFAybzVOdUFuTEFzQ1JhYUtDeUlicjE4Z0FtajB1VGh2b05mbXFDczhBUFhCTE9sSWgxTHBWcnpvdm4tTFlCZUR3b1d1ZDlJY1QwOEZkdldUNVVlQQ?oc=5",
-    "published": "2026-10-08 17:48",
-    "timestamp": 1791449315,
-    "summary": "테슬라의 자율주행 기술력을 따라잡기 위한 방안을 다룬 데스크 칼럼이다."
   },
   {
     "company": "딥엑스",
