@@ -1,5 +1,45 @@
 [
   {
+    "company": "Intel",
+    "title": "인텔·Oracle, 다년간 클라우드 협력 추진 - Investing.com 한국어",
+    "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1tQ1J2dng3djE0TkMtYW9hNW9fQ2FPZEpiRzBJa2d5Y2E0cFdtSkN1OXNQeVlMYkxySExkMGlOQnR6OF9yZ3JnY2c0SUVQakp0cGVFMFhXcUtibEtSZnNPOHYzUndVcjNnamRRcUlHUnE?oc=5",
+    "published": "2026-10-28 01:06",
+    "timestamp": 1793117160,
+    "summary": "인텔과 Oracle이 다년간의 클라우드 협력을 추진한다."
+  },
+  {
+    "company": "Broadcom",
+    "title": "Wall Street Banks Provide $63 Billion To Finance Broadcom AI Chips For Anthropic - TIKR.com",
+    "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNd3pwdVU0a3duS2hXTnBiSVQtc1pyTkdmUXEwVmN6anJtYXRrM09vT21Eazlaa055eXM3Vkk2cDk4MXYzbkwwVkRnXy15S05tNmpKZ3VEc1F3NTBWQVA1YUhoSUVoUklMUmZ6bEZDZ3pJTEY3WUoyMkNQOVNsSnllaXczNXllaEh1RjE3VG93?oc=5",
+    "published": "2026-10-28 00:11",
+    "timestamp": 1793113875,
+    "summary": "월가 은행들이 앤트로픽의 브로드컴 AI 칩 구매를 지원하기 위해 630억 달러 규모의 자금을 제공한다."
+  },
+  {
+    "company": "Apple",
+    "title": "애플, M6 탑재 아이맥 공개…\"사진 편집·AI 작업 더 빠르게\" - 아이뉴스24",
+    "link": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE0wNnY0VllZN1pSRXZQVzBOOFNDRVhLWUtITkJqd1ViY3VRV01vX2xySTdlUHZ2VGplX19NcEFsdjlDQ3A2enE0ejFvYw?oc=5",
+    "published": "2026-10-28 00:09",
+    "timestamp": 1793113789,
+    "summary": "애플이 M6 칩을 탑재한 아이맥을 공개했다. 사진 편집 및 AI 작업 속도 향상을 강조했다."
+  },
+  {
+    "company": "Broadcom",
+    "title": "짐 크레이머, 엔비디아 브로드컴-앤트로픽 딜 비판 받을 이유 - BeInCrypto",
+    "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE51eXlRVl9xV3ppTkUzSEo4c3NOc250eFQtVDNka0Y5cmhWemhRZkh3M2FQZFlQaUtlY0ZkNmZiUjltelZScGhPSWRhd3FJcVZXbWY5M3dZZkNQTG9rc0d4dC1KSkF0MzJoM0xTcmxFUFpNUQ?oc=5",
+    "published": "2026-10-27 23:51",
+    "timestamp": 1793112700,
+    "summary": "짐 크레이머가 엔비디아와 브로드컴, 앤트로픽 간의 딜에 대해 비판받을 이유가 없다는 의견을 제시했다."
+  },
+  {
+    "company": "Qualcomm",
+    "title": "안두릴·퀄컴, 미국 내 PC 제조 위한 ’블루칩’ 출범 - Investing.com 한국어",
+    "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1MRXlCNXpldTduWk1ielpOSHFBVm5wS0JkeTc0dXRQRzhkcEFvNTZmbm1LQXhRdVR6VVFZelF1a0g0QWMxOVBVQ29uSVM1bjRWRmRtMnkyVUxqeXhwTkF0anNWbkh5LVRkLWJwNjZCT0E?oc=5",
+    "published": "2026-10-27 23:34",
+    "timestamp": 1793111640,
+    "summary": "안두릴과 퀄컴이 미국 내 PC 제조를 위한 '블루칩' 프로젝트를 출범했다."
+  },
+  {
     "company": "NVIDIA",
     "title": "英 덱소리, 엔비디아 코스모스·헤일로스로 창고 AI 역량 강화 - 로봇신문",
     "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE41QkNJV3pyQUFQc2xoLUdkR2JzTlgyd1NpaUhmV2ttWld5UFY0ejcya2NZYWg3N0VhTVAydE81enpGVzIyU3NjMUpmWEJlNlJ6ZGZSQ0N4ZjBHQm9mX0ZFbEg0OVZSV3lHbXFvbg?oc=5",
@@ -160,6 +200,14 @@
     "summary": "애플이 시리 AI의 한국어 서비스를 시작했다."
   },
   {
+    "company": "Intel",
+    "title": "Intel Wildcat Lake 칩과 최대 72Wh 배터리를 탑재한 REDMI Book 2027 노트북, 중국 출시 - Mezha.net",
+    "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxORkpSZlBEOG1sWGJ6UVhqcTl5TXNBY3lCN3pZdmV3aEJvTWVrWE51WS13VnlXMlIwMmRnV0ttaVBKSHRlUjBqMTRIeGRDYkdRSlowQ3NwMExKZHplUGQ1cUlUUVJlN2J1dnN1ZzlfYjUtNnBPVW9FZkJMUDkweVZNX29KcVplNDhKc2N4ZXJ6djNGMXZrZ0E?oc=5",
+    "published": "2026-10-27 16:08",
+    "timestamp": 1793084880,
+    "summary": "Intel Wildcat Lake 칩과 72Wh 배터리를 탑재한 REDMI Book 2027 노트북이 중국에 출시되었다."
+  },
+  {
     "company": "Meta",
     "title": "Meta, Muse AI 모델과 인프라 관련 NVIDIA와의 파트너십 강화 - Unite.AI",
     "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNMDJpUmR6cGE4MkhTS2RPUk00NDF2ZnpXdWxGamItdHo2WkN0M19QYzRIdHpUMGFFUVh1bk5ZRzA4R0pkRURBVThiOHNSLVByNkFhSTRLekdFUkExY1IydGRBdGNiajlROHFmcWRlRHZiRVYwV3JQTjBsVEpFUy1JYjNWX0hLNjBzVjREdFZzSGlUNnpvcnU0VQ?oc=5",
@@ -214,6 +262,14 @@
     "published": "2026-10-27 14:07",
     "timestamp": 1793077636,
     "summary": "슈퍼마이크로가 2만 2,500개의 AI 샌드박스를 지원하는 엔비디아 베라 CPU 랙을 공개했다."
+  },
+  {
+    "company": "Intel",
+    "title": "Asus, Zenbook 14(UX3480) 인도에서 11월 5일 출시 – Intel, AMD, Snapdragon 옵션 제공 - Mezha.net",
+    "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPM0xtdl9nTVQ0OVpNTFlqbEFwZVVHeUw1N3BRaTNUbVJ0U3Ftc1dFU1JWQnNWaEptTFFOME03amY4VXBkZWNCNUFEVWlSN1JMX3k3OU84cmtZZTNRUmZVS2tGV2k1eW1UbVRGRU52ZzV0OTU4NkdGVlpHYWI2YXJMYzA0VlBONlJIUTItX0JBWUlsQXRa?oc=5",
+    "published": "2026-10-27 14:03",
+    "timestamp": 1793077380,
+    "summary": "Asus가 11월 5일 인도에서 Intel, AMD, Snapdragon 프로세서 옵션을 제공하는 Zenbook 14를 출시한다."
   },
   {
     "company": "Meta",
@@ -2664,14 +2720,6 @@
     "summary": "퀄컴이 산업 AI 엑스포에서 국내 AI 스타트업의 혁신을 지원하고 산업 AI 생태계 협력을 강화한다."
   },
   {
-    "company": "Intel",
-    "title": "머스크는 왜 인텔 팹을 사려 했나… 반도체 거절당하자 시작된 테라팹 속도전 - 초이스스탁",
-    "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1HS3NDNUY4MjBYS1JrSzdMb0hqVkFlZzlHUUpvR0xVLW10OWprNUhnT2VBSGtEYVNDN2xnUWN1cEN2ZFpCR2lCYkxvUGM0ZDJVTGFzdXZTRGVLVHIxVFBnLTZnQi1oWFE?oc=5",
-    "published": "2026-10-21 11:07",
-    "timestamp": 1792548420,
-    "summary": "일론 머스크가 인텔의 팹 인수를 시도했으나 거절당했다. 이후 머스크는 자체적인 테라팹 구축을 위한 속도전에 나섰다."
-  },
-  {
     "company": "OpenAI",
     "title": "오픈AI·엔비디아·AMD 부산 총집결…첨단패키징 심포지엄 'ISMP 2026' 내달 개막 - 전자신문",
     "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE1tNWNWbXRpeEtUdkJnWWY2WmwwZWVtMzdxM2cyNTlHN0FBbWtYWklmYS1GaGtTQ2FBandqdDFnUEw5cVladllXYk10WjdPdw?oc=5",
@@ -2696,14 +2744,6 @@
     "summary": "어보브반도체가 가전용 MCU 제품 고도화를 추진하고 있다. 현재 양산 및 가동률 확보가 주요 관건이다."
   },
   {
-    "company": "Intel",
-    "title": "\"중국 반도체, 우리 턱밑까지 왔다\"… 인텔 수장이 흔든 미국의 통제 신화 - 글로벌이코노믹",
-    "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOdGtPS01qSTJfc1VlSnlLQmtUNFVkd1NrV0MxLUY3VW4zdGhMTl9KTGk2Q081U0hoZ0t3RnFDSzRudzlDQ2t4UTJhTE9vcHVhcnFhN1g0SjZxMEtCc0RCZ3BQb2RCSHNrcUhQMzFUUzlMcUwzd3NlS2NPZS0tSC1ybEd1SUNLdWM?oc=5",
-    "published": "2026-10-21 10:06",
-    "timestamp": 1792544804,
-    "summary": "인텔 수장이 중국 반도체 기술의 추격 상황을 언급하며 미국의 통제 정책에 대해 의문을 제기했다."
-  },
-  {
     "company": "Apple",
     "title": "애플, 아이폰 듀오 티타늄 미국서 조달…펜실베이니아 페리먼과 3년 1억달러 계약 - 솔루션뉴스",
     "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE9UZWsxWEdQb1UySXMyM0dIUnZDdmZOc1czWjFfVDNBNVhfc25CUXY3d2lodzljclc2THpUWVFhdW1NaFRMdDZfRTkxMXAtZjZ3cVk0Uy15cmFXYlduVkdiTTlTT0hPdzhzRTJv?oc=5",
@@ -2726,14 +2766,6 @@
     "published": "2026-10-21 09:13",
     "timestamp": 1792541582,
     "summary": "ST마이크로의 장 마크 셰리 사장이 연임 제안을 수락했다."
-  },
-  {
-    "company": "Intel",
-    "title": "스카이인텔리전스, ABB·엔비디아 산업용 피지컬 AI 글로벌 백서 참여 - 비욘드포스트",
-    "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTE9ldjFHX1gzQzYtTEEtUWJoTHlvUjBCWnJFOHA3Sy1LaU94ZmJmNDVPZzEwNEVKR0VCOXN3X2NXMDFLX004TEZBMnl2UDdFYjJMWkdBVmhmdjBsaURyZXBfalZJUVQ2NUotNktOeF9UZDJlVUtYRzZZdXdFMEg?oc=5",
-    "published": "2026-10-21 09:08",
-    "timestamp": 1792541302,
-    "summary": "스카이인텔리전스가 ABB 및 엔비디아와 함께 산업용 피지컬 AI 글로벌 백서 제작에 참여했다."
   },
   {
     "company": "Qualcomm",
@@ -3280,14 +3312,6 @@
     "summary": "알파칩스가 포스텍을 통해 미국 양자컴퓨팅 기업으로부터 고정밀 FAU 첫 양산 PO를 수주했다."
   },
   {
-    "company": "Qualcomm",
-    "title": "[강릉 ITS 세계총회] 김상표 퀄컴코리아 사장, C‑V2X와 AI 결합이 미래 교통안전의 핵심 - 보안뉴스",
-    "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE9vR0tzaTdlX21mdGNOQXlIMWM1TzJlbENCelVRV2FDZHJZRjBlUmowdTJ4QWNYdUhhWTNTQ2lhMjRhOFZlSnVod3hFa1ZuUlZWeE0wTVYzZzJ3SUE1RmkzSUhaeUx0SWpaTUM0?oc=5",
-    "published": "2026-10-19 15:50",
-    "timestamp": 1792392600,
-    "summary": "김상표 퀄컴코리아 사장이 강릉 ITS 세계총회에서 C-V2X와 AI 결합이 미래 교통안전의 핵심이라고 밝혔다."
-  },
-  {
     "company": "리벨리온",
     "title": "ETRI 연구환경에 다키클라우드 Aegis·Metis 적용, 리벨리온 NPU 활용 - 스페셜타임스",
     "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTFAtNnlfT1ZlUW1wbDhYZU9HQUFldDA3RlF6bTRLYzBiUEZ1MmhXWlVDcDZQLW5GeUVVZkZhXzlhLXpWd2lwb1RXQ2xwLVQ5eTFpX0l4eFZNZ3hjMHVyUnVhZzF5eVA3ZUU1Tzh2eHlIdS11Zmc?oc=5",
@@ -3654,14 +3678,6 @@
     "published": "2026-10-17 01:03",
     "timestamp": 1792166598,
     "summary": "중국 지리자동차가 2027년 하반기부터 자사 글로벌 모델에 구글의 제미나이와 맵스를 탑재하기로 결정했다."
-  },
-  {
-    "company": "Apple",
-    "title": "[김대호 인물] 애플 터너스 (Ternus) \"중국 반도체 위험한 선택\" - 글로벌이코노믹",
-    "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOM3hlOEFlVldsWWxQaFMweUNWT04wLUZzV3pTVTBjd0xpbzVyWXczRl81bzVDYWtFbWVlcVJvcGJoWkpZRUx0UWl1eG9pTHpONnB1dEkxY2pDM1NMdzMyRF9OenVhVDNILXR1RldTUnlySzg5VXFwUEJIR05RUXJsM2w5N2ZQd1pP?oc=5",
-    "published": "2026-10-16 23:50",
-    "timestamp": 1792162200,
-    "summary": "애플의 터너스가 중국 반도체 사용에 대해 위험한 선택이라는 입장을 밝혔다."
   },
   {
     "company": "Amazon",
@@ -5800,14 +5816,6 @@
     "summary": "삼성 파운드리가 시장 성장세 속에서 턴키 역량을 앞세워 반등 기회를 모색하고 있다."
   },
   {
-    "company": "Broadcom",
-    "title": "AI 투자 끝모를 ‘빚잔치’…브로드컴·스페이스X 수십조 조달 - 매일경제",
-    "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE81NjJnc1lGUWQ2WWZZWU5MbzVJV18tcDJHdHdqUWFtLVRCakphS09keWwwRkZWS29XODMwSU5PVGI5ZnNIeURDYzdkN0NpZ3hZelpCdktn?oc=5",
-    "published": "2026-10-08 16:49",
-    "timestamp": 1791445770,
-    "summary": "브로드컴과 스페이스X가 AI 투자 자금 확보를 위해 수십조 원 규모의 자금 조달에 나섰다."
-  },
-  {
     "company": "Infineon",
     "title": "톈웨선진(688234 SH), 인피니언 우수공급업체로 선정…8인치 SiC 점유율 51.3% - 알파경제",
     "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE9XZmtDY3BLNGc0VTMycEdjaHdQdWw4d2RvcjQwVzBmSlpKME5hVUdDYVNuUnBNaXpuZzlqUC1HYVhLWXVzQlRaTUdLelo4Q3VtWEx2LTRmZHJGb3Vhc244ZlZ3RzdQZ3Vzcm5qRERB?oc=5",
@@ -5862,14 +5870,6 @@
     "published": "2026-10-08 13:11",
     "timestamp": 1791432704,
     "summary": "모빌린트의 AI 반도체가 누리호 5차 발사를 통해 우주로 진출한다."
-  },
-  {
-    "company": "Broadcom",
-    "title": "브로드컴, AI칩 개발 자금 확보 나서… 500억弗 조달 추진 - IT조선",
-    "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBabzR0WEQyajhsSnpZcEtjUHE0ZTFlRUZMWmFlTUdrcUxTOE1pVVI1TkdQbUZoV2hyakQ0WVFxVHlIM1JMY2RhOUcyQTQyWVJtN3ZVQ191N2tac3VDbDVLRVdxOUIxRkdma3lVX1JENUXSAXRBVV95cUxNWE1rOGl5RmRlTEU2dWhTMDg1Q1lPQkhkaURHSU1Cbm5rMzF0dHZxSzFxNGJ2UTZPRTMzR0RRUmRCV2JKUTUwNThzdGNyS1hnY1FBaFA3V2trVlZ0dmZHMlA1enhvRXJMZ1VXcXRGTVhtTVpoaQ?oc=5",
-    "published": "2026-10-08 11:35",
-    "timestamp": 1791426943,
-    "summary": "브로드컴이 AI 칩 개발 자금 확보를 위해 500억 달러 규모의 자금 조달을 추진한다."
   },
   {
     "company": "Amazon",
