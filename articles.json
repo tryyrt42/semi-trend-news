@@ -1,5 +1,261 @@
 [
   {
+    "company": "NVIDIA",
+    "title": "英 덱소리, 엔비디아 코스모스·헤일로스로 창고 AI 역량 강화 - 로봇신문",
+    "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE41QkNJV3pyQUFQc2xoLUdkR2JzTlgyd1NpaUhmV2ttWld5UFY0ejcya2NZYWg3N0VhTVAydE81enpGVzIyU3NjMUpmWEJlNlJ6ZGZSQ0N4ZjBHQm9mX0ZFbEg0OVZSV3lHbXFvbg?oc=5",
+    "published": "2026-10-27 19:38",
+    "timestamp": 1793097518,
+    "summary": "영국 덱소리가 엔비디아 코스모스와 헤일로스를 도입하여 창고 AI 역량을 강화한다."
+  },
+  {
+    "company": "AMD",
+    "title": "AMD는 고장난 라이젠 9 7900X3D를 더욱 강력한 라이젠 9 9900X3D로 무상 교체해 주었습니다. - GameGPU",
+    "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPMThNTU5CRy15cGpyemdKSXd0ZnRWaWxRdFg4QkhVVzZ1RjQ1RWJXLTlhVHRuNlFJVmwxc3p0NUlib2xfZEZxY2d1YjlXLXg0OHNHbFlzaVh1RllIbVNuOEQxX0FuRHd0SklsRUJGUXVIXy0zNVl0eWZSdk84WU5mSWJKdWt4RzNZUFRGeUNoaVZ4ZzhDbFZXMVo1cURqaFBBQk91ZEFSNUVjQy1vN3ZuamxoWkxrU3BuV0NaaQ?oc=5",
+    "published": "2026-10-27 19:16",
+    "timestamp": 1793096201,
+    "summary": "AMD는 고장난 라이젠 9 7900X3D 제품을 라이젠 9 9900X3D로 무상 교체해 주는 서비스를 제공했습니다."
+  },
+  {
+    "company": "퓨리오사AI",
+    "title": "경산시, 퓨리오사AI와 국산 AI 반도체 실증 확대 - 디트NEWS24",
+    "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE50cHd0RDM2Wnk2TU9xUHhUZndwd2pWTGdHVXU3YVV2VDVBcHc4X00yUlVSMFZiM1VQcGpJQjl5SVVTemt5c2xHY3BwTXk0SVBab2t2NDRQLXIzTGNnWHhEZ2xZUnRBdGZnMktn?oc=5",
+    "published": "2026-10-27 18:53",
+    "timestamp": 1793094817,
+    "summary": "경산시가 퓨리오사AI와 협력하여 국산 AI 반도체 실증 사업을 확대한다."
+  },
+  {
+    "company": "AMD",
+    "title": "AMD는 라이젠의 성능을 선보였습니다. Radeon в The Blood of Dawnwalker - GameGPU",
+    "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPdkNBSWNSYmM2YVI0WXRjM2NEZndHZG81ZjY1My1DX0QxVU1jMTU0UDVqdWxzeEdRWWxrVGpyRDdpMzNCaGF2UnZHcTNMR2t5R094d1p4X3FIaEx0WF8yRWFlUTZUUVdIb2w2R0NMUS1CSXAwajhNNU13bTdDWWI0b2tJclFjZGczOUN3TGt1WFlZcGZCRXhfX2JHTjk2Y0ha?oc=5",
+    "published": "2026-10-27 18:27",
+    "timestamp": 1793093272,
+    "summary": "AMD는 게임 'The Blood of Dawnwalker'를 통해 라이젠 프로세서와 라데온 그래픽 카드의 성능을 시연했습니다."
+  },
+  {
+    "company": "AMD",
+    "title": "FSR 4 INT8 셰이더 수정 가속 비디오 카드 AMD Radeon RX 7000의 리눅스 환경 성능 31% 향상 - GameGPU",
+    "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxOZm0wUjUzUDhQTWpfb0lnc0x1YWJ3WkNsTG9ZUGNDRG0zWW93ZUdESUxPdllJcmE1cWpadG5MOEJEU3UyN3NWMHNLaGpIamhGb1dwUmR4azdKZW9XWWpFRUNkS3pFSW0tTG11TUE0TU16dC1FVnpDYWVGSFdLM1RUbktJRlA5RFRaZXVpa2tUd2xoTmVVZUg2bjhnVXRXSVZaaEdwU2Z3MXhlYk50NnlHdFVqTnhFMkYzT21nMHVhd05ienM?oc=5",
+    "published": "2026-10-27 18:09",
+    "timestamp": 1793092143,
+    "summary": "AMD Radeon RX 7000 시리즈 그래픽 카드의 리눅스 환경 성능이 FSR 4 INT8 셰이더 수정 가속을 통해 31% 향상되었습니다."
+  },
+  {
+    "company": "STMicroelectronics",
+    "title": "이상일 용인시장, ASML·ST마이크로 방문…반도체 협력 모색 - 이뉴스투데이",
+    "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBWOVhPTFBwTUd4SmJSUDU4OFNoWnBrSXpNaWN1emFicGFKXzdtYmZONmR0RzRSQ0IwNlBsQ3JWY2ZuZHpEemtHSFl0aXlHNDFQeTlSd04tYk5FdFZtWmNaNXNVb1RlRjB3eS1NRk5pSzLSAXRBVV95cUxPT0hZVjhfa3pwWm1LeFNFb3JDWk80QjZuc0hzZ0xxQUdjTFFkcTNmQ1BOTDBpclc5b05SWkIzcXNnZjYyNWE2bDdxNGtMZWZXdkJYWUFvVllRelZXdjFEMWMwSkVVX29nRmtkRjlDVDBqbWpWUA?oc=5",
+    "published": "2026-10-27 18:01",
+    "timestamp": 1793091676,
+    "summary": "이상일 용인시장이 ST마이크로를 방문하여 반도체 분야 협력 방안을 모색했다."
+  },
+  {
+    "company": "NVIDIA",
+    "title": "네이버, 브룩필드와 12조 인프라 계약...엔비디아, 3대 주주로 등극 - AI타임스",
+    "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9FUzJQdm0xVV9vRGl4VkxGdGFxenhZLUgyeWRObGZXMEp6dXRPaWQ0TXloVW1FMmtLLUJCb0daMU5FUFA4alJPQ0cwYnJ3Rk4zclEtOUlUenc5RG95elNsX00yQmtEa3ZBT0E?oc=5",
+    "published": "2026-10-27 17:50",
+    "timestamp": 1793091000,
+    "summary": "네이버가 브룩필드와 12조 원 규모의 인프라 계약을 체결하며 엔비디아가 3대 주주로 등극했다."
+  },
+  {
+    "company": "칩스앤미디어",
+    "title": "칩스앤미디어, 3분기 실적 고른 성장...라이선스가 견인 - 디일렉",
+    "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE9FZElFRnRHUng4QWVBTnJnWGlxQTJMWVBYR2R3OW1iT3RsTnlMZTA0akhVRUZseFBuWHgzdE1SOXBxNzF5ak12Z1VEMGYxZjJuUllDUTN0SXJ1Rng4OU00QVZxMEVsQQ?oc=5",
+    "published": "2026-10-27 17:42",
+    "timestamp": 1793090557,
+    "summary": "칩스앤미디어가 3분기 실적에서 고른 성장을 기록했다. 라이선스 매출이 실적 성장을 견인했다."
+  },
+  {
+    "company": "Apple",
+    "title": "애플 '아이폰 듀오' 화면 결함 인정 - 한국경제",
+    "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFB0ZF9kN2dveWxGeUJubWJ3QjVSaDZuaVNMYlJWU1NBOV9hcWxZSlhUNmJRRHVBYm1UNldGdWpON2JWSGExR2YwUmR0YU95aEJjcGM5dXRSaHRhQQ?oc=5",
+    "published": "2026-10-27 17:36",
+    "timestamp": 1793090191,
+    "summary": "애플이 아이폰 듀오 모델의 화면 결함을 공식적으로 인정했다."
+  },
+  {
+    "company": "NVIDIA",
+    "title": "엔비디아, 메타에 4조원 투자…‘뮤즈’ AI 동맹 확대, 개인용 슈퍼인텔리전스 가속 - 인공지능신문",
+    "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1WS2d4cWgxR2JvaEhGNy1QVWpYbUQ3aVh3WHRJMWZXcF9tSVVVTk5HZ0lfeFNjNlp4Uzg4UG9jX1l0VG41V09RMTRPMHJ6eGRhQ0dENUxrZWVDbDVYVDlkVmZTZlZzTEU?oc=5",
+    "published": "2026-10-27 17:36",
+    "timestamp": 1793090175,
+    "summary": "엔비디아가 메타에 4조 원을 투자하고 뮤즈 AI 동맹을 확대하여 개인용 슈퍼인텔리전스 개발을 가속한다."
+  },
+  {
+    "company": "Broadcom",
+    "title": "브로드컴, 앤트로픽에 AI 칩 구매자금 630억달러 조달 - 한국경제",
+    "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9HRmhsYjdhQ084ZHNZaFZPemFpb1hHMk9VbEE0VEFRVVFadFN4aUN4aVRCU0F4RXZPSmZuR1RIZVRVZFBQcGo2dVVzZjB0b0ZXOEFZdW43ZmZ3UQ?oc=5",
+    "published": "2026-10-27 17:32",
+    "timestamp": 1793089947,
+    "summary": "브로드컴이 앤트로픽의 AI 칩 구매를 위한 자금 630억 달러 조달을 지원한다."
+  },
+  {
+    "company": "Intel",
+    "title": "中 렌즈테크 \"인텔과 유리기판 동맹… 韓·美 고객사에 샘플 공급\" [C-터치 선전 2026] - 디지털데일리",
+    "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE5LRkg0WjZhVXd6SlFNZ1pTakZkQ2diNUZSbjdYNEZNM19QSnJKTkVqbTlReHF3WElrNUpPbkFDUmQxaElUY3Jib05OSE9BQjZmV285WDFHNDBWWU4yemxoY0ZGaVI?oc=5",
+    "published": "2026-10-27 17:22",
+    "timestamp": 1793089369,
+    "summary": "중국 렌즈테크가 인텔과 유리기판 동맹을 맺고 한국과 미국 고객사에 샘플을 공급한다."
+  },
+  {
+    "company": "칩스앤미디어",
+    "title": "칩스앤미디어, AI SoC·로보틱스 신규 실적에 3분기 매출 ↑ - AI타임스",
+    "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE95Sm1xcS1YUG5FaElZemdQMHNQWjh2UlJhcVVBQlhiek5FOWs5b0pQdDl1SFlxN0FYbjZkenJOUjJCMWNCV1M1OENYRVZOOWpKcVE3MVJITXZwVU04Umh3eXhmV3JFUk13dUE?oc=5",
+    "published": "2026-10-27 17:20",
+    "timestamp": 1793089200,
+    "summary": "칩스앤미디어가 AI SoC 및 로보틱스 분야에서 신규 실적을 확보하며 3분기 매출이 증가했다."
+  },
+  {
+    "company": "NVIDIA",
+    "title": "네이버, 브룩필드와 90억달러 AI 인프라 계약…엔비디아 지분 투자 길 열려 - 톱데일리",
+    "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTFBCUzk1MldOY05BbTliUUFBN21kako4THdlVDZHeFVwOUtjX3hibjJUU1huR05LLWlJdkxrRW1mcDdGWjMxTU1RR2hTcW1RYUN2?oc=5",
+    "published": "2026-10-27 17:11",
+    "timestamp": 1793088660,
+    "summary": "네이버가 브룩필드와 90억 달러 규모의 AI 인프라 계약을 체결하며 엔비디아 지분 투자 가능성이 열렸다."
+  },
+  {
+    "company": "OpenAI",
+    "title": "오픈AI는 수학·물리 난제 증명···앤트로픽·스페이스X·메타 등 AI칩 확보에 2천억 달러 조달 경쟁 - 헬로디디",
+    "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBFWGFQWmE2Mkc3SEU3Z0dYWFdxTWFHWVpZOGRkZ0dLcmZfLU5GZ2hxOGJVRE94X09PZDFrNncycE5uYkVhX19GeWh1RnctbHNFSEltZ2VOeVo2Vmhwd3V5OU56S0NGR2x2UFE?oc=5",
+    "published": "2026-10-27 17:10",
+    "timestamp": 1793088600,
+    "summary": "앤트로픽, 스페이스X, 메타 등 주요 기업들이 AI 칩 확보를 위해 2천억 달러 규모의 조달 경쟁을 벌이고 있다."
+  },
+  {
+    "company": "NVIDIA",
+    "title": "네이버·엔비디아·브룩필드 3자 협력…자본·기술 역할 분담 '정석'될까 - 머니투데이 - 머니투데이",
+    "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBsdzJ5cFFSNEdWY2liNWVZVndSTmJJSzF4M2hRQ0g5aGlUZ1R6bllOUVNIaEFiTU9adlRuRnk2WjNqRy1BQTVpeUJJaFJqdjl6RDVaT3ZYTjlHTTdmTkFidi0zZVVtaUI0Wm81R9IBbEFVX3lxTFBsdzJ5cFFSNEdWY2liNWVZVndSTmJJSzF4M2hRQ0g5aGlUZ1R6bllOUVNIaEFiTU9adlRuRnk2WjNqRy1BQTVpeUJJaFJqdjl6RDVaT3ZYTjlHTTdmTkFidi0zZVVtaUI0Wm81Rw?oc=5",
+    "published": "2026-10-27 17:09",
+    "timestamp": 1793088583,
+    "summary": "네이버, 엔비디아, 브룩필드가 3자 협력을 통해 자본과 기술 역할을 분담한다."
+  },
+  {
+    "company": "Broadcom",
+    "title": "에너자이, 브로드컴·시냅틱스와 협력 확대...온디바이스 AI 시장 공략 - 더에이아이",
+    "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE12UXhrVk5yeWhZNTlFSF9KVnFWSTFMUEhsNFN6ZjNTSlExOGU5SnZPa1VWLVF2cHByMUYzVWVqU0o4TnIxZXB0RE15WTJMTWpQS3V0N0tnOTZDOFh5clBqMEQxY0FDVHpWMWl3?oc=5",
+    "published": "2026-10-27 16:35",
+    "timestamp": 1793086503,
+    "summary": "에너자이가 브로드컴 및 시냅틱스와 협력을 확대하여 온디바이스 AI 시장을 공략한다."
+  },
+  {
+    "company": "Cadence",
+    "title": "케이던스, 엔비디아 기반 반도체 설계 AI '마에스트로' 공개…자체 데이터 학습 지원 - AI타임스",
+    "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9GWlFQNl9pcHhOd2NEbE42b3BHanFFdkFzSjQwYnRwdWhBN3NWSlBFMGZ4aTlXdDZUT2x5VWVUT2E4SmYwc2hyTndPLWlZOEc5NGpzZ2o2NzVqS0kxOWtBVWdjZTFmWVBUQlE?oc=5",
+    "published": "2026-10-27 16:31",
+    "timestamp": 1793086262,
+    "summary": "케이던스가 엔비디아 기반의 반도체 설계 AI인 '마에스트로'를 공개했다. 이 기술은 자체 데이터 학습을 지원한다."
+  },
+  {
+    "company": "리벨리온",
+    "title": "하이퍼엑셀·리벨리온, 국산 AI칩 통합 가속… 데이터센터 상용화 시동 - Chosunbiz",
+    "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxOSFZLc19McTRGclhUVVFUdDRDTUxHMXljNEtDdVhxcS1nbDVUUlF5RUNnOXdOVGswSjdpYmVJRVQ0d3BRQzhScmNxcWoxVy1OcURiTVM1cGFyWnBNeVZkRndHSTFPclI3bWl0NmhIUnh2TzhVcjdGMzJwRXNtdGFBdmRn0gGWAUFVX3lxTE03ZXJBN2xYb0wtam9rRTRBcHo3TDJNR3IwdmhOdUxkdXJhcWdoQXRHVmdIalV3STdPc0tNSEhjNFdGa3UzWnl5NHJpSmI3UWM0alViSEszTWliN29ZVmtMV1o2d202UkhGbkRZdnB2XzhOVnZBNGllZnYybnFrM1pVOUFZUlJkaEcyRmxxcm5TVG1wa2prdw?oc=5",
+    "published": "2026-10-27 16:31",
+    "timestamp": 1793086260,
+    "summary": "하이퍼엑셀과 리벨리온이 국산 AI칩 통합 가속을 추진하며 데이터센터 상용화에 나선다."
+  },
+  {
+    "company": "Apple",
+    "title": "애플, '시리 AI' 한국어 서비스 시작 - 매일일보",
+    "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE5TLUVkdV80cGRGalo2clFDZ21adVNCS3JlY3dKM3owcEVQUU5TaHFaVmE2RFZTVExUMkFKZkNpUkRocXczbVd3OUZybWhKNFVlOE54RC1OVlNXdHppS0N5WE0yOWo?oc=5",
+    "published": "2026-10-27 16:19",
+    "timestamp": 1793085575,
+    "summary": "애플이 시리 AI의 한국어 서비스를 시작했다."
+  },
+  {
+    "company": "Meta",
+    "title": "Meta, Muse AI 모델과 인프라 관련 NVIDIA와의 파트너십 강화 - Unite.AI",
+    "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNMDJpUmR6cGE4MkhTS2RPUk00NDF2ZnpXdWxGamItdHo2WkN0M19QYzRIdHpUMGFFUVh1bk5ZRzA4R0pkRURBVThiOHNSLVByNkFhSTRLekdFUkExY1IydGRBdGNiajlROHFmcWRlRHZiRVYwV3JQTjBsVEpFUy1JYjNWX0hLNjBzVjREdFZzSGlUNnpvcnU0VQ?oc=5",
+    "published": "2026-10-27 15:18",
+    "timestamp": 1793081883,
+    "summary": "메타가 Muse AI 모델 및 인프라와 관련하여 엔비디아와의 파트너십을 강화한다."
+  },
+  {
+    "company": "Microsoft",
+    "title": "AI 투자에 1750억달러 쏟는 MS…직원 6만명 희망퇴직 대상 - 한스경제",
+    "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9vM0tMSExheXZBOFltQUduZzFfR0xkTTNGbUpUVkNWb3Y4RXk4ZXBhQVRjbjJOVFZSajZ6bTRRNEhhVUxPZVdKR2lHeXRIcDgxbzdDS2QwdVNUVkVhYUg0UG9Ra3I5MzNzcjRqWNIBb0FVX3lxTE9JU1lUYk4xVzRuRVptMjZ5QmpWdkRxSXFFc29VTDhhZGo1UG4yQzk4YmdMMnEweWNTdEtyVU1Zb3I3V1RqeUZMcGQ4LU9wLXdSSFE5X0lWUHE2S2lsVVhVNXJUZUpVT1J0bE9SOE5fOA?oc=5",
+    "published": "2026-10-27 15:15",
+    "timestamp": 1793081751,
+    "summary": "Microsoft가 AI 분야에 1750억 달러를 투자하며 직원 6만 명을 대상으로 희망퇴직을 진행한다."
+  },
+  {
+    "company": "Infineon",
+    "title": "엔페이즈·인피니언, 세계 최초 900V GaN 양방향 스위치 공개… AI 데이터센터 SST 적용 - https://www.2news.co.kr/",
+    "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE1zWkhIS21GUXpRREhKVkxoZFJxWjdDejRkZUIzT2MxSWF1SWkzRmY4aGctbTFIWndmRTBhSU80b29OTjVDaDBYZjFwTTdkUmV1MnROVGRJVlJvNDF4a1VaS0RrNUdwU05U?oc=5",
+    "published": "2026-10-27 15:06",
+    "timestamp": 1793081199,
+    "summary": "엔페이즈와 인피니언이 세계 최초로 900V GaN 양방향 스위치를 공개했다. 해당 기술은 AI 데이터센터의 SST(고체 변압기)에 적용될 예정이다."
+  },
+  {
+    "company": "TSMC",
+    "title": "앤트로픽 \"메모리 3사 HBM 병목…TSMC 집중도 위험요인\" - 연합뉴스",
+    "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE03YklDNHBxODZqVU9STHZQdk1EMnppV1RMbHVPMFZMbHM3eG42VlBPdlJsRlg3R0VjVzJVZ1U4aUhmc1FCZ3hyUUc4a1M2ZVJ2SDRzYkRiUkN1ZEnSAWBBVV95cUxQbEtTMEMxOHN6eThnamJwb3FEMEY1TTBRdVdEZFV0c3dLYy1aTGhFMlg3QVZ6MWcyWlBvd2tEc3VBU3RKYkkxUjVNcFVWN2l4c1hYT3RVVV9KVHMxZWRVNjk?oc=5",
+    "published": "2026-10-27 14:51",
+    "timestamp": 1793080277,
+    "summary": "앤트로픽이 메모리 3사의 HBM 병목 현상과 TSMC에 대한 높은 의존도를 위험 요인으로 지목했다."
+  },
+  {
+    "company": "TSMC",
+    "title": "TSMC, 첨단 3D 패키징 SoIC 월 생산능력 현재 1만장에서 내년 3만장 이상 확대 - KIPOST",
+    "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE8xcGFLclFydVBSeF9WU2xKcHhFU09zeHFiTk9xdnFiRHA5ejI1VFhmb2NLWjhkX0R1OWFsVVlpaHhoTFZHbUlNLURyZDREUjlEcDZkdzlLOE02bzlCaVV4SzZqcDd4eklO?oc=5",
+    "published": "2026-10-27 14:25",
+    "timestamp": 1793078700,
+    "summary": "TSMC가 첨단 3D 패키징 SoIC의 월 생산능력을 현재 1만장에서 내년 3만장 이상으로 확대한다."
+  },
+  {
+    "company": "Intel",
+    "title": "인텔, 이스라엘 양자 SW 스타트업 '클래식' 인수…22억 달러 베팅 - 더구루",
+    "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE5XN1EwRUJWNmxJWmRsX3BTMlJuUlpJNUt0TU5PRnBXanNrRVdUZkVuY0ZyNTktamMxbFNyTFR6VGtrN0t4VkMzZW9LWUhmOEVuWkhvZGlfdGFqZVdpNUE?oc=5",
+    "published": "2026-10-27 14:10",
+    "timestamp": 1793077807,
+    "summary": "인텔이 이스라엘의 양자 소프트웨어 스타트업 '클래식'을 22억 달러에 인수했다."
+  },
+  {
+    "company": "NVIDIA",
+    "title": "슈퍼마이크로, 2만 2,500개 AI 샌드박스 지원하는 ‘엔비디아 베라 CPU 랙’ 공개 - 뉴스탭",
+    "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9DRnBIWW8xbXBQWW9nMDdOYzNZeWhxVmxPQjZ5dDBXYmprYXp6WnduOU1KS3dNcHkzLXBmWVpVbFhOdXNZRW5JWVlQWVF6YmYxam1HdVJmRnlwb0NFVWxvTkxwRHRYdHBycTJmZg?oc=5",
+    "published": "2026-10-27 14:07",
+    "timestamp": 1793077636,
+    "summary": "슈퍼마이크로가 2만 2,500개의 AI 샌드박스를 지원하는 엔비디아 베라 CPU 랙을 공개했다."
+  },
+  {
+    "company": "Meta",
+    "title": "[글로벌] 메타, AI에 950억달러 더 쏟는다...엔비디아·AMD까지 투자 나서나 - 테크M",
+    "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFA0bENfWXZZeXlvRkJPd09OMzU1RnhvZ1BHUHFhX3RZWGdVWFlKaFBRdFVzZnFZdGY2N2ZjVEpJOEVFQ1N2OUNERVZINmFROEVSYlJJSWExTUk5blZrREJwejg5TEU0QdIBakFVX3lxTFBoNDVSODhHdTdGZ0JjaV9aMmxDNEEwVndZMzN4Nkc1SDR6cXJNUW5PS1RYeHY1NlIydnZTWHVyTW1LUjVfRnl5RWhXVHYwZHpRSlVRYkNGVS1DWGNSU2xaQ2RzOE1UT252OXc?oc=5",
+    "published": "2026-10-27 14:02",
+    "timestamp": 1793077369,
+    "summary": "메타가 AI 분야에 950억 달러 규모의 추가 투자를 단행한다. 엔비디아와 AMD를 포함한 반도체 기업들에 대한 투자 가능성이 제기되고 있다."
+  },
+  {
+    "company": "Samsung Foundry",
+    "title": "RAAAM Memory Technologies Appoints Former Intel and Samsung Foundry Executive Hong Hao as Strategic Advisor - 뉴스와이어",
+    "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE5qbmhwR2NlRDZUdXFVR0h2WVRSeVZiSEN2WTZBZzRYSHlkRmI4WXl0eGlBbFVaS3ZwMzhWc1E2MEdJajNweFl3RU81dDJVVWtNejAxVFpIUG1Ea2dDT3k0?oc=5",
+    "published": "2026-10-27 14:00",
+    "timestamp": 1793077200,
+    "summary": "RAAAM Memory Technologies가 인텔 및 삼성 파운드리 출신 임원인 홍호를 전략 자문으로 선임했다."
+  },
+  {
+    "company": "NVIDIA",
+    "title": "엔비디아, 베라 루빈 HBM4 대역폭 13% 하향…삼성·SK하이닉스 공급 확대 기대 - 전자신문",
+    "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE1na3VUa0Ztb2JTRTBHVlBkQmFhQWVJX2hBbGJEbmJsM3NUQ1dYc2FkdkZuTWcyOHJVSWlmSTlyd3dkWXRUNUZnek1uUFctdw?oc=5",
+    "published": "2026-10-27 13:58",
+    "timestamp": 1793077117,
+    "summary": "엔비디아가 베라 루빈 HBM4 대역폭을 13% 하향 조정함에 따라 삼성전자와 SK하이닉스의 공급 확대가 기대된다."
+  },
+  {
+    "company": "NVIDIA",
+    "title": "씨이랩, 17억원 규모 NVIDIA DGX 시스템 공급 계약 체결 - 톱스타뉴스",
+    "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE85c3ZZNGI5OGgwaVBWLXZoM0VTSWdXQTc1NmJMN1YwQ19rV1YwVHJfdmNGeDZabE5HUHpqTHVHZXJMMjAzZVRZUDVRSmpzQnN3X0pnZmQ5RHlSbDhZV3hLTFNBRE9vaTl6TVJoeVIySGhYdw?oc=5",
+    "published": "2026-10-27 13:56",
+    "timestamp": 1793077002,
+    "summary": "씨이랩이 17억 원 규모의 NVIDIA DGX 시스템 공급 계약을 체결했다."
+  },
+  {
+    "company": "TSMC",
+    "title": "\"TSMC, 첨단 반도체 패키징 가격 최대 20% 인상 계획\" | - 연합인포맥스",
+    "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTFBZVHA3aXhBX0hIeFVaWHYwTVozRnNsZGdURUt2NmYybDVVakpvZ3paWHQ5czdTR1JNbS0xNE1DNkM4RngwT1NYZzMzSXJmN1JxTzJjZHFNbXlXaHZUM1F2R2NoRGdaNmlDTFhsUTUwd2FBSHA5?oc=5",
+    "published": "2026-10-27 13:38",
+    "timestamp": 1793075909,
+    "summary": "TSMC가 첨단 반도체 패키징 가격을 최대 20% 인상할 계획이다."
+  },
+  {
     "company": "STMicroelectronics",
     "title": "이상일, 유럽 반도체 심장부 세일즈 나섰다…ASML·ST마이크로 방문 - 아시아경제",
     "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5JWFFBOXVvVjRCa3hwQVlkbDdaR3c4MnRIYTcxNHJGZUF4eUNqRU1RQnhTUTRHWDlFallnM1E3Vl93UjhhN0Vad1R2ZVJhSXI3YUlNcjVXTnlfNkhYc1FCYw?oc=5",
@@ -14,6 +270,14 @@
     "published": "2026-10-27 12:31",
     "timestamp": 1793071868,
     "summary": "슈퍼마이크로가 엔비디아 베라 CPU 256개를 탑재한 100% 수냉식 랙을 공개했다. 이는 대규모 에이전틱 AI를 지원하기 위한 목적이다."
+  },
+  {
+    "company": "Broadcom",
+    "title": "Energize Demonstrates Broadcom NPU-Based Smart Home AI… Targeting Global Telecommunications Equipment Market - 벤처스퀘어",
+    "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE9PT214RDlOVU9SUDRoSGVKMmM1cXYtR3hSZDV3OWVJQTRreF9DdjlnYWNGa0tUMnQ5eWVicEFUUG15N24wY3Y0a3VUdzJUdWhxTHFz?oc=5",
+    "published": "2026-10-27 12:22",
+    "timestamp": 1793071374,
+    "summary": "에너자이가 브로드컴의 NPU 기반 스마트 홈 AI 기술을 활용하여 글로벌 통신 장비 시장을 공략한다."
   },
   {
     "company": "TSMC",
@@ -70,6 +334,14 @@
     "published": "2026-10-27 10:41",
     "timestamp": 1793065315,
     "summary": "와이제이링크가 구글과 AMD에 공급 이력을 갖춘 SMT 장비 기술력을 바탕으로 글로벌 AI 데이터센터 증설에 따른 주목을 받고 있음."
+  },
+  {
+    "company": "Broadcom",
+    "title": "\"추워\" 한마디에 가전 제어…에너자이, 브로드컴 칩 활용 AI 기술 공개 - 뉴시스",
+    "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTFBDYTZBektJQ0Q1VlZNVU5kRU0tOWtZVEF2WXlhTzRWSS10S1lxbWU5ZXBQbFJJS3ZKWFJIbHpWdVVjQjk2b21iWjNlV0RBNE1OeURpQ3Znblo3R1dNTlBXZEp4cko3VlpQbUE3c0hYT1FsazVQaUREQtIBeEFVX3lxTFBDYTZBektJQ0Q1VlZNVU5kRU0tOWtZVEF2WXlhTzRWSS10S1lxbWU5ZXBQbFJJS3ZKWFJIbHpWdVVjQjk2b21iWjNlV0RBNE1OeURpQ3Znblo3R1dNTlBXZEp4cko3VlpQbUE3c0hYT1FsazVQaUREQg?oc=5",
+    "published": "2026-10-27 10:39",
+    "timestamp": 1793065193,
+    "summary": "에너자이가 브로드컴 칩을 활용한 가전 제어 AI 기술을 공개했다."
   },
   {
     "company": "NVIDIA",
@@ -168,6 +440,14 @@
     "summary": "중국 창신메모리가 애플보다 자국 고객을 우선시하며 D램 공급 협상력을 행사하고 있다."
   },
   {
+    "company": "Qualcomm",
+    "title": "삼성·퀄컴·인텔 뭉친 ′오픈소스 통신망′…위성통신 품고 고도화 - KPI뉴스",
+    "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE5zeUllMm9ta21qaF9oakFkanEzVzY5bHZUaHc2aGQta21LbXlyd09hMGZyV0RNaFY3U2RXTERiRHl6R21ENlItckVFbHE2aDg4c1ow0gFTQVVfeXFMTnN5SWUyb21rbWpoX2hqQWRqcTNXNjlsdlRodzZoZC1rbUtteXJ3T2EwZnJXRE1oVjdTZFdMRGJEeXpHbUQ2Ui1yRUVscTZoODhzWjA?oc=5",
+    "published": "2026-10-27 08:54",
+    "timestamp": 1793058873,
+    "summary": "삼성, 퀄컴, 인텔이 오픈소스 통신망 구축을 위해 협력한다. 위성통신 기술을 도입하여 통신망을 고도화할 계획이다."
+  },
+  {
     "company": "Broadcom",
     "title": "\"엔비디아 아성 깬다\"…브로드컴, 월가 손잡고 앤트로픽에 칩 리스 - 디지털데일리",
     "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE1VekZDc2NtWWUyRzRuWVdkY1VVbEx3STVXTmFheXV5c0I3ckROdUlKLXNhYmFVbi1vZVNUaHBrS2VlN3BtN1FHZU9LZVNMR29qam5jWkR0TUlqd3lJbDl1ODJ5MHg?oc=5",
@@ -184,12 +464,28 @@
     "summary": "엔비디아 그래픽카드의 성능을 강제로 제한했다는 이른바 '성능 봉인설'이 제기되었다."
   },
   {
+    "company": "Apple",
+    "title": "애플, OLED 탑재 신형 아이패드 미니 공개…AI 성능 4.5배 향상 - 현대경제",
+    "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE9yR1g4VG5QSi1CSDdRTWxQOEVXWDl3OXlTallHY1pKeWVCcldLMmdjakNyWGxpNEtIM3dsV09NemVac1dNcDdtYXFmVnZYWVl5Z1d0cmlhUWRMSUJCem9DMzhaU0IzdG4xa1N3?oc=5",
+    "published": "2026-10-27 08:31",
+    "timestamp": 1793057503,
+    "summary": "애플이 OLED를 탑재한 신형 아이패드 미니를 공개했다. 해당 기기는 이전 대비 AI 성능이 4.5배 향상되었다."
+  },
+  {
     "company": "AMD",
     "title": "AMD·인텔, PyTorch용 x86 AI 최적화 통합…AI 개발 공통 경로 구축 - e4ds news",
     "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE81WmRQdnllckRVUUotdzhkUVV3OUM4Q0pWSnNsMENzXzNmZ0RKNlpHd0NxblhDYm9feHpKRXJOdDFqN3E0MU5QWjZla0dTc1hTdGNkTEFn?oc=5",
     "published": "2026-10-27 08:27",
     "timestamp": 1793057257,
     "summary": "AMD와 인텔이 파이토치(PyTorch)용 x86 AI 최적화를 통합하여 AI 개발을 위한 공통 경로를 구축함."
+  },
+  {
+    "company": "GlobalFoundries",
+    "title": "글로벌파운드리스, TSMC에 인터포저 공급…2028년 양산 - 토큰포스트",
+    "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE1VZldYamJjNFR3clpDRXBzVW90Zk14eGhRQXdTZ0s2LVd5aTNvVlVwVUR1TG1JbG5JVkFCd2ZzNE5OZzdCckpIZ2d5UldBNWlrNEkzeU1OU1LSAVhBVV95cUxNVWZXWGpiYzRUd3JaQ0Vwc1VvdGZNeHhoUUF3U2dLNi1XeWkzb1ZVcFVEdUxtSWxuSVZBQndmczROTmc3QnJKSGdneVJXQTVpazRJM3lNTlNS?oc=5",
+    "published": "2026-10-27 08:26",
+    "timestamp": 1793057209,
+    "summary": "글로벌파운드리스가 TSMC에 인터포저를 공급하며 2028년 양산을 시작할 예정이다."
   },
   {
     "company": "Apple",
@@ -240,6 +536,14 @@
     "summary": "메타가 AI 인프라 구축을 위해 증자 등을 통해 126조 원 규모의 자금 조달을 추진합니다."
   },
   {
+    "company": "Samsung Foundry",
+    "title": "TSMC 겨냥한 삼성 파운드리, '내부 이탈' 변수 만났다 - 네이버 프리미엄콘텐츠",
+    "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNcnd4ZGJ3U1NhemtLb3VHQnQ2V2VHLWNiSWxuTTZWc0hZSVJ3NVZkR3ltRnI3TTM5Q0poZkU3ZmU3ZjIySWVCSi1velVOdVVYMUZMT1Q1RjB4ZS1hYlN0UVVxelNRcExFVTFGSENSYmNFblc4VUxPUXVDUTFxd0ViMQ?oc=5",
+    "published": "2026-10-27 06:50",
+    "timestamp": 1793051400,
+    "summary": "TSMC를 겨냥하고 있는 삼성 파운드리가 내부 인력 이탈이라는 변수를 마주했다."
+  },
+  {
     "company": "Cadence",
     "title": "케이던스, 반도체 설계 AI 모델 '마에스트로' 공개...엔비디아 네모트론 활용 - 디지털투데이",
     "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE1ubU9jU01aNEpzaFI4M0IySlVHUlA2cEU1TFBxS1BJbmpzOWZZOTg4RHMzVmxiekZLcEE1OTBhU2NqRXphbnVqQkVYamF5NkZjTUduRWFyNGg1aVd0V3paODBOMmpBb3o0ZGF5RGR0MTQ0azA?oc=5",
@@ -288,6 +592,14 @@
     "summary": "AMD RDNA 4 기반의 휴대용 Xbox Helix가 PSP 3 핸드헬드보다 30% 더 강력한 성능을 보일 것으로 언급됨."
   },
   {
+    "company": "NVIDIA",
+    "title": "NVIDIA, 모듈형 AI 데이터센터 설계 ‘DSX POD’ 공개…효율성 향상 내세워 - Mezha.net",
+    "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQSkJFWVE3ckxrV05Md2YtbzFnZFhGa3ZfSldmRzd2UDhrOVhNS1BlY3dHSmZKQnpuNjd0Zkl5WkxyMnlqUnk1dVpBdjZsZUZTT0pCbTRnX243RVdmdUtWNXA2blFmX1FadTBBcEREa3o0TU1DNWxxdzE0RnpwdlZJTFZYZlZVUlIyXy1Md0NmRUtXTVJuTnc?oc=5",
+    "published": "2026-10-27 01:44",
+    "timestamp": 1793033040,
+    "summary": "NVIDIA가 효율성 향상을 내세운 모듈형 AI 데이터센터 설계인 DSX POD를 공개했다."
+  },
+  {
     "company": "TSMC",
     "title": "“TSMC 멈추면 수년간 충격”…앤트로픽 “美 증설에도 대만 위험 여전”｜Global Money Club - 중앙일보",
     "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5xLWcxM2o5OGpBekVxNHBrNFJka2lTSmxfRDJrR2ZLNWRHYUt2NW5ZWWRrWGc1d1hJTW8tQXJQR3RULWtFV2ZHYmdYZ3RacnpmUGVmc2JNTkl5Qjg?oc=5",
@@ -296,12 +608,28 @@
     "summary": "앤트로픽은 TSMC가 멈출 경우 수년간 충격이 발생할 것이라고 언급했다. 또한 미국 증설에도 불구하고 대만 내 생산 의존에 따른 위험은 여전하다고 지적했다."
   },
   {
+    "company": "TSMC",
+    "title": "Anthropic, TSMC 의존 리스크 IPO 공시 - 데일리바이트(DAILY BYTE)",
+    "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQbGE0RzZ1MFBjUUFXbzlYbC1Gbk9tWVpRR3pJSW1DNnlYTkotSEFRZGx0TjZITHRuc1hTMGoxcjZYbENqTElVWXJzYkgwbnA5RlNaajB6YkJMeHhzRFhTenZRamo2R2lDNkpKSjM3YTNtUEJ3WHdQbUt2YXBtMXVLZEJzd05yQQ?oc=5",
+    "published": "2026-10-27 00:28",
+    "timestamp": 1793028537,
+    "summary": "Anthropic이 IPO 공시를 통해 TSMC에 대한 의존도를 리스크 요인으로 명시했다."
+  },
+  {
     "company": "NVIDIA",
     "title": "슈나이더 일렉트릭은 엔비디아와 협력하여 자체 문제 해결을 위한 AI를 개발합니다. - Vietnam.vn",
     "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPWWZaZU1mS1JiT2RMWjFUa0s3SHMtd2h4YWpvc3VvLTJuS3h6VWsyLWVsWUc1WVMzcGdhd3dWTzRYakFCWkg4Vk1ndEZyTDNXNWZ3RS1qdlhaeEZQb3VPZHRvNkdIZzhXYmdVNkh0Q2Vxdi13bm1fejQ2NGRhTENYbTAtT1dGelNremtqU2RrQU9nQQ?oc=5",
     "published": "2026-10-27 00:15",
     "timestamp": 1793027725,
     "summary": "슈나이더 일렉트릭이 엔비디아와 협력하여 자체 문제 해결을 위한 AI를 개발한다."
+  },
+  {
+    "company": "Broadcom",
+    "title": "브로드컴의 16년 된 Wi-Fi 결함, 회사가 2018에 패치를 배포했다고 밝혔지만 라우터를 위험에 노출할 수 있어 - Mezha.net",
+    "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNeUFEenJRYXZneHV5RUdDcFhFTmZWWW9uN1VpcWFQTG1mZFU2SzBZcXFmcE5rbFVMQ3hyUTZ3MWMyV1hXczdXbXoxb1VXWElxRzFpd1JOYmVObGd3NWRaQ2EzRnpfeEptTi1oa1JVUjhib1NGRkRnVUZVMm81Rk5TUjgxMnFHaldiaThB?oc=5",
+    "published": "2026-10-27 00:12",
+    "timestamp": 1793027520,
+    "summary": "브로드컴의 16년 된 Wi-Fi 결함에 대해 회사가 패치를 배포했으나, 여전히 라우터가 위험에 노출될 가능성이 제기되었다."
   },
   {
     "company": "Microsoft",
@@ -584,70 +912,6 @@
     "summary": "엔비디아와 브로드컴이 미국 테일러 공장 증설에 협력하며 삼성 파운드리의 반격을 지원한다."
   },
   {
-    "company": "NVIDIA",
-    "title": "유럽 리더들, 로컬 인프라 구축을 위해 NVIDIA Vera CPU로 눈을 돌리다 - NVIDIA",
-    "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTFByb2tRYzdNUThtTlZhdkRyS2JXaVdMeFJGOFZfMUx0WFYyRUkzemdQODhxNGFlUnFpUnBMTWczVVQ4X3l4LW11QkZONWdQQWdnN2QxbkZCRUZ1a1JJcFJMcHNoQnZsYTNvdXZhMThYVnp0aVI5a2V5R1RnWjBoUQ?oc=5",
-    "published": "2026-10-26 12:16",
-    "timestamp": 1792984610,
-    "summary": "유럽 리더들이 로컬 인프라 구축을 위해 NVIDIA Vera CPU 도입을 추진하고 있다."
-  },
-  {
-    "company": "NVIDIA",
-    "title": "NVIDIA Cosmos, 월드 모델을 학습·평가·배포하는 새 도구를 열다 - NVIDIA",
-    "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPRUsxeGhoVkNKNzJSeXVDVFZyeFJBRjZwSXgtTUtkRDhKNlNyZ1MxSVBvS3lsd05ROWJIcnRDeFVHSWVTbnBjcFBVQUQxeDI2RDlkb00xeHJuQ2ItZXFoZi1oekhzR2NwanBianh3WHE1VVgxd1FmVkczeERTQUV2RURNdUJHZw?oc=5",
-    "published": "2026-10-26 12:16",
-    "timestamp": 1792984609,
-    "summary": "NVIDIA가 월드 모델을 학습, 평가 및 배포할 수 있는 새로운 도구인 Cosmos를 공개했다."
-  },
-  {
-    "company": "NVIDIA",
-    "title": "기업들은 NVIDIA DSX로 전력 병목을 어떻게 풀고 있나 - NVIDIA",
-    "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFB5VFhMNlhNdDdHam9BQ2s2TGxJVHlaN2d0dWRIUzFBaGZfOGZUVHVoRTdBQ3h2Qk9KSFZCdGg4NmZPT2RHMTJfNUVfZW5jTThNcExSZQ?oc=5",
-    "published": "2026-10-26 12:16",
-    "timestamp": 1792984607,
-    "summary": "기업들이 전력 병목 현상을 해결하기 위해 NVIDIA DSX를 활용하고 있다."
-  },
-  {
-    "company": "NVIDIA",
-    "title": "NVIDIA 오픈 모델, 유럽 공공부문 프로젝트의 새로운 물결을 이끌다 - NVIDIA",
-    "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE5JRGNsbFdyeUhTMlBick91eTJuVkZNNVJSLVdoQ2xVODliMXpvU1R6TnFQeWRtVDMweERJMTdlWUM3ampjV0FDUWl4Vm95UGJTc0lNNFh2Zl9TbFJIc05rOVltLWxLTEZ5QWdjVENka0x1VTduTFE?oc=5",
-    "published": "2026-10-26 12:16",
-    "timestamp": 1792984606,
-    "summary": "NVIDIA 오픈 모델이 유럽 공공부문 프로젝트에서 새로운 기술적 흐름을 주도하고 있다."
-  },
-  {
-    "company": "NVIDIA",
-    "title": "유럽 전역의 선구자들, NVIDIA Earth-2 오픈 모델로 실제 날씨·기후 예측에 나서다 - NVIDIA",
-    "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxOemNCR3JaM0hVN1cwTUxDbF84bFJFRkUxRU41bVdVMjlvOGt2RkR0N0Q5bjh1NWF5VjU3bDhVV2RIZTR2eTR1WVZYYmthckpaLV81aFB4QlRjYk1oU18zUDhGRDhNZnlqMDY1YUwxaVIxYVBhU0tUajRjVXlOQWw4SUVYRDNxMGQ2aURudGtGYw?oc=5",
-    "published": "2026-10-26 12:16",
-    "timestamp": 1792984605,
-    "summary": "유럽의 선구자들이 NVIDIA Earth-2 오픈 모델을 활용하여 실제 날씨와 기후 예측에 나섰다."
-  },
-  {
-    "company": "NVIDIA",
-    "title": "NVIDIA, AI 팩토리 엔드투엔드 관측성을 위한 Minerva를 공개하다 - NVIDIA",
-    "link": "https://news.google.com/rss/articles/CBMickFVX3lxTFBtZWduX21pbmZKNFFHc3QtUV9JWVdWVzFzS2NGdm5kakg1ZlRqVW9HVDd0TFVKWjNVbHMtVUNKYzZ2cUkyR0x1dTdncFRsYTZ6ZWJlQnlqMVJJUldyOGs3djJJUVNTVG5JbXNXcWVra0RIQQ?oc=5",
-    "published": "2026-10-26 12:16",
-    "timestamp": 1792984604,
-    "summary": "NVIDIA가 AI 팩토리의 엔드투엔드 관측성을 지원하는 Minerva를 공개했다."
-  },
-  {
-    "company": "NVIDIA",
-    "title": "유럽 전역으로 뻗는 NVIDIA 클라우드 파트너 — 소버린·오픈, 그리고 안전한 AI 에이전트 - NVIDIA",
-    "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNRHVKZGN3bnV3QkdWWXRWaEpSMC1lV3pFYmE0cW4zdlgtc0NwQTlHeHdEd0d3UWcwWVJPVmxEUXJtaXNKTGg2dFk0Zno2UVV4b21ydUU5MjU2MF9mRjRWVGFMUHY3QkJOQnBaS3ZGTG82RGpjc0ZxdlhvdjlJV0FVVFlFYXBwTWJQeXFR?oc=5",
-    "published": "2026-10-26 12:16",
-    "timestamp": 1792984603,
-    "summary": "NVIDIA가 유럽 클라우드 파트너들과 협력하여 소버린 AI 및 안전한 AI 에이전트 구축을 지원한다."
-  },
-  {
-    "company": "NVIDIA",
-    "title": "NVIDIA, 디지털 탐색부터 물리적인 매장 운영까지 유럽 리테일 산업을 바꾸다 - NVIDIA",
-    "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE8wUGtvakVOZDNnY2Y5WHVGMGZEZ1BzN2FTYm1ZQW5aYWxzYWRlN3RxZzVZdmtUaEswM294Vld6cHNkaGpHRkZhMVZvaTloV2Q3WThJMFF2emNEX180QTlvY1lxMWhZU0dKcXN1STNnaHNteEJZQnlrbw?oc=5",
-    "published": "2026-10-26 12:16",
-    "timestamp": 1792984602,
-    "summary": "NVIDIA가 디지털 탐색부터 물리적 매장 운영까지 유럽 리테일 산업의 변화를 이끌고 있다."
-  },
-  {
     "company": "Tenstorrent",
     "title": "펀딩 주간 | Mural, Tether 리드로 1,500만 달러 시리즈 A 완료…AI 칩 스타트업 Tenstorrent는 15억 달러 시리즈 E 완료 - PANews",
     "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1GdTdacnV3SEQzeG1pUDZ2M25uUlExOTlmOE4yaS1EZG81Nk9vLUU2NVpMUU9vN1AxelhKeGMtMVZIbEVuWUY4Qm9yYW5EZU1UTUNYVkY2V3NfNV9Iako4S21LTjJUcjAtaFpGXzRweGR5MzFuZnRTNmdOZmF1alU?oc=5",
@@ -686,14 +950,6 @@
     "published": "2026-10-26 10:33",
     "timestamp": 1792978414,
     "summary": "AMD의 차세대 아키텍처인 Zen 6c가 Zen 5 대비 IPC를 최대 24% 향상할 것으로 언급되었다."
-  },
-  {
-    "company": "NVIDIA",
-    "title": "데스티니, 엔비디아 인셉션 선정…기술 자료·우대가·투자자 매칭 지원 - 스페셜타임스",
-    "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE1lWldSaEFQNTJDa3oydVNhWjdVcW1JUjNvRGhsRndPT3pMeGxGc0dZSUFyQlVpMVNKS0RmZ2hPdUJ2b2x4aGNHTUJhQmczMng4UG5XZU1fODBMaVpTTC0zZENOQXFKRkd5a1V0Zk83Mm9kUQ?oc=5",
-    "published": "2026-10-26 10:31",
-    "timestamp": 1792978290,
-    "summary": "데스티니가 엔비디아 인셉션 프로그램에 선정되어 기술 자료와 투자자 매칭 등을 지원받는다."
   },
   {
     "company": "Cadence",
@@ -2160,14 +2416,6 @@
     "summary": "인텔이 반도체 수요 개선에 힘입어 애리조나와 오하이오 지역의 공장 건설 프로젝트를 진전시키고 있다."
   },
   {
-    "company": "AMD",
-    "title": "AMD, FSR 4.1 지원 대상 확대...RX 6000 시리즈 포함 - 디일렉",
-    "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFBCWThWS1BwampvdVc2YlMtME1ucE1MVnB1aFJadzYwYjJPRy0xNl9COTI2alNWN0NsMW40TXBDSjliNTRXWUpwbDJ5UnkwU0g1REVvY1RPVjg2X3A2WG85MHFWSzJTQQ?oc=5",
-    "published": "2026-10-21 22:48",
-    "timestamp": 1792590528,
-    "summary": "AMD가 FSR 4.1 지원 대상을 RX 6000 시리즈까지 확대한다."
-  },
-  {
     "company": "Apple",
     "title": "애플, BOE 등에 'LCD 아이맥' 자료요청서 발송...'OLED 속도조절론' 부상 - 지디넷코리아",
     "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9sRFRHMmljVDF6V2E1a0lZbm9WT0I0bkU3NWY0ZmdDSDRsRjdxbXRkSk9WWVhuT2JFSjhmd1FWNWdRTmdwRlFNaWZ2c3BRcENOdldkckV3?oc=5",
@@ -2280,14 +2528,6 @@
     "summary": "퀄컴이 그동안 진행해 온 AI 스타트업 육성 사업의 성과를 공개했다."
   },
   {
-    "company": "AMD",
-    "title": "AMD·인텔, 파이토치 CPU 최적화 협력...x86 AI SW 통합 추진 - 더에이아이",
-    "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE9rMXdKZFB5LXRNNTY2VEx6M2VFRERpN2toM0RrVmREakFWZmJaMEdJdnI4NkV0QTZwNjZKTjh1MmZYSVNBYUowVUhtQ0hjMGlHdTZ6UzlUeW5ZeTdwN0tjME1wdHRUQ1pkd0pr?oc=5",
-    "published": "2026-10-21 17:21",
-    "timestamp": 1792570903,
-    "summary": "AMD와 인텔이 파이토치 CPU 최적화를 위해 협력하며 x86 기반 AI 소프트웨어 통합을 추진한다."
-  },
-  {
     "company": "에이직랜드",
     "title": "에이직랜드, 산업통상부 장관 표창…“반도체 생태계 확장 공로” - 문화일보",
     "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE1FYjgya0J0QmRaR244MlQzbUtUdVc5SWFSa2dtRFZCYk5vVk1sM3BQbWhKUGlOQ2lSb1dTbFNUX1NpS2YtY0I0V1EyZUo5RFcy?oc=5",
@@ -2302,14 +2542,6 @@
     "published": "2026-10-21 17:12",
     "timestamp": 1792570342,
     "summary": "퀄컴이 스마트폰용 칩 사업 부진의 여파로 글로벌 감원을 추진한다."
-  },
-  {
-    "company": "AMD",
-    "title": "AMD, 아드레날린 26.10.1 출시…FSR 4.1 지원, RX 6000 시리즈까지 확대 - 케이벤치",
-    "link": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE9zdldUa1pxQ1d4TlJLRnp0LVV0YmU0OThJZ0VobnpZVGFxOXZocDY0cG5QQTAxRlNBWU5iNnZjbWl0OUZZMmhoeA?oc=5",
-    "published": "2026-10-21 16:41",
-    "timestamp": 1792568485,
-    "summary": "AMD가 아드레날린 26.10.1을 출시하며 FSR 4.1 지원을 RX 6000 시리즈까지 확대했다."
   },
   {
     "company": "TSMC",
@@ -2536,28 +2768,12 @@
     "summary": "리벨리온이 엔비디아의 시장 지배력에 대응하는 K-반도체 기업으로서의 저력을 보여주고 있다."
   },
   {
-    "company": "Intel",
-    "title": "인텔(INTC.O), AI 추론용 GPU 공개...'저전력 D램'으로 HBM 대체 노린다 - 메디컬투데이",
-    "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTFB5dkUzLWV3NjllSFZ0WVZVX3BhdnE3UlZoLUo2eTgzb3Zoenc4TGdHak1xaDRKeThYNzNSU0JiZnE0QjFlM2U1dS1nOGFMaHZ3dHNEMUw1cHFXS1lYaUlnZEVadHRPbDVWbm44eg?oc=5",
-    "published": "2026-10-21 07:41",
-    "timestamp": 1792536105,
-    "summary": "인텔이 AI 추론용 GPU를 공개했습니다. 저전력 D램을 활용해 HBM을 대체하려는 전략을 추진합니다."
-  },
-  {
     "company": "TSMC",
     "title": "TSMC·HBM 주문 폭주…日 캐논, 노광장비 1.5배 쏜다 - 글로벌이코노믹",
     "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPT0RWejdSX2x6d2xWclViVTdhdGxQc21FTndxdXVwdldTX045VjY1Qk15U0hvdFBpcXJ5M1VtQkR3MXNSd2o5SFA0WV81TjBKcjlKMlFld1l1SkE2V2VndXFtOXFZSHdxUzc1TG5iZkdUdHNHOEpJMTZOR2xoaFN0T2RTU3ZiRk1OR0N2akFvYXk5YW01dVRj?oc=5",
     "published": "2026-10-21 07:35",
     "timestamp": 1792535745,
     "summary": "TSMC와 HBM의 주문이 폭주함에 따라 일본 캐논이 노광장비 생산량을 1.5배 확대한다."
-  },
-  {
-    "company": "Intel",
-    "title": "Modal, 엔비디아 Vera CPU 도입… 자체 테스트서 AMD·Intel 대비 처리량 2배 - 디지털포커스",
-    "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9iNWdubXhadUJ5TldsY1V5UnFwM1k2bGVjZlFhcFB4eE1feEdUc2EyV0lwQ0tsek1HVFFLdFRqUmRvanEyWUU5NFNvaE51M0hFeEk3TWxUWDFOVUg1dEpydXNGZFF1N0tmUFdrb3pMbU0?oc=5",
-    "published": "2026-10-21 07:29",
-    "timestamp": 1792535352,
-    "summary": "Modal이 도입한 엔비디아 Vera CPU가 자체 테스트에서 AMD와 Intel 대비 2배의 처리량을 기록했다."
   },
   {
     "company": "Qualcomm",
@@ -2792,14 +3008,6 @@
     "summary": "아마존이 인공지능 시장에서 엔비디아와 경쟁하기 위해 새로운 소프트웨어 도구를 출시했다."
   },
   {
-    "company": "TSMC",
-    "title": "Samsung Electronics and TSMC Set for First HBM Manufacturing Collaboration - 인사이트코리아",
-    "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTFBRTGwxVDJLMXFLdW54a2lXdzdEM2M2MXRUaElJLUhBV1Q1bmtDQlpLZlFheEduMndYb3lfN3VvZ09NbmtzYy1ieVBLQ1FzOG9JZmRYTjRfUzRiOEJRdjB2bm55Nlc0VFlDUEFYR2hfODEwVzDSAXdBVV95cUxPN2ZoM0V2bDdNNUQ0M0pqd2tQYkZiRy1wdnlxanRkZFhvMXlLMkhvVGVhMHRtUEpOaXR0U040Qkt0c3IwdmU4OG1UQ3gyVHlrX3ZIdFZvUE9FZ3dWUWdOak54Z1M1Z0JPOTFRSjViWFpWeXctVGZndw?oc=5",
-    "published": "2026-10-20 13:00",
-    "timestamp": 1792468800,
-    "summary": "삼성전자와 TSMC가 최초의 HBM 제조 협력을 진행한다."
-  },
-  {
     "company": "NXP",
     "title": "마우저, AI·엣지·산업·로보틱스 애플리케이션용 NXP ‘Ara240’ 디스크리트 신경망 프로세싱 유닛 공급 - 테크월드",
     "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE9tbmFRMXZUc19aa3dHNmxmYWlSdm5WdjBVa2RiQWdzYkJEZXo3eHFyc3RKTHN0Vk5HNGttVllBY09adV9weFMySkdzR3FjTUhjeDJPVnh3Q1B3dXpqVms3eGhfRUxRZmVR?oc=5",
@@ -2814,14 +3022,6 @@
     "published": "2026-10-20 12:43",
     "timestamp": 1792467780,
     "summary": "구글이 자연어 명령으로 작동하는 로봇 관련 특허를 출원했다. 해당 기술은 AI가 작업 순서까지 계획하는 기능을 포함한다."
-  },
-  {
-    "company": "TSMC",
-    "title": "[NNA] TSMC, 미·대만서 첨단 공정 전개 가속화 - 아주경제",
-    "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9nOHY2ODdnVU9SSGFSNzU4OWVLbUlBeVZpR3Uta0tPQ1V5V2pvSjdqaGpUYkZZUngyc3FhMDZqcThQQlhsZmRuOWJrTWI4SlRCeDBSTUFBV0xzUdIBWEFVX3lxTFBsd1M3b3RTMUx1aF9PUDhwNW1hUnJKNnJhdUVteE1NQXlLTXNHdDY5V0FjNzMxNmUzdHVQZXI3RzhaT3lFSkdYY1VET1dOQkxpOUx6MFJNTXk?oc=5",
-    "published": "2026-10-20 12:16",
-    "timestamp": 1792466201,
-    "summary": "TSMC가 미국과 대만에서 첨단 공정 전개를 가속화하고 있다."
   },
   {
     "company": "NXP",
@@ -2928,14 +3128,6 @@
     "summary": "아마존이 엔비디아의 독점 체제를 견제하기 위해 AI 칩 생태계 구축을 본격화한다."
   },
   {
-    "company": "TSMC",
-    "title": "TSMC \"3나노 공장 또 짓는다\"…삼성, 'GAA 2나노' 승부수로 맞불 - 한국경제",
-    "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFB3d1FmQmhNMXB3M1ZCdl9PYkE2czJaN1NMR2hiX2kxUWc3WElMWFlsM3dSNmJCYXpxV21NcDB6c25EZnBvS1Rmb0NEVlBoMWgxZVVSZGd0NExJZw?oc=5",
-    "published": "2026-10-20 08:00",
-    "timestamp": 1792450804,
-    "summary": "TSMC가 3나노 공장을 추가로 건설하며, 삼성은 GAA 2나노 공정으로 대응한다."
-  },
-  {
     "company": "Qualcomm",
     "title": "퀄컴, 오라이온 CPU 라이선스 소송에서 Arm에 승소 - 뉴스 및 통계 - IndexBox",
     "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOSlMtajQ5RlpMbW5HOEFfLVU1aXlIQ1NZbWdpOS0yRHVZdjdzb25kMnhSY3YzMlRJSi1NVHJsMldWNUc3NmZDTUFUV0tuSy1FbFdDYVNxcmZfUHVzcnVOTWY3dmlManJBb3lRd0NlaHFTbE94Z0ZwY1BaeDZ4ZE9TRVBNcHdTaEZLVno2ZkN4d0czSk9MT2pGV3NFbHV2T1kyVmtv?oc=5",
@@ -2982,14 +3174,6 @@
     "published": "2026-10-19 21:34",
     "timestamp": 1792413269,
     "summary": "퓨리오사AI 정영범 상무를 포함한 주요 기업 관계자들이 한자리에 모여 기념 촬영을 진행했다."
-  },
-  {
-    "company": "TSMC",
-    "title": "TSMC, 타이난에 3나노 공장 추가로 짓는다…2028년 양산 목표 - IT조선",
-    "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE9YeFdsemU3WHdod2s1V3dlQVRnTkdiSVNfZWZDQWZyT1M1THNaM1QzazBkdkUzb2wtUGZ2N1phbURtRWZFYkJIR1I4ejd1WThrSDFNQ0hXcWVGcmNSOGprb0c1Nm02TlVoWUFSX0MxX0tvZ1dn0gF0QVVfeXFMT1h4V2x6ZTdYd2h3azVXd2VBVGdOR2JJU19lZkNBZnJPUzVMc1ozVDNrMGR2RTNvbC1QZnY3WmFtRG1FZkViQkhHUjh6N3VZOGtIMU1DSFdxZUZyY1I4amtvRzU2bTZOVWhZQVJfQzFfS29nV2c?oc=5",
-    "published": "2026-10-19 20:42",
-    "timestamp": 1792410156,
-    "summary": "TSMC가 타이난에 3나노 공장을 추가로 건설한다. 2028년 양산을 목표로 한다."
   },
   {
     "company": "모빌린트",
@@ -3110,14 +3294,6 @@
     "published": "2026-10-19 15:34",
     "timestamp": 1792391678,
     "summary": "ETRI 연구환경에 다키클라우드의 Aegis와 Metis가 적용되었으며, 이 과정에서 리벨리온의 NPU가 활용되었다."
-  },
-  {
-    "company": "Qualcomm",
-    "title": "퀄컴, V2X 기반 교통 안전 시장 공략…차량·인프라 연결로 미래 모빌리티 확장 - 테크데일리",
-    "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE4tR2dpWE92dmN4WlJTLTNVWXQ2Mnl3dERXN1BPTGNqQ3p6NENZdl84SU9lUUZhTGN5R2puNFN0OVZjLV9xdUhlOXJqVUJhMk5qUWZLVXV5Y2xjdjN3OG5EUE1oSHc3TnhzTVVuM2dR?oc=5",
-    "published": "2026-10-19 15:23",
-    "timestamp": 1792391036,
-    "summary": "퀄컴이 V2X 기반 교통 안전 시장을 공략한다. 차량과 인프라 연결을 통해 미래 모빌리티 사업을 확장한다."
   },
   {
     "company": "파두",
@@ -3504,14 +3680,6 @@
     "summary": "Meta가 개발자와 코딩 에이전트를 위한 오픈 웨이트 모델인 'Muse Spark'를 공개했다."
   },
   {
-    "company": "Apple",
-    "title": "애플 CEO \"메모리 심각한 위기…모든 선택지 검토\" : 기업·산업 - 재경일보",
-    "link": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE5peTM1Y3k5QXJJN18ydlRsclAtT09nYWxQa2l2ZVhFZUtlbkhEV215UHdRWVBTclJFaDQzNkM4ZE1feldsekN6Y25zVQ?oc=5",
-    "published": "2026-10-16 23:02",
-    "timestamp": 1792159325,
-    "summary": "애플 CEO가 메모리 반도체 시장의 심각한 위기를 언급하며 모든 선택지를 검토하겠다고 밝혔다."
-  },
-  {
     "company": "Meta",
     "title": "메타, 애플 맥 스튜디오에 오픈소스 AI '뮤즈' 얹는다 - 머니네버슬립",
     "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE4wZ2ZGNkczalRFa1g1U3BwTG5nN1pQOXhrSmI2V1ZtMnNiM2FET3NRUWdIcU80dnJqdFA0RU5CNE9tcXF3emN6Z0cySWNaR0dMRjhsNV94bER0NXJ6X21IV0toRWxhREZEVVJjNHJQMWQyMHB0cVFV0gF3QVVfeXFMTjBnZkY2RzNqVEVrWDVTcHBMbmc3WlA5eGtKYjZXVm0yc2IzYURPc1FRZ0hxTzR2cmp0UDRFTkI0T21xcXd6Y3pnRzJJY1pHR0xGOGw1X3hsRHQ1cnpfbUhXS2hFbGFERkRVUmM0clAxZDIwcHRxUVU?oc=5",
@@ -3544,14 +3712,6 @@
     "summary": "ADI가 AI 기반 화학 특성 감지 기술을 활용하여 와인 생산 공정을 고도화한다."
   },
   {
-    "company": "Apple",
-    "title": "[뉴스&분석] 애플 \"메모리 품귀위기\"… 중국산 검토 - 매일경제",
-    "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE05OGpWYm9TUVBRUE81Um43QVQ1bnZCSGdsZWd4VkltMGpUSk9ieFpkbVJHUmUteFhsNnM4bjNuaVJXbXRnTDFWVnBzNjZDazBRMGkxLVhn?oc=5",
-    "published": "2026-10-16 17:55",
-    "timestamp": 1792140949,
-    "summary": "애플이 메모리 품귀 위기를 해결하기 위해 중국산 메모리 반도체 도입을 검토하고 있다."
-  },
-  {
     "company": "퓨리오사AI",
     "title": "퓨리오사AI·리벨리온…韓이공계 엘리트, 美빅테크와 맞짱 - 매일경제",
     "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBCOHBCcTh6TVhSa2FmcXdpc3g1WUNuV0xCX3A4a21yejdSSUlHVk53X19LMnItN2VBbnhGekV6RlhYR3QtZEJZY2JGN2xkMnlGb2ktTnVR?oc=5",
@@ -3582,14 +3742,6 @@
     "published": "2026-10-16 17:04",
     "timestamp": 1792137864,
     "summary": "딥엑스의 NPU 기술이 라즈베리 파이 공식 뉴스룸에 소개되었습니다. 이를 통해 피지컬 AI 시장 공략을 가속화합니다."
-  },
-  {
-    "company": "Apple",
-    "title": "애플 CEO \"메모리 공급난은 절대적 위기\"…中 반도체 도입 시사 By EBN - Investing.com 한국어",
-    "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE0yc3A5NVF5OUM5eDFzRk1oVjlIVDN3UkVoeUlKRW9uckpwNWNNYlU4WUpVRExlcHFhdVVQb2FQWjhEd2JRVFVaUHlPVkZmelhUVkU3X0JhdnhjcHM0NlFKTWJzUUdJaUR2bGNnd1lIV2U?oc=5",
-    "published": "2026-10-16 16:44",
-    "timestamp": 1792136692,
-    "summary": "애플 CEO가 메모리 공급난을 절대적 위기로 규정하며 중국산 반도체 도입 가능성을 시사했다."
   },
   {
     "company": "Samsung Foundry",
@@ -5048,14 +5200,6 @@
     "summary": "망고부스트가 '망고 인퍼런스'를 정식 출시하며 DPU를 넘어 AI 팩토리 분야로 사업 영역을 확장한다."
   },
   {
-    "company": "Microsoft",
-    "title": "[AI 고속도로] MS, 엔비디아 의존도 낮춘다…자체 AI 칩 '마이아' GW급 확대 - 지디넷코리아",
-    "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5PZXhHVF9zc1B3WE9peHdqRFVFLW9xc1IwWWJDSUhzRVd3SEtabGZ3RWVjSE5xMUctY0dKOURWZnEtR0V2OC12OFZ2WE1ZQkhvcXFCRUlB?oc=5",
-    "published": "2026-10-13 09:10",
-    "timestamp": 1791850241,
-    "summary": "마이크로소프트가 자체 AI 칩 '마이아'의 GW급 확대를 통해 엔비디아 의존도를 낮추고 있다."
-  },
-  {
     "company": "Meta",
     "title": "삼성운용, 메타·팔란티어 담은 AI 에이전트 ETF 신규 상장 - 연합뉴스",
     "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9waURoa1pPakgwSE9xYlJuZ2puUF9Nb0MwSWVrZjk3UHhrODRFeTVUVW1vYzYtVkhvbHRwaFFnSXhtd1JkWjdleE54Vnc5WVJBOUtOQ2RfR1Vfb0tLY3B2dNIBYEFVX3lxTE9waURoa1pPakgwSE9xYlJuZ2puUF9Nb0MwSWVrZjk3UHhrODRFeTVUVW1vYzYtVkhvbHRwaFFnSXhtd1JkWjdleE54Vnc5WVJBOUtOQ2RfR1Vfb0tLY3B2dA?oc=5",
@@ -5744,22 +5888,6 @@
     "summary": "오픈AI와 앤트로픽이 차세대 AI 모델인 GPT-6와 클로드 하이쿠 5.5를 각각 선보이며 정면승부를 펼친다."
   },
   {
-    "company": "Broadcom",
-    "title": "브로드컴도 '순환금융'…오픈AI 칩 구매용 67조원 조달 추진 - SBS Biz",
-    "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE9iVTVrdU1vcm1lX0RCdTU4UzRQMGtTakVRTkdGNDRrT2tQWlhreWF1dmFXWWwwMlBpZDRfLUlUUEQwd2o4Q0swdUZJYUNpaEo1ZENj0gFYQVVfeXFMTi1zVVE4X251WTVfYkNGUzdtXy1LNFEtRzd4RnJlTHZ0NGwtZlpHd2xmZnYxaHktTEdybThiWjM4RG5aMFlmSjVpQ1lCMjF6Q2NfMEVJQzdJbw?oc=5",
-    "published": "2026-10-08 09:09",
-    "timestamp": 1791418140,
-    "summary": "브로드컴이 오픈AI 칩 구매 자금 조달을 위해 67조 원 규모의 순환금융을 추진한다."
-  },
-  {
-    "company": "Broadcom",
-    "title": "브로드컴, 오픈AI 맞춤형 AI 칩 구매 위해 300억달러 부채 조달 추진 - 디지털데일리",
-    "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE5OTk5KN3hva3VhVUJRLTVlZGVPd09jeEEtWTZmOEY0amJUeTVfUmZ6b3htMmtsa2VJQ192azFyN1YzVDlWY2l5ZkNJR1NJYnFfck1ZVzN6ZHpkcnk2OFNOcEZsMTQ?oc=5",
-    "published": "2026-10-08 09:02",
-    "timestamp": 1791417722,
-    "summary": "브로드컴이 오픈AI 맞춤형 AI 칩 구매를 위해 300억 달러 규모의 부채 조달을 추진한다."
-  },
-  {
     "company": "모빌린트",
     "title": "모빌린트 NPU, 누리호 탑재 \"국산 AI 반도체 최초 우주 진출\" - 와우테일",
     "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE9zbTdIdC1qVm5JM2hyMjJTc3BsM05XWDFyeE5UbXhKOEpEV3dfQ25QcHlWaWhoUFhHNHRZeTBjMkV4YmRpbUVtOVkxZTRxLW8?oc=5",
@@ -5782,14 +5910,6 @@
     "published": "2026-10-08 08:08",
     "timestamp": 1791414491,
     "summary": "미 국방부가 울프스피드에 15억 달러 규모의 대출을 지원한다. 이를 통해 전력반도체 자급률을 높이는 속도를 낼 예정이다."
-  },
-  {
-    "company": "Broadcom",
-    "title": "브로드컴·오라클·스페이스X, AI 칩 구매 자금 조달 경쟁…월가 금융사 참여 확대 - 디지털데일리",
-    "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE16LWw5WG5TUUVWOUpvZ3Q5TFVFa1pRSXpNNjlEUlpuTEdxMHVLYUhqcDV6V1A5blpjZjZiREFxOS1mWHh0S0duN3Q0TFVWMkdfeHUxTjRHYnQ4TS1pYkhjUk13?oc=5",
-    "published": "2026-10-08 06:41",
-    "timestamp": 1791409276,
-    "summary": "브로드컴, 오라클, 스페이스X가 AI 칩 구매 자금을 조달하기 위해 경쟁하고 있으며, 월가 금융사들의 참여가 확대되고 있다."
   },
   {
     "company": "Lattice",
@@ -5872,28 +5992,12 @@
     "summary": "퓨리오사AI가 HBF 기술을 적용하여 LLM 작업 시간과 에너지 효율을 개선하는 성과를 거두었다."
   },
   {
-    "company": "Broadcom",
-    "title": "앤트로픽, 삼성 2nm로 자체 AI 가속기 만드나…브로드컴과 개발 - 케이벤치",
-    "link": "https://news.google.com/rss/articles/CBMiSEFVX3lxTFBwSElVV2t2ZVc1bnNzNVpjZ2NfWlNFdVVIbDRXbk5xQUEtU3N4QzJleHRqZ2lMYTRnb1BpUG52WlM0c3lWR282SQ?oc=5",
-    "published": "2026-10-07 16:17",
-    "timestamp": 1791357443,
-    "summary": "앤트로픽이 삼성전자의 2nm 공정을 활용해 자체 AI 가속기를 개발하며 브로드컴과 협력한다."
-  },
-  {
     "company": "Samsung Foundry",
     "title": "자체 물량 채우는 삼성 파운드리…TSMC 가격 인상에 수주 기회 - 메트로신문",
     "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9OTVNjQUo4VXY5aGdCQzhDa2RIM1dKLXVMUXNzWFVXNC14Tm1aVnRmQ21NdnVHVVRyZkNORWhaVDRsaGIxdzNnMG9TX2RDSEZKV2tiNzlORm5jdWtKVWlEcQ?oc=5",
     "published": "2026-10-07 15:52",
     "timestamp": 1791355959,
     "summary": "삼성 파운드리가 자체 물량을 채우는 가운데 TSMC의 가격 인상으로 인한 수주 기회가 발생함."
-  },
-  {
-    "company": "Broadcom",
-    "title": "“엔비디아 독주 흔든다”···브로드컴, 맞춤형 TPU 칩과 600억 달러 부채 패키지 승부수 - Benzinga",
-    "link": "https://news.google.com/rss/articles/CBMiqgJBVV95cUxOSHpPY1N3cWl2Y2RtMTBQSFhoTmNJN1dDdnc3RVZBNlgwTW9FTWR2VjB2cU9iRzBQSUhfQU0ybnJwUTdxMS1GcHYxcloyeEs1ZzQtVGE3TElsRmJPOTBUZkRiejdfWENzNHR5b0dfWmthNnZVai1KQUIwMGNQMnhQLW5DRlN1UFZNT0NBSXFjSWt4Tjc5TVgxOUtEUDNRaDBFaUwxN3VIVTYzS3VPOWNQeDNKeUkyQ1NMMDktcTFEQmJMNlV0VUdyRXItSDVNRXNrYjcwbmhncGJyYkphcW42WFcyd2sxRzFDM1JOeTl4Q1VlTlZyMEVQNjZyOXgwaXVVYk4zY2RaZ2djUmRqcWVBbF9mQWVJV1dFNFhMNEtSeGNzdkxpb0wta2Rn?oc=5",
-    "published": "2026-10-07 15:28",
-    "timestamp": 1791354480,
-    "summary": "브로드컴이 맞춤형 TPU 칩과 600억 달러 규모의 부채 패키지를 통해 엔비디아의 시장 독주에 대응하는 전략을 추진한다."
   },
   {
     "company": "Samsung Foundry",
@@ -6302,14 +6406,6 @@
     "published": "2026-10-05 08:36",
     "timestamp": 1791156990,
     "summary": "퓨리오사AI가 레니게이드 양산과 유럽 시장 검증을 병행하며 8,000억 원 규모의 투자 유치 마무리를 앞두고 있다."
-  },
-  {
-    "company": "OpenAI",
-    "title": "오픈AI, '제2의 아이폰'으로 애플 정조준 - 미주조선일보",
-    "link": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxNMUxRamR0OG8yUFFsSDdXYTl5NEVXeXFtZ243SGZ3M2dNbjkwQi00VXlvY2dWVmtpd0piT0dQZGpYNFdtLXE5aGcyb1ZCeXk1cnB5RlNIbG9XS0JnTlRSN0N1d0RIaWlwcjNFd3Nyc0l1VUhiUGZGbC1NMFNyeC1kdHpEaU9VdHdVNGJESzJRZUlEWGFxdHdNSmJXcFh5OVdpVU93bFR5VzhlVUlMcWhZZXhZWHh2U2s3eDBNdU9jN0JBUUFoa2RtZkJTNFRESENoZWZGSnRnTQ?oc=5",
-    "published": "2026-10-05 06:35",
-    "timestamp": 1791149701,
-    "summary": "오픈AI가 애플을 겨냥하여 제2의 아이폰으로 불릴 만한 새로운 기기나 서비스를 준비하고 있다."
   },
   {
     "company": "Wolfspeed",
@@ -7422,45 +7518,5 @@
     "published": "2026-09-28 06:00",
     "timestamp": 1790542800,
     "summary": "국민성장펀드가 퓨리오사AI에 대한 4000억 원 규모의 투자를 결정했으나, 민간 매칭 지연으로 인해 4개월째 집행이 미뤄지고 있다."
-  },
-  {
-    "company": "에이직랜드",
-    "title": "‘국내 유일 TSMC 파트너’ 에이직랜드…주문형 반도체 업계의 엔비디아를 꿈꾸다 [그 회사 어때?] - v.daum.net",
-    "link": "https://news.google.com/rss/articles/CBMiRkFVX3lxTE4xdmlpeW1KejdSdnpjTnBpX2tKRVFBa1Itd2NZYTFlMkZmY2dMV3d0Mk5jTEx3aEEzSl9LcEcyeGlNVjBxZEE?oc=5",
-    "published": "2026-09-27 18:42",
-    "timestamp": 1790502136,
-    "summary": "국내 유일 TSMC 파트너인 에이직랜드가 주문형 반도체 업계의 엔비디아를 목표로 사업을 전개한다."
-  },
-  {
-    "company": "리벨리온",
-    "title": "[단독]싱가포르에 깃발 꽂은 리벨리온…K-NPU, 亞 인프라 경쟁 - 서울경제",
-    "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBnYkNqNFBqOHpEa3o2YTJFM1BjZFV0VnI2Um13RWF2NU9BeXlfSHU5Q1dOdDM5Q3drUmJiVWJmcnZhcThCQ0h2LU0tcEk5Z2I5cHfSAVNBVV95cUxPdVJQZjlHakZjX0pDZGRsSk5la3pXN1E0REVoNjJmVWxHbHJhY0owdzZjZTlPSVNOOTBsYVdyMGJ2VFE4NnFEWUNWbWQzX29XVjRiaw?oc=5",
-    "published": "2026-09-27 17:40",
-    "timestamp": 1790498450,
-    "summary": "리벨리온이 싱가포르에 진출하며 아시아 인프라 시장에서의 경쟁력을 강화하고 있다. K-NPU를 앞세워 현지 시장 공략에 나선다."
-  },
-  {
-    "company": "라온텍",
-    "title": "“스마트글래스 온다”… 케이쓰리아이·라온텍 등 AR 관련주 신바람 - 핀포인트뉴스",
-    "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE5LMHkyaVRnSkF1bFctSGszNEdLSDBfQzZ4eG5EejE0MlAwdDJIV25Rc3JxeXBzbkVhNDBESlJoMWVIT2hQTHBfcTY0RDVlYXVuWnAxcGJieV9UdXpjUlFKdnN0bzZ0bDd4T0ZNRE56OUZFZFdBamR30gF3QVVfeXFMTksweTJpVGdKQXVsVy1IazM0R0tIMF9DNnh4bkR6MTQyUDB0MkhXblFzcnF5cHNuRWE0MERKUmgxZUhPaFBMcF9xNjRENWVhdW5acDFwYmJ5X1R1emNSUUp2c3RvNnRsN3hPRk1ETno5RkVkV0FqZHc?oc=5",
-    "published": "2026-09-27 15:57",
-    "timestamp": 1790492245,
-    "summary": "스마트글래스 시장 확대에 따라 라온텍을 포함한 AR 관련주들이 시장의 주목을 받고 있다."
-  },
-  {
-    "company": "Sony Semiconductor",
-    "title": "소니 반도체, 직원 8천명 '출근 체제'로…日 재택근무 축소 확산 - v.daum.net",
-    "link": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE43aXZxODBnWE40MmpXNk0wWUYtYl93bnRBQ0FkdS0yZmF4X1lWREJERWpPNm5CTFZrWVBocG8xNVhCNGdVbUNUeVFzMA?oc=5",
-    "published": "2026-09-27 14:48",
-    "timestamp": 1790488080,
-    "summary": "소니 반도체가 일본 내 재택근무를 축소하고 직원 8천 명을 대상으로 사무실 출근 체제로 전환한다."
-  },
-  {
-    "company": "Sony Semiconductor",
-    "title": "日기업 '재택→출근' 잇따라…소니 반도체도 8천명 사무실로 - v.daum.net",
-    "link": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE55bTNmdDJLa3JieTZ0UnBObVc5S19QQUhzRG1ybGVVd1E5eWl0c2N5MnQ4T2o3aUlsa0tnaGEtZG1JWUFvTFl0Ml9oWQ?oc=5",
-    "published": "2026-09-27 14:10",
-    "timestamp": 1790485800,
-    "summary": "소니 반도체가 재택근무를 종료하고 8천 명의 직원을 사무실로 복귀시킨다."
   }
 ]
