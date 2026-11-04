@@ -1,5 +1,37 @@
 [
   {
+    "company": "Intel",
+    "title": "인텔, 1.4나노 공정 시동…삼성·TSMC와 초미세 파운드리 경쟁 - 헤럴드경제",
+    "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5aTVZ1Z2xONnBZMDhQQy1abV9rUGxZT1FaaUZ6bE1HUGctdkptR1pFcFUwYXBiZXAtd3A5a3gycE9McUFPWWhKcEtnUm1ZR1lCclRqcl9B?oc=5",
+    "published": "2026-11-04 14:40",
+    "timestamp": 1793770801,
+    "summary": "인텔이 1.4나노 공정 도입을 시작하며 삼성전자, TSMC와 초미세 파운드리 시장에서 경쟁한다."
+  },
+  {
+    "company": "TSMC",
+    "title": "삼성벤처투자 베팅한 美 플렉스컴퓨트, TSMC와 광반도체 공동연구…대역폭 2.6배 확대 - 녹색경제신문",
+    "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE9lR3pGZ20zdE9iM3RZT1h6TGdJUDM1ZmRnWlh4Zmk5aF8xdS1GMEkxNXFKUG03STFuUlp5X3c2cVZpWUJLR1RrTC1HZl9RQUVqTC1oYTd1Uy1KZDZjWlVTaHBXSzhpS2RJ?oc=5",
+    "published": "2026-11-04 11:07",
+    "timestamp": 1793758039,
+    "summary": "미국 플렉스컴퓨트가 TSMC와 광반도체 공동연구를 진행한다. 이를 통해 데이터 대역폭을 2.6배 확대할 예정이다."
+  },
+  {
+    "company": "TSMC",
+    "title": "TSMC, 삼성전자 美홈그라운드까지 왔다…텍사스서 인재·인프라 혈투 - 뉴시스",
+    "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE5QcGhNRTJOS0dpRXlhLTNLOXJxc3FYbjYxbG9XQTVHZUl2NjN5NzZMV0xUNmlucmdjZ3AzXzVMMTVqZHp3a2FxcFFpMVhOVkxCemdKNUpYSWdSY3NyNXpJb0JUVjh5U1NiX0FkZE11WXBZQVZ5ekdGVNIBeEFVX3lxTE5QcGhNRTJOS0dpRXlhLTNLOXJxc3FYbjYxbG9XQTVHZUl2NjN5NzZMV0xUNmlucmdjZ3AzXzVMMTVqZHp3a2FxcFFpMVhOVkxCemdKNUpYSWdSY3NyNXpJb0JUVjh5U1NiX0FkZE11WXBZQVZ5ekdGVA?oc=5",
+    "published": "2026-11-04 10:51",
+    "timestamp": 1793757075,
+    "summary": "TSMC가 미국 텍사스 지역에서 삼성전자와 인재 및 인프라 확보를 위한 경쟁을 벌이고 있다."
+  },
+  {
+    "company": "AMD",
+    "title": "“TSMC 버리고 삼성?” AMD ‘전격 결정’ 이유는? - 매일경제",
+    "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBSam1IcVRyVGlGV3pEa253cElVbVdMSGtFZ1BQQnBLNEFmSHZUMzlwR0dLUktvYnN3dEFSdDdLUmluN2NJQU1YYmJnaUM3ZWRFQ1E?oc=5",
+    "published": "2026-11-04 09:24",
+    "timestamp": 1793751873,
+    "summary": "AMD가 파운드리 공급망과 관련하여 TSMC 대신 삼성전자를 선택할지에 대한 결정 배경을 다루고 있다."
+  },
+  {
     "company": "AMD",
     "title": "에이엠디($AMD), 베니스 수요 강세 평가…4분기 생산 확대 - 토큰포스트",
     "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE9KMjFlR2pfNHhtaG9qLUt1Q2FXUUY3b0kweTVZT1pBNTdkVTlGWTJxdDJMMUlCUmp0M3ltOXpRX0I1WFZ2RFpYR2R3eVI3c2ZkT1FN0gFYQVVfeXFMT24yRFpzeFpxRklmcXRrUTdhbWM2YlhDZk1nSGQ3XzZGNnFpYzJteHVVZ0pFMVkzVUwxMGFrd3RzWFl0OWFnTXlyY2xEZmItdEdSRHRKblNsbg?oc=5",
@@ -62,6 +94,14 @@
     "published": "2026-11-04 06:13",
     "timestamp": 1793740380,
     "summary": "아나로그디바이스가 Alif Semiconductor 인수를 완료했다."
+  },
+  {
+    "company": "패러데이",
+    "title": "패러데이, UMC 공정용 EtherCAT 대응 이더넷 PHY IP 공개… 휴머노이드·스마트공장 실시간 통신 인프라 겨냥 - 한국데이터경제신문",
+    "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE42V2lnZGl1aEtVYlZ3WEFrbjZHb01WVXVXTlg5b2M1ZS1IVFEzeHhibTN0ZXdKTjhxY0RhV1JSOEttR2Rad1dlVTBzRjlld0FVUU82VVdKNkdGdEN3dnhmeVNPakN6LW1CYWcwSXNWSG0zSjdD0gF0QVVfeXFMTjZXaWdkaXVoS1ViVndYQWtuNkdvTVZVdVdOWDlvYzVlLUhUUTN4eGJtM3Rld0pOOHFjRGFXUlI4S21HZFp3V2VVMHNGOWV3QVVRTzZVV0o2R0Z0Q3d2eGZ5U09qQ3otbUJhZzBJc1ZIbTNKN0M?oc=5",
+    "published": "2026-11-04 05:01",
+    "timestamp": 1793736060,
+    "summary": "패러데이가 UMC 공정용 EtherCAT 대응 이더넷 PHY IP를 공개했습니다. 이는 휴머노이드 및 스마트공장의 실시간 통신 인프라를 겨냥한 기술입니다."
   },
   {
     "company": "OpenAI",
@@ -3152,14 +3192,6 @@
     "summary": "AMD와 메타가 AI 인프라 협력을 확대합니다. 헬리오스 가동 및 10억 달러 규모의 투자가 진행됩니다."
   },
   {
-    "company": "Intel",
-    "title": "1299달러짜리 Acer Predator Atlas 8에는 Intel Arc G3 그래픽이 탑재되어 있습니다. Extreme 그리고 120Hz 화면 - GameGPU",
-    "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQN3J4RmEtZFotX1J5eU1iY0N1WlZHSlFuMFpDaWxBMEpJNGFobHNDZEdKUWJhRExjU0ZTdl9qay1NNGxQNU00Uk44OVRDemhnekFCZnZvbUh3Z0IxRnVMSEJ1a29IaTdIYWtYSzBqUGMwWkdxbmx3ZUU1WG5SNkVteTYxRGthMlBtNEs1M2pRcGl1RWxURUp3dkJuZDFwdGc3anRETVdRRWRVb0U3eTFGYzNZal8?oc=5",
-    "published": "2026-10-28 17:56",
-    "timestamp": 1793177760,
-    "summary": "에이서의 프레데터 아틀라스 8 노트북에 인텔 Arc G3 그래픽이 탑재되었다. 해당 제품은 120Hz 화면을 지원한다."
-  },
-  {
     "company": "AMD",
     "title": "AMD, 메타와 AI 인프라 협력… 10억달러 투자 - IT조선",
     "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5HYnpqYzFHQVQyYWQxazFDWkpzdFRnZW1aLXl6a2lJM0VGcHE5b2t2QnJJWmloU0JsN0xjdXVXNl9ibTlTMzFPYUZrT2xGbEtKV3A2Z2VGOExvTDNBSlFTSDNWSm1rVGhQUk1zdGUwbXTSAXRBVV95cUxOVTRUV3N0WnA2RE0yc1l3ejVyTUxWeFNaRkE1b0dPNERMaUdqRkFkbnRuQm1NMW1ONmZQUXJ0T2cxRjRraUhrMUlOY2hvV0twMEF0aDNFcVlqemhQSlBxaExjSUxLWFlXNzd4VzNBa09GeWFBbQ?oc=5",
@@ -3302,14 +3334,6 @@
     "published": "2026-10-28 14:46",
     "timestamp": 1793166381,
     "summary": "마이크로소프트가 AMD와 퀄컴의 신형 칩에서 플루톤 TPM 기능을 제외했다."
-  },
-  {
-    "company": "AMD",
-    "title": "AMD, 메타 AI 에이전트 '뮤즈' 지원…10억달러 투자도 - 머니투데이 - 머니투데이",
-    "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5vNURKb1NlZk80Q0poWmFSVDNQazZYX0xiaVFPMkJDN2hRYVlHVXFMaFlyQS1PSkVLNk1HRzU3c014aEdmaER5VUk4ZnFYZ0hlbzdkTm9pMmxJeG1ZRWdqUnV4QXN4NWfSAWxBVV95cUxNWkNwZVJSazhZbjNnWW5idW1fQ3BiUFZxTXl4R1FNV190WHJCSXhkbllFcC15MXRNNjA1cWNyX3dhY0t5R3pTMVNkdW1xaGplcEhhNE45SFd4WkppSlBRZDN6RWstUkd5TURpdms?oc=5",
-    "published": "2026-10-28 14:42",
-    "timestamp": 1793166170,
-    "summary": "AMD가 메타의 AI 에이전트 '뮤즈'를 지원하며 10억 달러 규모의 투자를 단행했다."
   },
   {
     "company": "OpenAI",
@@ -3464,14 +3488,6 @@
     "summary": "귀뚜라미, SK엔무브, 파두가 AI 데이터센터의 열 관리 시장 공략을 위해 전면에 나섰다."
   },
   {
-    "company": "TSMC",
-    "title": "앤트로픽, 삼전닉스·TSMC 결정력 우려 - SBS Biz",
-    "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE5vbzk1ZEwwY014bE1yVHE4bXpxRDl1cUZMNVY3NDhVeGtDMU95YkFlRzctYmZDSk1UVGVGaTJ2OXI5RzFrVHVaTExuSjJ1QU9XWTlV0gFYQVVfeXFMUDV3UlpPQXU0WExDaktuVXdWc2o5dlM4QUhnajE2RnZmaU5GYldrQ3ZEeDdyWV9HTzVMcVBkLUZjZUgySGEtclN3dnhFZHNGX1NkMkd5ZU15Ug?oc=5",
-    "published": "2026-10-28 10:12",
-    "timestamp": 1793149920,
-    "summary": "앤트로픽이 삼성전자, SK하이닉스, TSMC의 반도체 결정력에 대해 우려를 표했다."
-  },
-  {
     "company": "Tesla",
     "title": "“엔비디아·테슬라 따라잡겠다”…상하이 외곽서 만난 中 기술기업들의 자신감 - Chosunbiz",
     "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNd1FDQkpQZ0t1SFBuWVFjY3hCWlZMZE44YU4wd01SaC1qV213eE82eWFOYjJsM3Y2VFp2U3VDX21PZ3FmaEtXYVdrT09JOHR2XzlHUEx4STEyVzRJTjNvZVNDNWNFSW5BLUp5WjVsWkpZYjhXellncl9NMjE3Q0d6Z292M1NQVGRu0gGcAUFVX3lxTE1LYUVYLWtyN0tqbnZNTy1LSWE5QXBWLUJ5dE1OeVViWHNqR2hPTXdjS3V1UUdHRGZWOVY4ak5oNTJxQnZIeUlTalBhQ2dfUTlaM29rblBlTU11cktyOXZZN2FudmltUlh3a1JUajRkbXVUOHozd0hxbXFZM2NGZmtaaW84bG1QYWJ6azdWNUR0M1h2NThWSmVhdnlBMQ?oc=5",
@@ -3486,14 +3502,6 @@
     "published": "2026-10-28 09:57",
     "timestamp": 1793149020,
     "summary": "중국 기술기업들이 상하이 외곽에서 엔비디아와 테슬라를 따라잡겠다는 포부를 밝혔다."
-  },
-  {
-    "company": "TSMC",
-    "title": "2나노 노리는 美日 연합 vs 삼성·TSMC 파운드리 패권 격돌 - 글로벌이코노믹",
-    "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOWnp2Mmg3enFtM3l0LUlFcWF4czVibUx6alpRS180RzgzMTJtdFZfNEp3a2ZrR2owMlU4bWlySmRzbEM4OUJOVU12NTZTeFdLWEJfczNSdEJ1aTdXZC1iY0xoNG5LMmpBOTFCUVJWZDdHS09vcHRjcE1kRTBLek40MFJuQ3dUdWhK?oc=5",
-    "published": "2026-10-28 09:56",
-    "timestamp": 1793148992,
-    "summary": "2나노 공정 기술을 두고 미국과 일본 연합군과 삼성전자 및 TSMC 간의 파운드리 패권 경쟁이 격화되고 있다."
   },
   {
     "company": "Google",
