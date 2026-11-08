@@ -1,6 +1,46 @@
 [
   {
     "company": "NVIDIA",
+    "title": "엔비디아, 6G 통신 판도 바꾸나…로봇 작업시간 52.6% 단축·전력 소비 45.6% 절감 - CBC뉴스",
+    "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFBXMld5ZXU4SXhLV0Z5YlQtTTV0a3g1OFRUX0NtWmlnVDJmOWMtdy1PbFVDTlFkMi1IVjBxbDBhYmhDZkh3eldNYzVyaXM5aTRsS056SUI2RHE4bEFza1ZDWDM2dG9RS3Ru?oc=5",
+    "published": "2026-11-08 10:10",
+    "timestamp": 1794100200,
+    "summary": "엔비디아가 6G 통신 기술을 통해 로봇 작업 시간을 52.6% 단축하고 전력 소비를 45.6% 절감하는 성과를 냈다."
+  },
+  {
+    "company": "Groq",
+    "title": "그록, 80억달러 기업가치 제시하며 시리즈B 투자 유치 추진 - 토큰포스트",
+    "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE42Y2pOMFB1UnhDeEFHNTJqRFl2clVmalcyVHlPTHAwRGtRcml1TWM0Q3hyazgyS24tYzc4WDEtdmFUZkt3Q0NLMnFhRndLdFJG0gFWQVVfeXFMT1RfaVAtN0xBMzllVEFLZWhKVW1vMjF0VEJoS0ZfUVV1NlU1OGRnTnplUUxxTWcyU2VveDZJSDZLVUk3aEpnbHBLREZlb2FmTkhWbVlyMnc?oc=5",
+    "published": "2026-11-08 09:35",
+    "timestamp": 1794098103,
+    "summary": "그록이 80억 달러 규모의 기업가치를 제시하며 시리즈B 투자 유치를 추진하고 있다."
+  },
+  {
+    "company": "TSMC",
+    "title": "TSMC, '3D D램' 개발설 사실상 부인…상용화도 먼 길 - AI타임스",
+    "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE83dVV3M29UTkJSQllDOWVqaEtuNFd1UzZuM2pMaWkybmRRTk45am04eS1pR0Nya21ZRUp4OFBUNnJTa0EyNXk4eUJSS0VSemVVaVljRllLRnF3MFlfOEFla0pjZFJ5YUstLWc?oc=5",
+    "published": "2026-11-08 09:03",
+    "timestamp": 1794096219,
+    "summary": "TSMC가 3D D램 개발설을 사실상 부인했다. 상용화까지는 상당한 시간이 소요될 것으로 보인다."
+  },
+  {
+    "company": "NVIDIA",
+    "title": "엔비디아, ‘RTX 스파크’로 로컬 AI 에이전트와 차세대 컴퓨팅 혁신 가속 - 아이씨엔매거진",
+    "link": "https://news.google.com/rss/articles/CBMiqwJBVV95cUxPQ0d6OTIwRkZMMGhHTzZwZWVwaHNyMTZzd2IyOUU3X2JqbkJZZXc4VjEzRWk0WVRhemo3ZWJBaElLNFJKWXN1OTdud29Pd2hJSEkza0MyVzRnclVLTUNGRHV0RU84bGdySWJ0SWtORW9QOVdxOWNUTWRuaHpLdWJDZUotMVJhVnd3VllQaTBORGQ2QzB0TWpWeFBxOWdacDd0TXQ1RGZ3dFRlbG9FUVBOMjBPTXNRc0pLZzZKZTdNMWRxUXdxdDNkT18tN3AzaXFuQm5DeDVlby1ISFFMZFF3bkNQWW1YNnM2azMyQmR0UVc3X3VzZzNQSGd6OGdRMlF4RDZtc0UxcUtURjNHdWc5VEgzcENhNGdxaFZYWkM1a2ZKTl9lY1B0YTlSUQ?oc=5",
+    "published": "2026-11-08 07:55",
+    "timestamp": 1794092158,
+    "summary": "엔비디아가 'RTX 스파크'를 통해 로컬 AI 에이전트와 차세대 컴퓨팅 혁신을 가속화한다."
+  },
+  {
+    "company": "Tesla",
+    "title": "머스크 \"테라팹 반도체 1조 달러 든다\"…테슬라·스페이스X 재정 경고등 - 글로벌이코노믹",
+    "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOa1RyTXVBekx1ZzhuRE9fUk9lYnJSRTVfVFV2SmFiaG9RNnlQYW9XSFIwSEJyZDhQQ19XeklVQlgxRWRUemd5R0JhTFBmTGZFVUd2VnhFMlcwZmZBSXV2TGlHSFRKVFhEd2U0d1BkYm9GeWdkWGxZNVlEZnZOaHpZX21NUGkwVC05?oc=5",
+    "published": "2026-11-08 07:40",
+    "timestamp": 1794091237,
+    "summary": "머스크가 테라팹 반도체 구축에 1조 달러가 소요될 것이라고 언급했다. 이로 인해 테슬라와 스페이스X의 재정에 경고등이 켜졌다."
+  },
+  {
+    "company": "NVIDIA",
     "title": "[Why] 엔비디아 AI 반도체 60만개가 홍콩에 묶인 이유는 - Chosunbiz",
     "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxON1ZpM2ZXbDVXRTJLbnRSdnl3VVpvMmszUVNOeWM4aDhJazZjRDZ0WW5xQlVnOGpYM1ZQY0F2alB1OWVMNkxHWWRxZkxzUXVoWVZmdWliNkxTcXROenlFcGVGeEFHYXpzZGxiWnFMVEpfM01iMl8zejNwR1hITWw3RWw1U3FsX2Mxb2E1X2F3TWstemxTYmw5ZTNHYlR0QdIBsgFBVV95cUxPdDBDdl9NNTdUejFSMlJwM1g3cjlPRFl2YXUxcHJseUR6WnJLWXNyU1g0Z0NsZnNmQXNFUFZScUFaQU9GLWwzQXZZV0sybjByQ2lTVWJnMEpxLUFDcWNmNm1wNnZxSUdmNWxuNFVHa3E0T1V2amhMQjdpZ0otTXp1aHo5NUhfaUUxWDdRWDE5YURqV0dUZE1IaVFnRzFwOFFhRFY1YUZ3QTBVX1pkYmdabFZB?oc=5",
     "published": "2026-11-08 06:00",
@@ -38,6 +78,14 @@
     "published": "2026-11-08 02:24",
     "timestamp": 1794072283,
     "summary": "10월 아마존 그래픽 카드 판매량에서 AMD가 처음으로 1위를 기록했습니다."
+  },
+  {
+    "company": "Tesla",
+    "title": "머스크 \"테슬라·스페이스X 반도체공장, 2028년 3분기 양산 목표\" > 시애틀 뉴스/핫이슈 - SeattleN",
+    "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1WeVU2c280ZGcwdDBhN18wd0l0ZUFoWFgwTml5SkpuT1F6UXFDem9xc3ZENjJYMlpiMFp4OEwxWG4wbHM2MF9GQUl0elBac3lWWExmYkRaYmNXS3gtLVkwNHFnR3hLdWQyMHotMzlsRFM?oc=5",
+    "published": "2026-11-08 02:18",
+    "timestamp": 1794071906,
+    "summary": "머스크가 테슬라와 스페이스X의 반도체 공장 가동을 2028년 3분기로 목표하고 있다."
   },
   {
     "company": "NVIDIA",
@@ -248,6 +296,14 @@
     "summary": "국민성장펀드의 투자를 받은 중소기업이 엔비디아의 최고 파트너사로 확인되었다."
   },
   {
+    "company": "Qualcomm",
+    "title": "퀄컴 데이터센터 매출 50억달러 목표 재확인…오픈AI 투자 지속 - 토큰포스트",
+    "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5iLWltNzNLbXRNWWppZmhtU1ZQSC1QZi14d3dqWjg4aE1SalZ3NUp6ZlYyVjdVVldDa2lMaXgzbHk2NnpKSldVYU1vVW5CdFVsekVDb3NB0gFWQVVfeXFMTmItaW03M0ttdE1ZamlmaG1TVlBILVBmLXh3d2paODhoTVJqVnc1SnpmVjJWN1VWV0NraUxpeDNseTY2ekpKV1VhTW9VbkJ0VWx6RUNvc0E?oc=5",
+    "published": "2026-11-07 03:55",
+    "timestamp": 1793991349,
+    "summary": "퀄컴이 데이터센터 매출 50억 달러 달성 목표를 재확인했다. 또한 오픈AI에 대한 투자를 지속하고 있다."
+  },
+  {
     "company": "NVIDIA",
     "title": "엔비디아, 네이버에 1조3412억원 '납입 완료'…3대 주주 등극 - 머니투데이 - 머니투데이",
     "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBQYkozbUN2MFZxMVYwNW9fYl8tVnk0UVVMbzlSbEVYdUI5bm9rMGZXZ3AzMTd5eUh5RWcxVWJYa0JlUEIzQTV5QlNqeVdIZV8zdzdtWGl2VktpVnlhcjdSSDk0VTZvT1HSAWxBVV95cUxNX3ZnTUJCSVUxeXhycElzRmFXZWxIaEpoaEEyUmZjRzMxZUhiMVN3T3V0bHp2UkVnVEdJOEdCaWdqUy1BblptUWRxTU9kYmRuQkxncWQ1VTNRSDQ2cFFHQmc2WkZOUFhWVFVLRjc?oc=5",
@@ -286,6 +342,14 @@
     "published": "2026-11-07 02:38",
     "timestamp": 1793986712,
     "summary": "TSMC가 엔비디아의 요청에 따라 첨단 AI 메모리 반도체 생산을 검토하고 있다."
+  },
+  {
+    "company": "OpenAI",
+    "title": "오픈AI의 국가 안보 프레임 전환과 인프라 재정 분담 요구의 실체 - 워싱턴 정가 레임덕 정국이 촉발한 실리콘밸리 우파 연합의 붕괴 - 데일리머니",
+    "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTFBSMEY2NzZJMWhjMlktY0U5cVJhUlN3ZW52SHdSWnVXd0ZINS1URWZTVzZGbUhYMHFJSTRDVThrQTg2VHg1ZFFnZTRUbFVnMkpSSWxpeWdGaXJQYVlTMFllckRkSkJzaVN0dHpRcE5xWXVJa21TOUHSAXZBVV95cUxQUjBGNjc2STFoYzJZLWNFOXFSYVJTd2Vudkh3Ulp1V3dGSDUtVEVmU1c2Rm1IWDBxSUk0Q1U4a0E4NlR4NWRRZ2U0VGxVZzJKUklsaXlnRmlyUGFZUzBZZXJEZEpCc2lTdHR6UXBOcVl1SWttUzlB?oc=5",
+    "published": "2026-11-07 01:48",
+    "timestamp": 1793983687,
+    "summary": "오픈AI가 국가 안보 프레임으로 전환하며 인프라 재정 분담을 요구하고 있다. 이는 워싱턴 정국 변화에 따른 실리콘밸리 우파 연합의 붕괴와 관련이 있다."
   },
   {
     "company": "AMD",
@@ -576,6 +640,14 @@
     "summary": "지멘스가 Siemens Xcelerator 플랫폼을 통해 JSW 그린테크의 상용 전기차 개발 확대를 지원한다."
   },
   {
+    "company": "망고부스트",
+    "title": "망고부스트 김장우 \"GPU 수만장 확보 로드맵 세워…수급 걱정 NO\" - 뉴스1",
+    "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE9MejlHWGpsMTVoaHhOQXJjREYwbUk5b1ZkMzNDanhfdmlaZnZXS29raGdGSXFCczNmLTloeXVWc01LNkFQQlEzMjJHcDJOVjZoZkxRSS1lMW8xNzR3?oc=5",
+    "published": "2026-11-06 15:48",
+    "timestamp": 1793947701,
+    "summary": "망고부스트 김장우 대표가 GPU 수만 장 확보 로드맵을 수립하여 수급 문제를 해결하겠다고 밝혔다."
+  },
+  {
     "company": "NVIDIA",
     "title": "중국, 엔비디아 H200 수입 제한…60만개 홍콩에 발 묶여 - AI타임스",
     "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTFA3bUdSTklmSm1mY1NqWE56LWk5a0hPakctZnVYLTVpdVN3eHVISmlCOXB5TWcydGZLVGVuRHBEWm1VZUpTMUtLanU0WUdJN3ZXcFVOMWh2WE5ueEJ0eWdRR2U5RDNtbWJvZ1E?oc=5",
@@ -590,14 +662,6 @@
     "published": "2026-11-06 15:38",
     "timestamp": 1793947091,
     "summary": "인피니언이 랙당 1MW 전력을 지원하는 AI 데이터센터를 위한 새로운 전력 설계 청사진을 제시했다."
-  },
-  {
-    "company": "NVIDIA",
-    "title": "문샷AI, 엔비디아 블랙웰 확보 위해 유럽으로 눈 돌려...8000개 GPU 임대 추진 - AI타임스",
-    "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE4zaEZTRXZJS3NkZ3NrMlhyT2tPT1JaMENFdDM5aUIzaFhKLVhXVkhLMVU1Ym9aQ3hTQ2hHT3NwTTZ6bWRXOXNxdlNmcUNJQkhxZzVHYXRUMHpJSWlMbEpycTZzX2k4eWUtdWc?oc=5",
-    "published": "2026-11-06 15:37",
-    "timestamp": 1793947027,
-    "summary": "문샷AI가 엔비디아의 블랙웰 GPU 8000개를 확보하기 위해 유럽에서 임대를 추진한다."
   },
   {
     "company": "OpenAI",
@@ -632,20 +696,20 @@
     "summary": "삼성 파운드리가 분사 후 고객사를 3배 늘렸으며, HPC 비중을 66%로 확대하며 체질 개선에 나선다."
   },
   {
-    "company": "NVIDIA",
-    "title": "엔비디아 \"SK·삼성과 메모리 협력 지속\"…RTX 스파크 공급망은 비공개 | - 연합인포맥스",
-    "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE9wV2dvNTNNX01tbW16ZzBWNXRMeFdEdGk5NlpnY1ZOZkhpaHozeHpUaDRNRDBTazJDRktnNjk5QUZHVG9Ya2ljWk5Kb3VNWnJJd3AzU1dwaGxzZlJXdk02UkppcFdNUzNRQUp5a0Z5NWp1X2JT?oc=5",
-    "published": "2026-11-06 14:39",
-    "timestamp": 1793943593,
-    "summary": "엔비디아가 SK하이닉스 및 삼성전자와의 메모리 협력을 지속하겠다고 밝혔다."
-  },
-  {
     "company": "동운아나텍",
     "title": "동운아나텍, 100억원 자사주 신탁계약 결정 - 비건뉴스",
     "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE5qdFZhb0lhdkVUZEstN2tLZWIyVHUxcnlaeFRETTI0blpBYVNjTUZBa1lfM1Z6SXBoMEZfcXZ6T3NCU0t2WXR0NHpickpfWmtIX0l0WjNHZ195b3haTlNoeHZ5WkU5dw?oc=5",
     "published": "2026-11-06 14:36",
     "timestamp": 1793943399,
     "summary": "동운아나텍이 100억원 규모의 자사주 취득 신탁계약을 체결하기로 결정했다."
+  },
+  {
+    "company": "Microsoft",
+    "title": "MS, 英 엔스케일과 두 번째 계약도 철회…AI 데이터센터 투자 신중 - 한국경제",
+    "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1faUMxNk96UkJ0WTBvenVZMXNTbjFsTk1RTHBYcjZINkpNQVdPZy0zalpkWnlodzd4YkQ1dkUtT3JCMzg1bThoSkdLREZaVFVndExKdUROSlhkZw?oc=5",
+    "published": "2026-11-06 13:25",
+    "timestamp": 1793939154,
+    "summary": "MS가 영국 엔스케일과의 두 번째 계약을 철회했다. AI 데이터센터 투자를 신중하게 진행하고 있다."
   },
   {
     "company": "AMD",
@@ -2768,14 +2832,6 @@
     "summary": "스마트폰 시장 침체에 대응하여 미디어텍과 퀄컴이 AI와 자동차 분야를 새로운 돌파구로 삼고 있다."
   },
   {
-    "company": "Qualcomm",
-    "title": "어드밴텍, 퀄컴 기반 엣지 AI 구현한 차세대 HMI ‘TPC-200W 시리즈' 출시 - 헬로티",
-    "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE9mMnNOR3pEOEdvcGZYWGFBakZacEFXWkNteVdPRWdTdHlYQzI2ZDBta0xRS1ZWLXQwMy14RWk0RHFMVUpQZlRmVTNUZWhpaVRNWmI1QlBmZHdDYnlZaEFn?oc=5",
-    "published": "2026-11-02 14:45",
-    "timestamp": 1793598319,
-    "summary": "어드밴텍이 퀄컴의 기술을 기반으로 엣지 AI를 구현한 차세대 HMI TPC-200W 시리즈를 출시했다."
-  },
-  {
     "company": "Meta",
     "title": "메타, 中 기업과 협력한 휴머노이드 로봇 시제품 선봬 - SBS Biz",
     "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE82MFFpNy14aTY2MTFSd0tlV256eGo4SGFwYzNpNXJpeWV4NDVfZHkzeWhsTEdHaW90TDhGSnFUZUo4Z0FERTJwLU1MRGp0S1hMSnpJ0gFYQVVfeXFMTWQ3aURxQXpOMzNKcWZ1WkxJOExHUmhZT3F0Y1pRNHJnSjhkS1lQSWg5Tm9oWEFxRDktdVJzdGt1NEVoYlpJOUVxaERtWUg2ZkVuTmJ5R09TWg?oc=5",
@@ -3470,14 +3526,6 @@
     "published": "2026-10-30 15:23",
     "timestamp": 1793341397,
     "summary": "메모리 업계에서 슈퍼갑의 지위를 누리던 애플의 협상력이 AI 기술 환경 변화로 인해 역전되고 있다."
-  },
-  {
-    "company": "TSMC",
-    "title": "TSMC, AUO 타이중 공장 인수로 반도체 산업 혁신 예고 - 공감신문",
-    "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBFZ21QWXU4d1R3QWt1VlVnckdORzd4VU50VjFpV2NqMDhqdW5mcEhwd1pkTmxzZ1lMcHpzaUdjOGM3Z3JUcXNZYXFLZXRHQ3ZfQ0NBRm16N1h3ckZjOW1JbFFvdEhjZ1U?oc=5",
-    "published": "2026-10-30 14:31",
-    "timestamp": 1793338315,
-    "summary": "TSMC가 AUO 타이중 공장을 인수하며 반도체 산업 혁신을 예고했다."
   },
   {
     "company": "Infineon",
@@ -4350,14 +4398,6 @@
     "published": "2026-10-28 15:39",
     "timestamp": 1793169581,
     "summary": "빅테크 기업 메타와 신생 기업 코어위브의 AI 관련 자금줄이 엇갈리는 양상을 보이고 있다."
-  },
-  {
-    "company": "OpenAI",
-    "title": "엔비디아 큰손 OpenAI, 구글 TPU 구매 추진…AI칩 경쟁 격화 - 조세일보",
-    "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE9zblRLemgwLWlpNWFvY0NvSlFldFVESk1tTVl1TVNTOHRxYlByQ1djMThLM19OMUFHM1VYWllHNkVNLTFIOHV1QzltS000U19tWnlYN2plYWs0RHVlb3JF?oc=5",
-    "published": "2026-10-28 15:37",
-    "timestamp": 1793169470,
-    "summary": "엔비디아의 주요 고객인 OpenAI가 구글의 TPU 구매를 추진하며 AI 칩 시장의 경쟁이 격화되고 있다."
   },
   {
     "company": "Synopsys",
@@ -5784,14 +5824,6 @@
     "summary": "딥엑스가 교통사고와 역주행을 감지하는 초저전력 NPU를 공개했다."
   },
   {
-    "company": "Tesla",
-    "title": "테슬라 “내년 2분기 고객차에 무감독 FSD 일부 적용…테라팹·옵티머스 양산 속도” - 전자신문",
-    "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE5TdnhkSS0wcTc4aW5XeUw4X0lmWUNkS1dQZmtUaWtPVDhVbnVwWGRvOEtxdTdDT09rVk0yZUg4b2huTWZ1NDQxSE54VEJTZw?oc=5",
-    "published": "2026-10-22 10:15",
-    "timestamp": 1792631742,
-    "summary": "테슬라가 내년 2분기 고객 차량에 무감독 FSD 일부를 적용한다. 또한 테라팹과 옵티머스 양산에 속도를 낸다."
-  },
-  {
     "company": "알에프에이치아이씨",
     "title": "RFHIC, ‘에릭슨향 수주’ 2028년부터 본격화 - 금융소비자뉴스",
     "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBIVV9tUzVpenpSV055UEZiQlhyeXYxVFpSZ1ZDNktiQndJeW53ZXNUb1BHWHRLRTdGY1h6aVlSWTFkNEpQbHJSQ2MzRDY0TWJ0OXBjNTJ6M2M3VG9CS1lxVjNlUVJNX2VzUWc?oc=5",
@@ -5928,14 +5960,6 @@
     "summary": "ST마이크로가 장 마크 셰리 CEO의 1년 연임을 추진한다. 해당 안건은 내년 주주총회에 상정될 예정이다."
   },
   {
-    "company": "Tesla",
-    "title": "머스크, ‘초거대 AI 제국’ 시동⋯테슬라ㆍ스페이스X 합병 승부수 - 이투데이",
-    "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE80bTBJM1owNVdkbi1FeG1kelBzcXdpa21iR0JYYzVieEllaUxQaHEyY2VTbHUwSFFOY1p1UkxtbGRBWjhQT2k2NFZ4RkVSMkpUVHUtOA?oc=5",
-    "published": "2026-10-21 15:52",
-    "timestamp": 1792565520,
-    "summary": "머스크가 테슬라와 스페이스X의 합병을 추진한다. 이를 통해 초거대 AI 제국을 구축하려는 승부수를 던졌다."
-  },
-  {
     "company": "Cadence",
     "title": "슈가스AI, 케이던스에 영상신호 칩 ‘사파리’ 양산 공급 추진 - 세계비즈",
     "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE1vb05BaUtyYWhQeElWYlB2ZTZtSEd1NnVPY2hVSU5zaEg5NEE0Qlp1WDh1RDFBWFRSZWtiTDE0NDFacjFNMTQ3bXdic0pNTl9BeHZ1M0FVSzZNcmhC?oc=5",
@@ -5966,14 +5990,6 @@
     "published": "2026-10-21 10:40",
     "timestamp": 1792546852,
     "summary": "어보브반도체가 가전용 MCU 제품 고도화를 추진하고 있다. 현재 양산 및 가동률 확보가 주요 관건이다."
-  },
-  {
-    "company": "Microsoft",
-    "title": "[Tech & Now] 플렉스·MS 기업용 AI 협력…코난테크놀로지, 서울과기대와 국방 AI '협력' - www.ebn.co.kr",
-    "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE44VDhDd1lLUDNlNkM4aDdneXlRVHlhejMtTmtfQkJFcUJJSGw5ZVJKbC1wV1V4RHZNRmVXZDI4V1huZ3Q2TmZ4dlNkb1BMTzY5YkF2UzZFYmJneGlHSzRTaTBXdE94SjlH?oc=5",
-    "published": "2026-10-21 09:15",
-    "timestamp": 1792541717,
-    "summary": "플렉스와 MS가 기업용 AI 분야에서 협력한다. 코난테크놀로지는 서울과기대와 국방 AI 분야에서 협력 관계를 맺었다."
   },
   {
     "company": "STMicroelectronics",
@@ -7742,21 +7758,5 @@
     "published": "2026-10-09 17:47",
     "timestamp": 1791535648,
     "summary": "LG전자가 보쉬와 협력하여 차량용 칩렛 반도체 개발에 나선다. 양사는 차량용 반도체 기술 분야에서 공동으로 도전할 예정이다."
-  },
-  {
-    "company": "LX세미콘",
-    "title": "LG 넘어 삼성·현대차까지··· LX세미콘, 반도체 공급망 틀 깬다 - 그린포스트코리아",
-    "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTE51cXdJMVBGck41YmJhb0Fyb28zR1g3WEhzUXpYV1NKRk4wVlY1Tm1SMERleGh6WUs2U1h6RlJmc1cyNVpmeUs4c2dfeXhvVmZPUjZzYV9jTTZOVUVjbFBwV1J1cnRPS3M4WEUwWW1IT3FCXzIwRkxLMlBn0gF6QVVfeXFMTnVxd0kxUEZyTjViYmFvQXJvbzNHWDdYSHNRelhXU0pGTjBWVjVObVIwRGV4aHpZSzZTWHpGUmZzVzI1WmZ5SzhzZ195eG9WZk9SNnNhX2NNNk5VRWNsUHBXUnVydE9LczhYRTBZbUhPcUJfMjBGTEsyUGc?oc=5",
-    "published": "2026-10-09 09:10",
-    "timestamp": 1791504600,
-    "summary": "LX세미콘이 기존 LG그룹 의존도를 넘어 삼성전자와 현대자동차 등으로 반도체 공급망을 확장하며 사업 구조를 다변화하고 있다."
-  },
-  {
-    "company": "Kioxia",
-    "title": "KIOXIA LD4는 1U 서버용 E1.L에 QLC를 도입하여 30.72TB의 샘플링 용량을 제공하며 최대 122.88TB까지 지원합니다. - StorageReview.com",
-    "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQZnFtck9SNWhDUG01YUhCN2d1eXZScmFsWW1OLUNGZHdXQTZZYzNVZERxU2Y4OGdlMEVEZmZIMHFMVUU3T2hUc1lMR3RnX2tQSFNFa0NfUGRMOWhfZW9mX2ZwTmMxWlF5VnNVd242MFdoRWpUUGt4UmdUUzNMc1ZTQ2xFaElxd2J1cUNzb2gyLWFFaWPSAZgBQVVfeXFMUEhiSTdlNlU2dDFqZ3JFM3dOSlBSY2NBbmhWSnZMM0RzLVN3SEQ2cUJLNUNnNkxWa3hQZk9iUTNfVVZVWFV3OElTZUUydUUya1N6Qk5ZcVJmVnh3cU9wOW1NeWZqMm5QeWZYT1lZQVZZdll2UDlETE40cTVRVE1mTHV0UlNQdzdrMEhxVHJTNWFqdy15M1gxc3E?oc=5",
-    "published": "2026-10-09 06:46",
-    "timestamp": 1791495998,
-    "summary": "Kioxia의 LD4는 1U 서버용 E1.L 폼팩터에 QLC를 도입했습니다. 30.72TB 샘플링 용량을 제공하며 최대 122.88TB까지 지원합니다."
   }
 ]
