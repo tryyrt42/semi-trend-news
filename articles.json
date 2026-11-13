@@ -1,5 +1,77 @@
 [
   {
+    "company": "Amazon",
+    "title": "[GAM]앤스로픽 1조달러 돈잔치 ① 클라우드 빅3 MS·아마존·구글 '승자' - 뉴스핌",
+    "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE5jcTY0a0labVVVUnFIcXNLVW95eUxKc2tHM2FsOG1JSG1Td3YtMnhxbHF6VDM3bXVMSGFPbmZveG1WN05Fb0RMdmU4bDg1R3NiUnFXbC1nMDN2N0M3?oc=5",
+    "published": "2026-11-14 08:00",
+    "timestamp": 1794610800,
+    "summary": "앤스로픽의 대규모 투자 유치와 관련하여 클라우드 빅3인 MS, 아마존, 구글이 승자로 평가받고 있다."
+  },
+  {
+    "company": "NVIDIA",
+    "title": "엔비디아, Arm CEO 접촉설에 선 그어…\"공식 연락 안해\" - 한국경제",
+    "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBJMUltU1I3S1kzOEdCUEhsc0dtTGxuRHZ6dXhReVRJZGg1dkpuZXdISExrRW5zRnlSTlJBdGdoeVQ3MFFQNDBtbGtpUWlTd18zclh6cExZeGtrZw?oc=5",
+    "published": "2026-11-14 07:52",
+    "timestamp": 1794610359,
+    "summary": "엔비디아가 Arm CEO 접촉설에 대해 공식적인 연락을 취한 적이 없다고 선을 그었다."
+  },
+  {
+    "company": "AMD",
+    "title": "젠슨 황 사임에 다시 주목받은 사촌…AMD를 일으킨 리사 수의 성장사 - 디지털투데이",
+    "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE8tMlVfOFB2RDlTeUZJemxJZ0gyYnc4MWY1VG1keEs1emdqeFZfRUp3aXBBVy0wQ3RiNlBVWmhtV1hDejRMYWtuZno4dEJHSVVCamVNcFMtYWZKSEVIREJ5bVhqbGNnd29hREt2WXpMTnV2ZUU?oc=5",
+    "published": "2026-11-14 06:35",
+    "timestamp": 1794605700,
+    "summary": "AMD를 성장시킨 리사 수 CEO의 성장사와 경영 이력을 다룬 기사이다."
+  },
+  {
+    "company": "Intel",
+    "title": "제이엘케이, 인텔코리아 ‘K-AI 풀스택 얼라이언스’ 초기 멤버 참여 - MEDI:GATE NEWS",
+    "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE9iT0IySlgwSFhhdzNyZ2dKZ3Z4QUI4dWQ2ekJWb0ZqZzVLTko3djQyd29mN0xBdW1yemZ2bVFCd1lKUzU0QWtMS0xLamZBbFpIUFdVWWE1NA?oc=5",
+    "published": "2026-11-14 06:35",
+    "timestamp": 1794605700,
+    "summary": "제이엘케이가 인텔코리아의 'K-AI 풀스택 얼라이언스' 초기 멤버로 참여한다."
+  },
+  {
+    "company": "Broadcom",
+    "title": "Broadcom, CNCF 샌드박스에 VM API 제공, 워크로드 적합성 그룹 공동 의장직 수행 및 20개 이상의 파트너사 검증 완료... - StorageReview.com",
+    "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPblltVXdvNzJTQ0tQZ0FSdVk4OGhMdzBGd3ZUU2FGTkVmbnJWd0ZTWXpvdEEyMGRKREhaOGk0bnI2TVp2RE9FdWFWVElBOXhqNVE4MlE2YXU4cWVXYkh1SUtfMnR2dWFFYjdWekhKUUdjZTVuMmNlS3JTNUJodDZtV2Zsb3lkaDR0VDBVQ2E4S3dyTFZ6aXc2cS1BbGVhM2s0R2dWMDRzZWxaZWpFbnhJ0gG0AUFVX3lxTE1IYzR4RHd4UDVmNGlYWTlGaXR3N3BEOWFkbF90eUFMYlcwRGJ5c09xLVZpdUt4QkJCRFl4dUZEc292U2pTdVkwOGdVRkk5M2J1WFVacUJNaDdxY1QtRTNLeFFUaG8xQVNHN1NvcHFCal9KMUN0LUIzZS1WU25rcGxTLUVBcnFvR2pmR2JmLW50bC1udHFGMFBKWm8xczg2dURIalFYc2lZLVdueTVvdWs0aXA4Vw?oc=5",
+    "published": "2026-11-14 05:18",
+    "timestamp": 1794601088,
+    "summary": "Broadcom이 CNCF 샌드박스에 VM API를 제공하고 워크로드 적합성 그룹 공동 의장직을 수행한다. 또한 20개 이상의 파트너사 검증을 완료했다."
+  },
+  {
+    "company": "NVIDIA",
+    "title": "\"엔비디아, 차기 수장 후보로 英 반도체기업 Arm CEO 접촉\" - 연합뉴스",
+    "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9SbnpiN2t3UzBRYkxFX05rNUdUbFBINXYzYjFJMTRqa3pjRG9pc2s4OUY0MWNGVFd1UXQwTjFwQWVydk5fSDd6QnpRT3gzUnU4UjdNRVc1SW92bDjSAWBBVV95cUxPTk9nWlhueGpCVkZESzB4ZDhxTFVIZU9vc2FMRnc4aDdtSzlVWjRiRmQtYXFPd2NEUUwyaFVPN1ZhR0dOTjcxemxYZ1dUOExsSG85bTg2dzhDRk9GMWRveXU?oc=5",
+    "published": "2026-11-14 04:10",
+    "timestamp": 1794597043,
+    "summary": "엔비디아가 차기 최고경영자 후보로 영국 반도체 기업 Arm의 CEO를 접촉했다는 보도가 나왔다."
+  },
+  {
+    "company": "AMD",
+    "title": "6세대 AMD 에픽 탑재한 서버 신제품 공개…기존 데이터센터에서 고성능 컴퓨팅 구현 - 올포칩",
+    "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE81LXQ3b0NVLWkyd2F0Zzh4WlIzd2ExblNBcklmbXZQMGJabGQ5b3RyMjFMMmpWN1FhTjRmYmRQc1gwM1VybFRyUmdfSmlKdm8zc09vazR3LU0wTWpSWU8ta1BGVVdwUQ?oc=5",
+    "published": "2026-11-14 03:29",
+    "timestamp": 1794594559,
+    "summary": "6세대 AMD 에픽 프로세서를 탑재한 서버 신제품이 공개되었다. 해당 제품은 기존 데이터센터에서 고성능 컴퓨팅을 구현한다."
+  },
+  {
+    "company": "Intel",
+    "title": "인텔코리아, 서울 AI 허브와 국내 AI 스타트업 생태계 활성화 위해 맞손 - 올포칩",
+    "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFBlYy1YWXhfRGFXNlFzWk1uVzBBeEFBMGwya0RJLXBrUFZEOE8wRHZtN3ZHT29xLXgwMGFVcUdnWVVqeUN4UGROaUhhZTYzRHhWUXRsUG5fWXVoY2xUeC1sLW1xdEo2UQ?oc=5",
+    "published": "2026-11-14 03:22",
+    "timestamp": 1794594124,
+    "summary": "인텔코리아가 서울 AI 허브와 협력하여 국내 AI 스타트업 생태계 활성화를 추진한다."
+  },
+  {
+    "company": "딥엑스",
+    "title": "딥엑스, 인텔코리아와 ‘AI 추론’ 기술 협력…OpenVINO·NPU 연동 검토 - 올포칩",
+    "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5tUlpvcnRLV0dmcEl2X2kxX0tYSnVTNlFpa1pRNmdOb0NqWmtROVJsNFVHTWZEWVM2OXRNSXRfak9NZ3VtLVRPeU05ei1nc0tSTGdHcW5LWVBmQnhEYXJyZw?oc=5",
+    "published": "2026-11-14 03:18",
+    "timestamp": 1794593902,
+    "summary": "딥엑스가 인텔코리아와 AI 추론 기술 협력을 추진한다. 양사는 OpenVINO와 NPU 연동을 검토할 예정이다."
+  },
+  {
     "company": "NVIDIA",
     "title": "\"엔비디아, 차기 CEO 후보로 반도체 기업 Arm CEO 검토\" - KB Think",
     "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE5VV2JYeXN1RlRiTG9RNXc3S1JST21aUWxuVTcyWkFxa05ua205THdQYUc4VldGTUJreFpkTTl0OE5Kd0E4eHBiRXMxaGhyZUpZb0djSXk0RmkwQTN1aUtIZWpKbXZRSjFVNXZab2IxT2paZw?oc=5",
@@ -488,6 +560,14 @@
     "summary": "인텔이 AI 추론 시장 재공략을 위해 효율성을 강조한 전략을 추진한다."
   },
   {
+    "company": "Infineon",
+    "title": "인피니언, 업계 최초 300mm SiC 웨이퍼 기반 전력 디바이스 구현 - https://www.koreasprint.com/",
+    "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE1CNE4tdE9rSEhTdjVubXdSY1psTmZzUEotVHE2aDRPZERiLVZjcUJTNUJIWGdKZ1hqM09sYUxUWkZqNEJZNW1OTXNjQUZxNDlsXzIzWVR0amNjcUpKN1htaVdJd0R6aHhicWFaaDNR?oc=5",
+    "published": "2026-11-13 13:46",
+    "timestamp": 1794545160,
+    "summary": "인피니언이 업계 최초로 300mm SiC 웨이퍼를 기반으로 한 전력 디바이스를 구현했다."
+  },
+  {
     "company": "에이직랜드",
     "title": "에이직랜드, TSMC 대만 포럼서 AI 반도체 3종 공개 - 핀포인트뉴스",
     "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE1OcVRKZkpOOFVqMzJYbF91SVRIeU5KeXlRRnR3bHF2RnVuQW1Pc2w0WllSTHpaTmY5a0xsYWRRZFhtSUlWWmlfczV4dzJETzVmV1NadUxRU180UWFxQVhRa2dONzktZGNiYXFfTDh3WWlPM0ZleFBN0gF3QVVfeXFMTU5xVEpmSk44VWozMlhsX3VJVEh5Tkp5eVFGdHdscXZGdW5BbU9zbDRaWVJMelpOZjlrTGxhZFFkWG1JSVZaaV9zNXh3MkRPNWZXU1p1TFFTXzRRYXFBWFFrZ043OS1kY2JhcV9MOHdZaU8zRmV4UE0?oc=5",
@@ -744,28 +824,12 @@
     "summary": "세레브라스의 3분기 매출이 55% 증가했으나 시장 예상치에는 미치지 못했다."
   },
   {
-    "company": "NVIDIA",
-    "title": "[손병관의 뉴스프레소] '엔비디아 = 젠슨 황' 공식 무너졌다 - OhmyNews",
-    "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQVTEySlVBRG9hUGFOTDc1UllTV0IzOG1WSWlUSE90YzFGQ2xOdGlrQXBOT0JTOFpPaVEtQkNEYWdHT0hxWGtTT2Jxb05EOXlIWV9XRGx6Njk3cllQdU9KWXZmTDhaY3FxV1ZGTEdaSG02QmFkRDdCNEZsal9VZVFncUlqZy1RcmwtS1E?oc=5",
-    "published": "2026-11-13 07:52",
-    "timestamp": 1794523920,
-    "summary": "젠슨 황의 퇴진으로 엔비디아와 젠슨 황이 동일시되던 공식이 무너졌다."
-  },
-  {
     "company": "Cerebras",
     "title": "세레브라스($CBRS) 매출 2억3090만달러…마이크로소프트 계약 보도 - 토큰포스트",
     "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFAxYkhCbG9nSTM1T3ZqOXZpNTQ2YWFtRWVlV2xHTHBmampxSXRacjNwbTVWUUxpRkZlSW96MTZ5SHJXZnl5VXJiS25xTG1hdHlqaHJnbkluTW_SAV5BVV95cUxPVzhLYkl5cEotXy1ub1dVSnd1SWNBcnVhd3g2ZlN1ajdXcnN3YzZpd2NsaWtSaS10SlB2QUFqV1I0YUxfTEZraTBhUHVQVE5OZ0VtX2x4dXhzMnViSUt3?oc=5",
     "published": "2026-11-13 07:50",
     "timestamp": 1794523843,
     "summary": "세레브라스가 2억 3090만 달러의 매출을 기록했으며 마이크로소프트와의 계약이 보도되었다."
-  },
-  {
-    "company": "NVIDIA",
-    "title": "'스캔들 파문' 젠슨 황 엔비디아 CEO, 33년 만에 퇴진 - 연합뉴스",
-    "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTFBNOC1tb2o0ak5MdUgyMVhzNGdXSklqVWZqZ09pV1BCVFJiLXozaEZ3UlViUnJUOW5HUHZWX3RXRDJHdU9rb09vWTQxZUFUc0owZVZ0UndyS1huajVWeW9HLWQ3czF0cTlpTHQ3aGpoTEVLVEQ1X3ZTag?oc=5",
-    "published": "2026-11-13 07:48",
-    "timestamp": 1794523680,
-    "summary": "엔비디아의 젠슨 황 CEO가 33년 만에 자리에서 물러난다."
   },
   {
     "company": "AMD",
@@ -902,14 +966,6 @@
     "published": "2026-11-12 22:34",
     "timestamp": 1794490442,
     "summary": "인텔코리아가 2026 인텔 AI 서밋 서울을 개최하여 국내 기업 대상 AI 협력 생태계를 결집한다."
-  },
-  {
-    "company": "Infineon",
-    "title": "인피니언, 업계 최초 300mm SiC 웨이퍼 기반 전력 디바이스 구현 - 글로벌 비즈 뉴스",
-    "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTFB1WDYwdURybm13eWxSTkM2SDFTRE1jc0FjZ2t6NEFEZ0Y3T1h4cEJhTE13OURta296ejU4ZU1wWGNMR05WSE9rb2dEcWNVbDRjb016Ulo4d2ZPdkJPUG9HdlRkeUhXay1OVlHSAWpBVV95cUxQdVg2MHVEcm5td3lsUk5DNkgxU0RNY3NBY2drejRBRGdGN09YeHBCYUxNdzlEbWtveno1OGVNcFhjTEdOVkhPa29nRHFjVWw0Y29NelJaOHdmT3ZCT1BvR3ZUZHlIV2stTlZR?oc=5",
-    "published": "2026-11-12 22:27",
-    "timestamp": 1794490020,
-    "summary": "인피니언이 업계 최초로 300mm SiC 웨이퍼를 기반으로 한 전력 디바이스를 구현했다."
   },
   {
     "company": "AMD",
@@ -1056,14 +1112,6 @@
     "summary": "과기부와 중기부가 국내 개방형 AI 생태계 구축을 위해 인텔과 협력하기로 했다."
   },
   {
-    "company": "Intel",
-    "title": "파네시아, 인텔과 CXL 기술 협력…AI 인프라에 양사 기술력 결집 - 와우테일",
-    "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE5fQ09aUDRZNDVNUnNQcDhCQndlNzJOZnEtTWF4cHJLU24tZnVZRFg2ZlFWM29vaERVQXROZW9zeVBEb2RvcVd0LXMxUFY3eEE?oc=5",
-    "published": "2026-11-12 17:32",
-    "timestamp": 1794472320,
-    "summary": "파네시아가 인텔과 CXL 기술 협력을 체결하고 AI 인프라 분야에서 기술력을 결집하기로 했다."
-  },
-  {
     "company": "텔레칩스",
     "title": "텔레칩스, 3분기 영업이익 4.9억원…차량용 반도체 매출 확대 - 디지털데일리",
     "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE4tNklnQnlmeXQtLU1JWUNUd2FwbkJURXlQUlpETkxVTzljTDEzaXExZ1daUlZnYUpMVGloSkdlZjcxU0lrZnlrVmVKRUFDMkhPR3NPdXhyTDk0cUtLdVFhUVRR?oc=5",
@@ -1078,14 +1126,6 @@
     "published": "2026-11-12 17:07",
     "timestamp": 1794470866,
     "summary": "인피니언이 업계 최초로 300mm SiC 웨이퍼를 기반으로 한 전력 디바이스 구현에 성공했다."
-  },
-  {
-    "company": "Intel",
-    "title": "아닐 난두리 인텔 부사장 “데이터센터 CPU 수요, 수년 내 5배로” - 딜사이트",
-    "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE5hbWhhS2ZnT05NYmgzeFY5ZUlwZmh6M0FrQzFOalNzX200T1VrYjk5ZVN2MGFOQWJEX19BZnlSaFFfQnVXRFpfYzVDenFLREE?oc=5",
-    "published": "2026-11-12 17:07",
-    "timestamp": 1794470852,
-    "summary": "아닐 난두리 인텔 부사장이 데이터센터 CPU 수요가 수년 내 5배로 증가할 것이라고 밝혔다."
   },
   {
     "company": "STMicroelectronics",
@@ -1728,14 +1768,6 @@
     "summary": "TI가 한국 임베디드 시장 공략을 강화하며 엣지 AI 기술 포트폴리오를 공개했다."
   },
   {
-    "company": "AMD",
-    "title": "삼성전자, AMD와 차세대 반도체 테스트 인프라 협력 - 연합뉴스",
-    "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1Ia0RIUm5zXzFnMkZ2RUs4TFE5V29SSHcyLVo2VjBUd0VKRHE5dDBHS2N2dXU5REZ4MGlpRGFlVWhxczVqMDJSRmVIcDVJd21DRXNYNjZVZnhSc0HSAWBBVV95cUxQUFk4TDVjWWJrOW5Qc3pIcEcydzFpZ0VNUndOa0g3b2xJQ2s1T2VwOERscExEbVVZVEloU2poWEdJRkpWdGZPNzNJYlVkV0ROT2k4anlId0ZCVFNoQ0RoUHo?oc=5",
-    "published": "2026-11-11 11:41",
-    "timestamp": 1794364895,
-    "summary": "삼성전자가 AMD와 차세대 반도체 테스트 인프라 분야에서 협력한다."
-  },
-  {
     "company": "딥엑스",
     "title": "딥엑스, 특허 606건으로 AI 반도체 기술 경쟁력 입증…홍대용상 수상 - 테크월드",
     "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE9lVEJ2S245M1lFRVNTc2lsdHVIb2hFNWcwd2ZzOUh0WjBWRHdhS3drNVB2clBIemZaVnJCY1pMX3lIa1NPRkNIa2owQ1Q4ZzQzTTRGc2FfT1NKVHVwZU9NRFRhUlhXVDdD?oc=5",
@@ -1766,14 +1798,6 @@
     "published": "2026-11-11 10:40",
     "timestamp": 1794361258,
     "summary": "TI가 1200TOPS 성능의 레벨4 자율주행을 정조준하며, 95% 자체 생산을 통해 엣지 AI 가속을 추진한다."
-  },
-  {
-    "company": "AMD",
-    "title": "삼성전자, AMD와 반도체 제조 인프라 고도화 협력…차세대 메모리 기술 결합 - 파이낸셜뉴스",
-    "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBiTHF0N1dwc3dmZ1EzbnF3R3g5RTNtM0k3MEJ6bi1kU3F3azNCZ00xaEZLb016a0FMeUtRemZhbHpTZGo0QlBlenVPWDhIamZka3J5WjBsdkJTdw?oc=5",
-    "published": "2026-11-11 10:40",
-    "timestamp": 1794361219,
-    "summary": "삼성전자가 AMD와 협력하여 반도체 제조 인프라를 고도화하고 차세대 메모리 기술을 결합한다."
   },
   {
     "company": "Apple",
@@ -3030,14 +3054,6 @@
     "published": "2026-11-06 17:36",
     "timestamp": 1793954196,
     "summary": "퀄컴 임원이 AI 기술이 선양 지역에 새로운 발전 기회를 가져올 것이라고 언급했다."
-  },
-  {
-    "company": "딥엑스",
-    "title": "딥엑스 \"DX-M1만 버터 안 녹아\"...탑재 로봇 올해 출시 - 디일렉",
-    "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE1PTkVVNjVNMXVrQ1BISXZtYTlXVHZiaHJtY1lvV0hxZmdHYkprdzRFMDhzVnI2WVZBNXRaaWxvdVRDMTVqWVY4MkdoNlU0RUdrWklkWFY2dDBWV1NaWUlvcjJpNEVuUQ?oc=5",
-    "published": "2026-11-06 17:26",
-    "timestamp": 1793953578,
-    "summary": "딥엑스의 DX-M1 칩을 탑재한 로봇이 올해 출시될 예정이다. 해당 칩은 낮은 발열 성능을 특징으로 한다."
   },
   {
     "company": "퓨리오사AI",
@@ -6016,14 +6032,6 @@
     "summary": "이스라엘 램 테크놀로지스가 삼성 파운드리 출신 홍하오 고문을 영입했다. 이번 인사를 통해 미국 시장 공략에 속도를 낼 계획이다."
   },
   {
-    "company": "Broadcom",
-    "title": "\"엔비디아 아성 깬다\"…브로드컴, 월가 손잡고 앤트로픽에 칩 리스 - 디지털데일리",
-    "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE1VekZDc2NtWWUyRzRuWVdkY1VVbEx3STVXTmFheXV5c0I3ckROdUlKLXNhYmFVbi1vZVNUaHBrS2VlN3BtN1FHZU9LZVNMR29qam5jWkR0TUlqd3lJbDl1ODJ5MHg?oc=5",
-    "published": "2026-10-27 08:53",
-    "timestamp": 1793058789,
-    "summary": "브로드컴이 월가와 손잡고 앤트로픽에 AI 칩을 공급하며 엔비디아의 아성에 도전한다."
-  },
-  {
     "company": "GlobalFoundries",
     "title": "글로벌파운드리스, TSMC에 인터포저 공급…2028년 양산 - 토큰포스트",
     "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE1VZldYamJjNFR3clpDRXBzVW90Zk14eGhRQXdTZ0s2LVd5aTNvVlVwVUR1TG1JbG5JVkFCd2ZzNE5OZzdCckpIZ2d5UldBNWlrNEkzeU1OU1LSAVhBVV95cUxNVWZXWGpiYzRUd3JaQ0Vwc1VvdGZNeHhoUUF3U2dLNi1XeWkzb1ZVcFVEdUxtSWxuSVZBQndmczROTmc3QnJKSGdneVJXQTVpazRJM3lNTlNS?oc=5",
@@ -7040,14 +7048,6 @@
     "summary": "아마존이 파이토치 개발자들에게 트레이니엄 AI 칩을 개방한다. 개발자는 코드 재작성 없이 즉시 실행할 수 있다."
   },
   {
-    "company": "Amazon",
-    "title": "아마존, 美 인디애나에 SMR 12기 추진⋯AI 전력 확보전 '원전'으로 - 포커스온경제",
-    "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE0zTVdaZlIwNmlHeTRNYU0yNmszeFg0UnFKdzJwWFYzeEdlOEFZRU1oSktEaGhEYm1WWjFHVlBRZ2luNGhLU05vampzYVlnZnUxS2VDRVo3NURQSzBJdWc?oc=5",
-    "published": "2026-10-20 10:16",
-    "timestamp": 1792459014,
-    "summary": "아마존이 미국 인디애나주에 소형모듈원전(SMR) 12기 도입을 추진한다. 이는 AI 데이터센터 운영을 위한 전력 확보 차원이다."
-  },
-  {
     "company": "보스반도체",
     "title": "보스반도체, LG전자·하나마이크론과 칩렛 기반 차량용 반도체 국산화 협력 - 파이낸셜투데이",
     "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE5ObTg1SFRVM29vZkJwRXN6dFV4blV1c1ZpbVBoM0JSb2tsanFfRXFCWTdMOUh5X0tHWHBtd3FZTmZ3UFpsRHlCTGdPc3N2WXN5RTZBZjI5cnZCdlhBbnRMQlB0MmNlT2ZEbTFNMmZR0gFuQVVfeXFMTk5tODVIVFUzb29mQnBFc3p0VXhuVXVzVmltUGgzQlJva2xqcV9FcUJZN0w5SHlfS0dYcG13cVlOZndQWmxEeUJMZ09zc3ZZc3lFNkFmMjlydkJ2WEFudExCUHQyY2VPZkRtMU0yZlE?oc=5",
@@ -7830,45 +7830,5 @@
     "published": "2026-10-15 09:17",
     "timestamp": 1792023450,
     "summary": "ST마이크로가 웨어러블 기기에 활용할 수 있는 고도 및 수심 측정용 센서를 새롭게 출시했다."
-  },
-  {
-    "company": "Bosch",
-    "title": "LG전자, 보쉬와 차량용 ‘칩렛 반도체’ 개발 - 주간동아",
-    "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE04M3Z4QnhWc2hIaVZrdHJGbWxoUXd0UHV1LW5XVEJJN0RnLTBhNXZLSnB5ZmtWalZoMm95MENiSmROb2hQeVIzTzBKcnRvMUlxZDhMZ09KRWl0eWFqal9mTm5Vbk9waXFW?oc=5",
-    "published": "2026-10-15 07:00",
-    "timestamp": 1792015202,
-    "summary": "LG전자가 보쉬와 협력하여 차량용 칩렛 반도체를 개발한다."
-  },
-  {
-    "company": "Renesas",
-    "title": "日, 美 파운드리에 210억 달러 투자… 도쿄일렉트론·르네사스 총출동 - 글로벌이코노믹",
-    "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPNWFlVFZzM0U3R3RkMWwyYnZZUEhMLTdRWkliX253ekpiTUdkVGh2cDJoSFBvcndYRU8zU2hFbmhsZm1adk5xd1V4a1RTUG1Rb0U1Q3NtaVVVUHpjVWIyRE9OLVcya00xakRiVmt6ZTdUUGpOa3BiRkhSb3FYWGN0VUFBbWxLaC1S?oc=5",
-    "published": "2026-10-15 06:00",
-    "timestamp": 1792011600,
-    "summary": "일본이 미국 파운드리 산업에 210억 달러를 투자하며 도쿄일렉트론과 르네사스가 참여한다."
-  },
-  {
-    "company": "Kioxia",
-    "title": "AI 데이터센터 '발열 장벽'에 스토리지도 액체 냉각으로… 키오시아, CM9 SSD에 DLC 모델 추가 - 한국데이터경제신문",
-    "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9ZaHNvRFBZM3Frd1UyaTJJRmgwaFhSLVdVR016NG5VMk9qWlNVMnFCOFdjTUVvajVrVXdmakZCSlNJUVFDMElVaDRMYk9NNFRtWkx5MXBzVnlYTkdYQXFRRnpvU2g4V3JzRFNxbnFQcXHSAXRBVV95cUxPcWxUV2NsVGszQ0pXeEdtZVlDbHJNOUN0bkVzX0tZajloU08tY2hDcW84bEZBMklyaHdUUkotNVBNYTVodVFqa3B1ZUZrREJ1LXB3TU1zdWl0ZVp5M1ZHc2pCTUFwMS1IaWhMajd6S1VXTW1Ldw?oc=5",
-    "published": "2026-10-15 05:01",
-    "timestamp": 1792008060,
-    "summary": "키오시아가 AI 데이터센터의 발열 문제를 해결하기 위해 CM9 SSD 제품군에 액체 냉각(DLC) 모델을 추가했다."
-  },
-  {
-    "company": "Marvell",
-    "title": "[GAM] 마벨 ① MS '마이아 300' 날개 달고 맞춤형 반도체 수혜 기대 - 뉴스핌",
-    "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE5nSklFd3FISVBjUHJQMEU0UnJranpvWTZZU3g1SVc5eG02U015bDNCcERpUC1aanNucVUzc2gxeDNJUmJNWVdTQnN1X2FOaURPMDFldHRJNzJaelZp?oc=5",
-    "published": "2026-10-15 02:55",
-    "timestamp": 1792000502,
-    "summary": "마벨이 MS의 맞춤형 반도체인 마이아 300 개발에 협력하며 수혜가 기대된다는 내용이다."
-  },
-  {
-    "company": "Marvell",
-    "title": "엑시나, 인텔·마벨·퀄컴 출신 스티브 핑거허트 CBO 영입… MX1 상용화 추진 - 올포칩",
-    "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9NQzZ2SUpQdmFIQ1U5RlF3bjBHQjh4VEFPUHBhZk9BMHprYUh4XzNKYm9OZE51cWZBNl85NWZxYi1VcjZpcFp2M0hJOFEwTWRKRk53SzJYbUdCVkVRMDNjTQ?oc=5",
-    "published": "2026-10-15 02:50",
-    "timestamp": 1792000204,
-    "summary": "엑시나가 인텔, 마벨, 퀄컴 출신의 스티브 핑거허트를 CBO로 영입하고 MX1 상용화를 추진한다."
   }
 ]
