@@ -1,11 +1,83 @@
 [
   {
     "company": "NVIDIA",
+    "title": "미 연구소 \"中딥시크·키미, 미 제재에도 엔비디아 최첨단칩 훈련\" - 연합뉴스TV",
+    "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBFVUxZYjNfVVhDc0k5LU52eTFYSndqWWQ5Wlh0M05tVXZteFBWZzZBQ00wRWV3YmFiOUdSWFJkNzVjYVR3SERyclc1YzY1SUlQNnRiVVpZUzhOVTY5WGRsUXZkc3BWdHc?oc=5",
+    "published": "2026-11-15 03:43",
+    "timestamp": 1794681780,
+    "summary": "미 연구소는 중국의 딥시크와 키미가 미국의 제재에도 불구하고 엔비디아의 최첨단 칩을 훈련에 사용했다고 밝혔다."
+  },
+  {
+    "company": "Apple",
+    "title": "삼성전자 오스틴 센서 개발설에 애플 아이폰 18 출시 일정 변동 관측 나와 - 초이스스탁US",
+    "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1EUkY2bFV6bjNRVW00THBXNU1OMGdRMndTLWRQVVlUMk00VXVTWWdNS3BtWkpJX3gzRW1hTTFTOVdCdWI5ckNzYW1LcUdpVk1YUW5STzRLVnliVDJaUi15N3FUb1d5MG8?oc=5",
+    "published": "2026-11-15 03:05",
+    "timestamp": 1794679500,
+    "summary": "삼성전자의 오스틴 센서 개발설로 인해 애플의 아이폰 18 출시 일정이 변동될 것이라는 관측이 제기되었다."
+  },
+  {
+    "company": "NVIDIA",
+    "title": "엔비디아 임시 CEO 크레스, 실적 발표 답변 5차례…17일 첫 시험대 - 글로벌이코노믹",
+    "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQN3pwakxNbHRNdm5aRDZrNENsRUZfeTgzaXNQUGhfV3hxaDJySXlTRFJLc0VYREdnY0tZV3Q5SE9GYjJ2T2pQeGtHekZib2YwcUNmMmtLS0g5LU1ZV3daNW1sV3FleHBUM1FscDRnWjdnVThQS19oNGF5V3B3VW13TVBHYVpRYms?oc=5",
+    "published": "2026-11-15 03:00",
+    "timestamp": 1794679200,
+    "summary": "엔비디아 임시 CEO인 크레스가 실적 발표에서 5차례 답변을 진행했으며 17일 첫 시험대를 앞두고 있다."
+  },
+  {
+    "company": "NVIDIA",
+    "title": "젠슨 황 사임에 1.5GW 유출설 겹친 엔비디아…HBM 2027년 판도 바뀐다 - 글로벌이코노믹",
+    "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOU20wVmRXV0w4RVllaXd1dnc4dU9YWlQyNlFsRzdySFgtZzFva1FqSnJHY013dk1LWUpHckVqaVA4SFRRT3VYd3VXMlFqNVRTM2JCaWVDNDBDWHZPNExOWTVrOXZETWpCVUU1NmVSTDF6S090QnNqOXd5aU10VFhDTGlKYXNNYW5y?oc=5",
+    "published": "2026-11-15 02:35",
+    "timestamp": 1794677700,
+    "summary": "젠슨 황 사임과 1.5GW 유출설이 겹치며 엔비디아의 2027년 HBM 판도 변화가 예상된다."
+  },
+  {
+    "company": "NVIDIA",
+    "title": "젠슨 황 퇴진 후폭풍…엔비디아, 9억달러 보험에도 소송비 부담 우려 - 글로벌이코노믹",
+    "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQUncwX2JJQWl3MVJkSlRsZ0tqQnVzenIwS3k1eGxOQkZ2ckxhWmQzZ0s2RjgxWXdJTXhpOXBVQ0poMDkyLVFJM1lHSWRpZ0hYdm53RmVNRUdOZGVxa3JYTHBiRU1ra1NKSGxzb3BQTUh6bXpzbXA1dGl3d0h6YmZuWjlmZWJtY0RM?oc=5",
+    "published": "2026-11-15 02:00",
+    "timestamp": 1794675600,
+    "summary": "젠슨 황 퇴진 이후 엔비디아는 9억 달러의 보험에도 불구하고 소송비 부담이 우려되는 상황이다."
+  },
+  {
+    "company": "AMD",
+    "title": "AMD Adrenalin 26.11.1 업데이트는 SSD 백그라운드 쓰기 문제를 해결하지 못했습니다. Radeon RX 6000 - GameGPU",
+    "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNTFIwQ0QzUzFGTkhraXl6X2Vwb3MxdGE1MllLLWhrcFJEMTVaalhUMnRSQzZpaHRBLUFFUzRyeVlDOXllVzA4RFpObG9JV1VrdlU2S0YzLVZ1VTlfejBtOWpkUEl6bXcxZHVjSFpVWFlGa0wtTmFHdE1GYV9FQ0Z1Z1ZoRjQ0RUhUa2ZuNFBFTVpqbWNmaVhMVjVRNU5YOTh2QXlZY29vekxkbVBpVE1LUVVDeHdZVWljNkZv?oc=5",
+    "published": "2026-11-15 01:52",
+    "timestamp": 1794675153,
+    "summary": "AMD의 Adrenalin 26.11.1 업데이트가 Radeon RX 6000 시리즈의 SSD 백그라운드 쓰기 문제를 해결하지 못했다."
+  },
+  {
+    "company": "NVIDIA",
+    "title": "머스크 \"젠슨 황 없는 엔비디아, 공급망 핵심 계약 잃을 것\" - 연합뉴스",
+    "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE83ZGtQVW91TEVVUDI2VFBJWVp5RmtMa3JSTTNCa3RxQjB2bEdPc1FxOXJveml2MUVSTjRjWjBSMVctdWpEbXRBUE80UFIwdnlZbWZQZC0taWZnMTDSAWBBVV95cUxNaER6Y19XODJSbGhQblF3WlZtX20tT0hqQnBmMXVSdHZpUnVxVVNWTkNTNXBVWnlCaU9hbHVDQjZkVnBlbGlUekJqMHBDLUg3bXZlclVXbnIxdi0tV1B2QlM?oc=5",
+    "published": "2026-11-15 00:27",
+    "timestamp": 1794670031,
+    "summary": "머스크는 젠슨 황이 없는 엔비디아가 공급망 핵심 계약을 잃을 것이라고 언급했다."
+  },
+  {
+    "company": "TSMC",
+    "title": "TSMC 2026년 3분기 공정별 매출 (표=TSMC) - 전자신문",
+    "link": "https://news.google.com/rss/articles/CBMi8gRBVV95cUxNQVpJTmRBd1NzdEdDTzJqejlLUnJPaFI2NDJXX0MwdTdfUmNmdk15MW9GR25kSjBOMHBkS21BTUZZbC1JUFJBeTBsbTVsTnJqT0ZVSU51TThoSGJyb3lwMHFDMkpsRFlNWHBxdFc5N3hrSGx0MmhzNXpicTVtcGFEUDZYTzVEXzI4Q3pyRzQzWXVNQjdjcVVJZE1LaXpuN1M4U2VkYXU2dzk5Z2VRd3dzUEg4aVZxckpqSkdmOWlid3g1bWZ1cVYtUEkwWExvUm8yTENLZ0l1NmRYbWxTbU9IVy1fUnR3YTdaaEVOWG1IVDZDZHJtZFBTOTQ3Tno3WERCQ3dKaXFIc1BJNDMzcmtmblJHdnpFdTJETDd2bjhwV01FMktCUVNWQmtUNE1HWWpfLWFMR1ZnYk5WOUFwRHFUMzNPYzZvR29IUTQ5TmRXamNMSW5xWFhYQURGN2JvZTNvYWNYUTJwdEh3QmF2UGxFMUpvY3Fyd2xLTWFzX1UwS3BJZXh4aWNfbURQY0RNemhOLWVwT3ZNQ1JGQkNLMmVHOWZjRmNSa1N6cDhaMlo3OEQxMC1VbGVqTy12X2FIT012SmxNUVJmRUQ5RjBTa2FuckpJZGFLSDRTLTdfRjNPd2RVTjdvWHY5YlZSTGo4RzhfWEpBN2FWazVuME5nWUU3VVFicGZGczZMMExOdVROM2VYYUdsSmlYc3hvd3NsYXEtZ1pDYnRTQlZLS3piRVNmVk5TZUNaZmxOQVA3OUsxbW92dVBRblRFTnJLSU5FbjBJdmozN2pBTG1TeDRySDVmb2lCVGQxQkpPaWhQdHVjQ3lPdw?oc=5",
+    "published": "2026-11-14 22:13",
+    "timestamp": 1794661999,
+    "summary": "전자신문이 보도한 TSMC의 2026년 3분기 공정별 매출 현황에 관한 자료이다."
+  },
+  {
+    "company": "NVIDIA",
     "title": "폭스콘-엔비디아, ‘스스로 진화하는 AI 공장’ 가동 - 헬로티",
     "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE1YM0JDRTJLVl80SUx5TjNBd1dYR3pxSVZsdHRXZzNicTNCekd1OE9NblJTakF0VHdLdkVUdkVsWEJYQ0NyZXZFamxNWWU4b1cxVUl1dWFHdElUTk1KWXVN?oc=5",
     "published": "2026-11-14 21:22",
     "timestamp": 1794658962,
     "summary": "폭스콘과 엔비디아가 협력하여 스스로 진화하는 AI 공장을 가동합니다."
+  },
+  {
+    "company": "AMD",
+    "title": "AMD는 그래픽 카드 제조업체 간 그래픽 칩 분배를 줄이고 있습니다. - GameGPU",
+    "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQbHVHRGlqcUEydnZDTlBKZzRUV1ppTGFfM2dMS0haUEwtcDlEMEhSSW81ZGNLN0RPZ2pSM1lwajhFS2Z4ZWhnTGNHYUhJZUZYY2liS2JlVC1JQ0JvZ2lvQjRWNWhJcjBoMEg5VTNKbHdGb09iOHFveTRzYzRDdkx5VzFBa01NYlNpejNPbUhveU1VTEpSaV8xbVI1Qy1FdkVSY2lLbFpJRmxOSmhOWGYzOGZBMG5IT1Z0WkZWaU9n?oc=5",
+    "published": "2026-11-14 20:08",
+    "timestamp": 1794654525,
+    "summary": "AMD가 그래픽 카드 제조업체들에 대한 그래픽 칩 분배량을 줄이고 있다."
   },
   {
     "company": "TSMC",
@@ -41,6 +113,22 @@
   },
   {
     "company": "NVIDIA",
+    "title": "‘하스 암 CEO 접촉설’ 엔비디아 부인…차기 수장 안갯속 - JTBC",
+    "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE9MdEZabm9WRVlmOUZWcGxWR0Vsbzd4WE5UclZHVlFGNV9taFlkc3pWaWpwU3J3SnZySEVGSlJtdVVKS1ItX1djWHg1T3NRVmJpanR2Mw?oc=5",
+    "published": "2026-11-14 18:46",
+    "timestamp": 1794649560,
+    "summary": "엔비디아는 하스 암 CEO 접촉설을 부인했으며 차기 수장은 아직 정해지지 않았다."
+  },
+  {
+    "company": "NVIDIA",
+    "title": "젠슨 황의 Nvidia 퇴사에 아시아 각국 반응 엇갈려 - Mezha.net",
+    "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQY3lLZE9kNjAyNkd6UFZEemEtcW5OQ3FUS21ONjVrNU1CSXpJYUZMbFh5UXBGYU5wRFJOc1hsbS1JVThDZzdsWWxFWDNNNzB5bmc5STVuSU5ub3NDSjRyYnVzU3luSG9VdjJzZS1fRTNPLXNqeEFSSUVxNENtT3N3ODNEaHF5SzVwSWJLMGV6czYtMUc0VWppTGNB?oc=5",
+    "published": "2026-11-14 18:41",
+    "timestamp": 1794649260,
+    "summary": "젠슨 황의 엔비디아 퇴사 소식에 대해 아시아 각국의 반응이 엇갈리고 있다."
+  },
+  {
+    "company": "NVIDIA",
     "title": "엔비디아 직원들 \"젠슨 황 복귀시켜라\"…사내 게시물에 댓글 1600개 - AI타임스",
     "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBvcEcwSkdJNnVYcDBpblRkeldtaEJSY0dnVWpQYnQwaDJtV09yUTBqdW5uTkY5TnVneS1qMkx0RVdxakhJWUV5dlk0R0sxS0ZTSE5nRHM3Wlh4WFAxdmlBalpESkRldnJxQUE?oc=5",
     "published": "2026-11-14 17:56",
@@ -54,6 +142,14 @@
     "published": "2026-11-14 17:03",
     "timestamp": 1794643430,
     "summary": "엔비디아가 차기 CEO로 Arm 하스를 접촉했다는 설이 제기되었으나, 이사회는 공식 접촉 사실이 없다고 밝혔습니다."
+  },
+  {
+    "company": "NVIDIA",
+    "title": "젠슨 황 투자에 제동 걸었던 CFO가 후임으로…엔비디아 전략 바뀌나 - AI타임스",
+    "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE14Qmp4Qmdxc3hQQ1h3ZkJjS2FFTTRxQk4zdm5MLTFIVEY3Y3lRLXlDeG9QWkNSV1B4SXlNNF94WDRDa1l0Q1pza0dDci1JYlZ3ZHhMelFFZ1V4bERlVFFLR2FjVVJfbTVhSmc?oc=5",
+    "published": "2026-11-14 16:49",
+    "timestamp": 1794642571,
+    "summary": "젠슨 황의 투자에 제동을 걸었던 CFO가 후임으로 결정되면서 엔비디아의 전략 변화 여부가 주목된다."
   },
   {
     "company": "Intel",
@@ -254,6 +350,14 @@
     "published": "2026-11-14 06:35",
     "timestamp": 1794605700,
     "summary": "제이엘케이가 인텔코리아의 'K-AI 풀스택 얼라이언스' 초기 멤버로 참여한다."
+  },
+  {
+    "company": "Microsoft",
+    "title": "MS, 이틀째 장애에 사과...\"사이버 공격이나 AI와 무관\" - JTBC",
+    "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE5fczlVb1N5OVpsbFFuWEM2SWtHQ3VmN1J0SzNQWk10eHJFNmVjV0FXeUFxZTlRbGwydE5FNmZBbl9iM0tXaXJMS1ZEdGxfWDRBQnF0OFV4OEhpVzA1a1FEZDJteXVQdnhL?oc=5",
+    "published": "2026-11-14 06:08",
+    "timestamp": 1794604080,
+    "summary": "MS가 이틀간 발생한 서비스 장애에 대해 사과했다. 해당 장애는 사이버 공격이나 AI와는 무관하다고 밝혔다."
   },
   {
     "company": "Broadcom",
@@ -472,38 +576,6 @@
     "summary": "엔비디아의 차기 CEO 후보군으로 애플 실리콘 개발을 이끈 조니 스루지가 거론되고 있다."
   },
   {
-    "company": "NVIDIA",
-    "title": "‘젠슨 황 없는 엔비디아’ 미래는?…테크 전문가들은 우려와 낙관이 엇갈렸다 [이슈 플러스] - 매일경제 마켓",
-    "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5nQ1Y0U3pTQXFJS05NdVRJazByY3VHeWZOTUFjWUstM1VqUnNjRUctVVIxcF9QV3RWdWhkbU5mUlR4XzZJc3dUdkZmTENhMTRFX2c?oc=5",
-    "published": "2026-11-13 18:01",
-    "timestamp": 1794560467,
-    "summary": "젠슨 황이 떠난 엔비디아의 미래에 대해 테크 전문가들의 우려와 낙관이 엇갈리고 있다."
-  },
-  {
-    "company": "NVIDIA",
-    "title": "[봇규의 헬로BOT] “로드맵 중단 없다”는 엔비디아의 확약, 젠슨 황 퇴장에 로봇 생태계 어디로? - 헬로티",
-    "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE9nZDJpMGZvOVhLelU4VW0yUG5OVFZLRUlFS3pXMFhoWjVnWFNBQ3c4aG5GOGN5R21qcWdfOHNDaHQ4YWIzY1RDU0VVVVk2X0IwUWlwOG1tcHZkdGs0V0ZF?oc=5",
-    "published": "2026-11-13 17:54",
-    "timestamp": 1794560064,
-    "summary": "젠슨 황의 퇴장 이후에도 엔비디아는 로드맵 중단을 하지 않겠다고 확약했다. 로봇 생태계의 향후 방향성에 대한 관심이 집중되고 있다."
-  },
-  {
-    "company": "NVIDIA",
-    "title": "임시 수장에 '황의 브레이크' 크레스…엔비디아 신규 투자 멈추나 - 한국경제",
-    "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE0xVWVOLWc4XzFZc2hGNUdSeF9pMUxWaHBMYmtIVzdUaldkRG1hZ2czMUtUSWFHLWhocy13eURHSzJFNmxJakZmTndTYXJLWURZajc1TEhJYkU1dw?oc=5",
-    "published": "2026-11-13 17:47",
-    "timestamp": 1794559669,
-    "summary": "임시 수장을 맡은 크레스 체제 하에서 엔비디아의 신규 투자 지속 여부가 주목된다."
-  },
-  {
-    "company": "NVIDIA",
-    "title": "젠슨 황 없는 엔비디아, 韓에 GPU 26만장 약속대로 공급 - 한국경제",
-    "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1zTE8xQ0ZOSzBvNjN2dmUzZUtWU2UtemJrb1ZvV1h3TEhva3BDNzMyQ0plVjRxNXQ4eVRHV3FKUUVuMXNsVXpOd0hVZVhsRXZHbVptTmFuakZtdw?oc=5",
-    "published": "2026-11-13 17:36",
-    "timestamp": 1794558999,
-    "summary": "젠슨 황 퇴진 이후에도 엔비디아는 한국에 GPU 26만 장을 공급하기로 한 계획을 유지한다."
-  },
-  {
     "company": "TSMC",
     "title": "TSMC 직원 개인정보 털렸나…해커 \"4만 6천건 판매\" - 연합뉴스TV",
     "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE96Vjg1a0t6SUt5WXhlcEZ0Nm9hWVVtTjhxNWZWQlZFM0hXbWFoUFZYMnBhM19DR3ctRmEzaVFmZ1NrcG1OOVczcS1SdnlOem1nX180Z0xQRFhmUG5VUXlDWWxOZ19Tam8?oc=5",
@@ -518,14 +590,6 @@
     "published": "2026-11-13 17:07",
     "timestamp": 1794557269,
     "summary": "인텔코리아가 메사쿠어, NH농협은행과 협력하여 AI 영상통화 본인확인 사례를 공개했다."
-  },
-  {
-    "company": "NVIDIA",
-    "title": "“이름값만으로도 쟁쟁하다”...엔비디아 ‘왕좌’ 노리는 거물들 [이슈+] - 에너지경제신문",
-    "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE0tUzJIRzZYX01FZy0yRXN6UzFLUUUwcG94UnVRRlU0VmJNMmhQZzZJdjZuUHJuSG1YbmhrWE5wQWFFWWRiY2lJOUo0R0RrOWJNM1NLQ1pPaGJwcGdJaEE?oc=5",
-    "published": "2026-11-13 17:04",
-    "timestamp": 1794557052,
-    "summary": "엔비디아의 차기 경영자 자리를 노리는 후보들이 언급되고 있다."
   },
   {
     "company": "딥엑스",
@@ -544,14 +608,6 @@
     "summary": "인텔이 에이전트 AI 및 피지컬 AI 시장에 대한 공략을 강화한다."
   },
   {
-    "company": "NVIDIA",
-    "title": "[젠슨 황 리스크] 앨리스 황, 홍콩법인 통해 엔비디아 칩 조달…中 AI기업에도 투자 By EBN - Investing.com 한국어",
-    "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9TMzZVbHM4dkM2WURaTG1oVTlIZFpNTm1tQUNnTTZEVm03V05MclQzVHV2eGZFMGRlTTNGTUpuSTdrQXR0d1JMSklKbkxDLTd5WE90MjlDNXlacTlfSVVnT1pnLWg0OV9YRE5PbjcwY0Q?oc=5",
-    "published": "2026-11-13 16:42",
-    "timestamp": 1794555720,
-    "summary": "앨리스 황이 홍콩법인을 통해 엔비디아 칩을 조달하고 중국 AI 기업에 투자한 사실이 드러났다."
-  },
-  {
     "company": "AMD",
     "title": "AMD, 양자컴퓨터 오류 수정에 GPU·SW 투입…엔비디아와 경쟁 - AI타임스",
     "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE00VTV0VWM1RFZtcjI2a0RrWnA5UzlWdlJxSWhudmxhOFREbkVMSGE0SkZSOGhCNjRWcG5RWkZBMm96X1RNTllSLXNpYmZLaHJLNm1EVko3Nms0Q1BzaXJ5SHZ3X2E0aklYLXc?oc=5",
@@ -566,14 +622,6 @@
     "published": "2026-11-13 16:31",
     "timestamp": 1794555086,
     "summary": "세레브라스의 잔여이행의무가 261억 달러로 집계되었다. 마이크로소프트와의 계약액은 공개되지 않았다."
-  },
-  {
-    "company": "NVIDIA",
-    "title": "엔비디아 혼란에 AMD·브로드컴 등 ‘반사이익’ 보나…삼성전자도 ‘수혜’ 거론 - 경향신문",
-    "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBTWGxEcGNtRDg0TlRVX29FUnBDTHpMNkRFN3Z2VS1RLXJoNThXQzZvaURoMlMxQzV5Um0yVTA4QVVHQ29BRE0xcXhDZnVVZEkwM1NvV3RDRFkyZ9IBX0FVX3lxTFBBNjVBTFdwR0VxQlJrMW9PeGpPVTlsVnB1dnJMTmx5cnRROFBDZHJQckpZNzN0S2U0NmJSLUNieU5xSmZsNWU1RjV4VFotcV9pZ05hS19wQmd6MUVkeXA4?oc=5",
-    "published": "2026-11-13 16:28",
-    "timestamp": 1794554880,
-    "summary": "엔비디아의 혼란으로 인해 AMD, 브로드컴 등이 반사이익을 얻을 것으로 거론된다."
   },
   {
     "company": "Intel",
@@ -622,14 +670,6 @@
     "published": "2026-11-13 15:39",
     "timestamp": 1794551952,
     "summary": "TI가 CCStudio™ 에코시스템에 에이전틱 AI를 통합하여 임베디드 개발 혁신을 가속화한다."
-  },
-  {
-    "company": "NVIDIA",
-    "title": "소프트뱅크·엔비디아, 연 1만대 생산능력 갖춘 독일 휴머노이드 기업에 6600억 투자 - AI타임스",
-    "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1zaVBjWDhWTXdhdjRzME5DekZwSHZyZDB5b2p5VmIxS1ZDSlg4aHJHdF9jRE5vcW5fU3F6Vm9aMVA4YWEteVBVc3ItNUZ6ZTQ0WktkM3pPUWhieDJZWG1veUVLdjNGdU5UQUE?oc=5",
-    "published": "2026-11-13 15:34",
-    "timestamp": 1794551647,
-    "summary": "소프트뱅크와 엔비디아가 연 1만 대 생산능력을 갖춘 독일 휴머노이드 기업에 6600억 원을 투자했다."
   },
   {
     "company": "AMD",
@@ -902,6 +942,14 @@
     "published": "2026-11-13 09:37",
     "timestamp": 1794530220,
     "summary": "서울 AI 허브가 인텔코리아와 업무협약을 체결했다. 양측은 AI 스타트업 육성을 위해 협력한다."
+  },
+  {
+    "company": "딥엑스",
+    "title": "\"인텔 생태계에 국산 NPU 결합\"… 딥엑스, 인텔·KTNF와 AI 인프라 동맹 - 아시아경제",
+    "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTFBiaDJ4cXQ5R0Z6cnBCMkd4eGVXcmNib2xHUnhBX1pQQXMxREU4aW5iMTV1SGxNRXZDWTZqM3Z3LVNZZXY5dHptUXpsZ01ZUzQtajBFMGtiSXJKMkduVWxual9R?oc=5",
+    "published": "2026-11-13 09:36",
+    "timestamp": 1794530210,
+    "summary": "딥엑스가 인텔, KTNF와 협력하여 국산 NPU를 인텔 생태계에 결합하는 AI 인프라 동맹을 구축한다."
   },
   {
     "company": "Intel",
@@ -1752,22 +1800,6 @@
     "summary": "TSMC가 엔비디아 의존도를 줄이기 위해 오픈AI와 앤트로픽에 직접 투자한다."
   },
   {
-    "company": "AMD",
-    "title": "AMD, 6세대 에픽 '베니스' 공식 출시...\"엔비디아 대비 성능 3.7배\" - 디일렉",
-    "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE92cngxWm4xaGxRVVBrd1BYM1Q3WFFTa3YxZGdJUmU1QzlMcU1rcXQ4Zm1sWEIwOEZIeWp2T2F3dk85bldNb1l5czdSTDR0VWg3Z1p6ZWx1SkVtcWNhaVcxc0hmTkM1dw?oc=5",
-    "published": "2026-11-11 15:47",
-    "timestamp": 1794379633,
-    "summary": "AMD가 6세대 에픽 '베니스'를 공식 출시했으며, 엔비디아 대비 3.7배의 성능을 제공한다고 밝혔다."
-  },
-  {
-    "company": "AMD",
-    "title": "Zen 6 아키텍처로 인텔에 선전 포고…AMD의 질주 계속될까 [고든 정의 TECH+] - 서울신문",
-    "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBqY0RPSU5rWGtiTHlHeWxkT05tQkJwaFV0ZllBNldrelNrQi16U242X0d0R1F3UElzSW94aFIta0JWVkMyWkhrd2V5M1pOcEJ5WVZDOTVWc0NZUQ?oc=5",
-    "published": "2026-11-11 15:46",
-    "timestamp": 1794379585,
-    "summary": "AMD가 Zen 6 아키텍처를 통해 인텔에 대한 기술 경쟁을 이어가고 있습니다."
-  },
-  {
     "company": "TSMC",
     "title": "TSMC, 오픈AI·앤트로픽에 최대 10억달러 투자 … AI 동맹 확대 - 뉴데일리",
     "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNY0ZqMlRmRVJqTHI5elQwV0ZJYTJiT2E4ejJXQ0lfd2JwODNLdjNBQnNUM3lOdFJuV3dNZ0tjSHpFWkpWR1NZcVVUUno4akQ2TUJxaEF1cTZUR1pLMF9TQklQYmdiRGpQNHdOdEI4NFFKVkFvVDRiYXp4MmVGSEt3cdIBgAFBVV95cUxNY0ZqMlRmRVJqTHI5elQwV0ZJYTJiT2E4ejJXQ0lfd2JwODNLdjNBQnNUM3lOdFJuV3dNZ0tjSHpFWkpWR1NZcVVUUno4akQ2TUJxaEF1cTZUR1pLMF9TQklQYmdiRGpQNHdOdEI4NFFKVkFvVDRiYXp4MmVGSEt3cQ?oc=5",
@@ -2030,14 +2062,6 @@
     "published": "2026-11-11 04:51",
     "timestamp": 1794340260,
     "summary": "퀄컴이 스타트업과 협력하여 인터넷 연결 없이 AI를 구동할 수 있는 컴퓨터 운영체제를 개발한다."
-  },
-  {
-    "company": "TSMC",
-    "title": "TSMC, 10월 매출도 '쑥'...사상 최대치 - SBS Biz",
-    "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFBlcjRuaTRiWWJfVEtGWmJ2cGRhZk1sX1F3bFhqeGI2dld6bXdwbzFRMFFBd1dSUEh3N2VocjhkSUFZbEFNWnRVOF8xN3dlZHJZcGtr0gFYQVVfeXFMTTdGOWN2Rk53MlNkNmpKdFFKYVRCbjF6NmdyQ1NFNXUzOXJPQWl2VllBcUQtcUxlOUFRVjhPY084NnhLVVY0ZG16TjJjZDZyQ01lRlhnQUZsMg?oc=5",
-    "published": "2026-11-11 04:41",
-    "timestamp": 1794339660,
-    "summary": "TSMC의 10월 매출이 사상 최대치를 기록했다."
   },
   {
     "company": "Infineon",
@@ -2630,14 +2654,6 @@
     "published": "2026-11-09 17:53",
     "timestamp": 1794214380,
     "summary": "딥엑스가 5W 전력으로 거대 AI를 구동하는 차세대 칩을 삼성 2나노 공정으로 테이프아웃했다."
-  },
-  {
-    "company": "딥엑스",
-    "title": "DEEPX, AI 칩 발열 테스트에서 DX-M1로 버터를 녹지 않게 유지했다고 밝혀 - Mezha.net",
-    "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNVkwySjQ0ZWN2aVdhQjAyTi12MGpCRHBubkxIamdjQVMwYmVsV1RxZG55dXdJNVB1SHQ5dmpMQVZoMkRId0pGcTljVlp5clNFMGJQdmZiZm02OHJzci0yX19jRnp6WlRyMndmbzc2QUlGRjVqSkJLRGgwZWl0dGhfQ1kwQW1YU09YNktR?oc=5",
-    "published": "2026-11-09 17:19",
-    "timestamp": 1794212340,
-    "summary": "DEEPX가 AI 칩 발열 테스트를 진행했다. 해당 테스트에서 DX-M1 제품이 버터를 녹지 않게 유지하는 성능을 보였다."
   },
   {
     "company": "STMicroelectronics",
@@ -4352,14 +4368,6 @@
     "summary": "코리아써키트가 메모리 3사와 Broadcom의 수요에 힘입어 FC-BGA 쇼티지 수혜를 입고 사상 최대 실적을 기록했다."
   },
   {
-    "company": "Apple",
-    "title": "애플, 차세대 OLED HMO 증착 방식 저울질 - 디일렉",
-    "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE94TTNZNUIwTmZNYWZiMnZkSGZ0V3IxVXhvRWx0bzl5NkZtWGZydFI4eXoyMXJRSjFRYXZvZWRySEFGem5mZWxxVWtLTEJsYnNTZkdJOVN4QTdsMzBBM1NuVHF1N0VRZw?oc=5",
-    "published": "2026-11-03 06:43",
-    "timestamp": 1793655787,
-    "summary": "애플이 차세대 OLED 디스플레이를 위한 HMO 증착 방식을 검토하고 있다."
-  },
-  {
     "company": "Lattice",
     "title": "래티스 세미컨덕터, 3분기 매출 2억 9104만 달러로 전년 대비 118% 증가…역대 최대 - 데이터투자",
     "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTFBRcVRsY1FhSDVjWmd3ME9tVlJNd3BzOVY4UTBFbmRaY29GUUY0MXhPUnJZMVJhT19qck9nR2htX0N4Mll2NWpHMzRpa3gydldldG9Hd1BCNkFTZ19UUk1KeHB5bjJyN1cxWWkyZTFLMy05Yms?oc=5",
@@ -5614,14 +5622,6 @@
     "published": "2026-10-28 14:50",
     "timestamp": 1793166600,
     "summary": "퓨리오사AI가 미국에서 410억 원 규모의 지분 매각을 완료하며 투자 유치에 속도를 내고 있다."
-  },
-  {
-    "company": "Microsoft",
-    "title": "마이크로소프트, AMD·퀄컴 신형 칩서 플루톤 TPM 기능 제외 - 케이벤치",
-    "link": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE5ILTdfY203NGh1cUNJc0NJTnNyYWxOdThHSG1IOUZHSUtBWWJwQ0dBNmtNNWVXN0tOcU5WSTNmWWhrMi1oTklIeA?oc=5",
-    "published": "2026-10-28 14:46",
-    "timestamp": 1793166381,
-    "summary": "마이크로소프트가 AMD와 퀄컴의 신형 칩에서 플루톤 TPM 기능을 제외했다."
   },
   {
     "company": "알파칩스",
@@ -7566,45 +7566,5 @@
     "published": "2026-10-16 04:42",
     "timestamp": 1792093376,
     "summary": "일본이 GlobalFoundries에 210억 달러를 투자하여 뉴욕에 두 개의 새로운 팹을 건설한다."
-  },
-  {
-    "company": "Analog Devices",
-    "title": "아나로그디바이스(ADI), 모엣 헤네시 및 UC 데이비스와 함께 AI 기반 혁신적 화학 특성 감지 기술을 통해 와인 생산 고도화 - 올포칩",
-    "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFB1M2tIQ0xaLUhVT0I2WFprMF9pcnBtRzJVTE9ObVdpaEpsUUFlbkRXeTF2MHFtMXpRbWppZ2hNTl9ocjlTeFdQczdpNTRpWFJ1c2hMeTFrM2dDMDdRRUhYVg?oc=5",
-    "published": "2026-10-16 04:00",
-    "timestamp": 1792090850,
-    "summary": "아나로그디바이스(ADI)가 모엣 헤네시 및 UC 데이비스와 협력하여 AI 기반 화학 특성 감지 기술을 도입한다. 이를 통해 와인 생산 공정을 고도화할 예정이다."
-  },
-  {
-    "company": "MediaTek",
-    "title": "바이트댄스, 데이터센터용 미디어텍 커스텀 AI 칩 구매 임박 - Cryptopolitan",
-    "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE84MWRsX1E2Vmh1WWNTdS1FZi00Z0k3S2NXVHFCbGFwdHZQM0NvRE5ycmdJQ2ZBUUhUQTBoeU5PcTVfLTFsV0lJN0hSeVRlaGl6Skhtd2pNZ3RuOTE4OTFJNlJvbWZKZmdhX2FPNFNkQnFmR3JTekd6azZGNDNZUQ?oc=5",
-    "published": "2026-10-16 02:29",
-    "timestamp": 1792085340,
-    "summary": "바이트댄스가 데이터센터용으로 사용할 미디어텍의 커스텀 AI 칩 구매를 앞두고 있다."
-  },
-  {
-    "company": "가온칩스",
-    "title": "가온칩스, Arm 피지컬 AI 파트너로 합류...설계-양산 지원 - 디일렉",
-    "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE8zWGhtMFdnMTJLREtpQWhOQ0VpRHdvYnhTTmlhYmM3c2JSY1p4TjhVcUgyZmd5NWJBdmdHOFJxblphR21tb0RDamhPOXNJRllVNGh3RkVhVm1TVzR4T0FEa3lzWDVFUQ?oc=5",
-    "published": "2026-10-16 00:01",
-    "timestamp": 1792076481,
-    "summary": "가온칩스가 Arm의 피지컬 AI 파트너로 합류했다. 이를 통해 설계부터 양산까지 전 과정을 지원한다."
-  },
-  {
-    "company": "Siemens",
-    "title": "Siemens와 TDK 일렉트로닉스가 현실 세계에 AI를 도입해요 - Siemens",
-    "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPRVNpR1FMSmV1R2RraTFEQjl2Vmg3UnRhd1g2YlE5SG9Vb2s1RVNHTk5VNy1rZy0xaExkY010enNNdlE2R0dfVGc1OV9URy1lYzlHd3A5TnhhR3lTRVo3WTVuMWpXQks1QzRQZDRKS1BIZUlrV1ZCUHh1TVEwUndER3hySmxsYmJOQ0xJelFTUkZaR0ZrMm1VTzA5Y1Y1Ymd2aHc?oc=5",
-    "published": "2026-10-15 22:39",
-    "timestamp": 1792071572,
-    "summary": "Siemens와 TDK 일렉트로닉스가 협력하여 현실 세계에 AI 기술을 도입한다."
-  },
-  {
-    "company": "Synopsys",
-    "title": "Synopsys Collaborates with 4 Gyeonggi Fabless Companies Including DeepX to Support Growth of AI and Semiconductor Startups - 벤처스퀘어",
-    "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE51U1BBY0tNQ0g2cjRudjRNTTRwczd4c3ZVaUt5ZUlyRTA5Wm9DcHFNSVRkR0dESG1IR1JyZE1uRUJ2cjNjeE1TZ0Y0RHBHejhVUXc4?oc=5",
-    "published": "2026-10-15 22:31",
-    "timestamp": 1792071103,
-    "summary": "Synopsys가 DeepX를 포함한 경기도 소재 팹리스 기업 4곳과 협력하여 AI 및 반도체 스타트업의 성장을 지원한다."
   }
 ]
