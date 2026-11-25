@@ -1,5 +1,45 @@
 [
   {
+    "company": "딥엑스",
+    "title": "딥엑스 \"엔비디아 로봇 SW 호환 시험 통과…인텔·AMD와 협력 확대\" - 아이뉴스24",
+    "link": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE4xUFgzbnRUX2k4SlNZZ2VHT0lEQjJTdHpQMjNaRUp6cndFSUZSSDZGUlNJaGd6QTZQWkFsV2pzREhQTlE5Z2lXYzkydw?oc=5",
+    "published": "2026-11-25 21:06",
+    "timestamp": 1795608412,
+    "summary": "딥엑스가 엔비디아 로봇 소프트웨어 호환 시험을 통과했으며, 인텔 및 AMD와 협력을 확대한다."
+  },
+  {
+    "company": "Intel",
+    "title": "“마이크로소프트 잡았지만 구글 놓치나”… 인텔, 첨단 패키징 수율 난항 - Chosunbiz",
+    "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxQcGdoVlplYmRjT3h4MjA4c0hTaFRYOWpyVkRUSFkya0N4QkJISUphU1NsVndLamtUeHMwV1ZjT1FRNWZRUEl6RkhLRTRlUnk3QTEwcWszaXVCNzJvWnFkc19xZ3Y2ZmpFb1pUTjlFaU5pZ0tOZ00tWURrdG9vb1ZJRVVB0gGWAUFVX3lxTE1najdJU2hfY01xUGUybmdLTWdQVnAtcXBrS3ZUQ3dKcUYtMFMzS2tlZXR0LUozamRVXzdWd3QyMF9aM0FzdG5ITjV6SXgxXzVkYUdIOEI5aXppVFFWcDFBT004aEI1RzAzUVQzbE5HQnRvczZGaV9YZXkwYmpINldESWNMalhqMUdDWGIwMjZ6NlVNS294UQ?oc=5",
+    "published": "2026-11-25 15:47",
+    "timestamp": 1795589220,
+    "summary": "인텔이 마이크로소프트의 파운드리 고객사 확보에는 성공했으나, 첨단 패키징 수율 문제로 구글 수주에는 난항을 겪고 있다."
+  },
+  {
+    "company": "AMD",
+    "title": "AMD Radeon RX 9060 XT, GPU 주파수 기록 4.837 GHz 달성 - Mezha.net",
+    "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQYzBkMGcxeTJJTTFFN0l1OEctME9xMVBsOFJyeU0xaEhXU1BzQmh2dENfSTk5VFFFaGw3Vjh6MDJON2FNU3RGY0RhbUtqRUZzSGFKOUkycnduc0VxcUQ4d190NkcxdUxkN3pndEdHTnp4eVJwU0ZjRUVlamw3Uk1CS1A1cTI0TjlKQ0djYQ?oc=5",
+    "published": "2026-11-25 13:33",
+    "timestamp": 1795581180,
+    "summary": "AMD의 Radeon RX 9060 XT GPU가 4.837 GHz의 주파수 기록을 달성했다."
+  },
+  {
+    "company": "AMD",
+    "title": "델 테크놀로지스-AMD, ‘AI 구축 옵션’ 확대 - BI KOREA",
+    "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFBBdEhOU2xuT182c0tyekMyaVpWZVRrZ2tXVnllTUNjTk1BVnFEMTBKRnEzb1U4WWdNSEVNNVhmdlYwZTFQY1pHWnMyWXJQZnRrcFhnZUNIUk1LUThPNmpONlpxOWFwdw?oc=5",
+    "published": "2026-11-25 12:33",
+    "timestamp": 1795577633,
+    "summary": "델 테크놀로지스와 AMD가 AI 구축 옵션을 확대한다."
+  },
+  {
+    "company": "OpenAI",
+    "title": "[AI스토리] 中 즈푸AI, 오픈AI 이어 '루프 트랜스포머' 도입…AI 모델 대형화 공식 바뀔까 - 이코노미트리뷴",
+    "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE96eWUwcjl1Y0NGTmw2TndUR0haTzFEbmxCakV6cUhtNXc1OVQxWDJFUmEzM2VMblFTT2NVaGJkMlF5RDNjR1paam1sdGNJZThFSVAxMXlVdjlYLUxIMVpURGhPNE5leFpPSXc4SjJ4VXZtWGtHN0Jj?oc=5",
+    "published": "2026-11-25 10:48",
+    "timestamp": 1795571312,
+    "summary": "중국 즈푸AI가 오픈AI에 이어 루프 트랜스포머 기술을 도입함에 따라 AI 모델 대형화 공식의 변화 가능성이 제기되고 있다."
+  },
+  {
     "company": "TSMC",
     "title": "삼성 안방 美텍사스에 TSMC도 진출…테슬라 물량 노린다 - 조선일보",
     "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQRkNyZlpFYXg4blM1WWFVNzZsUGtTMGhEeWh6eko2ZHNUVEZZLUNrV2x4U3M0ZzR5ck5WNTBxYVdzUy1uZDF3cTBzWWd3OTJKWkpJcE5PaWI4QzFISklMZUd1RXd2SnAzVF9nbWEtc3pRQzcxRTZydW5zRW94Q0ZVS1c1SQ?oc=5",
@@ -438,6 +478,14 @@
     "published": "2026-11-24 06:00",
     "timestamp": 1795467600,
     "summary": "F1 레이싱 분야에서 맥라렌은 인텔과, 메르세데스는 AMD와 기술 협력을 진행하며 첨단기술 경쟁을 벌이고 있습니다."
+  },
+  {
+    "company": "리벨리온",
+    "title": "리벨리온·패러세일, AI 추론 효율 경쟁에 승부수 - Traders Union",
+    "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPTXl3STFPdnFsME9xMm45VGRuTG9OalQ2OVI1ZUc1UWdzWXZCdFo4Zi14SXVDVXp5YWpnZU1WTjVRZldic1o3Qzh0akE1OXZHa1BIWmhlSmxON2prUUE3LW1nOF9uV1hMbXl1MEFlS1A3X0FrYmVOa1ZUOElDaHhma0l6OE41MGdHbFZ0LUZ2dEJjUjhfMllz?oc=5",
+    "published": "2026-11-24 05:33",
+    "timestamp": 1795466015,
+    "summary": "리벨리온과 패러세일이 AI 추론 효율 경쟁을 위해 승부수를 띄웠다."
   },
   {
     "company": "리벨리온",
@@ -1976,14 +2024,6 @@
     "summary": "마이크로소프트와 오픈AI가 엔비디아에 대한 의존도를 낮추기 위해 칩 공급망 다변화를 추진하고 있다."
   },
   {
-    "company": "Intel",
-    "title": "SC26에서 실시간 서버 시연에 등장한 Intel Diamond Rapids CPU - Mezha.net",
-    "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOdUQyWS1xakZKOGYwOERWTlUtVDVWa3ZSZkRESFhiYWpqQnNQZnR3WTBhcHpKS2ZtNXhqbFF5cGl4VUVBeWRfaEFFVWtsazlBbjR6am5zYzNsc2Rxd09fRXBrcjlraGNCcjJnTGZNOU50LUtiaE1qbmoxbDdWNWlEaDcwSXpfZE1YOEZJSlFjSWRlMlNFWkNVYg?oc=5",
-    "published": "2026-11-19 13:37",
-    "timestamp": 1795063020,
-    "summary": "SC26 행사에서 인텔의 Diamond Rapids CPU가 실시간 서버 시연에 등장했다."
-  },
-  {
     "company": "Apple",
     "title": "애플, 아이맥 OLED 탑재 백지화 검토 - 디일렉",
     "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE1pNzZkN1lhTEliYjIwMkNlZzZ2TDZWc1BCRDdacW9Wb0FCWmE5QUs0VG8zTlA1VHBEU291dEFFYkgtZW5rWmpXaVNVdjRoeVdlTjRjeHFCU3dkejY4MUVLMlkxTnF5Zw?oc=5",
@@ -2022,14 +2062,6 @@
     "published": "2026-11-19 11:32",
     "timestamp": 1795055524,
     "summary": "아나패스가 관계기업인 지씨티리써치에 101억 2,000만 원 규모의 담보를 제공했다."
-  },
-  {
-    "company": "AMD",
-    "title": "AMD, 29억 달러 규모 탈라스 인수 마무리...AI 추론 칩 확보 - 더에이아이",
-    "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTFBmQ21yRDJlYXhWc0FjVkpGUi1ic01qQjRxSjN0X3ZXQkRLYmI2N0dIaGFNSzdQd3N5Q0VnOVFIWmlyTjU0dVg1cG85NXh5VGhJYXFlYnlCbnVnOE1HaHdNQXEycFVBeTZaQm93?oc=5",
-    "published": "2026-11-19 10:53",
-    "timestamp": 1795053205,
-    "summary": "AMD가 29억 달러 규모의 탈라스 인수를 마무리했다. 이번 인수를 통해 AI 추론 칩 역량을 확보했다."
   },
   {
     "company": "OpenAI",
@@ -2110,14 +2142,6 @@
     "published": "2026-11-19 08:00",
     "timestamp": 1795042800,
     "summary": "오픈AI와 앤스로픽의 파장이 반도체 기업 브로드컴에 미치는 기회 요인을 분석한다. 젠슨 황의 머니게임 종료 이후의 시장 변화를 다룬다."
-  },
-  {
-    "company": "AMD",
-    "title": "AMD(AMD.O), 전세계 슈퍼컴퓨터 40%에 기술 공급…HPC 시장 입지 확대 - 알파경제",
-    "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTFB1cHBxalFDS2dya0c5SWs5SzhrbGRfd1hvS21vaTd0NE1zTGJpc000Z1FhUUg0cWI1WnplOEZySUdwQk5KXzBDNHVMb1R4SXdZNTkzY3YzS0lQVXJEd2dNVHhIU2k1dUFFVGdOdmZR?oc=5",
-    "published": "2026-11-19 07:44",
-    "timestamp": 1795041888,
-    "summary": "AMD가 전 세계 슈퍼컴퓨터의 40%에 기술을 공급하며 고성능 컴퓨팅(HPC) 시장에서의 입지를 확대하고 있다."
   },
   {
     "company": "딥엑스",
@@ -4288,14 +4312,6 @@
     "summary": "TI가 임베디드 칩에 NPU를 탑재합니다. 박중서 대표는 구상부터 양산까지 전 과정을 지원하겠다고 밝혔습니다."
   },
   {
-    "company": "딥엑스",
-    "title": "[주간스타트업동향] 딥엑스, 삼성 2나노 기반 생성형 AI 반도체 ‘DX-M2’로 CES 2027 혁신상 수상 外 - 동아일보",
-    "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFBPMm1URVZTbDJnWFJkWko2QTNwekdkak1lR0pPamp4VmlCelJqLXpiOXZhc2JITHp4OFQwbkJydFczVmU1cEJrLVc5dXdERHhMTjBraUZkTHdhV19sZjhyTEJQLXBNUdIBZkFVX3lxTFBPMm1URVZTbDJnWFJkWko2QTNwekdkak1lR0pPamp4VmlCelJqLXpiOXZhc2JITHp4OFQwbkJydFczVmU1cEJrLVc5dXdERHhMTjBraUZkTHdhV19sZjhyTEJQLXBNUQ?oc=5",
-    "published": "2026-11-11 16:47",
-    "timestamp": 1794383253,
-    "summary": "딥엑스가 삼성 2나노 기반 생성형 AI 반도체 DX-M2로 CES 2027 혁신상을 수상했다."
-  },
-  {
     "company": "Samsung Foundry",
     "title": "메모리 호황 뒤 기지개… 삼성 파운드리 `美 빅테크 수주 발판` - 디지털데일리",
     "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE1mUFVPaVJJNk5zUC0yWlNUUXUzSVVsNWp5NUx1c0tUd04yQXpsYndHVjNBeDkwR09FeWhmM05IOENxUXVWcFB6eHdwR3RiRDVsNFVnaDdpdVhtYlVrTmpyRzlEXzQ?oc=5",
@@ -5904,14 +5920,6 @@
     "summary": "패러데이가 UMC 공정용 EtherCAT 대응 이더넷 PHY IP를 공개했습니다. 이는 휴머노이드 및 스마트공장의 실시간 통신 인프라를 겨냥한 기술입니다."
   },
   {
-    "company": "OpenAI",
-    "title": "48% 절감 보고한 오픈AI, 반도체 테스트 사례 공개 - 토큰포스트",
-    "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBzQUtNMTF4Q0hhTVJBNjZRWkJQOWdIdXltSVFoNC14MjdkQ01JS1BaYlNjcUItMHB4UHI4bU9pWm9ob001Z2poSmtjU1FmT0xJYjhRYXdR0gFWQVVfeXFMUHNBS00xMXhDSGFNUkE2NlFaQlA5Z0h1eW1JUWg0LXgyN2RDTUlLUFpiU2NxQi0wcHhQcjhtT2lab2hvTTVnamhKa2NTUWZPTEliOFFhd1E?oc=5",
-    "published": "2026-11-04 04:18",
-    "timestamp": 1793733525,
-    "summary": "오픈AI가 반도체 테스트 사례를 공개하며 비용을 48% 절감했다고 보고했다."
-  },
-  {
     "company": "SambaNova",
     "title": "Supermicro, SambaNova 기반 AI 추론 시스템 구축·판매 - Unite.AI",
     "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPejM0OHlsWVpxc0x6cngzUWhkNFJ3QTl3dXU2Q2JqQnZYZ3FVOE4wX19tSXVUY3VoejhpeDRybEE3T0pkWWdmWWdmVE54R2RycXVGeHlmU0tJTUM3SzYwYW1BYkNEOXNIeWN1R2pNWWRUTkY4RmJiUWI4eUJBZ1dxVTBNdFFVZS1sVDVtd0NydWc0LU0wbGxR?oc=5",
@@ -7494,53 +7502,5 @@
     "published": "2026-10-27 04:42",
     "timestamp": 1793043759,
     "summary": "마우저와 마이크로칩이 사이버 복원력법과 관련된 새로운 전자책을 공동 발간했다."
-  },
-  {
-    "company": "Meta",
-    "title": "메타, AI 투자에 950억달러 조달…반도체 3사도 '지원사격' - 파이낸셜뉴스",
-    "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5fN0xWZnF4bEFNUThQeGduSXdRT0FrRVNkcDNkdU5CMlJCUGZEWk5XTzhvSHdWUm1vSzdYTktOdm4xYnRRSXpZdE1DOWY0R2g0WG9KS1lrb1VtUQ?oc=5",
-    "published": "2026-10-26 21:45",
-    "timestamp": 1793018708,
-    "summary": "메타가 AI 투자를 위해 950억 달러를 조달하며 반도체 3사의 지원을 받는다."
-  },
-  {
-    "company": "Siemens",
-    "title": "공장 보안 및 현대화: SIMATIC PCS7 업그레이드 - Siemens",
-    "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE1keE8zOGdLVUR6MHF5cDVZSW13OXNIYXBfX0dPY0R6OWhYd3N5LTVrZlZOek9ZbE1MVmo0LVhxUHpoNXEwZXRlV2gxV1ZSQmJRdEhKeFBhQVRHR04xeEtGUEtJdEdnYjM0cHB3N2F2VQ?oc=5",
-    "published": "2026-10-26 19:05",
-    "timestamp": 1793009144,
-    "summary": "Siemens의 SIMATIC PCS7 업그레이드를 통한 공장 보안 강화 및 현대화 추진 내용입니다."
-  },
-  {
-    "company": "NXP",
-    "title": "Volkswagen, NXP와 차량용 반도체 기술 협력 - Investing.com 한국어",
-    "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE52cS1zRnBWZGgxckx3SnJqRnh4akpybUZiUG9xZVNUWmxoMllDT1FOZ3YwblVUdkgxQlR4SVJJQ2lMelBzZGN6MmRiYmZ0eXJhOW9LdGJmeW9BMm5aaGlkSUdEZnhhaXF6RGJhaE1BR0Y?oc=5",
-    "published": "2026-10-26 18:05",
-    "timestamp": 1793005500,
-    "summary": "폭스바겐이 NXP와 차량용 반도체 기술 분야에서 협력을 진행한다."
-  },
-  {
-    "company": "Microchip",
-    "title": "마우저-마이크로칩, 사이버 복원력법 관련 새로운 전자책 발간 - CEO경제신문",
-    "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5QdWU2bzlMUTctWU9BVng0VlVWc3FxZ1pYcDVCbHJUdS15cnJ3VW1pOVlxdXFRLTZRRmFIOW5qMDVTRE00R2lCeUlYdm9pRlpzMmZJN3pRSWthMzRmd21EVjAwVWR1cng5cHFfdw?oc=5",
-    "published": "2026-10-26 16:06",
-    "timestamp": 1792998360,
-    "summary": "마우저와 마이크로칩이 EU의 사이버 복원력법 대응을 위한 새로운 전자책을 공동 발간했다."
-  },
-  {
-    "company": "Kioxia",
-    "title": "SK하이닉스, '키오시아 지분 차익 16조 특별배당' 보도에 \"확정사항 없다\" - 지디넷코리아",
-    "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1TT1NrOFI1S3ZFbmdURlJmYWVfdTNVT0Y3VDUtaVQ5N3RvWW5URWs0T05qSm9pSmVETWF3U0RLMGdkSnU5RkZORW5qajhTNm1QLU9qM2d3?oc=5",
-    "published": "2026-10-26 14:51",
-    "timestamp": 1792993862,
-    "summary": "SK하이닉스가 키오시아 지분 차익 16조 원 특별배당설에 대해 확정된 사항이 없다는 입장을 밝혔다."
-  },
-  {
-    "company": "Tenstorrent",
-    "title": "펀딩 주간 | Mural, Tether 리드로 1,500만 달러 시리즈 A 완료…AI 칩 스타트업 Tenstorrent는 15억 달러 시리즈 E 완료 - PANews",
-    "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1GdTdacnV3SEQzeG1pUDZ2M25uUlExOTlmOE4yaS1EZG81Nk9vLUU2NVpMUU9vN1AxelhKeGMtMVZIbEVuWUY4Qm9yYW5EZU1UTUNYVkY2V3NfNV9Iako4S21LTjJUcjAtaFpGXzRweGR5MzFuZnRTNmdOZmF1alU?oc=5",
-    "published": "2026-10-26 12:10",
-    "timestamp": 1792984259,
-    "summary": "AI 칩 스타트업 Tenstorrent가 15억 달러 규모의 시리즈 E 투자를 완료했다."
   }
 ]
